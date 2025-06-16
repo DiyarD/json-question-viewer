@@ -1,0 +1,424 @@
+{
+    "chapter_name": "Perioperative Care Part II",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "Parenteral direct thrombin inhibitor",
+            "options": [
+                "A. Apixaban",
+                "B. Dabigatran",
+                "C. Argatroban",
+                "D. Rivaroxaban",
+                "E. Idarucizumab"
+            ],
+            "answer": "C",
+            "explanation": "- Parenteral direct thrombin inhibitors include bivalirudin, argatroban, and desirudin.\n- Argatroban is a parenteral direct thrombin inhibitor."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "Oral direct thrombin inhibitor metabolized by the kidneys",
+            "options": [
+                "A. Apixaban",
+                "B. Dabigatran",
+                "C. Argatroban",
+                "D. Rivaroxaban",
+                "E. Idarucizumab"
+            ],
+            "answer": "B",
+            "explanation": "- Dabigatran is an oral direct thrombin inhibitor.\n- It should be used with caution in patients with renal insufficiency because it is metabolized by the kidneys."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "Direct Factor Xa inhibitor recommended for patients with low creatinine clearance",
+            "options": [
+                "A. Apixaban",
+                "B. Dabigatran",
+                "C. Argatroban",
+                "D. Rivaroxaban",
+                "E. Idarucizumab"
+            ],
+            "answer": "A",
+            "explanation": "- Apixaban is a Factor Xa inhibitor.\n- It can be given to patients with renal insufficiency because it has hepatic clearance."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "Oral Factor Xa inhibitor to avoid in patients with a low creatinine clearance",
+            "options": [
+                "A. Apixaban",
+                "B. Dabigatran",
+                "C. Argatroban",
+                "D. Rivaroxaban",
+                "E. Idarucizumab"
+            ],
+            "answer": "D",
+            "explanation": "- Rivaroxaban is a Factor Xa inhibitor.\n- It is metabolized by the kidney and is not recommended for patients with low glomerular filtration rates (creatinine clearance <30 mL/minute)."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "Prophylactic antibiotic for a fundoplication in a high-risk patient",
+            "options": [
+                "A. Cefoxitin",
+                "B. Cefazolin",
+                "C. Cefepime",
+                "D. No antibiotics",
+                "E. Vancomycin"
+            ],
+            "answer": "B",
+            "explanation": "- Fundoplication is considered a clean case.\n- Prophylaxis for procedures without entry into the gastrointestinal tract is indicated for high-risk patients.\n- Cefazolin is an appropriate agent for prophylaxis in these cases."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "Prophylactic antibiotic for a hernia repair",
+            "options": [
+                "A. Cefoxitin",
+                "B. Cefazolin",
+                "C. Cefepime",
+                "D. No antibiotics",
+                "E. Vancomycin"
+            ],
+            "answer": "B",
+            "explanation": "- Hernia repair is considered a clean case.\n- Prophylaxis for procedures without entry into the gastrointestinal tract is indicated for high-risk patients.\n- Cefazolin is an appropriate agent for prophylaxis in these cases."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "Prophylactic antibiotic for a laparoscopic, low-risk, elective biliary tract procedure",
+            "options": [
+                "A. Cefoxitin",
+                "B. Cefazolin",
+                "C. Cefepime",
+                "D. No antibiotics",
+                "E. Vancomycin"
+            ],
+            "answer": "D",
+            "explanation": "- Elective, low-risk laparoscopic biliary tract procedures do not require prophylaxis.\n- The biliary tract is usually sterile, and antimicrobial prophylaxis confers no benefit in these cases."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "Prophylactic antibiotic for a laparoscopic or open uncomplicated appendectomy",
+            "options": [
+                "A. Cefoxitin",
+                "B. Cefazolin",
+                "C. Cefepime",
+                "D. No antibiotics",
+                "E. Vancomycin"
+            ],
+            "answer": "A",
+            "explanation": "- Cefoxitin is a recommended agent for prophylaxis in uncomplicated appendicitis.\n- If cefazolin is selected, it should be combined with metronidazole."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "Prophylactic antibiotic for a noncardiac thoracic procedure",
+            "options": [
+                "A. Cefoxitin",
+                "B. Cefazolin",
+                "C. Cefepime",
+                "D. No antibiotics",
+                "E. Vancomycin"
+            ],
+            "answer": "B",
+            "explanation": "- Typical organisms from surgical site infections in thoracic procedures are Staphylococcus aureus and Staphylococcus epidermidis.\n- Cefazolin is commonly used with low SSI rates for these procedures."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "Prophylactic antibiotic for an elective ventriculoperitoneal shunt insertion",
+            "options": [
+                "A. Cefoxitin",
+                "B. Cefazolin",
+                "C. Cefepime",
+                "D. No antibiotics",
+                "E. Vancomycin"
+            ],
+            "answer": "B",
+            "explanation": "- Antimicrobial prophylaxis is beneficial in clean surgical procedures with a high risk of infection, such as prosthetic implants or ventriculoperitoneal shunt insertion, where the consequences of infection would be devastating.\n- Cefazolin is appropriate prophylaxis for these cases."
+        },
+        {
+            "id": 11,
+            "question_type": "clinical_scenario",
+            "question": "A 72-year-old man presents with rectal cancer and is scheduled for an open low anterior resection. He is on apixaban for atrial fibrillation. His only other medical issue is hypertension. What is appropriate management of his anticoagulation around the procedure?",
+            "options": [
+                "A. Continue anticoagulation through the procedure.",
+                "B. Hold anticoagulation 24 hours before the procedure; restart anticoagulation the evening of the procedure.",
+                "C. Hold anticoagulation 48 hours before the procedure; restart anticoagulation 24 hours after the procedure.",
+                "D. Hold anticoagulation for 5 days before the procedure; do not bridge with heparin; restart anticoagulation 24 hours after the procedure.",
+                "E. Hold anticoagulation for 5 days before the procedure with heparin bridge; restart anticoagulation 48 hours after the procedure; continue heparin for 5 days after the procedure."
+            ],
+            "answer": "C",
+            "explanation": "- Direct oral anticoagulation (DOAC) use is increasing, with rapid onset and predictable effects.\n- For surgery, DOACs are held for 2 to 3 half-lives for minor surgery and 4 to 5 half-lives for major surgery.\n- Apixaban has a half-life of 12 hours.\n- The patient has a CHADS2 score of 1 (hypertension), so bridging is not needed.\n- The patient is having major surgery, so apixaban should be held for 4 to 5 half-lives or 2 days (48 hours) before the procedure.\n- It is safe to restart anticoagulation 24 hours after a major procedure, barring perioperative bleeding."
+        },
+        {
+            "id": 12,
+            "question_type": "clinical_scenario",
+            "question": "A 57-year-old woman was diagnosed with adenocarcinoma of the right colon and is scheduled to undergo a laparoscopic right hemicolectomy. She currently takes 5 mg of prednisone each morning for rheumatoid arthritis. Appropriate perioperative management of her steroids would be",
+            "options": [
+                "A. hold prednisone the day before surgery, then restart the day of surgery.",
+                "B. continue prednisone at her normal dose perioperatively.",
+                "C. increase prednisone to 10 mg/day for 5 days after surgery.",
+                "D. give 100 mg of hydrocortisone the day of surgery, then restart normal prednisone dose.",
+                "E. give 100 mg of hydrocortisone the day of surgery, then 50 mg intravenously every 8 hours for 3 days after, then restart normal prednisone."
+            ],
+            "answer": "B",
+            "explanation": "- Chronic glucocorticosteroid administration can affect the hypothalamic-pituitary-adrenal axis, leading to adrenal atrophy and decreased cortisol production, which can cause hypotension during stress.\n- Normal adrenal glands produce 10-15 mg cortisol/day, increasing to 300 mg/day under extreme physiologic stress.\n- Initial \"stress dose steroid\" recommendations (100 mg hydrocortisone 3 times daily) are no longer universally applied.\n- Patients undergoing laparoscopy secrete an average of 50 mg of cortisol.\n- Recent studies show patients undergoing surgery do not need stress dose steroids; they should be able to continue their maintenance dosing schedule.\n- There is no indication to increase or decrease the steroid dose if it adequately manages the patient's condition."
+        },
+        {
+            "id": 13,
+            "question_type": "clinical_scenario",
+            "question": "A 62-year-old man with a complex abdominal wall hernia is scheduled to undergo an abdominal wall reconstruction that will require skin flaps for skin closure. What will decrease his incidence of skin flap necrosis?",
+            "options": [
+                "A. Preoperative hyperbaric oxygen",
+                "B. High-protein diet",
+                "C. Zinc supplementation",
+                "D. Smoking cessation",
+                "E. Glucose control optimization"
+            ],
+            "answer": "D",
+            "explanation": "- Wound healing is influenced by tissue blood flow, bacteria, tissue handling, and immunologic response.\n- Smoking causes microvascular vasoconstriction, affecting blood flow to the wound and increasing wound infection rates and skin/muscle flap necrosis.\n- Quitting smoking before surgery increases blood flow, decreasing wound infection and skin flap necrosis.\n- Hyperbaric oxygen is used to improve healing but has no evidence for preventing wound complications preoperatively.\n- No evidence that a high-protein diet initiated before surgery affects wound healing.\n- Vitamins A and C are important for collagen synthesis and cross-linking; zinc is involved in enzymatic activity.\n- Optimizing glucose control impacts wound healing and infection; increased glucose levels decrease neutrophil function."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "Cleansing of the operation site with chlorhexidine-alcohol.",
+            "options": [
+                "A. No evidence exists",
+                "B. Evidence exists but is inconclusive",
+                "C. Evidence exists and favors use",
+                "D. Evidence exists and does not favor use",
+                "E. Level I evidence"
+            ],
+            "answer": "C",
+            "explanation": "- Evidence-based medicine uses the best available evidence.\n- Meta-analysis and Cochrane review favored chlorhexidine-alcohol over aqueous povidone-iodine for operative site cleansing."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "Wearing surgical scrubs.",
+            "options": [
+                "A. No evidence exists",
+                "B. Evidence exists but is inconclusive",
+                "C. Evidence exists and favors use",
+                "D. Evidence exists and does not favor use",
+                "E. Level I evidence"
+            ],
+            "answer": "B",
+            "explanation": "- Some practices, like wearing surgical attire, have little or no supportive evidence through clinical trials but are guided by common sense.\n- There is little evidence that wearing surgical scrubs contributes to a reduction in surgical site infection."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "Covering the wound with a dressing.",
+            "options": [
+                "A. No evidence exists",
+                "B. Evidence exists but is inconclusive",
+                "C. Evidence exists and favors use",
+                "D. Evidence exists and does not favor use",
+                "E. Level I evidence"
+            ],
+            "answer": "B",
+            "explanation": "- There is no compelling evidence that protecting a surgical wound with a dressing after case completion significantly benefits.\n- Surgical site infection rates are similar whether the wound is uncovered, covered for 48 hours, or less than 48 hours."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "Disinfecting the intravenous catheter hub.",
+            "options": [
+                "A. No evidence exists",
+                "B. Evidence exists but is inconclusive",
+                "C. Evidence exists and favors use",
+                "D. Evidence exists and does not favor use",
+                "E. Level I evidence"
+            ],
+            "answer": "E",
+            "explanation": "- \"Scrub the hub\" or IV catheter hub disinfection before injection has good evidence, including randomized controlled trials, supporting it.\n- This is Level I evidence."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "During a single surgical case, which of the following interventions decreases surgical site infection?",
+            "options": [
+                "A. Decreased operating room personnel turnover",
+                "B. Wound closure with tissue adhesive versus sutures",
+                "C. Use of high FiO2 intraoperatively",
+                "D. Disposable bouffant hats",
+                "E. Preoperative chlorhexidine bathing"
+            ],
+            "answer": "A",
+            "explanation": "- The best evidence supports minimizing staff turnovers in the operating room, which is an independent variable associated with increased surgical site infections.\n- Tissue adhesives vs. sutures: No significant difference in SSI rates, but more wound dehiscence with adhesives.\n- High oxygen tension: Randomized trials and meta-analyses on SSI prevention are contradictory.\n- Operating room hats: No difference in SSI based on hat type; a recent study suggested cloth skull caps are associated with less risk than disposable caps.\n- Preadmission showering with antiseptic agent: Inconclusive for SSI prevention."
+        },
+        {
+            "id": 19,
+            "question_type": "clinical_scenario",
+            "question": "A 73-year-old woman with a history of chronic nonvalvular atrial fibrillation treated with dabigatran is diagnosed with a 3-cm bleeding gastric adenocarcinoma. Her medical history includes noninsulin-dependent diabetes mellitus. She wishes to undergo partial gastrectomy for her cancer. Which of the following recommendations should you make?",
+            "options": [
+                "A. Convert from dabigatran to rivaroxaban preoperatively",
+                "B. Convert to therapeutic heparin bridging anticoagulation before surgery",
+                "C. Stop dabigatran 2 days before surgery",
+                "D. Continue dabigatran",
+                "E. Convert to warfarin before surgery"
+            ],
+            "answer": "C",
+            "explanation": "- International guidelines exist for long-term stroke prophylaxis in atrial fibrillation.\n- For surgical procedures, dabigatran therapy can be interrupted without heparin bridging due to its rapid offset (half-life: 12-17 hours) and rapid onset.\n- Stopping and starting dabigatran would result in a 2- to 4-day period of subtherapeutic anticoagulation.\n- The RE-LY trial showed significantly more major bleeds with heparin bridging and no difference in stroke/systemic embolism risk.\n- There is no justification for switching from a direct oral anticoagulant to warfarin."
+        },
+        {
+            "id": 20,
+            "question_type": "clinical_scenario",
+            "question": "A 72-year-old woman undergoes sigmoid resection for carcinoma. Her medical history is significant for rate-controlled atrial fibrillation. On postoperative day 1, the patient's urine output is 0.5 mL/kg/hour while her serum creatinine doubles. Which of the following statements about her 30-day mortality risk is true based on her change in renal function?",
+            "options": [
+                "A. The severity of her acute kidney injury correlates with her mortality risk. B Acute kidney injury within the first day after surgery increases her mortality risk.",
+                "B. Postoperative hydration will improve her survival.",
+                "C. Sodium bicarbonate infusion will lower her mortality risk.",
+                "D. Decreased C-reactive protein levels are associated with increased risk."
+            ],
+            "answer": "A",
+            "explanation": "- Perioperative acute renal failure (AKI) is a leading cause of morbidity and mortality.\n- AKI is classified into stages based on the degree of increase in serum creatinine.\n- There is a dose-response relationship between mortality and AKI severity (higher mortality with higher AKI stages).\n- Elevated C-reactive protein is associated with AKI.\n- No data show that postoperative hydration will improve a patient's survival.\n- A meta-analysis found no impact of sodium bicarbonate infusion on mortality risk for AKI patients."
+        },
+        {
+            "id": 21,
+            "question_type": "clinical_scenario",
+            "question": "A 42-year-old woman presents on postoperative day 5 after an extensive lysis of adhesions. She continues to have high bilious nasogastric tube drainage, and her abdomen remains distended, mildly tender, with no bowel sounds or evidence of peritonitis. Her vital signs and urine output are normal. Laboratory data are as follows: white blood cell count = 9800/mm3 (3600-11,200/mm3), hematocrit + 42% (37-51%), sodium = 146 mEq/L (136-145 mEq/L), potassium = 3.1 mEq/L (3.5 5.0 mEq/L), bicarbonate = 24 mmol/L (20-29 mmol/L), chloride = 98 mEq/L (95-105 mEq/L). The next step in the management of her ileus is",
+            "options": [
+                "A. metoclopramide.",
+                "B. potassium chloride.",
+                "C. erythromycin.",
+                "D. neostigmine.",
+                "E. alvimopan."
+            ],
+            "answer": "B",
+            "explanation": "- Postoperative ileus is common and involves stress-induced catecholamine and cytokine release inhibiting colonic motility.\n- Ileus can be exacerbated by fluid and electrolyte abnormalities.\n- Hypokalemia (3.1 mEq/L in this patient) is a significant contributing factor.\n- Correction of hypokalemia with potassium chloride frequently decreases the duration of ileus.\n- Serum magnesium must be normal for effective treatment of ileus.\n- Metoclopramide, erythromycin, and neostigmine do not effectively shorten the duration of postoperative ileus.\n- Alvimopan must be started preoperatively to hasten GI recovery."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "Which of the following should be monitored postoperatively in a patient with von Willebrand disease who has undergone an elective abdominal operation?",
+            "options": [
+                "A. Platelet count",
+                "B. Fibrinogen level",
+                "C. Von Willebrand Factor activity",
+                "D. Thromboelastography",
+                "E. Factor VIII activity"
+            ],
+            "answer": "E",
+            "explanation": "- Von Willebrand Factor (vWF) plays a fundamental role in bleeding control and is a carrier protein for Factor VIII.\n- Monitoring Factor VIII activity is the superior method for monitoring a patient with von Willebrand disease in the postoperative period.\n- Platelet count is insufficient as it provides no information on platelet activity.\n- Factor VII and fibrinogen are not directly related to von Willebrand disease.\n- Standard thromboelastography (TEG) is not useful in von Willebrand disease due to lack of shear stress for vWF activation."
+        },
+        {
+            "id": 23,
+            "question_type": "clinical_scenario",
+            "question": "A 52-year-old man who is heparin naive is started on subcutaneous unfractionated heparin (UFH) for postoperative deep venous thromboembolism prophylaxis. The next day, his platelet count falls from 260,000/mm3 to 102,000/ mm3 (150,000-400,000/mm3). Management of his deep vein thrombosis prophylaxis should entail which of the following?",
+            "options": [
+                "A. Discontinue UFH and start low molecular weight heparin.",
+                "B. Continue UFH.",
+                "C. Discontinue UFH and start fondaparinux.",
+                "D. Discontinue UFH.",
+                "E. Discontinue heparin and start argatroban."
+            ],
+            "answer": "B",
+            "explanation": "- Heparin-induced thrombocytopenia (HIT) is a significant complication of heparin use.\n- There are two types of HIT: Type I and Type II.\n- Type I HIT is a nonimmunologic response, usually occurs within the first 48-72 hours, and is characterized by a mild and transient thrombocytopenia (rarely <100,000/mm³), often returning to normal.\n- Type I HIT is not associated with an increased risk of thrombosis.\n- The patient's platelet count drop (from 260,000 to 102,000) occurred the \"next day\" and is mild, fitting the description of HIT type I.\n- Therefore, continuation of UFH is appropriate for Type I HIT."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "Which of the following statements is true regarding opioid prescriptions after general surgical operations?",
+            "options": [
+                "A. Variability in the prescriptions of opioids after discharge is limited.",
+                "B. The majority of prescribed opioids are consumed after surgery.",
+                "C. Educational interventions for surgeons decrease opioid prescribing.",
+                "D. Most patients after general surgical procedures require refills of their narcotics.",
+                "E. Preoperative opioid use is not associated with higher readmission rates."
+            ],
+            "answer": "C",
+            "explanation": "- The prescription of opioids after surgery varies widely across all procedures.\n- Less than 28% of prescribed pills were taken, and less than 2% of refills were obtained.\n- Educational interventions for surgeons decreased opioid prescriptions by 53%.\n- Preoperative opioid use is associated with higher costs, longer lengths of stay, more complications, and higher readmissions."
+        },
+        {
+            "id": 25,
+            "question_type": "clinical_scenario",
+            "question": "A 70-year-old man on rivaroxaban for chronic atrial fibrillation (CHADS2 <5) is scheduled to undergo an open umbilical hernia repair. What perioperative recommendation is most appropriate?",
+            "options": [
+                "A. Stop rivaroxaban 3 days before surgery, restart rivaroxaban 5 days after surgery",
+                "B. Stop rivaroxaban on admission, bridge with heparin, restart rivaroxaban 5 days after surgery",
+                "C. Continue rivaroxaban",
+                "D. Stop rivaroxaban 1 day before surgery, restart 6 hours after the procedure",
+                "E. Stop rivaroxaban 3 days before, anticoagulate with warfarin, restart rivaroxaban 3 days after surgery"
+            ],
+            "answer": "D",
+            "explanation": "- Rivaroxaban is a direct Factor Xa inhibitor with a half-life of 5-9 hours in healthy patients and 11-13 hours in elderly patients.\n- An umbilical hernia repair is considered a low bleeding risk procedure.\n- The patient is at low risk of thromboembolic events (CHADS2 <5).\n- For low bleeding risk procedures in low-risk patients, it is appropriate to stop rivaroxaban 24 hours before surgery and to resume it 6 hours after surgery.\n- For extremely high-risk surgery, rivaroxaban should be stopped at least 3 days before surgery."
+        },
+        {
+            "id": 26,
+            "question_type": "clinical_scenario",
+            "question": "A44-year-old carpenter presents to clinic with complaints of a symptomatic right inguinal hernia. His bowel and bladder functions are normal. His medical history is positive for open appendectomy and gastroesophageal reflux for which he takes pantoprazole. He denies cardiac or pulmonary symptoms. Which of the following should be included in his preoperative evaluation?",
+            "options": [
+                "A. No laboratory studies",
+                "B. Complete blood count",
+                "C. Chest x-ray",
+                "D. Electrocardiogram",
+                "E. Basic metabolic panel"
+            ],
+            "answer": "A",
+            "explanation": "- The preoperative assessment should begin with a thorough history and physical.\n- Routine laboratory, cardiac, and radiologic evaluation is not recommended without clear indication of risk for comorbidity.\n- Current recommendations for healthy, American Society of Anesthesiologist (ASA) class I patients undergoing minor or intermediate grade surgery is to not perform resting electrocardiograms, complete blood counts, liver panels, urinalysis, coagulation tests, or basic metabolic panels.\n- Asymptomatic men who are older than 45 years and women who are older than 50 years should undergo electrocardiogram.\n- Routine chest x-ray is not recommended.\n- The patient is 44 years old, healthy, and undergoing minor surgery (inguinal hernia repair), thus no routine studies are indicated."
+        },
+        {
+            "id": 27,
+            "question_type": "clinical_scenario",
+            "question": "You are preparing to perform a right hepatectomy on a 65-year-old woman for colorectal metastasis. She has a baseline iron deficiency anemia, and after 1 month of preoperative iron supplementation, her hemoglobin is 10 g/dL (12-15.5 g/dL). The anesthesiologist asks if you want to use red cell salvage techniques during the procedure. Intraoperative red cell salvage",
+            "options": [
+                "A. reduces transfusion-related immunomodulation.",
+                "B. has no role outside of cardiac surgery.",
+                "C. should not be used in cases of malignancy or bowel surgery.",
+                "D. should be used only if intraoperative blood loss is predicted to exceed 2 L.",
+                "E. requires full anticoagulation."
+            ],
+            "answer": "A",
+            "explanation": "- Red cell salvage is a process where shed whole blood is collected and prepared for reinfusion.\n- Although most often used in cardiac surgery, it is also used in orthopaedic, vascular, and trauma surgery.\n- Systemic anticoagulation is not required; heparin used in the salvage process is removed.\n- Because the cells are autologous, the risk of immune-mediated transfusion reactions and complications (e.g., TRALI) are avoided.\n- Cell salvage reduces the risk of needing an allogenic blood transfusion.\n- It is typically reserved for procedures with an estimated blood loss of at least 500-1000 mL.\n- There is no evidence for increased rates of infection or reinfusion of malignant cells with cell salvage techniques."
+        },
+        {
+            "id": 28,
+            "question_type": "clinical_scenario",
+            "question": "A 65-year-old man is scheduled for an elective sigmoid colectomy for diverticular disease. He has a history of atrial fibrillation with a CHA2DS2-VASc score of 4. He takes rivaroxaban for stroke prevention. What is the optimal approach to his preoperative rivaroxaban management?",
+            "options": [
+                "A. Continue rivaroxaban through the surgery",
+                "B. Hold rivaroxaban 1 week before surgery",
+                "C. Hold rivaroxaban 2 days before surgery",
+                "D. Hold rivaroxaban 4 days before surgery",
+                "E. Hold rivaroxaban on the morning of surgery"
+            ],
+            "answer": "C",
+            "explanation": "- Rivaroxaban is an oral Factor Xa inhibitor with a half-life of 8-10 hours.\n- For major surgical procedures like sigmoid colectomy, rivaroxaban should be held.\n- Assuming normal creatinine clearance, the patient should skip 2 doses (off anticoagulation for 48 hours) before surgery.\n- Bridging anticoagulation is not required for this patient.\n- Rivaroxaban can be resumed 2-3 days postoperatively, assuming normal bowel function and no perioperative bleeding."
+        },
+        {
+            "id": 29,
+            "question_type": "clinical_scenario",
+            "question": "A 65-year-old man is scheduled for an elective sigmoid colectomy for diverticular disease. He has a history of coronary artery disease and underwent placement of a drug-eluting stent 1 year ago. He remains on aspirin and clopidogrel. What is the optimal approach to his perioperative aspirin and clopidogrel management?",
+            "options": [
+                "A. Continue both clopidogrel and aspirin through surgery",
+                "B. Hold aspirin 1 week before surgery, continue clopidogrel through surgery",
+                "C. Hold both clopidogrel and aspirin 1 week before surgery",
+                "D. Hold clopidogrel 1 week before surgery, continue aspirin through surgery",
+                "E. Hold both clopidogrel and aspirin 1 week before surgery with a heparin bridge"
+            ],
+            "answer": "D",
+            "explanation": "- Dual antiplatelet agents (DAPT) should be continued, and elective surgery delayed for a minimum of 1 year post-stent placement.\n- For major surgery, aspirin should be continued through the procedure to mitigate cardiac complication and early postoperative stent thrombosis.\n- Beyond 1 year post-stent, clopidogrel can be safely held for a brief period around surgery, generally 5-7 days preoperatively.\n- Clopidogrel should be resumed several days postoperatively when bleeding risk has subsided."
+        },
+        {
+            "id": 30,
+            "question_type": "mcq",
+            "question": "When closing a midline abdominal incision after an elective procedure, what suture technique minimizes the rate of incisional hernia development?",
+            "options": [
+                "A. Continuous sutures with 1-cm bite depth and 1-cm intersutural distance",
+                "B. Continuous sutures with 5-mm bite depth and 5-mm intersutural distance",
+                "C. Interrupted sutures with 1-cm bite depth and 1-cm intersutural distance",
+                "D. Interrupted sutures with 5-mm bite depth and 5-mm intersutural distance",
+                "E. Interrupted retention sutures with 2-cm bite depth and 2-cm intersutural distance"
+            ],
+            "answer": "B",
+            "explanation": "- Fascial dehiscence and incisional hernias are significant complications, often due to sutures pulling through the fascia, inadequate suture length, and excess tension.\n- The optimal recommended suture length to wound length ratio (SL:WL) is 4:1.\n- A continuous monofilament suture in a single layer of closely placed bites with minimal tension significantly reduces the risk of surgical incision failure.\n- Small bites (5 mm from the fascial edge and 5 mm from the last bite) result in an SL:WL ratio of at least 4:1 with minimal tension.\n- Bites further from the fascial edge and spaced further apart lead to insufficient suture use and excess tension.\n- Interrupted sutures result in less bursting strength and a significantly greater risk of incisional hernia development compared to continuous sutures for elective midline laparotomy incisions.\n- Retention sutures have no known role in the primary closure of elective surgical incisions."
+        }
+    ]
+}

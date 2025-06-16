@@ -1,0 +1,425 @@
+{
+    "chapter_name": "Perioperative Care Part IV",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "Patient receiving warfarin for deep vein thrombosis that occurred 1 year ago and now requires wide local excision of early-stage melanoma.",
+            "options": [
+                "A. Continue current antithrombotic agents and proceed with elective procedure.",
+                "B. Discontinue antithrombotic agents in time for effects to resolve before the elective procedure.",
+                "C. Change antithrombotic agents and continue with elective procedure.",
+                "D. Defer the elective procedure until a later date.",
+                "E. Proceed with elective procedure."
+            ],
+            "answer": "B",
+            "explanation": "- Antithrombotic agents include both anticoagulant and antiplatelet agents.\n- When considering surgery for a patient on anticoagulation, the surgeon must examine the nature and indication of the surgical procedure as well as the anticoagulation therapy, weighing the necessity and timing against the risk of bleeding.\n- For patients on Vitamin K antagonists (like warfarin), therapy can be interrupted approximately 5 days before surgery.\n- For a cutaneous procedure, warfarin for deep vein thrombosis (continued beyond the recommended duration) can be discontinued."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "Patient presenting with a reducible inguinal hernia 3 months after placement of a drug-eluting coronary stent followed by dual antiplatelet therapy.",
+            "options": [
+                "A. Continue current antithrombotic agents and proceed with elective procedure.",
+                "B. Discontinue antithrombotic agents in time for effects to resolve before the elective procedure.",
+                "C. Change antithrombotic agents and continue with elective procedure.",
+                "D. Defer the elective procedure until a later date.",
+                "E. Proceed with elective procedure."
+            ],
+            "answer": "D",
+            "explanation": "- Patients with a coronary stent who are receiving dual antiplatelet therapy and require surgery should have surgical procedures deferred for at least 6 weeks after placement of a bare-metal stent and for at least 6 months after placement of a drug-eluting stent.\n- Inguinal hernia repair is an elective procedure, and nonoperative management is an accepted approach.\n- Deferring surgery to a later date outside the 6-month window is recommended in this case.\n- In patients where surgery is a necessity within 6 months of placement of a drug-eluting stent, antiplatelet therapy should be continued."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "Patient who has completed preoperative therapy for a surgically resectable rectal cancer and has received dual antiplatelet therapy for a drug-eluting coronary stent that was placed 6 months earlier",
+            "options": [
+                "A. Continue current antithrombotic agents and proceed with elective procedure.",
+                "B. Discontinue antithrombotic agents in time for effects to resolve before the elective procedure.",
+                "C. Change antithrombotic agents and continue with elective procedure.",
+                "D. Defer the elective procedure until a later date.",
+                "E. Proceed with elective procedure."
+            ],
+            "answer": "C",
+            "explanation": "- In the setting of pelvic surgery for cancer, continuation of aspirin as single agent antiplatelet therapy, while holding thienopyridines, offers a strategy to balance the risk of perioperative bleeding against stent thrombosis."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "Which of the following electric surgical devices is characterized by generating temperatures as high as 300° and having a slow heat dissipation rate?",
+            "options": [
+                "A. Bipolar surgical electricity",
+                "B. Advanced bipolar device",
+                "C. Ultrasonic dissector",
+                "D. Monopolar surgical electricity",
+                "E. ND-Yag laser device"
+            ],
+            "answer": "C",
+            "explanation": "- Electric surgical devices cause molecular vibration within cells, generating heat and causing cell damage (cell death begins at 50°C).\n- Standard monopolar energy devices transfer electrical impulses from the instrument tip through the patient to a dispersion pad, causing molecular vibration and cell damage; cut mode reaches 100°C, coagulation mode reaches 60°C.\n- Bipolar devices transfer energy between the two tips of the instrument, generating heat up to 90°C, limited to tissue between the jaws.\n- Advanced bipolar devices generate heat up to 100°C and allow tissue cutting.\n- Nd:Yag laser heat generation is less than 50°C.\n- Ultrasonic devices convert mechanical energy/vibration to heat, reaching up to 300°C, and have a slow heat dissipation rate (takes approximately 20 seconds to cool below 100°C).\n- Ultrasonic devices should not be used for dissection or grabbing vital tissues (e.g., intestines or vessels) unless inactive for more than 30 seconds."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "Versus the traditional landmark technique, the use of ultrasound guidance in the placement of internal jugular vein catheters results in",
+            "options": [
+                "A. longer cannulation times.",
+                "B. decreased pneumothorax rate.",
+                "C. reduced number of passes to cannulate.",
+                "D. increased hematoma formation.",
+                "Ε. no difference in overall successful catheter placement."
+            ],
+            "answer": "C",
+            "explanation": "- Use of ultrasound guidance for internal jugular vein cannulation reduces complication rates compared to the traditional landmark technique.\n- Overall, greater successful catheter placement is achieved with ultrasound guidance.\n- Inadvertent cannulation of the carotid artery and hematoma formation are reduced.\n- Additionally, reduced number of passes to cannulate, greater success with initial attempt, and shorter time to successful cannulation are observed with ultrasound use.\n- There is no statistically observed difference in the incidence of pneumothorax between the two techniques."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "Which of the following strategies will have the greatest impact on preventing postoperative surgical site infection for ventral hernia repair?",
+            "options": [
+                "A. Removal of abdominal hair with clippers versus shaving",
+                "B. Surgeon use of bouffant hair covering versus skull cap",
+                "C. Perioperative mechanical versus oral antibiotics bowel prep",
+                "D. Use of biologic mesh versus artificial mesh",
+                "E. Laparoscopic versus open repair"
+            ],
+            "answer": "E",
+            "explanation": "- Surgical site infection (SSI) is a significant postoperative complication after ventral hernia repair, increasing the risk of recurrent hernia by at least 3-fold.\n- Laparoscopic repair had a significantly lower incidence of SSI compared to open repair (5.6% vs 23.3%).\n- Hair removal with clippers is preferred over shaving to reduce SSI.\n- The type of surgical hat worn by surgeons had no relationship to SSI risk.\n- Preoperative bowel preparation showed patients were more likely to develop postoperative SSI for ventral hernia repairs."
+        },
+        {
+            "id": 7,
+            "question_type": "clinical_scenario",
+            "question": "A 47-year-old woman is admitted to the intensive care unit after a complex incisional herniorrhaphy with mesh. She has a history of Crohn disease that required a right hemicolectomy and ongoing azathioprine and adalimumab support. On postoperative day 4, she develops profuse diarrhea associated with a white blood cell count of 28,000/mm3 (3600-11,200/mm3). With fluid support, she remains hemodynamically normal and is now afebrile. Investigation for Clostridium difficile identifies a strain positive for both toxins A and B (BI/NAP 1/027). Which of the following statements is true regarding her care?",
+            "options": [
+                "A. She is at risk of multiorgan failure.",
+                "B. Treatment with intravenous vancomycin and metronidazole is indicated.",
+                "C. Antibiotic therapy should continue until toxin assays are negative.",
+                "D. Removal of the new mesh is required to prevent necrotizing fasciitis.",
+                "E. This bacterial strain is the least virulent of the known C. difficile strains."
+            ],
+            "answer": "A",
+            "explanation": "- *Clostridium difficile* colitis is an increasingly frequent postoperative complication.\n- Hospitalized patients with concurrent *C. difficile* infection and active IBD have at least a 4-fold risk of mortality.\n- Mortality due to multiple organ failure is high even with aggressive treatment.\n- The BI/NAP1/027 clone is especially virulent, producing toxins faster and in greater quantities, and is resistant to fluoroquinolones, levofloxacin, and moxifloxacin, making it harder to treat.\n- Oral vancomycin is first-line therapy for severe and complicated *C. difficile* infection in IBD patients; intravenous metronidazole may be added but is significantly less effective.\n- Treatment is recommended for 10 days; fecal microbiota transplant should be considered if active colitis is not resolved or infection is recurrent.\n- Removal of the mesh is not necessary in this case."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "A 45-year-old woman with multiple past abdominal surgeries requires an abdominal wall reconstruction for recurrent ventral/incisional hernia. The surgical plan is for a retrorectus repair with a synthetic mesh. What reduces surgical site infections?",
+            "options": [
+                "A. Preoperative mechanical bowel preparation",
+                "B. Removal of hair from the surgical site",
+                "C. Extension of antimicrobial prophylaxis to 24 hours",
+                "D. Smoking cessation 4 to 6 weeks before surgery",
+                "E. Optimization of preoperative HbAlC"
+            ],
+            "answer": "D",
+            "explanation": "- Surgical site infections (SSIs) are common, costly, morbid, and preventable.\n- Modifiable risk factors for SSIs include smoking status, weight/BMI, and nutritional status.\n- Prehospital interventions include preoperative chlorhexidine bathing, smoking cessation, blood glucose control, MRSA screening/decolonization, and bowel preparation.\n- Smoking cessation 4 to 6 weeks before elective surgery decreases SSIs, especially when an implanted material or device is part of the procedure.\n- Full bowel preparation is recommended for colectomies but not for ventral hernia repairs.\n- Blood glucose optimization is recommended, but reducing HbA1C does not reduce SSIs.\n- Hospital interventions include maintaining normothermia, avoiding hyperglycemia, avoiding removal of hair with a razor, proper preoperative antibiotics, and using a wound protection device (for colorectal cases).\n- Antibiotics should be administered within 1 hour of incision (2 hours for vancomycin or fluoroquinolones) and be redosed based on pharmacokinetics or after estimated blood loss.\n- No evidence supports antibiotic administration after incision closure except in specific settings (implanted breast reconstruction, cardiac surgery, joint arthroplasty)."
+        },
+        {
+            "id": 9,
+            "question_type": "clinical_scenario",
+            "question": "A 48-year-old man with diabetes presents with a malodorous ulcer on the sole of his right foot over the head of the first metatarsal head. No bone is visible. He has been treated with local wound care. He is currently taking broad-spectrum antibiotics. His white blood cell count is 12,000/mm3 and his HbA1C is 9%. He is febrile and tachycardic. He has a right palpable dorsalis pedis pulse. The next step in his management should be",
+            "options": [
+                "A. MRI to rule out osteomyelitis.",
+                "B. sharp debridement.",
+                "C. negative pressure wound therapy.",
+                "D. honey dressings.",
+                "E. hyperbaric oxygen treatment."
+            ],
+            "answer": "B",
+            "explanation": "- Clinical practice guidelines for diabetic foot infection recommend initial sharp debridement based on patient tolerance, expertise, supplies, and cost-effectiveness.\n- Urgent surgical intervention should be performed for foot infection involving abscess, gas, or necrotizing soft tissue infection.\n- Adjunctive wound therapy options (e.g., negative pressure wound therapy, honey dressings) are recommended if a diabetic foot ulcer fails to decrease in size by at least 50% after a minimum of 4 weeks of standard wound therapy.\n- Plain radiographs are not adequate to diagnose osteomyelitis due to low sensitivity and specificity; MRI is the study of choice for additional imaging to evaluate for abscess or osteomyelitis."
+        },
+        {
+            "id": 10,
+            "question_type": "clinical_scenario",
+            "question": "A 26-year-old man undergoes uneventful laparoscopic preperitoneal repair of bilateral inguinal hernias with mesh. He is HIV-positive and receives maintenance methadone treatment for opioid dependence. After discussion with his primary care provider and methadone prescriber, in addition to his methadone, his postoperative pain is managed with a short course of oral nonsteroidal anti-inflammatory drugs without additional opioids. He was started on efavirenz, a nonnucleoside reverse transcription inhibitor, the week before surgery. At his 2-week followup appointment, he complains of a 4-day history of nausea, vomiting, and diarrhea with associated restlessness, diaphoresis, and tachycardia. Otherwise, his physical exam, imaging, and routine labs are unremarkable. CD4 count is 500 cells/mm3 (500-1400/mm3). What is the most helpful blood test in facilitating his management?",
+            "options": [
+                "A. Thyroid-stimulating hormone",
+                "B. Gamma-glutamyl transferase",
+                "C. Serum methadone trough level",
+                "D. Procalcitonin level",
+                "E. Helicobacter pylori level"
+            ],
+            "answer": "C",
+            "explanation": "- Opioid-use disorder and HIV/AIDS are common co-diagnoses.\n- Methadone metabolism is complicated, undergoing oxidative metabolism by the cytochrome p450 system in the liver, with significant interindividual variability.\n- Efavirenz (a nonnucleoside reverse transcriptase inhibitor) induces and inhibits several p450 enzymes, resulting in a 50% decrease in methadone bioavailability within several weeks of initiation.\n- Starting efavirenz precipitated opioid withdrawal symptoms despite no change in methadone dosing.\n- A low serum methadone trough level will confirm this and allow for appropriate replacement therapy or reconsideration of efavirenz use.\n- The patient lacks symptoms suggestive of thyroid disease, liver disease, or *Helicobacter pylori* infection.\n- Procalcitonin determination would not change his care or aid in diagnosis as it is for differentiating infection from other inflammatory conditions."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "After a routine laparoscopic sigmoidectomy for cancer in an otherwise healthy patient when is the appropriate time to advance a patient's diet to solid food?",
+            "options": [
+                "A. After first bowel movement",
+                "B. After passage of flatus",
+                "C. When bowel sounds return",
+                "D. Once the patient is awake and alert",
+                "E. After the patient tolerates liquids"
+            ],
+            "answer": "D",
+            "explanation": "- Early (<24 hours) oral feeding before the return of bowel function after gastrointestinal surgery is supported by several studies and is recommended by surgical societies for enhanced recovery.\n- Early oral feeding is associated with shorter hospital stays and reduced risk of total postoperative complications.\n- There was no increased risk of vomiting, insertion of nasogastric tubes, anastomotic dehiscence, wound infection, or pneumonia with early oral feeding."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "In geriatric patients undergoing elective abdominal surgery, postoperative delirium is associated with",
+            "options": [
+                "A. Foley catheterization.",
+                "B. opioid analgesia.",
+                "Ε. C. American Society of Anesthesiologists class I-II.",
+                "D. surgical procedure lasting more than 4 hours.",
+                "use of propofol during the procedure."
+            ],
+            "answer": "B",
+            "explanation": "- Postoperative delirium is the most common complication of major abdominal surgery in older patients, manifesting as cognitive dysfunction, disorientation, hallucinations, and memory/attention disturbances.\n- Postoperative delirium was associated with a higher American Society of Anesthesiologists (ASA) status (ASA class III-IV), impaired mobility, and use of opioids.\n- Even patients treated with opioid-like analgesics (e.g., tramadol) are at risk of postoperative delirium.\n- Duration of the procedure and use of propofol during the procedure did not affect the development of postoperative delirium.\n- Use of a bladder catheter during abdominal surgery in geriatric patients is not associated with the development of delirium."
+        },
+        {
+            "id": 13,
+            "question_type": "clinical_scenario",
+            "question": "A 23-year-old man is admitted to the intensive care unit after a damage control laparotomy for traumatic injuries to his liver and spleen. The patient has an open abdomen and requires return to the operating room. Which of the following is associated with higher rates of primary fascial closure?",
+            "options": [
+                "A. Delayed return to the operating room by at least 48 hours",
+                "B. Volume resuscitation with 3% hypertonic saline",
+                "C. Early diuresis with a furosemide drip",
+                "D. A filling pressure of less than 10 mm Hg",
+                "E. Continuous renal replacement therapy after initial damage control laparotomy"
+            ],
+            "answer": "B",
+            "explanation": "- Severely injured or septic patients may not tolerate abdominal closure at the index operation.\n- Delaying return to the operating room decreases the likelihood of primary fascial closure; the first return should be as soon as possible (within 24 hours) but no later than 48 hours.\n- The use of intravenous 3% hypertonic saline is associated with increased rates of primary fascial closure, likely due to an osmotic gradient favoring removal of intestinal edema.\n- Forced diuresis with a loop diuretic drip is not associated with increased rates of fascial closure.\n- No specific evidence suggests that early renal replacement therapy or keeping central venous pressures below a certain level help with closure."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "Which of the following statements is true for enteral nutrition in the critically ill patient?",
+            "options": [
+                "A. Total caloric intake for the obese patient is 25 to 30 kCal/kg.",
+                "B. Growth hormone supplementation increases survival in ventilated patients.",
+                "C. Postpyloric feedings result in decreased mortality compared with gastric feedings.",
+                "D. Total protein intake should be 2 to 2.5 g/kg of ideal body weight per day.",
+                "E. The routine use of probiotics improves patient survival."
+            ],
+            "answer": "D",
+            "explanation": "- Calculations of nutritional needs include a 25 to 30 kCal/kg estimate for most critically ill patients, but this estimate is not accurate for extremely thin or morbidly obese patients.\n- Indirect calorimetry may guide nutritional support; otherwise, 65-70% of estimated total caloric needs based on ideal body weight with sufficient protein (2 to 2.5 g/kg of ideal body weight) promotes weight reduction and preservation of lean body mass.\n- Growth hormone supplementation found no survival advantage in ventilated patients.\n- Postpyloric feeding tubes are associated with decreased pneumonia incidence but no difference in ICU length of stay or mortality.\n- Probiotic use is associated with decreased nosocomial infections and pneumonia, but overall mortality does not decrease; some studies reported probiotic-associated bacteremia."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "Which of the following statements about wound management is true?",
+            "options": [
+                "A. Anemia increases wound infection rates.",
+                "B. Nicotine inhibits the proliferation of fibroblasts and macrophages.",
+                "C. Biofilm is a protective coating on healing wounds.",
+                "D. Hypoglycemia delays wound healing.",
+                "E. Topical antimicrobial agents cannot induce bacterial resistance."
+            ],
+            "answer": "B",
+            "explanation": "- Adequate oxygenation is critical to healing wounds; anemia does not necessarily decrease tissue oxygenation, as it depends on cardiac output, capillary permeability, and vasodilation.\n- Nicotine is a vasoconstrictor that impairs oxygen delivery, increases platelet adhesion, and inhibits proliferation of red blood cells, fibroblasts, and macrophages.\n- Hyperglycemia (not hypoglycemia) makes wounds more prone to infection and slower to heal.\n- Biofilm is a collection of bacteria in a self-produced polymer matrix, common in chronic contaminated wounds, but not a normal part of wound healing and not protective.\n- Topical antimicrobial agents target therapy against biofilms, but there is little evidence they improve wound healing rates or outcomes; bacterial resistance can occur with topical antimicrobial agents."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "Which of the following statements is true about perioperative opiate use?",
+            "options": [
+                "A. Low-income patients are more likely to overdose on opiates.",
+                "B. Patients treated in teaching hospitals are more likely to overdose.",
+                "C. Hepatic insufficiency is an Independent predictor of opioid overdose.",
+                "D. More than 70% of prescribed opioid pills are not used by patients.",
+                "E. Preoperative pain management with opioids decreases hospital length of stay."
+            ],
+            "answer": "D",
+            "explanation": "- Opioid use and misuse after surgery is a growing US healthcare crisis.\n- Preoperative opioid users may have increased hospital length of stay and complications.\n- Individuals who overdose after surgery are more likely female, older (>60 years old), and from a higher income quartile.\n- Predictors of postoperative overdose include a history of substance abuse and pre-existing renal insufficiency; hepatic insufficiency was not identified as an independent risk factor.\n- Opioid overdoses are more likely in larger hospitals, with no statistical difference based on hospital type (rural, urban, teaching, nonteaching).\n- One recent study determined that more than 70% of prescribed opioid pills were not taken by patients discharged home, and less than 2% of patients requested refills."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "When evaluating an adult for possible orotracheal intubation, what is the best risk factor for predicting a difficult intubation?",
+            "options": [
+                "A. Inability to move the lower incisors in front of the upper incisors",
+                "B. BMI greater than 27",
+                "C. Previous cervical spine injury with normal mobility",
+                "D. Interincisor distance of 5 cm",
+                "E. Thyromental distance of 7 cm"
+            ],
+            "answer": "A",
+            "explanation": "- Airway evaluation is a critical component for obtaining a secure airway.\n- The Mallampati classification is based on structures visible with maximal oral opening and tongue protrusion.\n- Other risk factors for difficult intubation include obesity, neck immobility, interincisor distance less than 4 cm, large overbite, inability to shift the lower incisors in front of the upper incisors, and a thyromental distance less than 6.5 cm.\n- A history of difficult intubation is one of the most important risk factors for future difficult intubations."
+        },
+        {
+            "id": 18,
+            "question_type": "clinical_scenario",
+            "question": "A 70-year-old woman with congestive heart failure is on warfarin for a history of atrial fibrillation. She presents to the emergency department with a small bowel perforation. Which of the following is a risk factor for a stroke in this patient?",
+            "options": [
+                "A. Age of 70 years old",
+                "B. Female sex",
+                "C. Need for urgent surgery",
+                "D. Congestive heart failure",
+                "E. Sepsis"
+            ],
+            "answer": "D",
+            "explanation": "- The use of oral anticoagulation agents is increasing nationwide.\n- Surgeons need to understand which patients require perioperative anticoagulation and have an increased risk of perioperative thrombotic events with cessation of anticoagulation.\n- Failure to resume anticoagulation in a timely fashion can be associated with perioperative thromboembolic complications.\n- The CHADS2 score is a commonly used tool to assess stroke risk, with congestive heart failure being a 1-point risk factor.\n- The patient has congestive heart failure, which is a risk factor for stroke."
+        },
+        {
+            "id": 19,
+            "question_type": "clinical_scenario",
+            "question": "A 70-year-old woman with a long-standing history of myasthenia gravis presents with peritonitis and pneumoperitoneum secondary to perforated sigmoid diverticulitis. On the evening after an emergency Hartmann procedure, she is somnolent and demonstrates hypoxia, with an arterial blood gas with a pH of 7.25, PaCO2 = 62 mm Hg, PaO2 = 60 mm Hg. There is no change after administration of naloxone and neostigmine. Her blood pressure and heart rate are normal. Her abdomen is soft, and she has a colostomy. Her basic metabolic panel is normal, and she has a persistent leukocytosis but normal hemoglobin. Chest x-ray after intubation is unremarkable. After she is stabilized, what intervention should be performed to address the likely etiology of her respiratory failure?",
+            "options": [
+                "A. Decompressive laparotomy",
+                "B. Intravenous phosphate",
+                "C. Intravenous antibiotics",
+                "D. Intravenous steroids",
+                "E. Plasmapheresis"
+            ],
+            "answer": "E",
+            "explanation": "- Patients with myasthenia gravis are at risk of hypoventilation due to diaphragmatic weakness.\n- Myasthenia gravis is an autoimmune disease characterized by antibodies to nicotinic acetylcholine receptors at the neuromuscular junction.\n- Chronic treatment includes immunosuppression and anticholinesterase medications.\n- Several medications can contribute to worsening of myasthenia, including antibiotics and neuromuscular blockers.\n- Respiratory acidosis in the perioperative period is best managed acutely with intubation.\n- Plasmapheresis is then used to treat the myasthenia crisis.\n- Given normal wound and renal function, compartment syndrome is unlikely.\n- Hypophosphatemia is a concern in chronically malnourished patients, unlikely in this acute presentation.\n- Intravenous antibiotics would treat worsening sepsis, which is unlikely given recent source control, normal chemistries, unchanged WBC, and unremarkable chest x-ray.\n- Intravenous steroids are not helpful in reversing respiratory depression from myasthenia."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "A 40-year-old man is undergoing elective open distal pancreatectomy. Perioperative epidural analgesia is likely to increase",
+            "options": [
+                "A. oral opiate use.",
+                "B. perioperative mortality.",
+                "C. urinary tract infection.",
+                "D. episodes of perioperative hypotension.",
+                "E. rates of postoperative ileus."
+            ],
+            "answer": "D",
+            "explanation": "- Thoracic epidural anesthesia for open cancer procedures optimizes postoperative pain control and decreases intravenous narcotic use.\n- Patients managed with epidural have increased episodes of perioperative hypotension attributable to local anesthetics due to sympathetic blockade decreasing preload and afterload.\n- Epidural placement likely decreases, not increases, intravenous and oral opiate use.\n- Epidural anesthesia does not directly increase urinary tract infection rates.\n- Epidural use is likely to decrease or not affect, rather than increase, postoperative ileus."
+        },
+        {
+            "id": 21,
+            "question_type": "clinical_scenario",
+            "question": "Six years ago, a 62-year-old woman had a quadruple coronary artery bypass graft with a cardiac pacemaker placed through her left subclavian vein. The pacemaker sits just below her clavicle and above her breast tissue. She now presents with stage II right breast cancer, and she has elected to undergo a modified radical mastectomy. You are concerned about disruption of her cardiac pacemaker with the use of surgical electricity, because she is pacemaker dependent Which of the following will most likely decrease the risk of electromagnetic interference of the pacemaker during the procedure?",
+            "options": [
+                "A. Using monopolar electricity only on blend mode",
+                "B. Placing the dispersion pad on the right arm",
+                "C. Placing a magnet on the pacemaker",
+                "D. Reprogramming the pacemaker into synchronous mode",
+                "E. Using ultrasonic shears for the dissection"
+            ],
+            "answer": "E",
+            "explanation": "- Safe use of electrical devices in the operating room includes avoiding interference with cardiac pacemakers or ventricular assist devices.\n- If the patient is pacemaker dependent, the device must be left on; pacemaker dependence means the patient's own rhythm is insufficient for ventricular contraction.\n- Putting the pacemaker on synchronous mode is inadequate if the patient is dependent.\n- For pacemaker-dependent patients, electrical current from the Bovie or energy transfer to the dispersion pad should not cross paths with the pacemaker device.\n- Using blend mode will not avoid electrical disruption.\n- Placing the dispersion pad away from the pacemaker reduces energy near it but will not eliminate all interference.\n- Bipolar instruments reduce interference but do not eliminate it.\n- Ultrasonic devices do not pass electrical energy through the patient and do not require a dispersion pad; they use mechanical energy (vibration) to create heat, dissect, and coagulate.\n- Because electrical energy does not pass through the patient with ultrasonic devices, it is the best choice for this patient to avoid electrical interference with her pacemaker."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "For an elective clean-contaminated case, which of the following statements regarding the guidelines for prevention of a surgical site infection is true?",
+            "options": [
+                "A. Antibiotic wound irrigation lowers surgical site infection rates.",
+                "B. Antibiotic powders in surgical wounds at closure reduce surgical site infection rates.",
+                "C. Glucose should be controlled intraoperatively with a goal of less than 110 mg/dl.",
+                "D. Skin should be prepared with iodine-based agents unless contraindicated",
+                "E. Antibiotics do not need to be continued after skin closure."
+            ],
+            "answer": "E",
+            "explanation": "- New guidelines (2017) for preventing surgical site infections in clean and clean-contaminated cases include stopping antibiotics after skin closure, meaning prophylaxis does not need to extend a full 24 hours.\n- Other guidelines include skin preparation using alcohol-based solutions (unless otherwise contraindicated), maintaining perioperative glucose control with a goal of less than 200 mg/dL, and maintaining normothermia.\n- The use of antibiotic wound irrigation and antibiotic powders does not improve surgical site infection rates."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "23. Aspirin",
+            "options": [
+                "A. Direct Factor Xa inhibitor",
+                "B. Inhibits the activity of Vitamin K-dependent enzymes",
+                "C. Nonreversible cyclo-oxygenase (COX)-1 and COX-2 inhibitor",
+                "D. Reversible phosphodiesterase inhibitor",
+                "E. Competitive direct inhibitor of thrombin"
+            ],
+            "answer": "C",
+            "explanation": "- Atrial fibrillation is common; warfarin reduces stroke risk.\n- Warfarin has limitations (narrow therapeutic window, side effects, nonadherence).\n- Aspirin reduces stroke risk by 20% and is used when warfarin is contraindicated.\n- Aspirin reversal: platelet transfusion, desmopressin.\n- Direct oral anticoagulants (DOACs) are increasingly prescribed for atrial fibrillation due to predictable anticoagulant activity, short half-life, and minimal drug-drug interactions.\n- Cilostazol is a reversible phosphodiesterase inhibitor used to treat claudication.\n- Dabigatran is a thrombin inhibitor.\n- Rivaroxaban, Apixaban, and Edoxaban are Factor Xa inhibitors."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "24. Dabigatran",
+            "options": [
+                "A. Direct Factor Xa inhibitor",
+                "B. Inhibits the activity of Vitamin K-dependent enzymes",
+                "C. Nonreversible cyclo-oxygenase (COX)-1 and COX-2 inhibitor",
+                "D. Reversible phosphodiesterase inhibitor",
+                "E. Competitive direct inhibitor of thrombin"
+            ],
+            "answer": "E",
+            "explanation": "- Atrial fibrillation is common; warfarin reduces stroke risk.\n- Warfarin has limitations (narrow therapeutic window, side effects, nonadherence).\n- Aspirin reduces stroke risk by 20% and is used when warfarin is contraindicated.\n- Aspirin reversal: platelet transfusion, desmopressin.\n- Direct oral anticoagulants (DOACs) are increasingly prescribed for atrial fibrillation due to predictable anticoagulant activity, short half-life, and minimal drug-drug interactions.\n- Cilostazol is a reversible phosphodiesterase inhibitor used to treat claudication.\n- Dabigatran is a thrombin inhibitor.\n- Rivaroxaban, Apixaban, and Edoxaban are Factor Xa inhibitors."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "25. Apixaban",
+            "options": [
+                "A. Direct Factor Xa inhibitor",
+                "B. Inhibits the activity of Vitamin K-dependent enzymes",
+                "C. Nonreversible cyclo-oxygenase (COX)-1 and COX-2 inhibitor",
+                "D. Reversible phosphodiesterase inhibitor",
+                "E. Competitive direct inhibitor of thrombin"
+            ],
+            "answer": "A",
+            "explanation": "- Atrial fibrillation is common; warfarin reduces stroke risk.\n- Warfarin has limitations (narrow therapeutic window, side effects, nonadherence).\n- Aspirin reduces stroke risk by 20% and is used when warfarin is contraindicated.\n- Aspirin reversal: platelet transfusion, desmopressin.\n- Direct oral anticoagulants (DOACs) are increasingly prescribed for atrial fibrillation due to predictable anticoagulant activity, short half-life, and minimal drug-drug interactions.\n- Cilostazol is a reversible phosphodiesterase inhibitor used to treat claudication.\n- Dabigatran is a thrombin inhibitor.\n- Rivaroxaban, Apixaban, and Edoxaban are Factor Xa inhibitors."
+        },
+        {
+            "id": 26,
+            "question_type": "clinical_scenario",
+            "question": "A 78-year-old man with dysphagia underwent percutaneous endoscopic gastrostomy (PEG) 10 days ago. Overnight, the patient became confused and pulled on the PEG tube. The patient's nurse noted that marking on the tube now reads 1.5 cm. It was previously at 3 cm length. He now complains of abdominal pain, redness around the PEG site, and drainage. The next step in management is",
+            "options": [
+                "A. exploratory laparotomy.",
+                "B. bedside incision and drainage.",
+                "C. water-soluble contrast study.",
+                "D. upright abdominal x-rays.",
+                "E. broad-spectrum antibiotics."
+            ],
+            "answer": "C",
+            "explanation": "- Percutaneous endoscopic gastrostomy (PEG) is a solution for long-term enteral nutrition.\n- Tube dislodgment accounts for up to one-third of PEG tube failures; if dislodgment occurs before the PEG tract completely matures, the stomach may separate from the abdominal wall, causing leakage of feedings and gastric contents into the peritoneal cavity.\n- The most important step is to immediately stop feeding and verify that the tube remains in the stomach by performing a water-soluble contrast study.\n- An exploratory laparotomy is necessary if the patient has obvious signs of peritonitis or the contrast study demonstrates peritoneal contrast spillage.\n- Upright abdominal x-rays may show residual air instilled during the original PEG placement, but absence of free air under the diaphragm does not rule out tube malposition.\n- Once proper tube position is confirmed, providers may treat exit site infection with antibiotics, bedside drainage, or a combination."
+        },
+        {
+            "id": 27,
+            "question_type": "clinical_scenario",
+            "question": "Four hours after pneumatic dilation of the esophagus to treat achalasia, a 72-year-old man presents with moderate chest pain and tachycardia. A Gastrografin esophagogram demonstrates an uncontained leak in the distal third of the esophagus with minimal mediastinal contamination. After resuscitation and intravenous antibiotics, the next step should be",
+            "options": [
+                "A. parenteral nutrition.",
+                "B. endoscopic closure with clips.",
+                "C. placement of a covered stent with drainage.",
+                "D. right thoracotomy, closure of the perforation, and pleural patch.",
+                "E. esophageal exclusion, cervical esophagostomy, and gastrostomy tube."
+            ],
+            "answer": "C",
+            "explanation": "- Benign esophageal perforation is a highly morbid condition requiring urgent recognition and intervention.\n- Historically, it was treated with aggressive operative intervention (thoracotomy with direct repair, patching, exclusion, esophagostomy).\n- Nonoperative management may be appropriate for iatrogenic perforations with mild symptoms, contained perforation, and minimal sepsis.\n- A hybrid treatment using an esophageal stent to seal the perforation and a drainage procedure to control mediastinal contamination is now favored.\n- Stent placement is endoscopic, avoiding thoracotomy, and involves oversizing (21- to 25-mm diameter self-expanding, covered stent) in the longest possible length that does not cover the gastroesophageal junction or the arytenoid fold.\n- The stent is placed under general anesthesia, and the area is adequately drained at the same operation.\n- A contrast esophagogram is performed 48 to 72 hours after stent placement to ensure the leak is sealed; the stent is usually removed within 14 days to minimize complications.\n- Factors precluding the hybrid approach (injury >6 cm, injury traversing GE junction or proximal cervical esophagus, or gastric conduit leak after esophagectomy) favor surgical repair.\n- The most common complication is stent migration, mitigated by using a long device and removing it within 2 weeks.\n- Hybrid approach results have been positive for leak occlusion, hospital stay, total hospital charges, and survival; it is as effective as primary surgical repair, with shorter length of stay, lower morbidity, and lower cost.\n- Endoscopic clips are currently recommended only for smaller (<2 cm) tears; larger defects require stent placement or sutures."
+        },
+        {
+            "id": 28,
+            "question_type": "clinical_scenario",
+            "question": "A 70-year-old man takes warfarin for adjunctive management of atrial fibrillation and has severe congestive heart failure at baseline. He will require urgent operative intervention for perforated sigmoid diverticulitis associated with diffuse peritonitis and a large quantity of pneumoperitoneum noted on CT imaging. His international normalized ratio is 4.0 (0.8-1.2). In addition to the administration of Vitamin K, which anticoagulation reversal regimen is best for this patient?",
+            "options": [
+                "A. Fresh frozen plasma",
+                "B. Cryoprecipitate",
+                "C. 3-factor prothrombin complex concentrate",
+                "D. 3-factor prothrombin complex concentrate plus recombinant Factor Vila",
+                "E. 4-factor prothrombin complex concentrate"
+            ],
+            "answer": "E",
+            "explanation": "- Warfarin is a Vitamin K antagonist and common oral anticoagulant.\n- Rapid reversal of anticoagulant effect is needed for life-threatening hemorrhage or urgent operations.\n- Historically, fresh frozen plasma (FFP) and cryoprecipitate were options, but require large volumes (problematic for patients with CHF) and lengthy reversal time.\n- Prothrombin complex concentrates (PCCs) are available for warfarin reversal.\n- 3-factor PCC contains Factors II, IX, X, but only trace Factor VII; it may not completely reverse warfarin and can be augmented with recombinant activated Factor VIIa (rFVIIa).\n- 4-factor PCC contains consistent quantities of Factors II, IX, X, and VII, plus protein C, protein S, and antithrombin III; it achieves a more balanced replacement of Vitamin K-dependent enzymes and may prevent unopposed thrombosis.\n- 4-factor PCC is effective and superior to FFP for rapid INR reversal and hemostasis.\n- 4-factor PCC provides more reliable INR correction than 3-factor PCC.\n- Compared to 3-factor PCC + rFVIIa for traumatic hemorrhage, 4-factor PCC is associated with a less severe decrease in INR, a significant reduction in deep venous thrombosis rates, and a trend toward reduced mortality."
+        },
+        {
+            "id": 29,
+            "question_type": "mcq",
+            "question": "What is the best independent predictor of the need to discharge to a postoperative care facility in elderly patients undergoing emergency general surgery?",
+            "options": [
+                "A. American Society of Anesthesiologists classification",
+                "B. Age",
+                "C. Frailty score",
+                "D. National Surgical Quality Improvement Program® Surgical Risk Calculator",
+                "E. Eastern Cooperative Oncology Group performance status"
+            ],
+            "answer": "C",
+            "explanation": "- Frailty is an age-related, multidimensional state of decreased physiologic reserves, associated with decreased resiliency, loss of adaptive capacity, and increased vulnerability to stressors.\n- Frailty is closely related to poor health care outcomes, including outcomes after surgery.\n- Baseline preoperative frailty determination can predict surgical outcome, such as associated complications, increased length of stay, and destination at discharge (e.g., care facility), as well as hospital readmission, 30-day mortality, and long-term mortality.\n- Frailty is superior to both American Society of Anesthesiologists class and age in predicting in-hospital complications and hospital length of stay.\n- The Frailty index includes 50 questions related to patient history, does not require a physical examination, and answers can be obtained from those who know the patient well.\n- The American College of Surgeons National Surgical Quality Improvement Program (NSQIP®) Surgical Risk Calculator estimates patient-specific postoperative complication risk but has not been validated for emergency surgery.\n- The Eastern Cooperative Oncology Group (ECOG) Performance Status measures patients' activities of daily living and ability."
+        },
+        {
+            "id": 30,
+            "question_type": "clinical_scenario",
+            "question": "A 72-year-old man underwent a Hartmann procedure for perforated diverticular disease and a pelvic abscess. His comorbidities included compensated chronic congestive heart failure and type 2 diabetes controlled by diet and an oral hypoglycemic agent. He was transiently hypotensive during the operation but responded promptly to fluid infusion. What is the most effective strategy to prevent perioperative acute kidney injury?",
+            "options": [
+                "A. Furosemide",
+                "B. N-acetyl cystine",
+                "C. Sodium bicarbonate",
+                "D. Low-dose dopamine",
+                "E. Maintenance of euvolemia"
+            ],
+            "answer": "E",
+            "explanation": "- Perioperative acute kidney injury (AKI) is a common problem for surgical patients and worsens surgical outcomes.\n- The etiology of AKI is multifactorial and varies depending on the underlying condition.\n- Strategies to reduce the risk include the judicious use of intravenous fluids, avoidance of high-volume crystalloids with supraphysiologic chloride concentrations, invasive hemodynamic monitoring, and maintenance of renal perfusion with volume infusion.\n- Furosemide is unlikely to improve mortality or renal function; AKI is increased in hypovolemic patients, and furosemide has an added toxic effect with other nephrotoxic drugs.\n- N-acetyl cystine may have some benefit in contrast-induced AKI, but studies are not consistent.\n- Sodium bicarbonate has been proposed to reduce contrast-induced renal injury, but routine use in the ICU is not recommended.\n- Low-dose dopamine was thought to be renal protective but overwhelming evidence shows the contrary; it may increase oxygen demand and potentiate oxygen debt.\n- Hypovolemia and hypervolemia are both associated with an increase in AKI.\n- Euvolemia is currently the best strategy, with careful monitoring of renal function in high-risk surgical patients."
+        }
+    ]
+}

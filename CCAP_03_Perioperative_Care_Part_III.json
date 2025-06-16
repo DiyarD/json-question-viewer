@@ -1,0 +1,425 @@
+{
+    "chapter_name": "Perioperative Care Part III",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "For patients who are undergoing elective surgery and who are chronically on statin therapy, which of the following statements regarding risk is true?",
+            "options": [
+                "A. Discontinuing statins perioperatively is associated with increased stroke risk",
+                "B. The benefit of continuing statins is most pronounced in those over age 75.",
+                "C. Continuing statins perioperatively is associated with an increased rate of deep organ space infections.",
+                "D. Continuing statins perioperatively is associated with a reduction in all-cause mortality.",
+                "E. Reduction in perioperative risk is primarily due to the lipid lowering effects of statins."
+            ],
+            "answer": "D",
+            "explanation": "- Perioperative HMG-CoA reductase inhibitors (statins) should be continued perioperatively for patients using them chronically.\n- Statin continuation within 24 hours of elective surgery decreases all-cause mortality, especially due to cardiac events in patients undergoing noncardiac operations.\n- This effect is not solely due to the lipid-lowering effects of statins; the anti-inflammatory properties appear to primarily provide protection.\n- Although the benefits of continuing statins perioperatively are most marked in the reduction of cardiac events, there are also observed decreases in infectious-related complications, renal failure, and respiratory complications.\n- There is no apparent effect on central nervous system complications.\n- Patients younger than 75, patients with heart disease or diabetes, or patients undergoing high-risk surgical procedures are at most risk, and perioperative statins should be continued if possible."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "Which of the following statements is true regarding management of inferior vena cava filter placement or retrieval?",
+            "options": [
+                "A. Early complication rates exceed 30%.",
+                "B. Venous thrombosis is the most common late complication.",
+                "C. Most complications occur within 30 days of placement.",
+                "D. Therapeutic indications are more frequent than prophylactic indications.",
+                "E. More than 50% of retrievable filters are being removed."
+            ],
+            "answer": "B",
+            "explanation": "- Venous thromboembolism (VTE) occurs in approximately 1:1000 general-risk and 1:100 high-risk patients and can result in pulmonary embolism.\n- Anticoagulation remains the most common prophylactic and treatment method, yet it is contraindicated in patients with recent hemorrhage, hemorrhagic stroke, undergoing high-risk surgical procedures, or who have sustained severe trauma.\n- In these patients, inferior vena cava (IVC) filters can afford protection from pulmonary embolism from lower extremity deep vein thromboses (DVTs).\n- Absolute indications for placement of these filters are recurrent VTE despite adequate anticoagulation, contraindication to anticoagulation, complications resulting from anticoagulation, and inability to maintain or achieve appropriate anticoagulation.\n- Relative indications include recurrent pulmonary embolism, free-floating lower extremity DVT, and iliocaval DVT.\n- Prophylactic IVC filters are the most common indication (58%) for placement and can be used in trauma, surgical, or medical patients at high risk for DVT.\n- IVC filter placement is most commonly performed via femoral vein approach.\n- Overall complications are low. Early (<30 days) complications (e.g., hematoma, pseudoaneurysm, oversedation) occur in 7%.\n- Long-term complications include recurrent DVT (20%), stent migration (1.3%), and thrombosis (2.8%).\n- Long-term complications should be avoidable because most IVC filters are removable.\n- The current problem is that only 35 to 40% of IVC filters are removed.\n- It is incumbent on all healthcare providers to be aware of this problem and to make sure filters are removed as soon as medically indicated."
+        },
+        {
+            "id": "3",
+            "question_type": "clinical_scenario",
+            "question": "A 53-year-old man undergoes a laparoscopic low anterior resection with diverting loop ileostomy for a T2N0 rectal cancer. On postoperative day 6, he develops a fever and leukocytosis. Pelvic CT scan reveals a pelvic abscess, which responds to percutaneous drainage. He improves clinically and is seen in the office a week later. At that time, a drain study confirms anastomotic leak at the coloproctostomy and resolution of the abscess. His complete blood count and basic metabolic panel are normal, and he has mild abdominal tenderness at his incisions. He is tolerating a regular diet, and drain output is 50 mL/day. What is the most appropriate treatment?",
+            "options": [
+                "A. Continued observation with diet as tolerated",
+                "B. Bowel rest and parenteral nutrition",
+                "C. Endoscopic injection of fibrin glue",
+                "D. Laparotomy with primary repair of the anastomotic defect",
+                "E. Laparotomy, resection of the anastomosis, and end colostomy"
+            ],
+            "answer": "A",
+            "explanation": "- Low pelvic anastomoses for rectal cancer are associated with anastomotic leak rates of 10 to 20%, with the number being higher as the anastomosis gets lower in the pelvis.\n- These leaks can lead to severe pelvic sepsis and death.\n- Most surgeons routinely protect low pelvic anastomoses with a loop ileostomy.\n- Whether temporary proximal diversion truly reduces leak rates or simply reduces the clinical impact of leaks, including a less frequent need for surgical re-exploration, is controversial.\n- Low pelvic anastomotic repair and salvage is quite difficult at the time of diagnosis.\n- Unprotected anastomoses that leak often require takedown and permanent fecal diversion.\n- This patient had an anastomotic leak, but it was diverted proximally, is clinically normal with no uncontrolled sepsis after a percutaneous drain created a controlled colocutaneous fistula.\n- Most of these fistulas (~75%) will close spontaneously over time and not require surgical intervention, but they can take up to 6 months to heal.\n- During this time, observation and ongoing percutaneous drainage are typically all that is necessary without a need for antibiotics or bowel rest.\n- The anastomosis is followed with serial water-soluble contrast enemas or CT scans with rectal contrast.\n- Bowel rest and parenteral nutrition will not affect the output or closure rate of a diverted fistula and may lead to malnutrition and bacterial overgrowth.\n- Endoscopic injection of fibrin glue was reported in a small series with limited success, but this would typically be reserved for patients with persistent fistulas rather than used as a primary intervention.\n- Laparotomy with repair of the anastomotic defect would be aggressive and technically difficult, and such a repair, when warranted, would be better approached transanally.\n- Laparotomy would be appropriate for uncontrolled sepsis, especially if the patient was not initially diverted.\n- Anastomotic resection and end colostomy should be reserved for patients with severe anastomotic breakdown and associated pelvic sepsis."
+        },
+        {
+            "id": "4",
+            "question_type": "clinical_scenario",
+            "question": "A 74-year-old man undergoes a Whipple procedure for pancreatic cancer and is treated with prophylactic doses of subcutaneous unfractionated heparin after surgery. On postoperative day 5, his platelet count decreases from 150,000/mm3 to 40,000/mm3 (150,000-400,000/mm3), and a heparin-induced thrombocytopenia antibody is positive. After stopping heparin, what is the most appropriate initial treatment?",
+            "options": [
+                "A. Desmopressin",
+                "B. Platelet transfusion",
+                "C. Argatroban",
+                "D. Enoxaparin",
+                "E. Warfarin"
+            ],
+            "answer": "C",
+            "explanation": "- Up to 17% of patients treated with unfractionated heparin (UFH) will develop anti-heparin-PF4 antibodies (also known as HIT antibodies).\n- Less than 5% of these patients go on to develop the syndrome of heparin-induced thrombocytopenia (HIT).\n- Antibody formation is lower in patients treated with low molecular weight heparin (LMWH, 8%), and the relative risk of thrombotic complications is 0.22 compared with UFH.\n- Despite its rarity, HIT remains quite morbid, and early recognition and treatment are essential to good patient outcomes.\n- Although significant variation exists in timing and severity, HIT typically occurs 5 to 15 days after initial heparin exposure.\n- New-onset thrombocytopenia should alert the clinician that heparin cessation and HIT antibody testing are necessary.\n- The \"4T\" score (thrombocytopenia, timing of platelet decrease, sequela of thrombosis, and other causes of thrombocytopenia) is used at many centers to differentiate patients into either low risk or intermediate-to-high risk for HIT.\n- Patients with HIT can develop both arterial and venous thromboses.\n- Prompt anticoagulation with a novel agent is warranted.\n- Direct thrombin inhibitors such as argatroban and bivalirudin are considered first-line therapy for HIT.\n- Desmopressin is used for patients with von Willebrand disease and has not been studied in HIT.\n- Transfused platelets would be counterproductive in preventing thrombotic complications.\n- Enoxaparin is associated with HIT as well and is not used due to concern for cross-reactivity.\n- Warfarin is not used for HIT due to its slow rate of onset along with the associated transient hypercoagulability, with several reports of warfarin-induced skin necrosis being tied to HIT treatment."
+        },
+        {
+            "id": "5",
+            "question_type": "clinical_scenario",
+            "question": "A 55-year-old man undergoes a laparoscopic sigmoid colectomy for diverticulitis. Which of the following interventions is associated with a decreased rate of surgical site infection in this patient?",
+            "options": [
+                "A. Intraoperative normothermia",
+                "B. Prophylactic antibiotics for 48 hours",
+                "C. Iodine-impregnated adhesive drapes",
+                "D. Preoperative chlorhexidine shower",
+                "E. Incisional gentamicin sponge"
+            ],
+            "answer": "A",
+            "explanation": "- Surgical site infections (SSIs) are common after colorectal surgery, with several modifiable and nonmodifiable risk factors.\n- Hypothermia is common during major abdominal surgery, and it is known to be associated with higher rates of SSI.\n- Well-designed randomized controlled trials demonstrated decreased rates of SSI when core body temperature is maintained above 36°C.\n- Continuing antibiotics for 48 hours after surgery does not reduce SSI rates compared with a single preoperative dose, and routine cessation of prophylactic antibiotics in the first 24 hours is appropriate.\n- Although iodine-impregnated adhesive drapes advertise the ability to reduce the wound's exposure to skin flora, a Cochrane review demonstrated no reduction in SSI with their use, as well as some evidence that they increase infection rates.\n- Another Cochrane review focused on preoperative chlorhexidine showers and could find no benefit to the practice compared with either placebo or a simple bar of soap.\n- A 2010 randomized controlled trial of gentamicin sponges actually demonstrated a significantly higher rate of SSI compared with no intervention."
+        },
+        {
+            "id": "6",
+            "question_type": "clinical_scenario",
+            "question": "A 42-year-old man is undergoing esophagogastro-duodenoscopy for new-onset dysphagia. He receives topical benzocaine along with intravenous midazolam and fentanyl before the procedure. Despite no abnormal findings during the procedure, the patient appears cyanotic and reports shortness of breath unresponsive to supplemental oxygen. Pulse oximetry shows an oxygen saturation of 88%. Arterial blood gas is obtained, showing a PaO2 of 200 mm Hg, PaCO2 of 30 mm Hg, and a methemoglobin level of 35% (0-3%). What is the most appropriate next step?",
+            "options": [
+                "A. Flumazenil",
+                "B. Naloxone",
+                "C. Methylene blue",
+                "D. Dantrolene",
+                "E. Endotracheal intubation"
+            ],
+            "answer": "C",
+            "explanation": "- Methemoglobinemia is a well-known but uncommon complication of topical benzocaine, occurring in 1 of every 7000 exposures.\n- It is caused by mucosal absorption of benzocaine, which can lead to the oxidation of ferrous (Fe2+) to ferric (Fe3+) iron.\n- Iron in hemoglobin must be in its reduced (Fe2+) state for normal oxygen exchange to occur.\n- This oxidation of hemoglobin not only leads to a functional anemia but also increases its affinity for oxygen, thus shifting the oxyhemoglobin dissociation curve to the left and leading to less oxygen delivery to tissues.\n- Patients with methemoglobinemia will become increasingly cyanotic as methemoglobin levels increase.\n- The cyanosis is typically unresponsive to supplemental oxygen.\n- Pulse oximetry will generally underestimate the degree of hypoxia, with readings of 85 to 90% despite a worsening clinical picture.\n- Of note, the PaO2 will be elevated and the blood will often have a dark brown hue.\n- Methylene blue acts as an electron donor, converting methemoglobin back to hemoglobin.\n- It should be administered at an initial dose of 50 to 100 mg intravenously.\n- If patients do not improve after administration, there are several possibilities, including glucose-6-phosphate dehydrogenase deficiency and even methylene blue overdose, which causes worsening methemoglobin at very high doses because it is also an oxidizing agent.\n- Patients with refractory methemoglobinemia can be considered for exchange transfusions or hyperbaric oxygen.\n- Flumazenil is the primary pharmacologic treatment for benzodiazepine overdose, whereas naloxone is used for narcotic overdose.\n- Dantrolene is administered for malignant hyperthermia.\n- Endotracheal intubation would be appropriate if the sedated patient could not protect his airway, but it would not improve the patient's oxygenation in the presence of high levels of methemoglobin."
+        },
+        {
+            "id": "7",
+            "question_type": "clinical_scenario",
+            "question": "A 72-year-old woman undergoes an open sigmoid colectomy for colon cancer. Which of the following interventions reduces the incidence of postoperative ileus in this patient?",
+            "options": [
+                "A. Methylnaltrexone",
+                "B. Sugar-free chewing gum",
+                "C. Wound infiltration with liposomal bupivacaine",
+                "D. Magnesium citrate",
+                "E. Bisacodyl suppositories"
+            ],
+            "answer": "B",
+            "explanation": "- Enhanced recovery after surgery (ERAS) protocols for patients undergoing colorectal surgery are derived from studies evaluating the efficacy of interventions designed to reduce the morbidity and cost of surgical procedures and therefore improve outcomes and value.\n- One such intervention, providing sugar-free chewing gum perioperatively, is as a method of sham feeding, with the hope that the mastication motion will promote intestinal motility through the cephalic phase of vagal enteric stimulation.\n- A meta-analysis summarizing the existing literature concluded that sugar-free chewing gum is an inexpensive and effective way to reduce postoperative ileus, and it is well-tolerated without any detrimental effect on patient outcomes.\n- Methylnaltrexone is currently indicated for opioid-induced constipation, but it was initially studied as an intervention to reduce postoperative ileus. Two large multicenter randomized controlled trials failed to show a reduction in postoperative ileus compared with placebo.\n- Liposomal bupivacaine is gaining in popularity as a component of multimodal pain control in ERAS protocols. However, current data do not demonstrate superiority to conventional bupivacaine.\n- Laxatives such as magnesium citrate and stimulants such as bisacodyl will induce diarrhea, but they will not increase small intestinal motility or reduce postoperative ileus."
+        },
+        {
+            "id": "8",
+            "question_type": "clinical_scenario",
+            "question": "A 65-year-old woman with well controlled type 2 diabetes mellitus presents with perforated appendicitis. She is taken to the operating room for exploration, drainage of intra-abdominal abscess, and ileocecectomy. She is admitted to the surgical intensive care unit postoperatively in septic shock. Overnight, she is resuscitated with 9 L crystalloid. She is now on norepinephrine and vasopressin infusions to keep her mean arterial pressure above 65 mm Hg. On postoperative day 1, she is hypoxic with pulmonary edema on chest x-ray. Her serum potassium is 5.9 mmol/L, her serum creatinine increased from 1.5 to 5.4 mg/dL (0.4-1.3 mg/dL), her serum blood urea nitrogen is 60 mg/dL (7-20 mg/dL), her serum bicarbonate is 13 mmol/L (20-29 mmol/L), and her pH is 7.21. Her urine output is 0.3 mL/kg/hour for the last 12 hours. What is the next step in managing her renal failure?",
+            "options": [
+                "A. Continuous renal replacement therapy",
+                "B. Intermittent hemodialysis",
+                "C. Furosemide 80 mg intravenously",
+                "D. Dopamine infusion",
+                "E. Sodium bicarbonate infusion"
+            ],
+            "answer": "A",
+            "explanation": "- Acute kidney injury in the postoperative period is associated with increased morbidity and mortality.\n- Two classification systems were proposed in the early 2000s: the RIFLE criteria and the Acute Kidney Injury Network (AKIN) staging system.\n- Both systems provide concise definitions of the extent of injury and prognosis, considering increases in serum creatinine (absolute number or from baseline) and urine output criteria.\n- This patient had a marked increase in serum creatinine and has oliguria, classifying her as Failure (RIFLE) or AKIN stage III.\n- Additionally, she is acidemic (pH 7.21, bicarbonate 13 mmol/L), hyperkalemic (5.9 mmol/L), and shows evidence of volume overload with hypoxemia and radiographic pulmonary edema.\n- This patient has several indications for renal replacement therapy.\n- When patients are hemodynamically abnormal and require vasopressor support, a continuous mode of renal replacement therapy is preferred.\n- Continuous modes require smaller volumes of blood to be removed at a time compared with intermittent hemodialysis and are better tolerated in hypotensive patients.\n- A sodium bicarbonate infusion is used for patients with acidosis; however, starting a sodium bicarbonate infusion is generally not recommended until the serum pH is less than 7.15. Also, there are no data confirming any reduction in morbidity and mortality for its use in renal failure.\n- Aggressive diuretic therapy used in the early stages of AKI to treat volume overload and hyperkalemia is possible. However, once a patient advances to renal failure, renal replacement therapy is the preferred modality of management.\n- Low-dose dopamine infusions were once erroneously thought to be renal protective via a mechanism of increased renal blood flow. There are currently no data to support the use of a dopamine infusion as prevention or treatment of AKI."
+        },
+        {
+            "id": "9",
+            "question_type": "mcq",
+            "question": "Which of the following components of an infection prevention bundle has the most significant impact in reducing surgical site infections in elective colorectal surgery patients?",
+            "options": [
+                "A. Preoperative shower with 4% chlorhexidine gluconate",
+                "B. Mechanical bowel preparation",
+                "C. Intraoperative abdominal irrigation with antibiotic",
+                "D. Mechanical bowel preparation combined with oral antibiotics",
+                "E. Dedicated instruments for wound closure"
+            ],
+            "answer": "D",
+            "explanation": "- Surgical site infections (SSIs) after colorectal surgery are a significant cause of morbidity and mortality and remain an important national quality indicator.\n- Mechanical bowel preparation plus oral antibiotics was a mainstay in colorectal surgery for decades, but several publications questioned the efficacy of mechanical bowel preparation alone.\n- Numerous randomized controlled trials failed to show any decrease in SSIs or anastomotic leak.\n- A major criticism of these trials was omission of the oral antibiotic portion of the standard bowel preparation.\n- The American College of Surgeons National Surgical Quality Improvement Program (NSQIP) retrospectively evaluated 4999 patients who underwent colectomy.\n- Patients who had a combined mechanical bowel preparation and oral antibiotics had a lower 30-day rate of superficial SSIs, anastomotic leak, and 30-day readmission, compared with mechanical bowel preparation alone.\n- Infection prevention bundles are used to reduce the rates of infection related to central line insertions and mechanical ventilation.\n- Several interventions in the preoperative and perioperative arenas are proposed to reduce the rates of SSI in colorectal patients, and institutions have grouped them together in an infection prevention bundle.\n- One group studied the impact of each component: mechanical bowel preparation plus oral antibiotics, preoperative chlorhexidine shower, preoperative hair clipping, skin preparation with a standard chlorhexidine alcohol solution, intraoperative antibiotic irrigation, and a clean closure protocol with dedicated instruments.\n- Multivariate analysis showed that the mechanical bowel preparation with oral antibiotics had the greatest effect on reducing SSIs."
+        },
+        {
+            "id": "10",
+            "question_type": "clinical_scenario",
+            "question": "A 63-year-old man with a symptomatic midline ventral hernia from prior open appendectomy presents with a reducible bulge. He has a history of well-controlled hypertension, diabetes mellitus type 2, and paroxysmal atrial fibrillation. He has been on warfarin for the last 5 years. He has had worsening symptoms and pain from the hernia over the past 6 months and 2 episodes of incarceration requiring emergency department visits. Which of the following statements is true regarding this patient's perioperative anticoagulation?",
+            "options": [
+                "A. His yearly risk of thromboembolic events is 8%.",
+                "B. Perioperative bridging with low molecular weight heparin (LMWH) decreases his risk of thromboembolic events by 50%.",
+                "C. Warfarin should be stopped 3 days preoperatively.",
+                "D. Initiation of postoperative bridging with LMWH increases his risk of major postoperative bleeding.",
+                "E. Dual antiplatelet therapy should be initiated to reduce the risk of perioperative stroke."
+            ],
+            "answer": "D",
+            "explanation": "- Patients with atrial fibrillation are placed on lifelong anticoagulation to reduce their risk of embolic stroke.\n- When they are scheduled to undergo surgery, most patients have their warfarin held preoperatively, typically 5 days before surgery.\n- Due to the concern of an embolic event during this time period, many patients undergo bridging anticoagulation with a low molecular weight heparin (LMWH).\n- Despite very little data to support this practice, bridging anticoagulation has remained in practice guidelines.\n- A prospective, double blind, randomized trial of 1884 low-risk patients compared bridging with LMWH with no bridging in patients with nonvalvular atrial fibrillation who had warfarin held in the perioperative period.\n- The incidence of arterial thromboembolism and stroke was not different between the 2 groups (0.4% vs 0.3%) but the patients who underwent bridging with LMWH had more than twice as much major bleeding (1.3% vs 3.2%).\n- Given no increase in stroke rate but higher bleeding complications in the bridging group, perioperative bridging anticoagulation is not recommended.\n- The risk of stroke in patients with nonvalvular atrial fibrillation can be calculated with the CHADS2 score.\n- The CHADS2 score is calculated by adding up points from the presence of congestive heart failure, hypertension, age older than 75 years, diabetes mellitus, and history of stroke or transient ischemic attack.\n- The patient in our question has 2 points for hypertension and diabetes, giving him a 4.0% yearly risk of thromboembolic event with no warfarin.\n- Dual antiplatelet therapy is not an effective treatment to prevent stroke in patient with nonvalvular atrial fibrillation."
+        },
+        {
+            "id": "11",
+            "question_type": "mcq",
+            "question": "Which of the following is associated with decreasing the rate of central line associated blood stream infections?",
+            "options": [
+                "A. Central line insertion bundle",
+                "B. Polyvinyl chloride catheter",
+                "C. Prophylactic intravenous antibiotics",
+                "D. Routine guidewire exchange of the catheter",
+                "E. Placement in femoral vein under ultrasound guidance"
+            ],
+            "answer": "A",
+            "explanation": "- Central line associated blood stream infections (CLABSI) are a significant source of morbidity and increased costs in surgical patients.\n- The most common route of contamination and subsequent infection of a central line is migration of skin microorganisms from the insertion site to the catheter tract.\n- To decrease the contamination of the catheter, several anti-infectious procedures were combined into a single central line insertion bundle.\n- Several different components may be included in a central line insertion bundle; however, most include the following: hand washing, maximal sterile barrier precautions, chlorhexidine skin preparation, avoiding femoral vein placement, and removal of unnecessary catheters.\n- The use of a central line insertion bundle reduced CLABSI by 66% in a large multi-institution trial.\n- Additional components to a central line insertion bundle include applying a sterile dressing, replacing the dressing every 48 hours, and using a chlorhexidine-impregnated dressing.\n- Several other interventions were studied but are not cost-effective in reducing CLABSI rates.\n- Prophylactic intravenous antibiotics and routine guidewire catheter exchanges did not decrease the rate of CLABSI.\n- Catheters impregnated with chlorhexidine, minocycline, rifampin, platinum, or silver can be used in patients who need a central line for more than 5 days and in settings where other components of the central line insertion bundle have not reduced CLABSI rates.\n- No association exists between catheter material and CLABSI rates."
+        },
+        {
+            "id": "12",
+            "question_type": "clinical_scenario",
+            "question": "A 68-year-old man with chronic renal failure is dialysis-dependent and has recurrent biliary colic. He presented for elective cholecystectomy. His medical history was significant for a myocardial infarction 5 months ago, after which a bare metal stent was placed. He was taking aspirin and clopidogrel. Clopidogrel was held for 5 days before surgery, but aspirin was continued. Two days after cholecystectomy, he has chest pain and a myocardial infarction. What factor most contributed to his major adverse cardiac event after surgery?",
+            "options": [
+                "A. Withholding clopidogrel in the perioperative period",
+                "B. Use of bare metal stent rather than drug-eluting stent",
+                "C. Myocardial infarction within the past 6 months",
+                "D. Dialysis dependence",
+                "E. Male sex"
+            ],
+            "answer": "C",
+            "explanation": "- Elective noncardiac surgery is associated with a small risk of postoperative major adverse cardiac events.\n- Risk stratification before elective surgery is important, and surgeons should be aware of preoperative factors that increase this risk.\n- Demographics such as advanced age and male sex are associated with postoperative cardiac complications, as are chronic preoperative conditions such as coronary artery disease, congestive heart failure, cerebrovascular disease, and renal insufficiency.\n- Acute conditions that carry a high risk include acute coronary or aortic disease, stroke, major trauma, or emergency surgery.\n- As the population of individuals with coronary stents increases, so does the population in need of noncardiac surgery who have coronary stents.\n- Recent cardiac stent placement is associated with postoperative major cardiac events; however, stent type is not independently associated with major cardiac event if the elective surgery is delayed more than 6 months after stent placement.\n- At the same time, perioperative management of antiplatelet therapy can be a challenge in these patients, especially in patients with drug-eluting stents.\n- American College of Cardiology/American Heart Association guidelines recommend delaying elective surgery for a period of at least 6 months for patients with drug-eluting stents if possible, especially if dual antiplatelet therapy is discontinued perioperatively.\n- By contrast, elective noncardiac surgery can be performed 1 month after bare metal stent placement, and the risk for postoperative myocardial infarction is highest if surgery is performed within 30 days of stent placement, regardless of whether a bare metal or drug-eluting stent were placed.\n- Common practice is to discontinue clopidogrel and to continue aspirin in the perioperative period.\n- Despite recent advances in perioperative care, patients with a recent myocardial infarction remain at very high risk for postoperative cardiac complications.\n- The risk of postoperative cardiac event decreases with greater delay in the timing of surgery after a preoperative myocardial infarction.\n- Risk of myocardial infarction is highest if surgery is performed within 30 days of preoperative myocardial infarction and remains greater than 5% at 3 to 6 months.\n- After 6 months, the relative risk for early postoperative myocardial infarction decreases further and remains low up to 1 year after surgery."
+        },
+        {
+            "id": "13",
+            "question_type": "emq",
+            "question": "Reversed by Vitamin K",
+            "options": [
+                "A. Dabigatran",
+                "B. Rivaroxaban",
+                "C. Fondaparinux",
+                "D. Clopidogrel",
+                "E. Warfarin"
+            ],
+            "answer": "E",
+            "explanation": "- Warfarin is a long-used oral anticoagulant.\n- It inhibits the Vitamin K-dependent Factors II, VII, IX, and X.\n- Additionally, it inhibits the anticoagulant factors proteins C and S.\n- Warfarin interacts with KO reductase, inhibiting oxidized Vitamin K to be reduced to normal Vitamin K.\n- It is monitored via the PT/INR assay.\n- It is the only oral anticoagulant to be reversed by Vitamin K.\n- It can also be reversed with fresh frozen plasma or prothrombin complex concentrates."
+        },
+        {
+            "id": "14",
+            "question_type": "emq",
+            "question": "Selective Factor Xa inhibitor",
+            "options": [
+                "A. Dabigatran",
+                "B. Rivaroxaban",
+                "C. Fondaparinux",
+                "D. Clopidogrel",
+                "E. Warfarin"
+            ],
+            "answer": "B",
+            "explanation": "- Rivaroxaban is a direct-binding Factor Xa inhibitor.\n- It elevates both activated PTT (aPTT) and PTT but not in a consistent fashion, limiting the utility in these in determining anticoagulation activity.\n- It is not effectively dialyzable and has no specific reversal agent approved.\n- Andexanet alfa is a recombinant analog of factor Xa and may be available in the future as a specific inhibitor for Factor Xa inhibitors.\n- Currently, most reversal protocols use a 4-factor prothrombin complex concentrate in life-threatening situations."
+        },
+        {
+            "id": "15",
+            "question_type": "emq",
+            "question": "Specific reversal agent is idarucizumab",
+            "options": [
+                "A. Dabigatran",
+                "B. Rivaroxaban",
+                "C. Fondaparinux",
+                "D. Clopidogrel",
+                "E. Warfarin"
+            ],
+            "answer": "A",
+            "explanation": "- Dabigatran is a thrombin inhibitor that binds directly to thrombin.\n- It lengthens the partial thromboplastin time (PTT) but in a non-dose-related fashion.\n- Additionally, the prothrombin time (PT)/international normalized ratio (INR) is not useful in establishing the degree of drug activity.\n- Although the classic thrombin time is too sensitive, the development of the dilute thrombin time is useful to estimate the quantity of the drug in circulation.\n- As a corollary, a normal thrombin time suggests very low or no drug activity, a useful tool in an acute situation.\n- Dabigatran is dialyzable.\n- Idarucizumab is a monoclonal antibody preparation that is a specific reversal agent for dabigatran.\n- It has been approved for the reversal of dabigatran in the setting of life-threatening hemorrhage and when anticipating invasive procedures or surgery that cannot be delayed for at least 8 hours."
+        },
+        {
+            "id": "16",
+            "question_type": "emq",
+            "question": "Ketorolac",
+            "options": [
+                "A. Anastomotic leak",
+                "B. Clostridium difficile infection",
+                "C. Serotonin syndrome",
+                "D. Delirium",
+                "E. Wound infection"
+            ],
+            "answer": "A",
+            "explanation": "- Perioperative care of the surgical patient should include a fundamental knowledge of potential negative effects of drug treatments prescribed in the postoperative period as well as ramifications of patient factors that enhance the risk of surgical procedures.\n- Although not firmly a cause-and-effect relationship, surgeons should be aware that there is a definite association in large cohort studies between nonsteroidal antiinflammatory drugs (NSAIDS) such as ketorolac and a risk of colonic anastomotic dehiscence in both elective and urgent colon surgery.\n- This is especially in need of clarification because narcotic-sparing regimens for enhanced recovery pathways liberally use NSAIDS as a component of care."
+        },
+        {
+            "id": "17",
+            "question_type": "emq",
+            "question": "Pantoprazole",
+            "options": [
+                "A. Anastomotic leak",
+                "B. Clostridium difficile infection",
+                "C. Serotonin syndrome",
+                "D. Delirium",
+                "E. Wound infection"
+            ],
+            "answer": "B",
+            "explanation": "- The perioperative risk of Clostridium difficile superinfection of the colon is not uncommon in surgical patients, especially in carriers of the bacteria or those exposed to prolonged antibiotic use.\n- The risk of infection with C. difficile is also linearly related to the degree of perioperative add suppression with both histamine receptor type 2 blockers, such as famotidine or ranitidine, and proton pump inhibitors, such as omeprazole, pantoprazole, or lansoprazole."
+        },
+        {
+            "id": "18",
+            "question_type": "emq",
+            "question": "Linezolid",
+            "options": [
+                "A. Anastomotic leak",
+                "B. Clostridium difficile infection",
+                "C. Serotonin syndrome",
+                "D. Delirium",
+                "E. Wound infection"
+            ],
+            "answer": "C",
+            "explanation": "- Serotonin syndrome is a potentially life-threatening disorder that can result from administering linezolid in a patient taking other medications that may interact with it.\n- This is because it was originally developed for its nonselective monoamine oxidase inhibitory properties.\n- Common drug interactions with linezolid include selective serotonin reuptake inhibitors, such as paroxetine, sertraline, or citalopram, as well as selective norepinephrine reuptake inhibitors, such as venlafaxine or mirtazapine.\n- Symptoms include high body temperature, agitation, increased reflexes, tremor, sweating, dilated pupils, and diarrhea.\n- Body temperature can increase to more than 41.1 °C.\n- A host of other common medications prescribed in the perioperative period including sedatives, such as trazodone, or analgesics, such as tramadol, can precipitate the serotonin syndrome as well.\n- Herbal products such as St John's Wort are also associated with the serotonin syndrome."
+        },
+        {
+            "id": "19",
+            "question_type": "emq",
+            "question": "Cotinine",
+            "options": [
+                "A. Anastomotic leak",
+                "B. Clostridium difficile infection",
+                "C. Serotonin syndrome",
+                "D. Delirium",
+                "E. Wound infection"
+            ],
+            "answer": "E",
+            "explanation": "- Although not a perioperative medication, tobacco use in the perioperative period is a definite risk factor for surgical site infection and wound complications.\n- The abstinence of tobacco products for 8 to 12 weeks before elective surgery is associated with better outcomes.\n- Perioperative serum or urine testing of cotinine, a by-product of nicotine metabolism can be used to risk-stratify for elective surgery."
+        },
+        {
+            "id": "20",
+            "question_type": "mcq",
+            "question": "When used in the context of an enhanced recovery strategy after laparotomy with bowel resection and anastomosis, the addition of alvimopan results in",
+            "options": [
+                "A. decreased anastomotic leaks.",
+                "B. less nausea.",
+                "C. increased hospital readmission within 10 days.",
+                "D. shorter time to bowel movement",
+                "E. decreased pain scores."
+            ],
+            "answer": "D",
+            "explanation": "- Enhanced recovery after surgery (ERAS) programs have had several benefits, especially after colorectal surgery.\n- They are associated with decreased length of stay without increased readmission rates and with improved patient satisfaction.\n- Two of the key components are adequate pain control and early initiation of oral intake.\n- However, the use of opioid pain medications can contribute to postoperative gastrointestinal dysfunction and ileus.\n- Alvimopan, a mu-opioid antagonist, can mitigate the gastrointestinal side-effect of narcotics without interfering with the analgesic effects.\n- When used in the context of an ERAS program, alvimopan results in a shorter time to initial bowel movement after operation.\n- Use of alvimopan is not associated with anastomotic leaks rates, postoperative nausea, increased early hospital readmission (10 days), or increased pain scores.\n- There is added pharmacy cost with its use, but this is offset by the decreased length of stay associated with a shorter ileus period."
+        },
+        {
+            "id": "21",
+            "question_type": "clinical_scenario",
+            "question": "After a laparoscopic appendectomy with adequate source control for perforated appendicitis in a healthy patient, antibiotics should be prescribed for",
+            "options": [
+                "A. 4 days.",
+                "B. 7 days.",
+                "C. 10 days.",
+                "D. 14 days.",
+                "E. 48 hours beyond normalization of fever and white blood cell count."
+            ],
+            "answer": "A",
+            "explanation": "- Surprisingly little data are available on the duration of antibiotic treatment for many surgical infections.\n- Recently, more data are emerging that support shorter durations as being equally effective.\n- The Study to Optimize Peritoneal Infection Therapy (STOP-IT) trial enrolled adult patients with a complicated intra-abdominal infection, fever, leukocytosis, or gastrointestinal tract dysfunction from peritonitis, and an intervention to achieve source control.\n- Participants were randomized (1:1, open-label) to 4 full days of antimicrobial treatment after the initial source-control procedure (experimental group) or to antimicrobial therapy until 2 days after resolution of systemic inflammatory response (control group).\n- The primary outcome of the study was a composite score of the occurrence of surgical site infections, intra-abdominal infection, or death within 30 days.\n- There were no significant differences between the 2 groups in either the composite outcome or its individual components.\n- Thus, in patients with adequate source control, a fixed 4-day course is as effective as longer courses based on fixed number of days or physiologic response.\n- Additional studies in complicated appendicitis patients with adequate source control after laparoscopic appendectomy showed that shorter courses (in the range of 3-5 days) do not have worse outcomes."
+        },
+        {
+            "id": "22",
+            "question_type": "mcq",
+            "question": "Use of a restrictive red blood cell transfusion protocol (Hgb <7 g/dL) for hemodynamically normal intensive care unit patients results in",
+            "options": [
+                "A. increased mortality.",
+                "B. increased length of stay.",
+                "C. increased readmission rates.",
+                "D. decreased percentage of patients transfused.",
+                "E. increased fresh frozen plasma use."
+            ],
+            "answer": "D",
+            "explanation": "- Transfusion practices in the intensive care unit have undergone significant changes over the last 10 years.\n- Although red blood cell transfusion can be lifesaving for someone with active hemorrhage and hemodynamic abnormality, the detrimental effects of red cell transfusions are not negligible.\n- Based on data from large clinical trials, it has become increasingly clear that a more restrictive policy toward red cell transfusion for hemodynamically normal patients in the intensive care unit has several benefits.\n- In this setting, mortality rates are at least equivalent (if not lower) for a restrictive policy.\n- The percentage of patients transfused is decreased (from approximately 25% to approximately 18%), and mean direct costs of transfusion are reduced by approximately 25%.\n- Healthcare-associated infections are decreased.\n- Hospital length of stay and readmission rates are decreased as well with restrictive transfusions.\n- Restrictive red cell transfusion policies are associated with similar reductions in transfusion of other blood components, including plasma and platelets."
+        },
+        {
+            "id": "23",
+            "question_type": "clinical_scenario",
+            "question": "A 62-year-old woman is admitted with a 2-day history of right upper quadrant pain and is diagnosed with acute cholecystitis. She has no angina, and her electrocardiogram is normal, but she is on clopidogrel for a bare metal coronary stent placed 1 year ago. What is the next step in her management?",
+            "options": [
+                "A. Proceed with laparoscopic cholecystectomy",
+                "B. Delay the operation for 5 days",
+                "C. Transfuse platelets intraoperatively",
+                "D. Administer tranexamic add preoperatively",
+                "E. Start a preoperative heparin drip"
+            ],
+            "answer": "A",
+            "explanation": "- For patients with uncomplicated acute cholecystitis, laparoscopic cholecystectomy generally should be done during the index hospital stay.\n- However, in patients on antiplatelet therapy, there is always a concern for increased risk of bleeding with operation, as well as the concern for coronary stent occlusion if the medication is discontinued or reversed.\n- For patients undergoing laparoscopic procedures, continuation of a single antiplatelet agent during the operative period is not associated with an increased incidence of operative or postoperative bleeding.\n- Thus, many guidelines recommend continuation of a single antiplatelet agent through the operative period in patients at high risk for thrombotic complications and procedures with low-risk of postoperative bleeding (such as a laparoscopic cholecystectomy).\n- In this case, the appropriate next step is to proceed with laparoscopic cholecystectomy.\n- Waiting an additional 5 days will not affect the risk of bleeding and will increase the risk for conversion to open operation.\n- Because the risk of postoperative bleeding is not increased, platelet transfusion would not benefit this patient.\n- Likewise, tranexamic add is an antifibrinolytic agent and does not affect platelet function.\n- There is no evidence that bridging anticoagulation with a heparin drip reduces the risk of stent thrombosis after discontinuation of an antiplatelet agent."
+        },
+        {
+            "id": "24",
+            "question_type": "mcq",
+            "question": "Standardized post discharge ileostomy pathways with comprehensive patient education and close outpatient follow-up result in",
+            "options": [
+                "A. increased total cost of care.",
+                "B. increased 30-day adverse events.",
+                "C. decreased readmission rates for dehydration.",
+                "D. increased hospital stays for patients who are readmitted.",
+                "E. decreased patient satisfaction."
+            ],
+            "answer": "C",
+            "explanation": "- For patients with new ileostomies, readmissions can be frequent, with dehydration due to high ileostomy output being the most common cause.\n- Several studies investigated the use of ileostomy pathways to reduce the morbidity of ileostomies and reduce the rate of readmission.\n- Although each study varied somewhat in the details, the main components included: detailed preoperative education; specific postoperative interventions (e.g., stoma care, dietary instructions); discharge instructions (e.g., ileostomy diary, phone contact numbers); and frequent contact with the patient by phone call in the first few weeks to assess progress, monitor the ileostomy, and provide new or reinforce existing instructions.\n- The main benefit of these pathways and frequent contact is a 50 to 100% reduction in the number of admissions due to dehydration.\n- Overall, 30-day adverse events are decreased.\n- Additionally, for those patients who do need readmission, their lengths of stay tend to be shorter.\n- There is some incremental increase in the cost of the intensive out-patient follow-up, but this is more than offset by the cost saving of reduced readmissions (i.e., total cost of care goes down).\n- Finally, patient satisfaction with these programs is very high."
+        },
+        {
+            "id": "25",
+            "question_type": "mcq",
+            "question": "Which of the following antihypertensive medications should be continued on the day of elective surgery?",
+            "options": [
+                "A. Beta-blocker",
+                "B. Calcium channel blocker",
+                "C. Angiotensin converting enzyme inhibitor",
+                "D. Alpha-2 agonists (clonidine)",
+                "E. Furosemide"
+            ],
+            "answer": "A",
+            "explanation": "- Early recommendations by the American College of Cardiology (ACC) and American Heart Association (AHA) included perioperative beta-blocker therapy for patients undergoing noncardiac surgery with untreated hypertension, known coronary artery disease, or other cardiac risk factors.\n- Since those recommendations, however, larger studies demonstrated that although initiation of beta-blockade therapy decreased the risk of perioperative nonfatal myocardial infarction, it increased the risk of stroke and death.\n- Consequently, a more recent ACC/AHA guideline discouraged initiating new therapy within 1 day of surgery.\n- However, for patients on chronic beta-blocker therapy, there is a strong recommendation that beta blockers be continued in the perioperative period to avoid adverse cardiac events.\n- No evidence suggests that continuation of calcium channel blockers in the perioperative period provides any benefit in terms of postoperative myocardial infarction or cardiac death. At the same time, there is also no significant detriment to continuing calcium channel blocker therapy on the day of surgery, and the decision of whether to continue can be left to the discretion of the surgical team and patient.\n- Similarly, angiotensin converting enzyme (ACE) inhibitors are commonly prescribed medications. Use of ACE inhibitors on the day of surgery is associated with intraoperative hypotension but does not cause worse cardiovascular or renal outcomes.\n- Meanwhile, there is no convincing evidence that perioperative use of ACE inhibitors is protective. Thus, ACC/AHA recommendations suggest that it is reasonable to continue ACE inhibitor therapy in the perioperative period but holding them is acceptable as well.\n- There is a similar concern that loop diuretics used on the day of noncardiac surgery could increase the risk of intraoperative hypotension; however, the risk of developing perioperative adverse cardiovascular events is not increased in patients on continued furosemide therapy. In these patients, however, there is no known benefit to continued therapy.\n- Alpha-2 agonists are not recommended as cardiac prophylaxis in patients who are undergoing noncardiac surgery, because they have no role in perioperative cardiac protection and may increase postoperative nonfatal myocardial infarction.\n- Sudden discontinuation of ongoing alpha-2 agonist therapy can result in hypertension, headache, or agitation, but continuation on the day of surgery is not proven to provide perioperative benefit."
+        },
+        {
+            "id": "26",
+            "question_type": "mcq",
+            "question": "Prophylactic placement of an inferior vena cava (IVC) filter before bariatric surgery compared with not placing an IVC filter is associated with which of the following outcomes",
+            "options": [
+                "A. Higher postoperative deep vein thrombosis rate",
+                "B. Lower pulmonary embolism rate",
+                "C. Reduced use of perioperative anticoagulation",
+                "D. Shorter length of stay",
+                "E. Decreased all-cause 90-day mortality"
+            ],
+            "answer": "A",
+            "explanation": "- Venous thromboembolism (VTE) is a rare complication after bariatric surgery. Nonetheless, bariatric patients are considered to be at moderate risk for VTE, and it remains a leading cause of postoperative morbidity and mortality.\n- Factors that increase these patients' risk for postoperative VTE include prior VTE, hypercoagulable state, higher BMI, male sex, immobility, pulmonary hypertension, obesity hypoventilation syndrome, venous stasis disease, and prolonged operative time.\n- Thus, VTE prophylaxis is standard practice in bariatric surgery. Mechanical prophylaxis is recommended for all bariatric surgical patients, along with early ambulation.\n- In addition, most data suggest benefit for the combined use of mechanical and chemoprophylaxis in these patients.\n- Inferior vena cava (IVC) filters, particularly when retrievable, were of interest, especially in the high-risk bariatric population.\n- They offer a potentially reversible, effective mode of VTE prophylaxis that obviates the risk of anticoagulation.\n- A systematic review of IVC filter placement in bariatric surgery patients found an overall higher risk of deep vein thrombosis and pulmonary embolism in patients receiving a preoperative filter.\n- IVC filters are associated with multiple device-related complications, including filter migration, thrombosis, embolization, occlusion, and fracture.\n- In addition, prophylactic placement of IVC filters does not decrease the use of anticoagulation, mortality, or length of stay."
+        },
+        {
+            "id": "27",
+            "question_type": "clinical_scenario",
+            "question": "A 68-year-old man presents with large-volume lower gastrointestinal bleeding resulting in hypotension and tachycardia, hemorrhagic shock, and need for blood transfusions. The patient has been anticoagulated with dabigatran for treatment of atrial fibrillation, and the last dose was 4 hours ago. The optimal anticoagulant reversal agent in this patient is",
+            "options": [
+                "A. 3-factor prothrombin complex concentrate.",
+                "B. fresh frozen plasma.",
+                "C. activated Factor VIIa.",
+                "D. idarucizumab.",
+                "E. andexanet alfa."
+            ],
+            "answer": "D",
+            "explanation": "- Idarucizumab is approved by the US Food and Drug Administration as a specific reversal agent for dabigatran.\n- It is a monoclonal antibody that directly neutralizes the effects of dabigatran and has no effect on other anticoagulants.\n- It has immediate onset and provides full reversal up to 24 hours in most patients.\n- Prothrombin complex concentrate (PCC; 3-factor), Factor VIIa, fresh frozen plasma, and andexanet-alfa are not indicated for dabigatran reversal.\n- Four-factor PCC has been used to reverse dabigatran but is not as effective as idarucizumab.\n- Four-factor PCC is the optimal reversal agent for all Factor Xa inhibitors and warfarin in life-threatening bleeding.\n- PCC replaces coagulation factors but does not directly neutralize the activity of the oral anticoagulants.\n- PCC onset of action is 5 to 15 minutes and duration of effect is 12 to 24 hours.\n- Plasma is sometimes indicated for warfarin reversal.\n- Andexanet alfa is a direct reversal agent for Factor Xa inhibitors (rivaroxaban, apixaban, edoxaban)."
+        },
+        {
+            "id": "28",
+            "question_type": "clinical_scenario",
+            "question": "A 44-year-old man presents with a history of sigmoid colon stricture and colovesical fistula due to complicated diverticulitis. He underwent preoperative epidural analgesia with morphine and bupivacaine. His procedure was a laparoscopic-converted-to-open sigmoid colectomy with stapled colorectal end-to-end anastomosis in modified lithotomy position. Intraoperative findings were a large inflammatory mass densely adherent to the posterior wall of the bladder, small bowel, retroperitoneum, and sacral promontory. Immediately postoperatively, he complained of left lower extremity weakness in the femoral nerve distribution and decreased motor function. The next immediate step in management is",
+            "options": [
+                "A. obtain a CT scan of pelvis.",
+                "B. obtain a MRI of the thoracic and lumbar spine.",
+                "C. remove the bupivacaine from the epidural infusion.",
+                "D. decrease the epidural catheter infusion.",
+                "E. discontinue the epidural catheter."
+            ],
+            "answer": "B",
+            "explanation": "- When a patient develops lower extremity weakness immediately postoperatively with an epidural catheter in place, evaluation for possible epidural hematoma should be the first priority.\n- The optimal diagnostic test for epidural hematoma is an urgent MRI of the thoracic and lumbar spine.\n- In a single-institution study of 43,200 epidural catheterizations, 102 patients underwent spine MRI that confirmed 6 cases of epidural hematoma (overall incidence 1 per 10,000 epidural blocks).\n- This patient had femoral neuropathy from deep pelvis surgery. The mechanism is compression of the femoral nerve against the pelvic sidewall as the nerve emerges from the border of the psoas muscle before exiting the pelvis at the inguinal ligament due to self-retaining retractors.\n- Risk factors for femoral nerve compression include the following: thin subcutaneous fat layer (BMI <20), operating time greater than 4 hours, narrow pelvis, and self-retaining retractors, with extreme lateral traction.\n- In a study of 2304 patients who underwent major colorectal surgery at a single institution, peripheral nerve injury occurred in 0.2% (5/2211) of open procedures and 3% (3/93) of laparoscopic procedures. There was no association between age, sex, operative time, BMI, or American Society of Anesthesiologists score and nerve injury.\n- Nerves are prone to stretching or compression in the lithotomy position. The most common nerves affected are (1) femoral and (2) lateral femoral cutaneous.\n- In patients undergoing gynecologic pelvic surgery, a 2% incidence has been reported, with 91% complete resolution at a median time of 31.5 days.\n- To minimize nerve trauma in the lithotomy position, the following should be considered: minimize abduction and external hip rotation; pad all areas at risk for tissue injury: hips, lateral fibulas, posterior thighs, and heels; ensure that hips and knees are moderately flexed and securely supported; direct the weight of the lower extremities toward the soles of the feet; avoid lower extremity tissue injury by ensuring that the stirrup edges do not cut into the calf (e.g., peroneal nerve), posterior thigh, or low on the Achilles tendon; use shorter blades and periodic relief of pressure with self-retaining retractors."
+        },
+        {
+            "id": "29",
+            "question_type": "clinical_scenario",
+            "question": "A 65-year-old patient presents for colectomy for sigmoid colon cancer. He has a history of coronary artery disease and underwent heart catheterization with drug-eluting stent placement 6 months ago. He is on clopidogrel and aspirin (325 mg daily). The most appropriate plan for his antiplatelet medication is to",
+            "options": [
+                "A. delay colectomy for 6 months.",
+                "B. stop clopidogrel and continue aspirin.",
+                "C. stop both clopidogrel and aspirin.",
+                "D. stop both and bridge with enoxaparin.",
+                "E. continue both."
+            ],
+            "answer": "B",
+            "explanation": "- Dual antiplatelet therapy is indicated to prevent stent thrombosis in patients with coronary stents.\n- When these patients need surgery, decisions regarding perioperative antiplatelet therapy should be based on the bleeding risk of the planned procedure, risk of stent thrombosis, and alternative options.\n- This patient underwent drug-eluting stent placement 6 months ago. Modification of dual antiplatelet therapy is appropriate and safe at this time with the risk of stent thrombosis being acceptably low.\n- The risk of a bleeding complication on clopidogrel is sufficient that discontinuation in the perioperative period is indicated.\n- Aspirin can be safely continued.\n- Because of the underlying malignant diagnosis, delaying the operation is not appropriate.\n- Bridging with enoxaparin will not provide additional benefit."
+        },
+        {
+            "id": "30",
+            "question_type": "clinical_scenario",
+            "question": "A 67-year-old man has undergone pancreatico-duodenectomy for stage II pancreatic adenocarcinoma. His Caprini score is 7. How long should he should be maintained on low molecular weight heparin?",
+            "options": [
+                "A. Until back to his baseline level of ambulation",
+                "B. While hospitalized",
+                "C. 1 week",
+                "D. 4 weeks",
+                "E. 3 months"
+            ],
+            "answer": "D",
+            "explanation": "- Postoperative venous thromboembolism (VTE) remains a significant source of morbidity and mortality.\n- The Caprini score stratifies patients into very low (0 points), low (1-2 points), moderate (3-4 points), and high (>5 points) risk of VTE to determine type and duration of prophylaxis.\n- High-risk patients should undergo chemoprophylaxis with low molecular weight heparin (LMWH).\n- High-risk patients undergoing major abdominal surgery for malignancy have the highest risk for postoperative VTE.\n- Two randomized trials demonstrated reduced VTE rates in these patients with 4 weeks of LMWH chemoprophylaxis compared with 1 week.\n- The American College of Chest Physicians Chest Guidelines for prevention of VTE in nonorthopedic surgical patients state, \"For patients at high risk for VTE undergoing abdominal or pelvic surgery for cancer, we recommend extended-duration, postoperative, pharmacologic prophylaxis (4 weeks) with LMWH over limited-duration prophylaxis (Grade 1B).\"\n- Shorter durations of VTE pharmacologic prophylaxis such as \"only while hospitalized\" or \"until back to baseline ambulatory status\" are inadequately short.\n- Four weeks' duration is not associated with increased bleeding complications; however, extending duration of chemoprophylaxis beyond 4 weeks does increase the risk of bleeding complications without providing additional benefit in reducing VTE."
+        }
+    ]
+}

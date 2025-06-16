@@ -1,0 +1,425 @@
+{
+    "chapter_name": "Alimentary Tract Part II",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "A 21-year-old man presents with 1 day of right lower quadrant abdominal pain. He is hemodynamically normal, has a temperature of 38°C, and a white blood cell count of 12,500/mm3 (3600-11,200/mm3). On examination, he has localized peritonitis in his right lower quadrant A CT scan demonstrates acute appendicitis without a surrounding phlegmon or abscess. He asks your opinion on treatment with antibiotics only. Compared with operative management, antibiotic therapy for acute uncomplicated appendicitis has a",
+            "options": [
+                "A. similar length of stay",
+                "B. higher overall cost.",
+                "C. higher readmission rate within 1 year.",
+                "D. higher rate of early implications.",
+                "E. longer duration of pain for the patient."
+            ],
+            "answer": "C",
+            "explanation": "- Acute appendicitis can be classified as either complicated or uncomplicated.\n- Nonoperative management of uncomplicated appendicitis with antibiotics may be equivalent or superior to operative management.\n- Patients with uncomplicated appendicitis who undergo nonoperative management with antibiotics have a higher readmission rate within 1 year, primarily for recurrent appendicitis.\n- Recurrence of appendicitis after nonoperative management occurs in up to one-third of patients.\n- Length of hospital stay tends to be slightly longer in the nonoperative group, although overall cost ends up being lower.\n- No difference in minor or major complications or duration of pain is noted between the groups."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "A 34-year-old man presents with symptomatic cholelithiasis. He is interested in the newest techniques for surgery. Compared with traditional laparoscopic cholecystectomy, single-incision laparoscopic surgery is associated with",
+            "options": [
+                "A. less postoperative pain.",
+                "B. longer operating times.",
+                "C. lower incisional hernia rates.",
+                "D. faster return to activity.",
+                "E. increased conversion rates."
+            ],
+            "answer": "B",
+            "explanation": "- The use of single-incision laparoscopic surgery (SILS) has recently gained popularity.\n- The only proven benefit of SILS is improved cosmesis.\n- Despite only one incision, there is no decrease in postoperative pain.\n- The return to activity is the same as in traditional laparoscopic techniques.\n- Operating time is longer.\n- The conversion to an open technique is not higher.\n- The one disadvantage of the SILS technique is an increased incisional hernia rate of approximately 8% versus 1% using traditional laparoscopic techniques, likely because SILS incisions use a 2.5- to 3-cm incision versus a 1.0- to 1.5-cm incision.\n- The use of robot-assisted laparoscopic techniques in SILS does not improve the incisional hernia rate, because a larger incision is still used."
+        },
+        {
+            "id": "3",
+            "question_type": "mcq",
+            "question": "You perform an uneventful appendectomy on a 22-year old man with uncomplicated appendicitis. You see him 1 week later in clinic for his postoperative follow-up visit He has no complaints and reports that he is doing well. The pathology report notes a 0.8-cm neuroendocrine carcinoid tumor at the tip of the appendix with clear margins. The next appropriate step in management is",
+            "options": [
+                "A. colonoscopy.",
+                "B. ileocecectomy.",
+                "C. intraperitoneal chemotherapy.",
+                "D. no further workup",
+                "E. right hemicolectomy."
+            ],
+            "answer": "D",
+            "explanation": "- Appendix cancer is rare, often diagnosed incidentally during pathologic examination.\n- Neuroendocrine cancer accounts for 60% of all appendicular tumors and is the most common site for gastrointestinal carcinoid tumors.\n- Most are smaller than 1 cm and located near the tip of the appendix.\n- Tumors smaller than 1 cm with negative margins are considered cured by appendectomy.\n- Ileocecectomy is overtreatment for this patient.\n- No further workup, staging, or postoperative surveillance is required.\n- Right hemicolectomy is recommended for tumors larger than 2 cm.\n- Treatment is controversial for tumors 1 to 2 cm in diameter.\n- Right hemicolectomy should be considered for tumors with positive margins, appendiceal base location, or invasion into the mesoappendix.\n- Colonoscopy is recommended for all patients with colonic-type adenocarcinoma to rule out synchronous colorectal lesions.\n- Intraperitoneal chemotherapy is the treatment of choice for mucinous adenocarcinoma with peritoneal dissemination."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "In comparing laparoscopic gastrostomy versus percutaneous endoscopic gastrostomy (PEG) tubes, which of the following statements is true?",
+            "options": [
+                "A. Complication rates are similar in adults.",
+                "B. Early pneumoperitoneum is seen only after laparoscopic gastrostomy tube placement.",
+                "C. Laparoscopic gastrostomy tube placement is associated with more complications in children younger than 5 years of age.",
+                "D. Previous fundoplication is a contraindication to PEG tube placement.",
+                "E. Mortality is higher after PEG tube placement."
+            ],
+            "answer": "A",
+            "explanation": "- The two most common techniques are percutaneous endoscopic gastrostomy (PEG) and laparoscopic gastrostomy tubes.\n- PEG tubes are generally used because they are minimally invasive, low cost, and have a low complication rate, and can be performed without general anesthesia.\n- Drawbacks of PEG tube include hollow viscus perforation or injury, liver injury, and failed tract formation.\n- Laparoscopic gastrostomy tubes require general anesthesia and are more expensive.\n- Despite these differences, both procedures have similar complication rates in adults with similar mortality rates.\n- Patients who undergo PEG tubes can present with pneumoperitoneum, which results from either a failed tract or air insufflation during needle access of the stomach.\n- In children, PEG tubes appear to have a slightly higher complication rate than laparoscopic gastrostomy tubes.\n- Prior fundoplications are not a contraindication for PEG tubes if a transillumination window can be seen."
+        },
+        {
+            "id": "5",
+            "question_type": "mcq",
+            "question": "A 45-year-old man presents with acute appendicitis. During his laparoscopic appendectomy, he is found to have a mucinous neoplasm of the appendix with mucinous peritoneal deposits over the right hemidiaphragm. Surgical pathology reveals a low-grade appendiceal mucinous neoplasm with no invasion, and a biopsy of the mucinous deposits reveals no cancer. What is the most appropriate definitive treatment for this patient?",
+            "options": [
+                "A. Observation",
+                "B. Systemic chemotherapy",
+                "C. Right hemicolectom",
+                "D. Cytoreductive surgery with hyperthermic intraperitoneal chemotherapy",
+                "E. Referral to hospice"
+            ],
+            "answer": "D",
+            "explanation": "- This patient has low-grade carcinoma peritonei, previously referred to as disseminated peritoneal adenomucinosis.\n- Presence of mucin in the peritoneum can lead to the pseudomyxoma peritonei syndrome.\n- This low-grade appendiceal mucinous neoplasm has no malignant potential and thus does not spread via lymphatics; prognosis is determined more by the peritoneal disease.\n- Management of the primary lesion includes margin-negative resection.\n- Management of the peritoneal mucin is most effective by appropriate use of parietal peritonectomy procedures (e.g., right hemidiaphragmatic peritonectomy and omentectomy with a bursectomy) to cytoreduce all disease.\n- Historical series suggest significantly improved survival for patients undergoing cytoreductive surgery and hyperthermic intraperitoneal chemotherapy (HIPEC).\n- Patients who undergo complete cytoreduction and HIPEC have an estimated median survival of 70% at 20 years.\n- Given the low malignant potential for this condition, there is limited role for systemic chemotherapy."
+        },
+        {
+            "id": "6",
+            "question_type": "mcq",
+            "question": "A 60-year-old man undergoes an endoscopy for reflux disease. He is being treated with proton pump inhibitors. His endoscopy reveals a 1-cm subepithelial lesion on the lesser curvature of the stomach, 3 cm from the gastroesophageal junction with a smooth appearance on endoscopic ultrasound with no high-risk features. Needle-guided core biopsy reveals a CD 117+ tumor. What is the most appropriate management?",
+            "options": [
+                "A. Endoscopic submucosal dissection",
+                "B. Laparoscopic partial gastrectomy",
+                "C. Subtotal gastrectomy with modified D2 node dissection",
+                "D. Stop proton pump inhibitor therapy",
+                "E. Observation"
+            ],
+            "answer": "E",
+            "explanation": "- This patient has an incidentally detected gastrointestinal stromal tumor (GIST).\n- GISTs are the most common mesenchymal tumors of the gastrointestinal tract, derived from intestinal cells of Cajal.\n- Immunohistochemical staining for tyrosine kinase, c-kit (CD-117) shows receptor positivity in approximately 75% to 80% of GIST tumors.\n- Tumors that are 1 cm in size are referred to as mini GISTs, which have very low malignant potential and are managed by endoscopic ultrasound surveillance.\n- High-risk features include echogenic foci, irregular borders, or ulceration.\n- Endoscopic removal of GISTs is not well supported by evidence due to risk of perforations.\n- Gastric carcinoids are tumors of the stomach due to hypergastrinemia from proton pump inhibitors; they can be managed by stopping PPIs and are not CD117 positive."
+        },
+        {
+            "id": "7",
+            "question_type": "mcq",
+            "question": "A 52-year-old Chinese woman presents with 4.5-kg weight loss. An endoscopic biopsy of a lesion in the antrum demonstrates a 2.5-cm diameter signet ring cell carcinoma. In determining her management, which of the following statements is true?",
+            "options": [
+                "A. The patient should be treated with definitive chemoradiation.",
+                "B. An endoscopic submucosal dissection is adequate.",
+                "C. Laparoscopic gastrectomy increases risk of anastomotic leak compared with open resection.",
+                "D. Laparoscopic gastrectomy limits the ability to perform lymph node dissection.",
+                "E. Laparoscopic exploration for metastatic disease is necessary before attempts at curative resection."
+            ],
+            "answer": "E",
+            "explanation": "- Early gastric cancer diagnosis and management options continue to evolve.\n- In a multicenter, randomized controlled trial, laparoscopic gastrectomy was compared with open gastrectomy; intraoperative and postoperative complications, including anastomotic leak rates, were comparable.\n- Lymph node retrieval between open and laparoscopic gastrectomy was comparable.\n- Several risk factors are associated with an increased incidence of metastatic lymph nodes, including size greater than 2 cm and undifferentiated-type histology.\n- Endoscopic mucosal dissection provides a less-invasive treatment approach to treating early gastric cancer but is limited to mucosal cancers smaller than 2 cm due to risk of lymph node metastasis.\n- A meta-analysis of 15 randomized controlled trials did not show strong evidence that chemoradiotherapy provides a 5-year survival rate over chemotherapy alone in patients with nongastroesophageal junction gastric cancer."
+        },
+        {
+            "id": "8",
+            "question_type": "mcq",
+            "question": "A 65-year-old woman presents with epigastric fullness, pain, nausea, vomiting, and recent weight loss. Upper endoscopy demonstrates a diffusely thickened stomach wall Biopsy reveals diffuse large B-cell lymphoma and is negative for Helicobacter pylori. CT scan shows a diffusely thickened stomach and perigastric lymph node enlargement. No other masses or lesions are noted on further staging with PET scan. What is the most appropriate next step in management?",
+            "options": [
+                "A. Chemoradiation",
+                "B. Treatment for H. pylori",
+                "C. Imatinib",
+                "D. Total gastrectomy and perigastric lymph node sampling",
+                "E. Total gastrectomy with splenectomy and perigastric lymph node removal"
+            ],
+            "answer": "A",
+            "explanation": "- Gastric lymphoma is the second most common primary gastric malignancy, accounting for 5% of gastric cancers.\n- Up to 98% of primary gastric lymphomas are of B-cell origin, and nearly 60% are aggressive diffuse large B-cell lymphoma.\n- Patients presenting with diffuse large B-cell lymphoma should undergo chemoradiation therapy.\n- Surgical therapy is reserved for treatment of complications of the disease, such as perforation, bleeding, or obstruction.\n- B-cell lymphomas associated with mucosa-associated lymphoid tissue (MALT) are more likely (up to 90%) to be associated with chronic Helicobacter pylori infection and respond to H. pylori treatment in early stages.\n- H. pylori is also commonly associated with diffuse large B-cell lymphoma, but treatment of H. pylori alone is not recommended due to the aggressive nature of diffuse large B-cell lymphoma.\n- Imatinib is used to treat gastrointestinal stromal tumors (GIST) and chronic myelogenous leukemia; it has no role in treatment of gastric lymphoma."
+        },
+        {
+            "id": "9",
+            "question_type": "mcq",
+            "question": "Angiography with embolization has become an accepted management strategy for select cases of acute gastrointestinal bleeding. Which of the following scenarios represents the most appropriate patient for use of this approach?",
+            "options": [
+                "A. Lower gastrointestinal bleed from a sigmoid diverticula",
+                "B. Lower gastrointestinal bleed from radiation proctitis",
+                "C. C Acute perioperative upper gastrointestinal bleed after Roux-en-Y gastric bypass",
+                "D. Upper gastrointestinal bleed from a peptic ulcer after failed endoscopic therapy",
+                "E. Upper gastrointestinal bleed from varices in a cirrhotic patient"
+            ],
+            "answer": "D",
+            "explanation": "- Gastrointestinal bleeding is the most common reason for hospital admission.\n- Principles of initial management include cessation of antiplatelet and anticoagulation therapy, early endoscopic localization, and endoscopic therapy.\n- For diverticular bleeding, endoscopic clips are the preferred first-line therapy.\n- Radiation proctitis can be managed effectively with local interventions such as endoscopic argon beam coagulation or formalin application.\n- Early postoperative bleeding after Roux-en-Y gastric bypass generally resolves with cessation of venous thromboembolism chemoprophylaxis or other anticoagulation or antiplatelet agents.\n- If bleeding persists or diagnosis is uncertain after Roux-en-Y bypass, surgical intervention may be required.\n- In patients with recurrent or refractory nonvariceal upper gastrointestinal bleeding, angiographic treatment should be considered.\n- Angioembolization has become the preferred approach for definitive intervention in select patients when first-line therapy fails.\n- Acute upper gastrointestinal bleed from esophageal varices in a cirrhotic patient is managed with upper endoscopy and variceal injection or banding (banding is preferred), along with medical management of portal hypertension."
+        },
+        {
+            "id": "10",
+            "question_type": "mcq",
+            "question": "A 54-year-old man presents to the emergency department with 4 days of lower abdominal pain, fatigue, and low-grade fevers. On exam, his abdomen is distended and tender in the right lower quadrant. His white blood cell count is 18,000/mm3 (3600-11,200/mm3). CT scan demonstrates a 5-cm, rim-enhancing abscess in the right lower quadrant with extensive inflammatory changes in the surrounding tissues. The appendix is only partially visualized. There is a small appendicolith near the appendiceal base. Intravenous antibiotics are started. Which of the following represents the optimal management of this patient?",
+            "options": [
+                "A. Laparoscopic irrigation",
+                "B. Open abscess drainage with appendectomy",
+                "C. 14 days of intravenous antibiotic",
+                "D. Right hemicolectomy",
+                "E. Percutaneous abscess drainage"
+            ],
+            "answer": "E",
+            "explanation": "- In this patient with perforated appendicitis and an abscess, percutaneous drainage remains the preferred initial approach.\n- Antibiotics alone are unlikely to achieve resolution of this walled-off, rim-enhancing collection, especially given the size of this abscess.\n- Recent pediatric evidence supports immediate appendectomy in cases of complicated appendicitis; a small randomized trial in adults indicated laparoscopic abscess drainage and appendectomy is safe in experienced hands.\n- However, the preponderance of adult data suggest that perioperative risks are greater with operation (laparoscopic or open) than with percutaneous drainage.\n- Attempting to remove the appendix would likely result in significant bleeding and possibly fecal fistula or need for an ileocecectomy or right hemicolectomy (10%).\n- Laparoscopic irrigation alone is not an adequate intervention as it is associated with a need for secondary procedures.\n- Immediate right hemicolectomy is not justified due to low overall risk of malignancy (1.2%).\n- Risks and benefits of an interval appendectomy can be weighed in an elective setting after abscess resolution and colonoscopy."
+        },
+        {
+            "id": "11",
+            "question_type": "mcq",
+            "question": "A 28-year-old man presents with worsening perianal pain. He is on chemotherapy after a bone marrow transplant for acute leukemia. He is hospitalized for neutropenic fever treated with broad-spectrum antibiotics and antifungal agents. He is lethargic and appears pale and diaphoretic. His abdomen is slightly distended but soft and nontender. His perineal examination is notable for a 10-cm area of erythema extending from his anus. He has extreme tenderness adjacent to the anal canal, but there is no fluctuance. His white blood cell count is 300/mm3 (3600-11,200/mm3) with an absolute neutrophil count of 150/mm3 (1500 to 8,000/mm3). A CT scan of his abdomen and pelvis demonstrates an enlarged spleen and some inflammatory changes in the perineum but no intra-abdominal or perirectal fluid collections. What is the best approach to managing this patient?",
+            "options": [
+                "A. Hyperbaric oxygen treatment",
+                "B. Image-guided aspiration",
+                "C. Steroids",
+                "D. Continued broad-spectrum antibiotics",
+                "E. Incision and drainage"
+            ],
+            "answer": "D",
+            "explanation": "- This neutropenic patient has severe perineal cellulitis for which broad-spectrum antibiotics should be continued.\n- External exam or cross-sectional imaging provides no evidence of an abscess that would warrant image-guided aspiration or incision and drainage.\n- If a collection were apparent, incision and drainage would be the management of choice, even in neutropenia.\n- Hyperbaric oxygen therapy remains a controversial therapy for acute infections; no evidence supports its use.\n- No evidence supports the use of steroids in acute perineal infections in immunocompetent or immunocompromised patients.\n- If the patient does not improve with continued antibiotics or deteriorates further, a necrotizing soft tissue infection should be considered, requiring wide surgical debridement."
+        },
+        {
+            "id": "12",
+            "question_type": "mcq",
+            "question": "Regarding the late or long-term complications from Roux-en-Y gastric bypass, which of the following statements is true?",
+            "options": [
+                "A. Adhesive bowel obstruction is the most common cause of bowel obstruction.",
+                "B. Central colicky abdominal pain is an uncommon presenting complaint.",
+                "C. Herniation through the Peterson window is the most common type of internal hernia.",
+                "D. Internal hernia is responsible for more than 50% of postoperative bowel obstruction.",
+                "E. Gastrojejunostomy anastomotic stricture most often requires surgical revision."
+            ],
+            "answer": "D",
+            "explanation": "- Over 200,000 bariatric surgical procedures are performed annually, leading to long-term complications.\n- Late complications include band slippage or erosion, gastric pouch dilation, bowel obstruction, marginal ulcer, incisional hernia, and gallstone disease.\n- The incidence of bowel obstruction after Roux-en-Y gastric bypass is 4.4%.\n- More than half of bowel obstructions are caused by internal hernia, followed by roux limb compression, and adhesions; less commonly gastrojejunal anastomotic stenosis, incisional hernia, or intestinal intussusception.\n- Symptomatic internal hernia occurs in 1.6 to 4.1% and is most commonly at the mesojejunal mesenteric window (56%), followed by Petersen defect (27%) and mesocolic window.\n- Symptoms of central colicky abdominal pain occur in 82% of patients.\n- Workup requires rapid exclusion of peritonitis or ischemia.\n- Imaging (abdominal x-rays, contrast swallow, CT scans) can help identify obstruction site.\n- In hemodynamically normal patients without peritonitis, a conservative approach may be appropriate.\n- If conservative management fails, internal hernia and adhesive obstructive disease can be surgically managed.\n- Anastomotic strictures can often be endoscopically dilated before surgical revision."
+        },
+        {
+            "id": "13",
+            "question_type": "mcq",
+            "question": "A 50-year-old, otherwise healthy man presents with acute onset of foreign body sensation in the esophagus after eating dinner. Which of the following statements is true regarding the workup and management of this condition?",
+            "options": [
+                "A. Esophageal food impaction is the most common indication for urgent endoscopy.",
+                "B. Complication rate of flexible endoscopic retrieval of food impactions is 20%.",
+                "C. Less than 25% of patients will have underlying esophageal pathology.",
+                "D. Flexible endoscopic retrieval is successful in less than 75% of cases.",
+                "E. Barium swallow is not recommended."
+            ],
+            "answer": "E",
+            "explanation": "- Upper endoscopy for foreign body obstruction is the second most common urgent indication after gastrointestinal hemorrhage.\n- Twenty-five percent of patients requiring urgent upper endoscopy will have impacted food bolus.\n- Ingestion of a foreign body occurs most frequently in pediatric patients and in adults with a psychiatric history.\n- Most food bolus obstructions pass spontaneously, but roughly 15% will require urgent upper endoscopy.\n- Approximately three-quarters of patients with food bolus impaction will have an underlying pathology such as stricture, eosinophilic esophagitis, malignancy, or motility disorders.\n- Medical therapy for food bolus is not often successful and should not delay definitive diagnostic and therapeutic intervention: flexible endoscopy.\n- Flexible endoscopy is successful 95% of the time with a less than 5% complication rate.\n- Barium swallow is not recommended because it decreases visualization at endoscopy and has a risk of aspiration."
+        },
+        {
+            "id": "14",
+            "question_type": "mcq",
+            "question": "A previously healthy 44-year-old man presents with acute abdominal pain. Physical exam reveals tenderness localized to the left lower quadrant without guarding or rebound. White blood cell count is 17,000/mm3 (3600-11,200/mm3), and a CT seem of the abdomen and pelvis demonstrates perforated sigmoid diverticulitis with small foci of free intraperitoneal air around the sigmoid colon and above the liver. What is the most appropriate initial management?",
+            "options": [
+                "A. Bowel rest and antibiotics",
+                "B. Percutaneous drainage",
+                "C. Sigmoid colectomy with primary anastomosis",
+                "D. Sigmoid colectomy with end colostomy",
+                "E. Laparoscopic washout and drainage"
+            ],
+            "answer": "A",
+            "explanation": "- This patient is healthy with a reliable abdominal exam and localized tenderness without diffuse peritonitis.\n- The most appropriate initial management is bowel rest and antibiotics, even in the presence of free intraperitoneal air.\n- If the patient had signs of uncontrolled sepsis, was immunocompromised, or had an unreliable exam, initial surgical exploration would be warranted.\n- In the absence of diffuse peritonitis, most patients with complicated diverticulitis can be treated successfully with a nonoperative approach combining bowel rest, antibiotics, and percutaneous drainage of abscesses larger than 4 cm.\n- A study found that only 3.7% of patients with perforated diverticulitis with pneumoperitoneum or abscess required initial surgery, with another 5% requiring surgery for failure of nonoperative management.\n- Of 27 patients with free air remote from the site of perforation, 25 (92.5%) were successfully treated without surgery.\n- A study of 8 hemodynamically normal patients with distant pneumoperitoneum had a 100% success rate of nonoperative therapy.\n- This patient does not have a drainable fluid collection, so percutaneous drainage is not warranted. However, up to 40% of these patients will ultimately develop an abscess larger than 4 cm, so percutaneous drainage may become indicated depending on clinical progress.\n- Sigmoid colectomy would be warranted only in uncontrolled intra-abdominal sepsis or failure to improve with nonoperative management.\n- Primary anastomosis is safe in select patients with complicated diverticulitis, with the decision for colostomy versus anastomosis based on intraoperative findings.\n- Colorectal anastomosis is often protected by a diverting loop ileostomy.\n- Laparoscopic lavage and drainage was previously considered a popular alternative but has lost favor due to high rates of morbidity."
+        },
+        {
+            "id": "15",
+            "question_type": "mcq",
+            "question": "A 79-year-old woman with chronic constipation presents to the emergency department with complaints of bloating and nausea. On examination, she has a soft and moderately distended abdomen, but no abdominal tenderness. Her white blood cell count is 12,000/mm3 (3600-11,200/mm3), and an abdominal CT scan shows a sigmoid volvulus. What is the most appropriate initial treatment?",
+            "options": [
+                "A. Bowel prep for colonoscopy",
+                "B. Hydrostatic enema",
+                "C. Endoscopic detorsion",
+                "D. Sigmoidopexy",
+                "E. Sigmoid colectomy"
+            ],
+            "answer": "C",
+            "explanation": "- Sigmoid volvulus is a common disease where the colon twists around a narrow and elongated mesentery leading to large bowel obstruction and vascular compromise.\n- This twist occurs in a counter-clockwise fashion in 70% of cases.\n- Patients are usually elderly with a history of constipation, presenting with abdominal pain and distention.\n- Abdominal x-rays reveal a massively distended colon with a \"bent inner tube\" sign, and CT scan reveals mesenteric swirling with a closed loop sigmoidal obstruction.\n- This patient presents with volvulus in the absence of peritonitis.\n- The most appropriate initial treatment is endoscopic detorsion, which changes the situation from urgent to elective, allowing patient optimization for surgery, endoscopic visualization of the proximal colon, and ability to operate on a nondilated colon.\n- Detorsion can be accomplished with either rigid or flexible proctosigmoidoscopy.\n- Rigid scope allows passing a rectal tube directly into the sigmoid colon to prevent retorsion (occurs in up to 90% if a tube is not used).\n- Flexible endoscopy offers improved visualization and ability to detorse more proximal volvuli (24% too proximal for rigid scope).\n- Bowel prep is not appropriate in the presence of a large bowel obstruction and may lead to worsening obstruction and perforation.\n- Hydrostatic enemas are less successful than endoscopy for detorsion and do not allow inspection of bowel wall for ischemia.\n- Sigmoidopexy is an acceptable treatment after detorsion but is associated with high rates of recurrence.\n- Sigmoid colectomy is the definitive treatment but would only be used as initial treatment if there was concern for bowel ischemia."
+        },
+        {
+            "id": "16",
+            "question_type": "mcq",
+            "question": "A 64-year-old woman with rectal cancer and previous proctectomy has completed her adjuvant chemotherapy. She undergoes an elective takedown of her loop ileostomy. What is the most appropriate way to address the patient's surgical wound after fascial closure?",
+            "options": [
+                "A. Leave skin open, pack the wound, and allow healing by secondary intention.",
+                "B. Leave skin open for 1 week, then perform a delayed primary linear closure",
+                "C. Apply negative pressure wound therapy.",
+                "D. Close skin with a pursestring suture.",
+                "E. Close skin primarily in a linear fashion."
+            ],
+            "answer": "D",
+            "explanation": "- Surgical site infections (SSIs) occur in up to 40% of patients after ileostomy takedown.\n- The SSI rate is highest with primary wound closure, and lowest with leaving the wound open and allowing healing by secondary intention.\n- Open wounds can take a long time to heal and are often associated with poor cosmesis.\n- Pursestring wound closure has been extensively studied for wound management after ileostomy takedown.\n- Pursestring closures have lower SSI rates compared with primary closures (2-3% vs 15-30%), similar times to complete wound healing, and improved cosmetic satisfaction scores.\n- Negative pressure wound therapy can be expensive and involves ongoing specialized wound care; its cost cannot be justified over pursestring wound closure for routine wounds.\n- Delayed primary closure requires a second procedure and would not be preferred over pursestring wound closure."
+        },
+        {
+            "id": "17",
+            "question_type": "mcq",
+            "question": "A 39-year-old woman has undergone incision and drainage of a perirectal abscess 3 times in the last year, all of which occurred in the same location. She presents again with anal pain, swelling, and leukocytosis. Exam under anesthesia reveals a recurrent perirectal abscess with an associated high-lying transsphincteric fistula in the left anterior position. What is the most appropriate initial management?",
+            "options": [
+                "A. Drainage alone",
+                "B. Drainage with placement of a noncutting seton",
+                "C. Drainage with fistulotomy",
+                "D. Drainage with placement of a fistula plug",
+                "E. Drainage with an endorectal advancement flap"
+            ],
+            "answer": "B",
+            "explanation": "- This patient has a classic presentation of a cryptoglandular fistula with multiple abscesses in the same location.\n- Drainage alone will allow for sepsis resolution, but the patient will most likely present with more abscesses in the future unless the fistula is addressed.\n- This is a high-lying transsphincteric fistula; fistulotomy is inappropriate due to high risk for fecal incontinence, especially in a female patient with an anterior fistula.\n- For this patient, the best initial approach is to drain the abscess and place a loose, noncutting seton to facilitate drainage, stent the fistula open, and prevent recurrent abscess formation.\n- This can be followed 8 to 12 weeks later with a definitive repair.\n- Many different materials are acceptable for a seton, but silastic vessel loops are most commonly used.\n- An endorectal advancement flap is a suitable muscle-sparing approach for complex fistulas with a success rate of 66 to 87%. It is not appropriate in the setting of an acute abscess and should instead be performed in a delayed fashion after sepsis resolution.\n- Fistula plugs also require sepsis resolution before placement but have reported healing rates of approximately 24%."
+        },
+        {
+            "id": "18",
+            "question_type": "mcq",
+            "question": "A 52-year-old woman undergoes her initial screening colonoscopy. She has no known medical problems or gastrointestinal complaints, and her family history is negative for colon polyps or colon cancer. The endoscopist finds a 1.1-cm pedunculated polyp in the sigmoid colon, which is removed completely with a hot snare. Pathology reveals this polyp to be a tubular adenoma. When should this patient undergo a subsequent surveillance colonoscopy?",
+            "options": [
+                "A. 6 months",
+                "B. 1 year",
+                "C. 3 years",
+                "D. 5 years",
+                "E. 10 years"
+            ],
+            "answer": "C",
+            "explanation": "- Different guidelines exist for colorectal cancer screening and surveillance after discovery of colorectal polyps.\n- The US Multi-Society Task Force (MSTF) created consensus guidelines.\n- MSTF separates patients with polyps into 2 groups: (1) low-risk adenomas (1-2 tubular adenoma <10 mm in size), and (2) high-risk adenomas (villous histology, high-grade dysplasia, size >10 mm, 3 or more adenomas).\n- For low-risk adenomas, the recommended surveillance interval is \"5-10 years.\"\n- For adenomatous polyps of at least 10 mm, high-quality evidence supports recommending a surveillance interval of 3 years.\n- Moderate-quality evidence supports a 3-year interval for other high-risk adenomas.\n- An interval of 6 months is appropriate for a large polyp removed in a piecemeal fashion to verify complete removal.\n- An interval of 1 year is indicated for surveillance after complete resection of a cancerous polyp with a margin greater than 2 mm."
+        },
+        {
+            "id": "19",
+            "question_type": "mcq",
+            "question": "On postoperative day 3 after a femoral popliteal bypass, a 64-year-old man develops abdominal distention and diarrhea. The next day, he is transferred to the intensive care unit with hypoxemia and a white blood cell count of 35,000/ mm3 (3600-11,200/mm3). He is diagnosed with Clostridium difficile colitis and started on intravenous metronidazole. That night, he becomes oliguric and is started on low-dose norepinephrine and vasopressin. A CT scan of the abdomen and pelvis shows pancolitis. The best next step in the management of his clinical condition is",
+            "options": [
+                "A. oral and rectal vancomycin.",
+                "B. segmental Colectomy with primary anastomosis",
+                "C. fecal microbiota transplant.",
+                "D. subtotal abdominal colectomy with end ileostomy.",
+                "E. laparoscopic loop ileostomy with intraoperative colonic lavage."
+            ],
+            "answer": "D",
+            "explanation": "- This patient has developed fulminant Clostridium difficile colitis, defined as pronounced leukocytosis and hypotension requiring vasopressor support.\n- Fulminant C. difficile colitis is a rare presentation (2-3% of patients) but associated with serious complications and death.\n- Once a patient has progressed to fulminant C. difficile colitis, a subtotal colectomy with end ileostomy should be performed.\n- Mortality and complication rates are lower for subtotal colectomy (11-56%) compared with segmental colectomy with or without anastomosis (14-100%).\n- Laparoscopic loop ileostomy with intraoperative colonic lavage attempts to preserve the colon; likely best used in patients with C. difficile colitis who have not progressed to organ dysfunction or failure.\n- Standard medical management consists of discontinuing associated antibiotics and initiating oral or intravenous metronidazole or oral vancomycin (recommended duration 10-14 days).\n- Once a patient has progressed to fulminant C. difficile colitis, antibiotic therapy alone is unlikely to be effective.\n- Fecal microbiota transplant is an option for patients with recurrent C. difficile infections; it currently does not have a role in fulminant C. difficile colitis."
+        },
+        {
+            "id": "20",
+            "question_type": "mcq",
+            "question": "A 45-year-old woman presents with peritonitis. She has normal vital signs except that her heart rate is 110 beats per minute. Her white blood cell count is 16,000/mm3. CT scan of her abdomen and pelvis confirms perforated sigmoid diverticulitis. In addition to intravenous antibiotics, what is the optimal surgical management of this patient?",
+            "options": [
+                "A. Sigmoid resection, colostomy (Hartmann procedure)",
+                "B. Sigmoid resection, primary anastomosis and ileostomy",
+                "C. Diverting proximal colostomy",
+                "D. Diverting loop ileostomy with percutaneous drain",
+                "E. Laparoscopic peritoneal lavage and pelvic drain"
+            ],
+            "answer": "A",
+            "explanation": "- Three small randomized controlled trials compared Hartmann procedure to colon resection and primary anastomosis for perforated diverticulitis.\n- The first trial showed no difference in mortality, morbidity, or stoma reversal between primary anastomosis and Hartmann procedure.\n- The second trial showed no difference in mortality but was stopped early for interim safety analysis of more serious complications with stoma reversal after Hartmann procedure (20% vs 0%). This trial reported a higher rate of stoma reversal after primary anastomosis with diverting ileostomy (90% vs 57%).\n- The most recent DIVERTI study found no difference in mortality or morbidity, and stoma reversal was higher in the primary anastomosis arm (96% vs 65%).\n- Multiple randomized trials compared laparoscopic peritoneal lavage with primary colon resection for acute perforated diverticulitis.\n- A meta-analysis confirmed a 3-fold higher reintervention rate within 30 days postoperatively in the lavage group (28.3%) versus the resection group (8.8%).\n- This analysis concluded that leaving the diseased colon in place was associated with persistent intra-abdominal sepsis and increased need for reintervention in the laparoscopic lavage group.\n- A 2017 meta-analysis showed laparoscopic lavage had higher rates of intra-abdominal abscesses (p = .001), peritonitis (p = .002), and increased long-term emergency reoperations (p <.001).\n- Benefits of laparoscopic lavage included shorter operative time, fewer cardiac complications, fewer wound infections, and shorter hospital stay.\n- Overall, 90% had stomas after colon resection, and 74% underwent stoma reversal within 12-months.\n- Approximately 14% of laparoscopic lavage patients required a stoma; 48% obtained gut continuity within 12 months, whereas 36% underwent elective sigmoidectomy.\n- Percutaneous catheter drainage, diverting proximal colostomy, and diverting loop ileostomy with percutaneous drain are not correct options as they would not provide optimal source control of the perforated sigmoid diverticulitis in this patient with peritonitis."
+        },
+        {
+            "id": "21",
+            "question_type": "mcq",
+            "question": "A 44-year-old man who reports binge drinking presents with acute pancreatitis. He has been sick for a day. Systolic blood pressure is 85 mm Hg and improves with 2 L of crystalloid. He is afebrile, and his serum creatinine is 25 mg/dL (0.4-13 mg/dL). A CT scan is obtained (figure 21.1). The next step in management is",
+            "options": [
+                "A. pancreatic necrosectomy.",
+                "B. parenteral antibiotics.",
+                "C. percutaneous drainage.",
+                "D. percutaneous aspiration for Gram stain and culture.",
+                "E. observation."
+            ],
+            "answer": "E",
+            "explanation": "- The management of acute necrotizing pancreatitis has evolved to a nonsurgical approach.\n- Initial management of acute pancreatitis includes judicious resuscitation and evaluation for any end-organ dysfunction.\n- In the absence of any signs of sepsis, antibiotics and debridement are not routinely indicated in the initial inflammatory phase of the illness, even though 20 to 30% of patients develop sterile pancreatic necrosis."
+        },
+        {
+            "id": "22",
+            "question_type": "mcq",
+            "question": "After a lengthy hospitalization, he is discharged and doing well-pain free, tolerant of a low-fat diet, and gaining weight A follow-up CT scan at 3 months interval is shown (figure 22.1). The next step in management should be",
+            "options": [
+                "A. observation.",
+                "B. endoscopic transgastric cystgastrostomy.",
+                "C. laparoscopic Roux-en-Y pancreatic cyst-jejunostomy.",
+                "D. pancreatic enzyme supplementation.",
+                "E. percutaneous drainage."
+            ],
+            "answer": "A",
+            "explanation": "- After recovery from the acute insult, some patients develop persistent fluid collections in the retroperitoneum or pseudocysts.\n- Management of these peripancreatic fluid collections is symptom driven.\n- In the absence of pain with oral intake, early satiety, or ongoing pancreatic leak from duct disruption, observation is reasonable.\n- If necessary, drainage can be accomplished surgically, endoscopically, or image guided.\n- If the patient is in positive nitrogen balance and shows no signs of pancreatic enzyme insufficiency, supplementing the diet with enzymes is not necessary."
+        },
+        {
+            "id": "23",
+            "question_type": "mcq",
+            "question": "Six months after the initial consult, he is abstinent of alcohol, asymptomatic, and doing well. His interval CT scan is shown (figure 23.1). His pseudocyst has resolved, but he has developed splenic vein thrombosis and gastric varices indicating sinistral hypertension. His labs show mild thrombocytopenia. The next step in management is",
+            "options": [
+                "A. laparoscopic splenectomy.",
+                "B. oral anticoagulation.",
+                "C. esophageal vascular transection.",
+                "D. observation.",
+                "E. distal splenorenal shunt."
+            ],
+            "answer": "D",
+            "explanation": "- A common sequelae of acute necrotizing pancreatitis is splenic vein thrombosis.\n- It was previously thought that left-sided elevated visceral venous pressures (sinistral hypertension) would lead to gastroesophageal varices and bleeding, thus mandating prophylactic splenectomy.\n- Observational studies show that clinically significant variceal bleeding requiring splenectomy is actually uncommon (4%).\n- Operative intervention is indicated only for clinically unmanageable hemorrhage from varices.\n- Chronic sinistral hypertension does not routinely warrant systemic anticoagulation, especially in the face of varices, nor are any portosystemic shunting procedures necessary."
+        },
+        {
+            "id": "24",
+            "question_type": "mcq",
+            "question": "A healthy 72-year-old woman develops obstructive jaundice. A contrasted CT scan is notable for dilation of the biliary and pancreatic ducts but is otherwise unremarkable. An endoscopic retrograde cholangiopancreatography exam (figure 24.1) shows a tight stricture in the pancreatic portion of the common bile duct, and no gallstones are found. What is the best option for management of this patient?",
+            "options": [
+                "A. Neoadjuvant multiagent chemotherapy",
+                "B. Placement of a metallic uncovered stent",
+                "C. Palliative care consult",
+                "D. Hepaticojejunostomy with gastrojejunostomy",
+                "E. Referral to a hepatobiliary surgeon at a multidisciplinary cancer center"
+            ],
+            "answer": "E",
+            "explanation": "- Nationwide, less than 30% of patients with potentially resectable peripancreatic malignancies ever come to surgery.\n- Proximity to a National Cancer Institute designated center is independently related to the use of surgery as a treatment for peripancreatic malignancy.\n- Pancreatic resection is independently associated with prolonged disease-specific survival in large observational studies of localized malignancies.\n- In this patient, treatment with curative intent includes placement of a temporary plastic biliary stent and evaluation for surgical intervention for cure.\n- If after evaluation in a multidisciplinary format, a patient is not thought to be appropriate for immediate surgery, multiagent chemotherapy with neoadjuvant intent or palliative care is reasonable.\n- An assessment of patient fitness for surgery and a review of imaging by a surgeon with expertise in hepatopancreatobiliary surgery is critical for patient treatment planning.\n- Hepaticojejunostomy with gastrojejunostomy (double bypass) is rarely indicated as a primary treatment option and should be considered in a palliative situation if other treatment modalities are not possible."
+        },
+        {
+            "id": "25",
+            "question_type": "mcq",
+            "question": "A 70-year-old man presents to outpatient clinic with complaints of pneumaturia and recurrent urinary tract infection. CT scan demonstrates sigmoid diverticulitis (figures 25.1 and 25.2). Which of the following statements is true concerning the management of this patient?",
+            "options": [
+                "A. Colonoscopy is indicated to rule out malignancy.",
+                "B. Sigmoid resection by laparoscopic approach is contraindicated.",
+                "C. Cystoscopy is mandatory before surgical treatment.",
+                "D. End colostomy or loop ileostomy is preferred treatment, H",
+                "E. Barium enema is required to confirm location of colovesical fistula."
+            ],
+            "answer": "A",
+            "explanation": "- Diverticular disease of the colon is common; colovesical fistula is a rare complication of diverticulitis, typically involving the sigmoid colon.\n- Other potential causes of colovesical fistula are trauma, radiation, inflammatory bowel disease, and malignancy.\n- Because of the potential risk for a locally invasive colon cancer presenting with colovesical fistula, a colonoscopy should be performed in all patients presenting with a clinical suspicion for a colovesical fistula.\n- Most patients present with varying degrees of pneumaturia, fecaluria, and recurrent urinary tract infections.\n- CT scan findings of proximity of bowel to bladder and air in the bladder are consistent with colovesical fistula.\n- Cystoscopy is often performed in patients with genitourinary problems and can demonstrate chronic inflammation or a frank fistulous opening; however, a patient with typical history, symptoms, and CT scan findings does not require a cystoscopy before definitive surgical treatment.\n- Barium enema is not required preoperatively to confirm location of the colovesical fistula.\n- Definitive treatment is resection of the involved colon with restoration of gastrointestinal continuity, with or without repair of the involved bladder.\n- A laparoscopic approach is standard and is associated with reduced postoperative pain and hospital length of stay.\n- A diverting stoma may be necessary in select cases with heavy pelvic contamination or vascular compromise, but it is not preferred."
+        },
+        {
+            "id": "26",
+            "question_type": "mcq",
+            "question": "A 65-year-old woman is on proton pump inhibitors (PPIs) for chronic gastroesophageal reflux. Upper endoscopy was completely normal, with the exception of a solitary 0.5-cm gastric polyp that was completely excised. The pathology report was consistent with a fundic gland polyp without dysplasia. The next step in management is",
+            "options": [
+                "A. partial gastrectomy.",
+                "B. annual surveillance endoscopy.",
+                "C. measurement of Vitamin B12.",
+                "D. continuation of PPI therapy.",
+                "E. treatment for Helicobacter pylori."
+            ],
+            "answer": "D",
+            "explanation": "- Gastric polyps are found in nearly 4% of individuals undergoing esophagogastroduodenoscopy.\n- Fundic gland polyps represent the overwhelming majority of these polyps in the US population, with fewer than 1% being gastric adenomas.\n- They are sporadic, typically few in number, and almost exclusively occur in the absence of Helicobacter pylori infection.\n- Although patients taking proton pump inhibitors (PPIs) may have large numbers of these polyps that can regress with discontinuation of PPIs, the causative role of PPI therapy is not conclusive.\n- Thus, typical, small polyps (<1 cm) confirmed to be fundic gland polyps do not require discontinuation of PPI therapy or annual surveillance endoscopy.\n- Pathologic confirmation of a single or few small polyps by endoscopic biopsy is sufficient, without need for further endoscopic surveillance.\n- There is a small risk of dysplasia that increases in larger polyps (>1 cm); thus, PPI therapy is usually discontinued for larger polyps after endoscopic removal.\n- Partial gastrectomy is not indicated for small fundic gland polyps without dysplasia, because malignant transformation is rare.\n- Atrophic gastritis, but not fundic gland polyps, is associated with the presence of Vitamin B12 deficiency.\n- Adenomatous polyps are neoplastic lesions that occur sporadically or in association with familial adenomatous polyposis, with increased risk of malignant transformation and warrant more aggressive treatment."
+        },
+        {
+            "id": "27",
+            "question_type": "mcq",
+            "question": "A 55-year-old man presented with upper gastrointestinal bleeding. He underwent diagnostic esophagogastroduodenoscopy, which confirmed bleeding from a type HI gastric ulcer. Epinephrine injection was used for endoscopic hemostatic therapy, and intravenous proton pump inhibitors were initiated. Recurrent upper gastrointestinal bleeding occurs 12 hours later, and he is hemodynamically normal. What is the best next step in his management?",
+            "options": [
+                "A. Vagotomy and pyloroplasty",
+                "B. Repeat endoscopic hemostatic therapy",
+                "C. Selective angioembolization",
+                "D. Vagotomy with antrectomy",
+                "E. Duodenotomy with oversew of the ulcer"
+            ],
+            "answer": "B",
+            "explanation": "- The modified Johnson classification contains 5 types of peptic ulcers; Type III ulcer is located in the prepyloric area and is associated with high acid levels.\n- Endoscopic hemostatic therapy is indicated to control bleeding, but injection of dilute epinephrine alone is inadequate.\n- A meta-analysis of 16 randomized controlled trials compared injection of diluted epinephrine alone with injection followed by a second modality; combination treatment led to substantial reductions in rate of recurrent bleeding, surgery, and mortality.\n- Other meta-analyses showed that a second modality should be added to injection treatment.\n- Evidenced-based recommendation (2012) from the National Clinical Guideline Centre advises against using adrenaline as monotherapy for endoscopic treatment of nonvariceal upper gastrointestinal bleeding, and recommends mechanical methods, thermal coagulation, or fibrin/thrombin with adrenaline.\n- Surgery is not indicated as the next step in management, because randomized controlled trials show that repeated endoscopic treatment reduces the need for surgery without increasing mortality risk and is associated with fewer complications.\n- Angioembolization is reserved for nonvariceal upper gastrointestinal bleeding that cannot be managed endoscopically."
+        },
+        {
+            "id": "28",
+            "question_type": "mcq",
+            "question": "A 41-year-old woman underwent laparoscopic appendectomy for appendicitis diagnosed by CT scan. Surgical pathology of the resected specimen confirmed low-grade appendiceal mucinous neoplasm (LAMN) confined to the muscularis propria (Tis). The next step in management is",
+            "options": [
+                "A. right hemicolectomy.",
+                "B. ileocecectomy.",
+                "C. laparoscopy in 6 months.",
+                "D. no further therapy.",
+                "E. hyperthermic intraperitoneal chemotherapy."
+            ],
+            "answer": "D",
+            "explanation": "- The Peritoneal Surface Oncology Group International (PSOGI) recognized persistent lack of uniform diagnostic terminology in appendiceal mucinous neoplasia and adopted a consensus diagnostic terminology.\n- The definition of low-grade appendiceal mucinous neoplasm (LAMN) is a mucinous neoplasm with low-grade cytology.\n- \"High-grade appendiceal mucinous neoplasm\" was proposed as the new term for lesions without infiltrative invasion but with high-grade cytologic atypia.\n- The term \"cystadenoma\" is no longer recommended and \"mucinous adenocarcinoma\" is reserved for lesions with infiltrative invasion.\n- Pseudomyxoma peritonei is characterized by mucinous ascites and peritoneal implants generally originating from a perforated mucinous tumor of the appendix.\n- Patients with pTis (LAMN) do not develop tumor recurrence and are essentially cured by appendectomy.\n- No further therapy is indicated.\n- Right hemicolectomy, ileocecectomy, hyperthermic intraperitoneal chemotherapy, and repeat laparoscopy in 6 months are not indicated."
+        },
+        {
+            "id": "29",
+            "question_type": "mcq",
+            "question": "What is the best treatment option for a hemodynamically normal patient with a third recurrence of Clostridium difficile colitis who has persistent abdominal cramping and watery diarrhea despite treatment with oral vancomycin and fidaxomicin?",
+            "options": [
+                "A. Adding loperamide and simethicone and continuing 4 more weeks of oral vancomycin",
+                "B. Probiotics including Saccharomyces boulardii and Lactobacillus",
+                "C. Diverting loop ileostomy with colonic lavage",
+                "D. Total colectomy",
+                "E. Fecal transplantation"
+            ],
+            "answer": "E",
+            "explanation": "- As many as 26% of patients with initial Clostridium difficile infections (CDI) will not respond to conventional antibiotic regimens.\n- Effective treatment strategies for recurrent CDI are challenging.\n- The Infectious Diseases Society of America and the American College of Gastroenterology published guidelines on treatment of recurrent cases of CDI, recommending repeated, pulsed, and extended courses of oral vancomycin and fidaxomicin, but this regimen becomes progressively less effective with each recurrence.\n- Recently, fecal transplantation, consisting of enteral or colonic infusion of feces from healthy donors, emerged as an alternative treatment strategy for patients with chronic or recurrent CDI.\n- Multiple studies documented more than 300 patients successfully treated for CDI with fecal transplantation.\n- A New England Journal of Medicine study randomized patients with CDI refractory to vancomycin or metronidazole; 81% of patients treated with infusion of donor feces had resolution of infection.\n- Fecal transplant was a more effective treatment strategy than oral vancomycin or bowel lavage.\n- Probiotics are used to prevent and treat CDI, presumably to repopulate the colonic microflora, but no randomized controlled trials support their use as a treatment of CDI.\n- Subtotal or total colectomy is the recommended surgical approach to fulminant CDI.\n- Loop ileostomy with intraoperative colonic lavage is also described as an option for fulminant CDI. Neither surgical approach is used for recurrent CDI.\n- Antimotility agent loperamide may reduce diarrhea duration but may cause fecal stasis resulting in dangerous progression of CDI, so it is not routinely recommended."
+        },
+        {
+            "id": "30",
+            "question_type": "mcq",
+            "question": "While performing a screening colonoscopy on a 66-year- old healthy male patient, you note a 5-mm, full-thickness tear in the rectosigmoid that occurred during retroflexion. In addition to intravenous antibiotics, what is the next step in management?",
+            "options": [
+                "A. Insertion of a presacral drain",
+                "B. Colostomy diversion",
+                "C. Sigmoid resection",
+                "D. Endoscopic clip closure of the defect",
+                "E. Placement of a covered stent"
+            ],
+            "answer": "D",
+            "explanation": "- The incidence of iatrogenic colonic perforation during screening colonoscopy is low (<1%) but is often associated with significant morbidity and possible mortality.\n- Risk factors for perforation include anticoagulation, contamination, malignancy, and use of electrocautery and polypectomy.\n- Therapeutic colonoscopy carries a higher risk of perforation than screening colonoscopy.\n- Immediate identification and repair of perforation is important, as delayed diagnosis can lead to peritonitis, sepsis, and death.\n- Perforations can be managed operatively or nonoperatively, with recent data supporting a minimally invasive approach.\n- Nonoperative management is appropriate when the patient is asymptomatic with free air alone (managed with oral antibiotics, serial abdominal examinations, and bowel rest).\n- Insertion of a presacral drain is not indicated.\n- Placement of a covered stent is also not necessary.\n- Advances in endoscopic technology make endoscopic clip closure an ideal approach for small (<10 mm) colonic perforation during a screening colonoscopy.\n- Intraluminal endoclipping allows repair of small perforations recognized at the time of colonoscopy.\n- Endoscopic repairs should be performed with minimal air insufflation to avoid distention of the lumen and incomplete closure of the defect.\n- Operative management (open or laparoscopic surgery) is indicated in patients with diffuse peritonitis and contamination or in patients who fail nonoperative or endoscopic management.\n- Several surgical options exist, depending on patient's underlying pathology, perforation size, and surgeon's skill level.\n- When done early, primary closure of the perforation with or without resection can be performed given preceding bowel preparation.\n- Colonic diversion is used only when patient is found to have significant peritoneal contamination."
+        }
+    ]
+}

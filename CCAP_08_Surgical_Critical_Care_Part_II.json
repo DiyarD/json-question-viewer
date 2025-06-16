@@ -1,0 +1,355 @@
+{
+    "chapter_name": "Surgical Critical Care Part II",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "A 52-year-old patient is critically ill in the intensive care unit 5 days after urgent hepatic resection for bleeding hepatocellular cancer. He suddenly develops bright red blood in one of the surgical drains. Intravascular contrast for CT angiography is planned as a diagnostic study to consider angioembolization of the source of bleeding. What strategy is effective in reducing the risk of contrast associated acute kidney injury?",
+            "options": [
+                "A. Isotonic saline before and after",
+                "B. Sodium bicarbonate after",
+                "C. Sodium bicarbonate during contrast infusion",
+                "D. Hypertonic saline before and after",
+                "E. Albumin after"
+            ],
+            "answer": "A",
+            "explanation": "- Contrast-induced acute kidney injury (AKI) is reported to be the third leading cause of AKI in hospitalized patients, with associated high morbidity and mortality.\n- Current guidelines recommend intravenous volume expansion with isotonic crystalloid solution before and after intravascular contrast use as the cornerstone treatment for the prevention of contrast-induced AKI.\n- The HYDRAREA trial tested whether sodium bicarbonate was superior to isotonic saline in preventing contrast-associated AKI in critically ill patients. Two groups of critically ill patients with normal renal function (n = 307) were randomized to intravenous hydration with 0.9% saline or 1.4% sodium bicarbonate. The same administration protocol was used with each drug. During the hour before the contrast the drugs were given at 3 mL/kg and for 6 hours after the contrast the drugs were given at 1 mL/kg/hour. Approximately one-third of patients developed contrast-associated AKI in both groups (p = .81). Other similar outcomes between the 2 groups included need for renal replacement therapy (5 and 6 patients; p = .77), intensive care unit length of stay (24.7 ± 22.9 and 23 ± 23.8 days; p =.52), and mortality (25 and 24 patients; p > .99).\n- Infusions of sodium bicarbonate, hypertonic saline, or albumin are not recommended for prevention of contrast-induced AKI."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "A 92-year-old patient was admitted to the surgical intensive care unit after urgent laparotomy for perforated right colon cancer with fecal peritonitis She is intubated and mechanically ventilated. Her family reports that the last time she was in the intensive care unit, she developed severe delirium. Which of the following intravenous infusions for endotracheal tube tolerance has the lowest risk of delirium?",
+            "options": [
+                "A. Midazolam",
+                "B. Lorazepam",
+                "C. Dexmedetomidine",
+                "D. Propofol",
+                "E. Ketamine"
+            ],
+            "answer": "C",
+            "explanation": "- Delirium is very common in the intensive care unit and is frequently related to the sedatives and pain medications used for endotracheal tube tolerance in intubated and mechanically ventilated patients.\n- Delirium is associated with adverse outcomes in intensive care unit patients.\n- In 3 meta-analyses including only randomized controlled trials related to intensive care unit patients, dexmedetomidine was associated with a reduced incidence of delirium, intensive care unit length of stay, and mechanical ventilation duration, despite a significant heterogeneity among studies.\n- Benzodiazepines, propofol, and ketamine have a higher risk of intensive care unit delirium.\n- Unfortunately, dexmedetomidine is associated with an increase in bradycardia and hypotension."
+        },
+        {
+            "id": "3",
+            "question_type": "mcq",
+            "question": "A 65-year-old patient underwent elective resection of a large retroperitoneal] sarcoma. Postoperatively, he developed severe hypoxemia, and chest radiograph confirmed severe bibasilar atelectasis. He now requires supplemental oxygen for treatment of his severe hypoxemia but cannot tolerate noninvasive positive pressure ventilation via face mask. What is the best method to provide supplemental oxygen to reduce the risk of endotracheal intubation?",
+            "options": [
+                "A. Nonrebreather face mask",
+                "B. Face tent",
+                "C. High-flow nasal cannula",
+                "D. Transtracheal oxygen",
+                "E. Venturi face mask"
+            ],
+            "answer": "C",
+            "explanation": "- High-flow nasal cannula (HFNC) oxygen therapy is commonly used in intensive care units to provide supplemental oxygen therapy to patients with hypoxemia and respiratory insufficiency.\n- HFNC delivers heated humidified oxygen at a flow rate of 10 to 60 L/minute and more predictable FiO2 (up to FiO21.0) through nasal prongs.\n- The delivery of oxygen at high flow rates creates a positive pressure effect, increases end-expiratory lung volume, reduces anatomic dead space, and reduces the patients work of breathing.\n- HFNC was compared with noninvasive positive pressure ventilation (NIPPV) and conventional oxygen therapy in adult patients with acute respiratory failure. Eighteen trials with a total of 3881 patients were pooled in the final analysis.\n- Compared with conventional oxygen therapy, HFNC was associated with a lower rate of endotracheal intubation (z 2.55, p.01) while no significant difference was found in the comparison with NIPPV (z = 1.40, p = .16).\n- As for intensive care unit mortality and length of intensive care unit stay, HFNC did not exhibit an advantage over either conventional oxygen therapy or NIPPV.\n- NIPPV is more difficult for patients to tolerate than HFNC or conventional oxygen therapy, related to the tight-fitting mask required for NIPPV.\n- For patients with acute respiratory failure, HFNC is better tolerated as a more reliable alternative than NIPPV and conventional oxygen therapy to reduce the rate of endotracheal intubation."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "Which of the following factors has the highest risk for clinically important gastrointestinal bleeding from stress ulcers in critically ill patients?",
+            "options": [
+                "A. Mechanical ventilation",
+                "B. Renal failure",
+                "C. Hepatic failure",
+                "D. Shock",
+                "E. Coagulopathy"
+            ],
+            "answer": "A",
+            "explanation": "- Stress-related mucosal disease (SRMD) and stress ulcer are common in intensive care unit patients.\n- The underlying cause of SRMD is hypoperfusion of the mucosa in the upper gastrointestinal tract.\n- Hypoperfusion of the mucosa predisposes an intensive care unit patient to upper gastrointestinal bleeding.\n- Severed risk factors are associated with the development of SRMD, and national guidelines recommend stress ulcer prophylaxis for intensive care unit patients with these risk factors.\n- Two strong independent risk factors (mechanical ventilation and coagulopathy) for clinically important gastrointestinal bleeding were identified in a landmark prospective multicenter study.\n- Clinically important gastrointestinal bleeding is defined as overt bleeding in association with hemodynamic compromise or the need for blood transfusion.\n- Clinically important bleeding occurred in 33 (1.5%) of 2252 patients.\n- Respiratory failure requiring mechanical ventilation was a stronger risk factor than coagulopathy.\n- Of 847 patients who had one or both risk factors, 3.7% of patients had clinically important bleeding (mortality rate 48.5%), compared with 0.1% in 1405 patients without these risk factors (mortality rate 9.1%).\n- The 2016 Surviving Sepsis Guidelines recommend the following: that stress ulcer prophylaxis be given to patients with sepsis or septic shock who have risk factors for gastrointestinal bleeding (strong recommendation, low quality of evidence).\n- Based on the available evidence, the desirable consequences of stress ulcer prophylaxis outweigh the undesirable consequences; therefore, we made a strong recommendation in favor of using stress ulcer prophylaxis in patients with risk factors.\n- The American Society of Health-System Pharmacists (A.S.H.P.) Guidelines made similar recommendations."
+        },
+        {
+            "id": "5",
+            "question_type": "mcq",
+            "question": "A 70-year old man underwent an Ivor Lewis esophagectomy with gastric pull-up 10 days ago His postoperative course was complicated by an anastomotic leak ⚫that was managed with a covered stent. He is now hemodynamically normal but remains deconditioned on the ventilator. He is afebrile with a normal white btood cell count. When jejunostomy tube feeds began 4 days ago, he developed a high output of milky fluid from the right chest tube, which drained 1200 to 1500 mL per day. Triglycerides in the pleural fluid measured 400 mg/dl. (<150 mg/dL). Tube feeds were stopped, and parenteral nutrition was started. After tube feeds \"halted, the chest tube output became serous rather than milky, but continued to drain more than 1 L per day. His chest x-ray shows good expansion of the right lung without effusion. The surgical team is hoping to avoid return to operating room due to patient's fragile condition. What option gives the patient best chance to avoid reoperation?",
+            "options": [
+                "A. Octreotide",
+                "B. High-dose corticosteroids",
+                "C. Thoracic duct embolization",
+                "D. Talc pleurodesis through chest tube",
+                "E. External beam radiation to thoracic duct"
+            ],
+            "answer": "C",
+            "explanation": "- Thoracic duct leak resulting in chylothorax is a well-known complication after esophagectomy. It is caused by iatrogenic injury of the thoracic duct during esophageal dissection.\n- Chyle appears as milky white drainage from pleural space, and a triglyceride level greater than 110 mg/dL is diagnostic.\n- Chyle is also rich in nutrients, lymphocytes, and immunoglobulins. Consequently, high-volume chyle leaks result in malnutrition and immunocompromise, with mortality rates as high as 50%.\n- If chyle drainage is low (< 0.5 L/day), noninterventional management with a fat-free diet and somatostatin analogue usually suffices.\n- Talc pleurodesis via a chest tube is a further option to treat patients with low-output chylothorax.\n- High-output leaks (>1000 mL/day) generally require ligation or interruption of the thoracic duct.\n- Thoracic duct ligation after esophagectomy requires return to the operating room with either a thoracotomy or thoracoscopy and direct ligation of the thoracic duct.\n- In deconditioned patients, like the patient in this question, re-operation is fraught with complications.\n- Thoracic duct embolization (TDE) is a nonsurgical alternative for treatment of chylothorax.\n- Evidence suggests that thoracic duct embolization is successful in 60 to 80% of patients and obviates the need for surgical thoracic duct ligation.\n- After catheterization, the thoracic duct is occluded below the point of chyle leakage with embolization coils, cyanoacrylate glue, or both.\n- The ability to visualize the lymphatic system and thoracic duct abnormality potentially increases the treatment success rate, and the minimally invasive approach eliminates the postoperative morbidity and mortality associated with reoperation.\n- Pedal lymphangiography has been the major technical obstacle for wider adoption of TDE, and recent development of intranodal lymphangiography approached via the inguinal lymph nodes has opened the door for broader application of TDE.\n- For patients with chylothoraces related to malignancy—usually lymphoma—the pathophysiology of the condition is decidedly different than thoracic duct injury.\n- The mechanism by which chyle accumulates in the setting of malignancy involves infiltration of the thoracic duct and its tributaries with tumor cells causing obstruction, excess pressure, and microperforation.\n- Thoracic duct ligation and embolization are generally ineffective in this setting.\n- Malignant chylothoraces usually respond favorably to chemotherapy, and sometimes radiation to posterior mediastinal lymph nodes; surgical intervention is rarely necessary."
+        },
+        {
+            "id": "6",
+            "question_type": "mcq",
+            "question": "A25-year-old man was an unhelmeted rider in a motorcycle versus tractor trailer crash. He was admitted to the intensive care unit with a severe traumatic brain injury with subdural hematoma, a grade III liver injury, and bilateral femur fractures in traction. On post injury day 1, his oxygen requirement increases, and he has diffuse, patchy infiltrates on chest radiograph. He is placed on 6 mL/kg tidal volume with positive end expiratory pressure (PEEP) of 15 cm H2O but still has high plateau pressures. What intervention should be initiated next?",
+            "options": [
+                "A. Neuromuscular blockade",
+                "B. B. Prone position ventilation",
+                "C. C. Reduced level of PEEP to 5 cm H2O",
+                "D. D. Airway pressure release ventilation",
+                "E. Inhaled nitric oxide"
+            ],
+            "answer": "A",
+            "explanation": "- Acute respiratory distress syndrome (ARDS) is an acute, diffuse, inflammatory lung injury resulting in respiratory failure and severe hypoxemia.\n- ARDS has clinical features that overlap with other causes of respiratory failure, including cardiogenic pulmonary edema, viral or diffuse bacterial pneumonia, and inhalation injury.\n- Four criteria need to be present to make a diagnosis of ARDS: (1) acute onset of respiratory symptoms beginning within 1 week of a clinical insult, (2) bilateral patchy infiltrates on a chest x-ray or chest CT scan, (3) cardiogenic pulmonary edema or fluid overload is not the primary cause of the respiratory failure confirmed with echocardiography, and (4) a PaO2/FiO2 consistent with a severe impairment of oxygenation.\n- The PaO2/ FiO2 is calculated by dividing the PaO2 from an arterial blood gas reading by the FiO2 delivered by the ventilator expressed as a decimal ranging from 0.21 to 1.0.\n- Reducing positive end expiratory pressure (PEEP) would worsen his oxygenation.\n- The mainstay of management of ARDS is a lung protective strategy using low tidal volume ventilation (6-8 mL/kg of ideal body weight) with high levels of PEEP.\n- Most patients with mild or moderate ARDS will recover with supportive care and lung protective ventilation.\n- However, patients with severe ARDS may have refractory hypoxemia and elevated plateau pressures despite low tidal volume ventilation.\n- Several adjunctive therapies have been studied for patients with severe ARDS, but none are very promising.\n- Prone positioning was initially described in case reports and retrospective series; however, a single large prospective trial demonstrated a potential benefit.\n- Patients with severe ARDS ventilated in the prone position had an improvement in oxygenation allowing a decreased FiO2.\n- There was also a survived advantage in patients with severe ARDS undergoing prone ventilation.\n- Because prone ventilation is extremely labor intensive for staff and requires specialized units, these results may not be widely applicable.\n- Also, prone ventilation would not be possible in this patient because both of his femurs are in traction.\n- Corticosteroids may be beneficial for patients with prolonged courses of ARDS.\n- Patients with refractory ARDS can be treated with a 30-day course of steroids starting between days 7 and 14.\n- Corticosteroids show an improvement in oxygenation and ventilator-free days, but mortality data are mixed.\n- There is a clear detriment to starting steroids after day 14.\n- Inhaled nitric oxide and inhaled prostaglandins can improve oxygenation in the first 48 to 72 hours, but there is no survival benefit.\n- The use of neuromuscular blockade can improve oxygenation and decrease mortality in severe ARDS.\n- A multicenter trial of 340 patients randomized patients to neuromuscular blockade with cisatracurium or placebo within 48 hours of diagnosis of ARDS.\n- All patients saw an improvement in oxygenation, and the patients with severe ARDS had a decrease in 90-day mortality."
+        },
+        {
+            "id": "7",
+            "question_type": "mcq",
+            "question": "Percutaneous tracheostomy",
+            "options": [
+                "A. has a higher complication rate than surgical tracheostomy.",
+                "B. is safe without bronchoscopic guidance.",
+                "C. is contraindicated in morbidly obese patients.",
+                "D. is safest when performed by surgeons.",
+                "E. is contraindicated in patients with recent anterior cervical spinal surgery."
+            ],
+            "answer": "B",
+            "explanation": "- Percutaneous tracheostomy is a safe and effective alternative to open tracheostomy.\n- The percutaneous approach tends to have lower overall costs and can be carried out in an intensive care unit setting, rather than the operating room, without an increase in complication rates.\n- The original technique for percutaneous tracheostomy included the use of a bronchoscope. Bronchoscopic guidance can visualize tracheal instrumentation and provide an additional measure of safety when performing this procedure.\n- There are several techniques for performing bedside percutaneous tracheostomy without the aid of a bronchoscope.\n- A modified approach, first described in 1999, included a small incision with dissection to the pretracheal space, thus allowing direct visualization of the trachea before tracheal puncture, serial dilation using the Seidinger technique, and insertion of the tracheostomy tube.\n- Multiple large studies showed no difference in complication rates between procedures performed with and without a bronchoscope.\n- Another safe and efficacious technique for tracheostomy without a bronchoscope is ultrasound-guided tracheostomy.\n- Ultrasound can be used to visualize the trachea as well as nearby vascular structures, thus providing additional safety in lieu of bronchoscopy.\n- Morbid obesity was thought to constitute a relative contraindication to percutaneous tracheostomy.\n- One recent study evaluated percutaneous tracheostomy in patients with a BMI greater than 35 and found no increase in rates of complication compared with similar patients undergoing open tracheostomy.\n- Percutaneous tracheostomies are performed by medical intensivists, rather than surgeons, at many institutions.\n- As long as the medical intensivists have appropriate training and credentialing, their results are equivalent to surgeons performing percutaneous tracheostomy.\n- A recent study evaluated percutaneous tracheostomy in patients after anterior cervical spinal surgery and found no increase in surgical site infection.\n- Percutaneous tracheostomy is considered safe in this group of patients."
+        },
+        {
+            "id": "8",
+            "question_type": "mcq",
+            "question": "An intensive care unit patient undergoes a transthoracic echocardiogram that shows a pericardial effusion. What associated feature suggests the strongest need for urgent pericardial drainage procedure?",
+            "options": [
+                "A. Echocardiographic evidence of inferior vena cava collapse",
+                "B. 10 mm Hg decrease in systolic blood pressure during inspiration",
+                "C. Effusion loculated behind the left atrium",
+                "D. Patient with metastatic effusion",
+                "E. Hypotension"
+            ],
+            "answer": "E",
+            "explanation": "- Cardiac tamponade occurs when intrapericardial fluid creates a situation where the cardiac chambers cannot fill leading to cardiogenic shock.\n- This situation requires urgent therapeutic intervention, consisting of either percutaneous pericardial drainage or surgical pericardial window.\n- Because the pericardium has limited compliance, even a moderate volume of pericardial fluid may impair right ventricular filling, often manifesting with a dramatic drop in cardiac output, hypotension, and shock.\n- Therefore, hypotension in the presence of a significant pericardial effusion demands urgent pericardial drainage procedure to avoid likely hemodynamic collapse.\n- Other signs and symptoms of cardiac tamponade are more subtle, and, although they may help guide the decision to perform a pericardial drainage procedure, they are not as specific or urgent as frank hypotension.\n- Pulsus paradoxus, defined as a 10 to 20 mm Hg decrease in systolic blood pressure during inspiration, is often cited as a sign of cardiac tamponade.\n- Pulsus paradoxus is an exaggeration of normal diminution in blood pressure during inspiration rather than a paradoxical situation.\n- Negative intrapleural pressure causes increased right ventricle filling, displacement of intraventricular septum to left and thus decreased left ventricle output.\n- Consequently, stroke volume and blood pressure are diminished during inspiration.\n- However, in normal physiologic states, this difference is quite small.\n- When this difference exceeds 10 mm Hg in the presence of a pericardial effusion, cardiac tamponade is considered likely.\n- Nevertheless, many conditions besides pericardial effusion can cause pulsus paradoxus, including severe chronic obstructive pulmonary disease, mitral stenosis, restrictive cardiomyopathy, obesity, and ascites.\n- Certain findings on echocardiography may indicate the presence of cardiac tamponade when a pericardial effusion is present.\n- This list includes early diastolic collapse of the right ventricle (sensitivity -60%, specificity ~90%) and inferior vena cava plethora, defined as a diameter greater than 2.1 cm with less than 50% decrease with inspiration.\n- However, none of these findings, by themselves, is as important as clinical hypotension in terms of indicating urgent need for pericardial drainage.\n- Malignant pericardial effusions often develop in patients with widely metastatic carcinoma.\n- Although malignant pericardial effusions often require pericardial drainage procedures, the presence of malignancy is not considered an indication for urgent drainage."
+        },
+        {
+            "id": "9",
+            "question_type": "mcq",
+            "question": "A 50-year-old man presents with a traumatic brain injury and is intubated for airway protection using etomidate and succinylcholine. Twelve hours later, he is noted to have a blood pressure of 80/50 mm Hg, heart rate of 122 beats per minute, temperature of 37°C, and SpO2 of 95%. He remains hypotensive despite -fluid resuscitation. Laboratory values include the following: sodium -130 mEq/L (135-145 mEq/L), potassium - 6.1 mEq/L (3.5-5.0 mEq/L), creatinine - 2.0 mg/dL (0.4-1.30 mg/dL), and glucose = 60 mg/dL (70-100 mg/dL). His initial abdominal CT scan was normal. Echocardiogram shows a hyperdynamic heart with a normal ejection fraction. The most likely explanation for his persistent shock state is",
+            "options": [
+                "A. his head injury.",
+                "B. hyperdynamic heart failure.",
+                "C. missed visceral perforation.",
+                "D. acute kidney failure.",
+                "E. adrenal insufficiency."
+            ],
+            "answer": "E",
+            "explanation": "- Primary adrenal insufficiency or Addison disease results in symptoms that occur because of title lack of mineralocorticoid and glucocorticoid made in the adrenal cortex.\n- The most common cause is autoimmune but there are a variety of other causes, including drug suppression of glandular function.\n- The most obvious of these is a patient whose adrenal function is suppressed by exogenous steroids taken for any number of diseases.\n- Commonly used drugs known to suppress adrenal function include ketoconazole and etomidate.\n- Common findings include hyponatremia and hyperkalemia.\n- Hyponatremia is caused by both the loss of sodium in the urine and the decreased free water clearance associated with increased vasopressin and angiotensin II.\n- Sodium is lost but free water remains in the vascular space.\n- Other findings include unexplained hypotension, abdominal pain, vomiting, and diarrhea.\n- Although a severe head injury could damage the pituitary and cause secondary adrenal insufficiency due to disruption of the hypothalamic-pituitary-adrenal axis, this situation is rare and symptoms are unlikely to occur within 12 hours.\n- A missed visceral injury, though possible, is minimized by the normal CT scan and unlikely to cause fluid unresponsive shock so soon.\n- Acute kidney failure does not explain the vital signs and associated physical exam and lab findings.\n- The fact that the heart is hyperdynamic with a normal ejection fractions rules out heart failure and is consistent with diminished afterload, which is the hemodynamic result of adrenal insufficiency."
+        },
+        {
+            "id": "10",
+            "question_type": "mcq",
+            "question": "A 78-year-old man is in the surgical intensive care unit 5 days after colectomy for T2 colon adenocarcinoma. He is not intubated but is on high-flow oxygen. He has a persistent ileus with nausea and vomiting treated with a nasogastric tube and parenteral nutrition. He has increased respiratory secretions requiring frequent suctioning during which he desaturates to an oxygen saturation of 85%. His respiratory rate is 32 breaths per minute, and he is using accessory muscles to breath. The next step to manage his respiratory status is",
+            "options": [
+                "A. bilevel positive airway pressure.",
+                "B. tracheostomy.",
+                "C. incentive spirometry.",
+                "D. endotracheal intubation.",
+                "E. continuous positive airway pressure."
+            ],
+            "answer": "D",
+            "explanation": "- This patient has impending respiratory failure and needs intubation based on his respiratory parameters and clinical situation.\n- Avoiding intubation is always a goal of respiratory therapy, but given this clinical scenario, intubation is necessary.\n- His respiratory rate, use of accessory muscles, secretions, and oxygen requirements all indicate the need for intubation.\n- His clinical condition also supports intubation.\n- Continuous positive airway pressure (CPAP) or bilevel noninvasive positive pressure ventilation (NPPV) can be an effective and safe intervention for the treatment of adults with acute respiratory failure after upper abdominal surgery.\n- However, relative contraindications for these noninvasive methods of respiratory support include recurrent vomiting, large amounts of pulmonary secretions, and an inability to tolerate the devices.\n- The patient's ileus places him at risk for vomiting and aspiration.\n- His secretions requiring frequent suctioning would also complicate the use of a noninvasive form of ventilatory support.\n- A mechanical impediment to the use of mask ventilation is his nasogastric tube, which will make secure mask fit difficult.\n- Postoperative respiratory failure is best prevented with a comprehensive program of respiratory support.\n- This program must include preoperative and postoperative interventions aimed at improving respiratory function.\n- Components of one program include preoperative education, incentive spirometry, mobilization, and proper pain control.\n- Application of these interventions in isolation has limited benefit to avoid intubation.\n- Low-quality evidence shows that CPAP in the postoperative period might reduce postoperative atelectasis, pneumonia, and reintubation.\n- There is also insufficient evidence to show high flow nasal cannula provides a safe and efficacious respiratory support for adult intensive care unit patients and can be used to prevent reintubation routinely.\n- A tracheostomy is not indicated in this urgent scenario although might be needed in the future if extubation cannot be achieved."
+        },
+        {
+            "id": "11",
+            "question_type": "mcq",
+            "question": "Telemedicine in US surgical intensive care units",
+            "options": [
+                "A. improves adherence to best-practice guidelines.",
+                "B. is consistently associated with decreases in mortality.",
+                "C. affects 30% of intensive care unit patients nationwide.",
+                "D. decreases resident duty hours.",
+                "E. is prohibited from use across state lines by federal law."
+            ],
+            "answer": "A",
+            "explanation": "- Telemedicine in intensive care units is increasing in frequency but currently affects only 11% of intensive care unit patients nationally.\n- Telemedicine appears to improve adherence to best-practice guidelines, but no consistently demonstrated decrease in intensive care unit mortality is evident.\n- In a meta-analysis including 35 intensive care units and 41,734 patients, intensive care unit mortality and length of stay decreased, but no decrease was seen for in-hospital mortality or length of stay.\n- A second meta-analysis (11 trials) showed lower intensive care unit and hospital mortality.\n- Studies of telemedicine in different hospital settings are difficult to interpret due to a variety of environments and a lack of consistency in the elements of telemedicine studied.\n- Telemedicine in teaching intensive care units has not decreased resident work hours, but residents have subjectively reported a positive experience with telemedicine and its perceived positive impact on patient safety.\n- No federal laws bar the use of telemedicine across state lines."
+        },
+        {
+            "id": "12",
+            "question_type": "mcq",
+            "question": "A 65-year-old man with a history of smoking and alcoholism is admitted to the intensive care unit after being found down in the street. A subdural hematoma is diagnosed and treated nonoperatively by neurosurgery. On hospital day 2, the patient has a Glasgow Coma Scale score of 14 and is hemodynamically normal. Later that day, the patient develops acute alcohol withdrawal and is started on lorazepam. Persistent symptoms require increasingly high doses of lorazepam, and the patient is intubated for airway protection. On hospital day 3, the patient is on the ventilator and is somnolent but opens his eyes with stimulation. He has no tremors but has a regular heart rate of 130 beats per minute and a blood pressure of 160/100 mm Hg on a lorazepam drip of 10 mg per hour. Which medication should be given?",
+            "options": [
+                "A. Hydralazine",
+                "B. Flumazenil",
+                "C. Chlordiazepoxide",
+                "D. Clonidine",
+                "E. Disulfiram"
+            ],
+            "answer": "D",
+            "explanation": "- Acute alcohol withdrawal may present in patients with an alcoholic history undergoing acute surgery and trauma or in postoperative elective surgery patients where an alcoholic history is missed.\n- Uncontrolled severe alcohol withdrawal may include seizures, alcoholic hallucinosis, delirium tremens, severe hypertension, fluid and electrolyte disorders, tachyarrhythmias, and death.\n- Protocols for moderate to severe alcohol withdrawal largely focus on the management of psychomotor agitation with benzodiazepines.\n- High intravenous doses of lorazepam are dangerous because the diluent includes propylene glycol, which can produce lactic acidosis, myocardial depression, and shock.\n- When high doses of benzodiazepines are no controlling symptoms and when excess sympathetic response (hypertension, tachycardia) occurs, additional agents may be required.\n- This patient is receiving lorazepam at 10 mg/hour, which is a large dose.\n- Barbiturates and propofol are used in cases of refractory delirium tremens to induce coma and prevent seizures.\n- Flumazenil produces rapid benzodiazepine reversal and may induce seizures.\n- Disulfiram is used in the outpatient management of alcohol abuse to prevent recidivism, but it is not used in acute withdrawal.\n- Chlordiazepoxide is used as a long-acting oral agent in alcohol withdrawal but is not a preferred agent in the intensive care unit.\n- Alpha-2 agonists, such as clonidine and dexmedetomidine are not used as primary agents and may not reduce seizure risk but may be used adjunctively to reduce benzodiazepine dose, hypertension, and tachycardia."
+        },
+        {
+            "id": "13",
+            "question_type": "emq",
+            "question": "Preferred initial pressor for septic shock",
+            "options": [
+                "A. Phenylephrine",
+                "B. Dopamine",
+                "C. Norepinephrine",
+                "D. Epinephrine",
+                "E. Vasopressin"
+            ],
+            "answer": "C",
+            "explanation": "- The initial choice of vasopressor in critical care patients has evolved over the past 30 years. Selections are usually evidence based, but availability, dogma, and habit may play a role.\n- Before 2000, dopamine was a preferred pressor in many US intensive care units. However, European trials showed the relative superiority of norepinephrine over dopamine in septic shock and discredited \"renal dose\" dopamine for acute kidney injury. Because of these findings, the use of norepinephrine has eclipsed dopamine.\n- Dopamine's long history may explain its continued immediate availability in premixed bags in the United States.\n- Norepinephrine has more alpha-adrenergic mediated vasoconstriction than dopamine and produces a greater rise in blood pressure. Dopamine is a stronger inotrope via its larger beta-adrenergic effects. It produces greater increases in cardiac output than norepinephrine.\n- Phenylephrine is a pure alpha-adrenergic vasoconstrictor. It does not produce the tachyarrhythmias and cardiac irritability of agents with beta effects but can produce bradycardia when sympathetic tone is lacking. Phenylephrine is often given via intravenous push and is the pressor most often used in peripheral intravenous lines.\n- Vasopressin has multiple effects, including constriction of arterioles via the V1A receptor. It is typically used as a second-line agent in septic shock after catecholamine agents, when response to epinephrine is insufficient in anaphylaxis and septic shock. It is not superior to norepinephrine in septic shock.\n- Epinephrine acts at all 5 adrenergic receptors. It is the only listed agent that combines vasoconstriction, vasodilation, inotropy, chronotropy, bronchodilation, glycogenolysis, and lipolysis."
+        },
+        {
+            "id": "14",
+            "question_type": "emq",
+            "question": "Available in a premixed bag",
+            "options": [
+                "A. Phenylephrine",
+                "B. Dopamine",
+                "C. Norepinephrine",
+                "D. Epinephrine",
+                "E. Vasopressin"
+            ],
+            "answer": "B",
+            "explanation": "- The initial choice of vasopressor in critical care patients has evolved over the past 30 years. Selections are usually evidence based, but availability, dogma, and habit may play a role.\n- Before 2000, dopamine was a preferred pressor in many US intensive care units. However, European trials showed the relative superiority of norepinephrine over dopamine in septic shock and discredited \"renal dose\" dopamine for acute kidney injury. Because of these findings, the use of norepinephrine has eclipsed dopamine.\n- Dopamine's long history may explain its continued immediate availability in premixed bags in the United States.\n- Norepinephrine has more alpha-adrenergic mediated vasoconstriction than dopamine and produces a greater rise in blood pressure. Dopamine is a stronger inotrope via its larger beta-adrenergic effects. It produces greater increases in cardiac output than norepinephrine.\n- Phenylephrine is a pure alpha-adrenergic vasoconstrictor. It does not produce the tachyarrhythmias and cardiac irritability of agents with beta effects but can produce bradycardia when sympathetic tone is lacking. Phenylephrine is often given via intravenous push and is the pressor most often used in peripheral intravenous lines.\n- Vasopressin has multiple effects, including constriction of arterioles via the V1A receptor. It is typically used as a second-line agent in septic shock after catecholamine agents, when response to epinephrine is insufficient in anaphylaxis and septic shock. It is not superior to norepinephrine in septic shock.\n- Epinephrine acts at all 5 adrenergic receptors. It is the only listed agent that combines vasoconstriction, vasodilation, inotropy, chronotropy, bronchodilation, glycogenolysis, and lipolysis."
+        },
+        {
+            "id": "15",
+            "question_type": "emq",
+            "question": "Can cause reflex bradycardia, especially in spinal cord injury",
+            "options": [
+                "A. Phenylephrine",
+                "B. Dopamine",
+                "C. Norepinephrine",
+                "D. Epinephrine",
+                "E. Vasopressin"
+            ],
+            "answer": "A",
+            "explanation": "- The initial choice of vasopressor in critical care patients has evolved over the past 30 years. Selections are usually evidence based, but availability, dogma, and habit may play a role.\n- Before 2000, dopamine was a preferred pressor in many US intensive care units. However, European trials showed the relative superiority of norepinephrine over dopamine in septic shock and discredited \"renal dose\" dopamine for acute kidney injury. Because of these findings, the use of norepinephrine has eclipsed dopamine.\n- Dopamine's long history may explain its continued immediate availability in premixed bags in the United States.\n- Norepinephrine has more alpha-adrenergic mediated vasoconstriction than dopamine and produces a greater rise in blood pressure. Dopamine is a stronger inotrope via its larger beta-adrenergic effects. It produces greater increases in cardiac output than norepinephrine.\n- Phenylephrine is a pure alpha-adrenergic vasoconstrictor. It does not produce the tachyarrhythmias and cardiac irritability of agents with beta effects but can produce bradycardia when sympathetic tone is lacking. Phenylephrine is often given via intravenous push and is the pressor most often used in peripheral intravenous lines.\n- Vasopressin has multiple effects, including constriction of arterioles via the V1A receptor. It is typically used as a second-line agent in septic shock after catecholamine agents, when response to epinephrine is insufficient in anaphylaxis and septic shock. It is not superior to norepinephrine in septic shock.\n- Epinephrine acts at all 5 adrenergic receptors. It is the only listed agent that combines vasoconstriction, vasodilation, inotropy, chronotropy, bronchodilation, glycogenolysis, and lipolysis."
+        },
+        {
+            "id": "16",
+            "question_type": "emq",
+            "question": "Primarily used as a second-line agent",
+            "options": [
+                "A. Phenylephrine",
+                "B. Dopamine",
+                "C. Norepinephrine",
+                "D. Epinephrine",
+                "E. Vasopressin"
+            ],
+            "answer": "E",
+            "explanation": "- The initial choice of vasopressor in critical care patients has evolved over the past 30 years. Selections are usually evidence based, but availability, dogma, and habit may play a role.\n- Before 2000, dopamine was a preferred pressor in many US intensive care units. However, European trials showed the relative superiority of norepinephrine over dopamine in septic shock and discredited \"renal dose\" dopamine for acute kidney injury. Because of these findings, the use of norepinephrine has eclipsed dopamine.\n- Dopamine's long history may explain its continued immediate availability in premixed bags in the United States.\n- Norepinephrine has more alpha-adrenergic mediated vasoconstriction than dopamine and produces a greater rise in blood pressure. Dopamine is a stronger inotrope via its larger beta-adrenergic effects. It produces greater increases in cardiac output than norepinephrine.\n- Phenylephrine is a pure alpha-adrenergic vasoconstrictor. It does not produce the tachyarrhythmias and cardiac irritability of agents with beta effects but can produce bradycardia when sympathetic tone is lacking. Phenylephrine is often given via intravenous push and is the pressor most often used in peripheral intravenous lines.\n- Vasopressin has multiple effects, including constriction of arterioles via the V1A receptor. It is typically used as a second-line agent in septic shock after catecholamine agents, when response to epinephrine is insufficient in anaphylaxis and septic shock. It is not superior to norepinephrine in septic shock.\n- Epinephrine acts at all 5 adrenergic receptors. It is the only listed agent that combines vasoconstriction, vasodilation, inotropy, chronotropy, bronchodilation, glycogenolysis, and lipolysis."
+        },
+        {
+            "id": "17",
+            "question_type": "emq",
+            "question": "Acts at 5 different adrenergic receptor subtypes",
+            "options": [
+                "A. Phenylephrine",
+                "B. Dopamine",
+                "C. Norepinephrine",
+                "D. Epinephrine",
+                "E. Vasopressin"
+            ],
+            "answer": "D",
+            "explanation": "- The initial choice of vasopressor in critical care patients has evolved over the past 30 years. Selections are usually evidence based, but availability, dogma, and habit may play a role.\n- Before 2000, dopamine was a preferred pressor in many US intensive care units. However, European trials showed the relative superiority of norepinephrine over dopamine in septic shock and discredited \"renal dose\" dopamine for acute kidney injury. Because of these findings, the use of norepinephrine has eclipsed dopamine.\n- Dopamine's long history may explain its continued immediate availability in premixed bags in the United States.\n- Norepinephrine has more alpha-adrenergic mediated vasoconstriction than dopamine and produces a greater rise in blood pressure. Dopamine is a stronger inotrope via its larger beta-adrenergic effects. It produces greater increases in cardiac output than norepinephrine.\n- Phenylephrine is a pure alpha-adrenergic vasoconstrictor. It does not produce the tachyarrhythmias and cardiac irritability of agents with beta effects but can produce bradycardia when sympathetic tone is lacking. Phenylephrine is often given via intravenous push and is the pressor most often used in peripheral intravenous lines.\n- Vasopressin has multiple effects, including constriction of arterioles via the V1A receptor. It is typically used as a second-line agent in septic shock after catecholamine agents, when response to epinephrine is insufficient in anaphylaxis and septic shock. It is not superior to norepinephrine in septic shock.\n- Epinephrine acts at all 5 adrenergic receptors. It is the only listed agent that combines vasoconstriction, vasodilation, inotropy, chronotropy, bronchodilation, glycogenolysis, and lipolysis."
+        },
+        {
+            "id": "18",
+            "question_type": "mcq",
+            "question": "A 100-kg woman is admitted with cholangitis. After endoscopic retrograde cholangiopancreatography clears her common bile duct of obstructing bile duct stones, she is admitted to the intensive care unit for persistent hypotension (blood pressure 80/60 mm Hg). The recommended fluid infusion for the first 3 hours of resuscitation is",
+            "options": [
+                "A. 1000 mL of crystalloid.",
+                "B. 2000 mL of crystalloid.",
+                "C. 3000 mL of crystalloid.",
+                "D. 500 mL 5% albumin.",
+                "E. 500 mL of 6% hydroxyethyl starch."
+            ],
+            "answer": "C",
+            "explanation": "- Sepsis is a life-threatening condition that must be treated immediately to reverse hypotension and mitigate organ dysfunction.\n- The revised adult sepsis guidelines were published in 2016.\n- The cornerstone of sepsis therapy includes aggressive fluid resuscitation, prompt initiation of broad-spectrum antibiotics, a mean arterial pressure of at least 65 mm Hg, and source control.\n- The new recommendations specify an initial crystalloid infusion of at least 30 mL/kg within the first 3 hours.\n- The emphasis on early and aggressive volume resuscitation is designed to improve patient perfusion until additional hemodynamic monitoring is put in place.\n- Albumin can be used as a second-line agent, in addition to crystalloids, when patients require large volume resuscitation.\n- The guideline document recommends against the use of hydroxyethyl starch in sepsis resuscitation, because it is associated with a higher risk of acute kidney injury and death."
+        },
+        {
+            "id": "19",
+            "question_type": "mcq",
+            "question": "Which of the following is an effective rescue strategy in a patient with severe acute respiratory distress syndrome?",
+            "options": [
+                "A. Plat, greater than 35 cm H2O",
+                "B. Prone positioning",
+                "C. Positive end-expiratory pressure of 5 cm H2O or less",
+                "D. High-frequency oscillatory ventilation",
+                "E. Tidal volume of 8 to 10 mL/kg"
+            ],
+            "answer": "B",
+            "explanation": "- Acute respiratory distress syndrome (ARDS) continues to be a management challenge in the intensive care unit. No definitive intervention has been discovered to date to reverse or prevent the development of ARDS, and treatment is generally supportive.\n- This supports the observation that ARDS is a heterogenous process with multiple etiologies that include intrinsic respiratory injury and exogenous pulmonary factors such as injury from cytokine release due to the systemic inflammatory response syndrome. Only modest improvements in survival have occurred in the past several decades, largely due to strategies designed to protect the lung from ventilator-induced lung injury.\n- Controversy remains over the most effective ventilation strategies: high-versus low positive end-expiratory pressure (PEEP), permissive hypercapnia, open-lung ventilation strategies, FiO2-PEEP tables, a resurgence of the \"best-PEEP\" concept, recruitment maneuvers, and the like.\n- Ventilator-induced lung injury is thought to be due to the shear injury imposed by positive pressure ventilation resulting from the opening then collapse of alveolar units.\n- Greater attention is being paid to airway pressures, with current recommendation of maintaining plateau pressures less than 30 cm H2O to avoid barotrauma and using normal (physiologic) tidal volumes, generally 6 mL/kg of predicted body weight.\n- High-frequency oscillatory ventilation (HFOV) generated some initial enthusiasm due to the improvements seen in oxygenation and the relative constant airway pressures associated with this mode of ventilation.\n- Subsequent studies have not demonstrated any mortality benefit for HFOV, and adequate oxygenation can be achieved with current airway-protective ventilation strategies that do not require expensive ventilators and expertise.\n- It has been known for some time that placing mechanically ventilated patients in the prone position improves oxygenation. The effect is thought to be due to improvements in functional residual volume because of improvements in dorsal lung ventilation, a reduction in ventilation/perfusion mismatching (physiologic shunt), an improvement in lung recruitment, a reduction in ventilator-induced lung injury by a more homogeneous distribution airway pressure among alveolar units, and a decrease in circulating inflammatory cytokines.\n- Prone positioning redistributes airway pressure over a larger alveolar surface area, which minimizes shear injury, particularly when PEEP is concomitantly used.\n- Additionally, prone positioning generally allows higher levels of PEEP, which may help prevent derecruitment of alveoli.\n- Recent clinical studies and several large meta-analyses demonstrated not only improvement in oxygenation but also better survival.\n- Prone positioning is well tolerated but somewhat resource intensive because it requires trained staff familiar with the techniques. To be effective, patients should be kept prone for more than 12 hours per day.\n- Prone positioning is now included in the practice guidelines for moderate to severe ARDS by the American Thoracic Society, the European Society of Intensive Care Medicine, and the Society of Critical Care Medicine."
+        },
+        {
+            "id": "20",
+            "question_type": "mcq",
+            "question": "A 42-year-old man fell from a height of 40 feet at a construction site. His injuries include multiple left-sided rib fractures with a flail segment of his chest wall, a left-sided pulmonary contusion, and a pelvic fracture. He is appropriately resuscitated but requires intubation for respiratory distress with severe hypoxemia. His weight is 78 kg (ideal body weight - 70 kg). The most appropriate initial tidal volume setting is",
+            "options": [
+                "A. 200mL.",
+                "B. 420mL.",
+                "C. 600mL.",
+                "D. 780mL.",
+                "E. 1170mL."
+            ],
+            "answer": "B",
+            "explanation": "- The goals of mechanical ventilation in the case presented are (1) to assist the patient in obtaining the necessary oxygenation and oxygen delivery, (2) to maintain the maximum alveolar surface area and possibly recruit atelectatic alveoli, (3) to minimize the risk of ventilator-induced lung injury, and (4) to allow the patient to provide the work of breathing appropriate under the clinical circumstances to maintain respiratory muscle tone and conditioning.\n- Traditional tidal volumes of 10 to 15 mL/kg exceed normal tidal volumes in a resting adult and run the risk of overdistending open alveolar segments and exacerbating abnormal ventilation perfusion relationships (i.e., increasing physiologic shunt and producing shear stress/injury).\n- A clinical trial comparing traditional tidal volume settings with low tidal volumes of approximately 6 mL/kg of ideal body weight demonstrated decreased mortality and increased the number of ventilator-free days in patients with acute lung injury and acute respiratory distress syndrome.\n- An appropriate initial ventilator setting is 6 mL/kg x 70 kg = 420 mL tidal volume, with the addition of positive end-expiratory pressure (PEEP) obtained from a PEEP/FiO2 table or titrated to keep the peak plateau airway pressure less than 30 cm H2O.\n- Minute ventilation, and consequently arterial pH, is maintained by adjusting the rate of ventilation.\n- The goal for oxygen saturation is 85 to 95%."
+        },
+        {
+            "id": "21",
+            "question_type": "emq",
+            "question": "Monomorphic ventricular tachycardia with hypotension",
+            "options": [
+                "A. Amiodarone",
+                "B. Calcium-channel blocker",
+                "C. Cardioversion",
+                "D. Intravenous magnesium",
+                "E. Atropine"
+            ],
+            "answer": "C",
+            "explanation": "- In monomorphic ventricular tachycardia, the electrical conduction is prolonged when moving across the ventricles. This results in a widened QRS complex. When all of the complexes appear the same, the phenomena is called monomorphic. The pathophysiology behind this electrical activity is a result of the same ventricular focus initiating the conduction, and, hence, the contraction, within the ventricle. Immediate cardioversion is the appropriate treatment when monomorphic ventricular tachycardia occurs with hypotension.\n- Monomorphic ventricular ectopy is characterized by the appearance of premature ventricular contractions (PVCs) that have the same morphology and are, therefore, called monomorphic. Single PVCs are not concerning. Couplets (2 sequential PVCs) are more concerning. Monomorphic ventricular ectopy often does not need to be treated. When required, the treatment of choice is amiodarone.\n- Narrow complex tachycardia is caused by an electrical impulse being initiated above the atrioventricular node and the impulse traveling down the Purkinje fibers. The treatment of this arrhythmia is to block the AV node with a calcium channel blocker medication.\n- Torsade de pointe is most commonly precipitated with a drug that prolongs the Q-T interval, such as methadone, haloperidol, and levofloxacin. Treatment is targeted at removing the offending agent and administering magnesium.\n- Bradycardia is treated with atropine, an acetylcholine receptor antagonist that blocks the parasympathetic activity."
+        },
+        {
+            "id": "22",
+            "question_type": "emq",
+            "question": "Monomorphic ventricular ectopy",
+            "options": [
+                "A. Amiodarone",
+                "B. Calcium-channel blocker",
+                "C. Cardioversion",
+                "D. Intravenous magnesium",
+                "E. Atropine"
+            ],
+            "answer": "E",
+            "explanation": "<b>PROBABLE ANSWER: A<b><br>- In monomorphic ventricular tachycardia, the electrical conduction is prolonged when moving across the ventricles. This results in a widened QRS complex. When all of the complexes appear the same, the phenomena is called monomorphic. The pathophysiology behind this electrical activity is a result of the same ventricular focus initiating the conduction, and, hence, the contraction, within the ventricle. Immediate cardioversion is the appropriate treatment when monomorphic ventricular tachycardia occurs with hypotension.\n- Monomorphic ventricular ectopy is characterized by the appearance of premature ventricular contractions (PVCs) that have the same morphology and are, therefore, called monomorphic. Single PVCs are not concerning. Couplets (2 sequential PVCs) are more concerning. Monomorphic ventricular ectopy often does not need to be treated. When required, the treatment of choice is amiodarone.\n- Narrow complex tachycardia is caused by an electrical impulse being initiated above the atrioventricular node and the impulse traveling down the Purkinje fibers. The treatment of this arrhythmia is to block the AV node with a calcium channel blocker medication.\n- Torsade de pointe is most commonly precipitated with a drug that prolongs the Q-T interval, such as methadone, haloperidol, and levofloxacin. Treatment is targeted at removing the offending agent and administering magnesium.\n- Bradycardia is treated with atropine, an acetylcholine receptor antagonist that blocks the parasympathetic activity."
+        },
+        {
+            "id": "23",
+            "question_type": "emq",
+            "question": "Bradycardia with hypotension",
+            "options": [
+                "A. Amiodarone",
+                "B. Calcium-channel blocker",
+                "C. Cardioversion",
+                "D. Intravenous magnesium",
+                "E. Atropine"
+            ],
+            "answer": "A",
+            "explanation": "<b>PROBABLE ANSWER: E<b><br>- In monomorphic ventricular tachycardia, the electrical conduction is prolonged when moving across the ventricles. This results in a widened QRS complex. When all of the complexes appear the same, the phenomena is called monomorphic. The pathophysiology behind this electrical activity is a result of the same ventricular focus initiating the conduction, and, hence, the contraction, within the ventricle. Immediate cardioversion is the appropriate treatment when monomorphic ventricular tachycardia occurs with hypotension.\n- Monomorphic ventricular ectopy is characterized by the appearance of premature ventricular contractions (PVCs) that have the same morphology and are, therefore, called monomorphic. Single PVCs are not concerning. Couplets (2 sequential PVCs) are more concerning. Monomorphic ventricular ectopy often does not need to be treated. When required, the treatment of choice is amiodarone.\n- Narrow complex tachycardia is caused by an electrical impulse being initiated above the atrioventricular node and the impulse traveling down the Purkinje fibers. The treatment of this arrhythmia is to block the AV node with a calcium channel blocker medication.\n- Torsade de pointe is most commonly precipitated with a drug that prolongs the Q-T interval, such as methadone, haloperidol, and levofloxacin. Treatment is targeted at removing the offending agent and administering magnesium.\n- Bradycardia is treated with atropine, an acetylcholine receptor antagonist that blocks the parasympathetic activity."
+        },
+        {
+            "id": "24",
+            "question_type": "mcq",
+            "question": "Regarding the use of a 1:1:1 massive transfusion protocol (MTP), which of the following statements is true?",
+            "options": [
+                "A. MTP increases the overall use of blood products.",
+                "B. MTP decreases 30-day mortality.",
+                "C. A transfusion plan of 1:1:1 means 6 units of packed red blood cells: a 6 pack of platelets:6 units fresh frozen plasma.",
+                "D. Since the implementation of MTP triggers, MTPs are used more frequently.",
+                "E. A hemoglobin of 10 g/dL is one of the transfusion goals."
+            ],
+            "answer": "C",
+            "explanation": "- Using early balanced resuscitation for trauma patients provides documented benefits.\n- Early balanced resuscitation means giving equal amounts of platelets, packed red blood cells, and fresh frozen plasma to trauma patients who require transfusion. This means a ratio of 1:1:1, which means one 6 pack of platelets for every 6 units of packed red blood cells and 6 units of fresh frozen plasma.\n- In prospective trials, multicenter trials, and meta-analyses, the ratio shows improved 24-hour survival and decreased death from exsanguination and truncal hemorrhage.\n- Critics have countered that 30-day survival is not improved.\n- The use of early balanced resuscitation does not increase the overall use of blood products or the implementation of a massive transfusion protocol.\n- In other words, it does not waste more blood products.\n- Massive transfusion protocol protocols do not aim for a specific hemoglobin goal."
+        },
+        {
+            "id": "25",
+            "question_type": "mcq",
+            "question": "A 50-year-old man presents with complicated diverticulitis. He undergoes percutaneous drainage of a pelvic abscess. His vital signs include a temperature of 38°C, blood pressure of 90/55 mm Hg, mean arterial pressure of 65 mm Hg, and respiratory rate of 24 breaths per minute. On exam, he is diaphoretic, confused, and does not follow commands. What is the most appropriate intensive care unit diagnosis?",
+            "options": [
+                "A. Systemic inflammatory response syndrome",
+                "B. Sepsis",
+                "C. Complicated sepsis",
+                "D. Severe sepsis",
+                "E. Septic shock"
+            ],
+            "answer": "B",
+            "explanation": "- Sepsis is a complex infection syndrome marked by aberrant host response and organ dysfunction. Sepsis is highly prevalent and accounts for approximately 5% of total US hospital costs.\n- The European Society of Intensive Care Medicine and the Society of Critical Care Medicine recently revised their consensus definitions and criteria to identify patients with sepsis. The new operational definitions emphasize organ dysfunction as a part of sepsis. The systemic inflammatory response syndrome is not specific to infection and may be adaptive in hospitalized patients.\n- Sepsis is now defined as a sequential organ failure assessment (SOFA) score of at least 2 in the setting of suspected of infection.\n- The quick SOFA (qSOFA) score is simpler to use and can be used at the bedside instead.\n- qSOFA assigns 1 point each for altered mentation, respiratory rate of at least 22/min, and systolic blood pressure of 100 mm Hg or less (table 25.1).\n- Septic shock is identified in patients with persistent hypotension requiring a pressor to maintain mean arterial pressure of at least 65 mm Hg and having a serum lactate level of at least 2 mmol/L (0.5-1 mmol/L), despite adequate volume resuscitation.\n- With the new definitions, the terms severe and complicated sepsis are no longer needed.\n- Table 25.1. Quick sequential organ failure assessment (SOFA) score: Respiratory rate ≥ 22 breaths/minute (1 point), Change in mental status (1 point), Systolic blood pressure ≤ 100 mm Hg (1 point).\n- Patient has T 38C (infection), BP 90/55 (MAP 65), RR 24, confused. This meets criteria for qSOFA score of 3 (RR, mental status, BP). Therefore, it is Sepsis."
+        }
+    ]
+}

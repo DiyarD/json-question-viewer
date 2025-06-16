@@ -1,0 +1,397 @@
+{
+    "chapter_name": "Trauma Part I",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A 7-year old girl is admitted after she was a restrained passenger in a T-bone motor vehicle crash with impact on her side of the car. She is tachycardic and has an acute abdomen. At surgery, she has an isolated duodenal perforation in the second portion opposite the ampulla of Vater involving 25% of the circumference. What is the best operative plan?",
+            "options": [
+                "A. Primary repair of the duodenum",
+                "B. Pyloric exclusion",
+                "C. Repair the duodenum, gastrostomy, jejunostomy, and duodenostomy",
+                "D. Duodenal diverticularization",
+                "E. Gastrojejunostomy, nasogastric decompression, naso-jejunal feeding tube"
+            ],
+            "answer": "A",
+            "explanation": "*   Blunt injuries to the duodenum are uncommon, accounting for approximately 3% to 5% of all intra-abdominal injuries.\n*   The patient's injury, involving 25% of the circumference of the second portion of the duodenum, is classified as a Grade II laceration according to the standardized organ injury scale (Table 1.1).\n*   A Grade II laceration involves disruption by less than 50% of the duodenal circumference.\n*   Retrospective reviews indicate that children with Grade II, III, and IV duodenal injuries managed with primary repair had outcomes comparable to or better than those managed with pyloric exclusion or gastrojejunostomy.\n*   Duodenal diverticulization is a complex, time-consuming procedure that is generally unnecessary.\n*   The triple tube technique of drainage is also unnecessary for a Grade II injury.\n*   Most duodenal injuries, including Grade II, can be primarily repaired after debriding any devitalized tissue.\n*   More complex reconstructions, such as duodenojejunostomy or resection with duodenoduodenostomy, are typically reserved for Grade III or higher injuries.\n*   Lateral tube duodenostomy may be useful for managing leaks after duodenal repair but should not be used as the initial surgical approach.\n*   Pyloric exclusion with associated gastrojejunostomy is generally reserved for patients with duodenal injuries accompanied by a pancreatic injury, as pancreatic fluid can cause breakdown of the duodenal repair."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "A 22-year-old man is involved in a motorcycle crash. His injuries include a left pulmonary contusion, a comminuted open left femur fracture, and a mild closed head injury (Glasgow Coma Scale score = 12). He was placed in skeletal traction, started on antibiotics, and provided supplemental oxygen by nasal cannula while awaiting open reduction and internal fixation of his femur fracture. At 36-hours postinjury, his confusion has increased, his pulse oximeter indicates 88% saturation, and he has developed the skin lesions shown (figure 2.1). The most likely cause for these findings is",
+            "options": [
+                "A. a drug reaction.",
+                "B. fat embolism syndrome.",
+                "C. drug-induced thrombocytopenia.",
+                "D. sequela from pulmonary contusion.",
+                "E. progression of his traumatic brain injury."
+            ],
+            "answer": "B",
+            "explanation": "*   Fat embolism syndrome (FES) was described over 150 years ago, though its precise etiology remains elusive.\n*   Classic features of FES include young adults (10-40 years), associated long-bone or pelvic fractures, male sex, concomitant pulmonary injury, and delayed fracture stabilization.\n*   Clinical features are often nonspecific and can be indistinguishable from acute respiratory distress syndrome (ARDS), including hypoxia, respiratory distress, mental status changes, fever, tachycardia, tachypnea, retinal splinter hemorrhages, oliguria/anuria, and occasionally jaundice.\n*   A classic, though inconsistent, finding in FES is a petechial rash over the anterior thorax and axilla, which is typically transient (lasting 24 hours or less). This rash helps differentiate FES from adverse drug reactions, which tend to be more generalized.\n*   Drug-induced thrombocytopenia does not characteristically produce a skin rash.\n*   Two main theories explain FES pathophysiology: the mechanical theory (fat globules obstruct pulmonary capillaries) and the biochemical theory (free fatty acids trigger an inflammatory cascade). Both mechanisms are likely operative.\n*   Treatment for FES is supportive, and the condition is usually self-limited.\n*   Early fracture stabilization is generally accepted as the most effective means of prevention."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "A 17-year-old high school football player is brought to the emergency department after a head-to-head collision with a 30-second loss of consciousness. He has a patent airway without difficulty breathing, and his vital signs are normal. He opens his eyes to speech and obeys commands, but he is confused and perseverating. No other injuries are noted on secondary survey. What is the most appropriate next step in his management?",
+            "options": [
+                "A. Discharge home with instructions",
+                "B. Observation with re-evaluation in 4 hours",
+                "C. CT scan of the head",
+                "D. Admission overnight",
+                "E. Neurosurgical consultation"
+            ],
+            "answer": "B",
+            "explanation": "*   Approximately 1.7 million Americans present to the emergency department annually with traumatic brain injury (TBI).\n*   The Glasgow Coma Scale (GCS) provides a method for stratifying TBI severity: mild (13-15 points), moderate (9-12 points), and severe (3-8 points).\n*   This patient's GCS score is 13 (Eye-opening to speech: 3, Motor response: Obeys commands: 6, Verbal response: Confused: 4), classifying his injury as a mild TBI.\n*   Mild severity closed head injuries are concussions, defined as a trauma-induced alteration in mental status that may or may not result in loss of consciousness.\n*   Concussions can be graded: Grade 1 (confusion only), Grade 2 (associated amnesia), and Grade 3 (associated loss of consciousness).\n*   Patients with Grade 1 concussions, Grade 2 concussions with perievent amnesia, and Grade 3 concussions with less than 1-minute loss of consciousness may be observed in the emergency department for several hours.\n*   If the patient's neurologic exam remains normal without worrisome symptoms after this observation period, they may be discharged home with comprehensive instructions and a reliable individual to observe them.\n*   CT imaging is indicated for patients with progressive headache, vomiting, skull/facial fractures, seizure, abnormal neurologic exam, deteriorating neurologic status, alcohol/drug intoxication, coagulopathy, or age older than 60. This patient does not exhibit these indications."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "A 26-year-old man presents to the trauma bay after his left thigh was crushed between a wall and car. At the scene, he was bleeding copiously from a puncture wound in his thigh. He has a patent airway, is breathing normally, and is normotensive but tachycardic. His left thigh is visibly deformed with a nonbleeding puncture wound with visible bone. A pulsatile hematoma is medial to the puncture wound. He cannot dorsiflex his foot, and he has a diminished dorsalis pedis pulse. Of the findings in the trauma bay, which mandates exploration to evaluate and potentially treat a vascular injury?",
+            "options": [
+                "A. Copious blood loss at scene",
+                "B. Compound femur fracture",
+                "C. Pulsatile hematoma",
+                "D. Neurologic deficit",
+                "E. Diminished pulse"
+            ],
+            "answer": "C",
+            "explanation": "*   A key component of extremity trauma management is determining the presence of a coexistent vascular injury requiring operative repair.\n*   "
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "A 17-year-old is involved in a high-mechanism motor vehicle collision, sustaining a grade IV liver injury. Trace pneumomediastinum located anterior to the esophagus is noted on CT scan (figure 5.1). The presence of pneumomediastinum after blunt trauma",
+            "options": [
+                "A. requires further evaluation with triple endoscopy.",
+                "B. signifies an esophageal injury in 10% of cases.",
+                "C. is identified in 20% of blunt trauma patients.",
+                "D. is often a benign finding.",
+                "E. correlates with the extent of an associated pneumothorax."
+            ],
+            "answer": "D",
+            "explanation": "*   Pneumomediastinum is identified in only 2% to 10% of blunt trauma patients and is often a benign finding.\n*   In a recent study, only 1% of patients with identified pneumomediastinum had an esophageal injury.\n*   In most cases, pneumomediastinum is associated with chest trauma, most commonly a pneumothorax, and is caused by air dissecting along the pulmonary vasculature from injured alveoli (the Macklin effect).\n*   There does not appear to be a correlation between the extent of an associated pneumothorax and the volume of a pneumomediastinum.\n*   CT scan can be used as a screening tool.\n*   The identification of air located in the posterior mediastinum or throughout all mediastinal compartments (anterior, superior, and posterior) is the most concerning finding and should prompt additional contrasted imaging/endoscopy to rule out an esophageal injury. The patient's pneumomediastinum is anterior to the esophagus, which is less concerning."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "A patient presents with a 4-cm stab wound to the chest located 2 cm to the right of the sternum. During transport, his blood pressure is 100/55 mm Hg, his heart rate is 100 beats/minute, and his respiratory rate is 28 breaths/minute. On arrival to the emergency department, he loses pulses. The most appropriate next step in this patient's management is",
+            "options": [
+                "A. focused assessment with sonography for trauma of the pericardium.",
+                "B. left anterolateral thoracotomy.",
+                "C. resuscitative endovascular balloon placement.",
+                "D. placement of a left tube thoracostomy.",
+                "E. 1 mg of epinephrine."
+            ],
+            "answer": "B",
+            "explanation": "*   Witnessed traumatic arrest should prompt the surgeon to perform a resuscitative left anterolateral thoracotomy.\n*   Thoracotomy allows for evaluation and treatment of intrathoracic injuries, which in this case is likely cardiac tamponade from a penetrating cardiac injury.\n*   The procedure involves incising the pericardium from the apex toward the great vessels, anterior to the left phrenic nerve, to deliver the heart and delineate the injury.\n*   If intrinsic cardiac activity is present, digital occlusion of the injury followed by repair in the operating room is performed. If the heart is asystolic, the cardiac injury is repaired, followed by epinephrine injection and defibrillation.\n*   During pericardotomy, the right hemithorax may be decompressed by creating an aperture through the pericardium, which relieves any right-sided tension pneumothorax.\n*   Although a focused assessment with sonography for trauma (FAST) exam of the pericardium may reveal hemopericardium, this is only evident if the patient's heart is beating. Delaying intervention to perform a FAST exam is not warranted in this critical scenario.\n*   Resuscitative endovascular balloon occlusion of the aorta (REBOA) placement is used for blunt traumatic arrest but does not diagnose or treat cardiac tamponade.\n*   A left tube thoracostomy is not the primary intervention for a patient requiring thoracotomy for direct cardiac access."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "A 26-year-old man sustains a stab wound to the abdomen. On abdominal exploration, an injury to the second portion of the duodenum with 25% loss of the lateral wall is discovered. What is the most appropriate next step?",
+            "options": [
+                "A. Lateral tube duodenostomy",
+                "B. Primary repair of the duodenum",
+                "C. Duodenal resection and primary anastomosis",
+                "D. Duodenojejunostomy",
+                "E. Pyloric exclusion and gastrojejunostomy"
+            ],
+            "answer": "B",
+            "explanation": "*   Most duodenal injuries can be primarily repaired.\n*   This injury, with 25% loss of the lateral wall of the second portion of the duodenum, is classified as a Grade II injury according to Table 1.1.\n*   Primary repair should be performed after debriding any devitalized tissue (which is more common for gunshot injuries but less common for stab wounds).\n*   Resection of the uninjured wall with primary anastomosis is not necessary for this type of injury.\n*   More complex reconstructions, such as duodenojejunostomy or resection with duodenoduodenostomy, are typically reserved for Grade III or higher injuries (disruption of 50-75% of D2 or 50-100% of D1, D3, or D4).\n*   Destructive injuries to the duodenopancreatic complex often necessitate pancreaticoduodenectomy.\n*   Lateral tube duodenostomy may be helpful for patients who develop a leak after duodenal repair breakdown but should not be used as the initial surgical approach.\n*   Pyloric exclusion with associated gastrojejunostomy is typically used in patients requiring duodenal repairs who also have an associated pancreatic injury, as pancreatic fluid can cause breakdown of the duodenal repair."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "A 31-year-old man presents after a gunshot wound to the right buttock. Exam under anesthesia identifies blood in the rectum at 8 to 10 cm from the dentate line concerning for an extraperitoneal rectal injury. In addition to confirming, an extraperitoneal rectal injury, what is the most appropriate next step in this patient's management?",
+            "options": [
+                "A. Direct repair",
+                "B. Direct repair with proximal diversion",
+                "C. Proximal diversion",
+                "D. Proximal diversion and presacral drain placement",
+                "E. Proximal diversion, presacral drain placement, and distal rectal washout"
+            ],
+            "answer": "C",
+            "explanation": "*   This extraperitoneal rectal injury is located quite high (8 to 10 cm from the dentate line), making primary repair challenging, if not impossible.\n*   In such cases, proximal diversion with a loop colostomy is the safest management option.\n*   After proctoscopy, diversion can be accomplished via laparoscopic or open approach, depending on patient history and physiology.\n*   A loop colostomy effectively diverts the fecal stream, allowing the injury to heal, and optimizes operative reversal compared to an end-colostomy/Hartmann procedure.\n*   If an extraperitoneal rectal injury is located much closer to the anal opening, primary repair may be considered if the injury can be fully evaluated and closed.\n*   Historically, presacral drain placement and distal rectal washout were performed for all patients with extraperitoneal rectal injuries, but these measures, involving dissection of normal tissue planes and liquefaction of stool, increase morbidity and are not routinely advocated."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "A 26-year-old man is involved in a motorcycle collision. On imaging, a pelvic fracture and bladder injury are identified (figure 9.1). What is the most appropriate next step to manage his bladder injury?",
+            "options": [
+                "A. Suprapubic tube placement",
+                "B. Cystoscopy",
+                "C. Foley catheter treatment for 2 weeks",
+                "D. Operative repair",
+                "E. Retrograde urethrogram"
+            ],
+            "answer": "D",
+            "explanation": "*   This patient has an intraperitoneal bladder injury, as indicated by Figure 9.2 showing extravasation of contrast in an intraperitoneal location.\n*   Intraperitoneal bladder injuries should be managed with operative repair, which can be performed via either an open or laparoscopic approach.\n*   Laparoscopic repairs are particularly advocated for patients without other intra-abdominal injuries.\n*   Suprapubic tubes are typically placed for patients with urethral injuries where a Foley catheter cannot be passed.\n*   Cystoscopy is not indicated because the diagnosis of bladder injury is already confirmed by CT imaging.\n*   Extraperitoneal bladder injuries are managed with catheter drainage alone, typically with a Foley catheter, and rarely with a suprapubic tube.\n*   A retrograde urethrogram is used to diagnose a urethral injury and is not indicated here as a Foley catheter has already been successfully placed for the CT cystogram."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "A 25-year-old man sustains a left zone II neck stab wound. He is hemodynamically normal without hard signs of an aerodigestive or vascular injury. He has dysphagia. What is the most appropriate next step in management?",
+            "options": [
+                "A. CT scan of the neck",
+                "B. Esophagram",
+                "C. Flexible esophagoscopy",
+                "D. Angiography",
+                "E. Neck exploration"
+            ],
+            "answer": "A",
+            "explanation": "*   The management of zone II penetrating neck injuries has evolved from mandatory neck exploration to selective management.\n*   CT angiogram (CTA) of the neck has emerged as the diagnostic study of choice for patients with penetrating neck trauma requiring further workup.\n*   CTA is rapid, noninvasive, and an excellent screening tool for penetrating neck wounds.\n*   While CTA of the neck is not sensitive enough to completely rule out esophageal injury, it is preferred as the initial diagnostic study because it can also evaluate potential tracheal, esophageal, and vascular injuries.\n*   If CTA of the neck suggests esophageal injury, especially in the setting of dysphagia or odynophagia, additional testing such as contrast esophagram or flexible esophagoscopy is required. The combination of these procedures yields nearly 100% sensitivity for diagnosing esophageal injuries.\n*   Neck exploration may be indicated if an injury requires surgery, but it is not the initial step in management for this patient, as he does not have signs of injury mandating immediate operative intervention."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "A 30-year-old unhelmeted man was involved in a motorcycle crash. His initial Glasgow Coma Scale (GCS) score was 13. A CT scan of his head showed a parietal skull fracture and 3-mm subdural hematoma. He was admitted to the intensive care unit for observation. Repeat head CT scan the next day shows no change in the subdural hematoma, and his GCS is now 15. In addition to sequential compression devices, what is the best way to decrease his risk of venous thromboembolism?",
+            "options": [
+                "A. Low molecular weight heparin",
+                "B. Aspirin 81 mg",
+                "C. Unfractionated heparin",
+                "D. Screening duplex imaging",
+                "E. Retrievable inferior vena cava filter"
+            ],
+            "answer": "A",
+            "explanation": "*   Patients with traumatic brain injury (TBI) and intracranial hemorrhage are at high risk of developing venous thromboembolism (VTE), with an incidence up to 25%.\n*   TBI is an independent risk factor for VTE, and this risk is amplified by mechanical ventilation and other associated injuries.\n*   Chemical prophylaxis reduces the incidence of VTE in multiply injured patients, and guidelines recommend the use of low molecular weight heparin (LMWH) over unfractionated heparin (UFH).\n*   Concerns about worsening intracranial hemorrhage with chemical prophylaxis have been addressed by several retrospective studies and systematic reviews demonstrating its safety. Early chemical prophylaxis, within 24 to 48 hours after injury, did not increase the rate of hemorrhage progression.\n*   Current recommendations suggest sequential compression devices for the initial 24 to 48 hours post-presentation, followed by chemical prophylaxis. Both LMWH and UFH have been studied and are acceptable for chemical prophylaxis in this patient group.\n*   Mechanical prophylaxis (intermittent pneumatic compression) can be used in patients with contraindications for chemical prophylaxis, but chemical prophylaxis provides superior VTE prevention compared to mechanical devices alone.\n*   Aspirin is used as a single agent in orthopedic patients but is not currently recommended for nonorthopedic surgery patients.\n*   Retrievable inferior vena cava filters have been shown in nonrandomized trials to decrease the short-term pulmonary embolus rate but increase the deep vein thrombosis rate, and are associated with insertion complications, inferior vena cava occlusions, and filter migrations. Given these complications, filters are not recommended over chemical prophylaxis.\n*   Routine surveillance venous compression ultrasonography is not recommended as a method of primary prophylaxis, as it did not change pulmonary embolism rates and had false positives in trauma patients."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "A 45-year-old man is the restrained driver involved in a 2-vehicle, high-impact motor vehicle collision. He presents to the trauma bay hemodynamically normal with an abdominal wall seatbelt sign. CT scan of the abdomen shows a contained retrohepatic vena cava injury as the only abnormality. The patient remains hemodynamically normal. Labs obtained return a hemoglobin of 13 g/dL (13.5-17 5 g/dL) and show the patient is not acidotic. What is the most appropriate next step in management?",
+            "options": [
+                "A. Admission with observation",
+                "B. Damage-control laparotomy with perihepatic packing",
+                "C. Primary repair of the injury",
+                "D. Endovascular stent",
+                "E. Atriocaval shunt"
+            ],
+            "answer": "A",
+            "explanation": "*   Retrohepatic vena caval injuries are among the most feared injuries, even by seasoned trauma surgeons.\n*   Operative mobilization of the retrohepatic vena cava can result in torrential hemorrhage and death due to its surrounding suspensory ligaments of the liver and diaphragm.\n*   In a hemodynamically normal patient without evidence of free rupture or ongoing bleeding, the normal anatomy may contain the bleeding, leading to tamponade.\n*   In such cases, surgical intervention is not necessary.\n*   Admission with close observation in the trauma intensive care unit is the correct choice for this patient.\n*   Damage-control laparotomy with perihepatic packing, primary repair of the injury, endovascular stenting, and atriocaval shunt placement are techniques that may be used if the patient requires operative intervention for uncontrolled bleeding and hemodynamic instability."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "A 21-year-old unrestrained woman was involved in a high-speed motor vehicle collision. She is 16 weeks pregnant. She is awake and alert, complaining of left-sided chest pain and left upper quadrant abdominal pain. Her only external injuries are right lower extremity abrasions from the knee to the foot and a left knee abrasion. Her blood pressure is reported as 70 mm Hg systolic by prehospital providers, and she was given 1000 mL of lactated Ringer solution in transit. Her first emergency department vital signs include a blood pressure of 98/60 mm Hg and a pulse of 88 beats per minute. She is taken to the CT scanner, where her blood drops pressure transiently to 70 mm Hg systolic. She responds to fluid, and a unit of blood is hung, but her heart rate remains at 110 beats per minute. Her CT scan is shown (figures 13.1). The next step in her management is",
+            "options": [
+                "A. observation.",
+                "B. angioembolization.",
+                "C. splenorrhaphy.",
+                "D. splenectomy.",
+                "E. distal pancreatectomy and splenectomy."
+            ],
+            "answer": "D",
+            "explanation": "*   Causes of traumatic injuries in pregnancy are similar to those in the general population, with blunt trauma being the most common cause.\n*   The primary principle of managing a pregnant patient after injury is to focus on the patient, which yields the best outcomes for both mother and baby.\n*   Splenic injury management includes observation, angioembolization, splenorrhaphy, and splenectomy.\n*   A hemodynamically normal patient with a splenic injury is usually managed nonoperatively with a high success rate.\n*   However, a patient who presents in hypovolemic shock and is not responsive to resuscitation (as indicated by persistent tachycardia despite fluid and blood administration) is at the other end of the spectrum.\n*   Admission hypotension is a strong predictor of the need for splenectomy, and most such patients will require splenectomy.\n*   Angioembolization is suggested as a management option for hemodynamically abnormal patients who respond at least transiently to resuscitation, especially if a contrast blush is present on CT scan (as shown in Figure 13.2).\n*   A splenectomy is recommended for patients who are not candidates for nonoperative management (with or without angioembolization).\n*   In this patient, who is in her first trimester and has a Grade V splenic injury (massive destruction or devascularization, Table 13.3) and is not responding to resuscitation, early splenectomy would quickly and reliably restore normal hemodynamics.\n*   Angioembolization exposes the patient to the risks of radiation to the fetus, complications of the intervention, and recurrent bleeding.\n*   Given the appearance of the spleen on CT scan, splenorrhaphy is unlikely to be possible and would increase the rate of recurrent bleeding compared to splenectomy (3% vs 1%)."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "A 20-year-old man is admitted to the trauma bay in class IV hemorrhagic shock. A tibial intraosseous (IO) device is placed for venous access. Which of the following crystalloid infusion methods is preferred?",
+            "options": [
+                "A. 35°C fluid by gravity",
+                "B. 42°C fluid by pressure infusion pump",
+                "C. 42°C fluid by gravity",
+                "D. 24°C fluid by pressure bag",
+                "E. 45°C fluid by manual syringe"
+            ],
+            "answer": "B",
+            "explanation": "*   Numerous sites can be used for intraosseous (IO) access, including the anterior tibia, proximal humerus, distal femur, and sternum. The proximal humerus is preferred for mature adolescents and adults.\n*   Crystalloid fluids (e.g., normal saline) for rapid volume expansion and viscous drugs should be administered under pressure to overcome the resistance in the emissary veins and ensure flow to the general circulation.\n*   Pressure devices can include infusion pumps, pressure bags, or manual injection through a syringe and stopcock. With pressure infusion devices, constant evaluation for extravasation is necessary.\n*   The use of warmed crystalloid infusions is imperative for patients in shock, as hypothermia impairs coagulation, causes vasoconstriction, and promotes acidosis, contributing to the \"lethal triad\" (hypothermia, acidosis, and coagulopathy).\n*   Most fluid warmers maintain a set point of 42°C. While fluid may lose some heat in the tubing, it typically enters the body just above normal body temperature.\n*   Temperatures higher than 42°C carry risks of thermal injury.\n*   In this patient with IO access and Class IV shock, a pressure infuser should be used for all fluid administration."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "A 23-year-old helmeted motorcyclist is injured after colliding with a stationary car. He is hemodynamically normal with a normal focused assessment with sonography for trauma examination. His chest radiograph shows a small pulmonary contusion and fractures of right ribs 9,10, and 11. He is admitted for pulmonary care. On the second day of hospitalization, the patient develops epigastric fullness and pain, which is relieved after he vomits bilious material several times. His white blood cell count and hematocrit are normal. A CT scan demonstrates a distended stomach with thickening of the second portion of the wall of the duodenum. What is the most appropriate next Step in this patient's management?",
+            "options": [
+                "A. Exploratory laparotomy",
+                "B. Gastric decompression",
+                "C. Feeding jejunostomy",
+                "D. Esophagogastroduodenoscopy",
+                "E. Parenteral nutrition"
+            ],
+            "answer": "B",
+            "explanation": "*   Blunt duodenal injury is uncommon, but when it occurs, duodenal hematomas can obstruct the bowel lumen. These are often seen in children but can also occur in adults.\n*   Management is usually nonoperative because duodenal hematomas typically resolve.\n*   Patients may present with signs and symptoms of bowel obstruction immediately or with delay.\n*   CT scanning of the abdomen in patients with blunt abdominal injury often identifies duodenal abnormalities consistent with a duodenal hematoma, including duodenal wall thickening and paraduodenal edema. Perforation can be excluded if there is no extraluminal air in the pararenal spaces around the duodenum.\n*   Treatment should begin with gastric decompression.\n*   After gastric decompression, a contrast study should be performed to identify the degree of duodenal obstruction.\n*   Parenteral nutrition is required if complete obstruction is present. Enteral nutrition can be attempted if duodenal obstruction is not complete.\n*   Esophagoduodenoscopy is not required, although it might be used to help pass a nasoenteric feeding tube in a patient who is not totally obstructed but cannot tolerate oral feedings. Radiologic placement of a nasoenteric tube is another possibility.\n*   Enteral feeding is preferred over parenteral, but a feeding jejunostomy is not preferred early in management because most patients will not require an operative procedure.\n*   Exploratory laparotomy is not indicated without a trial of nonoperative management. Most duodenal hematomas resolve in 1 to 3 weeks without surgical intervention. If duodenal obstruction persists, then surgical intervention is appropriate. Evacuation of the hematoma is usually not possible, and neither a duodenoduodenostomy nor a jejunoduodenostomy effectively treats the obstruction."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "A 24-year-old man is involved in a motor vehicle crash. He is intubated at the scene for a Glasgow Coma Scale score of 7, and 2 large bore intravenous lines are placed. On arrival to the emergency department, his pupils are equal and reactive, he has a temperature of 37.8°C, heart rate of 105 beats per minute, blood pressure of 100/60 mm Hg, and SaO2 of 86%, with an FiO2 of 0.6. On arterial blood gas, his pH is 7.45, PaCO2 is 35 mm Hg, pO2 is 57 mm Hg. Point of care glucose is 185 mg/dL (70-100 mg/dL). What is the next intervention for this patient?",
+            "options": [
+                "A. Insulin infusion",
+                "B. Hyperventilation to PaCO2 of 25 mm Hg",
+                "C. Hypertonic saline",
+                "D. Mannitol",
+                "E. Increase FiO2"
+            ],
+            "answer": "E",
+            "explanation": "*   Trauma is the leading cause of death in patients younger than 45 years, with traumatic brain injury (TBI) being a significant contributor.\n*   Once a TBI occurs, preventing secondary injury is crucial.\n*   The IMPACT study in 2007 demonstrated a clear link between patient outcome and the absence of hypoxemia (defined as PaO2 <60 mm Hg) and hypotension (systolic blood pressure <90 mm Hg).\n*   The patient presented has a severe TBI (GCS score of 7) and is hypoxemic with a PaO2 of 57 mm Hg.\n*   Therefore, to prevent secondary brain injury, the most appropriate next step is to increase his FiO2.\n*   Elevated intracranial pressure (ICP) is another cause of poor outcome in TBI, which can be manifested by signs on physical exam (dilated pupils) or direct ICP measurement.\n*   In the absence of these findings (patient's pupils are equal and reactive), hyperventilation, hypertonic saline infusion, or mannitol would not be indicated.\n*   Acute insulin infusion is not indicated, as his elevated glucose is likely a response to injury."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "A 20-year-old otherwise healthy man sustains a gunshot wound to the abdomen. He is transported to the emergency department immediately after the shooting. On arrival, he is lethargic with a systolic blood pressure of 70 mm Hg, a heart rate of 140 beats per minute, and a distended abdomen. Massive transfusion protocol is initiated, and the patient is transported to the operating room for exploratory laparotomy. In addition to transfusion of blood products and surgical control of bleeding, what intervention provides a mortality benefit for this patient?",
+            "options": [
+                "A. Recombinant Factor VIIa",
+                "B. Desmopressin acetate",
+                "C. Epsilon aminocaproic acid",
+                "D. Aprotinin",
+                "E. Tranexamic acid"
+            ],
+            "answer": "E",
+            "explanation": "*   Primary fibrinolysis is a key component in the pathophysiology of acute coagulopathy of trauma and is associated with mortality risk.\n*   In severe trauma, hyperfibrinolysis is linked to a mortality rate of 70% to 100%, making antifibrinolytic agents plausible for managing acute coagulopathy.\n*   Two landmark studies, CRASH-2 and MATTERS, demonstrated improved mortality with the administration of tranexamic acid (TXA) in civilian and military trauma.\n*   Bleeding adult trauma patients with systolic blood pressure less than 90 mm Hg or heart rate of at least 110 beats per minute may benefit from TXA administration, with a reduction in 28-day all-cause mortality.\n*   TXA has the greatest impact in reducing death in cases of severe shock (systolic blood pressure <75 mm Hg).\n*   Early TXA administration (<1 hour after injury) results in the greatest bleeding-related death reduction. Administration between 1 and 3 hours also reduces bleeding-related death, but to a more modest degree. TXA administered more than 3 hours after injury appears to increase the risk of death.\n*   TXA is not associated with increased vascular occlusive events.\n*   Current recommendations for TXA use based on CRASH-2 trial: Administer to adult trauma patients with severe hemorrhagic shock (SBP <75 mmHg), known predictors of fibrinolysis, or established fibrinolysis (LY30 >3%); Administer only if less than 3 hours after injury; Use a dose of 1g intravenously over 10 minutes followed by 1g intravenously over 8 hours.\n*   A Cochrane Database Systematic Review of antifibrinolytic drugs for acute traumatic injury found that TXA reduced mortality by 10%, while aprotinin trials did not provide sufficient mortality data.\n*   Recombinant Factor VIIa reduces blood product use but does not affect mortality. Desmopressin acetate does not improve mortality in acute trauma."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "Which of the following injury patterns is the best indication for resuscitative endovascular balloon occlusion of the aorta in a patient who presents to the emergency department in extremis?",
+            "options": [
+                "A. Gunshot wound to the neck",
+                "B. Blunt cardiac injury",
+                "C. Blunt thoracic aortic injury",
+                "D. Stab wound to the chest",
+                "E. Unstable pelvic fracture"
+            ],
+            "answer": "E",
+            "explanation": "*   Hemorrhage is the leading cause of death in trauma patients, and noncompressible truncal hemorrhage is a particularly challenging problem due to rapid progression to shock and death.\n*   Proximal aortic cross-clamping via resuscitative thoracotomy allows for temporary hemodynamic stability as a bridge to definitive injury repair.\n*   Resuscitative endovascular balloon occlusion of the aorta (REBOA) is an emerging alternative to resuscitative thoracotomy.\n*   REBOA is a minimally invasive procedure using a transfemoral balloon catheter, rapidly inserted retrograde and inflated for aortic occlusion.\n*   For control of pelvic hemorrhage, the balloon is inflated in aortic zone III (between the lowest renal artery and the aortic bifurcation).\n*   For abdominal hemorrhage, balloon inflation occurs in aortic zone I (between the left subclavian artery and the celiac trunk).\n*   Balloon occlusion should not occur in aortic zone II (between the celiac trunk and the lowest renal artery).\n*   REBOA controls inflow and stems hemorrhage if the balloon is inflated proximal to the injury.\n*   REBOA should be confined to patients in extremis due to exsanguinating hemorrhage arising below the diaphragm.\n*   The two primary indications for REBOA in trauma are extremis due to profound hemorrhagic shock secondary to pelvic trauma or abdominal hemorrhage.\n*   REBOA should not be used in patients with blunt cardiac or aortic injury, or penetrating neck or chest trauma.\n*   Cardiovascular collapse due to a major intrathoracic injury requires resuscitative thoracotomy for direct access to the heart and thoracic vasculature."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "A 30-year-old man is involved in a head-on motor vehicle crash. He is placed in a cervical collar. On arrival to the emergency department, he is awake and alert with normal vital signs. His secondary survey identifies no injuries. Which of the following findings indicates imaging of his cervical spine is needed?",
+            "options": [
+                "A. Glasgow Coma Scale score of 15",
+                "B. Normal neurologic examination",
+                "C. Absence of midline c-spine tenderness",
+                "D. Inability to cooperate with the exam",
+                "E. No evidence of intoxication"
+            ],
+            "answer": "D",
+            "explanation": "*   Injury to the cervical spine is rare (1-3% of multisystem blunt trauma patients), but missing a clinically significant injury can have disastrous consequences.\n*   The National Emergency X-Radiography Utilization Study (NEXUS) decision-making rules were developed to determine which patients require screening.\n*   A patient who is awake, alert, and evaluable, with no distracting injuries, neurologically normal, and no midline cervical spine tenderness, meets the NEXUS guidelines for removing the collar and clinically clearing the neck.\n*   Patients who cannot cooperate with the examination, whether due to intoxication or other conditions, cannot be cleared clinically.\n*   Current recommendations for those who do not meet the criteria for clinical clearance is to proceed with imaging.\n*   CT scan is more sensitive than plain films for cervical spine injuries."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "The pictured injury (figure 20.1 and figure 20.2) occurred with a circular saw. The patient is hemodynamically normal. You are in a small community hospital, 250 miles from a hospital with a replantation program. Which of the following is the most appropriate management?",
+            "options": [
+                "A. Wrap the hand in gauze moistened with saline or Ringer lactate solution, place in a sealed plastic bag, and pack on dry ice for transport.",
+                "B. Wrap the hand in gauze moistened with a dextrose 5% in water solution, place in a sealed plastic bag, and pack on dry ice for transport.",
+                "C. Wrap the hand in gauze moistened with saline or Ringer lactate solution, place in a sealed plastic bag, and immerse in ice water for transport.",
+                "D. Place the hand in iced saline for transport.",
+                "E. Place the hand in dry ice for transport."
+            ],
+            "answer": "C",
+            "explanation": "*   Hand replantation is a viable option for many patients who have not had severe mangling or crush injuries.\n*   The surgeon or emergency medicine physician managing the patient before transfer to a replantation center must be familiar with the management of amputated tissue.\n*   Cooling the tissue is essential to reduce metabolic demand before revascularization.\n*   Dry ice is too cold and risks freezing the specimen, whether in a bag or not.\n*   Placing the hand directly into saline will lead to maceration of the tissues.\n*   The preferred method of transport for amputated parts is to wrap the tissue in physiologic solution-moistened gauze, place it in a sealed plastic bag, and immerse it in ice water."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "An 18-year-old man presents with a stab wound to the left chest. He is hemodynamically normal. His chest x-ray is normal. Focused assessment with sonography for trauma shows pericardial fluid. The next step in management should be",
+            "options": [
+                "A. median sternotomy.",
+                "B. subxiphoid pericardiotomy.",
+                "C. cardiopulmonary bypass.",
+                "D. transesophageal echocardiogram.",
+                "E. left anterolateral thoracotomy."
+            ],
+            "answer": "B",
+            "explanation": "*   A subxiphoid pericardiotomy is indicated for this patient to confirm the cause of the abnormal focused assessment with sonography for trauma (FAST) exam.\n*   In recent years, support has emerged for the selective management of hemopericardium.\n*   This patient is hemodynamically normal with a positive pericardial view on FAST exam.\n*   Neither transesophageal echocardiogram nor cardiopulmonary bypass are indicated as the next step.\n*   Mandatory exposure of the heart by either median sternotomy or left anterolateral thoracotomy leads to a high nontherapeutic operation rate; one report revealed that 38% of sternotomies for positive subxiphoid windows had no cardiac or great vessel injury requiring repair.\n*   Studies have shown that hemodynamically normal patients with penetrating chest trauma can undergo a period of observation before subxiphoid pericardial window.\n*   In a randomized trial, patients with blood but no active bleeding found at pericardiotomy were randomized to sternotomy or irrigation and drainage. The nonsternotomy group had a shorter intensive care unit stay and hospital stay, no life-threatening complications, and no mortality.\n*   In centers with the capability for intensive monitoring and immediate access to surgery, selective management may have a role."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "A 25-year-old man is involved in a motor vehicle crash and has the pelvic fracture seen on the x-ray (figure 22.1). His blood pressure is 80/50 mm Hg and his heart rate 120 beats per minute; he is diaphoretic. His abdomen is nontender and nondistended, and he has a negative focused assessment with sonography for trauma exam. What intervention is the best next step in management of his pelvic fracture?",
+            "options": [
+                "A. Exploratory laparotomy",
+                "B. -Pelvic angioembolization",
+                "C. Preperitoneal packing",
+                "D. Application of an external pelvic binder",
+                "E. Resuscitative endovascular balloon occlusion of the aorta"
+            ],
+            "answer": "D",
+            "explanation": "*   The patient described has a pelvic fracture associated with likely hemorrhagic shock (Figure 22.2) and no findings suggesting intraperitoneal injury as the leading differential diagnosis.\n*   The first step in management for this patient is the application of an external pelvic binder (Figure 22.3).\n*   An external pelvic binder can be applied in the emergency department with no preparation and minimal training.\n*   It immediately decreases the volume of the pelvis and tamponades pelvic fracture bleeding.\n*   Exploratory laparotomy in this situation would be nontherapeutic and would delay treatment of the bleeding pelvic fracture.\n*   Pelvic angioembolization and preperitoneal packing are both good options for controlling pelvic fracture bleeding, but both require at least a short time for preparation and execution.\n*   Resuscitative endovascular balloon occlusion of the aorta is a promising technique that can stop arterial inflow to the pelvis, but it also requires a short, but real, time to prepare and execute."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "A 7-year old boy presents several hours after blunt trauma to the abdomen caused by falling onto his bicycle handlebars. He initially went home, but his mother brought him to the hospital for repetitive emesis of clear fluid. He has a bicycle handlebar imprint in his epigastrium and peritonitis on exam. CT scan reveals a transected pancreas to the left of the mesenteric vessels (figure 23.1). What is the best next step?",
+            "options": [
+                "A. Splenic-preserving distal pancreatectomy",
+                "B. Diagnostic endoscopic retrograde cholangiopancreato-graphy with placement of a pancreatic stent",
+                "C. Laparoscopy and drain placement",
+                "D. Bedrest, nasogastric tube decompression, and central catheter placement for parenteral nutrition",
+                "E. Bed rest, nasogastric tube decompression, and nasojejunal tube placement for enteral feeds"
+            ],
+            "answer": "A",
+            "explanation": "*   The management of blunt pancreatic trauma in children is controversial, with some surgeons advocating operation and others nonoperative management for high-grade injuries.\n*   Pancreatic trauma is graded into 5 categories (Table 23.2). A transected pancreas to the left of the mesenteric vessels is indicative of a Grade III injury (distal transection or parenchymal injury with duct injury).\n*   A review article summarizing pediatric blunt pancreatic trauma management noted that patients with ductal disruption may benefit from operative intervention.\n*   If the ductal injury is proximal, a subset of patients may benefit from endoscopic retrograde cholangiopancreatography (ERCP) and stent placement, particularly in centers where this procedure is available.\n*   If ERCP is not available, nonoperative management with expected pseudocyst formation and later drainage is favored over operation on the pancreatic head.\n*   Although the spleen might be removed in adults with this injury, distal pancreatectomy with preservation of the spleen is favored in children with duct disruption.\n*   A study comparing operative (distal pancreatectomy or drain placement) versus nonoperative management for Grade III-IV pancreatic injuries in children found that operative management was associated with a lower risk of complications and shorter duration of parenteral nutrition."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "A 24-year-old man presents to the emergency department with a single gunshot injury to the right frontotemporal region of the head. He has no other signs of injury. His heart rate is 40 beats per minute, and his blood pressure is 180/110 mm Hg. What is the most appropriate next step in management of his head injury?",
+            "options": [
+                "A. Intravenous mannitol 1 g/kg",
+                "B. Supine position",
+                "C. Intravenous esmolol",
+                "D. Hyperventilation to PaCO2 less than 25 mm Hg",
+                "E. Intracranial pressure monitoring"
+            ],
+            "answer": "A",
+            "explanation": "*   Management of severe brain trauma continues to evolve as new data regarding outcomes are published.\n*   Current Brain Trauma Foundation recommendations for the use of mannitol or hypertonic saline as hyperosmolar therapies are limited due to the lack of sufficient evidence from comparative studies demonstrating improved clinical outcomes.\n*   However, the group continues to recommend the use of mannitol before intracranial pressure (ICP) monitoring in patients with signs of transtentorial herniation or progressive neurologic deterioration not attributable to extracranial injury.\n*   Waiting to place an ICP monitor is not recommended, and randomized controlled trials have not demonstrated an improved outcome with ICP monitoring.\n*   The utility of mannitol over hypertonic saline has not been demonstrated, thus either may be used.\n*   Patients should have the head of bed elevated to decrease ICP when possible.\n*   Blood pressure should not be lowered, as an elevated blood pressure (hypertension) is a natural response to increasing ICP.\n*   Hyperventilation to low normal levels (30-35 mm Hg) is a short-term adjunctive therapy for patients with evidence of severe brain injury. However, level I data are lacking, and recent studies demonstrated cerebral ischemia, thus altering current expert opinion. Hyperventilation to PaCO2 of less than 25 mm Hg for prolonged periods is certainly not recommended.\n*   The patient's bradycardia (40 bpm) and hypertension (180/110 mm Hg) are consistent with Cushing's triad, indicating elevated ICP and impending herniation. Mannitol is the most appropriate initial intervention to reduce ICP."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "A 10-year-old boy presents after a firework exploded near his hands and chest. He has first- and second-degree bums to the right chest (5% total body surface area). He had no loss of consciousness, was not thrown, and has no other external, signs of trauma. This occurred outdoors, and there are no carbon deposits in his mouth or nose There are no fractures on radiographic studies. On postinjury day 1, he develops a cough and requires supplemental oxygen via nasal cannula. His chest x-ray (figure 25.1) demonstrates",
+            "options": [
+                "A. pneumonia.",
+                "B. atelectasis",
+                "C. pulmonary contusion.",
+                "D. inhalation injury.",
+                "E. thermal injury to the lung parenchyma."
+            ],
+            "answer": "D",
+            "explanation": "<b>PROBABLE ANSWER: C<b><br>*   Explosions in civilian settings result in physical trauma from a combination of four distinct mechanisms (Table 25.2).\n*   Primary blast injury results from the impact of the overpressurization wave with body surfaces, primarily affecting gas-filled structures like the lungs, gastrointestinal tract, and middle ear. This leads to blast lung (pulmonary barotrauma), which is a pulmonary contusion not associated with rib fractures.\n*   Secondary injury is caused by flying debris (shrapnel).\n*   Tertiary blast injury is blunt force trauma from the body being thrown against objects.\n*   Quaternary blast injuries include burns, crush injuries, and toxic inhalation.\n*   In this case, the explosion was adjacent to the chest wall, and the primary blast injury likely resulted in a pulmonary contusion (Figure 25.3).\n*   Pulmonary contusions take time to develop and may not be evident on initial radiographic imaging.\n*   Being outdoors makes inhalation injury less likely.\n*   The time course of symptoms (cough, oxygen requirement on day 1) would be unusual for pneumonia to develop.\n*   Atelectasis can occur, particularly with associated fractures, but the pulmonary contusion in this case is isolated to the explosion site and lacks the plate-like appearance suggestive of atelectasis.\n*   While a large explosion in a closed space might indirectly force heated gas into distal airways causing thermal burns, this is not the scenario presented."
+        },
+        {
+            "id": 26,
+            "question_type": "emq",
+            "question": "Bilateral loss of motor and sensation in the upper extremities",
+            "options": [
+                "A. Anterior cord syndrome",
+                "B. Brown-Sequard syndrome",
+                "C. Central cord syndrome",
+                "D. Conus medullaris syndrome",
+                "E. Posterior cord syndrome"
+            ],
+            "answer": "C",
+            "explanation": "*   Central cord syndrome is typically caused by hyperextension of the cervical spine in patients with pre-existing cervical spondylosis.\n*   It involves the upper extremity axons, which are more centrally located within the spinal cord, leading to bilateral loss of sensation and weakness in the upper extremities.\n*   Lower extremity function is usually preserved, and the patient is typically able to walk."
+        },
+        {
+            "id": 27,
+            "question_type": "emq",
+            "question": "Ipsilateral paralysis and loss of proprioception with contralateral loss of pain and temperature sensation",
+            "options": [
+                "A. Anterior cord syndrome",
+                "B. Brown-Sequard syndrome",
+                "C. Central cord syndrome",
+                "D. Conus medullaris syndrome",
+                "E. Posterior cord syndrome"
+            ],
+            "answer": "B",
+            "explanation": "*   Brown-Sequard syndrome results from hemitransection of the spinal cord, causing unilateral damage to the corticospinal tract, spinothalamic tract, and dorsal columns.\n*   Presenting symptoms include ipsilateral loss of proprioception, motor function, and light touch sensation, with contralateral loss of pain and temperature sensation."
+        },
+        {
+            "id": 28,
+            "question_type": "emq",
+            "question": "Loss of sensation in the perineum, bladder dysfunction",
+            "options": [
+                "A. Anterior cord syndrome",
+                "B. Brown-Sequard syndrome",
+                "C. Central cord syndrome",
+                "D. Conus medullaris syndrome",
+                "E. Posterior cord syndrome"
+            ],
+            "answer": "D",
+            "explanation": "*   Conus medullaris syndrome usually results from injury to the T12 and L1-L2 regions of the spine.\n*   Typical symptoms include loss of sensation in the saddle region, accompanied by bowel and bladder dysfunction.\n*   The patient does not typically experience lower extremity weakness."
+        }
+    ]
+}

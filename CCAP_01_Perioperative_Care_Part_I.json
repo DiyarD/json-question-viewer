@@ -1,0 +1,425 @@
+{
+    "chapter_name": "Perioperative Care Part I",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A 19-year-old, black military recruit complains of severe pain in his legs the morning after a 5-mile march in full combat gear during mid-August at a southern basic training camp. He has no history of similar episodes and no reported previous heat-related injury. He has no history of sickle cell disease. He is awake, conversant, and oriented with normal vital signs. Other than severe discomfort in his calves and thighs, his physical examination is negative. Laboratory studies demonstrate the following:\\nSerum\\nNa+ = 147 mEq/L (136-145 mEq/L)\\nK+ = 2.8 mEq/L (3.5 5.0 mEq/L)\\nCr 101 mEq/L (95-105 mEq/L)\\nCO2 = 28 mEq/L (23 29 mEq/L)\\nBUN = 17 mg/dL (7-20 mEq/L)\\nGlucose = 80 mg/dL (70-100 mEq/L)\\nCreatinine = 1.1 mg/dL (0.4-1.3 mEq/L)\\nSerum Ca++ = 8.2 mEq/L (8.5-10.2 mEq/L)\\nCreatine phosphokinase = 400 U/L (60-174 U/L)\\nMg++ = 2 mg/dL (1.5-2.5 mEq/L)\\nUrine\\nColor: dark yellow\\npH: 5.7\\nSpecific gravity: 1.038\\nDip Stick\\nBlood: trace\\nGlucose: negative\\nProtein: trace\\nMicroscopic: crystals present, few white blood cells, no red blood cells or casts\\nInitial treatment should consist of intravenous fluids containing",
+            "options": [
+                "A. magnesium.",
+                "B. calcium.",
+                "C. glucose.",
+                "D. potassium.",
+                "E. bicarbonate."
+            ],
+            "answer": "D",
+            "explanation": "- Rhabdomyolysis is a concern, but serum creatinine kinase is not elevated to the extent usually seen with rhabdomyolysis, and serum potassium levels would be expected to be markedly elevated with rhabdomyolysis, which is not seen here.\\n- The elevated sodium and urine specific gravity suggest moderate dehydration.\\n- Hypokalemia is evident (K+ = 2.8 mEq/L) and may worsen after rehydration.\\n- Studies show serum potassium rises during extreme exercise but falls to below baseline for several hours, thought to be due to catecholamine activation of Na+/K+-ATPase driving potassium into cells.\\n- Rehydration should be supplemented with potassium due to hypokalemia, which is linked to cardiac rhythm disturbances and possibly sudden death after extreme exertion.\\n- Magnesium replacement may be necessary if potassium supplementation is ineffective or serum magnesium levels are low, as renal excretion of potassium is not reversed without adequate magnesium.\\n- Glucose addition may stimulate insulin secretion, driving potassium intracellularly and further lowering its concentration.\\n- Bicarbonate has been used to increase myoglobin solubility in rhabdomyolysis, but there is no compelling evidence for rhabdomyolysis or need for renal failure in this case.\\n- Calcium supplementation is not suggested."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "The patient shown in figure 2.1 was recently seen by his primary physician and started on an angiotensin converting enzyme (ACE) inhibitor. Which of the following statements about this condition is true?",
+            "options": [
+                "A. It has no effect on the gastrointestinal tract.",
+                "B. This reaction is unlikely to recur with repeat exposure of the inciting drug.",
+                "C. Potential airway compromise prompts aggressive early intervention.",
+                "D. Black patients uncommonly manifest this condition compared with patients of European descent.",
+                "E. Treatment is diuretics and steroids."
+            ],
+            "answer": "C",
+            "explanation": "- ACE inhibitors can lead to angioedema by interfering with kinin and vasoactive peptide pathways.\\n- Angioedema commonly affects the lips, tongue, or face, but can also involve the bowel, causing abdominal pain or obstruction.\\n- Rechallenge with the offending drug typically leads to recurrence of angioedema.\\n- Black patients have a 5-fold higher incidence compared to white patients.\\n- Treatment involves discontinuing the drug and managing the airway.\\n- Early intubation with surgical backup for emergency surgical airway is indicated.\\n- Diuretics and steroids are not part of the management for ACE inhibitor-associated angioedema."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "A 45-year-old man is involved in a motor vehicle crash and is admitted to your service for multiple lower extremity fractures. Which of the following statements regarding venous thromboembolism (VTE) is true for this patient?",
+            "options": [
+                "A. Low molecular weight heparin (LMWH) prophylaxis is preferred over unfractionated heparin.",
+                "B. VTE are rare in the first few days of hospitalization.",
+                "C. Chemical VTE prophylaxis should be withheld between 12 and 24 hours before open reduction and internal fixation.",
+                "D. Rates of deep vein thrombosis are not influenced by surveillance bias.",
+                "E. Titrating the dose of LMWH with thromboelastography decreases VTE rates."
+            ],
+            "answer": "A",
+            "explanation": "- Venous thromboembolism (VTE) remains a concern despite aggressive monitoring and prophylaxis.\\n- A review of Michigan Trauma Quality Improvement Program data suggested LMWH was associated with reduced mortality and VTE compared with unfractionated heparin.\\n- VTEs are preponderant in the first few days of hospitalization.\\n- Chest guidelines for VTE prophylaxis in orthopedic surgery recommended starting preoperative chemical prophylaxis between 12 and 24 hours before surgery, not withholding it.\\n- A randomized trial showed thromboelastography-guided versus fixed-dose LMWH had no effect on VTE rates.\\n- Deep vein thrombosis rates are significantly higher after routine duplex surveillance due to surveillance bias."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "Which of the following statements is true regarding postoperative fluid management?",
+            "options": [
+                "A. Intravenous fluids should be administered to maintain a urine output of 1 mL/kg/hour.",
+                "B. Urine output of less than 0.5 mL/kg/hour is associated with increased hospital stay.",
+                "C. Decreased urine output is a physiologic response to surgical stress.",
+                "D. Fluid overload reduces postoperative morbidity.",
+                "E. Enhanced recovery after surgery pathways improve outcomes by fluid loading."
+            ],
+            "answer": "C",
+            "explanation": "- Oliguria traditionally considered secondary to postoperative hypovolemia is now recognized as a normal physiologic response to surgical stress.\\n- Administering fluids to achieve a urine output of 1 mL/kg/hour exceeds even the classic goal of 0.5 mL/kg/hour.\\n- A randomized trial showed a urine output goal of 0.2 mL/kg/hour was not associated with kidney injury or length of stay.\\n- Fluid overloading was a strong predictor of later complications in a trial of enhanced recovery care.\\n- Enhanced recovery pathways improve outcomes through fluid-restrictive strategies."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "A 29-year-old woman is 19 weeks pregnant and presents with a changing mole on her leg. Biopsy shows a 1.5-mm Breslow depth, nonulcerated melanoma. Examination reveals a gravid uterus and no groin adenopathy. Wide local excision and sentinel node biopsy are planned. The patient should be told that",
+            "options": [
+                "A. surgery should be done under spinal anesthetic.",
+                "B. radioactive tracers for the sentinel node biopsy are contraindicated.",
+                "C. operation should be delayed until the third trimester.",
+                "D. the prognosis of melanoma is not affected by pregnancy.",
+                "E. preoperative CT scanning is indicated."
+            ],
+            "answer": "D",
+            "explanation": "- Approximately one-third of women with melanoma are of childbearing age, making it the most common malignancy during pregnancy.\\n- Traditionally, pregnancy-associated melanoma (PAM) was thought to have a worse prognosis, but recent studies show no significant differences in stage, recurrence rates, or survival rates between PAM and non-PAM patients.\\n- Survival in PAM patients depends on the same factors as non-PAM patients (Breslow thickness, tumor ulceration, sentinel node status).\\n- PAM patients should be treated expeditiously with wide excision and sentinel lymph node biopsy, similar to non-PAM patients.\\n- All 15 PAM patients in a recent review undergoing sentinel lymph node biopsy had general anesthesia.\\n- 99mTc sulfur colloid is safe for the fetus if the dose is kept below 50 mGy, and lymphoscintigraphy delivers less than 5 mGy.\\n- Blue dye is often not used due to potential teratogenic and anaphylactic risks.\\n- Preoperative CT scanning is not indicated for this patient's clinical stage (T2aN0, IB melanoma) regardless of pregnancy; scans should be done postoperatively if upstaging occurs."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "A 24-year-old man sustained multiple injuries (injury severity score = 34) as the result of a motor vehicle crash 2 weeks ago. He developed acute respiratory distress syndrome requiring mechanical ventilation. He is being treated for sepsis and appears to be improving, as indicated by normalization of vital signs with removal of pressers, improved urine output, less requirement far ventilator support, and a reduction in his leukocytosis. Current laboratory values are as follows:\\nSerum\\nNa+ = 131 mEq/L (136-145 mEq/L)\\nK+ = 4.2 mEq/L (3.5-5.0 mEq/L)\\nCl = 86 mEq/L (95-105 mEq/L)\\nBUN = 8 mg/dL (7-20 mEq/L)\\nAlbumin = 0.8 g/dL (3.5-5.2 g/dL)\\nCreatinine = 1.0 mg/dL (0.4-1.3 mEq/L)\\nSerum Ca++ = 3.6 mg/dL (8.5-10.2 mEq/L)\\nMg++ = 2.2 mEq/L (1.5-2.5 mEq/L)\\nHCO3- = 21 mEq/L (calculated; 20-29 mEq)\\nPO4 = 2.3 mg/dL (2.5-4.5 mEq/L)\\nArterial Blood Gases\\nPaO2 = 98 mm Hg\\nPaCO2 = 41 mm Hg\\npH = 7.32\\nSat = 99%\\nBase excess = -4.8 mEq/L\\nThe underlying acid-base aberration is best described as a",
+            "options": [
+                "A. severe metabolic acidosis.",
+                "B. mixed respiratory-metabolic acidosis.",
+                "C. uncompensated respiratory acidosis.",
+                "D. partially compensated respiratory acidosis.",
+                "E. metabolic alkalosis and respiratory acidosis."
+            ],
+            "answer": "A",
+            "explanation": "- The patient's pH (7.32) is acidic, PaCO2 (41 mm Hg) is normal, and HCO3- (21 mEq/L) is low.\\n- The anion gap (AG) is calculated as Na+ - (Cl- + HCO3-) = 131 - (86 + 21) = 24 mEq/L. A normal anion gap is 6-12 mEq/L, so 24 indicates a high anion gap.\\n- The base excess is -4.8 mEq/L, indicating a deficit of base.\\n- These values strongly indicate a metabolic acidosis.\\n- The explanation further states that the metabolic acidosis is worse than suggested by pH and negative base excess, compounded by plasma water excess, corrected anion gap from hypoalbuminemia, and increased Pi.\\n- It explicitly states: \"There is no respiratory acidosis or alkalosis.\""
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "A 67-year-old man has a partial bowel obstruction and undergoes a colonoscopy that shows a fungating lesion in his sigmoid colon. In the recovery room; he has chest pain and has ST segment elevation on his electrocardiogram. Coronary angiogram is performed and shows severe left anterior descending stenosis; Which intervention would allow sigmoid colectomy to be performed in the next 2 weeks with minimal bleeding and thrombosis risk?",
+            "options": [
+                "A. Placement of a bare metal stent",
+                "B. Placement of a drug-eluting stent",
+                "C. Angioplasty of the left anterior descending lesion",
+                "D. Coronary artery bypass grafting",
+                "E. Continuous unfractionated heparin intravenously for 3 weeks"
+            ],
+            "answer": "C",
+            "explanation": "- The patient has significant coronary disease (severe LAD stenosis) and needs urgent noncardiac surgery (partial bowel obstruction).\\n- Coronary artery bypass grafting (CABG) is associated with a 5% in-hospital mortality in acute coronary events.\\n- Angioplasty without a stent allows the earliest intervention for the colon lesion because there is no stent to thrombose if antiplatelet drugs are stopped.\\n- Discontinuation of antiplatelet therapy after stent placement (bare metal or drug-eluting) puts the patient at risk for early stent thrombosis, and stent-related thrombotic complications can occur for approximately 6 months, regardless of stent type.\\n- Administering 3 weeks of unfractionated heparin without addressing the anatomical disease will not impact subsequent cardiac risk from the noncardiac procedure."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "A 28-year-old woman with longstanding inflammatory bowel disease underwent an urgent total abdominal colectomy for toxic megacolon after 10 days of intractable diarrhea. Postoperatively, she was found to be hypokalemic (potassium = 2.2 mEq/L; 3.5-5.0 mEq/L) and was begun on intravenous potassium chloride. Her blood glucose is 170 mg/dL (70-100 mg/dL). After 24 hours of replacement, her potassium is only 2.4 mEq/L (13.5-5.0 mEq/L). In addition to continued potassium chloride administration, successful correction of her potassium deficit will likely require the infusion of",
+            "options": [
+                "A. citrate.",
+                "B. phosphate.",
+                "C. magnesium.",
+                "D. insulin and glucose.",
+                "E. ammonium chloride."
+            ],
+            "answer": "C",
+            "explanation": "- Hypokalemia is common, but serum levels do not reflect total body potassium.\\n- Potassium loss can result from gastrointestinal loss, such as diarrhea in this case.\\n- In cases of hypokalemia refractory to potassium supplementation, magnesium needs to be replaced concomitantly.\\n- Magnesium deficiency impairs the Na/K-ATPase pump, leading to renal potassium wasting.\\n- Supplemental citrate and phosphate have no effect on potassium.\\n- Administration of glucose and insulin would drive potassium into the cell, further lowering serum potassium concentration.\\n- Ammonium chloride, used to correct metabolic alkalosis, does not assist in potassium retention."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "An otherwise healthy 52-year-old woman underwent an uneventful right hemicolectomy and ileocolostomy for an angiodysplastic lesion in her cecum. An ileus and her inability to take oral nourishment has kept her hospitalized. Postoperatively, she was given unfractionated heparin for deep vein thrombosis prophylaxis. On postoperative day 6, her platelet count was 30,000/mm3 (baseline 230,000/mm3). Heparin was discontinued and an anti-PF4/Heparin-ELISA was requested, which was positive (OD 1.5). After a flush of a central venous line with heparin solution an hour later, the patient developed cyanosis of the nail beds of both hands despite palpable radial artery pulses. The most appropriate management at this point is",
+            "options": [
+                "A. platelet transfusion.",
+                "B. streptokinase.",
+                "C. warfarin.",
+                "D. argatroban.",
+                "E. enoxaparin."
+            ],
+            "answer": "D",
+            "explanation": "- The patient's presentation (thrombocytopenia after heparin, positive anti-PF4/Heparin-ELISA, and new thrombosis) is consistent with heparin-induced thrombocytopenia (HIT) with thrombosis (HITT).\\n- Platelet factor 4 (PF4) binds to heparin, forming a complex that induces antibody production (IgG) against PF4/H.\\n- The antibody-PF4/H complex binds to the FcγIIa receptor on monocytes, stimulating procoagulant microparticles, tissue factor, and activated thrombin, leading to spontaneous thrombosis and further platelet reduction.\\n- For suspected HIT, immediate discontinuation of heparin and risk assessment are crucial.\\n- If thrombosis (HITT) is present, a direct thrombin inhibitor should be instituted.\\n- Argatroban is the only FDA-approved drug for HITT, though fondaparinux and other direct thrombin inhibitors are used off-label.\\n- Platelet transfusion is not recommended due to the theoretical risk of enhancing PF4/H antibody production and platelet aggregation.\\n- Streptokinase is not indicated due to bleeding risk, especially in postoperative patients with thrombocytopenia.\\n- Enoxaparin (LMWH) is not approved for this setting, though LMWHs are less associated with HIT.\\n- Warfarin is contraindicated during the thrombocytopenic phase of HIT due to the propensity for producing acquired protein C deficiency and lower extremity venous thrombosis and necrosis."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "What is an effective strategy to minimize risk for acute kidney injury in a polytrauma patient expected to receive multiple contrast-enhanced imaging studies?",
+            "options": [
+                "A. N-acetylcysteine",
+                "B. Sodium bicarbonate",
+                "C. \"Renal dose\" dopamine",
+                "D. Intravenous volume infusion",
+                "E. Statin therapy"
+            ],
+            "answer": "D",
+            "explanation": "- Contrast-induced acute kidney injury (CI-AKI) is uncommon (1-5% of patients) but can significantly impact outcomes.\\n- Patients at increased risk for CI-AKI include those with pre-existing renal dysfunction, chronic congestive heart failure, diabetes, hypertension, advanced age, use of multiple-iodinated contrast media, and volume depletion.\\n- Intravenous volume infusion is consistently recommended as the mainstay of prevention for CI-AKI.\\n- The optimal intravenous fluid (sodium chloride vs. bicarbonate) remains debated.\\n- N-acetylcysteine shows conflicting results but no evidence of harm.\\n- Statins have shown mixed results, and controversy exists over dose and duration.\\n- \"Renal-dose\" (low-dose) dopamine has no effect on reducing CI-AKI incidence or duration."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "A 48-year-old woman with a history of deep venous thrombosis treated with rivaroxaban presents with 12 hours of right upper quadrant pain. Physical examination, laboratory values, and ultrasound are consistent with acute cholecystitis. Laparoscopic cholecystectomy is planned. Given her normal renal function coagulation profile when will her coagulation profile normalize?",
+            "options": [
+                "A. 6 hours",
+                "B. 12 hours",
+                "C. 36 hours",
+                "D. 72 hours",
+                "E. 96 hours"
+            ],
+            "answer": "C",
+            "explanation": "- Rivaroxaban is a direct oral anticoagulant (DOAC) that inhibits Factor Xa.\\n- Its half-life is 9 to 13 hours, and its therapeutic activity wears off after 4 to 5 half-lives.\\n- Rivaroxaban should be discontinued at least 24 hours before surgery.\\n- For patients with reduced creatinine clearance, this recommendation extends to 3 to 5 days.\\n- For this patient with normal renal function, her coagulation profile will normalize at 24 to 36 hours after her last oral dose."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "A 55-year-old man with perforated diverticulitis is undergoing a laparotomy, Segmental resection of the sigmoid was performed after a difficult dissection. The patient is on norepinephrine and vasopressin infusions, and his arterial blood gases are as follows:\\npH = 7.05\\nPaCO2 = 22 mm Hg\\nPaO2 = 89 mm Hg\\nHCO3- = 13 mEq (20-29 mEq)\\nOxygen saturation = 91%\\nBase deficit = -19 mEq/L\\nTemperature = 35°C\\nWhat is the most appropriate next step?",
+            "options": [
+                "A. Leave the bowel in discontinuity with a temporary abdominal closure",
+                "B. Mature an end colostomy with a temporary abdominal closure",
+                "C. Mature an end colostomy, closing the fascia, leaving the skin open",
+                "D. Perform a primary anastomosis with a primary abdominal closure",
+                "E. Perform a primary anastomosis, with a diverting loop ileostomy, and primary abdominal closure"
+            ],
+            "answer": "A",
+            "explanation": "- The patient is in septic shock, hypothermic, and markedly acidotic, requiring multiple vasopressors.\\n- This clinical scenario indicates a need for damage control surgery, which abbreviates laparotomy in physiologically exhausted patients to improve mortality.\\n- Damage control involves arresting surgical bleeding and limiting enteric contamination, followed by temporary abdominal closure with resuscitation and physiologic restoration in the ICU.\\n- Definitive repair and gastrointestinal continuity restoration are delayed until a second laparotomy.\\n- The optimal next step is to leave the stapled-off ends of the colon in discontinuity, apply a temporary abdominal closure, and transfer the patient to the ICU for correction of acidosis, hypothermia, and shock.\\n- Further time in the operating room is not warranted."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "Laparoscopic subtotal cholecystectomy for acute cholecystitis",
+            "options": [
+                "A. requires a reoperation in 20% of patients.",
+                "B. has a morbidity rate comparable with total cholecystectomy.",
+                "C. is followed by postoperative endoscopic retrograde cholangiopancreatography in 40% of patients.",
+                "D. is optimally performed with a fenestrating rather than a reconstituting technique.",
+                "E. is not a definitive procedure."
+            ],
+            "answer": "B",
+            "explanation": "- Subtotal cholecystectomy is advocated for acute cholecystitis with significant inflammation or a fibrosed gallbladder.\\n- It can be performed laparoscopically, involving removal of the front gallbladder wall and intraluminal stones.\\n- Both fenestrating (leaving infundibulum/cystic duct orifice open with drain) and reconstituting (closure of infundibulum cuff over cystic duct orifice) techniques are described with equivalent outcomes.\\n- This procedure is safe and feasible, especially when conversion to an open procedure won't better delineate Calot's triangle.\\n- It can be a definitive procedure, with less than 5% of patients needing additional surgery.\\n- The morbidity rate is comparable with total cholecystectomy, with a reported 7% to 18% rate of bile leak and a 4% to 20% need for endoscopic retrograde cholangiopancreatography."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "In an attempt to determine whether anticoagulant bridge therapy is needed, which of the following individual risk factors portends the highest risk of stroke if using the CHA2DS2-VASc risk assessment tool?",
+            "options": [
+                "A. Age",
+                "B. Congestive heart failure",
+                "C. Hypertension",
+                "D. Diabetes",
+                "E. Female sex"
+            ],
+            "answer": "A",
+            "explanation": "- Anticoagulant bridge therapy aims to reduce thrombotic risk by decreasing the time a patient is not therapeutically anticoagulated, but recent studies suggest the overall risk of thrombosis is lower than previously cited and not necessarily reduced by bridging therapy.\\n- The risk of bleeding must be balanced against the risk of thrombosis.\\n- The CHA2DS2-VASc score evaluates stroke risk in patients with atrial fibrillation.\\n- The components and their points are: Congestive heart failure (1), Hypertension (1), Age ≥75 years (2), Diabetes (1), Prior Stroke/TIA/TE (2), Vascular disease (1), Age 65-74 years (1), Sex category (female) (1).\\n- Among the listed choices, age 75 or older (2 points) portends the highest risk of stroke."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "She is determined to be at moderate risk for a perioperative stroke based on the CHA2DS2-VASc risk assessment tool. In this patient, anticoagulant bridging therapy should",
+            "options": [
+                "A. not be instituted.",
+                "B. be instituted with intravenous unfractionated heparin.",
+                "C. be instituted with subcutaneous enoxaparin.",
+                "D. be instituted with intravenous dalteparin.",
+                "E. be instituted with subcutaneous fondaparinux."
+            ],
+            "answer": "A",
+            "explanation": "- According to the American College of Cardiology's 2017 consensus guidelines, bridging recommendations are based on stroke risk (CHA2DS2-VASc tool) and bleeding risk.\\n- For a patient deemed moderate risk (CHA2DS2-VASc score 5-6 or prior stroke/TIA at least 3 months previously) of stroke with increased risk of bleeding (e.g., intra-abdominal surgery like laparoscopic cholecystectomy), anticoagulant bridging therapy is not recommended.\\n- Unfractionated heparin, enoxaparin, dalteparin, and fondaparinux are suitable alternatives for anticoagulation when bridging therapy *is* indicated."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "In patients over the age of 65 undergoing emergency general surgery, the likelihood of developing postoperative complications is best predicted by",
+            "options": [
+                "A. American Society of Anesthesiology score.",
+                "B. age.",
+                "C. the Frailty index.",
+                "D. sex.",
+                "E. cardiovascular status."
+            ],
+            "answer": "C",
+            "explanation": "- The Frailty index is the best predictor of postoperative complications in emergency general surgery patients over 65.\\n- The emergency general surgery frailty index consists of 15 variables, grouped into comorbidities, activities of daily living, attitude, and nutrition.\\n- Important comorbidities include previous cancer, hypertension, coronary heart disease, or dementia.\\n- Activities of daily living include grooming, managing finances, housework, toileting, and walking.\\n- Attitude assessment includes feeling less useful, depressed, lonely, or sexually active.\\n- Nutrition is assessed by serum albumin, with albumin less than 3 mg/dL contributing to the frailty score.\\n- Frail patients are more likely to have postoperative complications compared to nonfrail patients.\\n- Age, sex, American Society of Anesthesiologists score, and cardiovascular status are not independently predictive of postoperative complications in this patient population.\\n- Physiologic reserve is the best predictor of postoperative complications in patients older than 65."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "A previously healthy patient presents with peritonitis secondary to perforated diverticulitis. After adequate source control, she should receive 4 days of",
+            "options": [
+                "A. gentamicin.",
+                "B. tigecycline.",
+                "C. clindamycin.",
+                "D. fluconazole.",
+                "E. piperacillin-tazobactam."
+            ],
+            "answer": "E",
+            "explanation": "- Recent randomized clinical trials show that for intra-abdominal infections with adequate source control, a fixed duration of 4 days of antibiotic therapy yields equivalent outcomes to longer courses.\\n- Piperacillin-tazobactam is the best antibiotic for this patient due to its broader spectrum of activity, given the risk of complicated intra-abdominal infection.\\n- Aminoglycosides (e.g., gentamicin) should not be routinely used for empiric therapy; they should be reserved for resistant Gram-negative infections sensitive to them.\\n- Tigecycline should not be used for empiric treatment of intra-abdominal infections; it is reserved for resistant pathogens as part of a combination regimen.\\n- Clindamycin should only be used as an antianaerobic agent in a combination regimen when metronidazole cannot be used.\\n- Antifungal agents (e.g., fluconazole) are not recommended for empiric therapy; echinocandins are preferred over azoles if antifungals are necessary."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "A 40-year-old man is undergoing a laparoscopic cholecystectomy. At the time of attempted port placement, the patient's abdominal wall is extremely rigid. The anesthesiologist notices that the patient is hyperventilating and there has been a sudden increase in the end tidal CO2 concentration. The patient begins having recurrent 10-beat runs of ventricular tachycardia. His arterial blood gas demonstrates a pH of 7.10, a PaCO2 of 65, a base deficit of -10, and a lactate of 8 mg/dL (4.5-19.8 mg/dL). His temperature is 37.5°C. A drug that is helpful in this condition is",
+            "options": [
+                "A. succinylcholine.",
+                "B. sodium bicarbonate.",
+                "C. lidocaine.",
+                "D. calcium.",
+                "E. dantrolene."
+            ],
+            "answer": "E",
+            "explanation": "- The clinical presentation (rigidity, increased end-tidal CO2, hyperventilation, tachycardia, acidosis, normal temperature) is indicative of malignant hyperthermia (MH).\\n- MH is a pharmacogenetic disorder, often occurring during general anesthesia or early postoperative period, characterized by uncontrolled hypermetabolism and release of intracellular calcium from skeletal muscle.\\n- All inhalation anesthetics and succinylcholine are triggers for MH.\\n- Early recognition is key to successful treatment.\\n- For suspected MH, all inhalation anesthetics should be stopped immediately.\\n- Dantrolene is the treatment of choice, administered immediately at 2.5 mg/kg, acting by inhibiting the ryanodine receptor (RyR1) channel.\\n- Administration of calcium is contraindicated as it can worsen the syndrome.\\n- Sodium bicarbonate can temporize systemic acidosis but does not prevent MH progression.\\n- Amiodarone, not lidocaine, is the antiarrhythmic agent of choice for sustained ventricular dysrhythmias."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "Which of the following is considered a serious reportable surgical event?",
+            "options": [
+                "A. Intraoperative death in an American Society of Anesthesiologists class IV patient",
+                "B. Lack of a timeout before a surgical procedure",
+                "C. Lack of a site marking before exploratory laparotomy",
+                "D. Deep surgical site infection after colorectal surgery",
+                "E. Wrong site surgery"
+            ],
+            "answer": "E",
+            "explanation": "- The National Quality Forum (NQF) endorses Serious Reportable Events (SREs) in healthcare to facilitate systematic learning and national improvement.\\n- The 2011 NQF update defines 5 surgical or invasive procedure SREs:\\n  1.  Surgery or other invasive procedure performed on the wrong site.\\n  2.  Surgery or other invasive procedure performed on the wrong patient.\\n  3.  Wrong surgical or other invasive procedure performed on a patient.\\n  4.  Unintended retention of a foreign object in a patient after surgery or other invasive procedure.\\n  5.  Intraoperative or immediately postoperative/postprocedure death in an American Society of Anesthesiologists class I patient.\\n- Not performing a timeout or lack of site marking does not constitute an SRE.\\n- Deep surgical site infection is a known complication but not an SRE."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "A 64-year-old woman has a 2-cm area of ductal carcinoma in situ in her left breast. She has a history of having had 4 bare metal stents placed 2 years ago during an acute coronary event. She has had no chest pain. She takes clopidogrel and a baby aspirin every day. In preparation for her partial mastectomy, she should",
+            "options": [
+                "A. stop both the aspirin and the clopidogrel.",
+                "B. keep taking both the aspirin and the clopidogrel.",
+                "C. stop the aspirin and keep taking the clopidogrel.",
+                "D. stop the clopidogrel and keep taking the aspirin.",
+                "E. stop both the aspirin and clopidogrel and start enoxaparin."
+            ],
+            "answer": "D",
+            "explanation": "- Management of antiplatelet therapy in patients with coronary disease and stents involves balancing the risk of stent thrombosis and bleeding.\\n- The patient has bare metal stents placed 2 years ago, which falls into the \"Low Risk\" category for thrombotic events (Table 20.2: >6 months after PCI with BMS).\\n- Partial mastectomy is considered a \"Low Risk\" surgery for hemorrhagic events (Table 20.1).\\n- According to Table 20.3 (Perioperative management of DAPT) for \"Low risk\" Hemorrhagic and \"Low risk\" Thrombotic, the recommendation is to \"Continue ASA; discontinue P2Y12 receptor Inhibitor; resume within 24-72 h with a loading dose.\" Clopidogrel is a P2Y12 inhibitor, and aspirin is ASA.\\n- Therefore, discontinuing clopidogrel and continuing aspirin is reasonable.\\n- If elective surgery can be delayed to reduce risk, it is a viable option.\\n- If surgery cannot be delayed and bleeding risk is high, continuing aspirin and holding clopidogrel is suggested.\\n- Restarting clopidogrel should occur as soon as possible, preferably within 72 hours."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "Which of the following is associated with an increased rate of surgical site infection in patients undergoing elective ventral hernia repair with class 1 wounds?",
+            "options": [
+                "A. Hyperthermia",
+                "B. Hypoglycemia",
+                "C. Facility laundering of scrubs",
+                "D. Clipping hair around surgical site",
+                "E. Mechanical bowel prep"
+            ],
+            "answer": "E",
+            "explanation": "- Nearly half of surgical site infections (SSIs) are preventable, and evidence-based strategies should be applied.\\n- In an analysis of a large hernia registry, preoperative bowel preparation was associated with a higher rate of SSIs in patients with a clean wound (e.g., no skin breakdown, strangulation).\\n- Hyperglycemia in the immediate preoperative period is associated with an increased risk of SSI, with target perioperative blood glucose between 110 to 150 mg/dL.\\n- Hypoglycemia is tied to adverse outcomes and increased episodes of hypoglycemia, but not increased SSI risk.\\n- Hair removal should be avoided unless it interferes with surgery; if necessary, clippers should be used instead of a razor, as razors are associated with higher SSI rates.\\n- Data are insufficient to associate facility scrub laundering with decreased SSI rates."
+        },
+        {
+            "id": 22,
+            "question_type": "emq",
+            "question": "Anti-CTLA-4",
+            "options": [
+                "A. Pembrolizumab",
+                "B. Ipilimumab",
+                "C. Dabrafenib",
+                "D. Trametinib",
+                "E. Imatinib"
+            ],
+            "answer": "B",
+            "explanation": "- Newer drugs for advanced melanoma include selective inhibition of the MAP kinase pathway (targeting BRAF or MEK mutations) and checkpoint inhibitors (monoclonal antibodies).\\n- Anti-CTLA-4 drugs include ipilimumab and tremelimumab.\\n- Anti-PD-1 agents include nivolumab and pembrolizumab.\\n- Anti-BRAF drugs include dabrafenib and vemurafenib.\\n- Anti-MEK drugs include trametinib and binimetinib.\\n- Small molecule inhibitors typically end with \"-ib\" (e.g., imatinib, dabrafenib, trametinib).\\n- Monoclonal antibodies typically end with \"-mab\" (e.g., ipilimumab, pembrolizumab)."
+        },
+        {
+            "id": 23,
+            "question_type": "emq",
+            "question": "Anti-PD-1",
+            "options": [
+                "A. Pembrolizumab",
+                "B. Ipilimumab",
+                "C. Dabrafenib",
+                "D. Trametinib",
+                "E. Imatinib"
+            ],
+            "answer": "A",
+            "explanation": "- Newer drugs for advanced melanoma include selective inhibition of the MAP kinase pathway (targeting BRAF or MEK mutations) and checkpoint inhibitors (monoclonal antibodies).\\n- Anti-CTLA-4 drugs include ipilimumab and tremelimumab.\\n- Anti-PD-1 agents include nivolumab and pembrolizumab.\\n- Anti-BRAF drugs include dabrafenib and vemurafenib.\\n- Anti-MEK drugs include trametinib and binimetinib.\\n- Small molecule inhibitors typically end with \"-ib\" (e.g., imatinib, dabrafenib, trametinib).\\n- Monoclonal antibodies typically end with \"-mab\" (e.g., ipilimumab, pembrolizumab)."
+        },
+        {
+            "id": 24,
+            "question_type": "emq",
+            "question": "Anti-MEK",
+            "options": [
+                "A. Pembrolizumab",
+                "B. Ipilimumab",
+                "C. Dabrafenib",
+                "D. Trametinib",
+                "E. Imatinib"
+            ],
+            "answer": "D",
+            "explanation": "- Newer drugs for advanced melanoma include selective inhibition of the MAP kinase pathway (targeting BRAF or MEK mutations) and checkpoint inhibitors (monoclonal antibodies).\\n- Anti-CTLA-4 drugs include ipilimumab and tremelimumab.\\n- Anti-PD-1 agents include nivolumab and pembrolizumab.\\n- Anti-BRAF drugs include dabrafenib and vemurafenib.\\n- Anti-MEK drugs include trametinib and binimetinib.\\n- Small molecule inhibitors typically end with \"-ib\" (e.g., imatinib, dabrafenib, trametinib).\\n- Monoclonal antibodies typically end with \"-mab\" (e.g., ipilimumab, pembrolizumab)."
+        },
+        {
+            "id": 25,
+            "question_type": "emq",
+            "question": "Anti-BRAF",
+            "options": [
+                "A. Pembrolizumab",
+                "B. Ipilimumab",
+                "C. Dabrafenib",
+                "D. Trametinib",
+                "E. Imatinib"
+            ],
+            "answer": "C",
+            "explanation": "- Newer drugs for advanced melanoma include selective inhibition of the MAP kinase pathway (targeting BRAF or MEK mutations) and checkpoint inhibitors (monoclonal antibodies).\\n- Anti-CTLA-4 drugs include ipilimumab and tremelimumab.\\n- Anti-PD-1 agents include nivolumab and pembrolizumab.\\n- Anti-BRAF drugs include dabrafenib and vemurafenib.\\n- Anti-MEK drugs include trametinib and binimetinib.\\n- Small molecule inhibitors typically end with \"-ib\" (e.g., imatinib, dabrafenib, trametinib).\\n- Monoclonal antibodies typically end with \"-mab\" (e.g., ipilimumab, pembrolizumab)."
+        },
+        {
+            "id": 26,
+            "question_type": "mcq",
+            "question": "The preoperative removal of hair from surgical sites",
+            "options": [
+                "A. is recommended by the Centers for Disease Control and Prevention.",
+                "B. does not reduce the incidence of surgical site infections.",
+                "C. has not been studied in prospective trials.",
+                "D. should be done by wet shaving 2 days before operation.",
+                "E. should not involve depilatory creams."
+            ],
+            "answer": "B",
+            "explanation": "- The impact of hair removal on surgical site infection (SSI) rates is unknown; some retrospective studies suggest increased rates of SSIs after hair removal.\\n- A recent controlled trial of over 1500 patients randomized to hair removal or no hair removal showed no difference in SSIs.\\n- The Centers for Disease Control and Prevention (CDC) recommend against hair removal unless it interferes with the operation, and if necessary, it should be done with electric clippers (not wet shaving) immediately before surgery.\\n- Wet shaving is generally not recommended.\\n- Some advisory bodies suggest earlier hair removal with depilatory creams."
+        },
+        {
+            "id": 27,
+            "question_type": "mcq",
+            "question": "A 67-year-old man presents with 3 days of worsening left lower quadrant pain. He has a known history of diverticulitis. He has insulin-dependent diabetes and a BMI of 34. On presentation, his white blood cell count is 13,500/mm3 (3600-11,200/mm3) and his temperature is 38.3°C. CT scan of the abdomen shows a 5-cm simple pericolonic abscess. A CT-guided percutaneous drain is appropriately placed. How long should broad-spectrum antibiotics be administered after source control?",
+            "options": [
+                "A. Antibiotics are not needed.",
+                "B. 24 hours",
+                "C. 4 days",
+                "D. 7 days",
+                "E. 14 days"
+            ],
+            "answer": "C",
+            "explanation": "- The STOP-IT trial, an open-label, randomized prospective trial, compared limited duration antibiotics for intra-abdominal infection with adequate source control to antibiotic continuance until resolution of systemic inflammatory response syndrome (SIRS) abnormalities.\\n- Patients randomized to the intervention arm received infectious source control followed by 4 days of appropriate antibiotic therapy or resolution of SIRS abnormalities.\\n- The STOP-IT trial showed no untoward adverse events, and no difference in recurrent infection, surgical site infection, or length of stay in the intervention arm.\\n- Neither diabetes nor obesity led to poorer outcomes in the intervention arm.\\n- Once source control is achieved, there is no proven benefit to antibiotic therapy beyond 4 days.\\n- This strategy limits the risk of resistance and complications of antibiotic use.\\n- Further study is needed to determine if antibiotic duration less than 4 days is appropriate."
+        },
+        {
+            "id": 28,
+            "question_type": "mcq",
+            "question": "A 68-year-old man presents for surgical consultation for sigmoid colon cancer. He has chronic obstructive pulmonary disorder and hypertension, and he is an American Society of Anesthesiologists class III risk. Which of the following statements is true regarding prehabilitation for this patient?",
+            "options": [
+                "A. There is a small increase in cardiac events.",
+                "B. Hospital length of stay is decreased.",
+                "C. Intensive care unit length of stay is decreased.",
+                "D. Inspiratory muscle training improves preoperative pulmonary function.",
+                "E. Inspiratory muscle training reduces intraoperative complications."
+            ],
+            "answer": "C",
+            "explanation": "- Interest in prehabilitation to reduce postoperative complications in the elderly is growing, but data are limited.\\n- Prehabilitation includes inspiratory muscle training, exercises focused on strengthening inspiratory muscles, and aerobic exercise.\\n- Current evidence suggests that postoperative complications are reduced with structured prehabilitation, but there is no effect on intraoperative complications.\\n- The effort for prehabilitation has not been shown to increase the risk of cardiac events.\\n- Intensive care unit length of stay is reduced, but not hospital length of stay.\\n- There are no measurable preoperative pulmonary assessments, so the specific benefit to prehabilitation is unknown."
+        },
+        {
+            "id": 29,
+            "question_type": "mcq",
+            "question": "A 67-year-old woman presents with clinical T2, NI, MO sigmoid colon cancer. She is scheduled for a laparoscopic sigmoid colectomy. She is placed into an enhanced recovery after surgery protocol. As part of this protocol, she is given 100 g of an oral carbohydrate load in 800 mL of liquid 2 hours before surgery. Preoperative oral carbohydrate loading will",
+            "options": [
+                "A. reduce the risk of infectious complications.",
+                "B. induce hyperglycemia.",
+                "C. enhance gastric emptying.",
+                "D. reduce insulin resistance.",
+                "E. stimulate feelings of hunger."
+            ],
+            "answer": "D",
+            "explanation": "- Enhanced recovery after surgery protocols include pre-, intra-, and postoperative care bundles to improve surgical outcomes.\\n- Oral carbohydrate loading is a component of the preoperative bundle.\\n- Traditional fasting before surgery leads to glycogen depletion, insulin resistance, and gluconeogenesis.\\n- The primary benefit of carbohydrate loading is a reduction in insulin resistance caused by the surgical procedure and postoperative starvation.\\n- Patients perceive benefits such as being less thirsty, hungry, or anxious.\\n- There is no reduction or increase in infection risk.\\n- Gastric emptying is not affected, and patients do not become hyperglycemic."
+        },
+        {
+            "id": 30,
+            "question_type": "mcq",
+            "question": "A 72-year-old woman presents with a cecal cancer found on screening colonoscopy. She takes clopidogrel for a previous stroke. What is the appropriate perioperative management of her anticoagulation in anticipation of a laparoscopic right hemicolectomy?",
+            "options": [
+                "A. Hold clopidogrel for 10 days preoperatively",
+                "B. Hold clopidogrel for 5 days preoperatively",
+                "C. Hold clopidogrel for 5 days and begin enoxaparin",
+                "D. Continue clopidogrel and administer platelets intraoperatively",
+                "E. Continue clopidogrel without interruption"
+            ],
+            "answer": "E",
+            "explanation": "- The manufacturer recommends holding clopidogrel for 5 days before major surgery, which aligns with its platelet half-life of 7 to 8 days.\\n- However, increasing data support the safe use of clopidogrel throughout the perioperative period.\\n- Elective vascular surgery is routinely performed on patients taking clopidogrel and aspirin.\\n- Two recent studies on clopidogrel use in elective and urgent general surgical procedures showed a slightly higher rate of transfusion but no higher risk of perioperative complications.\\n- One study showed a higher rate of cardiac complications in the group not on clopidogrel, challenging the standard practice.\\n- Continuance of clopidogrel through the perioperative period appears safe for most general surgical operations, including colectomy.\\n- Therefore, there is no need to hold clopidogrel preoperatively, and no need to administer platelets intraoperatively."
+        }
+    ]
+}

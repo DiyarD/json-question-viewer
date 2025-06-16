@@ -1,0 +1,355 @@
+{
+    "chapter_name": "Abdomin Part I",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "1. A 60-year-old man presents for evaluation of a small right inguinal hernia. The hernia is easily reducible and is not associated with untoward symptoms. It has not limited the patient's activities. The patient would like to pursue nonoperative management for now. What is the most likely indication for surgical management of the hernia in the future?",
+            "options": [
+                "A. Cosmesis",
+                "B. Impotence",
+                "C. Pain",
+                "D. Strangulation",
+                "E. Bowel incarceration"
+            ],
+            "answer": "C",
+            "explanation": "- Groin hernias in men are among the most common problems encountered by the general surgeon.\n- Asymptomatic male patients with an inguinal hernia can safely be offered nonoperative management (watchful waiting).\n- However, the majority will ultimately pursue surgical repair within 10 years, most often due to pain.\n- Delay in repair is not associated with an increase in operative complications.\n- The incidence of acute presentation for strangulation or bowel incarceration during the period of watchful waiting is very low."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. The most likely diagnosis is",
+            "options": [
+                "A. cirrhosis.",
+                "B. lymphoma.",
+                "C. sarcoidosis.",
+                "D. tuberculosis.",
+                "E. chronic pancreatitis."
+            ],
+            "answer": "B",
+            "explanation": "- Chylous ascites is uncommon.\n- Patients with nontraumatic chylous ascites generally present with increasing abdominal girth, weight gain, and occasionally dyspnea.\n- In the Western world, malignancy (most commonly lymphoma) and cirrhosis are the most common etiologies; infectious causes (tuberculosis and filariasis) predominate in developing countries.\n- Additional causes include blunt and penetrating trauma, surgical trauma, orthotopic liver transplantation, abdominal and pelvic radiation, sarcoidosis, idiopathic retroperitoneal fibrosis, acute/chronic pancreatitis, Whipple disease, and other intestinal malignancies.\n- Hypo- and hyperplastic congenital lymphatic abnormalities, malignancy, and nonaccidental trauma are causes of spontaneous chylous ascites in children.\n- The most likely etiology of chylous ascites in the case presented is lymphoma, supported by associated night sweats and abnormalities at the root of the mesentery on the CT scan.\n- Characteristically, \"milky\" fluid is observed by paracentesis, containing extremely high levels of triglycerides (usually >200 mg/dL) and albumin.\n- CT imaging is helpful in identifying abnormalities of lymph nodes and other abdominal or thoracic tumors.\n- Lymphangiography can identify lymphatic leakage, lymphatic fistulas, and abnormalities of the thoracic duct."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. Initial management of his ascites should include",
+            "options": [
+                "A. repeat paracentesis.",
+                "B. surgical exploration.",
+                "C. peritoneal-venous shunt",
+                "D. low-fat diet with medium-chain triglycerides.",
+                "E. somatostatin analogues and parenteral nutrition."
+            ],
+            "answer": "D",
+            "explanation": "- Management should be directed at the underlying etiology when possible.\n- Initial treatment includes dietary manipulation by substituting medium chain triglycerides for dietary fat.\n- The second line of nonsurgical therapy involves fasting and parenteral nutritional support with or without the use of a somatostatin analog.\n- Reports indicate these measures are effective in nearly all cases.\n- Repeated paracentesis is typically avoided due to the risk of infection and malnutrition, unless required to relieve respiratory distress.\n- Surgical exploration and ligation of damaged lymphatic channels are reserved for cases that fail conservative approaches.\n- Peritoneal venous shunts are not recommended, except in very selected cases, due to the morbidity associated with their use in chylous ascites.\n- When lipiodol is used with bipedal lymphangiography, the study may also be therapeutic, resulting in closure of lymphatic fistulae in cases refractory to other conservative treatment strategies."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. What endoscopic finding predicts the highest rebleeding rate in a patient who has a bleeding peptic ulcer?",
+            "options": [
+                "A. Clot",
+                "B. 2-cm ulcer",
+                "C. Visible vessel",
+                "D. Pigmented spot",
+                "E. Injection therapy required to stop bleeding"
+            ],
+            "answer": "C",
+            "explanation": "- Initial management of bleeding duodenal ulcers is endoscopic management and medical treatment with a proton pump inhibitor (PPI).\n- Predictors of rebleeding after endoscopic therapy include: ulcer size larger than 2 cm, hypotension, initial hemoglobin less than 10 mg/dL, fresh blood in the stomach, and active bleeding.\n- The greatest risk for recurrent bleeding, however, is a visible vessel.\n- The most consistent location of bleeding ulcers is in posterior duodenal bulb.\n- If patients rebleed after initial endoscopic treatment, repeat endoscopy with intervention should be attempted.\n- Angioembolization is often performed if repeat endoscopy fails.\n- Approximately 15% of patients fail angioembolization and require surgical intervention.\n- If surgery is performed, care must be taken to ligate the transverse pancreatic artery in addition to the gastroduodenal artery when oversewing the ulcer after anterior duodenotomy."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "5. A 45-year-old woman presents with a 6-hour history of crampy abdominal pain and the inability to pass flatus or have a bowel movement. Her medical history is significant only for a total abdominal hysterectomy. She is afebrile. Her abdomen is distended and tympanitic, but she does not have peritoneal signs. She has a normal white blood cell count. What treatment modality will decrease her hospital length of stay?",
+            "options": [
+                "A. Nasogastric tube decompression",
+                "B. Correction of electrolytes",
+                "C. Intravenous fluids",
+                "D. Gastrografin challenge",
+                "E. Nothing by mouth"
+            ],
+            "answer": "D",
+            "explanation": "- The treatment of adhesive partial small bowel obstruction in patients who do not undergo immediate operative intervention includes nasogastric tube (NGT) decompression, correction of electrolytes, intravenous fluids, and nothing by mouth.\n- Compared with standard nonoperative treatment alone, the addition of the Gastrografin challenge results in decreased hospital length of stay and delineates the need for operative intervention.\n- Gastrografin may be diagnostic and therapeutic due to its osmotic effects.\n- A 100 mL dose of Gastrografin is given with 50 mL of saline via NGT in a patient who is not vomiting after evacuation of gastric contents.\n- An abdominal radiograph is obtained 8 hours later.\n- If contrast has reached the cecum or the patient has bowel movements, the test is considered successful, the NGT is removed, and clear liquids are started.\n- Surgical intervention is strongly considered if contrast has not reached the colon at 8 hours after administration of Gastrografin."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. A 55-year-old man with acute cholecystitis is taken to the operating room for laparoscopic cholecystectomy. The surgeon performs a dissection to attain the critical view of safety. Which of the following images demonstrates the critical view of safety?",
+            "options": [
+                "A. Figure 6.1",
+                "B. Figure 6.2",
+                "C. Figure 6.3",
+                "D. Figure 6.4",
+                "E. Figure 6.5"
+            ],
+            "answer": "E",
+            "explanation": "- The introduction of laparoscopic cholecystectomy revolutionized general surgery, but its adoption was associated with an increase in common bile duct injuries compared with open cholecystectomy, due to lack of depth perception and decreased tactile feedback.\n- To address this, Steven Strasberg and Nathaniel Soper proposed the Critical View of Safety technique, which has 3 key components:\n    - Complete clearing of the hepatocystic triangle of all fat and fibrous material.\n    - Separation of the lower part of the gallbladder from the cystic plate.\n    - Identification of 2 and only 2 structures (cystic duct and cystic artery) remaining attached to the gallbladder.\n- The Critical View of Safety should be confirmed intraoperatively by demonstrating these 3 elements before clipping and dividing the cystic artery and duct.\n- If the Critical View of Safety cannot be attained during a laparoscopic cholecystectomy, the surgeon should proceed with other \"bail out\" options, such as open conversion or subtotal fenestrating cholecystectomy.\n- In the image that shows the correct answer (Figure 6.5), all 3 elements of the critical view of safety are present.\n- In the remaining images, dissection is incomplete, and the images do not demonstrate all 3 elements of the critical view of safety."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "7. A 36-year-old woman presents with increasing abdominal fullness, dull right- sided pain, and early satiety after completing a 3-month hiking tour of Central and South America. Ultrasonography reveals the presence of a 10-cm cystic lesion on the left side of the liver with irregular walls and internal septations forming loculi. CT scan demonstrates the 10-cm cystic lesion in sections HI and IVa with evidence of irregular papillary growths, thickened cyst walls, internal septations, and no calcifications. MRI reveals heterogenous signal intensity, with a hyperintense signal on T2-weighted images and no daughter cysts. What is the most appropriate management of this lesion?",
+            "options": [
+                "A. Oral antimicrobial",
+                "B. Aspiration",
+                "C. Surgical unroofing",
+                "D. Surgical enucleation",
+                "E. Anatomic resection"
+            ],
+            "answer": "D",
+            "explanation": "- This patient has a biliary cystadenoma.\n- Biliary cystadenomas constitute up to 5% of all hepatic cysts and 10% of cysts larger than 4 cm.\n- Symptoms are typically related to size and include anorexia, early satiety, and abdominal discomfort.\n- Imaging demonstrates heterogeneous septations within the cyst, irregular papillary growths, and thickened cyst walls.\n- The cysts typically show hyperintensity on MRI T2 weighting.\n- Biliary cystadenomas are premalignant lesions that can progress to biliary cystadenocarcinoma.\n- As such, they require surgical removal, either via resection with clear margins or enucleation at the level of the pseudocapsule. Anatomic resection is not required.\n- Hepatic cystic disease is present in up to 5% of the population and includes congenital (simple liver cysts, polycystic liver disease - PCLD) and acquired pathologies (infectious, neoplastic).\n- Simple cysts appear thin walled without internal septations; treatment is via aspiration/sclerosis or surgical unroofing for symptomatic cysts.\n- PCLD has 3 variants; treatment varies by type (aspiration/sclerosis, unroofing, resection, or transplantation).\n- Hydatid cysts arise from parasitic infection (Echinococcus granulosis); symptoms include fever, malaise, right upper quadrant pain; CT/MRI reveal thick-walled, calcified cysts with daughter cells; diagnosis by serologic testing; treatment includes open surgical pericystectomy or PAIR technique with antihelminthic drugs. Imaging findings in case are not consistent with echinococcal disease.\n- Pyogenic liver and amebic abscesses are other infectious etiologies. Pyogenic abscesses are bacterial, may have air-fluid levels, treated with antibiotics and aspiration. Amebic abscesses (Entamoeba histolytica) are treated with metronidazole, identified by serologic testing."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "8. Narrowing of the aortomesenteric angle",
+            "options": [
+                "A. Superior mesenteric artery syndrome",
+                "B. Annular pancreas",
+                "C. Pyloric stenosis",
+                "D. Duodenal web",
+                "E. Duodenal atresia"
+            ],
+            "answer": "A",
+            "explanation": "- Obstruction of the upper gastrointestinal tract can result from congenital anomalies or acquired conditions.\n- Superior mesenteric artery (SMA) syndrome is an acquired condition typically seen after significant rapid weight loss or surgery (e.g., scoliosis).\n- The main anatomic feature is the narrowing of the angle between the aorta and the SMA from its normal 38-65° to less than 25°.\n- This narrowing results in compression of the third part of the duodenum as it crosses between the aorta and the SMA.\n- Affected patients typically present with nausea, vomiting, weight loss, and epigastric pain.\n- Diagnosis can be made with fine slice CT imaging of the abdominal aorta and its branches, demonstrating an aorto-superior mesenteric artery angle of less than 25°.\n- Initial treatment focuses on correction of electrolyte abnormalities and careful refeeding.\n- Once the patient's nutritional status is restored, performance of a duodenojejunostomy can provide significant symptomatic relief and help restore a durable nutritional state."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "9. Palpable \"olive\" in the right upper quadrant",
+            "options": [
+                "A. Superior mesenteric artery syndrome",
+                "B. Annular pancreas",
+                "C. Pyloric stenosis",
+                "D. Duodenal web",
+                "E. Duodenal atresia"
+            ],
+            "answer": "C",
+            "explanation": "- Pyloric stenosis most commonly presents between 2 and 12 weeks of age.\n- Affected infants often present with frequent, progressive, nonbilious vomiting, typically shortly after feeding.\n- On inspection of the abdomen, peristaltic waves may be visible, progressing from the left upper quadrant across to the right.\n- On palpation of the epigastrium, a palpable \"olive\" can often be detected, corresponding to the hypertrophied pylorus.\n- Frequent vomiting leads to dehydration and electrolyte abnormalities, typically a hypokalemic, hypochloremic metabolic alkalosis.\n- After correction of the volume and electrolyte abnormalities, surgical intervention is indicated.\n- Extramucosal longitudinal pyloromyotomy reliably relieves the pyloric stenosis and gastric outlet obstruction.\n- Both short-term and long-term outcomes are excellent after surgery for pyloric stenosis."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "10. Windsock deformity",
+            "options": [
+                "A. Superior mesenteric artery syndrome",
+                "B. Annular pancreas",
+                "C. Pyloric stenosis",
+                "D. Duodenal web",
+                "E. Duodenal atresia"
+            ],
+            "answer": "D",
+            "explanation": "- A duodenal web occurs as a result of the incomplete recanalization of the duodenum during the eighth through tenth weeks of gestation.\n- This results in the presence of a persistent membranous structure within the lumen of the duodenum that has the appearance of a windsock (opening 3 to 5 mm in diameter).\n- Affected patients may present in childhood with abdominal distention and vomiting, or remain asymptomatic until adulthood with epigastric pain exacerbated by eating and relieved by vomiting.\n- Diagnosis: upper gastrointestinal barium examination demonstrating barium retention at the web site and mimicking a duodenal diverticulum.\n- The preferred surgical option for the treatment of a duodenal web is duodenotomy with excision of the web.\n- Complete failure of recanalization of the duodenum after the seventh week of gestation, either as a result of an ischemic insult or genetic factors, results in duodenal atresia.\n- Diagnosis of duodenal atresia is often made on prenatal ultrasound demonstrating polyhydramnios.\n- Postnatal presentation is characterized by persistent bilious emesis, gastric distension, and poor feeding.\n- The classic finding on a plain radiograph of the abdomen is a \"double bubble\" sign due to distension of the smaller proximal duodenum and larger stomach and the absence of gas in the bowel distal to the duodenum.\n- Due to the high potential for aspiration, contrast studies of the upper gastrointestinal tract should not be performed.\n- A nasogastric or orogastric tube should be placed to decompress the stomach and proximal duodenum.\n- Once the infant is clinically stabilized, a duodenoduodenostomy or duodenojejunostomy should be performed.\n- With proper surgical correction, the long-term prognosis for duodenal atresia is quite good, provided that no other significant congenital anomalies are present.\n- Annular pancreas is a congenital condition resulting from the tethering of the ventral pancreatic bud to the duodenum, leading to a ring of pancreatic tissue encircling the duodenum.\n- Annular pancreas is diagnosed with nearly equal frequency in children and adults; children typically present within the first 2 days of life with duodenal or gastric outlet obstruction.\n- Symptoms in affected children include vomiting, bloating, and food intolerance. Duodenal bypass is very effective at relieving the duodenal obstruction related to annular pancreas in children.\n- Initial presentation of annular pancreas in adults is symptomatic upper abdominal pain; adults have a lower incidence of duodenal obstruction and a much higher incidence of complex pancreaticobiliary pathology.\n- Diagnosis in adults is most commonly made by endoscopic retrograde cholangiopancreatography and CT scan of the abdomen.\n- Surgical treatment of annular pancreas in adults requires a broader array of potential options, including cholecystectomy, duodenal bypass, or pancreatic procedures."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "11. A 55-year-old woman is admitted to the hospital with fevers and right upper quadrant pain. She recently moved to the area after living her entire life in India. Imaging is obtained (figure 11.1). Which of the following should the next step include?",
+            "options": [
+                "A. Percutaneous aspiration with Gram stain",
+                "B. Indirect hemagglutination testing",
+                "C. Needle biopsy",
+                "D. Endoscopic retrograde cholangiopancreatography",
+                "E. PET scan"
+            ],
+            "answer": "B",
+            "explanation": "- In the Western world, the most prevalent hepatic abscesses are bacterial (pyogenic), with mortality approaching 15%.\n- By contrast, in South-East Asia and Africa, amebic infections are the most frequent source.\n- The diagnosis of pyogenic hepatic abscesses depends on imaging (ultrasound or CT scan), with confirmation by needle aspiration for bacteriology studies.\n- Sonography and CT scans lead to diagnosis in more than 90% of cases and can often pinpoint the etiology.\n- The sensitivity of triphasic enhanced multislice CT scan is superior to that of sonography.\n- There is no role for PET scan in the diagnosis of hepatic abscesses.\n- The World Health Organization estimates that Entamoeba histolytica is responsible for 50 million infections and 100,000 deaths per year worldwide.\n- Amebic hepatic abscesses are the most frequent extraintestinal complication of E. histolytica infection, affecting less than 10% of patients with the disease.\n- Amebic hepatic abscesses must always be considered when the patient has lived or traveled in endemic areas, as intestinal infection often passes unnoticed.\n- Classic amebic hepatic abscesses present with hepatomegaly and fever.\n- The diagnosis of E. histolytica depends on identification of specific antibodies in the serum via serologic tests: indirect hemagglutination, enzyme-linked immunosorbent assay, indirect immunofluorescence, and the latex agglutination technique.\n- Combining 2 different techniques increases sensitivity and specificity to nearly 100%.\n- Serology allows confirmation of diagnosis, and needle aspiration should not be performed.\n- Metronidazole is the standard treatment.\n- Percutaneous drainage should be performed if the abscess is large (>10 cm diameter), subcapsular, in prerupture status, or superinfected, or if there is resistance to medical treatment.\n- There is no role for endoscopic retrograde cholangiopancreatography in the diagnosis or treatment of amoebic hepatic abscesses, because this can lead to cholangitis and clinical decompensation."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "12. A 53-year-old woman presents with vague abdominal pain. A CT scan shows a 3.5-cm cyst in the head of the pancreas that contains some solid component with thickening in the wall (figure 12.1). There is no pancreatic duct dilation. The rest of the scan is unremarkable. The patient's abdomen is nontender without masses, and she is anicteric. What is the next step for this patient?",
+            "options": [
+                "A. Core needle biopsy of the cyst wall",
+                "B. CT scan in 1 year",
+                "C. Fine needle aspiration cytology of the cyst",
+                "D. Pancreaticoduodenectomy",
+                "E. Cyst enucleation"
+            ],
+            "answer": "C",
+            "explanation": "- Pancreatic cysts are extremely common.\n- The Sendai guidelines (2006) and Fukuoka guidelines (2012) were advanced to better determine which cysts might harbor neoplasia or dysplasia.\n- The American Gastroenterological Association (AGA) published its guidelines (2015) for the management of asymptomatic pancreatic cysts.\n- Both sets of guidelines had the goal of improving specificity for malignancy detection, while raising the threshold for surgery and shifting the paradigm toward a more nonoperative approach.\n- A recent study found that Fukuoka and AGA guidelines produced similar surgical outcomes, with fair positive predictive value for advanced neoplasia, but missing cases of invasive cancer and high-grade dysplasia.\n- Both guidelines recommend surgery for worrisome cytology or a dilated pancreatic duct in the presence of a solid component in the cyst. The Fukuoka guidelines add jaundice to these \"high-risk\" criteria.\n- The patient presented has none of these features, and therefore neither of the operations listed is indicated.\n- Both sets of guidelines list \"worrisome\" features for which further workup is indicated: dilated pancreatic duct without solid cyst component, solid cyst component without duct dilation, and a cyst larger than 3 cm.\n- The Fukuoka guidelines add a history of pancreatitis and a thickened enhancing cyst wall.\n- Per the AGA recommendations, patients having 2 worrisome features (as presented: cyst >3cm and solid component with thickened wall) should have further workup with endoscopic ultrasound with fine needle aspiration for cyst cytology.\n- Core needle biopsy of the cyst wall is not necessary because the diagnostic goal is to sample the cyst contents.\n- Per AGA guidelines, patients without worrisome features should undergo repeat imaging in 1 year, with MRI preferred over CT scan.\n- Without a diagnosis, cyst enucleation or pancreaticoduodenectomy is not appropriate."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "13. A 48-year-old Asian woman presents with postprandial right upper quadrant pain and jaundice. Liver function tests are normal. An ultrasound study demonstrates multiple gallstones and a fusiform dilation of the extrahepatic biliary tree with normal intrahepatic ducts. Which diagnostic test would be the next most appropriate to clarify the biliary anatomy?",
+            "options": [
+                "A. CT scan",
+                "B. Hepatobiliary iminodiacetic acid scan",
+                "C. Magnetic resonance cholangiopancreatography",
+                "D. Endoscopic retrograde cholangiopancreatography",
+                "E. Duodenal aspirate for malignant cells"
+            ],
+            "answer": "C",
+            "explanation": "- Cysts of the biliary tree, called choledochal cysts, are rare, occurring more commonly in people of Asian descent and 3 to 8 times more common in women than in men.\n- The Todani classification system is based on cyst location and includes 5 types.\n- Challenges to the Todani classification system include that gallbladder diverticulum, choledochoceles, and Caroli disease are not related to other forms of choledochal cysts.\n- Malignancy is most commonly associated with type I and IV cysts, whereas type II, III, and V choledochal cysts have minimal neoplastic risk.\n- Choledochal cysts present differently in adults and children: children present with an abdominal mass and jaundice; adults present with biliary or pancreatic symptoms and symptomatic cholelithiasis (40-70%).\n- Malignancy occurs in 10-30% of adults with a choledochal cyst. Early surgical correction is recommended given the risk of malignancy.\n- Most choledochal cysts are diagnosed by imaging because presenting symptoms are often nonspecific.\n- Endoscopic retrograde cholangiopancreatography (ERCP) is often not useful in diagnosing a suspected choledochal cyst (difficult to fill dilated biliary tree) and is more invasive than magnetic resonance cholangiopancreatography (MRCP).\n- MRCP helps create a complete cholangiogram and has become the noninvasive procedure of choice for the diagnosis of choledochal cysts.\n- Many surgeons now consider MRCP the only imaging technique needed for diagnosis and operative planning.\n- Routine liver scans are not useful when trying to image the biliary tree.\n- Duodenal aspirates are used to diagnose cholelithiasis when other diagnostic evaluations fail to identify a reason for continued abdominal pain."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "14. A 60-year-old man who underwent an urgent sigmoidectomy for diverticulitis 10 years ago now presents with an 8-cm ventral wall hernia. The sigmoidectomy was complicated by a wound infection. He has a BMI of 37 and hypertension controlled by one medication. He has never been a smoker. You are planning an open repair and are considering the use of mesh. Which of the following statements is true?",
+            "options": [
+                "A. A history of infection is a contraindication for mesh.",
+                "B. A complex hernia requires mesh repair.",
+                "C. Biologic mesh has a lower infection rate than permanent mesh.",
+                "D. Cross-linked mesh is preferred.",
+                "E. Non-cross-linked mesh will have the lowest recurrence rate."
+            ],
+            "answer": "B",
+            "explanation": "- The definition of a complex abdominal wall hernia is varied but depends on both hernia factors and patient factors (Figure 14.1 lists factors such as BMI > 35, smoking, diabetes mellitus, steroid use, congestive heart failure, chronic obstructive pulmonary disease, intraoperative enterotomy or bowel resection, urgent procedure for incarceration or obstruction, hernias from damage control laparotomies with sequential closing, hernias with contaminated wounds from ostomies, fistulas, or prior surgical site infections, recurrent hernias, and prolonged operative time).\n- Complex hernias deserve mesh placement to help prevent recurrence.\n- This patient has a complex hernia because of the previous wound infection, which increases the rate of primary hernia occurrence and recurrence after repair.\n- History of infection does not preclude the use of mesh in this operation.\n- This patient has several other risk factors for hernia repair failure, including a BMI greater than 35 and hypertension.\n- Use of mesh as a bridge between fascial edges should be avoided due to its high recurrence rate.\n- A retrorectus placement of mesh is favored, but onlay and underlay mesh placement can also be used.\n- For larger hernias, retrorectus placement will require a fascial release such as a transverse abdominis rectus fascia or a component separation.\n- The use of biologic or permanent mesh depends on the contamination of the field.\n- It is believed, but not proven, that a biologic mesh has risk of infection but a higher risk of recurrence. Permanent meshes have opposite concerns; neither is ideal.\n- The Ventral Hernia Working Group grade helps determine the risk of infection and recurrence for hernia repairs.\n- In general, surgeons place biologic mesh in fields where there is a high risk of contamination and place permanent mesh in low- to moderate-risk situations.\n- In patients with a high risk due to patient factors (tobacco, obesity, type 2 diabetes), biologic mesh is often used.\n- Cross-linking is an attribute used to describe biologic meshes; it appears to increase durability, tensile strength, and resistance to bacterial contamination. There is no evidence, though, that cross-linking or non-cross-linking is superior to the other.\n- Ultimately, patient factors and hernia factors determine the likelihood of recurrence or complication.\n- The risk of infection (from the hernia or the patient) will determine if biologic or permanent mesh is to be used. Balancing the risk of infection versus recurrence will guide the surgeon toward permanent versus biologic mesh in this case."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "15. A 20-year-old diabetic woman with a BMI of 45 presents with episodic epigastric and right upper quadrant pain. The episodes of pain last 30 to 40 minutes. She has visited the emergency department twice for evaluation. She denies nausea and vomiting. Her right upper quadrant ultrasound is normal, and her cholecystokinin-iminodiacetic acid ejection fraction is 35%. According to the Rome III criteria, which one of the following characteristics is necessary to establish the diagnosis of biliary dyskinesia?",
+            "options": [
+                "A. Young age",
+                "B. Female sex",
+                "C. Diabetes",
+                "D. Obesity",
+                "E. Episode duration"
+            ],
+            "answer": "E",
+            "explanation": "- Rome III criteria define functional gallbladder and sphincter of Oddi disorders (Table 15.1).\n- Although the exact ejection fraction criterion may vary from institution to institution, 35 to 40% is common.\n- To be defined as biliary dyskinesia, the patient must have episodes:\n    - Lasting at least 30 minutes.\n    - Occurring at different intervals.\n    - Crescendo pain that is not relieved by bowel movements, postural change, or antacids.\n- Strict adherence to the Rome III criteria may be valuable in determining indications for surgery with functional gallbladder disorders."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "16. A 60-year-old man with diabetes and chronic obstructive pulmonary disease is evaluated for a ventral incisional hernia repair. His BMI is 40. He has a midline hernia measuring 50 cm long and 25 cm wide. What factor poses the greatest risk for hernia recurrence after repair in this patient?",
+            "options": [
+                "A. Hernia length",
+                "B. Hernia width",
+                "C. Diabetes",
+                "D. Obesity",
+                "E. Chronic obstructive pulmonary disease"
+            ],
+            "answer": "B",
+            "explanation": "- When patients present for repair of ventral incisional hernias, they should be counseled with respect to expected outcomes.\n- Patient comorbidities, the presence or absence of contamination, and hernia dimensions should all be considered.\n- Hernia width and contamination are the 2 most significant factors for recurrence.\n- Hernia length, hernia location (midline versus lateral), and significant comorbidities (e.g., obesity, chronic obstructive pulmonary disease, diabetes, or smoking within 3 months of the operation) are not as important for predicting recurrence."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "17. A 22-year-old, otherwise healthy woman presents with a 2-day history of vague abdominal discomfort and nausea. Within the past 12 hours, the discomfort has progressed to lower abdominal pain. Physical examination demonstrates localized suprapubic and right lower quadrant tenderness. Her white blood cell count is 17,000/mm3 (3600-11,200/mm3) with a left shift Complete blood count and serum chemistries are otherwise unremarkable. Urinalysis is normal Urine pregnancy test is negative. CT imaging is being considered. Which contrast should be given before scanning to optimize diagnostic accuracy, patient comfort, and efficiency?",
+            "options": [
+                "A. Oral",
+                "B. Intravenous",
+                "C. Oral and rectal",
+                "D. Intravenous and oral",
+                "E. Intravenous, oral, and rectal"
+            ],
+            "answer": "B",
+            "explanation": "- Acute appendicitis is a familiar disease for the general surgeon, and it is the most common indication for urgent intra-abdominal surgery.\n- The inclusion of diagnostic imaging (CT scans and ultrasound) has reduced the frequency of negative appendectomies without increasing appendiceal perforation.\n- CT imaging technology has evolved to allow more precise interpretation.\n- Recently, intravenous-only versus intravenous plus enteral (oral or rectal) contrast CT scans were compared for the assessment of acute appendicitis.\n- In patients being considered for appendectomy, enteral contrast does not improve accuracy of diagnosis compared with intravenous contrast alone.\n- The elimination of enteral contrast may improve efficiency, patient comfort, and safety.\n- Using only intravenous contrast may decrease time spent in the emergency department, which in turn translates into cost savings and improvement in the use of emergency medicine resources.\n- Although the risks of enteral contrast are minimal, intolerance or \"allergy\" to enteral contrast is possible, and there is always a risk of inadvertent administration of the wrong agent.\n- Consumption of a large volume of oral contrast soon before induction of general anesthesia is not without risk of aspiration.\n- Rectal catheterization for administration of rectal contrast can cause discomfort in patients who already have abdominal pain.\n- Its use does not improve the accuracy of the CT scan for appendicitis."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "18. A 54-year-old man presents with abdominal pain, elevated serum lipase, and a CT scan consistent with acute necrotizing pancreatitis. Which of the following statements regarding the management of necrotizing pancreatitis is true?",
+            "options": [
+                "A. Immediate surgery is an independent predictor of poor outcomes.",
+                "B. Management via the open-abdomen approach is preferred.",
+                "C. Anatomic resection and necrosectomy are associated with similar rates of postoperative exocrine and endocrine insufficiency.",
+                "D. Percutaneous management cannot replace surgery.",
+                "E. The step-up approach is associated with more delay-related complications."
+            ],
+            "answer": "A",
+            "explanation": "- The management of necrotizing pancreatitis has undergone a dramatic change over the last several decades.\n- Management by open abdomen is now considered the last in a series of escalations within the \"step-up approach.\"\n- In many cases, percutaneous management has replaced surgery.\n- Even when surgery is necessary, it can be limited to a retroperitoneal endoscopic approach.\n- Anatomic resections, such as partial or total pancreatectomy, are associated with higher exocrine and endocrine insufficiency rates and mortality than necrosectomy.\n- A minimally invasive step-up approach is associated with fewer major complications and deaths."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "19. The pictured lesion (figure 19.1) is discovered incidentally at laparotomy in a 35-year-old man after a motorcycle crash. There is a small palpable mass where the diverticulum interfaces with the bowel. The most acceptable management would be",
+            "options": [
+                "A. suture inversion.",
+                "B. segmental resection and anastomosis.",
+                "C. to leave it in situ.",
+                "D. diverticulectomy.",
+                "E. ileocecectomy."
+            ],
+            "answer": "B",
+            "explanation": "- Meckel diverticulum is the most common congenital malformation of the gastrointestinal tract and is found in approximately 2% of the general population.\n- Inversion of a Meckel diverticulum leaves the patient with the risk of malignancy (up to 17%) and a lead point for an intussusception.\n- Leaving it in situ leaves the patient with all of the attendant risks of hemorrhage, obstruction, intussusception, diverticulitis, and perforation.\n- Simple diverticulectomy is an acceptable treatment if there is no inflammation or palpable abnormality.\n- Given any inflammation, perforation, or palpable abnormality, segmental resection is the preferred treatment.\n- Ileocecectomy is unnecessary."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "20. Which of the following statements is true regarding port-site recurrence in incidentally found gallbladder carcinoma?",
+            "options": [
+                "A. If an extraction bag is used, the chance of port-site recurrence is zero.",
+                "B. Less than 1% of port-site metastases occur at a nonextraction port.",
+                "C. If the gallbladder is removed intact without spillage, port-site recurrence is rare.",
+                "D. Port-site metastases remain high relative to colon cancer.",
+                "E. Prophylactic port-site excision is associated with decreased port-site metastasis."
+            ],
+            "answer": "D",
+            "explanation": "- Despite the use of extraction bags, port-site metastases still occur.\n- Approximately 50% of port-site metastases occur at nonextraction ports.\n- Although it is intuitive that the gallbladder is best removed intact without spillage, there is no good evidence to support that this practice decreases port-site metastasis.\n- Likewise, there is no good evidence that prophylactic port-site excision decreases port-site metastases.\n- Port-site metastasis in gallbladder cancer occurs in approximately 10% of cases.\n- A randomized trial of open versus laparoscopic surgery for colon cancer revealed a less than 1% wound recurrence in both arms after 4.4 years."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "21. Ten days after undergoing a Roux-en-Y gastric bypass, a 42-year-old man is unable to tolerate oral intake. He states that he has crampy abdominal pain and diarrhea within minutes of eating. The accompanying nausea and palpitations improve with lying down. He appears volume depleted, and his hemodynamics respond to intravenous fluids. An upper gastrointestinal study shows normal Roux-en-Y anatomy and no evidence of obstruction. Which of the following would you advise?",
+            "options": [
+                "A. Laparotomy",
+                "B. Separation of liquids and solids at meals",
+                "C. Upper endoscopy",
+                "D. 6 small meals a day",
+                "E. Octreotide"
+            ],
+            "answer": "B",
+            "explanation": "- This patient is demonstrating classic symptoms of an early dumping syndrome.\n- Having ruled out an early postoperative bowel obstruction, management of symptoms becomes the primary focus.\n- Early dumping syndrome occurs within 1 hour after eating.\n- Fluid shifts with release of gastrointestinal hormones are triggered by the rapid transit of food into the small intestine, resulting in diarrhea and vasomotor symptoms.\n- This is distinct from late dumping, which occurs 1 to 3 hours after a carbohydrate load and causes a hyperinsulinemic response and subsequent hypoglycemia.\n- Both forms of dumping syndrome are frequent sequelae of gastric bypass, but are not believed to be the primary cause of bariatric weight loss.\n- Dietary education and modification is usually a beneficial first step.\n- Patients should be advised to reduce the amount of food consumed and delay fluid intake until at least 30 minutes after each meal.\n- Rapidly absorbed carbohydrates should be eliminated and replaced with high-fiber, protein-rich foods.\n- Fruits and vegetables are encouraged, and alcohol is discouraged.\n- Patients should be advised to eat slowly and to lie down for 30 minutes after meals.\n- Although not currently approved for the management of dumping, the addition of a somatostatin analogue is an effective treatment option for patients who have failed dietary modification.\n- Octreotide effectively slows gastric emptying and improves hypoglycemia, thus affecting both early and late dumping symptoms. However, diarrhea, nausea, steatorrhea, and gallstone formation may limit its prolonged use."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "22. A 44-year-old woman was involved in a minor motor vehicle collision. A CT scan of her abdomen was obtained as part of her initial assessment (figure 22.1). She has no abdominal symptoms, no history of jaundice, physical exam within normal limits, and transaminases and bilirubin within normal limits. The next step in the treatment of this patient should be",
+            "options": [
+                "A. observation.",
+                "B. repeat imaging in 1 year.",
+                "C. multidisciplinary evaluation.",
+                "D. percutaneous aspiration.",
+                "E. hepatic lobectomy."
+            ],
+            "answer": "C",
+            "explanation": "- This patient presents with a CT scan that shows a single cystic lesion of the liver (Figure 22.2).\n- Cystic lesions can be classified as follows: Simple (solitary) cyst, Polycystic disease, Parasitic (echinococcal) cyst, Primary neoplastic (Mucinous cystic neoplasm (MCN), Cystadenocarcinoma), Metastatic neoplasm (ovary, pancreas, colon, kidney), Duct based (bile duct duplication, Caroli disease), False cysts (trauma, infection, intrahepatic biloma).\n- The key features on this CT scan are an isolated cystic lesion of the liver.\n- The differential diagnosis for this type of cyst is a simple hepatic cyst, MCN, or metastatic neoplasm.\n- Metastatic neoplasm uncommonly presents with an isolated cystic lesion; on CT Scan, the primary tumor can usually be identified if it involves the pancreas, ovary, or kidney.\n- If colon cancer is the primary, further evaluation with colonoscopy is indicated.\n- The main differential diagnosis is between a simple hepatic cyst and MCN; this is a difficult but important diagnosis to make because the treatment is unique for each diagnosis.\n- History and physical exam are not helpful because both can be asymptomatic or present with vague upper abdominal fullness and pain.\n- Laboratory analysis is also not helpful because most present with normal transaminases and bilirubin; there may be an elevation of alkaline phosphatase.\n- Ultrasound is good at identifying the lesion and subsequent follow-up but will not allow for differentiation of the 2 etiologies.\n- On CT scan, simple cysts will have a thin wall and no internal septations.\n- MCN can also present this way, but typically has a thicker wall and septations.\n- Treatment of a simple cyst involves unroofing of the cyst, which can be accomplished laparoscopically with minimal risk of recurrence and complication.\n- MCN requires resection of the cyst in its entirety due to the risk of malignant transformation of the cyst wall.\n- In this patient, the best course of evaluation is via a multidisciplinary team (MDT) composed of surgeons, hepatologists, oncologists, radiologists, and pathologists.\n- An advantage of an MDT is that the team does not isolate one aspect of the disease process, but instead examines findings in relationship with the complete clinical context.\n- Observation, repeat imaging, or hepatic lobectomy may be the outcome of MDT evaluation but would not be decided by one provider.\n- Percutaneous aspiration is not used for simple cysts due to complications associated with its use; it is reserved for patients who cannot tolerate a surgical procedure."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "23. A 36-year-old woman underwent retrorectus prosthetic mesh repair of an incisional hernia 9 months ago. She presents with a small area of drainage with associated symptoms of fever and fatigue. On exam, her temperature is 38.2°C, and purulence can be expressed from the wound. This fluid is sent for culture. Her white blood cell count is 19,000/mm3 (3600-11,200/mm3). A CT scan is shown in figure 23.1. She is given a course of antibiotics with no change in her drainage. In addition to antibiotics, what is the most appropriate management of this patient?",
+            "options": [
+                "A. Open the wound and pack",
+                "B. Open the wound and apply negative pressure wound therapy",
+                "C. Place a percutaneous drain",
+                "D. Explore the wound with removal of infected mesh and wound closure",
+                "E. Explore the wound, debride the infected tissue, and remove all infected mesh"
+            ],
+            "answer": "E",
+            "explanation": "- Wound infections can be superficial or deep and can be associated with foreign material in the wound (Figure 23.2).\n- In patients with superficial infections without foreign material, the wound should be opened and treated either with dressing changes or packing.\n- Negative pressure wound therapy would not be appropriate in the face of acute infection.\n- Antibiotics are not indicated unless the patient has cellulitis or systemic signs such as fever or an elevated white blood cell count.\n- Patients with deep wound infections without foreign material present are candidates for percutaneous drainage; antibiotics are initiated based on culture results.\n- Wound infection in the face of foreign material is treated differently.\n- The surgeon must eliminate not only the infected tissue but also the infected foreign material.\n- Foreign material includes permanent suture or prosthetic mesh.\n- After debriding a wound and mesh, the wound is not typically closed.\n- Thus, the treatment for this patient with a mesh infection and systemic signs is to explore the wound, debride the infected tissue, and remove all infected mesh.\n- Well-incorporated mesh often does not require removal."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "24. After a routine chest x-ray, a 74-year-old woman is found to have a type III paraesophageal hernia (PEH). She has no history of abdominal pain or reflux symptoms. Which of the following statements is true regarding the management of her PEH?",
+            "options": [
+                "A. A watchful waiting approach can be taken.",
+                "B. Mediastinal sac excision is unnecessary.",
+                "C. A mesh repair is not associated with long-term complications.",
+                "D. Fundoplication is not necessary when the hiatus is closed.",
+                "E. Thoracic and laparoscopic approaches have similar complication rates."
+            ],
+            "answer": "A",
+            "explanation": "- Hiatal hernias are characterized as types I through IV.\n- For type I (sliding hernias), surgery is indicated only when reflux symptoms occur.\n- Types II and III (paraesophageal hernias - PEH) have a component of the stomach located above the diaphragm.\n- Type IV includes herniation of additional organs located above the diaphragm.\n- Traditionally, surgery was indicated for asymptomatic PEH because of the risk of acute incarceration.\n- However, a study of the national inpatient sample showed the annual probability of the need for emergency surgery was similar to the mortality risk for elective surgery, at about 1.5%.\n- Further, the risk of mortality with emergency surgery was lower than expected, at just more than 5%.\n- Therefore, today, watchful waiting in asymptomatic PEHs is appropriate. Controversy continues regarding the management when surgery is indicated.\n- When comparing the laparoscopic approach to thoracic approach, the thoracic approach has an increased length of stay, higher risk of pulmonary embolism, and greater need for mechanical ventilation.\n- Complete excision of the mediastinal hernia sac and fundoplication are associated with a lower risk of recurrence.\n- Mesh repair is associated with a lower risk of recurrence but is also associated with long-term complications, including esophageal stenosis, mesh erosion, and infection.\n- Therefore, current strategies include watchful waiting and surgery when symptoms dictate the need.\n- Surgical strategy includes excision of the sac, primary closure of the crural defect, and fundoplication without routine use of mesh."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "25. A 35-year-old woman presents with acute pancreatitis. She is hemodynamically normal. Which of the following statements regarding enteral nutritional support is true?",
+            "options": [
+                "A. Enteral nutrition is contraindicated.",
+                "B. Enteral nutrition must be given distal to the ampulla of Vater.",
+                "C. Enteral nutrition decreases systemic inflammation compared with parenteral nutrition.",
+                "D. Enteral nutrition should be held in patients receiving neuromuscular blocking agents.",
+                "E. Parenteral nutrition decreases the duration of pancreatitis compared with enteral nutrition"
+            ],
+            "answer": "C",
+            "explanation": "- The approach to nutrition in the patient with pancreatitis has changed over the last few decades.\n- The enteral route has become the preferred route; the concept of \"resting\" the pancreas has itself been laid to rest.\n- Enteral nutrition is not only tolerated but also decreases systemic inflammation compared with parenteral nutrition.\n- Several studies have compared gastric to jejunal feedings, and all concluded that gastric feedings did not exacerbate the disease process.\n- No evidence supports the theory that parenteral nutrition shortens the course of pancreatitis compared with enteral feeding.\n- No evidence supports enteral feeding being held for patients receiving neuromuscular blocking agents."
+        }
+    ]
+}

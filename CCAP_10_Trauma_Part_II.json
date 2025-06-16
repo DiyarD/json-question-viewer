@@ -1,0 +1,449 @@
+{
+    "chapter_name": "Trauma Part II",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A 22-year-old pregnant woman presents after being ejected from a truck at highway speed. She is intubated with a Glasgow Coma Scale score of 3T, pulse of 120 beats per minute, and blood pressure 105/45 mm Hg. Her fundal height is 6 cm superior to the umbilicus. A fetal heart-rate monitor was placed. Which of the following statements is true?",
+            "options": [
+                "A. Normal heart rate of her fetus should be 85 to 100 beats per minute",
+                "B. She should be placed in the right lateral decubitus position.",
+                "C. Anemia of pregnancy is anticipated due to decreased red cell mass.",
+                "D. CT scan of the abdomen and pelvis are contraindicated.",
+                "E. The fetus has likely reached the stage of viability."
+            ],
+            "answer": "E",
+            "explanation": "- Trauma is the leading cause of nonobstetric mortality for pregnant women, affecting 1 in 12 pregnant women and impacting maternal morbidity and fetal outcome.\n- Diagnosis and management of traumatically injured pregnant patients are generally the same as for nonpregnant patients, with few exceptions.\n- Due to uterine compression of the inferior vena cava, those in advanced stages of pregnancy should be placed in the left lateral decubitus position to relieve compression and improve venous return; right lateral decubitus position has the opposite effect.\n- Although there is concern about teratogenic effects of ionizing radiation, this risk is highest during organogenesis (5-10 weeks gestation).\n- At 20 weeks gestation, the fundal height is palpable at the umbilicus, increasing by 1 cm per week thereafter.\n- For this patient with a fundal height 6 cm superior to the umbilicus, the predicted gestational age would be 26 weeks.\n- CT scan of the abdomen and pelvis would be safe, with a fetal exposure of only 3.5 rads.\n- With advances in neonatal care, the age of viability continues to decline but is usually considered to be more than 23 weeks gestation or a fundal height 3 cm above the umbilicus.\n- Red blood cell mass increases approximately 30%, but blood volume increases 40-50%, resulting in relative anemia of pregnancy.\n- The normal fetal heart rate is 120 to 160 beats per minute.\n- Monitoring fetal heart rate is needed to detect decelerations, tachycardia, bradycardia, or loss of variability, which are associated with adverse fetal outcomes."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "A 22-year-old man presents with an isolated 2-cm stab wound to the mid left neck just anterior to the sternocleidomastoid muscle. His vital signs are normal. His voice is normal. On physical exam, there is a small hematoma (3 cm) that is stable in size with no signs of bleeding. The remainder of his exam is normal. The best next step in his management is",
+            "options": [
+                "A. esophagogastroduodenoscopy.",
+                "B. local wound exploration.",
+                "C. CT angiogram.",
+                "D. catheter-based angiography.",
+                "E. formal neck exploration."
+            ],
+            "answer": "C",
+            "explanation": "- Historically, initial evaluation and management of penetrating neck wounds were driven by the presence/absence of hard signs, location, and mechanism of injury.\n- Hard signs of vascular or aerodigestive tract injury (e.g., active bleeding, expanding/pulsatile hematoma, air bubbling in the neck) require urgent operative management via formal neck exploration.\n- Patients with \"soft\" signs (e.g., small, nonexpanding hematoma, hoarseness, odynophagia) can be selectively evaluated and managed.\n- In hemodynamically normal patients with only soft signs, multidetector CT angiogram is an excellent screening tool with high sensitivity, specificity, positive predictive value, and negative predictive value (>90%), especially for vascular injuries.\n- CT scan is a screening exam; any concerns for aerodigestive tract injury after CT scan should be specifically evaluated.\n- Esophagogastroduodenoscopy could be indicated based on CT scan findings but is not the next step in this situation.\n- Local wound exploration without imaging is contraindicated due to risks of bleeding and airway loss if an occult major arterial injury is present.\n- Catheter-based angiography would be used if a specific vascular injury amenable to endovascular treatment was identified, but not as a screening tool.\n- Formal neck exploration in patients with only soft signs is nontherapeutic in up to 80%.\n- For this patient with normal vital signs and a small, stable hematoma, CT angiogram is the best next step.\n- Traditionally, initial evaluation and management of penetrating neck injuries were based on zones (I: manubrium to cricoid, II: cricoid to angle of the mandible, III: above angle of the mandible).\n- This zone-based approach had challenges, especially for gunshot wounds which may traverse several zones.\n- Another approach suggests evaluation guided by symptoms and clinical findings, not zone of injury.\n- Patients with hard signs of injury should undergo operative management; Zone III injuries may be approached by endovascular techniques.\n- Patients with soft signs should have screening CT angiogram as first investigation.\n- Asymptomatic patients with normal exams can be managed expectantly."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "A 25-year-old man sustained a gunshot wound to the left lower quadrant of the abdomen. He arrives with a normal primary survey, including normal vital. signs, but he has diffuse abdominal tenderness on secondary survey. During operative exploration, you find a through-and-through injury to the sigmoid colon with loss of more than 50% of the wall. There is local spillage of solid stool, minimal blood loss, and no other major injury. The next operative step is",
+            "options": [
+                "A. primary repair of injury.",
+                "B. resection of the injury, end colostomy with blind distal colon.",
+                "C. resection of the injury, end colostomy and mucus fistula.",
+                "D. resection of the injury with anastomosis.",
+                "E. resection of the injury, planned second look."
+            ],
+            "answer": "D",
+            "explanation": "<b>PROBABLE ANSWER: D<b><br>- Traumatic colon injuries are classified as nondestructive (amenable to primary repair) or destructive (requiring resection).\n- This patient has a destructive injury (loss of >50% of colon circumference), so resection is required; primary repair would likely result in narrowing or stricture.\n- After segmental resection, the decision for reconstruction (diversion, anastomosis, or anastomosis with diversion) depends on hemodynamic status and overall burden of injury.\n- In this patient with a normal primary survey, normal vital signs, minimal blood loss, and no other major injuries, anastomosis after resection is the next step.\n- In this situation, the leak rate is less than 10%.\n- End colostomy (with or without mucus fistula) would require another laparotomy and is unnecessary.\n- Damage control surgery and a second look are not required in an uncomplicated pre- and intraoperative course."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "For a patient requiring operative care for a traumatic pancreas injury, the strongest predictor of mortality is",
+            "options": [
+                "A. shock on admission.",
+                "B. injury to the body of the pancreas.",
+                "C. associated liver injury.",
+                "D. blunt mechanism of injury.",
+                "E. number of extra-abdominal injuries."
+            ],
+            "answer": "A",
+            "explanation": "- Pancreatic and pancreaticoduodenal injuries are challenging and require an organized and systematic approach.\n- Mortality rates are 12-18% and are higher for blunt trauma compared with penetrating trauma.\n- Shock on admission is the strongest predictor of mortality for patients with operative pancreas injuries.\n- Injuries to the body are easier to address and have lower mortality than injuries to the head of the pancreas.\n- The number of intra- and extra-abdominal injuries does not influence mortality, although associated vascular injuries and increasing age increase risk of mortality."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "Which of the following is most predictive of failure of nonoperative management for blunt splenic trauma?",
+            "options": [
+                "A. Hemodynamic normality on admission",
+                "B. Grade IV splenic injury",
+                "C. Hemoperitoneum",
+                "D. Age younger than 40 years",
+                "E. Arterial contrast blush on CT scan"
+            ],
+            "answer": "B",
+            "explanation": "- Splenic injury ranges from small to moderate lacerations or subcapsular hematomas (grades I-III).\n- In hemodynamically normal patients, these injuries can often be successfully treated nonoperatively (bed rest, hemodynamic and laboratory monitoring).\n- More significant lacerations involving segmental or hilar vessels producing devascularization (>25% of spleen, grade IV) or a completely shattered spleen (grade V) are more often treated with splenectomy.\n- However, grade IV and V injuries in hemodynamically normal patients can be managed with nonoperative management, with or without arterial embolization.\n- Routine selective arterial embolization is associated with lower failure rates of nonoperative management in grade IV and V injuries.\n- Risk factors with strong evidence for failure of nonoperative management include age older than 40, grade III or higher injury, or injury severity scores of at least 25.\n- Moderate evidence exists for intraparenchymal contrast blush or transfusion of more than 1 unit of blood being risk factors.\n- No evidence for failure of nonoperative management exists for hemodynamic status on admission, emergency department mean blood pressure, hemoglobin, hematocrit level, or heart rate."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "In patients with hemorrhagic shock due to severe trauma, what is the recommended approach to plasma, platelets, and packed red blood cell (PRBC) product resuscitation during the initial phase of management?",
+            "options": [
+                "A. PRBCs alone until surgical hemostasis is achieved",
+                "B. PRBCs for hemoglobin less than 7 g/dL, platelets when count is less than 150,000/mm3",
+                "C. Plasma, platelets, and PRBCs all given empirically",
+                "D. Plasma after 10 units of PRBCs, platelets after 20 units of PRBCS",
+                "E. Plasma and platelets, only if coagulation studies are abnormal"
+            ],
+            "answer": "C",
+            "explanation": "- Hemorrhage results in nearly 50,000 deaths and 2 million years of life lost annually in the United States.\n- Blood product resuscitation is essential for the survival of patients in hemorrhagic shock.\n- Empiric resuscitation with packed red blood cells (PRBCs) together with both plasma and platelets is the optimal initial management for acutely bleeding patients in hemorrhagic shock.\n- PRBCs do not contain clotting factors or platelets and should not be used in isolation.\n- Waiting for laboratory tests before initiating blood product resuscitation is unnecessary and potentially harmful.\n- Plasma and platelets should be given concurrently with PRBCs to avoid significant \"imbalances\" in the ratio of blood products."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "A 28-year-old man presents with a single stab wound to the left chest just medial to the nipple. On examination, he is pale, diaphoretic, and lethargic. His heart rate is 120 beats per minute, his blood pressure 98/65 mm Hg, and his respiratory rate is 24 breaths per minute. A chest x-ray is taken with a paperclip on the site of the chest wound (figure 7.1). Focused assessment with sonography for trauma examination is performed and is positive for pericardial fluid. What is the best next step in the management of this patient?",
+            "options": [
+                "A. Chest CT scan",
+                "B. Left tube thoracostomy",
+                "C. Median sternotomy",
+                "D. Subxiphoid pericardial window",
+                "E. Pericardiocentesis"
+            ],
+            "answer": "C",
+            "explanation": "- This patient has signs and symptoms consistent with obstructive shock from pericardial tamponade (diaphoresis, lethargy, tachycardia, narrowed pulse pressure, tachypnea).\n- No pneumothorax is seen on chest x-ray; therefore, a left chest tube is not specifically required.\n- The cardiac silhouette suggests acute pericardial effusion if present, as the pericardium has not had time to expand.\n- FAST exam is grossly positive in the pericardial window (97% specific for cardiac laceration).\n- No further diagnostic measures (e.g., pericardial window, chest CT scan) or temporizing therapeutic interventions (i.e., pericardiocentesis) are needed if surgical capability for pericardial decompression and cardiac repair is immediately available.\n- The diagnostic accuracy of pericardial FAST is degraded in patients with hemothorax or if adequate views cannot be obtained.\n- If fluid is visualized in a patient with clinical tamponade, further evaluation is not needed.\n- In equivocal cases, gated cardiac CT scan, pericardiocentesis, or pericardial window can guide further therapy.\n- If a pericardial effusion is identified and surgical resources are not available, temporizing pericardiocentesis can buy time until transport to a center with surgical resources."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "A 46-year-old man is involved in a high-speed motorcycle crash; he was not helmeted. He is brought to a level III trauma center 1 hour after the event. The patient has a patent airway, bilateral breath sounds, and a systolic blood pressure of 100 mm Hg on initial survey. He is resuscitated with a good response. He is noted to have a comminuted open left femur fracture and withdraws to pain when the limb is placed in traction. His eyes are closed and open only to painful stimuli; he verbalizes that he is in pain but cannot converse normally. This man's degree of head injury can be assessed by his calculated Glasgow Coma Scale score of 10. The next step in management is",
+            "options": [
+                "A. measure intracranial pressure.",
+                "B. observe the patient.",
+                "C. perform a brain CT scan.",
+                "D. contact a level-I trauma center for transfer.",
+                "E. intubate the patient."
+            ],
+            "answer": "E",
+            "explanation": "- This patient is a head-injured, multisystem blunt force trauma victim who is initially stable after resuscitation.\n- His initial Glasgow Coma Scale (GCS) score is 10 (Eyes = 2, Verbal = 4, Motor = 4).\n- He has a depressed sensorium; securing the airway with endotracheal intubation is most important as a first step in management.\n- Given level III trauma center resources, transport of this patient is necessary.\n- Maintaining adequate oxygenation during transport will help prevent secondary brain injury.\n- Endotracheal intubation is the most reliable method to maintain oxygenation and ventilation, given the GCS score, and should be the first step.\n- Further management may include a trauma CT scan if there will be a delay in transfer.\n- A CT scan of the head can be performed, with results communicated to the receiving hospital.\n- CT scan provides the most information quickly about the brain status, and this information should be communicated expeditiously to the neurosurgeon for decision making and treatment planning."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "A 30-year-old woman is a restrained driver in a motor vehicle crash. On initial evaluation, she has a Glasgow Coma Scale score of 15, and she is hemodynamically normal. She has mild tenderness on abdominal palpation and no seat belt sign. An intravenous contrast-enhanced CT scan of her abdomen. and pelvis reveals no injury to liver, spleen, or kidneys. The radiologist reports moderate amounts of free fluid in the pelvis with mesenteric stranding in the small bowel. The next appropriate step in her management is",
+            "options": [
+                "A. admission with observation.",
+                "B. CT scan with oral and rectal contrast.",
+                "C. focused abdominal sonogram for trauma.",
+                "D. exploratory laparotomy.",
+                "E. discharge."
+            ],
+            "answer": "D",
+            "explanation": "- Blunt hollow viscus injury (BHVI) is reported in 1-5% of blunt trauma patients and can be easily missed.\n- Specific CT scan findings can suggest BHVI, such as free air or extravasation of enteric contrast (obvious signs), or more subtle findings like bowel wall thickening, irregular contrast enhancement, mesenteric abnormality, or unexplained free fluid.\n- No combination of findings is pathognomonic for BHVI.\n- Surgeons must have a high index of suspicion, considering mechanism of injury and physical examination findings.\n- This patient has abdominal tenderness and concerning CT scan findings, both predictors of BHVI.\n- Patients with concern for BHVI should undergo operative exploration.\n- Diagnostic laparoscopy may be appropriate in selected patients; however, an exploratory laparotomy allows careful inspection of stomach, small bowel, and colon.\n- Further diagnostic imaging (FAST or CT with enteric contrast) is unlikely to clarify BHVI and may delay diagnosis.\n- Any delay in BHVI diagnosis increases morbidity and mortality.\n- In patients with high suspicion of injury, observation or discharge may increase overall complication rate."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "A 60-year-old man is admitted with a flail right chest after a fall from a roof. He has been intubated and mechanically ventilated for 3 days with no improvement in spontaneous breathing trials. He is being considered for rib stabilization Compared with nonoperative management, the operative fixation of rib fractures in patients with a flail chest after blunt trauma reduces",
+            "options": [
+                "A. mortality.",
+                "B. narcotic requirements",
+                "C. spirometry volumes.",
+                "D. pneumonia.",
+                "E. costs."
+            ],
+            "answer": "D",
+            "explanation": "- Several randomized clinical trials compared operative fixation of rib fractures with nonoperative management after blunt trauma.\n- These trials consistently demonstrated that surgical rib fracture fixation reduces pulmonary morbidity, specifically the incidence of pneumonia and the duration of mechanical ventilation.\n- Compared with nonoperative management, surgical rib fracture fixation increases spirometry volumes.\n- It does not decrease mortality rates or narcotic requirements.\n- Hospital costs are higher with surgical rib fixation than with nonoperative treatment.\n- Rib fixation is especially useful in patients unable to progress to spontaneous ventilation after initial intubation and mechanical ventilation.\n- Maximal benefits occur when the procedure is done early after injury, usually within 3-5 days."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "A 39-year-old man sustained a single stab wound to the left chest. On arrival to the emergency department, he was pulseless. Emergency department thoracotomy is indicated in this patient only if he",
+            "options": [
+                "A. did not require prehospital cardiopulmonary resuscitation.",
+                "B. has signs of life in the emergency department.",
+                "C. has a tension hemothorax.",
+                "D. has a primary cardiac injury.",
+                "E. is neurologically intact."
+            ],
+            "answer": "B",
+            "explanation": "- The 2015 guidelines for resuscitative thoracotomy by the Eastern Association for the Surgery of Trauma (EAST) reviewed 72 studies and 10,238 patients.\n- EAST strongly recommended that patients who present pulseless with signs of life after penetrating thoracic injury undergo resuscitative thoracotomy.\n- Signs of life (often interchangeable with vital signs) defined by the American College of Surgeons Committee on Trauma in 2001 include: pupillary response, spontaneous ventilation, presence of carotid pulse, measurable/palpable blood pressure, extremity movement, or cardiac electrical activity.\n- Prehospital cardiopulmonary resuscitation, tension hemothorax, primary cardiac injury, and neurologic status are not valid indicators for resuscitative thoracotomy because they do not predict survival in traumatic arrest.\n- Focused assessment with sonography for trauma (FAST) exam to evaluate cardiac motion may be useful for determining if traumatic arrest patients should undergo resuscitative thoracotomy.\n- A single-institution study found overall survival of 3.2% for blunt and penetrating traumatic arrest patients.\n- Cardiac motion on FAST exam was 100% sensitive and 73.7% specific for identifying survivors and organ donors.\n- If both cardiac motion and pericardial fluid were absent on FAST exam, survival was zero.\n- FAST is an effective method to identify trauma patients with higher likelihood of survival who may benefit from resuscitative thoracotomy."
+        },
+        {
+            "id": 12,
+            "question_type": "matching",
+            "question": "Gunshot to left chest with arrest in trauma bay",
+            "options": {
+                "items": [
+                    "12. Gunshot to left chest with arrest in trauma bay",
+                    "13. Stab wound 1 cm left of sternum, blood pressure 96/80 mm Hg, heart rate 125 beats per minute, positive pericardial effusion on ultrasound",
+                    "14. Gunshot to back with injury to midesophagus by contrast study",
+                    "15. Blunt injury to aorta with contained rupture 1 cm distal to the left subclavian artery"
+                ],
+                "choices": [
+                    "A. Left anterior thoracotomy",
+                    "B. Left posterolateral thoracotomy",
+                    "C. Median sternotomy",
+                    "D. Right anterior thoracotomy",
+                    "E. Right posterolateral thoracotomy"
+                ]
+            },
+            "answer": {
+                "12": "A",
+                "13": "C",
+                "14": "E",
+                "15": "B"
+            },
+            "explanation": "- The choice of incision in the treatment of thoracic trauma is vitally important for adequate exposure and optimal results.\n- **Left anterior thoracotomy (A)** is the incision of choice in an emergency department resuscitative thoracotomy.\n    - Performed in supine position with abducted arm, typically at the sternal edge in the fourth or fifth intercostal space to the axilla.\n    - Allows adequate access to the heart, lower thoracic aorta, and left lung.\n    - Can be performed quickly without specialized instruments.\n    - Does not provide good exposure to the upper chest cavity or mediastinum.\n    - Easily converted to a bilateral thoracotomy (clamshell) with extension across the lower sternum.\n    - Supine position also allows easy access to the abdomen.\n- **Median sternotomy (C)** allows the best exposure to the heart and great vessels.\n    - Can be extended to a midline laparotomy.\n    - Exposure of the lung parenchyma is limited.\n    - Poor choice for esophageal access.\n    - Need for instrumentation to divide the sternum may limit quick performance.\n    - Morbid wound complications are a risk in emergency situations.\n- **Right anterior thoracotomy (D)** is relatively rarely used in trauma.\n    - Achieves access to the right lung parenchyma and provides limited access to the lung hilum.\n    - Access to the heart is limited.\n    - Advantage: performed in the supine position.\n    - Used in hemodynamically compromised patients with injuries limited to the right chest.\n- **Right posterolateral thoracotomy (E)** is performed in a lateral position.\n    - Provides access to the right lung, including the hilum, diaphragm, trachea, and mid-esophagus.\n    - Lateral position may not be tolerated by hemodynamically compromised patients due to reduced venous return.\n    - Access to the opposite thorax and abdomen is very limited.\n- **Left posterolateral thoracotomy (B)** is performed in a lateral position.\n    - Provides exposure to the left lung, including the hilum, the aortic arch, descending thoracic aorta, diaphragm, and distal thoracic esophagus.\n    - Disadvantages: lateral position not tolerated well by hemodynamically unstable patients, very limited access to the abdomen, and practically no access to the opposite thorax."
+        },
+        {
+            "id": 13,
+            "question_type": "matching",
+            "question": "Stab wound 1 cm left of sternum, blood pressure 96/80 mm Hg, heart rate 125 beats per minute, positive pericardial effusion on ultrasound",
+            "options": {
+                "items": [
+                    "12. Gunshot to left chest with arrest in trauma bay",
+                    "13. Stab wound 1 cm left of sternum, blood pressure 96/80 mm Hg, heart rate 125 beats per minute, positive pericardial effusion on ultrasound",
+                    "14. Gunshot to back with injury to midesophagus by contrast study",
+                    "15. Blunt injury to aorta with contained rupture 1 cm distal to the left subclavian artery"
+                ],
+                "choices": [
+                    "A. Left anterior thoracotomy",
+                    "B. Left posterolateral thoracotomy",
+                    "C. Median sternotomy",
+                    "D. Right anterior thoracotomy",
+                    "E. Right posterolateral thoracotomy"
+                ]
+            },
+            "answer": {
+                "12": "A",
+                "13": "C",
+                "14": "E",
+                "15": "B"
+            },
+            "explanation": "- The choice of incision in the treatment of thoracic trauma is vitally important for adequate exposure and optimal results.\n- **Left anterior thoracotomy (A)** is the incision of choice in an emergency department resuscitative thoracotomy.\n    - Performed in supine position with abducted arm, typically at the sternal edge in the fourth or fifth intercostal space to the axilla.\n    - Allows adequate access to the heart, lower thoracic aorta, and left lung.\n    - Can be performed quickly without specialized instruments.\n    - Does not provide good exposure to the upper chest cavity or mediastinum.\n    - Easily converted to a bilateral thoracotomy (clamshell) with extension across the lower sternum.\n    - Supine position also allows easy access to the abdomen.\n- **Median sternotomy (C)** allows the best exposure to the heart and great vessels.\n    - Can be extended to a midline laparotomy.\n    - Exposure of the lung parenchyma is limited.\n    - Poor choice for esophageal access.\n    - Need for instrumentation to divide the sternum may limit quick performance.\n    - Morbid wound complications are a risk in emergency situations.\n- **Right anterior thoracotomy (D)** is relatively rarely used in trauma.\n    - Achieves access to the right lung parenchyma and provides limited access to the lung hilum.\n    - Access to the heart is limited.\n    - Advantage: performed in the supine position.\n    - Used in hemodynamically compromised patients with injuries limited to the right chest.\n- **Right posterolateral thoracotomy (E)** is performed in a lateral position.\n    - Provides access to the right lung, including the hilum, diaphragm, trachea, and mid-esophagus.\n    - Lateral position may not be tolerated by hemodynamically compromised patients due to reduced venous return.\n    - Access to the opposite thorax and abdomen is very limited.\n- **Left posterolateral thoracotomy (B)** is performed in a lateral position.\n    - Provides exposure to the left lung, including the hilum, the aortic arch, descending thoracic aorta, diaphragm, and distal thoracic esophagus.\n    - Disadvantages: lateral position not tolerated well by hemodynamically unstable patients, very limited access to the abdomen, and practically no access to the opposite thorax."
+        },
+        {
+            "id": 14,
+            "question_type": "matching",
+            "question": "Gunshot to back with injury to midesophagus by contrast study",
+            "options": {
+                "items": [
+                    "12. Gunshot to left chest with arrest in trauma bay",
+                    "13. Stab wound 1 cm left of sternum, blood pressure 96/80 mm Hg, heart rate 125 beats per minute, positive pericardial effusion on ultrasound",
+                    "14. Gunshot to back with injury to midesophagus by contrast study",
+                    "15. Blunt injury to aorta with contained rupture 1 cm distal to the left subclavian artery"
+                ],
+                "choices": [
+                    "A. Left anterior thoracotomy",
+                    "B. Left posterolateral thoracotomy",
+                    "C. Median sternotomy",
+                    "D. Right anterior thoracotomy",
+                    "E. Right posterolateral thoracotomy"
+                ]
+            },
+            "answer": {
+                "12": "A",
+                "13": "C",
+                "14": "E",
+                "15": "B"
+            },
+            "explanation": "- The choice of incision in the treatment of thoracic trauma is vitally important for adequate exposure and optimal results.\n- **Left anterior thoracotomy (A)** is the incision of choice in an emergency department resuscitative thoracotomy.\n    - Performed in supine position with abducted arm, typically at the sternal edge in the fourth or fifth intercostal space to the axilla.\n    - Allows adequate access to the heart, lower thoracic aorta, and left lung.\n    - Can be performed quickly without specialized instruments.\n    - Does not provide good exposure to the upper chest cavity or mediastinum.\n    - Easily converted to a bilateral thoracotomy (clamshell) with extension across the lower sternum.\n    - Supine position also allows easy access to the abdomen.\n- **Median sternotomy (C)** allows the best exposure to the heart and great vessels.\n    - Can be extended to a midline laparotomy.\n    - Exposure of the lung parenchyma is limited.\n    - Poor choice for esophageal access.\n    - Need for instrumentation to divide the sternum may limit quick performance.\n    - Morbid wound complications are a risk in emergency situations.\n- **Right anterior thoracotomy (D)** is relatively rarely used in trauma.\n    - Achieves access to the right lung parenchyma and provides limited access to the lung hilum.\n    - Access to the heart is limited.\n    - Advantage: performed in the supine position.\n    - Used in hemodynamically compromised patients with injuries limited to the right chest.\n- **Right posterolateral thoracotomy (E)** is performed in a lateral position.\n    - Provides access to the right lung, including the hilum, diaphragm, trachea, and mid-esophagus.\n    - Lateral position may not be tolerated by hemodynamically compromised patients due to reduced venous return.\n    - Access to the opposite thorax and abdomen is very limited.\n- **Left posterolateral thoracotomy (B)** is performed in a lateral position.\n    - Provides exposure to the left lung, including the hilum, the aortic arch, descending thoracic aorta, diaphragm, and distal thoracic esophagus.\n    - Disadvantages: lateral position not tolerated well by hemodynamically unstable patients, very limited access to the abdomen, and practically no access to the opposite thorax."
+        },
+        {
+            "id": 15,
+            "question_type": "matching",
+            "question": "Blunt injury to aorta with contained rupture 1 cm distal to the left subclavian artery",
+            "options": {
+                "items": [
+                    "12. Gunshot to left chest with arrest in trauma bay",
+                    "13. Stab wound 1 cm left of sternum, blood pressure 96/80 mm Hg, heart rate 125 beats per minute, positive pericardial effusion on ultrasound",
+                    "14. Gunshot to back with injury to midesophagus by contrast study",
+                    "15. Blunt injury to aorta with contained rupture 1 cm distal to the left subclavian artery"
+                ],
+                "choices": [
+                    "A. Left anterior thoracotomy",
+                    "B. Left posterolateral thoracotomy",
+                    "C. Median sternotomy",
+                    "D. Right anterior thoracotomy",
+                    "E. Right posterolateral thoracotomy"
+                ]
+            },
+            "answer": {
+                "12": "A",
+                "13": "C",
+                "14": "E",
+                "15": "B"
+            },
+            "explanation": "- The choice of incision in the treatment of thoracic trauma is vitally important for adequate exposure and optimal results.\n- **Left anterior thoracotomy (A)** is the incision of choice in an emergency department resuscitative thoracotomy.\n    - Performed in supine position with abducted arm, typically at the sternal edge in the fourth or fifth intercostal space to the axilla.\n    - Allows adequate access to the heart, lower thoracic aorta, and left lung.\n    - Can be performed quickly without specialized instruments.\n    - Does not provide good exposure to the upper chest cavity or mediastinum.\n    - Easily converted to a bilateral thoracotomy (clamshell) with extension across the lower sternum.\n    - Supine position also allows easy access to the abdomen.\n- **Median sternotomy (C)** allows the best exposure to the heart and great vessels.\n    - Can be extended to a midline laparotomy.\n    - Exposure of the lung parenchyma is limited.\n    - Poor choice for esophageal access.\n    - Need for instrumentation to divide the sternum may limit quick performance.\n    - Morbid wound complications are a risk in emergency situations.\n- **Right anterior thoracotomy (D)** is relatively rarely used in trauma.\n    - Achieves access to the right lung parenchyma and provides limited access to the lung hilum.\n    - Access to the heart is limited.\n    - Advantage: performed in the supine position.\n    - Used in hemodynamically compromised patients with injuries limited to the right chest.\n- **Right posterolateral thoracotomy (E)** is performed in a lateral position.\n    - Provides access to the right lung, including the hilum, diaphragm, trachea, and mid-esophagus.\n    - Lateral position may not be tolerated by hemodynamically compromised patients due to reduced venous return.\n    - Access to the opposite thorax and abdomen is very limited.\n- **Left posterolateral thoracotomy (B)** is performed in a lateral position.\n    - Provides exposure to the left lung, including the hilum, the aortic arch, descending thoracic aorta, diaphragm, and distal thoracic esophagus.\n    - Disadvantages: lateral position not tolerated well by hemodynamically unstable patients, very limited access to the abdomen, and practically no access to the opposite thorax."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "A 54-year-old man is involved in a motor vehicle collision. Portable anteroposterior chest radiograph reveals a widened mediastinum. He has no other injuries. The next step in his evaluation should be",
+            "options": [
+                "A. chest CT scan with intravenous contrast.",
+                "B. transthoracic echocardiography.",
+                "C. transesophageal echocardiography.",
+                "D. arch aortography.",
+                "E. upright posterior-anterior and lateral chest radiograph."
+            ],
+            "answer": "A",
+            "explanation": "- Although most patients with blunt thoracic trauma do not incur aortic injuries, a high index of suspicion must be maintained.\n- A widened mediastinum on chest radiograph is a sensitive but nonspecific marker of traumatic aortic injury and mandates further investigation.\n- Trauma patients often cannot tolerate repetition of chest radiographs in an upright position, so repeat x-ray is not recommended.\n- X-ray will not provide new or additional information for blunt aortic injury concern.\n- Transthoracic echocardiography cannot visualize the aorta at the most common site of injury (just distal to the left subclavian artery).\n- Initial enthusiasm for transesophageal echocardiography is tempered by concerns about widespread availability and accuracy; both types of echocardiography are highly dependent on sonographer skills.\n- CT scan of the chest with intravenous contrast has supplanted traditional arch aortography for 3 reasons: (1) additional information on associated injuries; (2) staff are readily available to perform and interpret studies; and (3) lower contrast exposure."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "Which of the following statements is true regarding his care?",
+            "options": [
+                "A. Returning to finish the practice is allowable.",
+                "B. Immediate head CT scan should be performed.",
+                "C. Sideline evaluation should include new learning and concentration assessments.",
+                "D. Glasgow Coma Scale is a sensitive indicator of concussion.",
+                "E. His parents should awaken him every 2 hours for the next 24 hours."
+            ],
+            "answer": "C",
+            "explanation": "- Sports-related concussions affect nearly 4 million athletes per year.\n- Symptom resolution alone is not indicative of complete recovery from a traumatic brain event.\n- Current standards of care are based on rest and gradual return to play.\n- When a potential concussion is diagnosed, the athlete should not return to play on the same day.\n- Ideally, sideline evaluation after loss of consciousness should include assessment of vision changes (oculomotor testing), balance and postural stability, and mental status questions specific to situation (new learning, concentration assessments).\n- Standardized concussion and balance scoring systems, when combined, increase sensitivity and specificity of concussion diagnosis.\n- A GCS of 15 is reassuring for general verbal, motor, and pain responses but is insufficient to rule out a concussive event.\n- Skull fractures, epidural/subdural hematomas, and cerebral edema are rare in this setting, although palpation of cervical spine is warranted.\n- MRI is more sensitive for complicated traumatic brain injury than CT scan, but most patients with concussive symptoms do not require neurological imaging.\n- If level of consciousness is of concern, the athlete should be imaged and observed in a hospital setting; frequent awakening is no longer recommended."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "Regarding his prognosis, which of the following statements is true?",
+            "options": [
+                "A. Wearing a helmet eliminates the risk of chronic headache.",
+                "B. His risk of sustaining another concussion is increased.",
+                "C. His recovery would be more rapid than if he were younger.",
+                "D. His mood will be altered for the next week.",
+                "E. He can return to normal practice and play in 7 days."
+            ],
+            "answer": "B",
+            "explanation": "- Anyone who has sustained a concussive traumatic brain injury has a 2-5.8 times higher risk of sustaining another concussion.\n- Recovery is not always quick; protracted recovery is associated with numerous factors including previous concussion, severity of posttraumatic symptoms, female sex, pre-existing learning disorder, and certain football positions.\n- Wearing a helmet decreases severe impact injuries (e.g., skull fracture), but most helmets currently in use do not reduce concussion incidence or severity.\n- Catastrophic traumatic brain injury is more likely in younger athletes; one hypothesis is that immature brain has less cognitive reserve.\n- Limitations on returning to school are not defined; students with traumatic brain injury may require academic accommodations for an extended period.\n- Alterations in sleep pattern, mood, and headache are common after a concussion and may last weeks or months.\n- Return to play should be individualized, with gradual monitored reinstatement of activity.\n- If symptoms recur or increase with activity level, activity progression should cease until symptoms resolve."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "A 35-year-old woman was in a head-on motor vehicle collision. She is hemodynamically normal but requires intubation due to a decrease in mental status. Before intubation, she was moving all 4 extremities. She had a cervical collar placed by prehospital personnel. The earliest her cervical collar may be removed is",
+            "options": [
+                "A. when she is able to participate in a thorough neurologic exam.",
+                "B. after obtaining normal plain films (3 views) of her cervical spine.",
+                "C. after obtaining a normal CT scan of her cervical spine.",
+                "D. after obtaining a normal MRI of her cervical spine.",
+                "E. immediately because no cervical collar is required."
+            ],
+            "answer": "C",
+            "explanation": "- In the awake and alert blunt trauma victim, the cervical spine can be evaluated with a thorough physical exam followed by a CT scan, if necessary.\n- Both the National Emergency X-Radiography Utilization Study (NEXUS) and Canadian Cervical Spine Rules (CCR) are acceptable methods of clearing a cervical spine clinically.\n- Both rules require the patient to have no neurologic defects, midline cervical tenderness or pain with active motion, distracting injuries, or altered mental status.\n- If any of these are present, dedicated axial imaging is recommended.\n- The CCR also recommends a CT scan for certain high-risk mechanisms or populations.\n- Axial imaging has completely replaced plain x-rays due to substantially higher sensitivity and specificity for injuries.\n- The obtunded population presents a different diagnostic dilemma; the risk of a missed cervical spine injury must be weighed against potential complications of cervical spine immobilization.\n- Until recently, axial imaging was considered insufficient to clear cervical spine in obtunded patients due to low risk of clinically significant missed injury.\n- A recent review by the Eastern Association for the Surgery of Trauma reversed this recommendation based on nearly 100% negative predictive value of CT imaging and increased risks/costs of adding MRI to diagnostic workup.\n- This recommendation may result in a \"non-zero\" rate of clinically significant injury.\n- A diagnostically appropriate CT of the cervical spine must have slices from the skull-base to the first thoracic vertebrae with sagittal and coronal reconstructions."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "A 25-year-old man presents to the trauma bay after crashing his dirt bike. He is hemodynamically normal, and his only complaint is moderate abdominal pain. Axial imaging reveals an injury to the mid body of the pancreas. Which of the following statements is true regarding the management of blunt pancreatic injuries?",
+            "options": [
+                "A. Grade III and IV injuries encountered during exploration should undergo resection.",
+                "B. Grade I and II injuries should be routinely explored.",
+                "C. A draining Roux-en-Y limb should be sewn to the pancreatic margin after resection.",
+                "D. Grade III and IV injuries encountered on imaging are managed with observation.",
+                "E. Octreotide should be routinely administered after distal pancreatectomy."
+            ],
+            "answer": "A",
+            "explanation": "- Pancreatic injuries, though rare, can lead to significant morbidity and mortality if not managed appropriately.\n- The American Association for the Surgery of Trauma grading scale classifies injuries based on parenchymal and ductal injury.\n- Grade I and II injuries spare the duct; Grade III and IV involve the main pancreatic duct; Grade V injuries represent massive disruption of the pancreatic head.\n- In hemodynamically normal patients, CT imaging is the diagnostic modality of choice (sensitivity ~50%, specificity ~80%).\n- Current 64-slice multidetector CT scanners can detect pancreatic duct injuries with very high sensitivity and specificity.\n- Grade I and II injuries diagnosed on CT scan can be safely managed nonoperatively.\n- For Grade I or II injuries found at exploration, nonresectional management with or without a closed suction drain is recommended.\n- Based on EAST recommendations, Grade III and IV injuries diagnosed on axial imaging warrant surgical exploration.\n- Alternative to surgical exploration for presumed duct injury is ERCP with pancreatic stent placement.\n- Nonoperative management results were not statistically worse on any single outcome in EAST guidelines; however, conditional recommendation of surgical resection was made based on cumulative trend toward worse outcomes and high rate of treatment failures in nonoperative group.\n- For Grade III and IV injuries found at surgical exploration, resection is recommended.\n- Injuries to the left of superior mesenteric vein should undergo distal pancreatectomy.\n- Stump closure with a draining roux limb does not improve leak rates.\n- Closure techniques like simple duct ligation with mattress suture have equivalent results.\n- Routine use of octreotide postoperatively is not recommended to reduce fistula rates.\n- Injuries to the right of the mesenteric vein are more complex, and surgical resection is based on surrounding structures."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "A 100 kg 23-year-old man was working on an outlet inside his house when a flash fire caught his shirt on fire. The patient developed 7% total body surface area second-degree burns to his hands, arms, and chest. Which of the following statements about treatment for his bums is true?",
+            "options": [
+                "A. A prophylactic bilateral escharotomy of the hands and arms should be performed.",
+                "B. An electrocardiogram is not necessary.",
+                "C. His fluid resuscitation amount should be increased by 25%.",
+                "D. Immediate fluid resuscitation should start with albumin.",
+                "E. Systemic antibiotics are not recommended."
+            ],
+            "answer": "E",
+            "explanation": "- Electrical injuries are classified by voltage: low-voltage (<1000 V), high-voltage (≥1000 V).\n- Domestic wiring (120 V AC) causes low-voltage burns, usually localized to the point of contact.\n- Prolonged contact with a low-voltage source causes deep tissue damage with little lateral extension.\n- High-voltage burns are associated with deep extension and underlying tissue damage similar to crush injury, risking compartment syndrome within 48 hours.\n- For high-voltage injuries, escharotomy is insufficient; fasciotomy is required.\n- Cardiac abnormalities occur after both low- and high-voltage injuries.\n- Electrocardiogram should be part of initial evaluation for all patients.\n- Prolonged cardiac monitoring is suggested if: loss of consciousness, ECG abnormality/evidence of ischemia, documented dysrhythmia (before or after ED admission), or CPR in the field.\n- A 24-48 hour monitoring period is suggested.\n- The American Burn Association formula for fluid resuscitation for >20% TBSA recommends starting with 2-4 mL/kg/TBSA; this resuscitation should not include albumin.\n- Patients with high-voltage injury may have myoglobinuria and require additional fluid resuscitation, but a routine increase in fluids is not indicated.\n- Immediate systemic antibiotic therapy is not indicated.\n- Electrical injury patients with persistent myoglobinuria or extremity compartment syndrome should be evaluated for fasciotomy and muscle debridement."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "A 13-year-old boy was involved in a head-on collision. He was restrained in the back seat with a lap belt. He was evaluated in the emergency department, and his workup was unremarkable other than mild tenderness and a small bruise from the seat belt across his upper abdomen. The next day, he has nausea, vomiting, and mild abdominal pain. CT scan revealed complete bowel obstruction at the second and third portion of the duodenum. In addition to a nasogastric tube, what is the most appropriate next treatment for this patient?",
+            "options": [
+                "A. Urgent laparotomy",
+                "B. Trickle gastric feeds",
+                "C. Laparoscopy",
+                "D. Parenteral nutrition",
+                "E. Surgical jejunostomy"
+            ],
+            "answer": "D",
+            "explanation": "- Duodenal injuries are uncommon, partly because of the duodenum's protected location in the retroperitoneum.\n- A hemodynamically normal patient with a CT scan showing a duodenal injury should be further evaluated.\n- Laparoscopy is not recommended because a full Kocher maneuver must be performed, or a small laceration may be missed.\n- Grade I and II hematomas are diagnosed by CT scan, and initial management is expectant with nasogastric decompression and oral intake withheld.\n- A hematoma may progress to obstruction, which varies from hours to days.\n- Nonoperative management is appropriate for up to 14 days; urgent laparotomy is not indicated in this hemodynamically normal patient.\n- After 14 days, operative management should be performed, including drainage of the hematoma and simple repair.\n- Early enteral feeding has benefits, and a jejunostomy is preferred.\n- Trickle gastric feeds are not appropriate due to the obstruction.\n- In the absence of a jejunostomy, parenteral nutrition should be started and continued until obstruction resolves.\n- If obstruction persists beyond 14 days, a surgical jejunostomy is appropriate."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "A 74-year-old man is involved in a high-speed motor vehicle collision. After initial resuscitation, he is hemodynamically normal and the only abnormality identified on evaluation is a pelvic fracture (figure 23.1). What is the next step?",
+            "options": [
+                "A. External pelvic fixation",
+                "B. CT scan with intravenous contrast",
+                "C. Angiographic embolization",
+                "D. Exploratory laparotomy",
+                "E. Placement of pneumatic antishock garments"
+            ],
+            "answer": "B",
+            "explanation": "- Pelvic injuries from high-energy trauma are frequently associated with concomitant internal injuries, including hemorrhage, intra-abdominal injuries, bladder/urethral injuries, and nerve deficits.\n- After considering airway, breathing, and circulation, initial inspection for pelvic injury concern should include: search for external bleeding, blood at penile meatus/vagina, and position of lower extremities/iliac crests.\n- A common classification system for pelvic fractures is the Young-Burgess classification.\n- After initial evaluation, in hemodynamically normal patients, a CT scan with intravenous contrast of the abdomen and pelvis should be obtained.\n- If there is no evidence of active bleeding, patients who continue to be hemodynamically normal should be treated with pelvic stabilization.\n- As long as they remain hemodynamically normal, these patients do not require angiographic embolization, exploratory laparotomy, external pelvic fixation, or pneumatic antishock garments."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "A 19-year-old man was intubated in the field. He arrives at the emergency department with a single gunshot wound to the chest just medial to the left nipple. He is unresponsive and has bilateral breath sounds, a heart rate of 140 beats per minute, and no detectable blod pressure. A focused assessment with sonography for trauma exam demonstrates a large hemopericardium. What is the best next step in the management of this patient?",
+            "options": [
+                "A. Pericardiocentesis",
+                "B. Resuscitative left anterolateral thoracotomy",
+                "C. Subxiphoid pericardial window",
+                "D. Median sternotomy",
+                "E. Resuscitative endovascular balloon occlusion of the aorta"
+            ],
+            "answer": "A",
+            "explanation": "<b>PROBABLE ANSWER: B<b><br>- This patient presents in extremis after a gunshot wound in the \"cardiac box.\"\n- A focused assessment with sonography for trauma exam demonstrates a hemopericardium, leading to a diagnosis of pericardial tamponade, which is consistent with the clinical picture.\n- This patient has a penetrating cardiac injury that needs to be addressed immediately to prevent complete cardiac arrest.\n- A left anterolateral thoracotomy will allow for rapid and adequate exposure of the heart and pericardium to allow decompression and repair of any injury.\n- A median sternotomy provides excellent exposure for this kind of injury but requires equipment that may not be immediately available and takes longer to perform than a thoracotomy.\n- A pericardiocentesis in this scenario will result in an excessive amount of time lost; moreover, it is diagnostic only and still requires an urgent operation to fix the cardiac injury.\n- Similarly, a pericardial window is a reasonable diagnostic procedure if the patient already had a laparotomy ongoing and there is suspicion for pericardial tamponade. In this scenario, the diagnosis is clear, and diagnostic procedures will delay definitive management and potentially lead to patient mortality.\n- Resuscitative endovascular balloon occlusion of the aorta (REBOA) involves access through a patient's femoral artery and placement of an occlusive balloon in the aorta to stem bleeding distal to the occlusion.\n- Chest trauma that could result in aortic or cardiac injury is a contraindication for the use of REBOA because it may exacerbate the injury."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "A 23-year-old man arrives awake and alert after a single-vehicle motorcycle crash. He complains of severe right knee pain associated with edema around the knee joint. X-rays demonstrate no evidence of a fracture. Pedal pulses are palpable and symmetric. The next step in management is",
+            "options": [
+                "A. continuous leg compartment pressure measurement.",
+                "B. arterial vascular duplex the next day.",
+                "C. ankle-brachial index.",
+                "D. right lower extremity angiography.",
+                "E. surgical exploration of the popliteal artery."
+            ],
+            "answer": "C",
+            "explanation": "- Severe knee pain, edema, and lack of fracture raise the possibility of significant ligamentous instability and a history of knee dislocation.\n- Knee dislocations are notorious for causing popliteal artery injuries, which need to be ruled out early to prevent irreversible vascular compromise.\n- Palpable pulses indicate distal perfusion is maintained and no acute ischemia is present; however, they do not exclude clinically significant popliteal injury.\n- Measurement of compartment pressures is relevant when there is high suspicion for leg compartment syndrome (e.g., high-grade tibial fractures).\n- Elevated compartment pressures indicate early fasciotomies.\n- Continuous measurement of compartment pressures will not help diagnose popliteal vascular injury.\n- A vascular duplex study can identify flow-limiting lesions.\n- Obtaining the study 24 hours after admission is too late and may result in significant ischemia if injury is missed.\n- The ankle-brachial index (ABI) is an important part of the physical examination in patients with knee dislocations.\n- Abnormal ABI values (<0.9) help identify vascular injury and can obviate routine angiography in all patients with a history of knee dislocations and ligamentous injury.\n- Angiogram is the gold-standard for peripheral vascular injury but is invasive and involves nephrotoxic contrast agents.\n- In patients with palpable pulses and no hard or soft signs of vascular compromise, obtaining an ABI before committing to angiographic imaging is prudent.\n- Routine surgical exploration of patients with knee dislocations is not indicated when there is no evidence of impending vascular compromise."
+        },
+        {
+            "id": 26,
+            "question_type": "mcq",
+            "question": "A 25-year-old woman with a gunshot wound to her abdomen and a 4-hour transport time arrives with a temperature of 35°C. She has a blood pressure of 80/40 mm Hg and a heart rate of 140 beats per minute. As you prepare for surgery, which of the following statements is true regarding treatment of her hypothermia?",
+            "options": [
+                "A. Warm insulating blankets and a warming gown device prevent further heat loss.",
+                "B. Blood products should not be heated to more than 30°C.",
+                "C. Peritoneal lavage with warm saline will normalize her core temperature",
+                "D. Correcting the blood loss does little to treat the hypothermia.",
+                "E. Airway rewarming effectively raises core temperature."
+            ],
+            "answer": "A",
+            "explanation": "- Hypothermia (<35°C) is an independent predictor of mortality.\n- Hypothermia after traumatic injury results from blood loss and is compounded by a cold external environment and treatment phases.\n- Warming the local environment (trauma bay/OR) helps prevent further heat loss but will not correct hypothermia.\n- Warm insulating blankets and warming gown devices help prevent further heat loss.\n- Correcting blood loss with transfusion and stopping bleeding will correct hypothermia.\n- Peritoneal lavage with warm saline and airway rewarming will not sufficiently increase core temperature to treat hypothermia.\n- Transfused blood products should be warmed to a normal body temperature before transfusion.\n- Transfusing cold products decreases core temperature.\n- Packed red blood cells are usually refrigerated at 20-25°C, fresh frozen plasma at 0-5°C.\n- Rapid transfusers can heat to 37°C and transfuse a whole unit within minutes.\n- Rewarming is imperative in traumatically injured patients."
+        },
+        {
+            "id": 27,
+            "question_type": "mcq",
+            "question": "A 24-year-old man presents to the emergency department after a motor vehicle. collision. There is a spider-web pattern on his side of the windshield, but he denies loss of consciousness. He follows commands, his eyes spontaneously open, and he speaks in clear but nonsense phrases. His primary and secondary surveys are otherwise negative. A CT scan of his head is normal. After a few hours, his Glasgow Coma Scale score (GCS) is 15. With regard to management this patient, which of the following statements is true?",
+            "options": [
+                "A. He is at no risk for future neurologic symptoms.",
+                "B. He is still at significant risk for sudden death.",
+                "C. Seizure prophylaxis is indicated for 3 months.",
+                "D. Long-term effects can include cognitive changes.",
+                "E. Symptoms rarely occur if GCS is 15."
+            ],
+            "answer": "D",
+            "explanation": "- This patient has a mild traumatic brain injury or a concussion.\n- A concussion does not require loss of consciousness.\n- Normal GCS and normal head CT should not reassure the clinician that no traumatic brain injury exists.\n- Although not at risk for sudden death due to intracranial hemorrhage, he is still at significant risk for morbidity and future symptoms.\n- Seizure prophylaxis is not indicated.\n- Symptoms are likely headaches, photophobia, difficulty concentrating, amnesia, tinnitus, and gait instability.\n- These symptoms are not always self-limited.\n- All patients who experienced a traumatic brain injury should be referred to someone who treats these injuries to ensure no further symptoms.\n- Symptomatic patients should undergo cognitive evaluation and probable neuropsychological rehabilitation.\n- Untreated, subtle symptoms may later manifest as cognitive impairments and mood disorders, leading to job loss, divorce, and social isolation.\n- Patients should refrain from contact activities until cleared by healthcare providers."
+        },
+        {
+            "id": 28,
+            "question_type": "mcq",
+            "question": "A 21-year-old woman presents after a motor vehicle crash at high rate of speed. She was found unresponsive at the scene with agonal breathing and was intubated. She has significant facial and head trauma and abdominal road rash. Her chest x-ray was normal. She is hemodynamically normal. Focused assessment with sonography for trauma (FAST) exam reveals no hemoperitoneum. Diagnostic CT scan is obtained (figures.28.1and28.2). The next step in management is",
+            "options": [
+                "A. repeat FAST.",
+                "B. diagnostic peritoneal lavage.",
+                "C. angiographic embolization.",
+                "D. diagnostic laparoscopy.",
+                "E. laparotomy."
+            ],
+            "answer": "E",
+            "explanation": "- Gastrointestinal hollow viscus injury after blunt chest and abdominal trauma is not common (0.6-1.2% of all trauma cases).\n- Early recognition significantly reduces morbidity and mortality.\n- Physical exam is not accurate in detecting these injuries; contrast-enhanced CT scan is the mainstay for diagnosis.\n- CT scan findings in this patient include: (1) several foci of extraluminal gas within the right hemiabdomen and pelvis, confluent anterior to the liver; (2) small to moderate volume free abdominal fluid, some high attenuation; and (3) no evidence of solid organ injury.\n- These findings are concerning for bowel injury, with suspicion directed toward the right colon.\n- Small-volume high-attenuation free fluid surrounds the liver dome; no discrete liver laceration is seen, and the free fluid may be related to suspected bowel injury.\n- Urgent laparotomy is indicated from these findings.\n- Repeat FAST will not be helpful as it identifies hemoperitoneum only.\n- Diagnostic peritoneal lavage is not indicated as CT scan findings confirm hollow viscus injury.\n- Angiographic embolization is indicated only for hemorrhage related to solid organ injury.\n- Diagnostic laparoscopy would be helpful if CT scan findings were equivocal, but in this case, CT scan findings confirmed bowel injury."
+        }
+    ]
+}

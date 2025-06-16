@@ -1,0 +1,439 @@
+{
+    "chapter_name": "Alimentary Tract Part IV",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "1. What is an appropriate indication for stress ulcer prophylaxis in the intensive care unit?",
+            "options": [
+                "A. Mechanical ventilation for 24 hours",
+                "B. Nothing per oral status",
+                "C. Platelet count of 75,000/mm3 (150,000-400,000/mm3)",
+                "D. Preadmission use of oral prednisone (5 mg/day)",
+                "E. Traumatic spinal cord injury"
+            ],
+            "answer": "E",
+            "explanation": "- Stress ulcer prophylaxis is advocated to prevent clinically significant gastric ulceration and hemorrhage in critical illness.\n- Risk factors include mechanical ventilation for at least 48 hours (not 24 hours), coagulopathy (INR > 1.5 or platelet count < 50,000/mm3), traumatic brain injury, traumatic spinal cord injury, and severe burn injury (>35% body surface area).\n- Nothing-by-mouth status does not confer additional risk.\n- Low-dose steroids (5 mg/day) are not a risk factor; high-dose steroids (equivalent to 250 mg hydrocortisone) are.\n- Traumatic spinal cord injury is an appropriate indication."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. After complete endoscopic resection of a malignant, sessile colon polyp, what pathologic finding should prompt partial colectomy?",
+            "options": [
+                "A. 1-mm negative radial margin",
+                "B. Concurrent pedunculated polyp",
+                "C. Moderately well-differentiated histologic grade",
+                "D. Venous invasion",
+                "E. Submucosal depth of invasion less than 1 mm"
+            ],
+            "answer": "A",
+            "explanation": "<b>PROBABLE ANSWER: Positive resection margin</b><br>- Pathologic findings of endoscopic submucosal excisions typically associated with increased risk of lymph node metastasis include massive submucosal invasion, lymphatic or vascular invasion, poorly differentiated histology, and positive resection margins.\n- For nonpedunculated polyps, the rate of lymph node metastasis was 0% when the submucosal depth of invasion was less than 1 mm.\n- The presence of other pedunculated polyps does not affect the risk of lymph node metastasis.\n- Venous invasion is not a risk factor for lymph node metastasis on multivariate analyses."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. A percutaneous cholecystostomy tube",
+            "options": [
+                "A. is not indicated for acalculous cholecystitis.",
+                "B. can be definitive treatment for acute cholecystitis.",
+                "C. should be removed after 1 week.",
+                "D. precludes subsequent laparoscopic cholecystectomy.",
+                "E. is associated with a high periprocedural mortality."
+            ],
+            "answer": "B",
+            "explanation": "- Percutaneous gallbladder drainage is used for acute cholecystitis in patients with significant comorbidities, with a procedural mortality of less than 3%.\n- It can be definitive treatment for acute cholecystitis; more than 90% of patients in a case series were successfully managed with a cholecystostomy tube alone.\n- The timing of tube removal is controversial, but a minimum drainage period of 2 weeks is necessary for patients with transhepatic tube placement.\n- It does not preclude subsequent laparoscopic cholecystectomy; later cholecystectomy is performed for cholelithiasis."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. A 40-year-old man with a history of alcohol abuse and previous episodes of pancreatitis presents with a 3-day history of vague abdominal pain. His heart rate is 72 beats per minute, and his blood pressure is 140/76 mm Hg. His abdomen is soft on exam without rebound or guarding. His hemoglobin is 14 g/dL (13.5-17.5 g/dL), and his amylase and lipase are mildly elevated. CT scan is obtained (figure 4.1).\nWhat is the next appropriate step in his management?",
+            "options": [
+                "A. Splenectomy",
+                "B. Endoscopy",
+                "C. Endovascular thrombectomy",
+                "D. Vasopressin infusion",
+                "E. Observation"
+            ],
+            "answer": "E",
+            "explanation": "- The CT scan demonstrates splenic vein thrombosis.\n- In this patient with pancreatitis symptoms but no evidence of gastric varices or clinical evidence of gastrointestinal bleeding, splenectomy is not indicated.\n- Upper endoscopy is not indicated as pain is easily explained by chronic pancreatitis.\n- Splenic vein thrombosis can spontaneously resolve with the resolution of inflammation from pancreatitis.\n- No data support the use of endovascular thrombectomy.\n- Vasopressin is for actively bleeding esophageal or gastric varices, not indicated here.\n- The best option for treatment of this patient is observation."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "5. A 62-year-old man experiences progressive difficulty swallowing, vomiting, and coughing over the past 12 months. He has lost 9 kg, and his wife notes his breath smells foul.\nWhat is the most appropriate next step in his evaluation?",
+            "options": [
+                "A. Ultrasound",
+                "B. Contrast esophagram",
+                "C. Esophagogastroduodenoscopy",
+                "D. CT scan",
+                "E. Esophageal manometry"
+            ],
+            "answer": "B",
+            "explanation": "- Zenker diverticulum (ZD) is a pseudodiverticulum caused by cricopharyngeus muscle dysfunction.\n- Common symptoms include dysphagia, coughing, weight loss, and halitosis.\n- When ZD is suspected, the best diagnostic study is a dynamic esophagram to confirm diagnosis, define anatomy, and demonstrate retained contrast.\n- Esophagogastroduodenoscopy is not the initial diagnostic test and carries a perforation risk.\n- Esophageal manometry is not required for diagnosis or management.\n- Ultrasound can be used if an esophagram is not tolerated but is not the diagnostic study of choice.\n- CT scan is helpful for malignant esophageal disease but not necessary for simple ZD."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. A 48-year-old otherwise healthy man has severe anal pain and blood on the toilet paper with each bowel movement. His symptoms have persisted for 6 months despite a high-fiber diet and a trial of nitroglycerin ointment. On physical exam, you see the following (figure 6.1). The next best step in management is",
+            "options": [
+                "A. botulinum toxin injection.",
+                "B. topical calcium channel blockers.",
+                "C. anocutaneous advancement flap.",
+                "D. lateral internal sphincterotomy.",
+                "E. posterior sphincterotomy."
+            ],
+            "answer": "D",
+            "explanation": "- Anal fissures are a common cause of anal pain and minor anorectal bleeding, often associated with hard bowel movements, and typically located in the posterior midline.\n- Chronic anal fissures (symptoms > 6 weeks) often have a distal skin tag or proximal hypertrophied anal papilla, and internal sphincter fibers may be visible.\n- Acute fissures generally heal with supportive care, but after 6 weeks, healing rates decrease, often requiring further therapy.\n- The primary objective of all therapeutic options is to relax the anal sphincter.\n- Medical options (topical nitric oxide donors, calcium channel blockers) have limited efficacy and common recurrence.\n- For continued symptoms, surgery offers the highest healing rates; lateral internal sphincterotomy is the most successful surgery.\n- Botulinum toxin is less effective than lateral internal sphincterotomy and is reserved for patients who refuse surgery or are at high risk for incontinence.\n- Posterior sphincterotomy is associated with poor wound healing and \"keyhole\" deformity, and has been abandoned as a surgical option.\n- Given the patient's chronic symptoms, failed conservative measures, and no risk factors for incontinence, a lateral internal sphincterotomy is the most appropriate next step."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "7. A 63-year-old woman is 5 days postoperatively from a right colectomy for colon cancer. She has multiple loose stools, abdominal pain, and a leukocytosis. The most sensitive test for Clostridium difficile infection is",
+            "options": [
+                "A. toxigenic stool culture.",
+                "B. flexible sigmoidoscopy.",
+                "C. polymerase chain reaction (PCR).",
+                "D. enzyme immunoassay (ELISA).",
+                "E. CT scan."
+            ],
+            "answer": "A",
+            "explanation": "- Clostridial difficile infection (CDI) is caused by toxin production (toxin A and B).\n- Toxigenic stool culture is the most reliable and most sensitive way to detect CDI, though it takes several days to complete.\n- Enzyme immunoassays (ELISA) for toxin A and B are too insensitive and no longer considered adequate.\n- Polymerase chain reaction (PCR) detects toxin-producing genes, is rapid, sensitive, and has a very high negative predictive value; it is commonly used but cannot distinguish colonization from active CDI.\n- Current recommendations emphasize testing only patients with more than 3 loose stools over a 24-hour period using PCR."
+        },
+        {
+            "id": 8,
+            "question_type": "emq",
+            "question": "8. Preferred screening test for patients at high risk for colon cancer",
+            "options": [
+                "A. Fecal occult blood testing (FOBT)",
+                "B. Fecal immunochemical testing (FIT)",
+                "C. Multi-target stool DNA testing",
+                "D. Colonoscopy",
+                "E. CT colonography"
+            ],
+            "answer": "D",
+            "explanation": "- Colonoscopy remains the standard of care and the recommended test for patients at high risk for colorectal cancer, including those with inflammatory bowel disease or a significant family history."
+        },
+        {
+            "id": 9,
+            "question_type": "emq",
+            "question": "9. Well studied by randomized, prospective clinical trials",
+            "options": [
+                "A. Fecal occult blood testing (FOBT)",
+                "B. Fecal immunochemical testing (FIT)",
+                "C. Multi-target stool DNA testing",
+                "D. Colonoscopy",
+                "E. CT colonography"
+            ],
+            "answer": "A",
+            "explanation": "- Only fecal occult blood testing (FOBT) and flexible sigmoidoscopy have been well-studied in large randomized prospective clinical trials.\n- The Minnesota trial demonstrated that annual FOBT decreased colorectal cancer mortality by 20%."
+        },
+        {
+            "id": 10,
+            "question_type": "emq",
+            "question": "10. Detects human hemoglobin as primary target",
+            "options": [
+                "A. Fecal occult blood testing (FOBT)",
+                "B. Fecal immunochemical testing (FIT)",
+                "C. Multi-target stool DNA testing",
+                "D. Colonoscopy",
+                "E. CT colonography"
+            ],
+            "answer": "B",
+            "explanation": "- Fecal immunochemical testing (FIT) uses immunochemistry to specifically detect human heme.\n- FIT does not detect partially digested heme, making it more sensitive and specific than FOBT."
+        },
+        {
+            "id": 11,
+            "question_type": "clinical_scenario",
+            "question": "A 72-year-old man has right-sided abdominal pain and weight loss. A CT scan is obtained (figure 11-12.1). А colonoscopy confirms a large cecal mass. A biopsy is consistent with a lymphoma.\n11. The most likely pathology is",
+            "options": [
+                "A. Hodgkin lymphoma.",
+                "B. diffuse large B-cell lymphoma.",
+                "C. mucosa associated lymphoid tissue (MALT).",
+                "D. T-cell lymphoma.",
+                "E. Burkitt lymphoma."
+            ],
+            "answer": "B",
+            "explanation": "- Lymphoma can involve any part of the gastrointestinal tract, most commonly the stomach, followed by the small intestine, and then the ileocecal region.\n- Primary colonic lymphoma is an uncommon malignancy.\n- The most common subtype for primary colonic lymphomas is diffuse large B-cell lymphoma.\n- Other subtypes, including T-cell lymphoma, mucosa-associated lymphoid tissue (MALT), and Burkitt lymphoma, are less common.\n- Hodgkin lymphoma is uncommon in the gastrointestinal tract."
+        },
+        {
+            "id": 12,
+            "question_type": "clinical_scenario",
+            "question": "12. After a complete evaluation, including a PET-CT scan, the disease appears to be limited to the colon. The most appropriate next step in treatments is",
+            "options": [
+                "A. antibiotic treatment of Helicobacter pylori.",
+                "B. chemotherapy.",
+                "C. radiotherapy.",
+                "D. right colectomy with lymphadenectomy.",
+                "E. right colectomy with retroperitoneal lymphadenectomy."
+            ],
+            "answer": "D",
+            "explanation": "- The treatment for primary colonic lymphoma is controversial; many researchers consider it a systemic disease best treated with chemotherapy.\n- For large tumors involving the entire bowel wall, there is a reasonable risk of perforation with systemic chemotherapy.\n- Recent data suggest that surgery followed by systemic chemotherapy may improve survival, especially for large tumors of the colon, most commonly affecting the cecum.\n- Surgery should involve segmental resection of the colon and its associated lymph nodes.\n- MALT lymphomas may respond to H. pylori treatment, but this is not applicable to diffuse large B-cell lymphoma.\n- Radiotherapy is not effective for diffuse large B-cell lymphoma."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "13. A 62-year-old man has an esophagogastro-duodenoscopy for reflux symptoms. A 3-cm submucosal mass is noted along the greater curve of the stomach. A core needle biopsy demonstrates spindle cells that stain positively for KIT. For this disease, what factor affects prognosis?",
+            "options": [
+                "A. Lactate dehydrogenase value",
+                "B. Mitotic rate",
+                "C. Lymph node metastasis",
+                "D. Central ulceration seen on endoscopy",
+                "E. 1-cm margins"
+            ],
+            "answer": "B",
+            "explanation": "- Gastrointestinal stromal tumors (GISTs) are most commonly located in the stomach.\n- The most significant risk factors for metastatic spread and recurrence include size larger than 5 cm, mitoses greater than 5 per 50 high powered fields, and location outside the stomach.\n- In this scenario, mitotic rate is the only choice that predicts a poor outcome.\n- Lactate dehydrogenase is not used in the evaluation of GISTs.\n- GISTs do not spread via lymphatics, so lymph node metastasis is not a prognostic factor.\n- Central ulceration is a mucosal finding, not a prognostic factor.\n- 1-cm margins relate to surgical resection, not an intrinsic prognostic factor."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "14. A 52-year-old woman is diagnosed with a 3-cm well-differentiated rectal adenocarcinoma 7 cm from the anal verge. Rectal MRI demonstrates a T2 tumor without a threatened radial margin or enlarged lymph nodes. A complete metastatic evaluation does not show any evidence of metastatic disease. She is otherwise healthy with a BMI of 28. The next best step in management is",
+            "options": [
+                "A. chemotherapy.",
+                "B. chemoradiation.",
+                "C. transanal endoscopic microsurgery.",
+                "D. low anterior resection.",
+                "E. abdominal perineal resection."
+            ],
+            "answer": "D",
+            "explanation": "- Local staging of rectal cancer (depth of tumor invasion, local metastases, distant disease) is critical, with high-resolution pelvic MRI as the preferred imaging strategy.\n- Neoadjuvant chemoradiation is for locally advanced rectal cancer (clinical stage II or III).\n- For stage I (T1/T2, N0, M0) rectal cancer, neoadjuvant therapy is not necessary.\n- Current recommendation for T2N0M0 tumors is a radical resection with a complete mesorectal excision due to unacceptable recurrence rates with prior protocols.\n- Given the patient's T2N0M0 tumor at 7 cm from the anal verge, a low anterior resection with a complete mesorectal excision is possible.\n- Transanal endoscopic microsurgery (local excision) is not appropriate for T2 lesions due to high local recurrence rates.\n- An abdominal perineal resection is not necessary for a midrectal tumor."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "15. A 60-year-old man presents with increasing constipation, narrow stools, mucus discharge, and anal pain with bowel movements. He reports that a hemorrhoid procedure was performed 5 years ago. Physical examination demonstrates anal stenosis and with mucosal eversion. His hemorrhoid procedure was most likely",
+            "options": [
+                "A. injection sclerotherapy.",
+                "B. 3-quadrant hemorrhoidectomy.",
+                "C. rubber band ligation.",
+                "D. transanal hemorrhoidal dearterialization.",
+                "E. a Whitehead procedure."
+            ],
+            "answer": "E",
+            "explanation": "- The most common cause of anal stenosis is a complication after hemorrhoidectomy.\n- The Whitehead procedure involves a circumferential incision in the anal canal to remove hemorrhoid tissue of the distal rectum, and is associated with anal stenosis and mucosal eversion (ectropion).\n- While a 3-quadrant hemorrhoidectomy can be associated with anal stenosis, mucosal eversion with stenosis is specifically linked to the Whitehead procedure.\n- Procedures that do not excise anoderm, such as injection sclerotherapy, rubber band ligation, and transanal hemorrhoidal dearterialization, have a negligible risk of anal stenosis and mucosal eversion."
+        },
+        {
+            "id": 16,
+            "question_type": "clinical_scenario",
+            "question": "Items 16-17\nA 42-year-old woman undergoes an exploratory laparotomy after multiple hospitalizations for partial small bowel obstruction and weight loss. Her history includes treatment for stage IIIB cervical cancer. The pertinent operative finding in the distal ileum are demonstrated in figure 16-17.1.\n16. The most likely diagnosis is",
+            "options": [
+                "A. ischemic enteritis.",
+                "B. carcinoid tumor.",
+                "C. carcinomatosis.",
+                "D. radiation fibrosis.",
+                "E. adhesive disease."
+            ],
+            "answer": "D",
+            "explanation": "- The patient's history of stage IIIB cervical cancer treatment implies prior chemoradiation, which can cause radiation toxicity to the bowel.\n- Radiation enteritis leads to chronic effects on the bowel due to fibrosis.\n- Figure 16-17.2 depicts a segment of diffusely pale small intestine with narrow caliber adjacent to a dilated (proximal) loop of intestine, consistent with radiation-induced fibrosis.\n- Ischemic enteritis would show acute inflammatory changes.\n- A carcinoid tumor would typically be a focal lesion or cause a desmoplastic reaction.\n- Carcinomatosis would likely show focal tumor implants.\n- Adhesive disease would not result in diffuse, homogeneous narrowing of the intestine."
+        },
+        {
+            "id": 17,
+            "question_type": "clinical_scenario",
+            "question": "17. The most appropriate management for these operative findings is",
+            "options": [
+                "A. Adhesiolysis.",
+                "B. small bowel resection.",
+                "C. diverting ileostomy",
+                "D. small bowel bypass",
+                "E. strictureplasty."
+            ],
+            "answer": "B",
+            "explanation": "- The patient's cancer is likely well controlled after chemoradiation.\n- The goal of surgical management is to safely relieve the obstruction and decrease the risk of recurrent obstruction.\n- Bowel resection is the best approach to definitively remove the source of obstruction.\n- Adhesiolysis would not remove the obstructing lesion.\n- A diverting ileostomy may be appropriate for a hostile abdomen, but in this case, the intestinal loops are easy to eviscerate and manipulate.\n- Small bowel bypass is less likely to prevent future recurrence.\n- Strictureplasty may be considered for a small focal lesion, but in this case, a long segment is affected."
+        },
+        {
+            "id": 18,
+            "question_type": "clinical_scenario",
+            "question": "18. A 44-year-old man with a history of paraplegia has a diverting colostomy for a large sacral decubitus. He now presents to the emergency department with abdominal bloating and decreased stool output. He is hemodynamically normal. Abdominal examination shows mild distension, with minimal tenderness, and external physical findings shown in figure 18.1. His white blood cell count is 11,400/mm3 (3600-11,200/mm3), other laboratory results are normal, and an abdominal plain film shows nonspecific bowel gas pattern without abnormalities. Which of the following is the appropriate next step in management?",
+            "options": [
+                "A. Re-siting of the stoma",
+                "B. Manual reduction",
+                "C. Subtotal colectomy with end ileostomy",
+                "D. Submucosal sleeve resection",
+                "E. Local revision"
+            ],
+            "answer": "E",
+            "explanation": "- Figure 18.1 shows a large colostomy prolapse, which is a full-thickness intussusception of the bowel through its abdominal wall orifice.\n- Stoma prolapse is common in transverse and loop colostomies.\n- The mucosa appears edematous, violaceous, and dusky, suggesting early ischemia, which warrants urgent operative management.\n- A local revision is the most suitable procedure for this prolapse, avoiding a laparotomy.\n- Re-siting the stoma requires a laparotomy and is more appropriate for a difficult parastoma hernia.\n- Subtotal colectomy with ileostomy involves more bowel resection than necessary.\n- A submucosal sleeve resection is not an adequate procedure.\n- Manual reduction might be considered if the prolapsed intestine were smooth and nonedematous, but not with concern for early ischemia."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "19. A 55-year-old woman who underwent uncomplicated hip replacement returns to the emergency department with no bowel function for 4 days, nausea, and bloating. A kidney, ureter, and bladder study show dilated colon from the cecum to the rectum Her vital signs are normal. Her abdomen is not tender. The appropriate first step in management should be",
+            "options": [
+                "A. milk of magnesia.",
+                "B. Gastrografin enema.",
+                "C. methylnaltrexone.",
+                "D. intravenous neostigmine.",
+                "E. cecostomy."
+            ],
+            "answer": "B",
+            "explanation": "- This patient presents with symptoms and imaging suggestive of acute colonic pseudo-obstruction (Ogilvie syndrome).\n- The first critical step is excluding a distal obstruction.\n- A Gastrografin enema can rule out distal obstruction, may have therapeutic benefit, and is the appropriate first step in management.\n- Milk of magnesia treats constipation but would not be effective and could worsen colonic dilation.\n- Methylnaltrexone is for opioid-induced constipation, not this scenario.\n- Intravenous neostigmine is an effective treatment but requires ruling out a distal obstruction first.\n- Cecostomy is not first-line management."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "20. The initial management of a localized 4-cm squamous cell carcinoma of the anal canal in a patient with HIV is",
+            "options": [
+                "A. local excision.",
+                "B. chemoradiation.",
+                "C. chemotherapy.",
+                "D. abdominoperineal resection.",
+                "E. immunotherapy."
+            ],
+            "answer": "E",
+            "explanation": "<b>PROBABLE ANSWER: B</b><br>- The initial management of nonmetastatic anal canal cancer larger than 2 cm is chemoradiation.\n- Many such cancers will regress with chemoradiation alone, requiring no surgical management.\n- Local excision is inadequate treatment for a 4-cm tumor.\n- Chemotherapy alone is insufficient.\n- Abdominoperineal resection commits the patient to a permanent colostomy and may not achieve clear margins.\n- Immunotherapy (anti-PD-1 therapy) is investigational and limited to metastatic disease, not primary treatment."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "21. A 68-year-old man had a curative resection of a T2N1M0 adenocarcinoma of the rectum 1 year ago. He is asymptomatic, with a normal physical examination, and carcinoembryonic antigen of less than 0.5 mg/dL. In addition to a CT scan, surveillance at this time should include",
+            "options": [
+                "A. pelvic MRI.",
+                "B. colonoscopy.",
+                "C. rectal ultrasound.",
+                "D. flexible sigmoidoscopy.",
+                "E. PET-CT scan."
+            ],
+            "answer": "B",
+            "explanation": "- For stage III rectal cancer after curative treatment, surveillance goals are to detect recurrence and metachronous colorectal neoplasia.\n- At 1 year, guidelines recommend a colonoscopy, in addition to an office visit, carcinoembryonic antigen laboratory test, and CT scan of the chest, abdomen, and pelvis.\n- Colonoscopy evaluates the colon and rectum for new adenomas and cancers, and can detect luminal recurrence in the anastomosis area.\n- Pelvic MRI and rectal ultrasound are not strictly recommended for routine surveillance.\n- Routine flexible sigmoidoscopy is not consistently recommended and is obviated by the need for a colonoscopy at 1 year.\n- PET-CT scan is not part of routine surveillance for colorectal cancer."
+        },
+        {
+            "id": 22,
+            "question_type": "clinical_scenario",
+            "question": "22. A 68-year-old woman has an incidental finding of a 2-cm dilated appendix noted on a CT scan. There are no other abnormalities. The appendiceal lesion is shown in figure 22.1. The intraoperative findings are a clear appendiceal base and no abnormalities on evaluation of the rest of the peritoneal cavity. The most appropriate management of this patient is",
+            "options": [
+                "A. appendectomy.",
+                "B. appendectomy with bilateral oophorectomy.",
+                "C. right hemicolectomy.",
+                "D. appendectomy with omentectomy.",
+                "E. cytoreductive surgery with hyperthermic intraperitoneal chemotherapy."
+            ],
+            "answer": "A",
+            "explanation": "- These intraoperative findings are classic for a low-grade mucinous neoplasm of the appendix, also known as a mucocele.\n- In an unruptured appendix, the neoplastic process is confined to the epithelium.\n- The most appropriate procedure is an appendectomy with clear margins, taking care to avoid perforation and spillage of neoplastic cells.\n- Prophylactic oophorectomy is not necessary if there is no spread to the ovary.\n- Completion right hemicolectomy is considered if resection margins are inadequate or invasive adenocarcinoma is found.\n- Mesenteric lymphadenectomy is not necessary if there is no invasive carcinoma.\n- Omentectomy is unnecessary without malignancy.\n- Hyperthermic intraperitoneal chemotherapy is for pseudomyxoma peritonei, not a prophylactic maneuver."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "23. A 72-year-old woman is diagnosed with cecal cancer. When performing a curative segmental resection, the optimal mesenteric resection should include",
+            "options": [
+                "A. proximal ligation of the ileocolic artery.",
+                "B. sentinel lymph node biopsy.",
+                "C. 10 cm proximal and distal bowel margins.",
+                "D. removal of all palpable splanchnic lymph nodes.",
+                "E. central lymph node (D3) dissection."
+            ],
+            "answer": "A",
+            "explanation": "- Adequate mesenteric lymph node removal is key for oncologic resection of colon cancer.\n- At least 12 mesenteric lymph nodes should be removed and examined for accurate staging.\n- For a cecal cancer, lymph node drainage follows the path of the ileocolic artery; proximal ligation of this artery ensures adequate lymphadenectomy.\n- Sentinel lymph node biopsy does not guide lymph node dissection.\n- While 5 cm proximal and distal bowel margins are recommended for luminal clearance, they do not affect the quality of mesenteric lymph node dissection.\n- Central lymph node (D3) dissection or removal of all palpable splanchnic nodes does not improve the patient's outcome."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "24. A 45-year-old woman with progressive end-stage renal disease is a potential candidate for peritoneal dialysis. Which of the following statements regarding catheter insertion is true?",
+            "options": [
+                "A. Prior abdominal surgery is a contraindication for peritoneal dialysis",
+                "B. Open insertion has lower catheter mechanical dysfunction rates.",
+                "C. Mechanical catheter dysfunction is the most common cause of conversion to hemodialysis.",
+                "D. Laparoscopic insertion reduces the rate of exit-site infection compared with open insertion.",
+                "E. Rectus sheath tunnel and omentopexy reduces the incidence of catheter mechanical dysfunction."
+            ],
+            "answer": "E",
+            "explanation": "- Peritoneal dialysis is a desirable option for many end-stage renal disease patients.\n- A rectus sheath tunnel directs the catheter toward the pelvis, and the addition of omentopexy decreases the likelihood of omental entrapment, thus reducing catheter mechanical dysfunction.\n- Prior abdominal surgery is not a contraindication unless severe peritoneal adhesions preclude catheter flow.\n- Laparoscopic-assisted placement reduces mechanical dysfunction compared with open technique.\n- Mechanical dysfunction is the second most common cause of peritoneal dialysis failure, after infection.\n- Laparoscopic insertion does not reduce the rate of exit-site infection."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "25. A key quality indicator for screening colonoscopy is",
+            "options": [
+                "A. an average withdrawal time of at least 10 minutes.",
+                "B. an adenoma detection rate of 10%.",
+                "C. an incidence of perforation of less than 1:1000 procedures.",
+                "D. an incidence of postpolypectomy bleeding of 5%.",
+                "E. a rate of cecal intubation of at least 98% with photo documentation."
+            ],
+            "answer": "C",
+            "explanation": "- Key quality indicators for screening colonoscopy include:\n  - Cecum intubation in at least 90% of all cases (95% for healthy adults) with photo documentation.\n  - Average withdrawal time of at least 6 minutes.\n  - Adenoma detection rate target of at least 25%.\n  - Safety performance measures: perforations in fewer than 1:1000 procedures and postpolypectomy bleeding less than 1%."
+        },
+        {
+            "id": 26,
+            "question_type": "mcq",
+            "question": "26. A 78-year-old woman with a history of atrial fibrillation and compensated congestive heart failure presents with a 2-week history of diffuse abdominal pain, distention, and obstipation. Imaging studies confirm an obstructing lesion in the descending colon, and biopsy indicates an invasive adenocarcinoma. Compared with emergency resection, deployment of a self-expandable metal stent as a bridge to surgery can be expected to result in",
+            "options": [
+                "A. fewer complications.",
+                "B. a higher mortality rate.",
+                "C. more radical resections.",
+                "D. fewer primary anastomoses.",
+                "E. fewer temporary stomas."
+            ],
+            "answer": "E",
+            "explanation": "- Neoplastic colon obstruction is traditionally treated with emergency resection.\n- Self-expanding metallic stents are used as a bridge to surgery to allow patient optimization and formal bowel preparation, avoiding a temporary stoma.\n- A randomized controlled study showed that stented patients were less likely to have a temporary stoma created (22% vs 39% for emergency resection patients).\n- There were no differences in morbidity, mortality, number of radical resections, or number of primary anastomoses between stenting and initial resection."
+        },
+        {
+            "id": 27,
+            "question_type": "mcq",
+            "question": "27. A 42-year-old man with a history of familial adenomatous polyposis presents with a firm, 7.4-cm mass in the abdominal wall. A core needle biopsy is suspicious for a desmoid tumor. CT angiography shows no infiltration of intraperitoneal structures. What is the next step in treatment?",
+            "options": [
+                "A. Enucleation",
+                "B. Wide local excision",
+                "C. C Imatinib",
+                "D. Neoadjuvant chemotherapy",
+                "E. Radiation"
+            ],
+            "answer": "B",
+            "explanation": "- Desmoid tumors are rare soft tissue neoplasms, which can be sporadic or associated with familial adenomatous polyposis (FAP) syndrome.\n- They are not true malignancies but have aggressive local growth and invasion of adjacent structures.\n- Surgical resection with wide local excision to negative margins was traditionally first-line treatment for sporadic desmoids, but watchful waiting is preferred for intra-abdominal desmoids due to morbidity.\n- Surgical resection is first-line treatment for FAP-related desmoid tumors of the abdominal wall.\n- Simple enucleation is not recommended due to the infiltrative nature of these tumors.\n- Radiation therapy is effective for unresectable tumors or as adjuvant therapy.\n- Tyrosine kinase inhibitors (e.g., imatinib) are used in patients with advanced disease but have a low response rate."
+        },
+        {
+            "id": 28,
+            "question_type": "clinical_scenario",
+            "question": "28. A 46-y ear-old patient presents with a small bowel obstruction. He has a history of flushing episodes with antecedent diarrhea. During the operation, the patient is found to have numerous liver lesions along with an ileal mass with enlarged lymph nodes. During the biopsy of one of the lesions on the surface of segment II, the patient becomes hypotensive and is unresponsive to fluids or norepinephrine. Frozen section of the lesion suggests a neuroendocrine tumor. What is the most appropriate management of the hypotension?",
+            "options": [
+                "A. Transfuse packed red cells and fresh frozen plasma.",
+                "B. Allow for permissive hypotension and continue the operation.",
+                "C. Stop the operation and transfer the patient to the intensive care unit for resuscitation.",
+                "D. Administer high-dose steroids.",
+                "E. Administer high-dose octreotide."
+            ],
+            "answer": "E",
+            "explanation": "- Gastroenteropancreatic neuroendocrine tumors (carcinoid tumors) are indolent midgut tumors that can metastasize to the liver.\n- These tumors can release vasoactive peptides (serotonin, histamine, bradykinin) causing symptoms like diarrhea, flushing, tachycardia, and bronchoconstriction (carcinoid syndrome).\n- Manipulation of a hepatic metastasis can induce a carcinoid crisis, a medical emergency involving extreme hypotension or hypertension.\n- In such situations, an octreotide infusion is titrated to reverse the crisis.\n- Steroids are generally reserved for patients with adrenal insufficiency.\n- Crystalloids are appropriate for hypotension, but blood or fresh frozen plasma are not for non-bleeding or anemic patients.\n- Permissive hypotension has not been studied in carcinoid crisis."
+        },
+        {
+            "id": 29,
+            "question_type": "mcq",
+            "question": "29. A 67-year-old man presents with progressive abdominal bloating and obstipation. Abdominal exam reveals severe distention with mild tenderness and no guarding. Digital rectal exam reveals a low-lying mass 5 cm from the anal verge that is circumferential. CT scan shows a complete large bowel obstruction with cecal distention to 11 cm, as well as a low rectal mass with surrounding mesorectal lymphadenopathy. What is the most appropriate management?",
+            "options": [
+                "A. Gecostomy tube",
+                "B. Colonic stent placement",
+                "C. Loop sigmoid colostomy",
+                "D. Low anterior resection",
+                "E. Total proctocolectomy"
+            ],
+            "answer": "C",
+            "explanation": "- This patient has a complete large bowel obstruction with impending cecal perforation and a locally advanced distal rectal cancer.\n- Urgent intervention is required to decompress the colon.\n- Upfront proctectomy should be avoided for stage III rectal cancer; neoadjuvant chemotherapy and radiation followed by definitive resection is preferred.\n- A loop sigmoid colostomy effectively decompresses the large bowel obstruction and allows for subsequent neoadjuvant therapy and curative surgery.\n- Cecostomy tubes are generally morbid, clog easily, and do not provide durable proximal diversion.\n- Colonic stent placement is less effective for distal rectal cancers due to high rates of migration, proctalgia, and incontinence.\n- Low anterior resection (definitive resection) is not appropriate as an initial step.\n- Total proctocolectomy is oncologically inappropriate upfront."
+        },
+        {
+            "id": 30,
+            "question_type": "clinical_scenario",
+            "question": "30. A 54-year-old woman diagnosed with ulcerative colitis 2 years ago is on infliximab therapy. She feels well overall and denies abdominal pain, diarrhea, or hematochezia. She undergoes surveillance colonoscopy, which reveals active colitis throughout the colon and rectum. There is a large mass in the cecum; biopsies reveal adenocarcinoma. Workup is negative for metastatic disease. What is the most appropriate surgical management?",
+            "options": [
+                "A. Cecectomy",
+                "B. Right hemicolectomy",
+                "C. Subtotal colectomy with ileosigmoid anastomosis",
+                "D. Total proctocolectomy with ileal pouch-anal anastomosis",
+                "E. Total proctocolectomy with continent ileostomy"
+            ],
+            "answer": "D",
+            "explanation": "- Patients with longstanding ulcerative colitis have an almost 20% risk of developing colorectal cancer.\n- When cancer is found in the absence of metastatic disease, total proctocolectomy is the standard of care.\n- Total proctocolectomy with ileal pouch-anal anastomosis (IPAA) involves complete removal of all colorectal mucosa and creation of a neorectum.\n- Continent ileostomies are typically reserved for patients with pouch failure or those not candidates for a pouch, rarely first-line therapy.\n- Subtotal colectomy with ileosigmoid anastomosis or total colectomy with ileorectal anastomosis are not appropriate for patients with active proctitis and carry a high risk of subsequent proctectomy.\n- Cecectomy is not oncologically appropriate as it does not involve high ligation of the ileocolic artery or adequate lymph node harvest.\n- Right hemicolectomy would treat the known cancer but leave behind distal colon at high risk of metachronous malignancy in the setting of inflammatory bowel disease."
+        },
+        {
+            "id": 31,
+            "question_type": "mcq",
+            "question": "31. A 62-year-old woman has increased anal pain associated with bleeding. A 1-cm mass is palpated in the anal canal and confirmed on colonoscopy. A biopsy is consistent with an anal melanoma. A whole-body PET-CT scan shows no evidence of disease other than that in the anal canal. What is the most appropriate primary treatment?",
+            "options": [
+                "A. Radiation",
+                "B. Chemotherapy",
+                "C. Ipilimumab",
+                "D. Local excision",
+                "E. Abdominal perineal resection"
+            ],
+            "answer": "D",
+            "explanation": "- Anal melanoma is an uncommon malignancy of the gastrointestinal tract with a very poor prognosis.\n- Abdominal perineal resection (APR) was historically the treatment of choice, but local and distant recurrences were common.\n- Most experts now recommend local excision when technically feasible, as it has lower associated morbidity and similar overall survival compared to APR.\n- Ideally, a local excision should include a 1-cm margin, though this can be challenging.\n- Radiation as primary treatment is not appropriate.\n- Chemotherapy is not considered a primary treatment for anal melanoma.\n- Ipilimumab (a monoclonal antibody) is used for metastatic melanoma, but not before resection."
+        }
+    ]
+}

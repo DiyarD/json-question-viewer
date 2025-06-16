@@ -1,0 +1,355 @@
+{
+    "chapter_name": "Endocrine",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A 62-year-old active woman presents 10 years after radioiodine treatment for Graves disease. Her medications include a thiazide for hypertension and 0.1 pg of levothyroxine. She now presents with weakness, weight gain, delayed ankle reflexes, and scaly skin. Her serum thyroid-stimulating hormone level is high. Which intervention should be considered?",
+            "options": [
+                "A. Stopping thiazide",
+                "B. Increasing levothyroxine dose",
+                "C. Checking a free T4 level",
+                "D. Decreasing levothyroxine dose",
+                "E. Monitoring serum thyroglobulin"
+            ],
+            "answer": "B",
+            "explanation": "- Iodine-131 (131I) treatment for Graves disease often leads to hypothyroidism.\n- Hypothyroidism typically presents with weakness, weight gain, delayed ankle reflexes, and scaly skin.\n- Diagnosis is usually confirmed by checking a thyroid-stimulating hormone (TSH) level; a high TSH level with symptoms of hypothyroidism while on levothyroxine is sufficient for diagnosis.\n- The treatment for hypothyroidism is to increase the levothyroxine dose.\n- Thiazide is not known to cause or mimic hypothyroidism.\n- Serum thyroglobulin is used to monitor thyroid cancer patients, not for diagnosing hypothyroidism."
+        },
+        {
+            "id": 2,
+            "question_type": "emq",
+            "question": "The most common type of functional pancreatic neuroendocrine tumor in a patient with multiple endocrine neoplasia type 1",
+            "options": [
+                "A. Insulinoma",
+                "B. VIPoma (vasoactive intestinal polypeptide tumor)",
+                "C. Somatostatinoma",
+                "D. Glucagonoma",
+                "E. Gastrinoma"
+            ],
+            "answer": "E",
+            "explanation": "- Neuroendocrine tumors (NETs) are a diverse group of neoplasms.\n- Pancreatic neuroendocrine tumors (pNETs) are relatively uncommon.\n- Fifty percent of patients with multiple endocrine neoplasia (MEN) 1 develop Zollinger-Ellison syndrome (refractory peptic ulcer disease and secretory diarrhea) due to gastrin hypersecretion from a gastrinoma, which is the most common type of pNET in MEN 1 patients."
+        },
+        {
+            "id": 3,
+            "question_type": "emq",
+            "question": "Symptoms of confusion, tremors, weakness ameliorated with administration of glucose",
+            "options": [
+                "A. Insulinoma",
+                "B. VIPoma (vasoactive intestinal polypeptide tumor)",
+                "C. Somatostatinoma",
+                "D. Glucagonoma",
+                "E. Gastrinoma"
+            ],
+            "answer": "A",
+            "explanation": "- Insulinoma is the most common functional pNET outside of the multiple endocrine neoplasia syndromes.\n- Hypersecretion of insulin from a functional insulinoma clinically manifests as the Whipple triad: symptoms of hypoglycemia (confusion, tremors, weakness, palpitations, sweating), documented hypoglycemia during the episode, and resolution of symptoms with glucose administration."
+        },
+        {
+            "id": 4,
+            "question_type": "emq",
+            "question": "Migratory necrolytic erythema and deep venous thrombosis",
+            "options": [
+                "A. Insulinoma",
+                "B. VIPoma (vasoactive intestinal polypeptide tumor)",
+                "C. Somatostatinoma",
+                "D. Glucagonoma",
+                "E. Gastrinoma"
+            ],
+            "answer": "D",
+            "explanation": "- Glucagonomas and VIPomas each account for less than 10% of functional pNETs.\n- The classic finding in a patient with glucagon hypersecretion is migratory necrolytic erythema, a dermatitis with erythematous, necrotic, and pigmented scar lesions.\n- Other symptoms attributed to a glucagonoma include glucose intolerance, diarrhea, and deep venous thrombosis."
+        },
+        {
+            "id": 5,
+            "question_type": "emq",
+            "question": "Achlorhydria, hypokalemia, and dehydration",
+            "options": [
+                "A. Insulinoma",
+                "B. VIPoma (vasoactive intestinal polypeptide tumor)",
+                "C. Somatostatinoma",
+                "D. Glucagonoma",
+                "E. Gastrinoma"
+            ],
+            "answer": "B",
+            "explanation": "- The hypersecretion of vasoactive intestinal peptide from a VIPoma causes achlorhydria, hypokalemia, and dehydration from large-volume watery diarrhea.\n- Somatostatinoma is the least common pNET; functional tumors rarely exhibit all associated symptoms, which include diabetes mellitus, gallbladder disease, steatorrhea, anemia, and weight loss."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "A 31-year-old asymptomatic woman was referred for management of thyroid nodules. A CT scan after an automobile crash incidentally demonstrated a nodular thyroid. Subsequent ultrasound showed a 1-cm cyst on the left and a 7-mm indeterminate lesion on the right. The most appropriate next step in management is",
+            "options": [
+                "A. ultrasound-guided aspiration of both thyroid nodules.",
+                "B. ultrasound-guided aspiration of the right-sided thyroid nodule.",
+                "C. total thyroidectomy.",
+                "D. right thyroid lobectomy.",
+                "E. follow-up ultrasound in 6 months."
+            ],
+            "answer": "E",
+            "explanation": "- Incidental thyroid lesions (incidentalomas) are often discovered on CT or MRI scans.\n- When found, thyroid ultrasound is recommended, and the size and appearance on ultrasound guide next steps.\n- Nodules less than 1 cm in size can generally be followed with repeat ultrasound in 6 months.\n- Thyroid nodules 1 to 1.5 cm with intermediate- or high-risk features should undergo fine needle aspiration (FNA); those with low-risk features can be followed.\n- Nodules at least 1.5 cm should undergo FNA regardless of suspicious nature.\n- Suspicious ultrasound features include solid versus cystic nodules, hypoechogenicity, microcalcifications, intranodular vascularity, irregular or infiltrative margins, and shape taller than wide.\n- Partially cystic nodules without these features have a malignancy risk of less than 3%, and purely cystic nodules have a malignancy risk of less than 1%.\n- There is no indication for surgery without a preoperative diagnosis by FNA."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "A 74-year old man presents with symptomatic gynecomastia associated with treatment for prostate cancer. The condition has been present for a little more than 12 months. What treatment will have the best chance of success in treating his gynecomastia?",
+            "options": [
+                "A. Bilateral orchiectomy",
+                "B. Prophylactic radiotherapy",
+                "C. Nonsteroidal antiandrogen therapy",
+                "D. Estrogen therapy",
+                "E. Subcutaneous mastectomy"
+            ],
+            "answer": "E",
+            "explanation": "- Gynecomastia is often associated with obesity and caused by changes in the free androgen to estrogen ratio.\n- It is a common, potentially treatment-limiting side effect in men treated with hormones for prostate cancer.\n- Mitigation strategies include withdrawal of the causative drug, prophylactic breast irradiation, or aromatase inhibitors.\n- Medical interventions are effective during the active proliferative phase of gynecomastia.\n- Only short-term, drug-induced gynecomastia responds well to removal of the contributing agent.\n- Long-standing gynecomastia is associated with irreversible changes, including fibrosis, and is relatively unresponsive to anything but surgery.\n- Surgical modalities include bilateral subcutaneous mastectomies or ultrasound-assisted liposuction."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "A 45-year-old woman has a calcium level of 11 g/dL (8.5-10.2 g/dL) on routine screening laboratory examination for a life insurance policy. Her parathyroid hormone level is at the upper end of normal, and her serum calcium levels are persistently 1 g/dL above normal. Which of the following tests should be ordered as part of her initial biochemical evaluation?",
+            "options": [
+                "A. 25-hydroxyvitamin D",
+                "B. Beta human chorionic gonadotropin",
+                "C. Cortisol",
+                "D. Liver function",
+                "E. Thyroid stimulating hormone"
+            ],
+            "answer": "A",
+            "explanation": "- Asymptomatic primary hyperparathyroidism (pHPTH) is a commonly encountered condition.\n- Biochemical evaluation for suspected pHPTH should include total calcium (corrected for serum albumin), parathyroid hormone levels, creatinine, and 25-hydroxyvitamin D levels.\n- Patients should also undergo 24-hour urine testing for creatinine and calcium.\n- Measurement of beta human chorionic gonadotropin, cortisol, liver function tests, and thyroid stimulating hormone are not routinely recommended for diagnostic evaluation of pHPTH.\n- To diagnose pHPTH, low Vitamin D levels must be excluded, as they can cause a compensatory increase in parathyroid hormone.\n- Familial hypocalciuric hypercalcemia, characterized by low urinary calcium excretion with elevated PTH and calcium levels, is another diagnosis to consider."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "A 55-year-old man underwent a CT scan of the abdomen and pelvis after a motor vehicle crash. No intra-abdominal injuries were noted; however, a 2-cm homogenous right adrenal mass was found. He is normotensive. Which of the following is the next step in evaluating the clinical significance of this adrenal lesion?",
+            "options": [
+                "A. Plasma-free metanephrines",
+                "B. No further evaluation",
+                "C. CT-guided biopsy",
+                "D. Right adrenalectomy",
+                "E. Measurement of urine vanillylmandelic acid"
+            ],
+            "answer": "A",
+            "explanation": "- Adrenal incidentalomas are adrenal tumors identified during radiographic testing for unrelated causes.\n- Although most are benign, the differential diagnosis is broad and includes aggressive tumors like adrenal cortical cancer.\n- Adrenal incidentalomas may be hormonally functional, and failure to recognize and treat functional ones increases long-term morbidity and mortality.\n- All adrenal tumors should be screened to exclude biochemical hyperfunction, regardless of size and radiographic appearance.\n- Laboratory examination should include 24-hour urine collection for fractionated catecholamines and metanephrines or plasma-free metanephrines to rule out pheochromocytoma.\n- An overnight 1-mg dexamethasone suppression test should be used to evaluate for Cushing syndrome.\n- Adrenal biopsy has a limited role, carries risks, and cannot differentiate benign from malignant tumors.\n- Given the size of this lesion (2 cm), observation with 6-month follow-up CT scan is not appropriate without biochemical evaluation."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "A 35-year-old healthy woman presents for evaluation of a small lump that she recently noticed in her anterior neck. Her medical, surgical, and family history are unremarkable. Physical examination is normal, with the exception of a single small, firm nodule in the mid-neck to the right of the trachea. Ultrasound of the neck demonstrates a 3.0-cm solid nodule in the right lobe of the thyroid and no evidence of abnormal lymph nodes. Ultrasound-guided fine needle aspiration of the nodule demonstrates papillary thyroid carcinoma. What is the most appropriate management option?",
+            "options": [
+                "A. Right thyroid lobectomy",
+                "B. Total thyroidectomy",
+                "C. Total thyroidectomy with central node dissection",
+                "D. D. Total thyroidectomy, central node dissection, with right level II through V node dissection",
+                "E. E. Total thyroidectomy, central node dissection, with bilateral level II through V node dissection"
+            ],
+            "answer": "A",
+            "explanation": "- Papillary thyroid cancer is indolent with an excellent prognosis, and surgical resection is the mainstay of treatment.\n- Until 2016, American Thyroid Association (ATA) guidelines recommended total or near-total thyroidectomy for papillary thyroid cancer tumors larger than 1 cm, and lobectomy for tumors less than 1 cm.\n- Studies published before 2016 questioned tumor size as an absolute indicator for total thyroidectomy, given its higher risks (hypoparathyroidism, recurrent laryngeal nerve injury).\n- More recent data failed to demonstrate a survival advantage of total thyroidectomy for tumors 1.0 to 4.0 cm.\n- The 2016 ATA guidelines suggested that thyroid lobectomy is adequate treatment for unifocal, intrathyroid papillary thyroid cancer tumors up to 4 cm, in the absence of prior head and neck radiation, familial thyroid cancer, or clinically detectable cervical nodal metastasis.\n- Total thyroidectomy may be chosen if adjuvant radioactive iodine treatment is planned, if high-risk features are present, or based on patient preference.\n- Prophylactic lymph node dissection is not indicated for noninvasive, clinically node-negative papillary thyroid cancer tumors smaller than 4.0 cm."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "A 50-year-old woman presents after her annual physical examination. She had a serum calcium of 11.5 mg/dL (8.5-10.2 mg/dL). Her parathyroid hormone level was 70 pg/mL (10-65 pg/mL). Her urinary excretion of calcium was low (<100 mg/day). She states she has no complaints. Ultrasound of the neck is normal. What is the most appropriate next step?",
+            "options": [
+                "A. Sestamibi scan",
+                "B. Chest CT scan",
+                "C. Serum Vitamin D level",
+                "D. Bilateral neck exploration",
+                "E. Bone density test"
+            ],
+            "answer": "C",
+            "explanation": "- Hyperparathyroidism is subdivided into primary, secondary, and tertiary types.\n- Primary hyperparathyroidism (pHPTH) is caused by the overproduction of parathyroid hormone (PTH) from chief cells.\n- The diagnosis of pHPTH is based entirely on laboratory analyses.\n- For patients with elevated calcium and PTH, two other diagnoses must be excluded: Vitamin D deficiency and familial hypocalciuric hypercalcemia.\n- First, a Vitamin D level should be checked, as low Vitamin D levels can cause a compensatory increase in PTH.\n- If Vitamin D levels are corrected and PTH remains elevated, pHPTH is considered.\n- Familial hypocalciuric hypercalcemia is characterized by low urinary excretion of calcium along with elevated PTH and calcium levels.\n- A sestamibi scan is used to identify a hyperactive parathyroid gland but is typically performed after initial biochemical evaluation, including Vitamin D levels."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "An 80-year-old man with a history of small cell lung cancer with brain and bone metastases is in the emergency department. His wife states that this past week he has experienced nausea, vomiting, abdominal pain, excessive thirst, and weakness. Today he became very confused. He is extremely cachectic, stuporous, and moaning in bed while holding his abdomen. His heart rate is 110 beats per minute, and his blood pressure is 95/60 mm Hg. Severe hypercalcemia is confirmed. After initiation of intravenous saline and bisphosphonates, what is the next step in treatment for this patient?",
+            "options": [
+                "A. Calcitonin",
+                "B. Cinacalcet",
+                "C. Glucocorticoids",
+                "D. Mithramycin",
+                "E. Furosemide"
+            ],
+            "answer": "A",
+            "explanation": "- Hypercalcemia affects up to 30% of patients with metastatic cancer, mimicking underlying malignancy symptoms.\n- Acute and symptomatic hypercalcemia require prompt therapy to restore glomerular filtration rate and normalize serum calcium levels.\n- Initial therapy should begin with intravenous volume expansion with 0.9% saline.\n- Intravenous bisphosphonates are the initial treatment of choice as they inhibit osteoclastic bone resorption, but they do not reach maximum effectiveness until days 2 through 4.\n- For rapid reduction in serum calcium levels, calcitonin should be added to the immediate treatment regimen, as its beneficial effects are seen as soon as 6 hours after administration.\n- Loop diuretics may be added cautiously if the patient has signs of fluid overload, but they can worsen electrolyte derangements and volume depletion.\n- Glucocorticoids are only beneficial in lymphomas secreting calcitriol.\n- Cinacalcet is ineffective in malignant hypercalcemia where PTH levels are typically suppressed.\n- Mithramycin is no longer used for acute malignant hypercalcemia due to less effectiveness and convenience compared to bisphosphonates."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "You have performed a fine needle aspiration of a 2.2-cm thyroid nodule in die right lobe on a 35-year-old euthyroid patient. The cytopathologist reports the finding as Bethesda Category III, follicular lesion of undetermined significance. Neck ultrasound shows no lymphopathy. What is the best next step in management?",
+            "options": [
+                "A. Repeat fine needle aspiration",
+                "B. Surveillance ultrasound",
+                "C. Total thyroidectomy",
+                "D. Right lobectomy",
+                "E. Subtotal thyroidectomy"
+            ],
+            "answer": "A",
+            "explanation": "- Thyroid nodules are common, with less than 5% being cancerous.\n- Ultrasound is the best first test to assess a thyroid nodule.\n- Fine needle aspiration (FNA) is recommended for nodules between 1 and 2 cm based on suspicion of malignancy.\n- The Bethesda System for Thyroid Cytopathology aids in managing FNA results.\n- For a Bethesda Category III diagnosis (follicular lesion of undetermined significance), which has a 5-15% chance of malignancy, a repeat fine needle aspiration is indicated.\n- Surveillance ultrasound does not provide the necessary repeat pathology for follicular lesions of undetermined significance.\n- Surgical options (total thyroidectomy, right lobectomy, and subtotal thyroidectomy) are considered only after a more definitive diagnosis is made."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "A 55-year-old man was referred to you for evaluation of a 5.2-cm, incidentally discovered mass in his right adrenal gland. He has a history of hypertension and diabetes. What is the next step in his management?",
+            "options": [
+                "A. Measurement of plasma-free metanephrines",
+                "B. Right adrenalectomy",
+                "C. Follow-up CT scan in 6 months",
+                "D. CT-guided adrenal biopsy",
+                "E. Measurement of urine vanillylmandelic acid"
+            ],
+            "answer": "A",
+            "explanation": "- Adrenal incidentalomas are found in approximately 1% of patients undergoing axial imaging for unrelated reasons.\n- All adrenal incidentalomas should be evaluated for functional status and malignant potential.\n- Adrenocortical carcinomas are typically large (6-8 cm) and have characteristic imaging features; the likelihood of carcinoma increases with tumor size.\n- Clinical guidelines suggest that any lesion larger than 4 cm should undergo resection due to increased cancer risk.\n- Pheochromocytomas must be ruled out due to the risk of hypertensive crisis during surgery.\n- The initial screening test for a pheochromocytoma is plasma-free metanephrines.\n- If plasma-free metanephrines are elevated, a 24-hour urine collection for catecholamines and metanephrines should be performed.\n- Urine vanillylmandelic acid is no longer used for screening due to its low specificity.\n- All asymptomatic patients with adrenal incidentaloma should also undergo screening for cortisol excess using a dexamethasone suppression test.\n- Adrenal biopsy has a very limited role and cannot differentiate benign from malignant tumors.\n- Given the size of this lesion (5.2 cm), observation with 6-month follow-up CT scan is not appropriate."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "A 64-year-old woman presents with nephrolithiasis and primary hyperparathyroidism. Her family history is unremarkable A Tc-99 sestamibi scan demonstrates a focus of activity near the left lower pole of the thyroid gland. The next step in her management should be",
+            "options": [
+                "A. left neck exploration.",
+                "B. confirmatory 24-hour urinary calcium level.",
+                "C. neck ultrasound.",
+                "D. observation with repeat calcium and parathormone levels in 6 months.",
+                "E. contrast-enhanced dynamic CT scan of the neck and chest (4-dimensional CT)."
+            ],
+            "answer": "C",
+            "explanation": "- The biochemical diagnosis of primary hyperparathyroidism (pHPTH) involves elevated serum calcium with inappropriately elevated parathormone (PTH) levels.\n- Once the biochemical diagnosis of pHPTH is made, further testing is often unnecessary, and the decision for surgery is made in consultation with an endocrine surgeon.\n- Surgical intervention criteria for pHPTH are well-established for symptomatic patients or those with evidence of organ dysfunction from hypercalcemia (e.g., nephrolithiasis).\n- The decision for further imaging is based solely on the planned operative technique.\n- If traditional 4-gland neck exploration is planned, no further imaging is necessary.\n- If focused parathyroidectomy is planned, imaging techniques to localize a solitary adenoma are appropriate.\n- The sensitivity of Tc-99 sestamibi scan ranges from 65% to 85%, but its specificity for diagnosing a solitary adenoma is relatively low.\n- Most experienced surgeons use a two-imaging test algorithm; if concordant and confirmatory of a solitary adenoma, focused exploration may be appropriate.\n- The most commonly used imaging tests, from least to most expensive, are neck ultrasonography, Tc-99 sestamibi scanning, and contrast-enhanced CT scan of the neck.\n- Neck ultrasonography is inexpensive, reliable, office-based, and can help rule out additional thyroid pathology."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "In classical multiple endocrine neoplasia type 2A, most patients develop",
+            "options": [
+                "A. medullary thyroid cancer.",
+                "B. pheochromocytoma.",
+                "C. primary hyperparathyroidism.",
+                "D. insulinoma.",
+                "E. pituitary adenomas."
+            ],
+            "answer": "A",
+            "explanation": "- Multiple endocrine neoplasias (MEN) are autosomal dominant inherited familial disorders that predispose to tumors of endocrine organs.\n- Classical MEN2A includes medullary thyroid cancer, pheochromocytoma, and primary hyperparathyroidism.\n- Nearly all patients with classical MEN2A develop medullary thyroid cancer.\n- Fewer patients develop pheochromocytomas or primary hyperparathyroidism.\n- Pheochromocytomas should be excluded whenever a diagnosis of medullary thyroid cancer is made, as pheochromocytomas should be treated first if any intervention is planned.\n- Pancreatic neuroendocrine tumors, pituitary adenomas, and parathyroid hyperplasia are characteristic of MEN 1."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "A 49-year-old woman is found to have hypercalcemia on routine bloodwork. Detailed questioning reveals no symptoms related to hypercalcemia. She has normal bone density. Laboratory evaluation reveals the following:\nComponent Value Normal\nCalcium 10.9 mg/dL 8.5-10.2 mg/dL\nPhosphorus 2.0 mg/dL 2.5-4.5 mg/dL\nChloride 100 mEq/L 95-105 mEq/L\nIntact parathyroid hormone 177 Pg/mL 10-65 pg/mL\n24-hour urine calcium 300 mg 100-300 mg/day\nCreatinine 0.6 mg/dL 0.40-1.30 mg/dL\n25(OH) Vitamin D 33 ng/mL 20-50 ng/mL\nParathyroidectomy is indicated based on",
+            "options": [
+                "A. the chloride/phosphorus ratio greater than 40.",
+                "B. the degree of parathyroid hormone elevation.",
+                "C. the degree of hypercalciuria.",
+                "D. her age.",
+                "E. her creatinine level."
+            ],
+            "answer": "D",
+            "explanation": "- This patient has a diagnosis of primary hyperparathyroidism (pHPTH).\n- For asymptomatic patients, objective criteria are needed for surgical intervention, as elucidated by international workshops and surgical guidelines.\n- The patient's calcium is not more than 1 mg/dL above normal.\n- Phosphorus, chloride, and the phosphorus:chloride ratio do not determine which patients benefit from parathyroidectomy.\n- Hypercalciuria (>400 mg/24 hours) is an indication for operation, but the patient's level (300 mg) is not hypercalciuric.\n- Kidney stones (current or history of) and nephrocalcinosis are indications for surgical treatment.\n- Serum creatinine level is not a determinant for surgical benefit.\n- Renal dysfunction (glomerular filtration rate <60 mL/minute) is an indication for operation.\n- The presence of an elevated intact parathyroid hormone level with hypercalcemia establishes the diagnosis of pHPTH, but the PTH level alone does not determine the basis for operation.\n- The 2013 National Institutes of Health consensus conference recommended parathyroidectomy for asymptomatic patients including those aged 50 years or younger, regardless of symptom status. The patient is 49 years old, which meets this criterion."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "A 45-year-old man undergoes abdominal CT scan after a motor vehicle collision. CT scan reveals only an incidental 3.5-cm right adrenal lesion (<10 Hounsfield units). The patient is otherwise healthy and has no other injuries related to the collision. His electrolytes are normal. Plasma-free metanephrines are normal Which of the following steps is also appropriate to evaluate his adrenal lesion?",
+            "options": [
+                "A. MRI.",
+                "B. dexamethasone suppression test.",
+                "C. metaiodobenzylguanidine (MIBG) scan.",
+                "D. plasma aldosterone concentration and renin activity.",
+                "E. observation."
+            ],
+            "answer": "B",
+            "explanation": "- Adrenal incidentalomas are evaluated to determine malignant potential and functional activity.\n- Functional activity should be evaluated through a thorough history and physical examination.\n- All patients with adrenal incidentaloma should undergo screening for cortisol excess using a dexamethasone suppression test.\n- All patients should be screened for pheochromocytoma using plasma-free metanephrines or urinary fractionated metanephrines (plasma-free metanephrines were already normal in this case).\n- Screening for aldosteronoma using plasma aldosterone concentration and renin activity can be reserved for patients with hypertension and hypokalemia (patient's electrolytes are normal, and he is normotensive).\n- Radiographic characteristics like size and Hounsfield units on CT scan help predict malignant potential. Lesions less than 4 cm with 10 HU or fewer are unlikely to be malignant, so further imaging like MRI is not needed for malignancy assessment at this stage.\n- MIBG scanning was formerly used for pheochromocytoma localization but has been replaced by MRI and PET scan.\n- Adrenal biopsy has a very limited role and cannot differentiate benign from malignant tumors.\n- Given the need to evaluate functional status, and normal metanephrines, a dexamethasone suppression test is the appropriate next step."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "A healthy 50-year-old woman underwent single parathyroidectomy for primary hyperparathyroidism 1 year ago. Preoperative imaging at that time did not localize an adenoma. She presents now with recurrent elevated calcium and elevated parathyroid hormone levels. Which of the following is the recommended next step?",
+            "options": [
+                "A. Bilateral neck exploration",
+                "B. Repeat neck ultrasound in 6 months",
+                "C. 99mTechnetium sestamibi scintigraphy",
+                "D. Bone density scan",
+                "E. Radioactive iodine uptake scan"
+            ],
+            "answer": "C",
+            "explanation": "- Surgery fails to cure primary hyperparathyroidism (pHPTH) in 10% or fewer patients.\n- Persistent pHPTH is defined as failure of cure before 6 months postoperatively.\n- Recurrent pHPTH occurs in a patient with initial normalization of calcium, followed by recurrence after 6 months.\n- All previous imaging, operative reports, and pathology reports should be reviewed.\n- If the patient meets criteria for surgery, noninvasive imaging, such as 99mTechnetium sestamibi scintigraphy, should be repeated.\n- If a parathyroid adenoma is visualized, the patient should proceed to surgery.\n- If imaging does not localize an adenoma, invasive imaging (e.g., ultrasound aspiration with PTH measurement, parathyroid angiography with selective venous sampling) should be considered.\n- If no localization is found on invasive imaging, nonoperative management should be considered.\n- Reoperative surgery is associated with increased risk of recurrent laryngeal nerve injury and permanent hypoparathyroidism.\n- A bone density scan may document osteopenia or osteoporosis, but the patient already has an indication for surgery (recurrent pHPTH).\n- A radioactive iodine uptake scan is used for well-differentiated thyroid cancer, not pHPTH."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding thyroid uptake identified on an 18F-fluorodeoxyglucose positron emission tomography (18F-FDG PET) performed as part of the workup for a distal esophageal adenocarcinoma is true?",
+            "options": [
+                "A. Diffuse thyroid uptake rules out thyroid malignancy.",
+                "B. Focal thyroid uptake suggests stage IV esophageal carcinoma.",
+                "C. Maximum standard uptake values (SUVmax) greater than 3 indicate a malignant lesion.",
+                "D. The absence of a corresponding focal lesion on neck CT scan suggests a benign pathology.",
+                "E. Incidence of malignancy is greater than 75% in thyroid lesions incidentally identified on FDG-PET scan."
+            ],
+            "answer": "D",
+            "explanation": "- Incidentally identified thyroid uptake on staging PET scans is increasingly common.\n- Retrospective analysis of biopsied focal hypermetabolic thyroid lesions has documented malignancy in approximately 21% of such lesions.\n- The malignancy rate appears dependent on whether uptake is diffuse (malignancy prevalence up to 13%) or focal (prevalence between 10-60%).\n- Diagnostic ultrasound should be performed for all lesions with intense uptake, and suspicious nodules should be subjected to FNA only if it would affect treatment.\n- The absence of a corresponding focal lesion on ultrasound or CT scan is highly predictive of benign pathology.\n- Ninety-five percent of malignancies incidentally identified on PET scan are primary thyroid tumors, with papillary carcinoma being the most common malignant pathology; the remainder are metastases from other cancers."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "A 42-year-old man undergoes lithotripsy for caldum/oxylate renal stones. Associated laboratory values include serum calcium of 10.6 mg/dL (8.5-10.2 mg/dL), phosphorus of 3 mg/dL (2.5-4.5 mg/dL), chloride 102 mEq/L (95-105 mEq/L), creatinine of 1.2 mg/dL (0.4-1.30 mg/dL), and intact parathyroid hormone of 60 pg/mL (10-65 pg/mL). Preoperative imaging is nonlocalizing. Which of the following statements regarding his care is true?",
+            "options": [
+                "A. Primary hyperparathyroidism is unlikely to be a contributor to his stone disease.",
+                "B. Observation is the best management.",
+                "C. Vitamin D replacement will precipitate a hypercalcemic crisis.",
+                "D. Dietary calcium restriction is recommended.",
+                "E. Parathyroidectomy is indicated."
+            ],
+            "answer": "E",
+            "explanation": "- Primary hyperparathyroidism (pHPTH) presents with a spectrum of signs and symptoms.\n- Indications for investigation include a strong family history, nephrocalcinosis/nephrolithiasis, loss of bone density, vertebral compression fracture/osteoporosis, and asymptomatic hypercalcemia.\n- Individuals diagnosed at age 50 years or younger should be counseled for parathyroidectomy, regardless of symptom status.\n- The diagnosis is often subtle; hypercalcemia coupled with a significantly elevated intact parathyroid hormone (PTHi) level, or insufficient hormonal suppression in the face of hypercalcemia, are diagnostic.\n- A chloride/phosphate ratio greater than 33 and evidence of significant hypercalciuria bolster the diagnosis.\n- Imaging aimed at localizing an adenomatous gland(s) is less accurate for multigland disease and should not be relied upon to confirm or exclude the diagnosis.\n- Recommended daily calcium intake for adults is 1000 to 1200 mg.\n- Patients with pHPTH and concomitant Vitamin D deficiency can safely undergo replacement therapy (including oral calcium) before neck exploration.\n- Careful preoperative repletion of Vitamin D to at least low-normal levels is essential to avoid severe bone hunger in the perioperative period.\n- The patient is 42 years old and has renal stones, both of which are indications for parathyroidectomy."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "Which of the following statements is true regarding the evaluation of a 25-year-old patient with a 1.5-cm thyroid nodule and a fine needle aspiration demonstrating medullary cells",
+            "options": [
+                "A. Serum or urinary metanephrine levels are necessary for cancer staging.",
+                "B. Testing for mutations in RET proto-oncogene is necessary.",
+                "C. The minimal planned surgery should include a total thyroidectomy with bilateral neck dissection.",
+                "D. Radioactive iodine imaging should be performed after medullary thyroid cancer resection.",
+                "E. Detectable postoperative calcitonin levels after resection should prompt re-exploration of the neck."
+            ],
+            "answer": "B",
+            "explanation": "- Identification of medullary cells on fine needle aspiration of a thyroid nodule is diagnostic of medullary thyroid cancer (MTC).\n- MTC originates from calcitonin-secreting neuroendocrine parafollicular or C cells of the thyroid.\n- Approximately 20% of MTC cases are associated with germline mutations of the RET gene, linked to inherited endocrine neoplastic syndromes MEN2A, MEN2B, and familial medullary thyroid cancer (FMTC).\n- Initial evaluation of a young patient with apparently localized MTC should include neck ultrasound, measurement of serum calcium, calcitonin and carcinoembryonic antigen levels, urine screening studies for pheochromocytoma, and genetic counseling for consideration of RET proto-oncogene testing.\n- If a patient has a solitary 1.5-cm tumor with no clinical evidence of metastases to lateral regional lymph nodes, the minimal recommended surgical procedure should include a total thyroidectomy with a central neck dissection.\n- Serum calcitonin levels should be measured after surgical resection; persistent elevation indicates persistent or distant metastatic disease, and imaging is indicated.\n- MTC cells do not concentrate iodine, making radioactive iodine ablation an ineffective strategy."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "A 48-year-old woman presents 8 years after laparoscopic Roux-en-Y gastric bypass for a BMI of 43 associated with, type II diabetes mellitus and obstructive sleep apnea. She has maintained a loss of 75% of her excess weight. Her diabetes and sleep apnea have resolved. She adheres to a bariatric diet and takes an adult multivitamin, calcium + Vitamin D3, and iron supplements twice a day. She has never had biochemical evidence of malnutrition. She visits you in clinic today after sustaining an ankle fracture while exercising. She also notes fatigue, muscle weakness, and joint pain. Her physical exam is normal. What laboratory abnormality most likely explains her symptoms?",
+            "options": [
+                "A. Hypoalbuminemia",
+                "B. Low Vitamin B12",
+                "C. Elevated parathyroid hormone",
+                "D. Low iron",
+                "E. Hypocupremia"
+            ],
+            "answer": "C",
+            "explanation": "- Malnutrition is common after bariatric surgery, with rates up to 40% for malabsorptive procedures.\n- Low levels of Vitamin B12, folate, iron, Vitamin D, calcium, and protein are the most likely deficient nutrients.\n- Calcium and Vitamin D deficiencies can lead to bone resorption and low bone mineral density, increasing fracture risk.\n- Symptoms of hypocalcemia include fatigue, muscle weakness, and joint pain.\n- Long-term Vitamin D deficiency leads to secondary hyperparathyroidism.\n- Parathyroid hormone controls serum calcium levels by causing mobilization from bone to maintain calcium levels, which also results in elevated alkaline phosphatase.\n- Hypoproteinemia can cause weakness and fatigue but typically not fractures.\n- Vitamin B12 and folate deficiencies can cause weakness and fatigue from megaloblastic anemia, paresthesias, and peripheral neuropathies."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "A 50-year-old woman being evaluated for asymptomatic hyperparathyroidism has a skeletal bone mineral density T-score less than -2.5 at the hip. Compared with no surgery, what is the long-term bone health benefit for parathyroidectomy in this patient?",
+            "options": [
+                "A. Her hip T-score will decrease less over time.",
+                "B. She will be able to maintain her current hip T-score.",
+                "C. Her hip T-score will increase over 5 to 8 years of follow-up.",
+                "D. Her future fracture risk at the lumbar spine will not change.",
+                "E. Her hip T-score will increase only if she is premenopausal."
+            ],
+            "answer": "A",
+            "explanation": "- Parathyroidectomy is the only curative treatment in primary hyperparathyroidism and provides prompt and sustained improvement in bone mineral density.\n- Parathyroidectomy increases hip bone mineral density (BMD) scores in both premenopausal and postmenopausal women by 2 years, but this effect is transient.\n- By 5 to 8 years follow-up, hip BMD is lower than baseline regardless of surgical therapy or observation.\n- Women undergoing parathyroidectomy can anticipate that by 8 years after surgery, their hip BMD will be lower than baseline, although with much less reduction than in the no-surgery group.\n- Parathyroidectomy is associated with a 64% absolute risk reduction of hip fracture and a 24% risk reduction of all fractures at 10 years."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "Which of the following statements best describes asymptomatic hyperparathyroidism?",
+            "options": [
+                "A. Approximately 60% of patients referred for surgical evaluation are asymptomatic.",
+                "B. In-depth neuropsychiatric testing often detects symptoms attributable to hyperparathyroidism.",
+                "C. The distal radius should be included for bone mineral density evaluation.",
+                "D. Parathyroidectomy reduces cardiovascular risks.",
+                "E. Age is not a criterion for parathyroidectomy."
+            ],
+            "answer": "C",
+            "explanation": "- With routine laboratory screening, most patients (>80%) with primary hyperparathyroidism (pHPT) are diagnosed without overt signs of disease and are considered \"asymptomatic.\"\n- Neuropsychiatric symptoms are often nonspecific and difficult to attribute to pHPT; in-depth neuropsychiatric testing is not indicated as part of screening.\n- Bone resorption, quantified by bone scan, is more severe in areas with high cortical bone content, such as the distal third of the radius.\n- The hip, femoral neck, and lumbar spine have a higher proportion of cancellous bone and experience less bone resorption.\n- The 2013 National Institutes of Health consensus conference recommended parathyroidectomy for severe osteopenia or radiologic evidence of vertebral fracture.\n- Other indications for surgery in asymptomatic patients include age younger than 50, hypercalcemia, and laboratory or radiographic evidence of renal disease.\n- Although cardiovascular disease may be associated with pHPT, parathyroidectomy does not improve cardiovascular risks."
+        }
+    ]
+}

@@ -1,0 +1,285 @@
+{
+    "chapter_name": "Legal Ethics",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A woman with severe dementia who lives in a nursing home is admitted to the hospital with a diagnosis of left lower extremity cellulitis. She is able to smile and interact with family. She is started on antibiotics. She has a living will, does not want to be resuscitated, and has a healthcare power of attorney (HCPOA). The HCPOA is her son who is present at the bedside and wants to discuss whether the treatment plan for the cellulitis is worth implementing. You respond that",
+            "options": [
+                "A. treatment is futile.",
+                "B. the outcome is undesirable.",
+                "C. the treatment plan may achieve its goal.",
+                "D. the plan of care should be determined by a consensus all family members.",
+                "E. a hospital ethics committee should review the case."
+            ],
+            "answer": "C",
+            "explanation": "- According to medical ethics scholar, Griffin Trotter, medical futility occurs when there is a goal, an action to achieve this goal, and certainty that the action will not achieve the goal.\\n- Interventions can be medically futile if they do not produce any benefit to the patient.\\n- Medical futility should not be applied to the overall care of the patient but to specific interventions at a particular time.\\n- Medical treatment in this woman with dementia for cellulitis is not futile, and the outcome of treating the cellulitis with antibiotics is desirable.\\n- The plan of care does not need to be determined by all family members, and an ethics committee does not need to be involved.\\n- Therefore, responding to the son that the treatment plan may achieve its goal is the correct answer."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "With regard to discussions about end-of-life care, communication skills training can help healthcare providers",
+            "options": [
+                "A. show increased empathy.",
+                "B. reduce patient anxiety.",
+                "C. improve patient mental health.",
+                "D. improve patient satisfaction.",
+                "E. increase ability to use closed, directed questions."
+            ],
+            "answer": "A",
+            "explanation": "- Most surgeons will be involved with end-of-life discussions, but often do not receive formal training.\\n- As providers, we should attempt to be empathetic, reduce patient anxiety, improve patient's understanding, and use open-ended questions.\\n- Communication skills training is beneficial for healthcare professionals.\\n- Healthcare professionals who participate in learner-focused courses with experienced facilitators can improve empathy and information gathering, and increase self-efficacy.\\n- Studies do not show improvement in patient-centered outcomes, patient anxiety, mental health, or satisfaction from such courses."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "A single 71-year-old man presents with a new diagnosis of a 5-cm squamous cell carcinoma involving his chest wall. After the examination, the patient's only child pulls you aside and shares with you that her father has been diagnosed with early stages of dementia, and she is concerned about his decision-making capacity. Which of the following statements is true?",
+            "options": [
+                "A. Medical decisions should be made by his daughter.",
+                "B. Medical paternalism takes priority over patient self-determination.",
+                "C. Consultation with geriatric psychiatry is required to obtain proper informed consent",
+                "D. Capacity requires this patient to understand his situation, proposed treatment, and risks.",
+                "E. Competency requires a multidisciplinary assessment."
+            ],
+            "answer": "D",
+            "explanation": "- The requirement to obtain informed consent has been law since 1914 (Schloendorff v Society of New York Hospital).\\n- Decision-making capacity is required for truly informed consent.\\n- Most physicians can assess a patient's decision-making capacity, but consultation with a geriatric psychiatrist or neurologist may be needed for a formal cognitive evaluation.\\n- The Patient Self-Determination Act of 1990 established patient's right of self-determination as the highest standard of medical ethics, taking precedence over medical paternalism and beneficence.\\n- Competency is a legal term, with incompetence determined by a judicial decision. Capacity is determined by a physician.\\n- Capacity usually requires the patient to understand his or her situation, proposed treatment, and risks.\\n- The US Supreme Court has repeatedly ruled that people have the right to control their medical treatment if capable.\\n- States and the federal government have enacted statutes to protect incapacitated adults."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "A 58-year-old man who is functioning well with activities of daily living, but who has widely metastatic colon cancer, presents with an acute colonic obstruction. He has a do-not-resuscitate (DNR) order, and he consents to a palliative ileostomy. The surgeon, the patient, and his healthcare power of attorney do not want to rescind his DNR wishes. The operating room team is concerned about what should be done if the patient experiences intraoperative complications, including cardiac arrest. What would be the next step in the management of this patient?",
+            "options": [
+                "A. Transfer the pat lent to a different hospital.",
+                "B. Do not perform the ileostomy until the DNR is rescinded.",
+                "C. Seek a healthcare team who will honor the patient's request.",
+                "D. D Perform the ileostomy and, if needed intraoperatively, proceed with full resuscitative efforts.",
+                "E. E Perform the ileostomy with limited resuscitation attempts."
+            ],
+            "answer": "C",
+            "explanation": "- The patient has the right of self-determination.\\n- Failing this, a multidisciplinary patient-centered-care conference with the patient and family should discuss other options.\\n- These options might include a \"procedure-directed approach\" (e.g., pharmacologic therapy, defibrillation, CPR) or a \"goal-directed approach\" discussing the patient's goals if he were to arrest (e.g., maintaining quality of life).\\n- Physicians are not compelled to comply with a patient's request for treatment they consider futile or contrary to their personal beliefs.\\n- In such cases, the treating physician is responsible for identifying another provider willing to abide by the patient's wishes or seeking assistance from the hospital committee."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "A5-year-old boy was involved in a motor vehicle collision. He is hemodynamically abnormal with grade IV liver and spleen lacerations. His parents, who are Jehovah's Witnesses, refuse blood product transfusion for the child with the knowledge that without a transfusion, the boy may lie. The next appropriate step is to",
+            "options": [
+                "A. ask a church representative if an exception can be made.",
+                "B. ask the child what he would like to do.",
+                "C. consult the hospital ethics team.",
+                "D. honor the parents' wishes.",
+                "E. transfuse blood products."
+            ],
+            "answer": "E",
+            "explanation": "- The appropriate intervention for this child in hemorrhagic shock is to transfuse blood against the wishes of the parents.\\n- In Prince v Massachusetts, the court stated that parents cannot make martyrs of their children.\\n- Court rulings emphasize three main themes: children's and state's interests outweigh parental rights to refuse treatment; parental rights do not afford life-and-death dominion over their children; parents do not have an absolute right to refuse medical treatment for their children based on religious beliefs.\\n- Jehovah's Witness church members present during hospitalization are not legal authorities for medical decisions.\\n- Asking children what they would like to do is not appropriate, as children cannot consent to treatment.\\n- There is not enough time to consult the hospital ethics committee.\\n- A pre-emptive discussion with local church leaders regarding management is a suggestion to facilitate such situations."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "An 84-year-old woman with mild congestive heart failure presents with nausea and vomiting. She has right lower quadrant pain and tenderness. CT scan, confirms a closed-loop small bowel obstruction in the right lower quadrant with signs of intestinal ischemia. You quote a projected 20% mortality rate with operation. After an extensive discussion with the patient and her daughter, they are unable to make a decision regarding operation. The next step is",
+            "options": [
+                "A. an ethics consult.",
+                "B. a psychiatry consult.",
+                "C. a palliative care consult.",
+                "D. identifying a new surrogate.",
+                "E. surgical exploration."
+            ],
+            "answer": "C",
+            "explanation": "- Medical decision-making around goals of care and end-of-life decisions can be very challenging, especially in urgent clinical situations with time pressure.\\n- An ethics consult would be indicated if there was concern about the daughter not acting in her mother's best interests or inappropriately influencing her decision-making.\\n- A psychiatry consult is not indicated unless there are concerns about the patient's mental status or capacity to make decisions.\\n- There is no indication that this patient has lost her decision-making capacity or that appointing a surrogate without her permission would violate her autonomy.\\n- The patient has a clear indication for operation (ischemic bowel) and perioperative risk factors (age and congestive heart failure).\\n- The appropriate next step is to obtain a palliative care consult to help her in medical decision-making.\\n- Taking the patient to the operating room for surgical exploration would constitute battery and is not appropriate."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "A 22-year-old man presents to the emergency department approximately 30 minutes after sustaining multiple gunshot wounds. Paramedics were on the scene approximately 15 minutes after the event and had a 5-minute scene time. He had no pulse on assessment, and cardiopulmonary resuscitation was continued during the 15-minute transport. Cardiopulmonary resuscitation is held at the direction of the trauma team leader to facilitate the patient's assessment. On examination, he is apneic, he has absent breath sounds, absent cardiac sounds, no carotid pulse, no pupillary response, and his extremities are flaccid. He has large penetrating wounds to the back of his head and to his right flank. He is connected to the telemetry monitor, which demonstrates a wide complex, bradycardic rhythm. Subxiphoid and parasternal ultrasound windows demonstrate no pericardial fluid; however, there is intermittent hypokinetic movement of the cardiac muscle. Which of the following statements regarding this patient is true?",
+            "options": [
+                "A. He can be pronounced dead based on neurologic criteria.",
+                "B. He can be pronounced dead based on circulatory criteria.",
+                "C. He cannot be pronounced dead until a resuscitative thoracotomy is performed.",
+                "D. He cannot be pronounced dead until there is asystole on telemetry.",
+                "E. He cannot be pronounced dead until there is no cardiac motion on ultrasound."
+            ],
+            "answer": "B",
+            "explanation": "- This patient meets criteria for circulatory death based on his clinical assessment and can thus be pronounced dead.\\n- He has not been formally assessed for brain death through a neurologic exam and has not undergone confirmatory testing, so he cannot be declared dead by neurologic criteria.\\n- A resuscitative thoracotomy is a therapeutic intervention, not a prerequisite for pronouncing death.\\n- There are currently no telemetry or ultrasound requirements for death pronouncement.\\n- The declaration of circulatory death is a clinical determination based on the absence of circulation and breathing with no possibility to resume spontaneously.\\n- This occurs after 2 to 5 minutes if CPR has not been provided and approximately 7 minutes after CPR termination.\\n- In this patient, CPR is likely futile given his penetrating torso wound with presumed exsanguination and clinical evidence of severe traumatic brain injury; a full 7-minute waiting period after cessation of CPR would not be necessary."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "A 55-year-old surgeon complains on Facebook about fits recent call night which he says was busy because of a high-profile shooting that resulted in a police officer being killed. He does not mention the police officer's name. The post",
+            "options": [
+                "A. is acceptable if his Facebook profile and posts are designated as \"friends only.\"",
+                "B. is acceptable if he uses a pseudonym for his profile.",
+                "C. is acceptable within the confines of a closed Facebook group for surgeons.",
+                "D. is acceptable on social media platforms designed for physicians only.",
+                "E. could result in professional consequences for the surgeon."
+            ],
+            "answer": "E",
+            "explanation": "- With the increasing popularity and use of social media, surgeons must be cognizant to maintain online professionalism.\\n- Unprofessional online behavior is common among surgical residents and practicing surgeons and can lead to professional and legal consequences, including job loss and revocation of medical licenses.\\n- It is the surgeon's obligation to use social media wisely and always prioritize patient privacy.\\n- Social media platforms like Facebook are generally not compliant with HIPAA, even in a closed group.\\n- Surgeons should refrain from sharing any information that can compromise patient privacy and trust.\\n- The use of enhanced privacy settings (e.g., \"friends only\") and pseudonyms have not been historically effective in preventing wide dissemination of private information.\\n- Surgeons must remember that posting on social media can result in an unintentional overlap between personal and professional lives, and comments may reach a larger audience than originally intended."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "Concerning surgical care in the United States, which of the following is more likely to be increased in black patients compared with white patients?",
+            "options": [
+                "A. Regional anesthesia",
+                "B. Perioperative blood transfusions",
+                "C. Minimally invasive surgery",
+                "D. Enrollment in clinical trials",
+                "E. Treatment at a high-volume hospital"
+            ],
+            "answer": "B",
+            "explanation": "- Disparate healthcare delivery in the United States represents an ethical crisis.\\n- Race and ethnicity, lower-income status, and insurance status are associated with limited access to surgical care and poorer surgical outcomes.\\n- Multiple studies document that patients of color are less likely than white patients to receive procedures for a myriad of vascular and oncologic diagnoses.\\n- Black men older than 65 years undergo aortic aneurysm repair less frequently compared with white men.\\n- A national study of patients with pancreatic adenocarcinoma demonstrated that black patients were less likely to have a medical oncologist or radiation oncologist and less likely to receive surgical resection.\\n- For several abdominal procedures, black patients undergo minimally invasive surgery less often and regional anesthesia less often, and have longer operative times.\\n- Despite receiving fewer procedures and having less access to surgical care, black patients have higher rates of in-hospital complications and disease recurrence.\\n- Black and Hispanic patients have significantly higher rates of postoperative complications, blood transfusions, perioperative mortality, and longer hospital stays.\\n- Inequities in morbidity and mortality among blacks and Hispanics persist even when controlling for insurance status.\\n- The fact that blacks are less likely to be treated at a high-volume hospital or by a high-volume surgeon may explain their higher complication rates.\\n- A large discrepancy exists between the percentage of minorities (30%) in the United States and the minority enrollment rate in clinical trials (1%), especially cancer trials."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "A surgeon at a certified bariatric center of excellence performs a laparoscopic sleeve gastrectomy on a 42-year-old woman with a BMI of 42 and associated hypertension. On postoperative day 1, she is doing fine and is discharged to home, which is 90 miles away. On postoperative day 2, she calls her surgeon's office with a complaint of abdominal pain and gets the answering service. She does not receive a call back from the covering bariatric surgeon. She calls the office on postoperative day 3, and a triage nurse responds telling her that the covering surgeon will call her back, but no one does. On postoperative day 5, the patient presents to her local emergency department in septic shock. CT scan shows evidence of a leak. The local emergency department does not have a bariatric sturgeon, and the on-call surgeon is not comfortable taking care of this patient. The patient is transferred back to the operating surgeon's hospital after discussion with the covering bariatric surgeon. The patient makes it to the emergency department but then dies shortly thereafter. The patient's family decides to sue. In deposition, the bariatric surgeon claims no calls were made to the covering bariatric surgeon. Who is mostly at fault for this outcome?",
+            "options": [
+                "A. The operative bariatric surgeon",
+                "B. The answering service",
+                "C. The covering bariatric surgeon",
+                "D. The local emergency department",
+                "E. The local general surgeon"
+            ],
+            "answer": "A",
+            "explanation": "- The bariatric surgeon is most at fault because he or she is supposed to provide reliable 24-hour coverage in the perioperative period for all bariatric patients, according to the consensus statement from the American Society of Metabolic and Bariatric Surgery.\\n- This perioperative care includes providing reliable access to care after discharge should complications arise.\\n- The answering service is responsible only for delivering the messages and not for any triage or clinical care.\\n- A lack of communication between the patient and the clinician is one of the main reasons that telephone care fails patients, resulting in ongoing pain, clinical harm, and hospital admissions.\\n- An answering service should be willing to contact the on-call physician.\\n- A hospital and its emergency department are not responsible for care of bariatric patients if it does not provide bariatric care.\\n- The covering bariatric surgeon is not at fault if he or she did not appear to receive messages about this patient until called by the nonbariatric hospital.\\n- The primary bariatric surgeon is most at fault for not providing reliable 24-hour service."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "A patient is having a surgical procedure at a teaching institution. The surgeon commonly schedules overlapping surgeries. The surgeon's responsibility for overlapping surgeries to the involved patients is to",
+            "options": [
+                "A. explain the process in general terms to the patient whose case is scheduled second.",
+                "B. provide additional disclosure, because the practice is well understood by the public",
+                "C. explicitly describe the components of the procedure that the surgeon will perform.",
+                "D. inform that 30-day mortality is slightly higher in this situation.",
+                "E. refer the patient to the hospital administrator who is responsible for setting the critical components of each surgery."
+            ],
+            "answer": "C",
+            "explanation": "- Overlapping surgery is defined by the American College of Surgeons as two or more procedures performed by the same surgeon that overlap in their incision and closure but have critical components that do not occur at the same time.\\n- Concurrent surgery is defined similarly, but the critical components occur simultaneously, and is never acceptable.\\n- Overlapping surgery is acceptable in many instances, particularly in academic training programs where a trainee performs the second procedure.\\n- Morbidity and mortality rates, as well as length of hospitalization, are not increased for overlapping surgery.\\n- Key elements associated with overlapping surgery include the ability to return to the operating room at any time if a problem arises and to have a back-up surgeon available.\\n- The surgeon is responsible for defining the critical components of each case, and this information should be shared during the consent process.\\n- The idea of overlapping surgery must be folded into the consent process due to poor public understanding.\\n- A recent investigation concluded that overlapping surgery should be explicitly disclosed to patients during the consent process.\\n- This is consistent with the legal intent of informed consent, which suggests that the physician should disclose material information necessary for a reasonable patient to make an informed decision.\\n- The attending surgeon's responsibility is to ensure all portions of an operation are performed safely, regardless of who is performing the procedure."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "Which of the following is an example of a futile intervention in the intensive care unit?",
+            "options": [
+                "A. Placement of a feeding tube in a malnourished patient without an established diagnosis and prognosis",
+                "B. Induced hypothermia in a comatose patient after out-of-hospital cardiac arrest",
+                "C. Venovenous extracorporeal membrane oxygenation in a patient with acute respiratory distress syndrome on maximal mechanical ventilator support",
+                "D. Prolonged cardiopulmonary resuscitation to treat refractory cardiac arrest due to malignant hyperthermia",
+                "E. Placement of a ventricular assist device in a patient with end-stage heart failure who is not a candidate for cardiac transplantation"
+            ],
+            "answer": "A",
+            "explanation": "- The advancement of medical technology allows for extended life support in the intensive care unit.\\n- Surgeons must understand which therapies or treatments are not likely to benefit the patient and thus represent futile interventions.\\n- Placement of a feeding tube in a malnourished patient who does not have an established diagnosis and prognosis is a futile intervention, as no prognosis can be made regarding recovery or duration of tube feedings.\\n- Induced hypothermia in a comatose patient after out-of-hospital cardiac arrest can improve neurologic outcomes and decrease mortality.\\n- Venovenous extracorporeal membrane oxygenation in a patient with acute respiratory distress syndrome on maximal mechanical ventilator support can reduce ventilator-induced lung injury and improve survival.\\n- Prolonged cardiopulmonary resuscitation has markedly improved survival in patients with refractory cardiac arrest without an underlying terminal diagnosis.\\n- Placement of a ventricular assist device in patients with end-stage heart failure who are not candidates for cardiac transplantation can provide for several years of improved quality of life."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "The use of patient decision aids to enhance the informed consent process",
+            "options": [
+                "A. increases healthcare costs.",
+                "B. increases malpractice litigation.",
+                "C. delays the implementation of therapy.",
+                "D. replaces direct patient-physician communication.",
+                "E. may direct patients to a particular choice of treatment."
+            ],
+            "answer": "E",
+            "explanation": "- Patient decision aids are information tools provided to patients to enhance understanding of their condition, alternative treatment options, risks, benefits, and expected outcomes.\\n- They improve the consent process by providing patients with sufficient information to lead discussions and focus on what matters most.\\n- Available evidence suggests that patient decision aids actually decrease healthcare costs and litigation.\\n- These tools are designed to supplement, not supplant, direct patient-to-physician communication.\\n- There is no evidence that patient decision aids delay therapy.\\n- The shortcoming of patient decision aids is the potential for bias, intentional or unintentional, by directing patients to a particular treatment strategy.\\n- National standards for certification of patient decision aids aim to ensure complete, accurate, current, and unbiased information.\\n- CMS and many healthcare payors are incorporating patient decision aids into pay-for-performance incentives.\\n- Provisions of Section 3506 of the Affordable Care Act established a division within CMS tasked with certification of patient decision aids, but this provision has not received congressional funding."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "A 76-year-old man is terminally ill with metastatic colon cancer and has an implanted cardioverter defibrillator. Over the last week, the patient has endured multiple daily discharges from the device, frequently awakening him from sleep and causing significant pain and discomfort The patient requests that his device be deactivated. Which of the following legal principles apply to this situation?",
+            "options": [
+                "A. There is a legal distinction between withholding and withdrawing life-sustaining treatment.",
+                "B. The deactivation of implanted devices (defibrillators) involves a different legal standard compared with discontinuation of external support devices (mechanical ventilation).",
+                "C. Legal precedent requires physicians to comply with a patient's request for the discontinuation of a medical intervention, even if the intervention is contrary to the physician's own personal values.",
+                "D. The legal distinction between withdrawal of unwanted therapy from patient-assisted suicide or euthanasia involves the concepts of \"intent\" and \"cause of death.\"",
+                "E. There is an ethical distinction between a medical treatment that is inside the body (i.e., implanted implanted cardioverter defibrillator or pacemaker) versus a treatment or intervention that is outside the body (i.e., mechanical ventilation)."
+            ],
+            "answer": "D",
+            "explanation": "- A patient with decision-making capacity has the right to decline any medical intervention or ask that an intervention be stopped, even if it is expected to lead to death, and regardless of terminal illness (American Medical Association Principles of Medical Ethics).\\n- The controversy regarding the difference between withholding and withdrawing treatment is not fully resolved, but advances in biotechnology have resurrected the debate.\\n- Clinicians and patients may harbor values that cast doubt on withdrawing treatment, especially for internal devices.\\n- Medical ethics and the rule of law have not wavered in the position that there is no distinction between withholding and withdrawing treatment.\\n- A competent patient has the right to accept, refuse, or terminate a treatment already in place.\\n- Terminating treatment is usually prompted by the patient's decision that the burden of continuing therapy outweighs potential benefits or no longer aligns with values/goals.\\n- This applies to all types of treatment and is not dependent on location (internal vs. external), duration, or continuity.\\n- The only exception is treatment that has become a living part of the patient (e.g., transplanted organ).\\n- The withdrawal of a life-sustaining treatment expected to result in death is not intentional killing; it is based on the principles of \"intent\" and \"cause\" of death.\\n- Deactivation of an implanted cardioverter defibrillator at a patient's request acknowledges the patient's decision that the burden of the intervention has exceeded its benefit, not an intent by the physician to kill.\\n- The deactivation of the device itself is not the cause of the patient's death; the cause is the underlying cardiac condition."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "Of the following legal and ethical principles that govern a patient's or surrogate' right to choose or refuse medical intervention, the most paramount is",
+            "options": [
+                "A. justice.",
+                "B. autonomy.",
+                "C. beneficence.",
+                "D. nonmalfeasance.",
+                "E. appropriateness of intervention."
+            ],
+            "answer": "B",
+            "explanation": "- Four legal and ethical principles form the foundation of a patient's right to choose or refuse medical treatment: autonomy, beneficence, nonmalfeasance, and justice.\\n- Appropriateness of an intervention is within good medical/surgical practice but is not a foundational ethical principle.\\n- These principles, while appealing, frequently conflict.\\n- Individual justice is fair and equitable treatment for all. Distributive justice often becomes problematic when healthcare resource distribution (e.g., ICU beds) compromises community betterment.\\n- Beneficence implies interventions are in the patient's best interest, with accurate assessment of risk vs. benefit.\\n- Nonmalfeasance implies \"do no harm\" (primum non nocere).\\n- Beneficence and nonmalfeasance are the oldest principles, rooted in the Hippocratic code, forming the sole basis of the first Code of Medical Ethics (1847).\\n- Of the four principles, autonomy is considered the most important.\\n- This concept was applied to patient care in the early 20th century (Schloendorff v. New York Hospital), establishing a patient's right to determine what happens to their own body, shifting from paternalism.\\n- Self-determination is the basis for an individual's right to accept or refuse interventions based on understanding benefits/risks and alignment with values/beliefs.\\n- Physicians are legally and ethically bound to adhere to patient wishes, even if they believe the decision is in error."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "A 35-year-old man is hospitalized with a massive intracranial hemorrhage after blunt trauma. After 2 weeks in the intensive care unit, he remains unresponsive. Neurosurgery and neurology consultants both concur that his chances of meaningful neurologic recovery are nil. However, he breathes on an apnea trial. The family has decided that life-sustaining treatment should be withdrawn but would like organ donation after cardiac death. Five minutes after terminal extubation, the patient remains unresponsive with no spontaneous respirations noted. The cardiac monitor reveals persistent electrical activity. What is the next step necessary to proceed with organ donation?",
+            "options": [
+                "A. Auscultate the precordium to confirm absence of heart sounds",
+                "B. Confirm complete cessation of pulsations on the arterial catheter",
+                "C. Obtain transcranial Doppler to confirm brain death",
+                "D. Obtain 12-lead electrocardiogram to confirm pulseless electrical activity",
+                "E. Return the patient to mechanical ventilatory support"
+            ],
+            "answer": "B",
+            "explanation": "- Organ donation after cardiac death (DCD) usually involves mechanically ventilated patients with severe, irreversible brain injuries.\\n- The United Network for Organ Sharing (UNOS) developed DCD rules.\\n- Mechanical asystole is defined as the absence of arterial pulsations. Electromechanical asystole is absence of both electrical and mechanical cardiac activity.\\n- Broad consensus is that mechanical asystole is sufficient to determine death, as death is the absence of circulation, not cardiac electrical activity.\\n- Pulseless electrical activity (mechanical asystole without circulation) is immaterial to death determination.\\n- The DCD process begins with candidate identification, full informed consent from legal next of kin, withdrawal of care, and organ retrieval.\\n- When the cardiac death criterion is met, a doctor pronounces the patient dead.\\n- Time from mechanical asystole to death declaration is generally 5 minutes, but can be as short as 2 minutes.\\n- Circulation does not spontaneously return after 2 minutes.\\n- To avoid conflict of interest, neither the surgeon performing organ retrieval nor transplant personnel participate in end-of-life care or death declaration.\\n- Asystole can be assessed by palpating arterial pulses and listening for heartbeat, but for DCD, indwelling arterial catheters are used for more accurate and reproducible measurements of pulselessness.\\n- Percutaneous Doppler ultrasound of peripheral arteries and echocardiography can also be helpful.\\n- Transcranial Doppler is not indicated, as the patient is not brain dead.\\n- Returning the patient to mechanical ventilatory support is not indicated once mechanical asystole confirms death."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "A 25-year-old woman who is pregnant at 35 weeks' gestational age is the unbelted passenger in a high-speed motor vehicle crash. She is alert, breathing spontaneously, with an initial systolic blood pressure of 88 mm Hg and a heart rate of 100 beats per minute. Her systolic pressure improves with resuscitation. After placement of a fetal monitor, which of the following tests should be performed?",
+            "options": [
+                "A. Focused assessment with sonography for trauma",
+                "B. Diagnostic peritoneal lavage",
+                "C. CT scan of the chest and abdomen with pelvic shielding",
+                "D. CT scan of the chest, abdomen, and pelvis",
+                "E. MRI of the chest and abdomen"
+            ],
+            "answer": "D",
+            "explanation": "- After initial evaluation for blunt force trauma, imaging to investigate for occult blood loss is indicated in a patient who has responded to resuscitation.\\n- In the pregnant trauma patient, the edict \"what's good for the mother, is good for the fetus\" applies.\\n- At 35 weeks' gestation, organogenesis is complete, and the fetus is viable.\\n- Concerns for radiation exposure in the secondary evaluation should be overruled by the need to rapidly diagnose and treat any ongoing hemorrhage.\\n- CT scanning of the chest, abdomen, and pelvis is a quick and sensitive way to search for occult injury and ongoing blood loss.\\n- Pregnancy should not prevent scanning of the pelvis for a source of blood loss.\\n- Diagnostic peritoneal lavage is relatively contraindicated in advanced gestations.\\n- MRI, although associated with less fetal radiation exposure, is reserved for secondary studies in hemodynamically normal blunt force trauma patients.\\n- The focused assessment with sonography for trauma exam would be difficult to interpret in a pregnant female at 35 weeks' gestation."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "When obtaining informed consent from a patient before elective surgery, which of the following statements is true?",
+            "options": [
+                "A. A patient's competence to sign an informed consent may be determined by the surgeon.",
+                "B. Family members are best suited as translators for non-English speaking patients.",
+                "C. Mild cognitive impairment precludes the patient's ability to make a competent decision.",
+                "D. Failure to obtain consent constitutes a legal action for battery.",
+                "E. A patient must be able to verbalize as a condition of signing a consent form."
+            ],
+            "answer": "D",
+            "explanation": "- Obtaining informed consent before elective surgery is a critical part of surgical practice.\\n- When obtaining consent, a surgeon must determine whether the patient has capacity to understand what he or she is being told.\\n- Competence, conversely, denotes a legal status determined by judicial review.\\n- In most situations, it is reasonable for the surgeon to determine whether the patient has the capacity to understand and consent.\\n- Legal criteria for consent vary but generally include the ability to (1) understand relevant information, (2) communicate a choice, (3) appreciate the medical consequences, and (4) reason about treatment choices.\\n- The act of communicating a treatment choice requires indication of the choice made and does not necessarily require a verbal response.\\n- Mild cognitive impairment or early dementia do not necessarily preclude a patient's ability to make a competent decision, but psychiatric consultation is helpful and should be documented carefully when present or suspected.\\n- Translators may be required when English is not the patient's primary language.\\n- A systematic review found that professional interpreters (rather than family members) decrease communication errors and improve facility use, clinical outcomes, and satisfaction.\\n- Failure to obtain informed consent is \"tantamount to no consent.\"\\n- Battery is defined as an unauthorized touching or invasion of a patient's body and is considered an intentional tort.\\n- Claims against doctors based on battery typically are restricted to cases in which physicians did not obtain informed consent or exceeded the scope of a consent."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "In which of the following situations would a physician likely be able to claim immunity from an action for medical negligence under a state Good Samaritan Law?",
+            "options": [
+                "A. A physician agrees to function as an assistant in a case and the patient dies.",
+                "B. While on call at the hospital, a physician performs an urgent tracheotomy on his own patient for angioedema, and the patient dies.",
+                "C. A physician performs cardiopulmonary resuscitation on a patient of his who has suddenly collapsed in the hallway outside his office.",
+                "D. A physician comes to the aid of an unconscious player while attending a little league game.",
+                "E. A physician places a chest tube for a pneumothorax occurring after he placed a central line and the patient dies."
+            ],
+            "answer": "D",
+            "explanation": "- Good Samaritan laws (volunteer protection acts) exist at both federal and state levels, varying somewhat between jurisdictions.\\n- Generally, three requirements qualify a licensed physician for immunity from medical negligence: (1) the treatment must be voluntary and the physician must not owe the patient a prior duty, (2) the treatment rendered must be in a true emergency, and (3) treatment must be rendered outside a hospital or other place with medical equipment.\\n- The concept of \"duty\" is important: if the surgeon provides emergency voluntary care to his own patient, a pre-existing duty before the emergency would likely nullify a Good Samaritan claim.\\n- If a surgeon agrees to assist another surgeon before an emergency, a duty to the patient is created.\\n- Being \"on call\" implies a duty to anyone who requires the on-call physician's services, potentially excluding a Good Samaritan claim."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "Futile treatment in the intensive care unit",
+            "options": [
+                "A. should be provided on a case-by-case basis.",
+                "B. is defined similarly for all patients.",
+                "C. suggests an intervention that cannot meet the goals of the patient's family.",
+                "D. implies treatment that cannot obtain an intended physiologic goal.",
+                "E. is an obligation of the caring physician if those are the wishes of the patient."
+            ],
+            "answer": "D",
+            "explanation": "- Futile treatment is defined as treatment provided to patients who cannot obtain the intended physiologic goal.\\n- In the intensive care unit setting, this typically implies the provision of life-sustaining interventions when survival is not expected beyond the acute setting or when severe irreversible neurologic injury is sustained.\\n- Futility should be an uncommon determination in the acute setting and is determined based on individual clinical factors.\\n- The Society of Critical Care Medicine Ethics Committee recommends that futile interventions not be provided.\\n- Healthcare providers have an obligation to respect the autonomy of patients and the wishes of their surrogates.\\n- However, they have no ethical obligation to provide treatment that they deem to be futile, even if requested by the patient.\\n- The patient or surrogate always maintains the opportunity to transfer care to a different physician or different institution if a disagreement arises."
+        }
+    ]
+}

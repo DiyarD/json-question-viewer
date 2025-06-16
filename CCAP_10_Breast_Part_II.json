@@ -1,0 +1,327 @@
+{
+    "chapter_name": "Breast Part II",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A 12-year-old boy is seen with gynecomastia. His breast size has been enlarging for 2 months. His parents are concerned about cancer. The best step in management at this time would be",
+            "options": [
+                "tamoxifen.",
+                "breast ultrasound.",
+                "mammogram.",
+                "danazol.",
+                "observation."
+            ],
+            "answer": "E",
+            "explanation": "- Gynecomastia is very common in men and typically seen at 3 time points: infancy, puberty, and advanced age.\n- Pubertal gynecomastia is primarily due to an imbalance of androgenic and estrogenic influence on breast tissue, with an altered serum androgen-to-estrogen ratio.\n- As puberty progresses, this ratio corrects, and gynecomastia resolves as androgen secretion dominates.\n- In a boy of this age, the process is self-limited, and there is no indication for breast imaging with either ultrasound or mammogram.\n- Male breast cancer typically does not present at this age.\n- The management of this patient is observation.\n- Gynecomastia can also result from alcohol, marijuana, or other drugs and is reversible with discontinuation.\n- Hormonal manipulation with tamoxifen (an antiestrogen) or danazol (an antiandrogen) is not appropriate given the patient's age and the self-limited nature of pubertal gynecomastia."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "A 50-year-old woman is seen by her primary care physician for spontaneous nipple discharge of the right breast associated with a small palpable mass adjacent to the nipple. She reports no fevers. Workup confirms a diagnosis of intraductal papilloma. Which of the following statements is true of intraductal papilloma?",
+            "options": [
+                "A. Mammography can reliably distinguish between benign and malignant lesions.",
+                "B. It is the most common diagnosis in women with pathologic nipple discharge.",
+                "C. Fine needle aspiration is preferred to establish the initial diagnosis-",
+                "D. Surgical excision is rarely indicated.",
+                "E. Bilateral disease is common."
+            ],
+            "answer": "B",
+            "explanation": "- Papillary breast lesions are epithelial proliferations with a wide variety of clinical presentations, including benign, atypical, and malignant lesions.\n- Intraductal papilloma is the most common diagnosis in women with pathologic nipple discharge.\n- Imaging studies alone (mammography, sonography) are not sufficient to make a definitive diagnosis or distinguish between benign and malignant papillary lesions.\n- Percutaneous stereotactic biopsy or ultrasound-guided core-needle biopsy are used for initial diagnosis and have largely replaced fine needle aspiration.\n- Core biopsy carries the potential risk of sampling error or specimen fragmentation, with an upstage rate to atypia of potentially more than 20%.\n- Atypia can also be found in the immediately surrounding tissue, and in its presence, the risk of malignancy is high.\n- Surgical excision is required for these lesions in the presence of atypia, making it a reasonable treatment option."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "A 35-y ear-old woman with a known BRCA-1 mutation and a normal breast exam does not wish to consider prophylactic mastectomy. The optimal screening regimen is",
+            "options": [
+                "A. annual mammogram.",
+                "B. biannual mammogram.",
+                "C. annual mammogram and breast MRI.",
+                "D. annual mammogram and whole breast ultrasound.",
+                "E. biannual mammogram and breast MRI."
+            ],
+            "answer": "C",
+            "explanation": "- Although annual mammography is a successful screening tool, up to 15% of breast cancers are missed using mammogram alone, often in women with dense breast tissue.\n- Mammographic sensitivity is diminished in younger women with dense breast tissue.\n- Younger women at high risk with dense breast tissue should undergo alternate methods of screening.\n- MRI detects small foci of cancer in dense breasts not visible on mammography and has a higher sensitivity for detecting breast cancer, which is not altered by breast density.\n- In 2007, the American Cancer Society developed guidelines for annual MRI screening in addition to annual mammogram for BRCA mutation carriers, untested first-degree relatives of mutation carriers, and women with a lifetime risk of breast cancer development of 20% or greater.\n- Annual ultrasound is not an effective supplemental screening tool for breast cancer due to the high incidence of false-positive results."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "Which of the following statements about prophylactic mastectomy is true?",
+            "options": [
+                "A. In women with unilateral breast cancer and no heritable mutations, contralateral prophylactic mastectomy offers no survival advantage.",
+                "B. In women with BRCA-1 mutation, tamoxifen offers similar survival advantage to bilateral prophylactic mastectomy.",
+                "C. Bilateral prophylactic mastectomy is recommended for men with known BRCA-1 mutation.",
+                "D. Sentinel lymph node biopsy is standard practice in patients undergoing prophylactic mastectomy.",
+                "E. Nipple-sparing mastectomy is considered inappropriate for women with BRCA-1 mutation undergoing prophylactic mastectomy."
+            ],
+            "answer": "A",
+            "explanation": "- A recent review and meta-analysis showed that contralateral prophylactic mastectomy (CPM) does not offer a survival benefit for patients with unilateral breast cancer and no heritable mutations.\n- For this group, the risk of metachronous contralateral breast cancer is already low and likely does not warrant the morbidity of CPM.\n- According to the Breast Cancer Prevention Trial, tamoxifen reduced breast cancer incidence among BRCA2 patients by 62% but did not reduce breast cancer incidence in patients with BRCA1 mutations.\n- Among male patients with the BRCA1 mutation, the lifetime risk of breast cancer is 1.2%; there is no documented evidence that prophylactic mastectomy reduces this risk.\n- Sentinel lymph node biopsy (SLNB) is not universally recommended for patients undergoing CPM, though some authors suggest it may benefit patients with an extremely high risk for invasive cancer (e.g., inflammatory carcinoma history) and that patients should be stratified by MRI evaluation before CPM.\n- Multiple studies indicate that nipple-sparing mastectomy is an acceptable choice for patients with BRCA mutations undergoing prophylactic mastectomy, with no diminishment in the oncologic effectiveness of the procedure."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "A 62-year-old healthy, postmenopausal woman has new calcifications seen in her left breast on screening mammogram. A stereotactic biopsy is performed. Pathology reveals calcifications involved with lobular carcinoma in situ (LCIS). Her breast and axilla exam are unremarkable. What is an appropriate management option?",
+            "options": [
+                "A. Lumpectomy and radiation therapy",
+                "B. Lumpectomy, sentinel node biopsy, and radiation therapy",
+                "C. Left mastectomy",
+                "D. Lumpectomy followed by raloxifene",
+                "E. Raloxifene"
+            ],
+            "answer": "D",
+            "explanation": "- Lobular carcinoma in situ (LCIS) and atypical lobular hyperplasia (ALH) are part of a breast disease spectrum referred to as lobular hyperplasia.\n- A diagnosis of LCIS is associated with an 8-to-10-fold increased risk of breast cancer, which is equal in both breasts and not increased in the breast found to have LCIS.\n- LCIS is not a direct precursor of invasive lobular carcinoma.\n- Breast cancer screening in patients known to have LCIS should include annual mammogram, and breast MRI can be added in some high-risk patients.\n- This patient is best treated by a lumpectomy followed by raloxifene.\n- Lumpectomy is recommended to evaluate all adjacent breast tissue not sampled with core biopsy, unless LCIS is found incidentally on core biopsy and another pathology explains the imaging finding.\n- Pharmacologic interventions such as tamoxifen and raloxifene decrease the incidence of subsequent invasive, hormone-positive breast cancers in patients with known LCIS; tamoxifen is typically used in premenopausal patients and raloxifene in postmenopausal patients.\n- Patients with LCIS are not recommended to undergo radiation after surgery as LCIS is a risk marker, not true breast carcinoma, and does not metastasize to axillary nodes; therefore, sentinel lymph node biopsy is not warranted.\n- Unilateral mastectomy will not sufficiently decrease risk of subsequent breast cancer, as LCIS increases the risk of bilateral breast cancer."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "In which of the following scenarios is surgical excision recommended if it is found on core needle biopsy?",
+            "options": [
+                "A. Fibroadenoma",
+                "B. Sclerosing adenosis",
+                "C. Fat necrosis",
+                "D. Pseudoangiomatous stromal hyperplasia",
+                "E. Atypical ductal hyperplasia"
+            ],
+            "answer": "E",
+            "explanation": "- Core needle biopsy allows many asymptomatic patients to avoid surgical excision when findings are benign; further management depends on pathology.\n- Patients with benign core biopsy should have further evaluation if findings are symptomatic or portend an increased risk for breast cancer.\n- Of the listed lesions, only atypical ductal hyperplasia (ADH) is routinely recommended for excisional biopsy.\n- ADH is localized intraductal proliferation with many features similar to low-grade ductal carcinoma in situ (DCIS) and often presents as visible microcalcifications on imaging.\n- Differentiation between ADH and DCIS from a core biopsy sample can be difficult.\n- Approximately 10% to 20% of ADH cases are upgraded to DCIS after excisional biopsy, making excision critical for obtaining the correct final diagnosis.\n- Fibroadenomas are benign breast tumors that often present clinically as a mobile, palpable mass; biopsy-proven fibroadenomas do not require excision unless they have pathologic atypia, are rapidly growing, or are symptomatic.\n- Sclerosing adenosis is a benign lesion not associated with an increased risk of cancer or pathologic upgrade; excision or increased screening is not warranted.\n- Fat necrosis is a benign lesion often appearing after trauma or breast surgery; it does not infer an increased risk of breast cancer and does not need to be surgically excised.\n- Pseudoangiomatous stromal hyperplasia (PASH) is a benign proliferative lesion that does not increase breast cancer risk and does not need to be surgically excised."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "A 30-year-old healthy woman presents with a rapidly growing right breast mass. Ultrasound-guided core needle biopsy is consistent with fibroadenoma. The patient is taken to the operating room for excision of the mass. The surgical specimen is pictured (figure 7.1). The pathology report reveals a malignant phyllodes tumor that abuts all surgical margins. The best next step in the management of this patient is",
+            "options": [
+                "A. re-excision of the lumpectomy bed to achieve 1-cm margins.",
+                "B. re-excision of the lumpectomy bed to achieve 1-cm margins with sentinel lymph node biopsy.",
+                "C. right breast radiation therapy.",
+                "D. doxorubicin and cisplatin-based chemotherapy.",
+                "E. doxorubicin and cisplatin-based chemotherapy followed by radiation therapy."
+            ],
+            "answer": "A",
+            "explanation": "- Phyllodes tumors are rare fibroepithelial breast tumors (approx. 1% of all breast malignancies), typically presenting as enlarging mobile breast masses.\n- Work-up includes mammogram and ultrasound; they often appear benign and are often misdiagnosed as fibroadenomas.\n- Core biopsy before surgical excision is not always definitive due to high tumor heterogeneity; histologic diagnosis is most accurate after entire mass evaluation.\n- Treatment of phyllodes tumors starts with surgical excision.\n- If final pathologic evaluation reveals phyllodes tumor, a 1-cm margin of benign tissue is generally recommended, which can be accomplished with re-excision of the seroma cavity.\n- Breast-conserving surgery or mastectomy are reasonable options for initial management if tumor-to-breast size ratio allows for a 1-cm margin.\n- Margins of less than 1 cm result in higher local recurrence rates.\n- Due to the very low incidence of axillary nodal metastases, axillary staging with sentinel lymph node biopsy and axillary node dissection are not indicated in patients with phyllodes tumors.\n- Neoadjuvant therapy does not change surgical management or affect survival/recurrence rates.\n- Indications for adjuvant therapy are not clearly defined, and neither chemotherapy nor radiation is routinely recommended.\n- Radiation therapy may be indicated for tumors larger than 2 cm after breast-conserving surgery or very large tumors (>10 cm) after mastectomy; it may improve local disease control but not survival."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "A 72-year-old woman reports 3 weeks of increasing erythema of her right nipple areola complex and surrounding skin. Physical exam is significant for an indurated central right breast with peau d'orange skin changes and palpable right axillary adenopathy. She is unable to tolerate a mammogram. Punch biopsy of the right breast skin is performed and reveals invasive ductal carcinoma that is ER positive, PR positive, and HER2 negative. Bone scan and CT scan of the abdomen and pelvis are negative for metastatic disease. In addition to neoadjuvant chemotherapy, the patient should be treated with",
+            "options": [
+                "A. tamoxifen and trastuzumab.",
+                "B. tamoxifen and radiation therapy.",
+                "C. central lumpectomy with sentinel lymph node biopsy and radiation therapy.",
+                "D. mastectomy with sentinel lymph node biopsy and radiation therapy.",
+                "E. modified radical mastectomy and radiation therapy."
+            ],
+            "answer": "E",
+            "explanation": "- This patient has inflammatory breast cancer (IBC), an aggressive form of breast cancer portending a worse survival than locally advanced, noninflammatory breast cancer.\n- IBC is a clinical diagnosis, often presenting with diffuse erythema and no discrete palpable breast mass.\n- Prompt diagnosis is paramount; patients should be staged for metastatic disease, and treatment should be initiated expeditiously.\n- Approximately 30% of patients with IBC will have distant metastatic disease at diagnosis.\n- The treatment of IBC consists of trimodality therapy: targeted neoadjuvant chemotherapy, surgery, and radiation therapy, which improves overall and median disease-free survival.\n- Chemotherapy is typically anthracycline-based; HER2+ disease also gets HER2-targeted therapies.\n- Neoadjuvant chemotherapy is followed by modified radical mastectomy.\n- Breast-conserving surgery is not indicated due to widespread nature and skin involvement.\n- Axillary node dissection is the standard of care; sentinel node biopsy is not an adequate treatment option in this patient population.\n- After modified radical mastectomy, chest wall and axillary radiation follows.\n- Patients with hormone receptor positive disease will also be treated with tamoxifen or an aromatase inhibitor after radiation therapy completion."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "A woman with a palpable 1-cm breast mass and no palpable axillary lymph nodes undergoes lumpectomy and sentinel lymph node biopsy (SLNB). Her SLNB reveals 1 metastatic node without extranodal extension. She agrees to have chemotherapy and whole breast radiation. Comparing axillary lymph node dissection with no axillary lymph node dissection, which of the following statements is true?",
+            "options": [
+                "A. Overall survival is equivalent.",
+                "B. Disease-free survival is decreased.",
+                "C. Overall survival is increased.",
+                "D. Disease-free survival is increased.",
+                "E. Overall survival is decreased."
+            ],
+            "answer": "A",
+            "explanation": "- Sentinel lymph node dissection (SLND) emerged as a more targeted approach for diagnosis of regional metastatic disease, limiting long-term complications of axillary lymphadenectomy (ALND).\n- SLND was known to be equivalent to ALND for regional metastatic disease diagnosis and showed noninferiority for survival in short-term follow-up.\n- A 10-year follow-up of the American College of Surgeons Oncology Group Z0011 trial demonstrated continued noninferiority of SLND compared with ALND for overall and disease-free survival among women with T1 or T2 invasive primary breast cancer, no palpable axillary lymphadenopathy, and 1 or 2 sentinel lymph nodes containing metastatic disease.\n- These data suggest that overall survival is equivalent, with no difference in overall or disease-free survival observed."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "A 64-year-old woman presents with axillary swelling 3 months after upper arm surgery. The patient attributes the swelling to the anesthesia, which was a regional block in the axilla. She became concerned when the swelling recently increased. Her preoperative chest x-ray was normal. Routine screening mammography 3 months ago was normal. An axillary ultrasound identifies a 2.3-cm hypoechoic oval mass. A whole breast ultrasound is negative bilaterally. A biopsy of the mass reveals a lymph node replaced with poorly differentiated adenocarcinoma consistent with a breast primary. Biomarker analysis is as follows:\nEstrogen receptor: 0% staining Progesterone receptor: 0% staining Her2Neu FISH: not amplified. What is the next step in her management?",
+            "options": [
+                "A. PET scan",
+                "B. Modified radical mastectomy",
+                "C. Axillary dissection",
+                "D. Breast MRI",
+                "E. Chemotherapy"
+            ],
+            "answer": "D",
+            "explanation": "- Occult breast cancer presenting within an axillary lymph node is an uncommon presentation of breast cancer.\n- Preoperative breast MRI is the standard of care for patients with breast cancer axillary metastases and no documented breast primary on mammogram.\n- Whole breast ultrasound is proposed, but no studies show this method is superior to breast MRI.\n- If an MRI correlate or lesion is identified, histologic confirmation with clip placement should be performed.\n- Breast conservation (axillary lymphadenectomy alone) with whole breast radiation therapy is an option for patients diagnosed with occult breast cancer who have a negative preoperative breast MRI.\n- Patients with occult breast cancer are more likely to receive radiation therapy and axillary lymphadenectomy if they receive care at an academic center, and tend to have significantly better overall survival compared with patients treated with modified radical mastectomy.\n- A PET scan may be reasonable if multiple axillary lymph nodes are suspected to be involved with metastatic breast cancer.\n- Neoadjuvant chemotherapy for triple negative breast cancer that is biopsy proven lymph node positive is reasonable, but a breast MRI should be performed before initiating chemotherapy."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "You are seeing a 66-year-old woman who has a clinical diagnosis of stage IA (T1cN0M0) infiltrating ductal carcinoma. She had an ultrasound-guided partial mastectomy with sentinel lymph node dissection. Adjuvant radiation therapy is planned. Which of the following final reports regarding the margins would support re-excision?",
+            "options": [
+                "A. Invasive ductal carcinoma on ink at the deep margin that included pectoralis fascia",
+                "B. Invasive lobular carcinoma within 1 mm of the margin but not extending to the inked margin",
+                "C. Ductal carcinoma in situ (DCIS) less than 1 mm from the inked margin",
+                "D. Classic lobular carcinoma in situ (LCIS) at the inked margin",
+                "E. Pleomorphic LCIS 2.5 mm from inked margin"
+            ],
+            "answer": "C",
+            "explanation": "- Pathology reports should list margins in quantitative measurements rather than categories like close, negative, and positive.\n- Breast conservation specimens should be oriented at the time of surgery to allow for proper margin evaluation and to determine the necessity for re-excision.\n- A margin at the fibroglandular border (skin, pectoralis fascia) does not need re-excision; residual remaining breast tissue should be re-excised.\n- A negative margin is defined as no ink on tumor for invasive breast cancer and is endorsed by the Society of Surgical Oncology and the American Society for Radiation Oncology.\n- LCIS is now reported as classic LCIS or pleomorphic LCIS. Classic LCIS is considered a high-risk lesion treated as benign that does not require surgical removal with a negative margin.\n- The significance of pleomorphic LCIS at the margin is uncertain, but some guidelines advocate for a 2 mm margin, similar to ductal carcinoma in situ (DCIS).\n- Consensus guidelines for margins in breast conserving surgery for DCIS with whole breast radiation recommend a 0.2-cm margin as standard, associated with lower rates of ipsilateral breast tumor recurrence.\n- A positive margin is defined as DCIS on inked margin and is associated with an increased risk of ipsilateral breast tumor recurrence.\n- It is not necessary to regularly perform surgery to obtain greater than 0.2-cm margin for DCIS treated with whole breast radiation.\n- For DCIS treated with excision alone, the optimal margin is not known but is suggested to be at least 0.2 cm.\n- Re-excision of close (<2 mm) or positive margins should be selectively used."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding periareolar abscesses is true?",
+            "options": [
+                "A. This is a disease of postmenopausal women.",
+                "B. Pathology starts with papillary cancer obstructing the duct.",
+                "C. Abscesses commonly grow multidrug resistant organisms.",
+                "D. MRI is recommended for diagnosis.",
+                "E. Cigarette smoking cessation is important for preventing recurrence."
+            ],
+            "answer": "E",
+            "explanation": "- A nonlactational abscess is an infection in the breast occurring in women who are not pregnant or breastfeeding.\n- Periareolar abscesses occur in women within a broad age range (18-50 years) and are not exclusive to postmenopausal women.\n- Periareolar abscesses occur more often in smokers versus nonsmokers.\n- The cause is believed to be related to \"squamous metaplasia\" or flattening of cells within the terminal ducts beneath the nipple, leading to obstruction and infection of secretions.\n- Ultrasound is the recommended imaging modality for diagnosis, and collections can be drained using needle aspiration under ultrasound guidance.\n- Recurrent and chronic abscesses are most commonly associated with smoking, and cessation is an important intervention to prevent recurrence."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding sentinel lymph node (SLNB) and axillary lymph node dissection (ALND) for breast cancer is true?",
+            "options": [
+                "A. ALND is indicated when a sentinel lymph node is negative by hematoxylin and eosin staining.",
+                "B. ALND is indicated when ultrasound-guided fine needle aspiration of an axillary node identifies carcinoma cells.",
+                "C. ALND is not performed with a mastectomy in the setting of a positive sentinel lymph node.",
+                "D. SLNB is ideal for staging women with inflammatory breast cancer.",
+                "E. ALND is suitable for women with ductal carcinoma in situ when breast-conserving surgery is planned."
+            ],
+            "answer": "B",
+            "explanation": "- In patients with localized breast cancer, the staging and management of the axillary lymph node basin has evolved.\n- If clinical examination identifies suspicious lymph nodes, these are easily examined by ultrasound and confirmed as malignant by fine needle aspiration biopsy.\n- Axillary lymph node dissection (ALND) is recommended in these patients.\n- ALND is not recommended for women with in situ cancer in which breast conservation is planned; in this case, sentinel lymph node biopsy (SLNB) is the preferred evaluation for occult lymph node metastases.\n- SLNB is an intraoperative method used when preclinical staging fails to identify metastatic lymph nodes in the axillary nodal region.\n- Lymphoscintigraphy maps the lymphatic drainage from the breast to the axillary nodes, allowing the surgeon to identify and remove nodes for pathologic examination.\n- Based on randomized studies, patients with a negative SLNB by pathologic evaluation should not receive ALND.\n- Additionally, women with sentinel lymph node metastases who will undergo mastectomy should be offered ALND.\n- Patients with inflammatory breast cancer are not candidates for SLNB because of the potential for dermal lymphatic spread of malignant cells."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "What is the most likely diagnosis in a 30-year-old menstruating woman with pain in the right breast, induration of the nipple, and bloody nipple discharge?",
+            "options": [
+                "A. Bacterial mastitis",
+                "B. Ductal carcinoma in situ",
+                "C. Intraductal papilloma",
+                "D. Nipple adenoma",
+                "E. Fibrocystic disease"
+            ],
+            "answer": "C",
+            "explanation": "- For most patients, nipple discharge is associated with benign breast pathology, with malignancy reported in 9% to 21% of patients in large case series (3-6% without a palpable mass).\n- Malignancy is most often associated with older age and the presence of a mass.\n- The association of malignancy with the color of nipple discharge remains controversial.\n- Ductal carcinoma is not likely in this young patient.\n- Bacterial infection (with pain and induration) is more common in a nursing mother, but bloody nipple discharge is not typical of an infectious process.\n- Fibrocystic disease presents with breast pain associated with the menstrual cycle and clear, milky, green, brown, or black nipple discharge.\n- Intraductal papillomas most often present with bloody or pink nipple discharge and account for 35% to 48% of patients presenting with nipple discharge.\n- A full breast examination is indicated. Cytologic examination of the discharge may not be diagnostic (sensitivity 45-82%, false positive rate 0.9-2.6%).\n- Mammography may not be helpful in a young patient with dense breast tissue; further imaging with ultrasonography or MRI is recommended.\n- Any associated masses should be biopsied with a core needle or excised for diagnosis.\n- If no mass is discovered, surgical excision of the duct is the standard of care."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "A 38-year-old woman presents with a painless, well-circumscribed, mobile 2-cm mass in the lower outer quadrant of the left breast discovered on routine breast self-exam. What is the next best step in her management?",
+            "options": [
+                "A. Observation",
+                "B. Mammography",
+                "C. Ultrasound",
+                "D. Aspiration of fluid for cytology",
+                "E. Excisional biopsy"
+            ],
+            "answer": "C",
+            "explanation": "- A breast cyst in a premenopausal woman is the most common palpable breast abnormality.\n- Although breast cancer can occur in this age group, observation of a palpable mass is not sufficient treatment.\n- Further diagnostic imaging is indicated.\n- Mammography in a young patient with dense breasts may be difficult to interpret and nondiagnostic.\n- A well-circumscribed mass may be solid or cystic, and ultrasonography will easily distinguish between them.\n- Echogenic images with a posterior enhancement are diagnostic of a simple cyst.\n- Immediate aspiration is not recommended for a benign process, but repeat physical examination is recommended after the next menstrual cycle.\n- Excisional biopsy before ultrasound examination is not indicated.\n- If masses persist after multiple menstrual cycles, repeat evaluation is warranted.\n- Both aspiration and excisional biopsy have a role in the management of cystic masses but are not the best next step in this patient's initial management.\n- Complicated cysts will demonstrate similar characteristics with the additional finding of echogenic homogenous contents on ultrasound (BI-RADS® 3).\n- Fine needle aspiration and cytologic examination may help in diagnosis, determining if the fluid is benign, noncontributory, atypical, or malignant.\n- Benign fluid in a complicated cyst should prompt a repeat ultrasound examination in 6 months.\n- All other cytologic reports should be evaluated further with percutaneous biopsy.\n- For patients with a BRCA mutation or high-risk family history, excisional biopsy is recommended over aspiration because medullary carcinoma can be difficult to distinguish by ultrasonography.\n- Cysts with a solid component on ultrasound (BI-RADS 4) are called complex cysts and have an incidence of malignancy of 3% to 36%; percutaneous biopsy is recommended for these patients."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "An 87-year-old woman presents with a 10-mm mass in the lower outer quadrant of the right breast. She has no palpable lymph nodes. She has no family history of cancer. Mammography confirms the mass, with localized microcalcifications. Needle biopsy confirms ductal carcinoma. Lumpectomy reveals a 12-mm ER-positive HER2-negative tumor with clear margins. Her sentinel lymph node biopsy is negative. The best next step in her management is",
+            "options": [
+                "A. chemotherapy.",
+                "B. tamoxifen therapy.",
+                "C. radiation of the breast.",
+                "D. mastectomy.",
+                "E. aromatase inhibitor therapy."
+            ],
+            "answer": "E",
+            "explanation": "- Elderly patients with breast cancer pose challenges to long-term management; for physically fit patients, standard recommendations for breast cancer treatment are indicated.\n- Preoperative planning should involve patients and caregivers to determine fitness, and geriatric physician referrals should be made.\n- Side effects of all contemplated treatments should be clearly discussed.\n- Palliative strategies with few side effects may be considered for patients not expected to survive for 2 to 3 years due to other comorbidities.\n- An 87-year-old woman can be expected to live for another 6 years based on actuarial tables.\n- Mastectomy after lumpectomy did not increase overall survival in elderly patients (>80 years old) in the European Organization for Research and Treatment of Cancer trial.\n- Radiation therapy in these patients is controversial, with multiple trials demonstrating a decreased risk of ipsilateral recurrence and breast cancer mortality but no improvement in overall survival.\n- The 9343 trial randomized ER positive, T1, node-negative breast cancer women over 70 to hormone therapy +/- radiation; locoregional recurrence was higher without radiation, but no survival difference between groups.\n- Chemotherapy may be required if the tumor is ER, PR, and HER2 negative (triple negative breast cancer).\n- Hormonal therapy is key to managing ER positive breast cancer, with tamoxifen being the accepted standard of care, providing an overall 5-year risk reduction in death of 31%.\n- Tamoxifen use is complicated by menopausal-like symptoms and an absolute increased risk of death (0.2% at 10 years) due to thromboembolic events and uterine cancer.\n- An aromatase inhibitor should be considered in this postmenopausal patient.\n- The ATAC trial compared anastrozole to tamoxifen and found an absolute improvement in disease-free survival of 3% with anastrozole.\n- Subgroup analysis of the Breast International Group 1-98 Collaborative study reported significantly improved disease-free and overall survival with aromatase inhibitors compared with tamoxifen.\n- Aromatase inhibitor side effects include increased osteoporotic fractures (3% at 5 years), myalgia, and arthralgia, in addition to an adverse effect on lipid profiles."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "A 48-year-old woman has a core needle biopsy of a 1-cm lesion noted on a mammogram. The final pathology shows atypical ductal hyperplasia. What is the most appropriate next step in management?",
+            "options": [
+                "A. Repeat core needle biopsy",
+                "B. Excisional biopsy",
+                "C. Breast MRI",
+                "D. Raloxifene",
+                "E. Tamoxifen"
+            ],
+            "answer": "B",
+            "explanation": "- Atypical hyperplasia (ADH) is a high-risk lesion found in approximately 10% of breast biopsies, classified as either atypical ductal hyperplasia (ADH) or atypical lobular hyperplasia (ALH).\n- Both lesions are considered high-risk with a relative risk of nearly 4 for a future breast cancer, approaching 30% risk over 25 years.\n- With ADH finding on core needle biopsy, a complete excisional biopsy is mandatory because approximately 30% of these women will have a final diagnosis of breast cancer.\n- Investigators have not been able to identify any \"low risk\" ADH, so all lesions with ADH should be fully excised to ensure no evidence of a more advanced lesion.\n- Chemoprevention (antiestrogens, selective estrogen-receptor modulators, aromatase inhibitors) lowers breast cancer risk for high-risk women.\n- A thorough discussion of the risks and benefits of chemoprevention is crucial.\n- Some experts believe breast MRI should be used for screening these high-risk women, though current guidelines state it should be \"considered.\"\n- In this patient, a repeat core needle biopsy may not give a definitive diagnosis.\n- An excisional biopsy should be done to rule out the possibility of a missed breast cancer.\n- If no cancer requiring treatment is found, chemoprevention with either raloxifene or tamoxifen would be a risk-reduction strategy.\n- Annual breast MRI could be used for future surveillance given the nearly 30% risk of a future breast cancer."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "In a woman with macromastia, which of the following is a contraindication to breast reduction surgery?",
+            "options": [
+                "A. A history of back and neck pain",
+                "B. BMI of 35",
+                "C. Age younger than 18 years",
+                "D. Absence of a screening mammogram",
+                "E. Active smoking"
+            ],
+            "answer": "E",
+            "explanation": "- Physicians referring patients with macromastia for plastic surgery should understand the indications and risk factors for breast reduction surgery.\n- The traditional recommendation that obese patients should lose weight before breast reduction surgery is substantiated only for patients with a BMI greater than 40.\n- Data indicate that patients with macromastia, including adolescents, have enhanced body image perception and participation in social activities; therefore, age younger than 18 should not contraindicate breast reduction surgery.\n- Evidence refutes the adage that surgery does not improve pain, with patients reporting decreased pain after a reduction mammoplasty.\n- An analysis of over 13,000 patients in the National Surgical Quality Improvement Program® data repository identified smoking as an independent risk factor for wound complications, including superficial and deep infections and wound disruptions.\n- Recommendations for mammography should follow American Cancer Society, American College of Obstetricians and Gynecologists, and US Preventive Services Task Force guidelines, but mammography is not a requirement before breast reduction surgery."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "A 35-year-old woman with well-controlled type II diabetes and a 20 pack-year smoking history presents with a painful mass in her right breast. Examination reveals a warm, firm, and tender nonfluctuant mass in the right outer quadrant of the right breast. Ultrasound evaluation reveals a 2.5-cm abscess. The next step in management should be",
+            "options": [
+                "A. open incision and drainage.",
+                "B. ultrasound-guided aspiration.",
+                "C. intravenous antibiotics.",
+                "D. oral antibiotics.",
+                "E. percutaneous drain placement."
+            ],
+            "answer": "B",
+            "explanation": "- Breast infections in nonlactating women (nonpuerperal abscess) are associated with increased age, diabetes mellitus type II, and a smoking history.\n- The mainstay of treatment of a nonpuerperal abscess was surgical incision and drainage, with a high rate of cure, though it often requires an operating room procedure and is associated with long healing times.\n- Percutaneous drainage has emerged as a safe and reliable alternative to incision and drainage; numerous small trials prove its efficacy.\n- Abscesses greater than 5 cm, chronic or long durations of infection, and multiloculated collections are risk factors for failure of percutaneous techniques.\n- The initial therapy for most abscesses should be ultrasound-guided needle aspiration.\n- Some patients may require repeat aspiration.\n- For larger collections (typically greater than 3 cm), an indwelling catheter may be left in place to aid in drainage.\n- Most patients (80-90%) treated with percutaneous techniques and concurrent antibiotic therapy do not require surgical incision and drainage.\n- Neither oral nor intravenous antibiotic therapy alone is sufficient treatment for an abscess of this size."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "A 55-year-old black postmenopausal woman presents with tenderness in her left breast and a possible mass. Her BMI is 42 She denies a history of breast disease. Her menarche was at age 13 and she has a G3P2 obstetrics history, with her first child at age 26. Her maternal aunt was diagnosed with breast cancer at age 54, and she had a paternal great uncle with breast cancer. On physical exam, she has large pendulous breasts, but you cannot palpate a mass. Which of the following statements is true regarding her risk for breast cancer?",
+            "options": [
+                "A. Obesity increases her risk for advanced-stage disease.",
+                "B. Weight loss would reduce her future cancer risk.",
+                "C. Her weight decreases the risk of having a large tumor.",
+                "D. Her race increases her risk for ER-positive tumors.",
+                "E. Her race increases her risk for developing breast cancer."
+            ],
+            "answer": "A",
+            "explanation": "- Many risk factors for breast cancer affect either the risk for developing breast cancer or the prognosis.\n- Black race does not increase the risk of developing breast cancer, but it does increase the risk of having breast cancer diagnosed at a later stage due to inequities of care access (e.g., screening mammography accessibility).\n- Obesity increases the risk of developing breast cancer over the lifetime and increases the risk of having advanced disease at diagnosis, including nodal disease, larger tumors, and distant disease.\n- Mortality is also directly affected negatively by obesity, with this risk increasing as BMI increases.\n- There is no proof that weight loss specifically reduces breast cancer risk.\n- Prolonged exposure to endogenous estrogen (obesity, early menarche, late menopause, nulliparous obstetric history) increases lifetime risk of developing breast cancer.\n- Family history can increase risk, but a breast cancer history outside of first-degree family members does not affect this risk.\n- Families with BRCA-1 and BRCA-2 gene mutations have increased risk for developing breast cancer (along with ovarian cancer, melanoma, and prostate cancer for BRCA-1; pancreatic cancer, prostate cancer for BRCA-2).\n- Her great uncle's breast cancer (suspected BRCA-2 mutation) alone does not increase her risk of breast cancer development, as he is not a first-degree relative; she would need to be tested for this mutation.\n- Receptor status has prognostic value; presence of estrogen and progesterone receptors indicates a better differentiated malignancy and a favorable prognostic sign.\n- In this patient, her race is associated with a higher chance of having an ER negative status."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "A 55-year-old woman presents with a red, swollen right breast. She reports progressive edema, heaviness, and erythema of her entire breast over the past 3 months. She has been on antibiotics for 10 days with no improvement. On exam, her contralateral breast is normal. The right breast is mildly tender and erythematous, with pitting of the skin around areola. There is no discrete mass, but there is generalized fullness in the breast. The next step in management should be",
+            "options": [
+                "A. mammography.",
+                "B. core needle biopsy in the center of the breast.",
+                "C. dermal biopsy.",
+                "D. breast MRI.",
+                "E. PET-CT scan."
+            ],
+            "answer": "A",
+            "explanation": "- Inflammatory breast cancer (IBC) is a rare presentation (<3% of breast cancer diagnoses) of locally advanced breast cancer.\n- IBC is characterized by diffuse tumor infiltration of breast tissue and dermal lymphatics, producing the characteristic clinical presentation of a swollen, edematous breast with peau d'orange skin changes and diffuse erythema.\n- This presentation can be misdiagnosed as an infection but will not respond to systemic antibiotics.\n- The diagnosis of IBC is based largely on the clinical presentation, with patients commonly reporting rapid onset of symptoms (<6 months).\n- The workup of patients suspected to have IBC starts with breast imaging.\n- Bilateral mammography and breast ultrasound of the affected breast and ipsilateral axilla are performed to identify any discrete mass or suspicious lymph nodes.\n- Full-thickness skin biopsy or open surgical biopsy are not needed to confirm the diagnosis; standard image-guided biopsy should be performed on any identified mass.\n- Breast MRI is not the initial imaging study of choice but can be used to identify a target to biopsy if no mass is found on mammography or ultrasound.\n- Because 20% to 35% of patients with IBC will have distant metastases at presentation, a full staging workup (CT scans of the brain, chest, abdomen, and pelvis) should be performed after diagnosis."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "A 42-year-old woman underwent her first screening digital mammogram. She has a Gail Model 5-year breast cancer risk of 1.7%. Her mammogram report notes extremely dense breasts and a Breast Imaging Reporting and Data System (BI-RADS®) category 1 What is the next step in her care?",
+            "options": [
+                "A. Repeat digital mammogram in 1 year",
+                "B. Whole breast screening ultrasound",
+                "C. Digital breast tomosynthesis",
+                "D. Breast MRI",
+                "E. Contrast-enhanced spectral mammography"
+            ],
+            "answer": "C",
+            "explanation": "- A woman with an average risk of breast cancer should begin digital mammography at age 40.\n- This patient has a Gail Model risk of 1.7%, placing her into the high-risk category.\n- For patients with a high risk of breast cancer, initial screening is done with digital mammography; if this test is equivocal or if factors limit its accuracy, alternative testing is needed.\n- Whole breast screening ultrasound is currently used as a secondary screening tool; it shows promise, but no randomized clinical trials exist evaluating screening ultrasound.\n- Breast MRI is a useful adjunct to screening mammography in patients who are at high risk for cancer, including those ages 10 to 30 with a prior history of chest wall radiation, a known genetic predisposition for breast cancer, or a strong family history.\n- Digital breast tomosynthesis (DBT), or 3-dimensional mammography, is an advanced form of breast imaging that obtains multiple 2-dimensional images combined to form a 3-dimensional image.\n- DBT is currently recommended when digital mammography shows dense breasts and the patient is at high risk for breast cancer, as it identifies more neoplastic lesions in this population than screening mammography.\n- Contrast-enhanced spectral mammography is a newer technique (intravenous contrast + digital mammography), approved in 2011, but no randomized trials support its use at this time."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "A 68-year-old woman with a normal breast exam had pleomorphic calcifications spanning 3 cm on screening mammography. Core needle biopsy was consistent with ductal carcinoma in situ, and she underwent a lumpectomy. The margins were 25 mm. What factor is associated with an increased risk of local recurrence?",
+            "options": [
+                "A. Microcalcifications",
+                "B. Final margins 2.5 mm",
+                "C. Size of the primary lesion",
+                "D. Presence of comedo necrosis",
+                "E. Age older than 40 years"
+            ],
+            "answer": "D",
+            "explanation": "- Ductal carcinoma in situ (DCIS) incidence is increasing with screening mammography, now representing up to 50% of screen-detected breast cancers.\n- DCIS is a heterogeneous disease, with 25% to 50% of patients progressing to invasive disease.\n- The primary goal of initial treatment is to prevent recurrence of invasive disease while minimizing treatment-related morbidity and optimizing cosmesis.\n- Identification of patients at increased risk of local recurrence is critically important.\n- In the National Surgical Adjuvant Breast and Bowel Project (NSABP) B-24 trial, local recurrence rates were higher for margin-positive than for margin-negative patients.\n- Recommendations for the optimal margin threshold is 2 mm; the risk of ipsilateral recurrence is lower at this margin threshold than for margins of 1 mm or no ink on tumor.\n- Rates of ipsilateral recurrence were also higher for tumors with a component of comedo necrosis (regardless of adjuvant therapies) than for tumors without.\n- The presence of necrosis is a weaker predictor of recurrence than cellular architecture and nuclear grade.\n- Other factors associated with increased risk of local recurrence include initial detection by palpation and tumor size (>10 mm).\n- The presence of microcalcifications is not associated with increased risk of recurrence.\n- Molecular testing to predict the risk of local recurrence for DCIS continues to evolve, including use of a 12-gene subset of the 21-gene recurrence score and studies using individualized expression of ER, PR, Ki67 antigen, p16, p53, ERBB2, and COX-2."
+        }
+    ]
+}

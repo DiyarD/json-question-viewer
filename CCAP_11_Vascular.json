@@ -1,0 +1,341 @@
+{
+    "chapter_name": "Vascular",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "When placing a port for outpatient chemotherapy, what decreases the risk of inadvertent arterial placement?",
+            "options": [
+                "A. Internal jugular access",
+                "B. Ultrasound guidance",
+                "C. Fine-gauge needle for initial access",
+                "D. Steep Trendelenburg positioning",
+                "E. Neutral neck position"
+            ],
+            "answer": "B",
+            "explanation": "- Arterial puncture is more likely to occur with an internal jugular rather than a subclavian approach (3% vs 0.5%).\n- Subclavian access is more likely to be complicated by pneumothorax or hemothorax.\n- Real-time ultrasound prevents arterial injury in the internal jugular position, reducing the risk of complications (from 8.4% to 1.4%).\n- Experience also reduces the risk of complications: Catheter insertion by a physician with more than 50 prior insertions is half as likely to result in a mechanical complication.\n- More than 3 insertion attempts during one procedure is 6 times more likely to lead to a complication; after 3 attempts, the surgeon should abort or ask for assistance.\n- Pressure monitoring, with either column manometry or pressure transducer before dilator placement, potentially prevents arterial injury.\n- Neck positioning (generally best to place a roll behind shoulders), fine-gauge needle use, and steep Trendelenburg positioning are good practices that facilitate the procedure, but neither definitively reduces the risk of inadvertent arterial catheterization."
+        },
+        {
+            "id": 2,
+            "question_type": "clinical_scenario",
+            "question": "A 77-year-old woman presents with 6 months of progressive abdominal pain and weight loss, despite a normal appetite. She reports epigastric and periumbilical pain approximately 1 hour after eating, with frequent associated diarrhea. Her physical exam and abdominal ultrasound were unremarkable. Which of the following would be the next step in her evaluation?",
+            "options": [
+                "A. Hepatobiliary scan",
+                "B. Upper endoscopy",
+                "C. CT angiogram of the abdomen",
+                "D. Colonoscopy",
+                "E. Diagnostic laparoscopy"
+            ],
+            "answer": "C",
+            "explanation": "- This patient is presenting with chronic mesenteric ischemia, a disorder in which blood flow to the intestines is inadequate.\n- The main etiology of chronic mesenteric ischemia is atherosclerosis of the celiac, superior mesenteric, or inferior mesenteric arteries; rare causes include median arcuate ligament syndrome, vasculitis, or fibromuscular dysplasia.\n- Nonocclusive mesenteric ischemia is a form of chronic mesenteric ischemia that occurs in patients with a low flow state; there is a female preponderance.\n- The most important finding is postprandial pain, usually occurring 90 minutes to 2 hours after a meal, leading to fear of eating, smaller meals, missed meals, and weight loss.\n- Patients may also present with diarrhea. In end-stage chronic mesenteric ischemia, pain patterns may change to more constant abdominal pain.\n- Chronic mesenteric ischemia can present with ulcers in the stomach; elderly patients with ulcers where Helicobacter pylori is negative and no NSAID use should undergo screening for chronic mesenteric ischemia.\n- Diagnosis is first and foremost clinical.\n- Duplex ultrasound is a good screening test (no radiation) but is operator dependent and limited where experience is not high.\n- CT angiography is the diagnostic test of choice for chronic mesenteric ischemia, providing 3-dimensional imaging of vasculature and ruling out other causes of abdominal pain.\n- Hepatobiliary scanning is typically used for biliary disease, not indicated by the patient's symptoms.\n- Upper endoscopy and colonoscopy could be considered, but in this patient with postprandial pain, diarrhea, and weight loss, these tests would only lead to confusion and delay treatment.\n- There is no indication for diagnostic laparoscopy."
+        },
+        {
+            "id": 3,
+            "question_type": "clinical_scenario",
+            "question": "A 25-year-old man is shot in the right flank. At the time of laparotomy, a right medial visceral rotation is performed. A nonpulsatile, but large and expanding, retroperitoneal hematoma is visualized. The hematoma is opened, and the site of bleeding is identified as a laceration of the infrarenal inferior vena cava involving 75% of its circumference. The patient's blood pressure is 80/40 mm Hg, his pulse is 115 beats per minute, and his hematocrit is 21% (45-52%). The best next step in the management of this patient is",
+            "options": [
+                "A. packing of the retroperitoneal hematoma.",
+                "B. ligation of the inferior vena cava.",
+                "C. suture repair of the inferior vena cava.",
+                "D. a spiraled saphenous vein interposition graft",
+                "E. an endovascular stent graft."
+            ],
+            "answer": "B",
+            "explanation": "- Acute management of penetrating injuries to the inferior vena cava (IVC) is guided by clinical status and injury extent.\n- The patient is hypotensive, tachycardic, and anemic, indicating significant volume depletion from acute blood loss.\n- Rapid hemorrhage control is essential to prevent progressive acidosis, hypothermia, and coagulopathy.\n- Undertaking complex surgical repairs is not advisable when a patient is in shock due to ongoing hemorrhage.\n- Given a 75% infrarenal IVC laceration, ligation of the IVC is the best surgical intervention.\n- Ligation of significantly injured infrarenal IVC is an accepted damage control laparotomy practice, with a reported survival rate of 40%.\n- The most common morbidity of infrarenal IVC ligation is lower extremity swelling, which is usually tolerated well, though it can be severe enough for acute compartment syndrome.\n- Long-term follow-up shows lower extremity edema or dysfunction is uncommon after emergency IVC ligation.\n- Concerns about long-term consequences of IVC ligation should not override the need to save the patient's life.\n- Packing the retroperitoneal hematoma will not reliably control hemorrhage for this injury.\n- An endovascular stent graft is not suitable in the acute setting with an opened hematoma and patient in shock; it's more appropriate when injury is identified preoperatively and patient is adequately resuscitated.\n- A spiraled saphenous vein interposition graft is a potential surgical option for IVC repair but is appropriate only in the elective setting due to the time required.\n- Direct suture repair of the IVC should be reserved for lacerations less than 50% of the circumference, not in active shock, and where expeditious repair is possible."
+        },
+        {
+            "id": 4,
+            "question_type": "clinical_scenario",
+            "question": "A 70-year-old man has a 4.0-cm abdominal aortic aneurysm on a surveillance ultrasound. He is asymptomatic. He is advised to undergo yearly surveillance ultrasound imaging. Referral for repair of his abdominal aortic aneurysm should occur when the diameter of his abdominal aortic aneurysm is",
+            "options": [
+                "A. 4.5 cm.",
+                "B. 4.8 cm.",
+                "C. 5.1 cm.",
+                "D. 5.4 cm.",
+                "E. 5.7 cm."
+            ],
+            "answer": "E",
+            "explanation": "- The size at which an abdominal aortic aneurysm (AAA) should be repaired was studied in multiple randomized clinical trials (UKSAT, ADAM, CAESAR, PIVOTAL).\n- These trials concluded that close observation with periodic ultrasound screening is as safe as open repair or endovascular aortic reconstruction, as long as the AAA is less than 5.5 cm in diameter.\n- Results showed no advantage to early repair (open or endovascular) for smaller AAAs (4.0 to 5.5 cm).\n- Optimal care for these patients is routine monitoring with ultrasound surveillance.\n- More recent clinical trials on endovascular aneurysm repair for smaller AAAs have not shown a benefit.\n- Neither open nor endovascular repair of an AAA should be undertaken until the aneurysm is more than 5.5 cm in diameter."
+        },
+        {
+            "id": 5,
+            "question_type": "clinical_scenario",
+            "question": "A 64-year-old man has a medical history of hypertension, diabetes, coronary artery disease, and aortic stenosis. He has undergone coronary artery bypass grafting and aortic valve replacement. He presents with swelling that involves just his third toe with associated plantar ulcer (figure 5.1). In addition to antibiotics, what is the next step in his management?",
+            "options": [
+                "A. Incision and drainage with alginate dressing changes",
+                "B. Debridement with negative pressure wound therapy",
+                "C. Hyperbaric therapy",
+                "D. Transmetatarsal amputation",
+                "E. Ray amputation"
+            ],
+            "answer": "E",
+            "explanation": "- Figure 5.1 is consistent with a diabetic foot infection.\n- Key points in evaluation include extent of infection, underlying factors, and microbes.\n- Management involves wound care, antibiotics, and surgery.\n- Wound care consists of debridement of necrotic tissue, dressing changes, and elimination of pressure.\n- Most diabetic foot infections are polymicrobial, requiring broad-spectrum antibiotic coverage.\n- Assessment for osteomyelitis involves checking for grossly visible bone, ability to probe bone, ulcer duration >1-2 weeks, and ulcer size >2 cm²; confirmation with imaging (plain film or MRI) if suspected.\n- The patient's history of aortic valve replacement places him at higher risk for endocarditis, necessitating quick source control.\n- The patient presents with exposed metatarsal, indicating osteomyelitis.\n- Incision and drainage, debridement, and hyperbaric therapy are not indicated for osteomyelitis.\n- Amputation is required for source control of the infection.\n- Transmetatarsal amputation would be too extensive for infection limited to one toe.\n- Ray amputation allows source control while preserving tissue."
+        },
+        {
+            "id": 6,
+            "question_type": "clinical_scenario",
+            "question": "A 65-year-old man undergoes laparoscopic right adrenalectomy for an enlarging mass. He is managed with appropriate venous thromboembolism prophylaxis. On postoperative day 2, he develops new-onset right calf swelling. Pathology of the adrenal mass is an adenoma. Duplex studies demonstrate acute obstruction in the right soleal vein. He is otherwise asymptomatic. How should this patient's clinical condition be managed?",
+            "options": [
+                "A. Vitamin K antagonist therapy for 30 days",
+                "B. Observation with repeat duplex study in 2 weeks",
+                "C. Catheter-directed thrombolysis of the lower extremity",
+                "D. Placement of an inferior vena cava filter",
+                "E. Low molecular weight heparin for 30 days"
+            ],
+            "answer": "B",
+            "explanation": "<b>PROBABLE ANSWER: E<b><br>- The diagnosis and management of venous thromboembolic events (VTE) are regularly re-evaluated.\n- American College of Chest Physicians guidelines discourage routine whole-leg ultrasound for suspected DVT, which has reduced isolated distal DVT diagnoses.\n- Rationale: other assessments may indicate isolated distal DVT is unlikely or unlikely to cause complications.\n- Approximately 15% of untreated isolated distal DVT are expected to extend into the popliteal vein and may cause pulmonary embolism.\n- It is unacceptable to neither anticoagulate nor perform surveillance to detect thrombus extension.\n- Anticoagulant therapy is effective for proximal DVT and pulmonary embolism.\n- Whether benefits of anticoagulation outweigh risks in patients with isolated distal DVT is uncertain due to their lower risk of progression or recurrence.\n- For acute proximal DVT of the leg, anticoagulant therapy alone is recommended over catheter-directed thrombolysis, and IVC filter use is discouraged.\n- These recommendations extend to patients presenting with distal DVTs.\n- Patients requiring anticoagulation for DVT/PE without cancer: 3 months of dabigatran, rivaroxaban, apixaban, or edoxaban are recommended over Vitamin K antagonist therapy.\n- Aspirin has no role as an alternative to anticoagulant therapy for acute VTE/PE.\n- Few patients with acute pulmonary embolism without hypotension should be treated with thrombolytic therapy."
+        },
+        {
+            "id": 7,
+            "question_type": "clinical_scenario",
+            "question": "On the patient's fourth postoperative day, he develops hypoxia while remaining normotensive. A CT scan (figure 7.1) is obtained. Which of the following should the patient's management include?",
+            "options": [
+                "A. Placement of an inferior vena cava filter",
+                "B. Anticoagulation therapy for 3 months",
+                "C. Systemic thrombolytic therapy",
+                "D. Pulmonary thromboendarterectomy",
+                "E. Aspirin therapy initiation"
+            ],
+            "answer": "B",
+            "explanation": "- The patient develops hypoxia and remains normotensive, with a CT scan (Figure 7.1 shows deep vein thrombosis of the leg) indicating a pulmonary embolism likely originating from the DVT.\n- For acute proximal DVT of the leg, anticoagulant therapy alone is recommended over catheter-directed thrombolysis.\n- The use of an inferior vena cava filter is discouraged.\n- These recommendations extend to patients presenting with distal DVTs.\n- For patients requiring anticoagulation for DVT or pulmonary embolism and with no history of cancer, 3 months of anticoagulant therapy is recommended with dabigatran, rivaroxaban, apixaban, or edoxaban over Vitamin K antagonist therapy.\n- There is no role for aspirin as an alternative to anticoagulant therapy in the acute treatment of venous thromboembolism or pulmonary embolism.\n- Few patients with acute pulmonary embolism without hypotension should be treated with thrombolytic therapy; the patient is normotensive, so systemic thrombolytic therapy is not the primary choice.\n- Pulmonary thromboendarterectomy is a treatment for chronic thromboembolic pulmonary hypertension, not acute pulmonary embolism."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding the use of temporary arterial shunts in trauma is true?",
+            "options": [
+                "A. Systemic anticoagulation is required.",
+                "B. The most common site is in the thorax.",
+                "C. Optimal shunt time is less than 6 hours.",
+                "D. Blunt traumatic injuries are the most common indication.",
+                "E. Shunt-related complications occur more frequently in torso injuries than extremity injuries."
+            ],
+            "answer": "C",
+            "explanation": "- Temporary arterial shunts allow for rapid control of hemorrhage and re-establishment of distal circulation, quicker than complex arterial reconstruction.\n- This allows surgeons to address other associated injuries and quickly transfer the patient to the ICU to correct hypothermia, coagulopathy, and acidosis.\n- Definitive arterial reconstruction can be performed later after patient resuscitation.\n- In concomitant vascular and complex orthopedic injuries, temporary shunts allow rapid re-establishment of distal perfusion, enabling definitive orthopedic repair without disrupting a new arterial repair.\n- Optimal shunt dwell times are not clearly established, but no shunt-related complications are reported with dwell times less than 6 hours.\n- After 6 hours, shunt thrombosis or dislodgement and distal ischemia are seen more frequently.\n- Shunt-related complications appear related to vessel size, with smaller vessels having more complications.\n- Shunts used in the torso (large vessels) tend to have fewer complications than extremity injuries.\n- Systemic anticoagulation does not decrease shunt thrombosis and is not recommended, especially given the high percentage of associated injuries.\n- The role of local and systemic heparin administration during temporary intravascular shunt placement is controversial.\n- Placement of temporary intravascular shunts is most common in the setting of peripheral arterial injuries with a penetrating mechanism."
+        },
+        {
+            "id": 9,
+            "question_type": "clinical_scenario",
+            "question": "A 78-year-old man presents with a single episode of hematemesis. He has a history of an open abdominal aortic aneurysm repair 4 years ago. Esophagogastroduodenoscopy reveals a dot in the third portion of the duodenum. CT angiography reveals a fistula between the aorta and duodenum. What is the most appropriate treatment?",
+            "options": [
+                "A. Intravenous antibiotics and bowel rest",
+                "B. Esophagogastroduodenoscopy with endoscopic dipping of the fistula",
+                "C. Endoscopic injection of fibrin glue",
+                "D. Fistula takedown with patch angioplasty",
+                "E. Fistula takedown with graft removal and extra-anatomic bypass"
+            ],
+            "answer": "E",
+            "explanation": "- Upper gastrointestinal hemorrhage is common in elderly patients.\n- A history of an abdominal aortic aneurysm (AAA) repair should always raise suspicion for an aortoenteric fistula (AEF).\n- AEFs are more common in patients with open AAA repair (compared to endovascular repair), typically occurring 1 to 5 years post-op.\n- The most common etiology is graft infection with an anastomotic pseudoaneurysm eroding into adjacent bowel.\n- Fistulas usually involve the proximal aortic anastomosis and the distal duodenum.\n- More than 70% of patients initially present with a \"herald bleed\" followed shortly by high-volume hemorrhage and death.\n- AEFs are missed on >85% of endoscopic evaluations due to their distal nature; CT scan has 93% sensitivity.\n- Swift action is needed to avoid exsanguination.\n- Historically, surgical outcomes were poor, but a newer study showed 21% overall mortality at 30 days (0% for normotensive at surgery vs. 60% for those in shock).\n- Antibiotics and bowel rest are inadequate to prevent hemorrhage and death as they do not remove the fistula or septic focus.\n- Endoscopic clipping is inadequate to address the infected graft.\n- Most experts agree that the entire graft must be explanted to eliminate infection and prevent further pseudoaneurysms.\n- After fistula repair and graft excision, the aorta is oversewn, and distal perfusion is restored with an extra-anatomic bypass to avoid graft contamination.\n- Endoscopic injection of a fibrin sealant with an endovascular stent is described for thoracic AEFs; while promising, there is insufficient evidence to support its utility in abdominal AEFs.\n- Endovascular stenting of AEFs has emerged as a reasonable alternative to graft excision and extra-anatomic bypass, associated with lower in-hospital mortality but ~50% risk of reinfection.\n- Stenting is typically used as a bridge to definitive open surgery for hemodynamically abnormal or otherwise unfit patients."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "Among high-risk patients on chemoprophylaxis for venous thromboembolism prevention, the greatest risk factor for failure is",
+            "options": [
+                "A. cumulative missed doses.",
+                "B. trauma.",
+                "C. epidural catheter use.",
+                "D. male sex.",
+                "E. BMI greater than 30."
+            ],
+            "answer": "A",
+            "explanation": "- Venous thromboembolism (VTE) events remain a major cause of potentially preventable morbidity and mortality in high-risk trauma and general surgery patients.\n- Challenges in chemoprophylaxis include patient characteristics (high risk), relative contraindications, and interruptions due to procedures or operations.\n- A review of >200 high-risk trauma and general surgery patients found that only age older than 50 and cumulative missed doses correlated with an increased risk of VTE.\n- Trauma (compared with general surgery), male sex, and obesity were not independent risk factors in this study.\n- Epidural catheter use was not associated with increased risk of VTE.\n- In an analysis of traumatic brain injury patients, interrupted chemoprophylaxis had the highest odds ratio of predicting VTE compared with other risk factors; male sex and BMI were not significant predictors."
+        },
+        {
+            "id": 11,
+            "question_type": "clinical_scenario",
+            "question": "A 42-year-old woman with stage HI chronic kidney disease (glomerular filtration rate of 32 mL/min/1.73 m2; 90-120 mL/min/1.73 m2) and a BMI of 32 was admitted to the intensive care unit with acute oliguric renal failure 3 days after a hysterectomy. She needs vascular access for continuous renal replacement therapy. The most appropriate option is",
+            "options": [
+                "A. temporary dialysis catheter, right internal jugular vein.",
+                "B. temporary dialysis catheter, left subclavian vein.",
+                "C. temporary dialysis catheter, right femoral vein.",
+                "D. tunneled right subclavian catheter.",
+                "E. tunneled left internal jugular catheter."
+            ],
+            "answer": "A",
+            "explanation": "- Most postoperative or post-trauma patients who develop acute kidney injury requiring renal replacement therapy will recover kidney function and not need long-term dialysis.\n- This patient has pre-existing stage III chronic kidney disease (GFR 32 mL/min/1.73 m²), placing her at very high risk for eventually needing chronic long-term dialysis.\n- When planning temporary, acute venous access, it is important to consider long-term needs and potential complications of short-term venous access.\n- In general, the preferred vein for short-term dialysis access is the right jugular vein because it provides a straight trajectory.\n- The left internal jugular can also be used, but its circuitous route can lead to more flow issues.\n- Subclavian veins should be avoided due to stenosis concerns, especially in patients likely to need permanent dialysis access in the arm (fistula or graft).\n- Femoral access is a reasonable second choice if jugular access is difficult or unavailable, but it is associated with higher infection rates (bacteremia, especially in patients with high BMI) and the theoretical risk of iliac vein stenosis complicating renal transplant.\n- Tunneled catheters are usually not placed in the acute ICU setting but are reserved for the subacute phase when long-term access (>3 weeks) is needed, or while awaiting renal function return or permanent access."
+        },
+        {
+            "id": 12,
+            "question_type": "clinical_scenario",
+            "question": "A 63-year-old man presents with severe abdominal pain and bloody diarrhea 2 months after a myocardial infarction treated with coronary stent placement. His blood pressure is 98/60 mm Hg, and his heart rate is 115 beats per minute. An abdominal CT scan with contrast is obtained (figure 12.1). After fluid resuscitaion, the most Appropriate next step in management is",
+            "options": [
+                "A. diagnostic laparoscopy.",
+                "B. systemic anticoagulation.",
+                "C. flexible saigmoidoecopy.",
+                "D. upper endoscopy.",
+                "E. catheter-based papaverine infusion."
+            ],
+            "answer": "B",
+            "explanation": "- The patient's presentation and CT scan (Figure 12.2, not 12.1, shows a superior mesenteric artery (SMA) embolus, likely from a cardiac source).\n- The CT scan demonstrates a large filling defect in the SMA distal to the proximal branches.\n- The initial treatment includes fluid resuscitation and systemic anticoagulation to minimize any future clot propagation.\n- After these initial treatments, expeditious operative embolectomy with restoration of blood flow to the bowel is indicated.\n- Operative embolectomy is the most appropriate approach to remove the embolus.\n- Bypass of SMA obstruction is required in SMA thrombosis, but not in embolic disease.\n- Catheter-based vasodilation with papaverine may be appropriate in low-flow intestinal ischemia but has no role in occlusive disease.\n- Time to restoration of perfusion is paramount.\n- Assessment of bowel viability is necessary after re-establishment of blood flow, but neither endoscopy nor laparoscopy is indicated when there is ongoing ischemia.\n- Determination of the need for bowel resection is typically done at the completion of the embolectomy and may involve a \"second look\" laparotomy at 12 to 24 hours."
+        },
+        {
+            "id": 13,
+            "question_type": "clinical_scenario",
+            "question": "After initial management is commenced, the most appropriate next step m management is",
+            "options": [
+                "A. observation.",
+                "B. repeat CT scan in 12 hours.",
+                "C. flexible sigmoidoscopy.",
+                "D. operative embolectomy.",
+                "E. mesenteric bypass."
+            ],
+            "answer": "D",
+            "explanation": "- The patient's presentation and CT scan (Figure 12.2, not 12.1, shows a superior mesenteric artery (SMA) embolus, likely from a cardiac source).\n- The CT scan demonstrates a large filling defect in the SMA distal to the proximal branches.\n- The initial treatment includes fluid resuscitation and systemic anticoagulation to minimize any future clot propagation.\n- After these initial treatments, expeditious operative embolectomy with restoration of blood flow to the bowel is indicated.\n- Operative embolectomy is the most appropriate approach to remove the embolus.\n- Bypass of SMA obstruction is required in SMA thrombosis, but not in embolic disease.\n- Catheter-based vasodilation with papaverine may be appropriate in low-flow intestinal ischemia but has no role in occlusive disease.\n- Time to restoration of perfusion is paramount.\n- Assessment of bowel viability is necessary after re-establishment of blood flow, but neither endoscopy nor laparoscopy is indicated when there is ongoing ischemia.\n- Determination of the need for bowel resection is typically done at the completion of the embolectomy and may involve a \"second look\" laparotomy at 12 to 24 hours."
+        },
+        {
+            "id": 14,
+            "question_type": "emq",
+            "question": "Popliteal vein thrombosis in a 52-year-old woman after uncomplicated laparoscopic cholecystectomy",
+            "options": [
+                "A. Lifelong warfarin therapy",
+                "B. 3 months apixaban therapy",
+                "C. 4 to 6 weeks prophylactic dose fondaparinux",
+                "D. 4 to 6 weeks rivaroxaban therapy",
+                "E. Observation"
+            ],
+            "answer": "B",
+            "explanation": "- Historical recommendations for venous thromboembolism (VTE) treatment included parenteral anticoagulation for at least 5 days followed by transition to maintenance warfarin.\n- Current guidelines recommend a minimum of 3 months of therapy; longer duration (e.g., 6 months) may decrease postthrombotic syndrome.\n- Factor Xa direct oral anticoagulants (DOACs) eliminate the need for transitioning with parenteral anticoagulation, and recommendations for duration remain unchanged.\n- Randomized controlled trials and meta-analysis of phase III trials show DOAC use is associated with decreased incidence of recurrent VTE and VTE mortality.\n- For a patient with a postoperative cholecystectomy, 3 months of apixaban is adequate therapy."
+        },
+        {
+            "id": 15,
+            "question_type": "emq",
+            "question": "Isolated calf vein thrombosis in a healthy 36-year-old man after ankle sprain.",
+            "options": [
+                "A. Lifelong warfarin therapy",
+                "B. 3 months apixaban therapy",
+                "C. 4 to 6 weeks prophylactic dose fondaparinux",
+                "D. 4 to 6 weeks rivaroxaban therapy",
+                "E. Observation"
+            ],
+            "answer": "E",
+            "explanation": "- Isolated calf thrombosis associated with an injury in an ambulatory patient should not receive anticoagulants.\n- A randomized controlled study of 107 patients showed a low rate of progression to proximal VTE (3.7%), not significantly different between anticoagulation and compression versus compression alone.\n- No VTE-associated deaths or increased venous recanalization with heparin use were observed.\n- For a 36-year-old man with an ankle sprain, NSAID therapy for pain control is sufficient treatment."
+        },
+        {
+            "id": 16,
+            "question_type": "emq",
+            "question": "A second episode of superficial femoral vein thrombosis in a 62-year-old female breast cancer patient on tamoxifen",
+            "options": [
+                "A. Lifelong warfarin therapy",
+                "B. 3 months apixaban therapy",
+                "C. 4 to 6 weeks prophylactic dose fondaparinux",
+                "D. 4 to 6 weeks rivaroxaban therapy",
+                "E. Observation"
+            ],
+            "answer": "A",
+            "explanation": "- Recurrent VTE in cancer patients can be difficult to manage.\n- For a patient with breast cancer on tamoxifen, there is an additional risk of VTE due to tamoxifen in addition to the thrombotic risk accompanying her cancer diagnosis.\n- Current recommendations for treatment are for lifelong anticoagulation unless there are contraindications such as active bleeding.\n- Inferior vena cava filter placement may be considered for these patients."
+        },
+        {
+            "id": 17,
+            "question_type": "emq",
+            "question": "Superficial thrombophlebitis at the knee in a 56-year-old perimenopausal woman",
+            "options": [
+                "A. Lifelong warfarin therapy",
+                "B. 3 months apixaban therapy",
+                "C. 4 to 6 weeks prophylactic dose fondaparinux",
+                "D. 4 to 6 weeks rivaroxaban therapy",
+                "E. Observation"
+            ],
+            "answer": "C",
+            "explanation": "- A patient with a superficial venous thrombosis does not have a deep venous thrombosis.\n- There are increasing data documenting that many such patients will have concomitant VTE and an increased risk of future VTE.\n- American College of Chest Physicians guidelines from 2012 recommended treatment with fondaparinux for 45 days based on randomized clinical trials.\n- Reduction in recurrent superficial venous thrombosis and future VTE was observed with fondaparinux."
+        },
+        {
+            "id": 18,
+            "question_type": "emq",
+            "question": "Superior vena cava syndrome",
+            "options": [
+                "A. Varicocele",
+                "B. Varicose veins below the knee",
+                "C. Unilateral arm pain and swelling",
+                "D. Iliofemoral deep vein thrombosis",
+                "E. Headache and conjunctival edema"
+            ],
+            "answer": "E",
+            "explanation": "- Extrinsic compression of veins by adjacent arteries, ligaments, muscles, or bones is most commonly seen in young, healthy individuals.\n- Extrinsic compression can also be caused by adjacent neoplasms and metastatic lesions.\n- Regardless of etiology, venous compression can lead to venous hypertension with development of venous collaterals and eventual endothelial damage that predisposes patients to acute or chronic venous thrombosis.\n- Anatomic compression may occur at numerous sites, and attendant symptoms are often expressed as venous hypertension distal to the obstructed area.\n- If untreated, venous compression can lead to chronic symptoms that limit the ability to work and quality of life.\n- Approximately 60% of superior vena cava syndrome (SVCS) cases are caused by malignancy; intravascular catheters and implanted cardiac devices account for the majority of benign cases.\n- Common symptoms are face and neck swelling, headache, conjunctival edema, dyspnea, and cough (figure 18-22.1).\n- Treatment options depend on etiology; malignant lesions receive radiation with or without chemotherapy.\n- In benign cases, the indwelling device is removed, and the patient is anticoagulated.\n- Recent series of patients with SVCS due to malignant or benign causes who underwent venoplasty and stenting showed promising outcomes."
+        },
+        {
+            "id": 19,
+            "question_type": "emq",
+            "question": "Paget-Schroetter syndrome",
+            "options": [
+                "A. Varicocele",
+                "B. Varicose veins below the knee",
+                "C. Unilateral arm pain and swelling",
+                "D. Iliofemoral deep vein thrombosis",
+                "E. Headache and conjunctival edema"
+            ],
+            "answer": "C",
+            "explanation": "- Chronic compression of the axillary-subclavian vein at the level of the thoracic outlet is referred to as Paget-Schroetter syndrome, also known as effort thrombosis or venous thoracic outlet syndrome (figure 18-22.2).\n- Compression is most commonly seen in the dominant arm of active patients, often provoked by excessive overhead exercise.\n- The site of compression is at the costoclavicular triangle bordered by the first rib inferiorly, clavicle superiorly, subclavius muscle and costoclavicular ligament medially, and insertion of the anterior scalene muscle laterally.\n- Muscular or ligamentous hypertrophy, bony abnormalities, or callus formation from prior fractures may lead to narrowing of the costoclavicular space.\n- The most common symptoms are unilateral arm pain and swelling, often accompanied by chest wall venous collaterals (figures 18-22.3 and 18-22.4).\n- The acute onset of symptoms usually heralds development of axillosubclavian vein thrombus.\n- Treatment involves lysis of the thrombus, followed by surgical decompression of the vein."
+        },
+        {
+            "id": 20,
+            "question_type": "emq",
+            "question": "Nutcracker syndrome",
+            "options": [
+                "A. Varicocele",
+                "B. Varicose veins below the knee",
+                "C. Unilateral arm pain and swelling",
+                "D. Iliofemoral deep vein thrombosis",
+                "E. Headache and conjunctival edema"
+            ],
+            "answer": "A",
+            "explanation": "- Compression of the left renal vein between the superior mesenteric artery and the aorta is known as nutcracker syndrome (figure 18-22.5).\n- The syndrome is associated with left flank and abdominal pain, often accompanied by gross or microscopic hematuria.\n- Because the left gonadal vein drains into the left renal vein, men may develop left testicular pain and varicocele formation.\n- Women may present with pelvic pain, dysmenorrhea, dysuria, and dyspareunia.\n- Many treatment options are available, including left renal vein transposition and venous stenting.\n- Patients with minimal symptoms may be treated conservatively, as spontaneous regression has been reported in some cases."
+        },
+        {
+            "id": 21,
+            "question_type": "emq",
+            "question": "May-Thurner syndrome",
+            "options": [
+                "A. Varicocele",
+                "B. Varicose veins below the knee",
+                "C. Unilateral arm pain and swelling",
+                "D. Iliofemoral deep vein thrombosis",
+                "E. Headache and conjunctival edema"
+            ],
+            "answer": "D",
+            "explanation": "- Compression of the left common iliac vein between the right common iliac artery and sacral promontory or fifth lumbar vertebra is known as May-Thurner syndrome (figures 18-22.6 and 18-22.7).\n- Left iliac vein compression is a common variant, with 50% compression reported in up to 25% of asymptomatic adults.\n- The syndrome becomes clinically significant when compression results in hemodynamic changes, such as flow reversal or development of varicosities.\n- Chronic compression leads to endothelial damage that predisposes patients to thrombosis.\n- The most common presentation is acute ileofemoral deep vein thrombosis (DVT) manifest as sudden onset left leg swelling (figure 18-22.8).\n- In the presence of thrombus, standard therapy is anticoagulation and compression stockings.\n- Many experts advocate catheter-directed thrombolysis of the thrombus followed by placement of a self-expanding stent to relieve the venous compression."
+        },
+        {
+            "id": 22,
+            "question_type": "emq",
+            "question": "Popliteal vein entrapment",
+            "options": [
+                "A. Varicocele",
+                "B. Varicose veins below the knee",
+                "C. Unilateral arm pain and swelling",
+                "D. Iliofemoral deep vein thrombosis",
+                "E. Headache and conjunctival edema"
+            ],
+            "answer": "B",
+            "explanation": "- Popliteal vein compression may occur in up to 25% of normal adults and is considered to have no pathologic consequence in asymptomatic individuals.\n- The cause of compression is usually an aberrant course of the medial head of the gastrocnemius muscle; other causes include an adjacent popliteal artery aneurysm, popliteal cyst, or popliteus muscle sling (figures 18-22.9a and 18-22.9b).\n- Many patients have associated popliteal artery compression.\n- When venous compression is hemodynamically significant, affected patients may develop venous thrombosis or varices below the knee (figure 18-22.10).\n- Chronic compression can lead to symptoms of chronic venous insufficiency.\n- Treatment depends on the degree of symptoms: compression stockings for edema control, anticoagulation for deep vein thrombosis, and surgical decompression if both artery and vein are involved."
+        },
+        {
+            "id": 23,
+            "question_type": "clinical_scenario",
+            "question": "A43-year-old woman underwent endovenous laser therapy for treatment of symptomatic varicose veins in the right leg. On routine postoperative ultrasound examination 1 week later, she has extension of a saphenous vein thrombus to the saphenofemoral junction (SFJ). Treatment should consist of",
+            "options": [
+                "A. aspirin.",
+                "B. dopidogrel.",
+                "C. enoxaparin.",
+                "D. warfarin.",
+                "E. high ligation of the SFJ."
+            ],
+            "answer": "A",
+            "explanation": "- Minimally invasive techniques using endovenous radiofrequency or laser ablation have supplanted high ligation and stripping as the preferred method for treating symptomatic varicose veins due to superficial venous reflux.\n- Both techniques involve percutaneous introduction of a radiofrequency or laser catheter into the great or small saphenous vein, delivering thermal energy to cause endothelial destruction and thrombus formation, leading to fibrosis and vein ablation.\n- Venous ultrasound examination of the ipsilateral leg is indicated in the early postoperative period to ensure vein ablation and no thrombus extension into the deep venous system.\n- Extension of thrombus from the great saphenous vein into the femoral vein or from the small saphenous vein into the popliteal vein (endothermal heat-induced thrombosis - EHIT) occurs in 1.4% to 5% of patients.\n- Several EHIT classification schemes guide therapy; the 4-level Kabnick classification system is a useful framework (Table 23.1).\n- EHIT classes 2, 3, and 4 are considered deep vein thrombosis (DVT).\n- Current treatment recommendations are based on EHIT class; close monitoring with serial ultrasound examinations is used for all EHIT patients.\n- Two published studies used a protocol of oral aspirin (81 mg or 325 mg daily) for EHIT class 1 or 2, and systemic anticoagulation for EHIT class 3 or 4.\n- Systemic anticoagulation was continued until the thrombus retracted caudally to the saphenofemoral or saphenopopliteal junction.\n- In one study, no participant with EHIT class 3 or 4 progressed, and 2 of 34 (6%) with grade 2 progressed to grade 3 and required anticoagulation.\n- In another study of 201 limbs, EHIT resolution occurred in 78% within 4 weeks, and 13.5% remained class 1.\n- The patient presented has class 1 EHIT; treatment should consist of daily aspirin and monitoring with serial ultrasound examinations every 1 to 2 weeks.\n- Clopidogrel is not necessary unless the patient is allergic to aspirin.\n- Aspirin can be stopped when the thrombus retracts caudally.\n- If the thrombus progresses to class 3, anticoagulation should be instituted and continued until it retracts caudally or for the full DVT treatment duration.\n- Anticoagulation is not indicated now, nor is high ligation of the SFJ."
+        },
+        {
+            "id": 24,
+            "question_type": "clinical_scenario",
+            "question": "Two weeks after an aortofemoral bypass, a 67-year-old man with chronic renal insufficiency presents with acute swelling in his right leg. Duplex ultrasonography confirms acute occlusive thrombus in the right femoral and popliteal veins. He is started on unfractionated heparin. Twenty-four hours later, his laboratory values are remarkable for a platelet count of 57,000/mm3, which has dropped from a preoperative value of 175,000/mm3 (150,000-400,000/mm3). The next best step in treatment should be",
+            "options": [
+                "A. continued unfractionated heparin.",
+                "B. change to low molecular weight heparin.",
+                "C. argatroban.",
+                "D. bivalirudin.",
+                "E. a retrievable vena cava filter."
+            ],
+            "answer": "C",
+            "explanation": "- Heparin-induced thrombocytopenia (HIT) should be suspected in this patient with a history of heparin exposure and a decreased platelet count.\n- HIT is an immune-mediated process and a dangerous, potentially lethal complication of unfractionated heparin (UH) and, less frequently, low molecular weight heparin (LMWH).\n- HIT is caused by antibodies against the heparin-platelet factor 4 (PF4) complex, which bind to the complex and Fc platelet receptor, activating platelets and promoting thrombin formation.\n- Thrombosis is the most severe consequence of HIT; venous thrombosis is more common than arterial thrombosis.\n- The essential sign of HIT is an absolute drop in platelet count to less than 150,000/mm³ or a relative drop of 30% to 50% from baseline.\n- Thrombocytopenia typically occurs 5 to 14 days after heparin institution, but can occur sooner with previous heparin exposure.\n- Patients with HIT are at high risk for thrombotic complications.\n- Diagnosis requires laboratory confirmation (functional platelet activation assays or immunoassays like ELISA).\n- If HIT is clinically suspected, heparin from any source (UH, LMWH, heparin-bonded catheters, heparin flushes) must be immediately stopped.\n- Due to 20-50% 30-day risk of subsequent thrombosis, alternative anticoagulation should be instituted.\n- Vena cava filters are not indicated because several anticoagulants are available.\n- Published clinical guidelines from the American College of Chest Physicians recommend treating HIT with lepirudin, argatroban, or danaparoid.\n- Argatroban is currently the only FDA-approved agent. Lepirudin is no longer manufactured.\n- Bivalirudin is effective in preventing thrombotic complications, but it is renally excreted and relatively contraindicated in patients with renal insufficiency.\n- Warfarin should not be used in the acute setting as it decreases proteins C and S, which can worsen thrombotic risk.\n- Warfarin can be started at low doses (5 mg/day) when platelet counts increase >150,000/mm³, overlapping with a nonheparin anticoagulant for at least 5 days.\n- Direct oral anticoagulants (rivaroxaban, dabigatran, apixaban) are under investigation but not currently recommended to treat HIT."
+        }
+    ]
+}

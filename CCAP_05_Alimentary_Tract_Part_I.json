@@ -1,0 +1,425 @@
+{
+    "chapter_name": "Alimentary Tract Part I",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A 78-year-old previously healthy man presents with a 48-hour history of painless hematochezia. After appropriate resuscitation, he continues to have intermitted hematochezia. A nasogastric tube aspirate contains bile. What is the next most appropriate step in his management?",
+            "options": [
+                "A. Mesenteric angiography",
+                "B. Tagged red blood cell scan",
+                "C. Upper endoscopy",
+                "D. Colonoscopy",
+                "E. Exploratory laparotomy"
+            ],
+            "answer": "D",
+            "explanation": "- Lower gastrointestinal hemorrhage is common, especially in the elderly.\n- Urgent diagnosis and treatment are indicated for patients who continue to bleed significantly.\n- Urgent colonoscopy is diagnostic and therapeutic in a patient with hematochezia.\n- Bowel preparation is useful but should not delay the procedure.\n- Early colonoscopy is associated with shorter length of stay, is most cost-effective, and has a higher diagnostic yield.\n- Nuclear scintigraphy detects acute bleeding but does not identify etiology or provide therapy; it is mostly useful as an adjunct.\n- Mesenteric angiography requires a higher bleeding rate (0.5 mL/minute) and is risky; it is reserved for massive bleeding. CT angiography is often preferred.\n- Surgery for lower gastrointestinal hemorrhage is usually not necessary.\n- Nasogastric tube aspirate with bile makes an upper GI source less likely; if colonoscopy is unrevealing, esophagogastroduodenoscopy would then be indicated."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "Regarding screening for colorectal cancer in an average-risk patient population,",
+            "options": [
+                "A. stool testing for occult blood during a digital rectal exam is more accurate than home-based stool samples.",
+                "B. fecal immunochemical tests are specific for blood originating in the colon.",
+                "C. colonoscopy withdrawal time should be a minimum of 4 minutes to ensure adequate visualization of the mucosa.",
+                "D. split-dose bowel preparation for colonoscopy results in poorer preparations and mucosal visualization.",
+                "E. a multitarget stool DNA test has higher specificity and lower sensitivity than a fecal immunochemical test."
+            ],
+            "answer": "B",
+            "explanation": "- Home-based fecal occult blood testing (FOBT) has greater sensitivity than a digital rectal exam FOBT.\n- Fecal immunochemical test (FIT) is specific for hemoglobin and detects blood originating in the colon, unlike guaiac testing which can have false positives.\n- Multitarget stool DNA test (MSDT) with FIT yields higher sensitivity but lower specificity than FIT alone.\n- Split-dose bowel preparations for colonoscopy are at least as good as, if not superior to, day-before preps.\n- A minimum withdrawal time of 6 minutes is recommended for a complete colonoscopy."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "The greatest risk factor for bleeding peptic ulcer is",
+            "options": [
+                "A. gastric adenocarcinoma.",
+                "B. nonsteroidal anti-inflammatory drugs.",
+                "C. Helicobacter pylori infection.",
+                "D. tobacco and alcohol use.",
+                "E. consumption of foods high in nitrates."
+            ],
+            "answer": "B",
+            "explanation": "- Historically, peptic ulcer disease (PUD) was attributed to gastric acid hypersecretion or emotional stress.\n- Currently, *H. pylori* infection and nonsteroidal anti-inflammatory drug (NSAID) use are the greatest risk factors for gastric and duodenal ulcers.\n- NSAID use alone is associated with the highest risk of ulcer bleeding (4.85-fold).\n- *H. pylori* infection alone is associated with a lower risk (1.79-fold).\n- Chronic NSAID users also infected with *H. pylori* are at especially high risk (6.13-fold).\n- Cigarette smoking is a lesser factor.\n- Gastric adenocarcinoma can present as a nonhealing ulcer, but bleeding is rare.\n- Nitrates/nitrites are associated with gastric cancer risk, not specifically bleeding ulcers."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "A 48-year-old man presents with recurrent localized left-sided abdominal pain. His white blood cell count is 12,000/mm3 (3600-11,200/mm3), and CT scan of the abdomen reveals sigmoid diverticulitis with colon wall thickening and adjacent fat stranding. The patient is given oral antibiotics, and his symptoms resolve after 2 days. Subsequent colonoscopy is normal except for pandiverticulosis. He has had 2 similar episodes in the last 7 years. What is the most appropriate next step?",
+            "options": [
+                "A. Observation",
+                "B. Daily suppressive antibiotics",
+                "C. Sigmoid colectomy with anastomosis",
+                "D. Total colectomy with anastomosis",
+                "E. Sigmoid colectomy with end colostomy"
+            ],
+            "answer": "A",
+            "explanation": "- Patients with uncomplicated diverticulitis rarely require urgent surgical intervention.\n- Elective surgery for diverticular disease has declined significantly.\n- Diverticulitis is not a progressive disease; the first attack is typically the worst.\n- Recurrence severity usually mirrors the index attack.\n- Elective colectomy should not be performed to prevent future hypothetical emergencies, as the risk of subsequent urgent colectomy with colostomy for initially uncomplicated disease is low (<5%).\n- Age younger than 50 is no longer an indication for elective surgery.\n- The number of attacks is less important; individualized decision-making based on severity and patient disability is key.\n- Observation is the most appropriate next step for mild, resolved diverticulitis with a benign recurrence pattern.\n- Daily suppressive antibiotics are unnecessary.\n- Sigmoid colectomy might be offered in the future if attacks become more frequent or bothersome.\n- Total colectomy is not indicated for sigmoid diverticulitis.\n- Colectomy with end colostomy is reserved for pelvic sepsis not amenable to primary anastomosis."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "A 72-year-old woman presents to the clinic after an episode of biliary colic due to choledocholithiasis. She was successfully treated with endoscopic retrograde cholangiopancreatography (ERCP), stone removal, and sphincterotomy. You are consulted to perform a laparoscopic cholecystectomy scheduled 1 week after the ERCP. She has no allergies. What is the recommended antibiotic for perioperative prophylaxis?",
+            "options": [
+                "A. Cefazolin",
+                "B. No antibiotics",
+                "C. Vancomycin",
+                "D. Gentamicin",
+                "E. Ampicillin-sulbactam and metronidazole"
+            ],
+            "answer": "A",
+            "explanation": "- Preoperative antibiotic administration within 60 minutes before surgical incision is an important factor in decreasing surgical site infections (SSIs).\n- The described case is clean-contaminated but high-risk biliary due to previous symptomatic choledocholithiasis and instrumentation of the biliary tract (ERCP).\n- Current recommendations for antibiotic prophylaxis in clean-contaminated cases with preceding biliary colic within 30 days are for a single preoperative dose of cefazolin."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "A 42-year-old man with Crohn disease is currently treated with corticosteroids, 5-aminosalicylic acid (5-ASA), and anti-tumor necrosis factor (TNF) therapy. He presents with fever and abdominal pain. Radiographic findings demonstrate an intra-abdominal abscess in the right lower quadrant. Percutaneous drainage is not possible, and open drainage is planned. Which of the following statements regarding perioperative considerations is true?",
+            "options": [
+                "A. Continuing corticosteroids will increase risk of abdominal complications.",
+                "B. Anti-TNF treatment will delay wound healing.",
+                "C. 5-ASA should be stopped at least 7 days before surgery.",
+                "D. Nutritional status has no effect on postoperative outcomes.",
+                "E. Starting thiopurine therapy before surgery will lower his risk of postoperative complications."
+            ],
+            "answer": "A",
+            "explanation": "- Corticosteroid treatment within 4 weeks before surgery increases postoperative complications (especially infection-related) in inflammatory bowel disease (IBD) patients.\n- Anti-TNF agents in the 3 months before surgery show no association with overall postoperative complications.\n- Thiopurines within 6 weeks of surgery increase the risk of abdominal septic complications, especially with primary anastomosis or preoperative intra-abdominal sepsis.\n- 5-aminosalicylic acid (5-ASA) medications work directly on the bowel lining and do not need to be stopped before surgery.\n- Preoperative hypoalbuminemia (poor nutritional status) is a strong predictor for postoperative morbidity and mortality."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "A 52-year-old man presents with dysphagia and a longstanding history of gastroesophageal reflux disease. Barium swallow is shown in figure 7.1. Upper endoscopy shows a narrowing from 38 to 40 cm and esophagitis. A standard adult endoscope cannot be passed. After a dilation, the scope can be advanced and multiple biopsies are taken. Biopsies demonstrate reactive squamous mucosa with mild chronic and focal acute inflammation. At an office visit 2 weeks later, he is maintaining his weight but cannot eat solid food. The next step in management is",
+            "options": [
+                "A. gastrostomy tube placement.",
+                "B. repeated mechanical dilation.",
+                "C. laparoscopic Nissen fundoplication.",
+                "D. laparoscopic Heller myotomy.",
+                "E. esophagectomy."
+            ],
+            "answer": "B",
+            "explanation": "- The clinical scenario describes a difficult or potentially refractory reflux-associated esophageal stricture.\n- Gastroesophageal reflux disease (GERD) is the cause of 60-80% of benign strictures. Malignancy must be considered and explored.\n- Management of benign strictures is dilation therapy (bougies or balloons).\n- Most strictures require 1-3 dilations, but approximately one-quarter will require additional sessions.\n- Strictures are refractory if a 14 mm diameter cannot be achieved over 5 sessions at 2-week intervals. Strictures are recurrent if a satisfactory diameter cannot be maintained for 4 weeks.\n- The patient must be maintained on acid suppression therapy to prevent stricture recurrence.\n- Gastrostomy tube placement is premature after only one dilation.\n- Laparoscopic Nissen fundoplication is considered once the stricture is successfully dilated and GERD is confirmed.\n- Heller myotomy is indicated for achalasia and would have no effect on a luminal stricture.\n- Esophagectomy is the last resort for a refractory or recurrent stricture after all other options have been exhausted."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "A previous healthy 45-y ear-old man presents with 2 weeks of right lower quadrant pain. He is febrile, has a white blood count of 18,000/mm3 (3600-1 mm3), and is tender in his right lower quadrant. A CT scan shows a 6-cm fluid collection in his right lower quadrant consistent with an appendiceal abscess. After percutaneous drainage, which of the following statements is true?",
+            "options": [
+                "A. Antibiotics are not necessary.",
+                "B. The risk of appendiceal cancer is 20%.",
+                "C. Interval appendectomy should be performed at 6 weeks.",
+                "D. Colonoscopy should be performed.",
+                "E. The failure rate of nonoperative treatment is 25%."
+            ],
+            "answer": "D",
+            "explanation": "- Patients diagnosed with complicated appendicitis and an appendiceal abscess are best managed with percutaneous drainage and antibiotics.\n- The failure rate of nonoperative treatment for perforated appendicitis with an associated abscess is less than 5%.\n- Interval appendectomy was once considered routine, but is not currently recommended due to complication rates vs. recurrence risk.\n- If appendectomy is not performed, neoplasm must be excluded, particularly in patients older than 40. Follow-up colonoscopy is recommended in these patients.\n- The incidence of appendiceal tumors is 2% overall, but approximately 15% for patients older than 40, 10-29% for inflammatory mass, and 10% on interval appendectomy specimens."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "Which of the following statements is true regarding peroral endoscopic myotomy (POEM) in the treatment of achalasia compared with laparoscopic Heller myotomy with fundoplication?",
+            "options": [
+                "A. The risk of developing postoperative symptomatic gastroesophageal reflux is significantly higher.",
+                "B. The risk of recurrent achalasia is higher.",
+                "C. The risk of esophageal leak is lower.",
+                "D. Successful resolution of symptoms due to achalasia is equivalent.",
+                "E. The myotomy includes the circular and longitudinal muscle layers of the affected esophageal segment."
+            ],
+            "answer": "D",
+            "explanation": "- Peroral endoscopic myotomy (POEM) has become commonplace in achalasia treatment.\n- The POEM technique involves dividing the circular muscle layer of the esophagus, leaving the longitudinal layer intact.\n- No prospective randomized trials comparing POEM with laparoscopic Heller myotomy have been published.\n- Retrospective studies suggest POEM is equivalent to Heller myotomy in ameliorating achalasia symptoms.\n- The risk of long-term procedural complications and recurrent disease was equivalent.\n- Despite concerns, no difference in the development of gastroesophageal reflux disease (GERD) was found between the two techniques in one group.\n- The major adverse event rate for POEM (3.3%) is at least equivalent to Heller myotomy."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "A 26-year-old is evaluated for painless rectal bleeding. The patient reports prolapse of tissue on defecation that must be reduced manually. Anoscopy demonstrates internal hemorrhoids confined to one quadrant of the anal canal. Despite dietary modification, oral stool softeners, and topical agents, he has continued bleeding and prolapse that requires manual reduction. Compared with conventional open or closed excisional hemorrhoidectomy, hemorrhoidectomy using an electrothermal tissue-sealing device is associated with a lower rate of",
+            "options": [
+                "A. incontinence.",
+                "B. postoperative bleeding.",
+                "C. overall complications.",
+                "D. urinary retention",
+                "E. immediate postoperative pain."
+            ],
+            "answer": "E",
+            "explanation": "- This patient has grade III hemorrhoids unresponsive to medical therapy, thus excisional hemorrhoidectomy is indicated.\n- Postoperative pain with traditional excisional hemorrhoidectomy can be significant.\n- Hemorrhoidectomy using an electrothermal sealing device decreases postoperative pain due to limited thermal spread.\n- A Cochrane analysis found rates of incontinence, postoperative bleeding, overall complications, and urinary retention were equivalent between traditional and electrothermal sealing device techniques.\n- Hospital length of stay was also similar.\n- Pain scores were significantly lower with the electrothermal sealing device group on day 1 after surgery, persisting for the first week."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "A 54-year-old woman develops an enterocutaneous fistula after a complex abdominal wall reconstruction. Workup demonstrates a mid-jejunal location, and output is 700 mL/day, despite taking nothing by mouth. The recommended first-line pharmacologic therapy to control her output is",
+            "options": [
+                "A. omeprazole",
+                "B. somatostatin.",
+                "C. codeine.",
+                "D. clonidine.",
+                "E. pancreatic enzymes."
+            ],
+            "answer": "A",
+            "explanation": "- Enterocutaneous fistulas (ECFs) can substantially increase morbidity, especially with high output (>500 mL/day).\n- High output, short fistula length, lateral bowel wall location, multiple fistulas, and adjacent inflammation are poor prognostic indicators for spontaneous closure.\n- Jejunum or ileum are common sites of high output ECFs.\n- Key tenets of ECF treatment include fluid resuscitation, electrolyte replacement, sepsis control, nutritional support, and control of output/protection of skin.\n- Pharmacologic agents include proton pump inhibitors (PPIs) and histamine 2 receptor antagonists to decrease gastric secretions, antimotility drugs to slow transit, and somatostatin analogues to decrease gastric and pancreatic secretions.\n- Current algorithms recommend starting with loperamide and a PPI as initial therapy.\n- If this regimen is ineffective, codeine is the next therapy.\n- If refractory hypomagnesemia develops with PPI therapy, a histamine 2 receptor antagonist is an alternative.\n- Pancreatic enzymes are beneficial for fat malabsorption.\n- Somatostatin analogues are not first-line therapies. Clonidine is not recommended as first-line therapy."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "A 54-year-old woman presents with an ulcerative 5.5-cm mass 05 cm proximal to the dentate line involving one-third of the circumference of the anal canal. On workup, her hemoglobin is 13.3 g/dL (12-15.5 g/dL). No adenopathy is present on imaging. Biopsy confirms squamous cell carcinoma. What feature of her presentation portends a poorer prognosis?",
+            "options": [
+                "A. Female sex",
+                "B. Tumor size",
+                "C. G Distance from the dentate line",
+                "D. Extent of circumferential involvement",
+                "E. Tumor ulceration"
+            ],
+            "answer": "B",
+            "explanation": "- Chemoradiotherapy with 5-fluorouracil and mitomycin C is the first-line treatment for anal carcinoma.\n- Risk factors present at diagnosis associated with recurrence and poorer overall prognosis include tumor size greater than 5 cm and more than two-thirds involvement of the anal canal circumference.\n- Additional identified predictors of decreased survival include male sex, presence of nodal disease, and hemoglobin less than 13 g/dL.\n- Neither tumor ulceration nor distance of the tumor from the dentate line are associated with decreased survival."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "A 72-year-old woman presents with lower abdominal discomfort. Her medical history is significant for aortic regurgitation, renal dialysis, diabetes, hypertension, and a stroke that occurred 5 years ago. A plain film of the abdomen demonstrates a porcelain gallbladder. Which of the following statements is true regarding a porcelain gallbladder?",
+            "options": [
+                "A. It is a marker for gallbladder cancer.",
+                "B. The porcelain appearance is caused by cholesterol deposits.",
+                "C. Observation is recommended.",
+                "D. No association exists with cholelithiasis.",
+                "E. Prophylactic cholecystectomy is required."
+            ],
+            "answer": "C",
+            "explanation": "- A porcelain gallbladder has calcium deposits in the wall.\n- The reason for a possible increased rate of cancer was explained by inflammatory changes from calcium deposits. Selective mucosal calcification leads to a stronger recommendation for prophylactic cholecystectomy in asymptomatic patients.\n- Cholelithiasis is reported in 95% of patients with a porcelain gallbladder.\n- Given the rarity of this condition, the natural history is unknown, and the risk of gallbladder cancer is not as high as previously thought (recent analysis found a rate of 6% (0-33%) compared with 1% (0-4%) in matched patients).\n- Prophylactic cholecystectomy may be appropriate for healthy patients, but an observational approach is reasonable in a patient with multiple comorbidities and no specific symptoms related to her porcelain gallbladder."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "A 63-year-old man is admitted for lower gastrointestinal bleeding. He is hemodynamically normal and undergoes colonoscopy. Colonoscopy demonstrates blood throughout the colon but does not localize the bleeding. He continues to pass bright red blood per rectum and requires 4 units of packed red blood cells over 6 hours. The next most appropriate step to localize the site of bleeding is",
+            "options": [
+                "A. intraoperative endoscopy.",
+                "B. technetium-99m-labeled red blood cell scan.",
+                "C. visceral angiography.",
+                "D. CT angiography.",
+                "E. repeat colonoscopy."
+            ],
+            "answer": "D",
+            "explanation": "- Multidetector CT (MDCT) angiography is the preferred initial study to evaluate lower gastrointestinal bleeding and should precede any attempt at angiography.\n- CT angiography can detect bleeding at rates as low as 0.3 mL/minute, which is better than angiography and slightly worse than tagged red cell scans.\n- CT angiography is used to localize bleeding in patients with ongoing blood loss who are not hypotensive; then angiography is used for angioembolization.\n- Overall sensitivity to detect the site of bleeding is reported at 100%.\n- Massively bleeding patients are still candidates for early visceral angiography.\n- Selective mesenteric angiography can detect bleeding at a rate of greater than 0.5 mL/minute and offers a diagnostic and therapeutic option.\n- Treatment with vasopressin infusion or embolization is possible; embolization is the preferred approach.\n- Colonoscopy is typically done after bleeding has stopped. Repeating a colonoscopy that was unrevealing the first time is not recommended.\n- Nuclear scintigraphy detects bleeding at 0.1 mL/minute but localization is not always possible, and false-positives are reported."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "A 63-year-old woman presents with a small bowel obstruction. Admission CT scan suggests mid small bowel adhesive obstruction. This is her third admission for obstruction in the last 4 years. She had a hysterectomy 15 years ago. What is a predictor of failure of nonoperative management of her bowel obstruction?",
+            "options": [
+                "A. Fecalization of the small bowel on CT scan",
+                "B. Anterior parietal peritoneal adhesion on CT scan",
+                "C. Free peritoneal fluid on CT scan",
+                "D. Visualization of contrast in the colon on plain films at 7 hours",
+                "E. Lack of a \"beak sign\" on presenting CT scan"
+            ],
+            "answer": "C",
+            "explanation": "- Abdominal CT scan is frequently used to determine management strategy for small bowel obstruction.\n- Water soluble contrast (Gastrografin) in the colon even beyond 8 hours is predictive of successful nonoperative management.\n- Fecalization of the small bowel (small bowel feces sign) was found to predict a 5-fold *decrease* in surgical intervention in one Mayo Clinic review.\n- The presence of 2 or more \"beak signs\" (fusiform tapering of the bowel at the obstruction site) predicted the need for surgical intervention.\n- Current CT scan guidelines suggest a posteriorly located adhesion is more likely to need surgical intervention compared with an anteriorly located adhesion.\n- Free intraperitoneal fluid is more likely to be associated with surgical intervention due to concern for strangulation and bowel ischemia."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "A S7-ve.li old obese man presents with 3 days of left lower quadrant abdominal pain with abrupt worsening today, Laparoscopic lavage, irrigation of the abdomen with 4 L of saline, and pelvic drain placement are performed for Hinchey class III diverticulitis. Which of the following statements is true comparing laparoscopic lavage and drainage (ULD) with resection and end colostomy?",
+            "options": [
+                "A. Reoperation rate at the index admission is higher with UUD.",
+                "B. More patients in the UUD group have an ostomy at 12 months.",
+                "C. More patients in the LLD group require drainage of additional abscesses.",
+                "D. Initial length of stay is similar for both groups.",
+                "E. 12-month mortality is higher for UUD."
+            ],
+            "answer": "C",
+            "explanation": "- The use of laparoscopic lavage and drainage (LLD) in the management of acute diverticulitis remains controversial, but it still plays a role for Hinchey class III diverticulitis with purulent peritonitis.\n- Patients with purulent diverticulitis who undergo LLD are more likely to require drainage of additional abscesses compared with those who undergo local resection, but this does not appear to adversely affect outcome.\n- The rate of reoperation in the LLD group was not increased.\n- Fewer patients in the LLD group had colostomy at 12 months.\n- Initial length of stay is consistently shorter in the LLD group.\n- 12-month mortalities are comparable."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "A 15-year-old girl presents with 2 days of right lower quadrant pain. CT scan reveals uncomplicated acute appendicitis. Surgery is recommended, but the family is concerned about the cost because they have no health insurance. They are curious about antibiotic-only management of her appendicitis. Which of the following statements is true regarding the nonoperative management of uncomplicated acute appendicitis?",
+            "options": [
+                "A. Most patients who undergo nonoperative treatment with antibiotics require appendectomy within 1 year.",
+                "B. Those patients who require appendectomy for failed nonoperative management have a high rate of complications.",
+                "C. During the initial treatment period, patients who are treated with antibiotics are more likely to have complications than those who are treated with initial appendectomy.",
+                "D. The overall societal costs for antibiotic therapy are lower than the costs for surgical management.",
+                "E. Costs associated with laboratory testing, imaging, and medications account for the majority of cost incurred with nonoperative management."
+            ],
+            "answer": "D",
+            "explanation": "- Uncomplicated appendicitis is defined as acute inflammation without perforation or appendicolith, making up approximately 80% of cases.\n- The 1-year rate of need for appendectomy in the population of uncomplicated appendicitis treated with antibiotics alone is approximately 25% (APPAC trial failure rate 27.3%).\n- The index hospitalization failure rate was 5.8%, and the complication rate was lower for the antibiotic-only group compared with those who had appendectomy (7% vs 22%).\n- In an economic subanalysis of the APPAC trial, the overall societal costs (including lost time for work at 1 year) were less for antibiotic treatment alone compared with initial index appendectomy ($5000 vs $8100).\n- In both groups, diagnostic costs and medicines played a relatively small role, whereas productivity losses were the most significant component of the costs incurred.\n- Evidence is compelling enough to consider antibiotics alone for uncomplicated appendicitis, especially when cost considerations are important."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "A 63-year-old woman is diagnosed with a mid-rectal cancer. Metastatic workup is negative. Clinically, she has T3, N1 disease. She is given induction chemoradiation therapy. On follow-up evaluation, she has no evidence of her rectal disease. Which of the following statements is true regarding a complete response to induction therapy for rectal cancer?",
+            "options": [
+                "A. The pathologic complete response rate is greater than the clinical response rate.",
+                "B. If the tumor recurs, it will do so after 24 months.",
+                "C. Nodal status is a predictor of recurrence.",
+                "D. T status is not a predictor of recurrence.",
+                "E. Patients with a higher pretreatment carcinoembryonic antigen level are likely to have recurrent disease."
+            ],
+            "answer": "A",
+            "explanation": "<b>PROBABLE ANSWER: A</b><br>- Neoadjuvant chemoradiation therapy (CRT) is delivered to shrink and downsize low and mid rectal cancers, improving resection chances, reducing residual disease, and increasing anal continence.\n- CRT provides complete pathologic response (pCR) in 10-30% of patients.\n- Some 15-20% of patients with clinical residual disease have pCR after surgery.\n- Complete pathologic responders, based on restaging biopsy, can be followed for evidence of recurrence.\n- Initial T-stage is the best predictor of local recurrence.\n- Neither nodal status nor higher pretreatment carcinoembryonic antigen portends a higher risk of local recurrence.\n- Most local tumor recurrences occur within the first 12 months, but many occur later; local evaluation continues to be important in follow-up."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "A 40-year-old woman presents with anemia. Her stool is guaiac positive. Esophagogastroduodenoscopy and colonoscopy are normal. Capsule endoscopy demonstrates an ulcerated mid jejunal mass. She undergoes segmental small bowel resection inclusive of the mass and a primary anastomosis. Pathology demonstrates a stage I adenocarcinoma; 5 lymph nodes, which are removed and all of which were negative for malignancy; and clear margins. Which factor in this patient is associated with poor prognosis?",
+            "options": [
+                "A. Young age",
+                "B. Female sex",
+                "C. Anemia",
+                "D. Jejunal location of tumor",
+                "E. 5 lymph nodes removed"
+            ],
+            "answer": "E",
+            "explanation": "- Small bowel cancer is rare (<5% of GI malignancies); adenocarcinomas comprise 30-40% of these malignancies.\n- Primary presenting symptoms are bowel obstruction and gastrointestinal hemorrhage.\n- Diagnosis is made by CT scan with enteroclysis or video capsule endoscopy, as conventional upper and lower endoscopy are normal.\n- Prognosis is poor; the only potential for cure is complete surgical resection (R0) with locoregional lymph node resection.\n- After complete resection, lymph node invasion is the main prognostic factor.\n- Multivariate analysis linked mortality for jejunoileal tumors to advanced age, advanced stage, ileal location, recovery of fewer than 10 lymph nodes, and the number of positive nodes.\n- Sex and anemia were not considered prognostic factors."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "Eosinophilic esophagitis",
+            "options": [
+                "A. is associated with inflammatory bowel disease.",
+                "B. presents with dysphagia and reflux symptoms.",
+                "C. is characterized by submucosal masses on endoscopy.",
+                "D. symptomatically improves with antireflux surgery.",
+                "E. has a peak incidence in the elderly."
+            ],
+            "answer": "B",
+            "explanation": "- Eosinophilic esophagitis (EoE) is the leading cause of dysphagia and food impaction in children and young adults, with a peak age of incidence of 30-50 years.\n- It is a local immune-mediated esophageal disease with eosinophil-predominant inflammation.\n- There is no causal or temporal relationship with inflammatory bowel disease, connective tissue disorders, esophageal atresia, or hypereosinophilic syndromes.\n- The presence of gastroesophageal reflux disease (GERD) symptoms and dysphagia are common in EoE.\n- Classic endoscopic findings include edema, decreased vascular mucosal markings, longitudinal furrowing, concentric rings, white plaques, crepe paper mucosa, and strictures or narrow caliber esophagus. Submucosal masses are not characteristic of EoE.\n- Many patients have improvement of symptoms with proton pump inhibitors (up to 50% with 8 weeks of therapy). Topical steroids are also effective.\n- There is no evidence that antireflux surgery has any role in managing EoE."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "A 35-year-old man presents with epigastric pain of 4 days duration. He says the pain was initially worse and has slowly been improving. His temp is 38.0°C and his heart rate is 95 beats per minute. His white blood cell count is 12,000/mm3 (3600-11,200/mm3). He has a normal mental status. A CT scan of the abdomen reveals a small, contained, anterior duodenal perforation. Which of the following statements is true regarding nonoperative management?",
+            "options": [
+                "A. His age confers a higher risk of failure.",
+                "B. Helicobacter pylori treatment is unnecessary.",
+                "C. Nonoperative treatment is best reserved for the very elderly moribund patient",
+                "D. CT scan findings support a nonoperative approach.",
+                "E. Duodenal stenting is necessary."
+            ],
+            "answer": "D",
+            "explanation": "- The patient presented is physiologically relatively well and reports improving pain, with a small, contained duodenal perforation on CT scan.\n- These features are consistent with successful nonoperative management; half of perforations will spontaneously seal.\n- Patients age 70 and older are at higher risk for failure of nonoperative management.\n- The moribund elderly patient may undergo nonoperative management as an alternative to expected death in the operating room.\n- Empiric *H. pylori* therapy is often used to clear the stomach of *H. pylori* in patients with peptic ulcer disease.\n- Duodenal stenting is not a treatment for benign duodenal perforation."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "A 55-year-old man presents with confirmed gastroesophageal reflux. He has been on appropriate acid suppression therapy (e.g., proton pump inhibitors) for 6 months and admits his symptoms have not improved. An esophagogastroduodenoscopy shows Barrett esophagitis without dysplasia. What is the most appropriate next step?",
+            "options": [
+                "A. Continued antireflux treatment",
+                "B. Repeat endoscopy in 6 months with 4-quadrant biopsy every 1 to 2 cm",
+                "C. Fundoplication",
+                "D. Endoscopic mucosal resection",
+                "E. Endoscopic ablation of the Barrett mucosa"
+            ],
+            "answer": "C",
+            "explanation": "- Indications for surgical treatment of gastroesophageal reflux disease (GERD) include: extraesophageal complications, persistent symptoms despite compliant medical management, adverse effects of antireflux medication, desire for surgery due to social/lifestyle issues, and structural complications (e.g., Barrett esophagus or peptic stricture).\n- This patient has a clear diagnosis of GERD with failed medical therapy and Barrett esophagus without dysplasia, indicating surgery (fundoplication) as the next step.\n- Continued antireflux therapy is incorrect due to failed PPI treatment.\n- Endoscopic mucosal resection or ablation is not indicated for GERD with Barrett esophagus without dysplasia.\n- Barrett esophagus without dysplasia requires endoscopic surveillance at 3- to 5-year intervals, not 6 months."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "A 62-year-old man presents to the emergency department with abdominal pain and distention. He has not passed flatus or stool for the last 12 hours. He has no surgical history. Vital signs include a temperature of 37.8°C, heart rate of 82 beats per minute, and blood pressure of 130/85 mm Hg. On exam, he is tender in the right abdomen with distention but no guarding or rebound. A CT scan is performed (figure 23.1). The most appropriate intervention for this patient is",
+            "options": [
+                "A. intravenous neostigmine.",
+                "B. colonoscopic decompression.",
+                "C. sigmoid resection.",
+                "D. ileocecectomy.",
+                "E. loop ileostomy."
+            ],
+            "answer": "D",
+            "explanation": "- Abdominal pain, distention, and obstipation are hallmarks of colonic obstruction (functional or mechanical); imaging is the next step after history, physical, and labs.\n- The CT scan shows classic diagnostic findings of a cecal volvulus (figure 23.2), which is the second most common volvulus after sigmoid volvulus.\n- Due to the risk of cecal ischemia, resection is the treatment for cecal volvulus.\n- Ileocecal resection and anastomosis (laparoscopic or open) is currently the treatment of choice for most patients.\n- Cecopexy is an option but associated with high recurrence rates; cecostomy tube placement has very high complication rates and limited indications.\n- Sigmoid volvulus has a different CT appearance and is treated with colonoscopic decompression (if not severely ill) followed by elective sigmoid resection; it is rarely effective for cecal volvulus.\n- Functional obstruction or pseudo obstruction is treated with intravenous neostigmine or colonoscopic decompression.\n- There is no role for loop ileostomy in these patients."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "A 45-year-old woman was admitted 2 weeks ago with a diagnosis of necrotizing pancreatitis and a peripancreatic abscess. A drain was placed, and antibiotics were started. Drain output has continued to be moderate and purulent. The patient suddenly becomes hypotensive; on examination, her drain output is now bloody. What intervention is the appropriate next step?",
+            "options": [
+                "A. Intravenous beta-blocker",
+                "B. Upper endoscopy",
+                "C. Video-assisted retroperitoneal exploration",
+                "D. Angiography",
+                "E. Exploratory laparotomy"
+            ],
+            "answer": "D",
+            "explanation": "- This patient presents with hemorrhage associated with necrotizing pancreatitis.\n- Hemorrhage can be due to arterial (ruptured pseudoaneurysm, hemorrhagic pseudocysts, direct vessel injury from drain placement) or venous etiologies.\n- The first step in management is resuscitation, including blood products.\n- The next step is angiography and embolization, which has become the standard of care and significantly improved outcomes.\n- Surgery (exploratory laparotomy) is needed if angiography fails to control bleeding (up to 33% of patients).\n- Venous etiologies (portal/splenic/superior mesenteric vein thrombosis) cause venous hypertension, leading to esophageal/gastric bleeding, which would be seen in the GI tract, not drains. Treatment includes beta-blockers and upper endoscopy, but this is not the patient's bleeding type.\n- Video-assisted retroperitoneal exploration is used in the management of necrotizing pancreatitis and is not indicated for an acute bleed secondary to pancreatitis."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "A 51-year-old man undergoes screening colonoscopy during which a 1.5-cm sessile polyp is identified in the right colon and removed with a hot snare. He returns to the emergency department 8 hours later with right-sided abdominal pain. Vital signs include a temperature of 38.1°C, heart rate of 90 beats per minute, and blood pressure of 135/85 mm Hg. On exam, he is very tender to palpation in the right mid abdomen, without guarding or rebound. His white blood cell count is 10,900/mm3 (3600-11,200/mm3). CT scan shows pericolonic inflammation of the right colon without free air (figure 25.1). The treatment plan for this patient should be",
+            "options": [
+                "A. nothing by mouth, intravenous antibiotics.",
+                "B. repeat CT scan with rectal contrast.",
+                "C. colonoscopy.",
+                "D. diagnostic laparoscopy.",
+                "E. exploratory laparotomy."
+            ],
+            "answer": "A",
+            "explanation": "- This patient presents with postpolypectomy syndrome.\n- Postpolypectomy syndrome occurs when electric current extends beyond the mucosa into the muscularis propria and serosa, leading to localized inflammatory response and peritonitis.\n- It is more common with sessile polyp removal.\n- Patients usually present within 12 hours (rarely days later) with pain, sometimes fever, localized pain (with/without guarding), and elevated WBC.\n- Imaging is common due to perforation concern. Abdominal radiograph may show free air (benign, associated with colonoscopy itself).\n- The definitive test is a CT scan, which will show localized inflammation where the polyp was removed (figure 25.2).\n- Further diagnostic studies (repeat CT with rectal contrast, repeat colonoscopy) are not needed.\n- The patient should be started on intravenous antibiotics, oral intake should be held, and followed clinically.\n- If the exam worsens or peritonitis develops, operative intervention (laparoscopic or laparotomy) is indicated."
+        },
+        {
+            "id": 26,
+            "question_type": "mcq",
+            "question": "A patient with Crohn disease requires an elective resection for a stricture. His laboratory data demonstrate a low albumin. Which of the following statements about your operative plan is true?",
+            "options": [
+                "A. Parenteral nutrition should be initiated before surgical resection.",
+                "B. Stapled side-to-side anastomosis has no difference in overall complication rates compared with handsewn end-to-end anastomosis.",
+                "C. A macroscopic, disease-free margin of 2 cm is associated with higher recurrence rates than a 12-cm margin",
+                "D. Injecting the intestinal anastomosis with adipose-derived mesenchymal stem cells is associated with a lower incidence of anastomotic fistulas.",
+                "E. Resection and primary anastomosis is associated with a higher risk of postoperative complications."
+            ],
+            "answer": "B",
+            "explanation": "- The management of patients with Crohn disease undergoing surgical resection of a stricture has been studied extensively.\n- A prospective study found no difference in the cumulative risk of postoperative complications (30 days post-op) between a 1-stage vs. 2-stage procedure.\n- A randomized controlled trial showed no difference in overall complication rates, anastomosis-associated complications, or reoperation rates between stapled side-to-side and hand-sewn end-to-end anastomosis.\n- No difference was seen in surgical recurrence rates when the macroscopic disease-free margin was limited to 2 cm versus 12 cm.\n- Microscopic inflammation in a resection margin independently predicts short-term intra-abdominal septic complications.\n- Although malnutrition and poor postoperative outcome are well documented, there is a paucity of prospective randomized trials on optimal nutritional supplementation.\n- A retrospective study showed 3 months of preoperative enteral nutrition improved nutritional parameters and lowered intra-abdominal septic complications.\n- Adipose-derived mesenchymal stem cells are effective for complex perianal fistulas, but have not been studied for anastomotic fistulas in Crohn disease."
+        },
+        {
+            "id": 27,
+            "question_type": "mcq",
+            "question": "A 72-year-old man presents with a 24-hour history of abdominal distention and no flatus. Five days earlier, he was diagnosed with a 5-cm near-obstructing sigmoid colon cancer. His gastroenterologist wants to place a self-expanding stent. Which of the following statements about stenting in this patient is true?",
+            "options": [
+                "A. Mortality of subsequent surgical resection is increased.",
+                "B. Likelihood of successful laparoscopic resection is increased.",
+                "C. Surgical site infection risk increases.",
+                "D. Migration is reduced if the lesion is located at the rectosigmoid junction.",
+                "E. No impact on quality of life is achieved compared with surgical decompression."
+            ],
+            "answer": "B",
+            "explanation": "- Large-bowel obstruction secondary to cancer occurs in up to 30% of patients with colonic malignancies.\n- Most obstructing colorectal cancers are left-sided and potentially amenable to colonoscopic intervention.\n- Studies comparing stenting as a bridge to elective surgery versus emergency surgery showed no difference in 30-day mortality.\n- Stenting showed an improvement in quality of life 1 week after stent placement compared with a surgery group without stent placement.\n- The ability to successfully perform laparoscopic resection is significantly increased after stenting (67.2%) compared with emergency surgery (31.4%).\n- There is no difference in anastomotic leakage, but the incidence of surgical site infections is significantly lower in the stent group.\n- Stent migration is a complication of stent placement (3% rate); the rectosigmoid is reported as the most common site for stent migration."
+        },
+        {
+            "id": 28,
+            "question_type": "mcq",
+            "question": "A 36-year-old man presents with an anal fissure in the posterior midline refractory to medical management for 3 months. What is the next step in treatment?",
+            "options": [
+                "A. Anal dilation",
+                "B. External sphincterotomy",
+                "C. V-Y advancement flap",
+                "D. Lateral internal sphincterotomy",
+                "E. Fissurectomy"
+            ],
+            "answer": "D",
+            "explanation": "- Anal fissures typically present with tearing pain during defecation and minimal red blood. Chronic fissures (>6-8 weeks) have inflammatory changes, a skin tag, and a hypertrophied anal papilla.\n- Almost 90% of fissures arise in the posterior midline. Lateral fissures should raise concerns for Crohn disease, syphilis, anal carcinoma, or tuberculosis.\n- Initial nonoperative treatment includes sitz baths, psyllium fiber, and bulking agents (successful in 50% of acute fissures). Topical nitrates and calcium channel blockers are marginally effective/not conclusive. Botulinum toxin has similar healing rates to placebo.\n- If medical approaches fail, lateral internal sphincterotomy is the surgical treatment of choice.\n- This procedure offers superior healing and lower incontinence rates than posterior fissurectomy.\n- Balloon dilation and advancement flaps are not as effective.\n- Anal dilation is associated with higher rates of major incontinence. Division of the external anal sphincter results in incontinence.\n- Fissurectomy has similar healing times and complication rates as internal lateral sphincterotomy but frequently requires additional medical or surgical treatment for complete healing."
+        },
+        {
+            "id": 29,
+            "question_type": "mcq",
+            "question": "An 83-year-old woman with a medical history of chronic obstructive pulmonary disease presents with crampy abdominal pain and diarrhea. On exam, she has normal vital signs with a mildly distended, nontender abdomen. A CT scan of the abdomen demonstrates pneumatosis of the cecum and right colon. No portal venous gas or pneumoperitoneum is present. Laboratory data demonstrate a white blood cell count of 11,000/mm3 (3600-11,200/mm3), hematocrit of 51% (37-51%), bicarbonate of 22 mmol/L (20-29 mmol/L), and creatinine of 1.1 mg/dL (0.4-1.3 mg/dL). What is the next appropriate step in her treatment?",
+            "options": [
+                "A. Intravenous hydration",
+                "B. Exploratory laparotomy",
+                "C. Comfort care",
+                "D. Colonoscopy",
+                "E. Visceral angiogram"
+            ],
+            "answer": "A",
+            "explanation": "- Pneumatosis is defined as gas located within the bowel wall. Its pathogenesis is poorly understood, and clinical significance varies from benign to bowel wall necrosis.\n- The combination of pneumatosis with portal venous gas or lactic acidosis is closely associated with advanced intestinal infarct.\n- Other factors suggesting the need for exploratory laparotomy include vasopressor support, hypotension, peritonitis, and acute kidney injury.\n- In the absence of these findings, intravenous hydration and serial examination are all that is required.\n- Neither colonoscopy nor visceral angiogram is required. Visceral angiogram would be indicated for ischemic colitis (e.g., pain out of proportion to physical exam, fever, bloody diarrhea).\n- This patient has benign pneumatosis, most likely associated with chronic obstructive pulmonary disease. Her labs indicate a possible volume depletion requiring hydration.\n- Benign pneumatosis would not be an indication to proceed to comfort care."
+        },
+        {
+            "id": 30,
+            "question_type": "mcq",
+            "question": "A 56-year-old woman with frequent heartburn and antacid use presents with a 3-year history of intermittent dysphagia to solid food only. When this occurs, she feels as if the food becomes stuck in the retrosternal area. She has otherwise been healthy, has no significant medical history, and has no other complaints. Esophagram reveals a smooth, short stricture located in the distal esophagus. A biopsy does not demonstrate cancer. Esophageal manometry is normal. Which of the following statements is true regarding treatment of this stricture?",
+            "options": [
+                "A. Dilation is contraindicated",
+                "B. Lumen size after dilation does not correspond with symptom relief.",
+                "C. Proton pump inhibitors reduce the need for subsequent dilation.",
+                "D. Injection of the stricture with corticosteroids is superior to dilation.",
+                "E. Placement of an expandable metal stent is first-line treatment."
+            ],
+            "answer": "C",
+            "explanation": "- Benign strictures of the esophagus have a significant negative effect on patients' quality of life.\n- The initial treatment of choice is endoscopic peroral dilation with bougies or balloons; approximately 40% of patients require only a single dilation.\n- The size of the lumen at the conclusion of the dilation generally correlates with symptom relief.\n- In patients with peptic strictures, the coexistence of esophagitis may be a contributing cause of dysphagia. Patients who demonstrated healing of their esophagitis with proton pump inhibitors (PPIs) after dilation had complete resolution of dysphagia, whereas those with continued esophagitis required repeat dilations.\n- Topical corticosteroids are second-line therapy in eosinophilic esophagitis, after acid suppression. There is no current role for injectable steroids in peptic stricture.\n- Expandable metal stents are successful for palliation of malignant esophageal obstruction, but when used for benign strictures result in multiple complications (e.g., in-growth of granulation tissue, obstruction, stent migration, and perforation)."
+        }
+    ]
+}

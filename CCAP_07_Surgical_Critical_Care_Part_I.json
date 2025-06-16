@@ -1,0 +1,358 @@
+{
+    "chapter_name": "Surgical Critical Care Part I",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A 19-year-old, previously healthy woman was injured after being thrown from a horse. Her only identified injury was a comminuted right femur fracture. She underwent internal fixation of her femur fracture 6 hours after admission and received an intraoperative transfusion of 2 units of packed red blood cells and 4 L of crystalloid. In the postanesthesia care unit she developed progressive respiratory distress manifested by air hunger, tachypnea (32 breaths per minute), tachycardia (142 beats per minute), a blood pressure of 90/60 mm Hg, and a pulse oximeter reading of 82% despite supplemental oxygen delivered by nasal cannula at 12 L/minute. Breath sounds are symmetrical and clear. There is no evidence of effusion by physical examination. Her chest radiograph is shown (figure 1.1). The most likely diagnosis is",
+            "options": [
+                "A. pulmonary embolism.",
+                "B. aspiration of gastric content.",
+                "C. occult pulmonary contusion,",
+                "D. transfusion-related acute lung injury.",
+                "E. transfusion-associated circulatory overload."
+            ],
+            "answer": "D",
+            "explanation": "- Acute respiratory distress in the immediate postoperative period has multiple potential etiologies, and the clinical observations and chest radiograph suggest diffuse acute lung injury (ALI).\n- The timing of respiratory distress and diffuse, bilateral infiltrates make pulmonary embolism an unlikely diagnosis.\n- Aspiration of gastric content is a possibility but unlikely to cause immediate air hunger or this degree of hypoxia.\n- Pulmonary contusion, though possible by injury mechanism, is not supported by the radiograph and precipitous onset.\n- The differential diagnosis is most likely either transfusion-related acute lung injury (TRALI) or transfusion-associated circulatory overload (TACO).\n- TRALI is a type of ALI occurring within 6 hours of blood product administration, with oxygenation criteria similar to ALI from other causes, and is a diagnosis of exclusion.\n- The syndrome is more common with plasma-rich products (e.g., fresh frozen plasma, platelet packs).\n- TRALI involves activation of neutrophils or monocytes, thought to be caused by antibodies in donor plasma.\n- The patient's symptoms (hypotension, tachycardia, hypoxemia, clear breath sounds, diffuse bilateral infiltrates) align with TRALI based on the comparison table (Table 1.2)."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "Regarding tube thoracostomy for a traumatic hemothorax,",
+            "options": [
+                "A. the tube should be a 36 French chest tube.",
+                "B. the tube should be inserted at the eighth intercostal space, just above the diaphragm.",
+                "C. placement should be preceded by intravenous antibiotics.",
+                "D. placement is not indicated for less than 300 mL of blood in the pleural space.",
+                "E. placement is associated with a 10% complication rate."
+            ],
+            "answer": "D",
+            "explanation": "- Smaller tubes (28 French) are as effective as larger tubes (36 and 40 French) for evacuating blood and may be less painful.\n- The triangle of safety for tube placement is at the fifth intercostal space, between the pectoralis major and latissimus dorsi, not the eighth intercostal space.\n- Periprocedural antibiotics do not reduce empyema or pneumonia incidence and are not routinely indicated for traumatic hemothorax.\n- Tube thoracostomy is associated with a 25% complication rate, not 10%.\n- This high complication rate reinforces the concept that chest tube placement should be avoided if less than 300 mL of blood (small hemothorax) is in the pleural space."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "A 65-year-old woman with atrial fibrillation is admitted to the surgical intensive care unit with a subdural hematoma after a fall. She is being treated with rivaroxaban for her atrial fibrillation. What agent can be used to correct her anticoagulation?",
+            "options": [
+                "A. Andexanet alfa",
+                "B. Protamine",
+                "C. Vitamin K",
+                "D. Fresh frozen plasma",
+                "E. Idarucizumab"
+            ],
+            "answer": "A",
+            "explanation": "- Andexanet alfa is used to reverse the direct oral anticoagulant (DOAC) rivaroxaban.\n- For warfarin anticoagulation reversal, fresh frozen plasma, prothrombin complex concentrate, or Vitamin K are administered.\n- For systemic heparinization reversal, protamine can be given.\n- For dabigatran (another DOAC), dialysis or reversal with idarucizumab is possible.\n- Rivaroxaban has a short half-life (9 to 13 hours) and its activity dissipates after 4 to 5 half-lives; dialysis does not affect its activity due to high protein binding."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "What infection control strategies can help prevent the spread of Clostridium difficile within intensive care units?",
+            "options": [
+                "A. Pairing of infected patients in the same room",
+                "B. Donning gown and gloves after entering the patient's room and discarding them after leaving the patients room",
+                "C. C Terminal cleaning of rooms with bleach after patients are transferred",
+                "D. Using alcohol hand gel products before entering and after leaving the patients room",
+                "E. E Administering of antibiotic prophylaxis with ertapenem for any operative procedures"
+            ],
+            "answer": "C",
+            "explanation": "- Control of C. difficile spread depends on effective infection control strategies.\n- Patients with C. difficile infection should be placed on isolation precautions in a private room and not paired in the same room.\n- Personal protective equipment (single-use gown and gloves) is mandatory for medical personnel and must be donned before entering and discarded after leaving the patient's room.\n- After patient transfer, hospital rooms should be terminally cleaned with bleach.\n- Alcohol or gel products are ineffective against clostridial spores; handwashing with soap and water is the appropriate intervention.\n- Antibiotic prophylaxis with ertapenem is associated with increased postoperative C. difficile infection and is contraindicated."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "A 24-year-old man who weighs 100 kg is admitted to the intensive care unit after undergoing a laparotomy for multiple gunshot wounds to the abdomen, during which he underwent resection of segments of his small and large bowel and repair of multiple enterotomies. Seventy-two hours later, his respiratory rate climbs to 40 breaths per minute. His blood pressure is 80/40 mm Hg, his pulse is 115 beats per minute, and his temperature is 38.7°C. His central venous pressure is 13 cm H2O. Blood, urine, and sputum specimens are sent for Gram stain and culture testing. His lab tests are remarkable for a white blood cell count of 22,000/mm3 (3600-11,200/mm3), a hemoglobin concentration of 8.0 g/dL (135-17.5 g/dL), and a serum creatinine of 1.7 mg/dL (0.4-1.30 mg/dL). What intervention is appropriate in the management of this patient?",
+            "options": [
+                "A. 2000 mL of crystalloid fluid",
+                "B. A pulmonary artery catheter",
+                "C. 2 units of packed red blood cells",
+                "D. Vasopressor support with norepinephrine",
+                "E. 500 mL of hetastarch"
+            ],
+            "answer": "D",
+            "explanation": "- The patient shows clinical signs of sepsis.\n- According to International Guidelines for the Management of Sepsis and Septic Shock, vasopressor support with norepinephrine is the most appropriate intervention.\n- Additional crystalloid fluid is unlikely to benefit as the central venous pressure of 13 cm H2O indicates he is not hypovolemic.\n- Pulmonary artery catheter placement has not shown benefit in guiding sepsis management.\n- A hemoglobin concentration >7.0 g/dL provides adequate oxygen-carrying capacity; additional packed red blood cells are not beneficial.\n- Hetastarch can worsen outcomes and mortality in sepsis and is contraindicated."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "Flexible bronchoscopy in intubated patients on mechanical ventilation increases",
+            "options": [
+                "A. end expiratory lung volumes.",
+                "B. incidence of pneumothorax.",
+                "C. PaO2.",
+                "D. PaCO2.",
+                "E. tidal volume."
+            ],
+            "answer": "D",
+            "explanation": "- Flexible bronchoscopy is routinely performed in intubated patients for various indications.\n- It consistently increases airway resistance.\n- In two-thirds of patients, it decreases tidal volumes.\n- It does not result in dynamic hyperinflation because of a corresponding decrease in end-expiratory lung volumes.\n- It decreases PaO2 levels and increases PaCO2 levels.\n- Bleeding and pneumothorax are very uncommon complications."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "Noninvasive ventilation is indicated as an alternative to mechanical ventilation in postoperative patients with",
+            "options": [
+                "A. upper airway obstruction.",
+                "B. unstable cardiac arrhythmias.",
+                "C. hemodynamic instability.",
+                "D. severe encephalopathy.",
+                "E. hypoxic respiratory failure."
+            ],
+            "answer": "E",
+            "explanation": "- Noninvasive ventilation (NIV) markedly reduces reintubation incidence, hospital stay, and mortality in patients with respiratory failure after abdominal surgery.\n- NIV is recommended as the initial intervention for surgical patients with postoperative acute respiratory failure.\n- NIV requires an intact airway and is contraindicated in upper airway obstruction, severe encephalopathy (where patients cannot protect airways), unstable cardiac arrhythmias, or hemodynamic instability."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "A 37-year-old woman develops severe acute respiratory distress syndrome after undergoing multiple laparotomies for resection of her small bowel. After 10 days of mechanical ventilation, she extubates herself and requires emergency re-intubation for stridor and acute respiratory distress. She remains intubated for an additional 8 days, during which time her pulmonary function and chest x-ray improve significantly. What is most likely to optimize her chances for successful extubation?",
+            "options": [
+                "A. Spontaneous breathing trial using a T-piece",
+                "B. Limiting spontaneous breathing trial to 15 minutes",
+                "C. Avoiding the use of noninvasive ventilation following extubation",
+                "D. Prophylactic flexible bronchoscopy to remove retained secretions",
+                "E. Systemic steroids if a cuff leak is not present"
+            ],
+            "answer": "E",
+            "explanation": "- Noninvasive ventilation is recommended for patients at high risk for extubation failure who pass a spontaneous breathing trial.\n- Prophylactic flexible bronchoscopy is not recommended as it does not improve extubation success.\n- A spontaneous breathing trial should be conducted for at least 30 minutes, not limited to 15 minutes.\n- For patients at high risk for post-extubation stridor, especially those re-intubated after self-extubation, systemic steroids should be administered at least 4 hours before extubation if a cuff leak is not present."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "Which of the following parameters is required to characterize acute respiratory distress syndrome based on the current definition of this condition?",
+            "options": [
+                "A. Pulmonary artery wedge pressure",
+                "B. Pulmonary vascular resistance",
+                "C. Mean airway pressure",
+                "D. Plateau pressure",
+                "E. Positive end expiratory pressure"
+            ],
+            "answer": "E",
+            "explanation": "- The 2012 Berlin Definition of ARDS replaced \"acute lung injury\" and uses PaO2/FiO2 (P/F) ratio for severity.\n- All ARDS calculations are done on a positive end-expiratory pressure (PEEP) of at least 5 cm H2O.\n- PEEP is the only component of the Berlin Definition of ARDS among the given options.\n- Initial definitions included pulmonary wedge pressure <18 mm Hg, but this was deleted in the Berlin criteria.\n- Pulmonary vascular resistance, mean airway pressure, and plateau pressure were never included in an ARDS definition."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "The proper duration of antibiotics for a ventilator-associated pneumonia caused by Klebsiella pneumoniae is",
+            "options": [
+                "A. 8 days.",
+                "B. 15 days.",
+                "C. until the x-ray has cleared.",
+                "D. until fever has resolved and white blood cell count has normalized.",
+                "E. until the patient is liberated from the ventilator."
+            ],
+            "answer": "A",
+            "explanation": "- A short course of 7 to 8 days of antibiotics for ventilator-associated pneumonia is as safe and effective as a 14- to 15-day course.\n- Chest x-ray normalization, fever resolution, white blood cell count normalization, or liberation from ventilation are not reliable indicators for antibiotic discontinuation as they can be nonspecific or lag behind resolution."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "67-year-old woman sustained a traumatic brain injury after a motorcycle crash. She is sedated with propofol and fentanyl, receives levetiracetam as seizure prophylaxis, and has been continued on her statin and aspirin. On postinjury day 11, she has decreased urine output, hyperkalemia, and a metabolic acidosis. Her creatine phosphokinase is greater than 10,000 IU/L (60-174IU/L). What is the best first step in her management?",
+            "options": [
+                "A. Discontinue the propofol",
+                "B. Discontinue the fentanyl",
+                "C. Discontinue the levetiracetam",
+                "D. Start dexmedetomidine",
+                "E. Start hydrocortisone"
+            ],
+            "answer": "A",
+            "explanation": "- The patient's symptoms (decreased urine output, hyperkalemia, metabolic acidosis, and elevated creatine phosphokinase) are consistent with propofol infusion syndrome (PRIS).\n- PRIS is a rare but potentially fatal complication of prolonged or high-dose propofol use, involving metabolic acidosis, rhabdomyolysis, hyperkalemia, renal failure, and other issues.\n- The primary treatment for PRIS is discontinuation of propofol, along with hemodialysis and organ support.\n- Dexmedetomidine can be used as an alternative sedative but will not correct PRIS if propofol is continued.\n- Hydrocortisone is appropriate for acute adrenal insufficiency, not PRIS.\n- Fentanyl and levetiracetam side effects do not match the patient's constellation of symptoms."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "An 18-year-old man with a gunshot wound to the head is intubated in the intensive care unit. He has no response to pain, a Glasgow Coma Scale score of 3, no pupillary response, no gag reflex, and no corneal reflex. He does not have spontaneous respirations. Which of the following findings would prevent a brain death examination being performed?",
+            "options": [
+                "A. Blood pressure = 106/70 mm Hg on norepinephrine drip",
+                "B. Hemoglobin = 8.1 g/dL (13.5-17.5 g/dL)",
+                "C. Sodium = 161 mEq/L (136-14.5 mEq/L)",
+                "D. Temperature = 36.5°C",
+                "E. White blood cell count = 15,200/mm3 (3600-11,200/mm3)"
+            ],
+            "answer": "A",
+            "explanation": "<b>PROBABLE ANSWER: C<b><br>- Four steps are required for brain death declaration: identifying irreversible coma cause, correcting confounding derangements, physical examination, and apnea test.\n- Confounding physiologic and metabolic derangements must be identified and corrected before a brain death exam.\n- The patient should be normothermic and normotensive; vasopressor support is allowed if blood pressure remains above 90 to 100 mm Hg (patient's BP 106/70 on norepinephrine drip does not prevent exam).\n- Hypernatremia (Sodium = 161 mEq/L) can contribute to coma and should be corrected before performing a brain death exam.\n- A hemoglobin level of 8.1 g/dL, temperature of 36.5°C, and simple leukocytosis are not contraindications for a brain death exam."
+        },
+        {
+            "id": 13,
+            "question_type": "msq",
+            "question": "You elect to perform an apnea test to confirm brain death after correcting all physiologic derangements. His pretesting vital signs and arterial blood gas on 100% FiO2 are as follows: Blood pressure = 114/70 mm Hg Heart rate = 110 beats per minute O2 saturation = 98% pH = 7.38 PaCO2 = 42mmHg PaO2 = 278 mm Hg IHCO3 = 24 mEq/L (20-29 mEq/L) During his apnea test he is administered 100% supplemental O2, and no spontaneous respirations are noted. Which of the following findings would confirm brain death after a 10-minute apnea test?",
+            "options": [
+                "A. Blood pressure = 100/40 mm Hg",
+                "B. PaCO2 = 66mmHg",
+                "C. HCO3 = 18",
+                "D. pH = 7.30",
+                "E. PaO2 = 200mmHg"
+            ],
+            "answer": [
+                "C",
+                "B"
+            ],
+            "explanation": "<b>PROBABLE ANSWER: B<b><br>- An apnea test is performed to confirm brain death, as respiratory drive is based on PaCO2 levels.\n- After 10 minutes, an arterial blood gas is drawn.\n- A PaCO2 greater than 60 mm Hg (or 20 mm Hg above baseline) is considered positive for brain death.\n- The patient's baseline PaCO2 is 42 mmHg; 20 mmHg above baseline is 62 mmHg.\n- A PaCO2 of 66 mmHg (Option B) confirms brain death as it is above 60 mmHg and 20 mmHg above baseline.\n- HCO3, pH, blood pressure, and PaO2 are not direct confirmatory findings for brain death during an apnea test, although hemodynamic instability or significant desaturation would abort the test."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "A 64-year-old man is recovering in the intensive care unit 6 hours after an exploratory laparotomy and Hartmann procedure for perforated diverticulitis with feculent peritonitis. He remains intubated since the procedure. He has no history of cardiac or pulmonary disease or symptoms. He has made 30 mL/hour of urine since the operation. His vitals since the operation have been as follows: heart rate 80 to 100 beats per minute and systolic blood pressure 130 to 150 mm Hg. He now has a heart rate of 160 beats per minute and blood pressure of 115/60 mm Hg. Electrocardiogram demonstrates atrial fibrillation without ST elevation or depression. What is the most appropriate next step in management?",
+            "options": [
+                "A. Metoprolol",
+                "B. Nicardipine",
+                "C. Electrocardioversion",
+                "D. Echocardiography",
+                "E. Digoxin"
+            ],
+            "answer": "A",
+            "explanation": "- Atrial fibrillation (AF) is common postoperatively, often due to adrenergic stimulation.\n- Rapid treatment of AF is required for hemodynamically unstable patients, usually with direct current cardioversion.\n- For hemodynamically normal patients, ventricular rate control is the goal.\n- Beta-blockers, such as metoprolol, are first-line therapy for rate control in hemodynamically stable AF, especially given the likely adrenergic cause.\n- Nicardipine is not commonly used for cardiac arrhythmias.\n- Electrocardioversion is for hemodynamically unstable patients (patient's BP 115/60 mmHg is not considered unstable for immediate cardioversion).\n- Echocardiography is generally not recommended unless there is concern for underlying cardiac disease or dysfunction.\n- Digoxin has a slow onset of action."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "A 60-year-old man is currently sedated and intubated 24 hours after an exploratory laparotomy for strangulated bowel due to an internal hernia. He is receiving propofol and fentanyl for sedation and analgesia. With regard to his pulmonary management, what intervention is most likely to lead to earlier liberation from the ventilator?",
+            "options": [
+                "A. Daily sedation holiday",
+                "B. Use of propofol",
+                "C. Measurement of rapid shallow breathing index",
+                "D. Early tracheostomy",
+                "E. Assist control ventilation"
+            ],
+            "answer": "A",
+            "explanation": "- Overuse of sedation is a significant factor prolonging ventilator time.\n- Patients on continuous intravenous sedation spend more time on the ventilator than those receiving intermittent sedation.\n- Daily sedation holidays, in conjunction with spontaneous breathing trials, have the greatest effect on decreasing ventilator days and improving outcomes.\n- Propofol is a sedative, not an intervention for earlier liberation.\n- Measurement of rapid shallow breathing index is a predictive tool for extubation success, not an intervention itself.\n- Early tracheostomy is not indicated 24 hours after an exploratory laparotomy.\n- Assist control ventilation is a mode of ventilation, not an intervention to promote liberation."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "Which of the following interventions improves survival in a patient with moderate to severe acute respiratory distress syndrome?",
+            "options": [
+                "A. High-frequency oscillatory ventilation, early physical therapy, and bronchoscopy",
+                "B. High tidal volume mechanical ventilation, early neuromuscular blockade, and inhaled nitric oxide",
+                "C. High tidal volume mechanical ventilation, recruitment maneuvers, and bronchoscopy",
+                "D. Low tidal volume mechanical ventilation, early neuromuscular blockade, and prone positioning",
+                "E. Low tidal volume mechanical ventilation, high-dose steroids, and inhaled nitric oxide"
+            ],
+            "answer": "D",
+            "explanation": "- Low tidal volume ventilator settings (6 mL/kg ideal body weight) significantly improve survival in ARDS patients and remain a cornerstone of management.\n- A short course of neuromuscular blockade (≤48 hours) early in ARDS and prone positioning have been shown to improve mortality.\n- High-frequency oscillatory ventilation (HFOV) has not improved outcomes and may increase harm.\n- Physical therapy and fiberoptic bronchoscopy have no proven mortality benefit in ARDS.\n- High tidal volume mechanical ventilation should be explicitly avoided in ARDS patients.\n- Inhaled nitric oxide is a rescue therapy but does not improve survival and is associated with increased acute kidney injury.\n- High-dose systemic steroids are generally thought to have risks outweighing potential benefits in ARDS, with exceptions for specific etiologies."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding the management of a patient with necrotizing pancreatitis is true?",
+            "options": [
+                "A. Mortality is greater than 30%.",
+                "B. Infected pancreatic necrosis increases mortality to 50%.",
+                "C. Open surgical necrosectomy remains the treatment of choice.",
+                "D. Intervention is reserved primarily for those with symptomatic clinical deterioration.",
+                "E. Percutaneous and endoscopic drainage techniques are not appropriate."
+            ],
+            "answer": "D",
+            "explanation": "- Necrotizing pancreatitis involves necrosis of >30% of pancreatic parenchyma or peripancreatic tissue.\n- Noninfected necrotizing pancreatitis has a mortality rate of 15%, while infected necrotizing pancreatitis has a mortality rate of 30%.\n- Intervention for sterile necrotizing pancreatitis is optimally delayed, as two-thirds resolve spontaneously.\n- Historically, open surgical necrosectomy had high morbidity (up to 95%) and mortality (approaching 25%).\n- Necrosectomy is currently recommended only if radiologic and endoscopic drainage procedures fail.\n- Less-invasive approaches, such as percutaneous drainage and endoscopy with necrosectomy, result in less open surgery, shorter hospital stays, and less morbidity.\n- The step-up procedure, combining percutaneous drains with minimally invasive necrosectomy, is preferred."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "A 64-year-old man undergoes elective pancreaticoduodenectomy for adenocarcinoma. On the night of postoperative day 1, he becomes diaphoretic, confused, and anxious. His heart rate ranges from 130 to 165 beats per minute, with an irregular rhythm. His blood pressure is 88/60 mm Hg. He has no prior history of arrhythmias, and his preoperative electrocardiogram showed normal sinus rhythm. What is the best way to manage this patient' clinical condition?",
+            "options": [
+                "A. Direct current cardioversion",
+                "B. Esmolol",
+                "C. Adenosine",
+                "D. Diltiazem",
+                "E. Amiodarone"
+            ],
+            "answer": "A",
+            "explanation": "- Postoperative atrial fibrillation (AF) is common in noncardiac surgery patients.\n- Signs of shock and hemodynamic instability in AF include hypotension, acute chest pain, confusion, and heart failure.\n- The patient's symptoms (hypotension, confusion, anxiety, rapid irregular rhythm) indicate hemodynamic instability.\n- Rapid treatment of AF with hemodynamic instability requires direct current cardioversion to achieve normal sinus rhythm.\n- Direct current cardioversion should not be delayed in hemodynamically abnormal patients.\n- Beta-blockers (Esmolol) and calcium channel blockers (Diltiazem) are used for rate control in hemodynamically stable AF.\n- Adenosine is used for supraventricular tachycardias, not AF.\n- Amiodarone may be used concurrently to prevent relapse after cardioversion but is not the immediate first step for unstable patients."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "A 40-year-old otherwise healthy man is an unrestrained driver in a motor vehicle crash. He arrives with a Glasgow Coma Scale score of 3 and blood pressure of 90/60 mm Hg. He has a positive focused assessment with sonography for trauma exam and is taken for an exploratory laparotomy and splenectomy. During his initial admission labs to the intensive care unit, his glucose level is 145 mg/dL (70-100 mg/dL). Subsequent point of care blood glucoses for 24 hours are greater than 200 mg/dL. How should this patient's blood glucose levels be managed?",
+            "options": [
+                "A. Insulin infusion to maintain blood glucose levels between 150 and 180 mg/dL",
+                "B. Subcutaneous insulin sliding scale at blood glucose of 210 mg/dL",
+                "C. Insulin infusion to maintain blood glucose levels between 80 and 110 mg/dL",
+                "D. Subcutaneous insulin glargine 0.3 mg/kg",
+                "E. Oral metformin"
+            ],
+            "answer": "A",
+            "explanation": "- Hyperglycemia is associated with adverse outcomes in critically ill patients.\n- The Society for Critical Care Medicine recommends monitoring blood glucose levels and warns against tight glycemic control (80-110 mg/dL), as it increased mortality in trials.\n- A blood glucose level of 150 mg/dL should prompt intervention, with a goal of keeping levels less than 180 mg/dL.\n- The initial method of glucose control should be an intravenous insulin infusion for close monitoring and adjustments.\n- Subcutaneous insulin sliding scale, insulin glargine, and oral metformin are not appropriate for acute management of hyperglycemia in this setting."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "A 40-year-old man presents with choledocholithiasis and an elevated serum bilirubin. He undergoes an endoscopic retrograde cholangiopancreatography, which successfully clears the stone from his common bile duct. The following day, he develops severe epigastric pain and has a lipase of 2500 U/L (10-140 2500 U/L). A CT scan of his abdomen and pelvis shows necrotizing pancreatitis (figure 20.1). What is the best method to decrease his risk of progression to infected necrotizing pancreatitis?",
+            "options": [
+                "A. Early enteral nutrition",
+                "B. Probiotics",
+                "C. Intravenous antibiotics",
+                "D. Intravenous corticosteroids",
+                "E. Parenteral nutrition"
+            ],
+            "answer": "A",
+            "explanation": "- Infected necrotizing pancreatitis is a dreaded complication of acute pancreatitis.\n- Enteral nutrition is thought to enhance mucosal barrier integrity and reduce bacterial translocation, thereby decreasing pancreatic infections.\n- Meta-analyses show early (within 3 days) enteral nutrition decreases pancreatic infections and mortality in severe acute pancreatitis.\n- Guidelines recommend early tube feeding to reduce infection and mortality risks.\n- Parenteral nutrition is associated with worse outcomes and should only be used if enteral feeding is not tolerated.\n- Routine prophylactic intravenous antibiotics are not supported by evidence and are recommended against by guidelines.\n- Probiotics have not shown reduction in infection rates.\n- Intravenous steroids have no evidence of reducing conversion to infected pancreatic necrosis."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "In patients with traumatic brain injury (head abbreviated injury score >3), venous thromboembolus (VTE) prophylaxis with low molecular weight heparin compared with unfractionated heparin results in",
+            "options": [
+                "A. increased mortality.",
+                "B. decreased bleeding complications.",
+                "C. increased unplanned returns to operating room.",
+                "D. increased incidence of heparin-induced thrombo-cytopenia.",
+                "E. decreased VTE rate."
+            ],
+            "answer": "E",
+            "explanation": "- VTE prophylaxis in traumatic brain injury (TBI) patients is challenging due to increased VTE risk from immobility and contraindication to chemical prophylaxis due to intracranial hemorrhage.\n- Chemical VTE prophylaxis can generally be started within 72 hours of a stable head CT scan.\n- Low molecular weight heparin (LMWH) for VTE prophylaxis in TBI patients results in lower odds ratio of VTE and lower mortality compared with unfractionated heparin (UFH).\n- There is no difference in bleeding risk or unplanned returns to the operating room between LMWH and UFH.\n- Heparin-induced thrombocytopenia occurs up to 10 times more often with UFH compared with LMWH."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "A 58-year-old woman has been in the intensive care unit on mechanical ventilation (rate set at 12, breathing at 22) for 8 days after sustaining multiple rib fractures. She is being treated for pneumonia and develops sepsis. She is oliguric (urine output 0.3 mL/kg/hour x 2 hours) despite 2 L of fluid. She is being monitored by echocardiography. Which of the following bedside tests is the best predictor of fluid responsiveness in this patient?",
+            "options": [
+                "A. Physical exam",
+                "B. Central venous pressure",
+                "C. Pulse pressure variation with respiration",
+                "D. Passive leg raising",
+                "E. Respiratory variation in vena cava diameter"
+            ],
+            "answer": "D",
+            "explanation": "- Assessing fluid responsiveness is crucial to avoid detrimental effects of over- or under-resuscitation.\n- A large meta-analysis found passive leg raising with monitoring of cardiac response (e.g., by echocardiography) to be the best method for assessing fluid responsiveness.\n- Physical exam and central venous pressure measurement are poor predictors of fluid responsiveness.\n- Respiratory variations in pulse pressure and inferior vena cava diameter are less reliable in patients with spontaneous respiratory efforts, which this patient has (breathing at 22 vs set rate 12).\n- Cardiac arrhythmias can also decrease the accuracy of pulse pressure and cava diameter variation."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "A 72-year-old woman is recovering from a partial gastrectomy. On postoperative day 3, she is agitated and confused. Postoperative delirium after major abdominal surgery in older patients is associated with",
+            "options": [
+                "A. increased length of hospital stay.",
+                "B. increased intensive care unit admission rates.",
+                "C. a return to operating room.",
+                "D. no change in long-term cognitive performance.",
+                "E. wound dehiscence."
+            ],
+            "answer": "A",
+            "explanation": "- Delirium is a common diagnosis in elderly hospitalized patients, associated with high rates of adverse outcomes and mortality.\n- Postoperative delirium is associated with increased length of hospital stay, higher medical costs, and increased likelihood of post-discharge institutionalization.\n- Patients who suffer delirium have a greater risk of long-term cognitive decline (after 3 years) compared to those without postoperative delirium.\n- Postoperative delirium is not associated with increased risk for intensive care unit admission, return to the operating room, or wound dehiscence."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "A 78-year-old nursing home resident with diabetes and congestive heart failure presented to the hospital 1 week ago with near-obstructing colon cancer and a 20-pound (10%) weight loss in the last 2 months. He is now intubated and ventilated in the intensive care unit after urgent sigmoid colectomy. Attempted enteral feeding through a nasojejunal feeding tube resulted in severe abdominal distention. The best next step to provide nutritional support is",
+            "options": [
+                "A. trophic gastric feeds (10-20 mL/hour).",
+                "B. parenteral nutrition.",
+                "C. percutaneous endoscopic gastrostomy placement.",
+                "D. peripheral parenteral nutrition.",
+                "E. jejunostomy feeding tube placement."
+            ],
+            "answer": "B",
+            "explanation": "- Timely and adequate nutritional support is integral for critically ill and postoperative patients, especially those with malnutrition.\n- Enteral nutrition is preferred over parenteral nutrition, but it is limited by gastrointestinal intolerance or aspiration.\n- The patient is malnourished and experienced severe abdominal distention with nasojejunal feeding, indicating enteral feeding intolerance.\n- For high-nutrition-risk ICU patients where adequate enteral nutrition is not tolerated, parenteral nutrition should be started as soon as possible.\n- Trophic feeds (A) and peripheral parenteral nutrition (D) will not provide sufficient calories and protein for a malnourished patient.\n- Percutaneous endoscopic gastrostomy (C) and jejunostomy feeding tube placement (E) are longer-term feeding tube options, not the immediate \"best next step\" for nutritional support when current enteral feeding is not tolerated."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "A 58-year-old woman underwent an elective laparotomy for resection of pancreatic cancer with curative pancreaticoduodenectomy. She was discharged in excellent condition, but 24 hours later sustained an out-of-hospital cardiac arrest due to ventricular fibrillation. She was successfully resuscitated and admitted to the intensive care unit intubated and ventilated after successful percutaneous coronary intervention. To improve her chance of survival and neurologic recovery, what is the recommended use of targeted temperature management in this patient?",
+            "options": [
+                "A. Cooling to 32°C for 24 hours",
+                "B. Targeted temperature of 37°C for 24 hours",
+                "C. Cooling to 33° to 36°C for 24 hours",
+                "D. Targeted temperature of 37°C for 48 hours",
+                "E. Cooling to 32°C for 48 hours"
+            ],
+            "answer": "C",
+            "explanation": "- Targeted temperature management (TTM) improves short- and long-term survival and neurologic recovery after out-of-hospital cardiac arrest.\n- Current recommendations suggest a target temperature of 33°C to 36°C for at least 24 hours.\n- The TTM trial showed similar benefits for 33°C and 36°C.\n- Studies confirmed no difference in 6-month neurologic outcomes or mortality between 24 and 48 hours of hypothermia.\n- There is no recommendation to cool to 32°C."
+        }
+    ]
+}

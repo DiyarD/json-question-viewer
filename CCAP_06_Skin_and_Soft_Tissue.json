@@ -1,0 +1,341 @@
+{
+    "chapter_name": "Skin and Soft Tissue",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A 50-year-old man with poorly controlled diabetes and a BMI of 45 has redness and pain in his scrotum and right thigh. His white blood cell count is 25,000/mm3 (3600-11,100/mm3), and he is febrile at 40.1°C. He undergoes debridement of his scrotum and right thigh. A necrotizing infection involving the subcutaneous tissue and fascia is confirmed; however, the underlying muscle appeared viable. He is admitted to the intensive care unit on vasopressors and continued-on broad-spectrum antibiotics. Eight hours after admission, his lactic acid increases from 5 to 8 mmol/L (2 mmol/L), his white blood cell count is 40,000/ mm3, and his vasopressor requirement has increased. What is the next step in his management?",
+            "options": [
+                "A. Re-exploration in the operating room",
+                "B. Addition of micafungin",
+                "C. CT scan of the abdomen and pelvis",
+                "D. Hyperbaric oxygen therapy",
+                "E. Intravenous immunoglobulin therapy"
+            ],
+            "answer": "A",
+            "explanation": "*   The mainstay of management for necrotizing soft tissue infection is operative debridement of all involved necrotic tissue.\n*   Complete debridement is the most important part of management, and most patients will require at least 2 operative debridements.\n*   This patient has ongoing septic shock and a worsening inflammatory state, so he should be taken back to the operating room immediately for re-exploration and further debridement, if necessary.\n*   Additional imaging is not indicated unless an extension to or from the abdomen is suspected based on operative findings.\n*   Broad-spectrum antibiotic therapy is used until culture results are available, covering Gram-negatives, Gram-positives, and anaerobes.\n*   Antifungals are generally not indicated unless mucormycosis is suspected.\n*   Hyperbaric oxygen therapy and intravenous immunoglobulins are adjuncts; hyperbaric oxygen should not be initiated until all necrotic tissue is debrided.\n*   Intravenous immunoglobulins may benefit type 2 infections but should not be used in type 1 or 3 infections."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "A 58-year-old woman presents after a biopsy of a right anterior thigh Pigmented lesion. The pathology result showed superficial spreading melanoma 1.0 mm thick; Clark level II; no ulceration; mitosis rate 1/mm2. Her physical examination reveals a biopsy site on the right anterior thigh with no lymphadenopathy noted. The appropriate surgical therapy is excision of the biopsy site with",
+            "options": [
+                "A. 1-cm margin.",
+                "B. 1-cm margin with sentinel lymph node biopsy.",
+                "C. 2-cm margin.",
+                "D. 2-cm margin with sentinel lymph node biopsy.",
+                "E. 1-cm margin with groin lymphadenectomy."
+            ],
+            "answer": "B",
+            "explanation": "*   Surgical treatment of melanoma is 2-fold: adequate margin for local control and assessment of the draining lymph node basin.\n*   For a melanoma depth of 1.0 mm, the appropriate margin is 1 cm.\n*   This is an intermediate thickness (1-4 mm) melanoma.\n*   Lymph node sampling through the use of the sentinel lymph node biopsy technique is warranted.\n*   A 1-cm margin with sentinel lymph node biopsy is appropriate.\n*   Groin exploration is not indicated with no clinical lymphadenopathy or biopsy-proven nodal disease."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "A 37-year-old man presents with a 3-mm pigmented lesion in the nail bed of the left first toe. Biopsy confirms a subungual melanoma in situ. What is proper treatment?",
+            "options": [
+                "A. Shave biopsy",
+                "B. Wide local excision",
+                "C. Amputation at the interphalangeal joint",
+                "D. Amputation at the metacarpal-phalangeal joint",
+                "E. Ray amputation"
+            ],
+            "answer": "B",
+            "explanation": "*   Subungual melanoma in situ is now treated with a more conservative, digit-sparing approach.\n*   This approach includes nail complex excision and local flap reconstruction or application of a full-thickness skin graft.\n*   Amputation does not appear to provide superior outcomes compared with wide local excision, especially for in situ lesions.\n*   Current data imply that melanoma in situ is treated appropriately with a digit-sparing approach.\n*   If pathologic assessment reveals a positive margin for invasive tumor, amputation of the distal phalanx should be performed."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "Two days after starting broad-spectrum antibiotics and debridement for a necrotizing infection of the buttock, a patient is doing well with vitals as follows:\nTemperature = 37.6°C\nHeart rate = 60 beats per minute\nBlood pressure = 120/56 mm Hg\nRespiratory rate = 10 breaths per minute\nWhite blood cell count = 6000/mm3 (3600-11,100/mm3)\nHe has a wound that appears as shown in figure 4.1. What is the appropriate next step of management?",
+            "options": [
+                "A. Place wet-to-dry dressing changes",
+                "B. Place a vacuum-assisted closure device",
+                "C. Place a skin graft overlying the open muscle",
+                "D. Perform further debridement",
+                "E. Start antifungal treatment"
+            ],
+            "answer": "D",
+            "explanation": "*   Necrotizing infection is a severe nonpurulent infection that can lead to systemic inflammatory response syndrome and multiorgan failure.\n*   Prompt surgical debridement and intravenous antibiotics are the appropriate first line of treatment.\n*   After initial debridement, it is important to reassess wounds periodically and to debride all necrotic tissues to viability before placing a skin graft or definitive closure.\n*   Although this patient appears to be clinically normal, the presence of devitalized tissue should immediately prompt further debridement.\n*   Fungal infections are rare, and there is no evidence to support the use of antifungals in this setting.\n*   Wet-to-dry dressings are not appropriate for necrotizing infections with large amounts of devitalized tissue.\n*   Negative pressure wound dressings improve wound healing but require a clean wound."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding management of dermatofibrosarcoma protuberans is true?",
+            "options": [
+                "A. Wide local excision with a 5-cm margin is the standard of care.",
+                "B. Overall survival is poor.",
+                "C. The tumor is radioresistant.",
+                "D. A sentinel lymph node biopsy should be performed.",
+                "E. Imatinib can be used for locally advanced and metastatic disease."
+            ],
+            "answer": "E",
+            "explanation": "*   Dermatofibrosarcoma protuberans (DFSPs) are rare, low-grade soft tissue tumors with generally excellent survival and rarely metastasize.\n*   A margin of 2 cm is usually recommended for wide local excision, not 5 cm.\n*   DFSPs are sensitive to radiotherapy, especially when given in high doses (>60 Gy), and it is usually reserved for recurrent or locally unresectable tumors.\n*   Sentinel lymph node biopsy is not part of routine care of DFSPs as they rarely metastasize via lymphatics.\n*   Imatinib mesylate, a tyrosine kinase inhibitor, has shown efficacy in reducing tumor size and is studied for locally advanced and metastatic DFSP due to a fusion mutation in platelet derived growth factor (PDGF)."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "A 37-year-old woman undergoes a femoral sentinel node biopsy for a 1.7-mm nonulcerated melanoma of the thigh. Pathology on the single node reveals a micrometastasis. She inquires about a completion groin node dissection. She should be told that this procedure",
+            "options": [
+                "A. is followed by postoperative radiation.",
+                "B. improves disease-free survival.",
+                "C. does not increase her risk of lymphedema.",
+                "D. finds positive nodes in 50% of patients.",
+                "E. is combined with a pelvic node dissection."
+            ],
+            "answer": "B",
+            "explanation": "*   The Multicenter Sentinel Lymph Node Trial-II (MSLT-II) randomized patients with melanoma who had micrometastases in their sentinel nodes to completion node dissection or observation.\n*   The dissection group had a slightly higher disease-free survival (attributed mostly to control in the regional nodes), but melanoma-specific survival was the same between groups.\n*   Completion dissection is associated with significant rates of lymphedema (24.1% in the MSLT-II trial).\n*   Only 20% of completion dissections yield additional tumor in the \"nonsentinel\" nodes (11.5% in the MSLT-II dissection arm).\n*   If a completion groin dissection is done for a positive sentinel node, it is not usually extended into the pelvis because this technique adds to the lymphedema risk without significant benefit.\n*   Radiation therapy is not indicated for positive sentinel nodes and is reserved for large nodal tumor burden or extranodal extension."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "A 61-year-old man presents with the arm lesion shown in figure 7.1. A biopsy is read as Merkel cell carcinoma. Physical examination is otherwise unremarkable. A metastatic workup is negative. What is the recommended treatment?",
+            "options": [
+                "A. Mohs micrographic surgery",
+                "B. Check-point inhibitor therapy",
+                "C. Wide local excision only",
+                "D. Wide local excision and postoperative radiation",
+                "E. Wide local excision and postoperative chemotherapy"
+            ],
+            "answer": "D",
+            "explanation": "*   Merkel cell carcinoma (MCC) is an aggressive neuroendocrine cutaneous tumor.\n*   MCCs should be staged with wide excision and sentinel node biopsy.\n*   They are sensitive to radiation therapy.\n*   Retrospective studies and a randomized study showed that radiation therapy reduces the local relapse rate significantly and may improve overall survival.\n*   Adjuvant radiation therapy to the primary site after resection is the standard of care.\n*   Radiation therapy is sometimes withheld in sensitive body areas but not applicable here.\n*   No benefit of adjuvant chemotherapy is seen; it is usually reserved for metastatic disease.\n*   Checkpoint inhibition (avelumab) is of value in metastatic MCC, not for primary treatment."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "Keloids",
+            "options": [
+                "A. do not spontaneously regress.",
+                "B. have improved cosmetic appearance after 6 weeks of topical 5-fluorouracil.",
+                "C. more commonly occur in white patients.",
+                "D. extend beyond the margin of the original wound.",
+                "E. have excessive amounts of type III collagen."
+            ],
+            "answer": "D",
+            "explanation": "*   Keloids and hypertrophic scars are the result of abnormalities in the wound healing process.\n*   Histologically, keloids extend beyond the border of the wound.\n*   Clinically, keloids rarely regress and most often recur.\n*   Both keloids and hypertrophic scars contain excessive amounts of type I collagen, and there is an increase in the ratio of type I to type III collagen."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "A 60-year-old obese man undergoes excision of an abnormal skin lesion on his left lower leg. His physical exam is otherwise unremarkable. He has no palpable adenopathy. Final pathology shows a 0.85-mm thick ulcerated melanoma with 6-mm clear margins. The most appropriate next step in his management is",
+            "options": [
+                "A. sentinel lymph node biopsy.",
+                "B. re-excision to a 1-cm margin.",
+                "C. re-excision to a 1-cm margin and sentinel node biopsy.",
+                "D. re-excision to a 2-cm margin and left groin node dissection.",
+                "E. left groin node dissection."
+            ],
+            "answer": "C",
+            "explanation": "*   The patient has a 0.85-mm thick ulcerated melanoma.\n*   The goal margin for a 0.85-mm melanoma is 1 cm; the initial excisional biopsy had only 6 mm (0.6 cm) clear margins, which is insufficient. Therefore, further excision to achieve wider margins is needed.\n*   This patient meets criteria for sentinel lymph node biopsy (SLNB) because the tumor is ulcerated, even though it is less than 1 mm thick. SLNB is recommended for melanoma thickness of 1 mm or greater, or 0.76-1.00 mm if other adverse parameters (like ulceration) are present.\n*   There is no indication for a left groin dissection until SLNB is performed and sentinel lymph nodes are found to be positive for metastatic disease."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "A 53-year-old healthy man presents for evaluation of a lesion located on the lateral aspect of his left thigh. He identified the lesion approximately 6 months ago after a minor contusion to the area while playing tennis. He states that it has not changed in size and that it is not tender. On physical examination, the lesion appears to be deep within the vastus lateralis muscle, is approximately 5 cm in size, and is hard and nonmobile. The most appropriate next step is",
+            "options": [
+                "A. core needle biopsy.",
+                "B. PET scan.",
+                "C. fine needle aspiration.",
+                "D. excisional biopsy.",
+                "E. sentinel lymph node biopsy."
+            ],
+            "answer": "A",
+            "explanation": "*   Soft tissue masses larger than 3 cm and those that are deep (i.e., below the subcutaneous fat) should be considered potentially malignant soft tissue sarcomas (STS).\n*   Ideally, these patients should be referred to centers with multidisciplinary teams.\n*   If a biopsy is performed, core needle biopsy (usually multiple passes, 6-8 core specimens) should be obtained.\n*   Image-guided biopsies are recommended, particularly for deep lesions.\n*   Fine needle aspiration biopsy is acceptable in the hands of an experienced surgeon or radiologist but not ideal.\n*   STS rarely metastasizes via lymphatics, so sentinel lymph node biopsy is rarely indicated.\n*   Excisional biopsy would not be appropriate for this larger lesion suspicious for an STS."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "A 52-year-old man with poorly controlled diabetes presents with right leg pain Physical examination reveals crepitus and a blue discoloration of the lateral aspect of the lower extremity. His blood pressure is normal and his heart rate is 100 beats per minute. He does have multiple blisters of different sizes. Dorsalis pedis pulse is not palpable, but triphasic flow is audible on a portable Doppler Plain radiograph of the lower extremity reveals evidence of gas tracking along the fascia. Laboratory analysis reveals hyperglycemia, elevated Hb A1C, and leukocytosis with a left shift. What is the first step in his treatment?",
+            "options": [
+                "A. Tissue biopsy",
+                "B. Limited debridement",
+                "C. Hyperbaric oxygen",
+                "D. MRI",
+                "E. Broad-spectrum antibiotics"
+            ],
+            "answer": "E",
+            "explanation": "*   The patient presents with characteristic signs of necrotizing soft tissue infection (NSTI).\n*   Prompt, wide debridement is the mainstay of treatment and is key for outcome and survival.\n*   Early and aggressive broad-spectrum empiric antibiotic therapy is recommended and necessary; it should not replace surgical debridement but is initiated concurrently.\n*   Imaging (MRI, CT) can facilitate diagnosis but should not delay treatment.\n*   Tissue biopsy is not helpful and can delay appropriate treatment.\n*   Hyperbaric oxygen is proposed as an adjunctive therapy *after* surgical treatment."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "A 65-year-old man is diagnosed with an ulcerated 2-mm depth melanoma, He undergoes wide local excision and sentinel lymph node biopsy. What is the most powerful predictor of survival?",
+            "options": [
+                "A. Sentinel lymph node status",
+                "B. Breslow depth",
+                "C. Ulceration",
+                "D. Age",
+                "E. Site of melanoma"
+            ],
+            "answer": "A",
+            "explanation": "*   Sentinel lymph node biopsy (SLNB) is used in the management of melanoma.\n*   The Multicenter Selective Lymphadenectomy Trial (MSLT-I) showed that sentinel node status was the strongest predictor of disease recurrence or death in patients with intermediate thickness melanoma."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "The patient pictured (figure 13.1) has hidradenitis suppurativa Which of the following statements regarding this disease process is true?",
+            "options": [
+                "A. This lesion represents Hurley stage II disease.",
+                "B. Medical management includes tumor necrosis factor blockers.",
+                "C. A colostomy should be performed at the time of excision.",
+                "D. Unroofing and curettage of the sinus tracts is adequate definitive therapy.",
+                "E. Topical antibiotics should be avoided."
+            ],
+            "answer": "B",
+            "explanation": "*   The patient's wide area with chronic skin changes is most consistent with Hurley stage III disease, implying diffuse involvement with multiple intermediate tracts.\n*   Medical management should be exhausted before surgical intervention.\n*   Medical management includes various therapies, and finally, the tissue necrosis factor blocker adalimumab can be considered.\n*   Unroofing and curettage of sinus tracts are for persistent tracts and help heal chronically inflamed tissues, but are not adequate definitive therapy for severe disease.\n*   Large series of perineal excisions are reported with only a rare need for colostomy to prevent excessive wound soilage.\n*   Topical antibiotics (e.g., clindamycin) are associated with significant improvement in patients with minimal or mild disease."
+        },
+        {
+            "id": 14,
+            "question_type": "emq",
+            "question": "Fluctuance under the nail bed",
+            "options": [
+                "A. Antibiotics, warm compresses",
+                "B. Antiviral therapy, warm compresses",
+                "C. Incision and drainage",
+                "D. Nailbed removal",
+                "E. Wide debridement of involved skin and fascia"
+            ],
+            "answer": "D",
+            "explanation": "*   Paronychia is an infection of the nail bed or the periungual soft tissue.\n*   Initial treatment is with antibiotics and warm compresses.\n*   If diagnosis is delayed and the abscess extends below the nail, it may require partial or complete removal of the nail and exposure of the nail bed."
+        },
+        {
+            "id": 15,
+            "question_type": "emq",
+            "question": "Erythema and pain with clear vesicles of the finger",
+            "options": [
+                "A. Antibiotics, warm compresses",
+                "B. Antiviral therapy, warm compresses",
+                "C. Incision and drainage",
+                "D. Nailbed removal",
+                "E. Wide debridement of involved skin and fascia"
+            ],
+            "answer": "B",
+            "explanation": "*   The description \"Erythema and pain with clear vesicles of the finger\" is characteristic of Herpetic whitlow.\n*   Herpetic whitlow is a viral infection caused by the herpes simplex virus.\n*   Treatment is supportive, and antiviral therapy should be considered.\n*   Performing an incision and drainage on a herpetic whitlow can lead to a secondary bacterial infection and spread of the virus."
+        },
+        {
+            "id": 16,
+            "question_type": "emq",
+            "question": "Erythema, pain, and edema of the fingertip pulp",
+            "options": [
+                "A. Antibiotics, warm compresses",
+                "B. Antiviral therapy, warm compresses",
+                "C. Incision and drainage",
+                "D. Nailbed removal",
+                "E. Wide debridement of involved skin and fascia"
+            ],
+            "answer": "C",
+            "explanation": "*   The description \"Erythema, pain, and edema of the fingertip pulp\" is characteristic of a felon.\n*   A felon is a painful, closed-space infection of the finger pulp, most commonly caused by a puncture wound or splinter.\n*   Antibiotics and drainage are needed; to drain a felon, a digital block is first performed, and a longitudinally oriented incision is made over the area of maximal fluctuance."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "A 56-year-old hepatitis C positive shrimper presents to the emergency department complaining of severe pain in hie left calf. On exam, he is tachycardic, tachypneic, and hypotensive; his left calf is purpuric with hemorrhagic bullae. The most likely organism responsible for this presentation is",
+            "options": [
+                "A. Streptococcus pyogenes.",
+                "B. Staphylococcus aureus.",
+                "C. Clostridium perfringens.",
+                "D. Vibrio vulnificus.",
+                "E. Pseudomonas aeruginosa."
+            ],
+            "answer": "D",
+            "explanation": "*   The patient's presentation (shrimper, severe pain, purpuric with hemorrhagic bullae, septic signs, hepatitis C positive) is characteristic of a Type 3 necrotizing soft tissue infection.\n*   Type 3 infections are monomicrobial and caused by Clostridium perfringens, Vibrio vulnificus, and Aeromonas species.\n*   Vibrio vulnificus is a marine bacterium found in raw seafood and along warm coastal areas.\n*   Signs particular to V. vulnificus and Aeromonas species include fulminant development of hemorrhagic bullae, subcutaneous bleeding, purpura, necrosis, and gangrene.\n*   Hepatic dysfunction (present in this patient with hepatitis C) is a specific risk factor for V. vulnificus infection."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "A 45-year-old woman presents to the emergency department with a 4-cm fungating necrotic wound on her breast 10 days after an excisional breast biopsy. You suspect pyoderma gangrenosum. Which of the following is an associated condition with similar pathophysiology?",
+            "options": [
+                "A. Scalded skin syndrome",
+                "B. Hidradenitis suppurative",
+                "C. Bullous pemphigoid",
+                "D. Toxic epidermal necrolysis",
+                "E. Necrotizing soft tissue infection"
+            ],
+            "answer": "B",
+            "explanation": "*   Pyoderma gangrenosum represents one of several autoinflammatory neutrophilic dermatitides.\n*   These autoimmune conditions are associated with dense accumulation of polymorphonuclear leukocytes and an unregulated interleukin-8 inflammatory response.\n*   Other conditions in this category with similar pathophysiology include aseptic febrile neutrophilic dermatosis and hidradenitis suppurativa.\n*   Bullous pemphigoid, toxic epidermal necrolysis, and scalded skin syndrome are exfoliative conditions, not neutrophilic dermatitides.\n*   Necrotizing soft tissue infection is an infectious process, not an autoinflammatory dermatitide."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "A 47-year-old man has had recurrent draining sinuses in the right axilla for many years. He now presents with 3 draining sinuses and multiple interconnected tracts across the entire axillary area compatible with severe hidradenitis suppurativa. The best option for surgical treatment should consist of",
+            "options": [
+                "A. unroofing sinus tracts.",
+                "B. electrocauterization and curettage of the draining sinuses.",
+                "C. total excision of all hair-bearing skin with primary closure.",
+                "D. total excision of all hair-bearing skin with secondary intention healing.",
+                "E. total excision of all hair-bearing skin with application of a split-thickness skin graft,"
+            ],
+            "answer": "E",
+            "explanation": "*   The patient has severe hidradenitis suppurativa (Hurley stage III disease).\n*   Surgical treatment offers the best chance at lasting cure, especially in more advanced cases.\n*   Unroofing individual sinus tracts or exteriorization by electrocauterization or curettage may be appropriate for minimal or mild cases at fixed locations, but both techniques are associated with a high recurrence rate in more advanced disease.\n*   The best chance at permanent cure is extensive removal of all affected skin and underlying tissue.\n*   The optimal type of closure is immediate or delayed application of a split-thickness skin graft.\n*   Primary closure is often precluded by the extensive defect after skin excision.\n*   Secondary intention closure requires painful dressing changes and prolonged healing compared with skin grafting."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "The use of negative pressure wound therapy after burn wound excision",
+            "options": [
+                "A. increases acute kidney injury.",
+                "B. increases use of nursing care.",
+                "C. increases opioid use.",
+                "D. decreases total treatment costs.",
+                "E. increases rate of skin graft take."
+            ],
+            "answer": "E",
+            "explanation": "*   Negative pressure wound therapy (NPWT) increases local blood flow to the wound bed and improves perfusion, thus increasing the rate of skin graft take.\n*   NPWT helps reduce the exudate, edema, and hematoma that typify these wounds.\n*   NPWT allows for accurate measurement and management of wound exudate, permitting targeted fluid resuscitation, which can decrease pulmonary edema and acute kidney injury.\n*   NPWT requires less intensive daily nursing care.\n*   NPWT results in a stable wound, decreasing the need for opioid analgesia.\n*   The overall cost of using this therapy is increased due to equipment costs."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "Infected pressure ulcers are common among debilitated patients and can be difficult to treat. Which of the following statements is true regarding the risk for clinical recurrence of infected pressure ulcers?",
+            "options": [
+                "A. There is no benefit to chronic antibiotic treatment.",
+                "B. Recurrence is related to the number of surgical debridement operations.",
+                "C. Risk is decreased by the use of negative-pressure wound therapy.",
+                "D. Admission albumin level strongly correlates with recurrence.",
+                "E. Risk is decreased by the use of a myocutaneous flap."
+            ],
+            "answer": "A",
+            "explanation": "*   The rate of recurrence of infected pressure ulcers remains high.\n*   Studies suggest that recurrence of infected pressure ulcers is not related to extended duration of antibiotic therapy.\n*   Recurrence rates do not correlate with the number of surgical debridements, surgical flaps, or use of negative pressure wound therapy.\n*   Markers of nutrition, such as albumin and prealbumin, are also not associated with ulcer recurrence.\n*   Neither primary closure nor use of myocutaneous flap correlate with recurrence.\n*   Chronic antibiotic therapy does not reduce recurrence."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "According to the American College of Surgeons and Surgical Infection Society Surgical Site Infection Guidelines 2016 updates, which of the following reduces the risk of surgical site infections?",
+            "options": [
+                "A. Smoking cessation 4 to 6 weeks before surgery.",
+                "B. Improving hemoglobin A1C",
+                "C. Hair removal using razors",
+                "D. Rescrubbing before closure in colorectal cases",
+                "E. Removing the surgical dressing 24 hours after surgery"
+            ],
+            "answer": "A",
+            "explanation": "*   Smoking has repeatedly proven to be an important risk factor for SSIs.\n*   A randomized trial comparing patients who stopped smoking 6 to 8 weeks before surgery with those who continued to smoke demonstrated a significant reduction in postoperative complication rates.\n*   Studies examining hemoglobin A1C levels among surgical patients with diabetes failed to demonstrate a correlation between tighter glycemic control and a decrease in SSIs.\n*   Guidelines recommend against the use of razors before surgery because they disrupt the skin's barrier defense.\n*   Prospective trials failed to show a decrease in SSIs with rescrubbing, changing outer gloves, or using new instruments for fascial closure.\n*   The timing of dressing removal (early vs. late) was not found to be associated with the likelihood of SSI."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "Which of the following is an early sign of a necrotizing soft tissue infection of the lower leg?",
+            "options": [
+                "A. Crepitus",
+                "B. Hemorrhagic bullae",
+                "C. Confluent petechiae",
+                "D. Hypotension",
+                "E. Severe pain on passive motion"
+            ],
+            "answer": "E",
+            "explanation": "*   Distinguishing necrotizing from nonnecrotizing infections is a diagnostic challenge.\n*   Hard and definitive signs of necrotizing soft tissue infection, such as hypotension from shock, crepitus, hemorrhagic bullae, and confluent petechiae, occur late in the disease process.\n*   An early sign of a necrotizing infection is severe pain on clinical evaluation, such as passive motion of the extremity.\n*   The pain is disproportionate to other clinical signs and should prompt further diagnostic steps to exclude a necrotizing infection."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "An 83-year-old woman who is a resident of a chronic nursing facility is referred for the lesion shown on her right arm. Punch biopsy demonstrates squamous cell carcinoma. She is chronically anticoagulated with warfarin for a prosthetic mitral valve placed more than 10 years ago. Other than severe dementia, she has no medical problems. The lesion has become a problem because of persistent bleeding requiring frequent dressing changes. What is the best management option?",
+            "options": [
+                "A. Radiation therapy",
+                "B. Topical 5-fluorouracil",
+                "C. Photodynamic ablation",
+                "D. Local excision with coverage by a split-thickness skin graft",
+                "E. Discontinuation of warfarin with continued dressing changes"
+            ],
+            "answer": "D",
+            "explanation": "*   Standard surgical excision to clear margins (4 to 10 mm) or Mohs micrographic surgery are the standard treatments for nonmelanoma cutaneous cancers like squamous cell carcinoma.\n*   A surgical approach in this patient could be done with regional anesthesia and sedation.\n*   Coverage of the surgical defect with a primary split-thickness skin graft would address the immediate problem of bleeding as well as the lesion itself.\n*   Radiation therapy has a role in the adjuvant setting and occasionally as a primary treatment, but for large tumors (>2 cm) treated with first-line radiation therapy, the recurrence rates are more than 30%. It also involves logistical problems and does not immediately address the persistent bleeding problem.\n*   Topical therapy with 5-fluorouracil or imiquimod is appropriate for management of small premalignant lesions or to address the field effect after a primary excision, but it is not appropriate for large lesions.\n*   The same argument applies to photodynamic ablation.\n*   Discontinuing the anticoagulant puts the mechanical valve at risk and does not obviate the need for continued dressing changes."
+        }
+    ]
+}

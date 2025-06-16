@@ -1,0 +1,215 @@
+{
+    "chapter_name": "Oncology",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A healthy 48-year-old man presents 5 years after resection of a right calf synovial sarcoma. Surveillance imaging of the chest, abdomen, and pelvis shows a new 2-cm solitary right lower lobe lung mass. Percutaneous needle biopsy confirms metastatic sarcoma. He has no recurrence in the right calf. Pulmonary metastasectomy in this case",
+            "options": [
+                "A. is not recommended.",
+                "B. should include right lobectomy.",
+                "C. improves overall survival.",
+                "D. should be followed by whole lung irradiation.",
+                "E. should be preceded by radiofrequency ablation."
+            ],
+            "answer": "C",
+            "explanation": "- Extremity sarcomas can metastasize hematogenously to the lungs.\n- Pulmonary metastasectomy improves overall survival in sarcoma patients with isolated pulmonary metastases.\n- More recent studies demonstrate a 30 to 50% 5-year overall survival after pulmonary metastasectomy.\n- Patients with a longer disease-free interval and complete resection have improved outcomes.\n- Complete resection implies removal of all disease with negative margins but does not mandate an anatomic resection (i.e., segmentectomy or lobectomy).\n- Wedge resection is the most commonly used approach.\n- Whole-lung irradiation is not recommended for sarcomas, with the exception of Ewing sarcoma.\n- Radiofrequency ablation has been used in place of surgery for pulmonary metastases, with one small retrospective study showing a 3-year survival rate of 65.2% and a median disease-free survival of 7 months.\n- However, it is not routinely delivered before surgical resection."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "A 50-year-old man undergoes excisional biopsy of a mole overlying the lateral aspect of his left scapula. Other than the mole, his physical examination is normal. Pathology demonstrates a 2.5-mm thick melanoma. Initial surgical management includes",
+            "options": [
+                "A. 0.5-cm margins with sentinel lymph node dissection.",
+                "B. 1.0-cm margins with sentinel lymph node dissection.",
+                "C. 2.0-cm margins with sentinel lymph node dissection.",
+                "D. 2.5-cm margins with elective lymph node dissection.",
+                "E. 5.0-cm margins with elective lymph node dissection."
+            ],
+            "answer": "C",
+            "explanation": "- Surgical excision is the mainstay of therapy for cutaneous melanoma.\n- With respect to diagnosis, excisional biopsy is preferred, and incisional biopsy should be avoided if possible.\n- Definitive surgical excision should be performed with appropriate margins within 4 to 6 weeks of diagnosis.\n- Narrow excision margins are appropriate based on Breslow tumor thickness.\n- For in situ tumors, the recommended excision margin is 0.5 cm.\n- For tumors 2 mm or less in thickness, the recommended margin is 1 cm.\n- For tumors larger than 2 mm in thickness, the recommended margin is 2 cm.\n- Sentinel lymph node dissection allows for evaluation of the first draining lymph node in the regional lymphatic system and is a staging procedure used when palpation and diagnostic imaging (typically, ultrasound) do not suggest lymph node metastases.\n- For patients with tumors less than 1 mm in thickness, sentinel lymph node dissection is not recommended because the positivity rate for these thin tumors is extremely low.\n- Sentinel lymph node dissection is required for thickness between 1 and 2 mm.\n- In patients who have negative sentinel lymph nodes, no further lymph node surgery is indicated.\n- For patients with micrometastases in the sentinel lymph nodes, no clear survival benefit for complete lymph node dissection currently exists, and this fact should be critically discussed with patients.\n- Potential benefits of complete lymph node dissection should be discussed when larger tumor deposits (>1 mm) are Identified in the sentinel lymph node.\n- There is no therapeutic advantage for elective lymph node dissection in patients who have clinically negative lymph nodes.\n- However, if lymph node metastases are identified by physical examination or diagnostic imaging, radical lymph node dissection is standard therapy."
+        },
+        {
+            "id": 3,
+            "question_type": "emq",
+            "question": "Breast cancer",
+            "options": [
+                "A. Dabrafenib",
+                "B. Trastuzumab",
+                "C. Erlotinib",
+                "D. Imatinib",
+                "E. Cetuximab"
+            ],
+            "answer": "B",
+            "explanation": "- Trastuzumab is a targeted agent used for Her-2 positive tumors.\n- It is indicated for the treatment of breast cancer as adjuvant therapy or for metastatic disease that shows Her-2 overexpression."
+        },
+        {
+            "id": 4,
+            "question_type": "emq",
+            "question": "Colon cancer",
+            "options": [
+                "A. Dabrafenib",
+                "B. Trastuzumab",
+                "C. Erlotinib",
+                "D. Imatinib",
+                "E. Cetuximab"
+            ],
+            "answer": "E",
+            "explanation": "- Cetuximab is approved for EGFR-expressing metastatic colorectal cancer.\n- If the tumor is KRAS positive, there is no benefit for cetuximab.\n- Cetuximab is also approved for squamous cell head and neck cancers (locally advanced and metastatic)."
+        },
+        {
+            "id": 5,
+            "question_type": "emq",
+            "question": "Gastric cancer",
+            "options": [
+                "A. Dabrafenib",
+                "B. Trastuzumab",
+                "C. Erlotinib",
+                "D. Imatinib",
+                "E. Cetuximab"
+            ],
+            "answer": "B",
+            "explanation": "- Trastuzumab has also been approved by the US Food and Drug Administration for Her-2 overexpressing metastatic esophagogastric or gastric adenocarcinoma."
+        },
+        {
+            "id": 6,
+            "question_type": "emq",
+            "question": "Gastrointestinal stromal tumor",
+            "options": [
+                "A. Dabrafenib",
+                "B. Trastuzumab",
+                "C. Erlotinib",
+                "D. Imatinib",
+                "E. Cetuximab"
+            ],
+            "answer": "D",
+            "explanation": "- Imatinib is an oral tyrosine kinase inhibitor approved for treatment of C-Kit (or CD-117) positive gastrointestinal stromal tumors, ALL, CML, some leukemias, and other rare tumors."
+        },
+        {
+            "id": 7,
+            "question_type": "emq",
+            "question": "Melanoma",
+            "options": [
+                "A. Dabrafenib",
+                "B. Trastuzumab",
+                "C. Erlotinib",
+                "D. Imatinib",
+                "E. Cetuximab"
+            ],
+            "answer": "A",
+            "explanation": "- Dabrafenib is an oral kinase inhibitor indicated for treatment of unresectable or metastatic melanoma that harbors BRAF V600E mutations.\n- It was approved in June 2017 for metastatic non-small-cell lung cancer that also harbors BRAF mutations, which is 1 to 3% of all lung cancers."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "A 50-year-old woman present to the surgical clinic with a large retroperitoneal fatty tumor identified on CT scan and confirmed on MRI. Resection of a 10 x 10 x 6-cm fatty tumor is performed, and pathology confirms a well-differentiated liposarcoma. Which of the following statements regarding this patient's case is true?",
+            "options": [
+                "A. Recurrence is most likely to be local.",
+                "B. Metastatic lesions are common.",
+                "C. Risk of death is higher than for dedifferentiated liposarcomas.",
+                "D. Debulking of recurrent or primary tumors improves survival.",
+                "E. Paraneoplastic hypoglycemia is a common associated finding."
+            ],
+            "answer": "A",
+            "explanation": "- Retroperitoneal soft tissue sarcomas are uncommon neoplasms.\n- Due to their location, they typically present as locally advanced tumors when discovered.\n- Only 10 to 20% of dedifferentiated tumors present with distant metastases, despite the locally advanced nature of most of these cases.\n- Liposarcomas are the most common histologies of all tumors.\n- There is significant variability in outcomes depending on whether the tumor is high or low grade.\n- A well-differentiated tumor has a significantly higher survival rate than a poorly differentiated or dedifferentiated tumor.\n- The management of retroperitoneal soft tissue sarcomas is primarily surgical with complete resection to macroscopically negative margins, when possible.\n- Debulking of primary or recurrent tumors fails to improve overall survival; thus, subtotal resection should be limited to relieving intestinal obstruction when deemed appropriate.\n- Paraneoplastic hypoglycemia is rare but may be associated with leiomyosarcomas or fibrosarcomas."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "A 65-year-old man develops weight loss and abdominal pain. CT scan of the abdomen and pelvis shows a large right colon mass. Colonoscopy is otherwise normal and colonoscopic biopsies of the mass reveal large B-cell lymphoma. PET scan reveals no other sites of disease. What is the most appropriate treatment?",
+            "options": [
+                "A. Observation",
+                "B. Chemotherapy",
+                "C. Chemoradiation",
+                "D. Right hemicolectomy",
+                "E. Right hemicolectomy followed by chemotherapy"
+            ],
+            "answer": "E",
+            "explanation": "- Colonic lymphomas are uncommon, representing less than 1% of primary colonic malignancies.\n- Large B-cell lymphoma is the most common histologic subtype.\n- Colonic lymphomas are slightly more common in men (1.5:1) and typically present in the fifth to seventh decades of life.\n- Risk factors include chronic immunosuppression and inflammatory bowel disease.\n- Common symptoms include abdominal pain and weight loss.\n- Hematochezia is also present in 20% of patients, but perforation is uncommon.\n- Thinner patients will often have a palpable mass on abdominal exam.\n- These cancers are typically right sided, with more than 70% of colonic lymphomas being proximal to the hepatic flexure.\n- The diagnosis of colonic lymphoma is obtained via colonoscopic biopsy.\n- Staging CT scan and PET scan are indicated to exclude extracolonic disease.\n- In the absence of metastasis, the initial treatment for colonic lymphoma is surgical resection.\n- Adjuvant chemotherapy with cyclophosphamide, doxorubicin, vincristine, and prednisone improves long-term survival over surgery alone.\n- Unfortunately, recurrence rates are very high (33-75%), and patients tend to re-present with diffusely metastatic disease.\n- The median overall survival for patients who receive surgery and chemotherapy is 36 to 53 months.\n- Observation is not appropriate for patients who are fit for surgery with disease localized to the colon.\n- Chemotherapy alone is less effective than resection followed by chemotherapy.\n- Chemotherapy alone is typically used only in the presence of metastatic disease.\n- Chemoradiotherapy is used for primary lymphoma in other sites and the addition of radiation can improve local control.\n- However, external-beam radiation to the right lower quadrant of the abdomen can be morbid and is not typically used for colonic lymphomas."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "A 35-year-old woman presents with a firm, nontender lump over her right bicep, noted to have slowly grown over past 2 years. MRI shows a 6-cm well-circumscribed mass in the bicep muscle, adjacent to the fascia, which is close to, but does not involve, the neurovascular bundle. Core needle biopsy is diagnostic for myxofibrosarcoma. What is the appropriate surgical approach?",
+            "options": [
+                "A. Resect the mass with a 2-cm margin, including the fascia",
+                "B. Resect the entire bicep muscle, including the fascia",
+                "C. Resect the bicep muscle with associated neurovascular bundle",
+                "D. Resect the mass with 1-cm margin and sentinel node biopsy",
+                "E. Preoperative radiation followed by resection with 1-cm margins"
+            ],
+            "answer": "A",
+            "explanation": "- Soft tissue sarcomas are a rare group of malignancies that include almost 100 different subgroups.\n- Extremity soft tissue sarcomas account for 40% of all soft tissue sarcomas, with the remainder in the retroperitoneum and abdomen.\n- Due to concerns for high local and regional recurrence rates, amputation of the limb was often recommended, but limb-sparing wide local excision in combination with multimodal therapy provides similar overall and disease-specific survival compared with amputation.\n- Each of the numerous histologic subtypes of soft tissue sarcomas has varying biologic activity.\n- Many soft tissue sarcomas have characteristic imaging findings and can be diagnosed on cross-sectional imaging.\n- If the diagnosis is not definitive with imaging, core needle or incisional biopsy can provide the histologic diagnosis.\n- Two specific subtypes are important when discussing extremity soft tissue sarcomas.\n- Both myxofibrosarcoma and dermatofibrosarcoma protuberans have an infiltrative growth pattern with a higher rate of local recurrence.\n- The recommended surgical margin for both of these subtypes is 2 cm instead of the standard 1 cm.\n- The remainder of the surgical principles remain similar.\n- Several surgical principles guide the operative management of extremity soft tissue sarcomas.\n- Any core needle or incisional biopsy scars should be included in the planned excision to reduce the risk of local recurrence.\n- Most soft tissue sarcomas tumors do not require the entire muscle body to be resected; a 1-cm margin is sufficient for noninfiltrating subtypes.\n- If a neurovascular bundle is within the planned margin, the vessels and nerve should be skeletonized but left intact.\n- If the mass encases the neurovascular bundle, the tumor can be bivalved in an attempt to preserve these structures.\n- Neoadjuvant radiation therapy reduces the local recurrence rate for patients with high-grade soft tissue sarcomas; however, no survival benefit is noted.\n- This patient is a candidate for neoadjuvant radiation, but the surgical resection margins should not be reduced to 1 cm.\n- Because sarcomas have a hematogenous route of metastases, sentinel node biopsy is not appropriate in the surgical management of these patients."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "The genetic defect in patients with a Lynch-syndrome associated colon cancer results in",
+            "options": [
+                "A. chromosome deletion.",
+                "B. microsatellite instability.",
+                "C. constitutively active K-ras.",
+                "D. mitochondrial DNA mutation.",
+                "E. disruption of binding in beta-catenin."
+            ],
+            "answer": "B",
+            "explanation": "- Lynch syndrome is the most common cause of hereditary colorectal cancer and accounts for 2 to 4% of cases.\n- It has an autosomal-dominant inheritance pattern and is caused by a germline mutation in one of the mismatch repair (MMR) genes; the most commonly affected genes are MLH1, MSH2, MSH6, and PMS2.\n- Their tumors are characterized by microsatellite instability, which can be demonstrated with polymerase-chain-reaction testing of the tumor specimens.\n- Microsatellites are short segments of repeated DNA and are prone to increased or decreased numbers during DNA replication, the repair of which depends on MMR protein complexes.\n- The underlying etiology of Lynch syndrome is not associated with a chromosome deletion, constitutively active K-ras, mitochondrial DNA mutation, or disruption of beta-catenin function."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "Regarding anorectal infections in neutropenic patients,",
+            "options": [
+                "A. the most common symptom is perianal drainage.",
+                "B. ultrasound is the preferred imaging modality.",
+                "C. antibiotic therapy should be reserved for progression after initial treatment,",
+                "D. cultures most often show mixed infection",
+                "E. early surgical drainage is essential."
+            ],
+            "answer": "D",
+            "explanation": "- Anorectal infections in healthy patients are most often treated with early drainage, often without antibiotics.\n- Outcomes are generally good.\n- By contrast, the management of such infections in neutropenic patients (e.g., patients undergoing chemotherapy and bone marrow transplantation) is complex and potentially associated with mortality.\n- Treating physicians must consider factors such as chemotherapy toxicity, degree of neutropenia, immunosuppression, thrombocytopenia, and corticosteroid use.\n- Mortality rates have dropped in recent years due to the use of multidisciplinary teams that understand the disease and monitor the associated neutropenia.\n- Because of the neutropenia, pus is actually a later sign, often seen only as the neutropenia begins to resolve.\n- Accordingly, in a study of 100 patients with neutropenia-associated anorectal infection, the most common symptom (90%) was pain, often occurring 2 to 3 days earlier than other more typical symptoms such as swelling (30%) and drainage (25%).\n- Because of this early absence of the typical findings of an abscess, MRI is preferred over ultrasound or CT scan for imaging.\n- MRI is better at showing edema and fistulous tracts.\n- Early antibiotic therapy is the standard of care.\n- Because most infections in these patients are mixed, initial antibiotic regimens should be broad spectrum and cover Gram-positive, Gramnegative, anaerobic, and fungal organisms.\n- Surgical drainage is reserved for later in the patient's course when neutropenia resolves and abscesses or fluid collection develop.\n- Surgical incisions at this time are usually smaller and localized.\n- Earlier surgical exploration was often associated with larger incisions, creating wound management problems.\n- With this multidisciplinary and reverse sequence approach to anorectal sepsis in neutropenic patients, mortality rates have fallen dramatically, although deaths still occur, especially in patients in whom the neutropenia does not resolve."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "The risk of upper extremity lymphedema after axillary node removal for cancer is increased most by",
+            "options": [
+                "A. axillary reverse lymphatic mapping.",
+                "B. weight gain.",
+                "C. blood pressure measurements in the involved arm.",
+                "D. air travel.",
+                "E. exposure to extreme temperatures."
+            ],
+            "answer": "B",
+            "explanation": "- Lymphedema affects 1 in 6 patients who undergo therapy for solid tumors in the United States.\n- Patients who still require removal of groin or axillary nodes for cancer are particularly at risk of lymphedema.\n- Current data suggest better outcomes if lymphedema is recognized and treated early.\n- Accordingly, it is important to know which factors increase or decrease lymphedema risk.\n- Meta-analyses show that the extent of node removal, radiation, and high BMI are the factors most associated with increased lymphedema risk.\n- Weight gain after operation increases the risk 3- to 5-fold.\n- Weight loss is a highly effective method of treating lymphedema, and patients who undergo groin and axillary node removal should be counseled to maintain a healthy weight.\n- Lymphedema is not related to air travel, blood pressure measurements, exercise, or extremes of temperature.\n- Therefore, cautioning patients to avoid these things, as is still commonly done, is being re-evaluated.\n- The one precaution that may have some merit is the avoidance of needle sticks; data on skin puncture as a lymphedema risk are particularly conflicting, likely because a minority of sticks lead to infections, and infections and cellulitis are definite risk factors.\n- Reverse lymphatic mapping is a surgical technique in which the extremity is injected preoperatively with radioactive or colored dyes to allow the surgeon to intraoperatively identify and leave nodes that drain the extremity.\n- Several retrospective and prospective studies showed a decrease in lymphedema rates with these procedures."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "A 40-year-old woman presents with an enlarging, painful mass in the lateral aspect of her right thigh. Physical exam reveals a 5- x 5-cm firm well-circumscribed, immobile mass. Imaging reveals the mass to be contained in the lateral compartment. What is the best approach to obtain a pathologic diagnosis?",
+            "options": [
+                "A. Excision of the lateral compartment",
+                "B. Excisional biopsy",
+                "C. Surgical resection of the mass with 1-cm margins",
+                "D. Fine needle aspiration",
+                "E. Core needle biopsy"
+            ],
+            "answer": "E",
+            "explanation": "- Pathologic diagnosis of a suspected extremity sarcoma is best accomplished by core needle biopsy.\n- Preoperative documentation of malignancy helps plan definitive surgical resection and is useful for patients who may be candidates for neoadjuvant radiation therapy.\n- Fine needle aspiration does not produce enough tissue to satisfactorily diagnose and subtype most sarcomas.\n- Incisional biopsy may be used when core needle biopsy fails to establish a diagnosis.\n- It is important to plan any incision in line with the final planned incision (axial orientation on the extremity).\n- Excisional biopsy is not recommended, because the diagnosis can typically be made with a simpler core needle biopsy, and excisional biopsy increases the risk of bleeding, infection, and contamination of surgical planes.\n- Excision of the entire lateral compartment is more extensive surgery than recommended for this mass.\n- Sarcomas are commonly resected with 2-cm gross surgical margins, including investing fascia."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "A 45-year-old woman undergoes breast conservation surgery and sentinel lymph node biopsy for a 1.2-cm invasive ductal carcinoma of her right breast. Lumpectomy margins are clear, and only 1 of 4 sentinel lymph nodes is positive for metastatic disease. The Elston/Nottingham score is 8. The tumor is strongly ER/PR positive and Her2/neu negative. What biomarker would provide information that would mitigate her need for adjuvant chemotherapy?",
+            "options": [
+                "A. A p53",
+                "B. 21-gene expression profile (Oncotype DX®)",
+                "C. Ki-67",
+                "D. D. BRCA1/BRCA2",
+                "E. PD-L1"
+            ],
+            "answer": "B",
+            "explanation": "- Historically, the recommendation for adjuvant chemotherapy in patients with breast cancer was made based on clinicopathologic features, including patient age, tumor size, nodal status, and grade.\n- Over the last 20 years, the importance of the biologic features of the tumor, specifically the presence or absence of the estrogen receptor (ER), progesterone receptor (PR), and Her2/neu receptor (HER2), have become increasingly clear.\n- The ER/PR/HER2 receptor status is now a major determinant of the need for adjuvant chemotherapy.\n- Antiestrogen therapy, by blocking estrogen receptors on tumor cells and thus preventing signaling stimulating proliferation or by suppressing the production of native estrogen, is very effective in limiting tumor growth, improving survival, and decreasing recurrence in ER positive breast cancer.\n- Similarly, anti-HER2 therapies (e.g., trastuzumab, pertuzumab) are routinely used for tumors that overexpress HER2.\n- These therapies have led to dramatic improvements in survival for patients with HER2+ breast cancer.\n- The interest in immune- and targeted-therapy has encouraged the search for additional biomarkers that might lead to the development of additional therapeutic options.\n- Oncotype DX® is a tissue-based analysis of 21-genes developed and validated to predict 10-year risk of distant recurrence in women with node negative, ER+/ HER2-breast cancer.\n- Reverse transcriptase-polymerase chain reaction (RT-PCR) is used to quantitate RNA found in formalin-fixed paraffin blocks, obviating the need for fresh or fresh-frozen tissue and thus expanding its utility.\n- From a pool of 250 candidate genes identified in the medical literature, 16 genes were selected based on their ability to predict clinical outcome among patients treated in the NSABP B14 and B20 trials.\n- Five genes were associated with proliferation/antiapoptosis: 4 representing the hormonal signaling pathway; 2 associated with tumor invasion; 2 linked to HER2; and 1 each related to detoxification, macrophage function, and apoptosis.\n- The quantitative analysis of RNA was then normalized to the expression of 5 reference genes, allowing the development of a formula that generates a recurrence score of 0 to 100.\n- The 21-gene recurrence score provides a point estimate for the 10-year risk of distant disease recurrence with a 95% confidence interval, assuming that the patient completes 5 years of adjuvant hormonal therapy.\n- Based on the analysis of patients treated in NSABP B20, a trial of endocrine therapy alone versus endocrine therapy plus chemotherapy in early-stage breast cancer, patients with a low recurrence score (<18) do not benefit from adjuvant chemotherapy.\n- Patients with a high recurrence score (>31) achieve a significant benefit from adjuvant chemotherapy.\n- The benefit of chemotherapy in patients with intermediate recurrence score (18-30) remains controversial and may depend on the age or menopausal status of the patient.\n- A recent large prospective clinical trial confirmed that recurrence scores of 10 or less in node-negative patients are associated with a 5-year disease-free survival of more than 98% with endocrine therapy alone.\n- The data are reported as shown in figure 15.1.\n- In the NSABP B-20 study, relatively few patients had a Recurrence Score result > 50.\n- The chemotherapy benefit for these patients is expected to be at least as great as it is for those with Recurrence Score results = 50.\n- Two important observations emerged from the available data: (1) the use of the 21-gene recurrence score avoids adjuvant chemotherapy in a group of patients unlikely to derive benefit, and (2) the assay identifies patients likely to gain benefit from adjuvant therapy who might otherwise not be offered it based on traditional clinicopathologic features.\n- The 21-gene recurrence score has also been incorporated into the 8th edition of the American Joint Committee on Cancer staging system such that any patient with an ER+/HER2-/node-negative breast cancer with a recurrence score of less than 11 is staged as prognostic stage IA breast cancer, regardless of tumor size.\n- Other gene expression assays are available (e.g., Mammaprint®, genomic grade index, and EndoPredict®), but only the Oncotype DX® is validated as a tool to predict the benefit of adjuvant chemotherapy.\n- A prospective study, POsitive Node, Endocrine Responsive Breast Cancer (PONDERx) trial, by the Southwestern Oncology Group is an ongoing evaluation of the 21-gene analysis in HR+/HER2-/ node-positive (1-3) women with a recurrence score of 25 or less.\n- Results are anticipated in 2022.\n- p53 is a tumor suppressor protein encoded by the TP53 gene.\n- Mutations are found in many tumors, including breast cancer, that render the p53 protein ineffective.\n- Current data are lacking to determine whether p53 alone is sufficient to use in clinical decision-making regarding prognosis.\n- No clinical evidence exists regarding this marker's ability to predict benefit from adjuvant therapy.\n- As such, it is not included in any of the guidelines for the management of breast cancer.\n- Ki-67 is a protein expressed on cell membranes during the S-phase (proliferative) of the cell cycle.\n- The level of evidence for the use of this marker for prognosis is mostly level II.\n- Ki-67 levels are highest in triple-receptor negative breast cancers.\n- Lack of standardization for laboratory identification and the high false-negative and false-positive rates, approximately 25% each, render it unsuitable as an independent marker for prognosis.\n- Like other markers, data are lacking for its utility in predicting response to chemotherapy.\n- Its use is not included in the American Society of Clinical Oncology guidelines.\n- BRCA1/BRCA2 genes have great utility in predicting a woman's life-time risk of developing breast or ovarian cancer and might serve to influence the decision regarding preventive interventions, the decision for prophylactic surgery, or the extent of therapeutic surgical intervention.\n- Obviously, the determination of BRCA gene mutation status is important information for family members who may also be at risk and are considering genetic testing.\n- BRCA gene mutations do not provide useful information for decision-making regarding adjuvant chemotherapy.\n- PD-L1 (programmed death ligand 1) is a receptor that has generated significant interest recently.\n- It is commonly in the medical community but also among lay persons due to the commercialization of targeted therapy touted in the media.\n- PD-L1 is present in many tissues.\n- When present on tumor cells, it binds to the PD-1 receptor on T-cells, inhibiting T-cell destruction of the tumor tissue.\n- It is most commonly expressed in triple-negative breast cancers, but only 20% of the time.\n- PD-L1 identification has not been used as a prognostic marker for breast cancer or as an indicator of the benefit of chemotherapy."
+        }
+    ]
+}

@@ -1,0 +1,355 @@
+{
+    "chapter_name": "Abdomen Part IV",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A 50-year-old woman presents with chronic constipation. On exam, fullness is appreciated in the left abdomen. A CT scan of her abdomen/pelvis shows a 25 x 15-cm lipomatous mass in the left retroperitoneum, with focal areas of increased density in the tumor mass, most consistent with liposarcoma. Surgical resection with",
+            "options": [
+                "A. grossly negative margins improve overall survival",
+                "B. adjuvant chemotherapy reduces local recurrence.",
+                "C. adjuvant radiation therapy improves overall survival.",
+                "D. next-generation tumor DNA sequencing helps guide adjuvant treatment.",
+                "E. adjuvant imatinib reduces local recurrence."
+            ],
+            "answer": "A",
+            "explanation": "- Surgical resection is the primary treatment for retroperitoneal liposarcoma.\n- Grossly negative margins are more often reported in retroperitoneal sarcoma studies.\n- Patients with grossly negative margins have a median survival of 103 months compared with 18 months for incomplete resections.\n- Adjuvant chemotherapy is not recommended for resected retroperitoneal liposarcoma.\n- Adjuvant radiation reduces local recurrence in retrospective studies but does not improve overall survival.\n- Routine next-generation tumor DNA sequencing has not shown utility in guiding adjuvant treatment for liposarcoma.\n- Imatinib is used in gastrointestinal stromal tumors, not liposarcoma."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "Which of the following statements is true regarding watchful waiting of a minimally^ symptomatic inguinal hernia in adults?",
+            "options": [
+                "A. Repair will be needed in 50% at 10 years.",
+                "B. Is not appropriate for a female patient.",
+                "C. Quality-of-life scores are better at 2 years compared with repair.",
+                "D. Incarceration requiring urgent repair is 10%.",
+                "E. Operative repair is rarely required in men older than 65."
+            ],
+            "answer": "B",
+            "explanation": "- Watchful waiting is a reasonable approach initially, but most men will need eventual repair of inguinal hernias.\n- Crossover to repair was 72% at 75 years (UK trial) and 64% at 10 years (US trial), so A is false.\n- The rate of acute incarceration requiring urgent repair during watchful waiting was low (2.4% in US trial and 2.5% in UK trial), so D is false.\n- Older men crossed over to the surgery group at a significantly higher rate than younger men, so E is false.\n- Quality-of-life scores were slightly better in the immediate repair group in the later part of the study, so C is false.\n- Groin hernia repair in women was not addressed in any randomized controlled trials or systemic reviews.\n- Urgent repair of groin hernias is required in 17% of women with groin hernias versus 5% of men.\n- Women are thought to be at higher risk of incarceration and strangulation.\n- Repair without watchful waiting is recommended in nonpregnant women."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "Which of the following statements is true regarding laparoscopic ventral hernia repairs (LVHR)?",
+            "options": [
+                "A. LVHR has a lower recurrence rate compared with open ventral hernia repairs.",
+                "B. A Veress needle has a higher complication rate compared with open Hasson technique during primary port placement.",
+                "C. Concomitant implantation of a permanent synthetic mesh must be avoided after inadvertent enterotomy.",
+                "D. A mesh overlap of 2 cm at hernia edges reduces recurrence.",
+                "E. LVHR leads to fewer surgical site infections compared with open repair."
+            ],
+            "answer": "E",
+            "explanation": "- Four meta-analyses reported no differences in recurrence rates between LVHR and open ventral hernia repair, so A is false.\n- No difference was noted in major complication rates by technique of abdominal access (Veress needle, open Hasson technique, or direct trocar insertion), so B is false.\n- The 2016 SAGES guidelines state that strategies including concomitant use of prosthetic mesh after enterotomy may be safe and effective, so C is false.\n- The appropriate mesh overlap has not been determined; Italian guidelines recommend 3 cm, SAGES suggests 5 cm or more for larger defects, so D is false.\n- Three randomized controlled trials and 4 meta-analyses showed fewer surgical site infections with LVHR compared with open repair (relative risk of 0.26), so E is true."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding the use of anticoagulation therapy at the time of colonoscopy is true?",
+            "options": [
+                "A. The timing of discontinuing Vitamin K antagonists before an endoscopic procedure is dictated by the patient's creatinine clearance.",
+                "B. Screening colonoscopy should be deferred when a patient is receiving warfarin 12 months after a deep venous thrombosis.",
+                "C. Aspirin should be discontinued during the periendoscopic period.",
+                "D. Elective polypectomy should be deferred in a patient on dual antiplatelet therapy for a coronary stent placed 3 months ago.",
+                "E. Direct Factor Xa inhibitors can be safely continued during colonoscopy with planned polypectomy."
+            ],
+            "answer": "D",
+            "explanation": "- Dosing adjustments for warfarin are not usually required based on creatinine clearance, so A is false.\n- Anticoagulation initiated for a remote event (like DVT 12 months earlier) can often be discontinued, so B is false.\n- Aspirin or NSAIDs can be continued safely during colonoscopy with or without polypectomy; thienopyridines should be discontinued 5-7 days before high-risk procedures, so C is false.\n- In the first 6 months after coronary stent placement, the risk of lethal coronary thrombosis is high if dual antiplatelet therapy is discontinued, and high-risk procedures should be deferred, so D is true.\n- Direct Factor Xa inhibitors can be continued during low-risk endoscopic procedures, but renal clearance must be considered; polypectomy is generally a high-risk procedure, so E is false."
+        },
+        {
+            "id": 5,
+            "question_type": "emq",
+            "question": "Mean age at diagnosis of 20 to 30 years",
+            "options": [
+                "A. Mucinous cystic neoplasm",
+                "B. Main-duct intraductal papillary mucinous neoplasm",
+                "C. Serous cystadenoma",
+                "D. Pseudopapillary neoplasm",
+                "E. Cystic neuroendocrine tumor"
+            ],
+            "answer": "D",
+            "explanation": "- SPN (Pseudopapillary neoplasm) tumors occur most commonly in women, with a mean age at diagnosis between 20 and 30 years."
+        },
+        {
+            "id": 6,
+            "question_type": "emq",
+            "question": "Fish mouth ampulla",
+            "options": [
+                "A. Mucinous cystic neoplasm",
+                "B. Main-duct intraductal papillary mucinous neoplasm",
+                "C. Serous cystadenoma",
+                "D. Pseudopapillary neoplasm",
+                "E. Cystic neuroendocrine tumor"
+            ],
+            "answer": "B",
+            "explanation": "- IPMN (Intraductal papillary mucinous neoplasm) tumors manifest as a dilated main pancreatic duct full of mucin.\n- On endoscopic examination, this mucin will protrude through the ampulla giving a classic fish mouth appearance."
+        },
+        {
+            "id": 7,
+            "question_type": "emq",
+            "question": "Fine needle aspiration positive for chromogranin A",
+            "options": [
+                "A. Mucinous cystic neoplasm",
+                "B. Main-duct intraductal papillary mucinous neoplasm",
+                "C. Serous cystadenoma",
+                "D. Pseudopapillary neoplasm",
+                "E. Cystic neuroendocrine tumor"
+            ],
+            "answer": "E",
+            "explanation": "- Aspiration biopsy of cystic pancreatic neuroendocrine tumors will identify uniform cells that stain strongly for chromogranin A or synaptophysin."
+        },
+        {
+            "id": 8,
+            "question_type": "emq",
+            "question": "Fine needle aspiration positive for periodic acid-Schiff staining",
+            "options": [
+                "A. Mucinous cystic neoplasm",
+                "B. Main-duct intraductal papillary mucinous neoplasm",
+                "C. Serous cystadenoma",
+                "D. Pseudopapillary neoplasm",
+                "E. Cystic neuroendocrine tumor"
+            ],
+            "answer": "C",
+            "explanation": "- Aspiration biopsy of SCN (Serous cystadenoma) shows clear fluid without mucin and benign appearing epithelial cells that contain glycogen that is positive on a periodic acid-Schiff stain."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding the management of gallbladder cancers is true?",
+            "options": [
+                "A. Staging laparoscopy is recommended before laparotomy for a potentially curative resection of gallbladder cancer.",
+                "B. Lymphadenectomy for gallbladder cancer should include lymph nodes in the porta hepatis and interaortocaval groove.",
+                "C. Cholecystectomy, en bloc hepatic resection, and lymphadenectomy with or without bile duct excision is recommended for Tla gallbladder cancer.",
+                "D. A T1b lesion can be treated with liver resection alone.",
+                "E. In a patient with a Tlb tumor and positive cystic node, resection of the common bile duct is required."
+            ],
+            "answer": "A",
+            "explanation": "- Staging laparoscopy has a high yield for detection of occult metastatic disease and is recommended before laparotomy for a potentially curative resection of gallbladder cancer, so A is true.\n- Lymphadenectomy should include lymph nodes in the porta hepatis, gastrohepatic ligament, and retroduodenal regions; interaortocaval nodes are considered a distant metastatic site and indicate unresectable for cure, so B is false.\n- For patients with T1a lesion, observation is acceptable; for T1b or greater lesions, surgery (hepatic resection and lymphadenectomy) is recommended, so C is false.\n- For T1b or greater lesions, surgery includes hepatic resection and lymphadenectomy, not liver resection alone, so D is false.\n- Resection of the common bile duct is recommended if cancer cells are identified at the cystic margin; presence of a positive cystic duct node is not an indication for common bile duct resection, so E is false."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "A 79-year-old, morbidly obese woman presents to the emergency department with nausea, vomiting, and abdominal pain for the past 48 hours. She is tachycardic and hypertensive. Imaging demonstrates pneumobilia and multiple air-fluid levels suggestive of a small bowel obstruction. Surgical exploration during laparotomy demonstrates dense adhesions between the liver and duodenum, with the presence of a stone in the lumen of the terminal ileum. The overlying bowel at this transition point is dusky, with areas of patchy necrosis. What is the next step in the management of this disease process?",
+            "options": [
+                "A. Incision proximal to the site of obstruction with extraction of the stone and primary closure",
+                "B. Incision proximal to the site of obstruction with extraction of the stone, primary closure of enterotomy, and cholecystectomy",
+                "C. Milk stone into cecum",
+                "D. Ileocecal resection with primary anastomosis",
+                "E. Loop ileostomy"
+            ],
+            "answer": "D",
+            "explanation": "- This scenario describes gallstone ileus with bowel necrosis.\n- When bowel necrosis is present at the index operation, ileocecal resection is appropriate.\n- Creating an enterotomy and milking out the stone is reasonable if bowel compromise is not present, so A is false.\n- Cholecystectomy and takedown of the cholecystenteric fistula are controversial and should generally not be done at the index operation, so B is false.\n- Milking stones into the cecum should not be performed due to injury risk, so C is false.\n- A loop ileostomy alone does not address the primary pathology and bowel necrosis will persist, so E is false."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "A 29-year-old man undergoes an elective, totally extraperitoneal laparoscopic hernia repair for a right-sided indirect inguinal hernia. A polypropylene mesh is fixed in place using mesh tackers. The surgery is uneventful, and postoperative recovery is complicated only by right groin pain that gradually worsens over the next 2 weeks. At 3 months, the pain is persistent despite oral analgesics. The pain is exacerbated by physical activity and twisting of the trunk away from the site of surgery and is associated with a burning sensation. What is the next step in the work up of this patient's groin pain?",
+            "options": [
+                "A. MRI of the pelvis",
+                "B. Regional groin nerve block",
+                "C. Percutaneous nerve ablation",
+                "D. Diagnostic laparoscopy",
+                "E. Triple neurectomy with mesh removal"
+            ],
+            "answer": "A",
+            "explanation": "- Chronic groin pain after inguinal herniorrhaphy can result from neuropathic or nonneuropathic etiologies.\n- Nonneuropathic etiologies, such as hernia recurrence and meshomas, should be ruled out early.\n- An MRI of the pelvis will help identify nonneuropathic causes of his pain.\n- Regional nerve block may be diagnostic and therapeutic for neuropathic pain, but ruling out non-neuropathic causes is prudent first, so B is not the *next step*.\n- Percutaneous nerve ablation and triple neurectomy are treatments, not initial work-up steps, so C and E are false.\n- Diagnostic laparoscopy might be considered later if other means fail, but MRI is the initial step for non-neuropathic causes."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "The most precise single predictor of operative mortality at 30 days in patients with liver cirrhosis is the",
+            "options": [
+                "A. Acute Physiology and Chronic Health Evaluation IV (APACHE IV) score.",
+                "B. American Society of Anesthesiologists (ASA) score.",
+                "C. Child-Pugh class.",
+                "D. Frailty index.",
+                "E. Model of End-Stage Liver Disease (MELD) score."
+            ],
+            "answer": "E",
+            "explanation": "- The MELD score was validated as the best single predictor of perioperative mortality in cirrhotic patients.\n- APACHE IV helps predict hospital mortality and length of stay in critically ill patients, but not specifically operative mortality in cirrhosis, so A is false.\n- Frailty index assesses physiologic resilience, but no evidence suggests it's superior to MELD for predicting mortality in cirrhosis, so D is false.\n- ASA score assesses anesthetic risk and accurately predicts mortality within 7 days of major surgery in cirrhotic patients, but MELD is stated as the \"best single predictor\" for 30-day mortality, so B is false.\n- Child-Pugh class uses subjective and objective criteria to assess perioperative mortality in cirrhotic patients, but MELD addresses its drawbacks (no subjective criteria, weighted variables, no arbitrary cut-off values), making it more precise, so C is false."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "This lesion is most likely",
+            "options": [
+                "A. a cholesterol polyp.",
+                "B. an inflammatory polyp.",
+                "C. an adenoma.",
+                "D. an adenomyoma.",
+                "E. an adenocarcinoma."
+            ],
+            "answer": "A",
+            "explanation": "- Gallbladder polyps are common.\n- In a series of 172 patients with resected gallbladder polyps, the most common diagnosis was a cholesterol polyp (63%).\n- Other less common polyps include inflammatory polyps, adenomas, and adenomyomas."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "The most appropriate next step in management is",
+            "options": [
+                "A. repeat ultrasound in 6 months.",
+                "B. CT scan.",
+                "C. PET-CT scan.",
+                "D. laparoscopic cholecystectomy.",
+                "E. open cholecystectomy."
+            ],
+            "answer": "D",
+            "explanation": "- All gallbladder polyps require further evaluation due to malignancy risk.\n- This patient is 42 (younger), polyp is 8mm (<10mm), and symptomatic (pain after fatty meal).\n- Patients with symptoms consistent with biliary colic should have surgery.\n- Laparoscopic cholecystectomy is reasonable for polyps in the 10-mm range.\n- For smaller polyps (<10mm) in asymptomatic patients without other risk factors, serial ultrasound is an option, but this patient is symptomatic.\n- No additional imaging (CT, PET-CT) is needed for this low-risk lesion.\n- An open approach is not required due to the low risk of advanced malignancy."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "A 52-year-old woman experiences nausea and vomiting 5 days after a robotic anterior resection for a rectosigmoid cancer. She is afebrile with normal vital signs. Her abdomen is distended but not tender. Her white blood cell count is 10,000/mm3 (3600-11,200/mm3). A CT scan is shown in figures 15.1 and 15.2. In addition to a nasogastric tube, the most appropriate next step in her therapy is",
+            "options": [
+                "A. observation.",
+                "B. mu-receptor antagonist.",
+                "C. motility agents.",
+                "D. parenteral nutrition.",
+                "E. reoperation."
+            ],
+            "answer": "E",
+            "explanation": "- The CT scan (Figure 15.3, as referenced in the text) is consistent with a port site hernia containing obstructed small bowel.\n- Due to the risk of strangulation, surgery (reoperation) is indicated.\n- Observation is appropriate for ileus or early obstruction without evidence of a hernia, so A is false.\n- Mu-receptor antagonists (Alvimopan) and motility agents are for prolonged ileus or underlying motility problems, not acute obstruction with strangulation risk, so B and C are false.\n- Parenteral nutrition is indicated for prolonged ileus but not typically this early in the postoperative period, so D is false."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "A 52-year-old man has chronic hepatitis B without evidence of cirrhosis. What is the most appropriate way to screen for hepatocellular carcinoma?",
+            "options": [
+                "A. Liver function tests",
+                "B. Alfa-fetoprotein",
+                "C. Ultrasound",
+                "D. CT scan",
+                "E. MRI"
+            ],
+            "answer": "C",
+            "explanation": "- Current guidelines recommend screening for patients with chronic hepatitis B infection even without evidence of cirrhosis.\n- The modality of choice for screening is liver ultrasound, which is inexpensive, safe, and reasonably sensitive, and should be used every 6 months.\n- Alpha-fetoprotein is a tumor marker but is not always elevated in active disease and is not effective for screening, so B is false.\n- CT scan and MRI are used once a suspicious nodule is found, not for screening purposes, so D and E are false.\n- Liver function tests are not effective for HCC screening, so A is false."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "A 68-year-old man presents 6 weeks after an exploratory laparotomy for unresectable pancreatic cancer. His abdominal pain, which was present preoperatively, was initially reasonably well controlled with increasing doses of both immediate release and long-acting oral morphine. However, he is now requiring increasing doses of oral morphine (>400 mg/24 hours), with attendant worsening side effects of constipation and confusion, as well as increasing abdominal pain. What is the best way to manage his pain?",
+            "options": [
+                "A. Intrathecal placement of a programmable implantable drug delivery system",
+                "B. Intravenous opioids via patient-controlled analgesia",
+                "C. Transdermal fentanyl",
+                "D. Methylnaltrexone",
+                "E. Image-guided celiac plexus block"
+            ],
+            "answer": "E",
+            "explanation": "- When escalating doses of opioids are required or side effects affect quality of life, alternative pain management regimens are indicated.\n- Pain in pancreatic cancer is thought to be transmitted through the celiac plexus.\n- Image-guided celiac plexus block is safe and tremendously effective, offering significant advantages over conventional opioid therapy for up to 6 months, so E is the best option.\n- Implantable programmable intrathecal drug delivery devices are very effective but extremely expensive, so A is less ideal as a first step.\n- Patient-controlled analgesia with opioids would not eliminate side effects and is costly, so B is false.\n- Transdermal fentanyl carries risks of opioid-associated side effects and cost, so C is less ideal.\n- Methylnaltrexone helps constipation but not worsening pain, so D is false."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "A 65-year-old woman undergoes a laparoscopic cholecystectomy for cholecystitis. Her final pathology shows an adenocarcinoma invasive into the subserosal soft tissue, less than 1 mm from the cauterized margin. A CT scan shows no residual or metastatic disease. The appropriate next step is",
+            "options": [
+                "A. port-site excision.",
+                "B. chemoradiation.",
+                "C. resection of liver segments IVb/V with portal lymphadenectomy.",
+                "D. common bile duct resection with portal lymphadenectomy.",
+                "E. observation."
+            ],
+            "answer": "C",
+            "explanation": "- Adenocarcinoma that invades the subserosa is a T2 tumor.\n- T2 tumors require reoperation to resect the liver segments IVb/V and clear locoregional lymph nodes.\n- The peritoneal cavity should be evaluated for metastatic disease before resection.\n- Regional lymphadenectomy includes nodes along the cystic duct, common bile duct, hepatic artery, and portal vein.\n- Prophylactic port site excision offers no benefit for survival or recurrence, so A is false.\n- Simple cholecystectomy followed by adjuvant chemotherapy results in inferior survival, so B is false.\n- A positive cystic duct margin is an indication for common bile duct resection, but otherwise routine common bile duct resection does not improve outcomes, so D is false.\n- Observation would risk leaving disease behind due to the high incidence of lymph node involvement in T2 cancer and the close surgical margin, so E is false."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "A 65-year-old Child Class A cirrhotic with known hepatocellular carcinoma presents with abdominal pain, a heart rate of 110 beats per minute, and a systolic blood pressure of 90 mm Hg. A CT scan shows tumor rupture and hemoperitoneum. Which of the following statements is true?",
+            "options": [
+                "A. It is not amenable to curative resection.",
+                "B. Urgent hepatic resection improves overall survival.",
+                "C. Child Class A and B patients have equivalent overall survival.",
+                "D. Tumor rupture with hemoperitoneum does not affect long-term survival",
+                "E. Urgent resection of the lesion has 30-day mortality equivalent to transarterial embolization."
+            ],
+            "answer": "D",
+            "explanation": "- Rupture of hepatocellular carcinoma leads to hemoperitoneum but does not necessarily worsen long-term survival.\n- Long-term survival is still based on the stage of the tumor at the time of rupture, so D is true.\n- The rupture does not necessarily mean advanced disease making it unamenable to resection, so A is false.\n- Urgent surgical resection to control bleeding has high 30-day mortality and does not improve overall survival from the tumor, so B is false.\n- Patients with Class B cirrhosis have a worse prognosis than those with Class A cirrhosis, so C is false.\n- The best immediate therapy is transarterial embolization (TAE) to control hemorrhage, and TAE has a lower mortality than urgent resection, so E is false."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "A 51-year-old man presents with severe, boring, epigastric pain and nausea. His bilirubin is 1.2 mg/dL (0-0.3 mg/dL), his amylase is 500 U/L (23-85 U/L), and his lipase is 750 U/L (10-140 U/L). He does not drink alcohol. His right upper quadrant ultrasound is seen in figure 20.1. His symptoms resolve after 2 days of bowel rest. He tells you that this is his second episode of this event and asks if there are any surgical options. What is the next best step in management?",
+            "options": [
+                "A. Magnetic resonance cholangiopancreatography",
+                "B. Observation",
+                "C. Cholecystectomy before discharge",
+                "D. Cholecystectomy 6 weeks later",
+                "E. Endoscopic retrograde cholangiopancreatography"
+            ],
+            "answer": "C",
+            "explanation": "- The patient has recurrent pancreatitis, likely due to microlithiasis.\n- For patients with recurrent episodes of pancreatitis who are good operative candidates, cholecystectomy before discharge from the hospital is the best option.\n- Observation leads to a 3-fold incidence of recurrent pancreatitis, so B is false.\n- For mild to moderate pancreatitis, early intervention (cholecystectomy) is beneficial, so D is less ideal.\n- MRCP/ERCP/EGD with ultrasound might confirm microlithiasis or other etiologies but are unlikely to cause pancreatitis and are not the \"next best step\" for management after diagnosis of recurrent pancreatitis likely due to microlithiasis, so A and E are false."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "The recommended treatment for a 5-cm gastrointestinal stromal tumor on the greater curvature of the stomach is",
+            "options": [
+                "A. serial endoscopic surveillance.",
+                "B. endoscopic submucosal resection.",
+                "C. wedge resection.",
+                "D. wedge resection with regional lymphadenectomy.",
+                "E. total gastrectomy."
+            ],
+            "answer": "C",
+            "explanation": "- Surgical resection to grossly and histologically negative margins (R0 resection) is the standard of care for GISTs.\n- Wedge resection to negative margins is sufficient.\n- Complete organ resection (total gastrectomy) is not indicated as GISTs typically do not have extensive intramural spread, so E is false.\n- Serial endoscopic surveillance is not appropriate therapy for GISTs, so A is false.\n- Less invasive techniques (endoscopic submucosal resection) are feasible only for tumors smaller than 5 cm and are associated with higher rates of microscopically positive margins (R1 resection); this tumor is 5cm, making B less appropriate.\n- Regional lymphadenectomy is not indicated as nodal metastasis is very low, so D is false."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "A 62-year-old man who abuses alcohol presents with tense ascites and a large umbilical hernia. The ascites has persisted despite maximal medical therapy and repeated paracentesis. The next step should be",
+            "options": [
+                "A. continued observation.",
+                "B. urgent umbilical hernia repair.",
+                "C. transjugular intrahepatic portocaval shunt (TIPS).",
+                "D. distal splenorenal shunt",
+                "E. liver transplant."
+            ],
+            "answer": "C",
+            "explanation": "- Herniorrhaphy is considered the standard of care for umbilical hernias in cirrhotic patients with ascites due to risks of incarceration, strangulation, rupture, and infection.\n- Optimal timing depends on aggressive control of ascites before elective intervention.\n- Medical correction of ascites is first-line therapy.\n- In patients with ascites refractory to medical measures, TIPS improves intermediate and long-term survival compared with repeated paracentesis.\n- TIPS followed by semielective repair appears associated with improved outcomes for umbilical hernias and ascites.\n- Urgent hernia repair is not indicated here, so B is false.\n- Distal splenorenal shunt tends to aggravate ascites, so D is false.\n- Liver transplantation is not indicated for ascites alone, so E is false.\n- Continued observation is not appropriate given refractory ascites, so A is false."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "A 70-year-old man presents after a fall. He undergoes CT scan (figure 23.1), which demonstrates a 2-cm cystic lesion without mural nodularity in the pancreas. He denies any prior symptoms. He has no history of weight loss or prior surgery. The next step should be",
+            "options": [
+                "A. genetic testing of cyst fluid.",
+                "B. endoscopic fine needle biopsy.",
+                "C. quantify CEA level in cyst fluid.",
+                "D. repeat CT evaluation in 1 year.",
+                "E. PET-CTscan."
+            ],
+            "answer": "D",
+            "explanation": "- Asymptomatic pancreatic cysts are common, and their incidence increases with age.\n- Cyst size >3cm increases malignancy risk 3-fold; presence of a solid component increases risk 8-fold.\n- This patient has a 2-cm cyst without mural nodularity, which is low risk.\n- Surveillance imaging is limited to those who can benefit from pancreatic resection if neoplasm develops.\n- Patients with pancreatic cysts not warranting immediate resection should undergo surveillance with CT or MRI every 1-2 years.\n- PET-CT scan has no role in diagnosis or investigation of pancreatic cysts, so E is false.\n- Measuring CEA level in cyst fluid is useful for differentiating mucinous from nonmucinous cysts but not predictive of malignancy risk, so C is false.\n- Genetic testing for molecular alterations is available, but no studies identify how it predicts outcomes, so A is false.\n- Endoscopic fine needle biopsy is not the next step for a low-risk asymptomatic cyst, so B is false."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding splenic artery aneurysms is true?",
+            "options": [
+                "A. Infection is the most common cause.",
+                "B. Pregnancy mandates elective repair.",
+                "C. Splenic aneurysms rupture more commonly than other splanchnic aneurysms.",
+                "D. 1.5-cm diameter splenic aneurysms have an increased risk of rupture.",
+                "E. Mortality rate for splenic artery aneurysm rupture is 10%."
+            ],
+            "answer": "B",
+            "explanation": "- Splenic artery aneurysms have a higher than 25% mortality rate if ruptured, so E is false.\n- Risk of rupture depends on anatomic location, size (>20mm), growth rate, and underlying disease, especially pregnancy and liver transplantation.\n- Pregnancy mandates elective repair, so B is true.\n- Atherosclerosis (32%) and medial degeneration (24%) are common etiologies, not infection, so A is false.\n- Splenic artery aneurysms account for 60% of all visceral aneurysms, but the text does not state they rupture more commonly than *other* splanchnic aneurysms, so C is not explicitly supported.\n- The text states risk of rupture is increased *only* during pregnancy for women, and mentions size >20mm as a risk factor, not 1.5cm, so D is false."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "Which of the following techniques for an open repair of a 4-cm ventral incisional hernia is most likely to achieve a durable reconstruction?",
+            "options": [
+                "A. Onlay placement of mesh after primary defect closure",
+                "B. Inlay placement of mesh without primary defect closure",
+                "C. Sublay placement of mesh with primary defect closure",
+                "D. Underlay placement of mesh with primary defect closure",
+                "E. Primary repair without mesh"
+            ],
+            "answer": "C",
+            "explanation": "- A large body of evidence supports the use of mesh repair for this size hernia, so E is false.\n- Onlay repair places mesh superficial to the closed fascia.\n- Inlay repair involves interposition of mesh within the hernia defect when fascia is not reapproximated; this repair does not reconstruct the functional abdominal wall and does not allow much tissue integration, so B is less durable.\n- Sublay mesh is superficial to the posterior rectus sheath but deep to the rectus musculature (retrorectus repair); this repair requires dissection of this space, suture closure of posterior sheath, mesh placement with U-stitches through anterior sheath, and closure of anterior sheath.\n- Underlay placement is intraperitoneal, with mesh deep to peritoneal lining.\n- The sublay mesh repair has the lowest rate of recurrence compared with onlay and inlay repairs and is likely to be most durable, and has the added benefit of mesh separation from intraperitoneal content by posterior sheath closure, protecting from contamination."
+        }
+    ]
+}

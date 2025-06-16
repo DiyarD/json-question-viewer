@@ -1,0 +1,355 @@
+{
+    "chapter_name": "Abdomin Part II",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "clinical_scenario",
+            "question": "A 28-year-old woman was admitted to the hospital with a new diagnosis of idiopathic thrombocytopenic purpura. She was started on dexamethasone and intravenous immunoglobulin. Her platelet count did not respond, and she has now developed blood in her urine and stool. The next step in her treatment is?",
+            "options": [
+                "A. continue current therapy.",
+                "B. plasmapheresis.",
+                "C. eltrombopag.",
+                "D. rituximab.",
+                "E. splenectomy."
+            ],
+            "answer": "C",
+            "explanation": "- Thrombocytopenia is characterized by decreased platelet production, increased platelet consumption, or a combination of both.\n- Idiopathic thrombocytopenic purpura (ITP) is an acquired immune-mediated condition.\n- First-line therapy for ITP consists of intravenous steroids, immunoglobulin, or both, with 80-90% positive results, but only 1 in 5 achieve durable results, necessitating second-line therapy for the remaining 80%.\n- Long-term steroid use is associated with complications.\n- Second-line therapies include rituximab, thrombopoietin receptor agonists (romiplostim, eltrombopag), and splenectomy.\n- Eltrombopag is an orally available, nonpeptide thrombopoietin receptor agonist, recommended for patients who have relapsed after first-line therapies to normalize platelet counts.\n- Plasmapheresis is typically used in patients with antiphospholipid syndrome at risk for thrombosis, which is not the presented clinical scenario."
+        },
+        {
+            "id": 2,
+            "question_type": "clinical_scenario",
+            "question": "A 67-year-old man has a history of alcohol abuse and multiple bouts of acute pancreatitis. Over the course of the last year, he has developed chronic abdominal pain, which worsens with eating. He stopped drinking, but his symptoms have persisted. He denies diarrhea, and his fasting blood glucose is normal. A pancreatic protocol CT scan was performed (figure 2.1). What is the next most appropriate diagnostic step?",
+            "options": [
+                "A. Magnetic resonance cholangiopancreatography",
+                "B. Endoscopic ultrasound",
+                "C. Endoscopic retrograde cholangiopancreatography",
+                "D. Serum cancer antigen 19-9",
+                "E. Upper gastrointestinal study"
+            ],
+            "answer": "B",
+            "explanation": "- The patient has developed chronic pancreatitis, manifested by pain, exocrine dysfunction, and endocrine dysfunction.\n- Diagnosis is typically made clinically based on abdominal pain, diarrhea, steatorrhea, or diabetes mellitus.\n- First step in management is lifestyle modification (lower fat diet, abstaining from alcohol and tobacco) and analgesia.\n- Chronic pancreatitis can be a harbinger of pancreatic neoplasm.\n- Patients should undergo CT scanning of the abdomen.\n- If any abnormality is noted on CT, the next step is endoscopic ultrasound.\n- Endoscopic ultrasound allows for delineation of the pancreatic duct and biopsy of any abnormal mass.\n- If no mass is seen, endoscopic retrograde cholangiopancreatography can be undertaken.\n- Magnetic resonance cholangiopancreatography is not indicated due to known ductal system pathology.\n- Serum cancer antigen 19-9 is not a screening tool due to low positive predictive value.\n- An upper gastrointestinal study provides no useful information."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "A patient presents with left upper quadrant pain. What pathologic process involving the spleen is poorly delineated on B-mode ultrasound?",
+            "options": [
+                "A. Infarction",
+                "B. Spontaneous rupture",
+                "C. Venous thrombosis",
+                "D. Torsion",
+                "E. Abscess"
+            ],
+            "answer": "A",
+            "explanation": "- B-mode ultrasound with or without Doppler sonographic evaluation can screen for splenic pathology.\n- Spontaneous rupture, venous thrombosis, torsion, and abscesses are generally detectable or characterized by ultrasound.\n- Splenic infarction, caused by occlusion of noncommunicating end arteries, appears as an ill-defined wedge-shaped or round hypoechoic focus on B-mode ultrasound, making it more difficult to interpret.\n- Ultrasound contrast can help better appreciate the wedge-shaped nature of the lesion by showing areas of non-enhancement."
+        },
+        {
+            "id": 4,
+            "question_type": "clinical_scenario",
+            "question": "A 45-year-old woman presents with 24 hours of right upper quadrant abdominal pain. She has no medical or surgical history. On examination, she is afebrile with anormal heart rate and blood pressure. She has mild tenderness to deep palpation in the right upper quadrant. Ultrasound demonstrates cholelithiasis with a common bile duct of 4 mm. The gallbladder wall is 2 mm thick, and there is no surrounding fluid. She has a negative sonographic Murphy sign Her labs include a white blood cell count of 10,500/mm3 (3600-11,200/mm3), aspartate aminotransferase of 80 IU/L (8-40 IU/L), alanine aminotransferase of 92 IU/L (7-55 IU/L), alkaline phosphatase of 125 IU/L (<95 IU/L), and a total bilirubin of 1.4 mg/dL (02.-1.9 mg/dL). Her amylase and lipase are normal. What is the best management strategy for this patient?",
+            "options": [
+                "A. Endoscopic retrograde cholangiopancreatography with sphincterotomy",
+                "B. Laparoscopic cholecystectomy",
+                "C. Laparoscopic cholecystectomy with laparoscopic ultrasound",
+                "D. Laparoscopic cholecystectomy with intraoperative cholangiogram",
+                "E. Laparoscopic cholecystectomy with common bile duct exploration"
+            ],
+            "answer": "B",
+            "explanation": "- The patient's signs and symptoms are consistent with acute cholecystitis, with ultrasound showing cholelithiasis.\n- Mild elevations in liver transaminase levels can occur in acute cholecystitis, but normal gamma-glutamyl transferase, alkaline phosphatase, and bilirubin levels essentially exclude choledocholithiasis.\n- Her history and laboratory profile suggest a less than 2% chance of choledocholithiasis.\n- Preoperative endoscopic retrograde cholangiopancreatography with sphincterotomy and common bile duct exploration are unnecessary.\n- Intraoperative cholangiography or laparoscopic ultrasound are low-risk endeavors that enhance understanding of anatomy and increase the probability of finding pathology when pretest probability of choledocholithiasis is higher.\n- Routine use of these adjuncts is not strongly supported when the probability of choledocholithiasis is low (e.g., <3%).\n- This patient should undergo laparoscopic cholecystectomy with only expectant management of her common bile duct perioperatively."
+        },
+        {
+            "id": 5,
+            "question_type": "clinical_scenario",
+            "question": "A 45-year-old obese woman presents for laparoscopic cholecystectomy for acute cholecystitis. After 2.5 hours of difficult dissection, the surgeon is clipping and dividing the cystic duct when the surgeon notes a transected structure with frank bile drainage. What is the most appropriate way for this surgeon to proceed?",
+            "options": [
+                "A. Placement of a T-tube",
+                "B. Intraoperative endoscopic retrograde cholangiopancreatography",
+                "C. Laparoscopic primary bile duct repair",
+                "D. Placement of fibrin glue over the transection",
+                "E. Placement of a subhepatic drain"
+            ],
+            "answer": "E",
+            "explanation": "- Iatrogenic bile duct injury incidence ranges from 0.2 to 1.5%.\n- Management of bile duct injury during laparoscopic cholecystectomy begins with early recognition and sepsis control.\n- Draining the injury is an approach to obtaining sepsis control before definitive repair.\n- The recommended approach for bile duct injury repair involves hepatobiliary-trained surgeons.\n- Successful surgical treatment occurs in 90% of cases when performed at expert centers.\n- Endoscopic retrograde cholangiopancreatography has a role in less severe injuries.\n- T-tube placement or fibrin glue are not indicated for primary repair."
+        },
+        {
+            "id": 6,
+            "question_type": "clinical_scenario",
+            "question": "A 71-year-old woman undergoes uneventful cholecystectomy. Permanent pathology shows a 0.5-cm fundic gallbladder cancer extending to the lamina propria. The next step in management should be",
+            "options": [
+                "A. observation.",
+                "B. adjuvant gemcitabine therapy.",
+                "C. postoperative radiation therapy.",
+                "D. resection of gallbladder bed (segment IV-V) with portal lymphadenectomy.",
+                "E. right hepatectomy."
+            ],
+            "answer": "A",
+            "explanation": "- Gallbladder carcinoma is the most common malignancy of the biliary tract, third most common gastrointestinal tract malignancy.\n- T1a gallbladder cancer extends only into the lamina propria.\n- A simple cholecystectomy is sufficient for the treatment of T1a tumors.\n- Cure rates after simple cholecystectomy with negative margins range from 85 to 100%.\n- Radical resection, including reresection of the hepatic bed and portal nodal lymphadenopathy, is recommended for T1b tumors (incidentally detected postcholecystectomy) and T2/T3 incidental gallbladder cancers.\n- Extended hepatic resections are for tumors invading hepatic inflow vascular structures.\n- Adjuvant chemotherapy and radiation are not supported by strong evidence for early-stage T1a disease."
+        },
+        {
+            "id": 7,
+            "question_type": "clinical_scenario",
+            "question": "A 71-year-old man, who takes warfarin for chronic atrial fibrillation, presents after he develops a tender left lower quadrant abdominal mass (20 x 18 cm) that remains present despite contraction of his rectus muscle. He is hypotensive with an international normalized ratio of 6.7 (0.8-1.2). Despite correction of coagulopathy and fluid resuscitation, he remains hypotensive, and a CT scan demonstrates a blush off the left inferior epigastric artery. What is the next step in his management?",
+            "options": [
+                "A. Exploratory laparotomy",
+                "B. Percutaneous drainage",
+                "C. Angioembolization",
+                "D. Abdominal wall pressure dressing",
+                "E. Evacuation of the mass, vessel ligation, and closed drainage"
+            ],
+            "answer": "C",
+            "explanation": "- Rectus sheath hematoma arises from bleeding into the rectus muscle sheath, often due to trauma to epigastric vessels or the rectus muscle itself.\n- Spontaneous rectus sheath bleeding has increased due to greater use of anticoagulants and antiplatelet medications.\n- Most hematomas are self-limited and can be managed with observation.\n- In cases of ongoing bleeding and shock, angioembolization is the best treatment option, as it identifies the bleeding vessel that may be difficult to see directly.\n- Open operative approach or percutaneous drainage may release tamponade effect, increasing bleeding.\n- Direct pressure is not feasible due to location.\n- Exploratory laparotomy is not necessary."
+        },
+        {
+            "id": 8,
+            "question_type": "clinical_scenario",
+            "question": "A 64-year-old man with a history of pelvic radiation for rectal cancer presents with recurrent episodes of nausea, abdominal pain, abdominal bloating, and multiple loose bowel movements. Workup reveals no evidence of an infectious process, recurrent cancer, malabsorption, or obstruction. The next step in his management should be",
+            "options": [
+                "A. exploratory laparotomy.",
+                "B. broad-spectrum antibiotics.",
+                "C. loperamide.",
+                "D. parenteral nutrition.",
+                "E. fecal transplant."
+            ],
+            "answer": "C",
+            "explanation": "- Chronic radiation enteritis is a frequent and clinically important sequela of malignant disease treatment.\n- Diarrhea and crampy abdominal pain are common symptoms.\n- Loperamide improves bile acid absorption, slows transit time, and improves diarrheal symptoms.\n- Parenteral nutrition is used only in severe cases of malnutrition.\n- Surgery should be avoided due to dense adhesions and risk of enterotomies/short gut.\n- Data on bacterial overgrowth are inconsistent, so fecal transplantation is not indicated.\n- Broad-spectrum antibiotics have not been proven to resolve diarrhea."
+        },
+        {
+            "id": 9,
+            "question_type": "clinical_scenario",
+            "question": "A 59-year-old man presents with low-volume peritoneal carcinomatosis 3 years after undergoing curative resection without chemotherapy for stage II colon cancer (T3, NO, MO). After systemic chemotherapy, which of the following options results in the best survival?",
+            "options": [
+                "A. Complete peritoneal cytoreduction surgery",
+                "B. Hyperthermic intraperitoneal chemotherapy (HIPEC)",
+                "C. C Tumor lysis with water lavage",
+                "D. Cytoreduction surgery with HIPEC",
+                "E. Palliative care"
+            ],
+            "answer": "D",
+            "explanation": "- Peritoneal spread of colorectal cancer was previously associated with poor prognosis (median survival 5-7 months).\n- Cytoreduction surgery with maximal tumor removal combined with hyperthermic intraperitoneal chemotherapy (HIPEC) demonstrates improved survival in selected patients.\n- Hyperthermia itself is cytotoxic to cancer cells and augments chemotherapy effects.\n- Chemotherapy is administered directly into the peritoneal cavity, reducing systemic toxicity.\n- Water alone is ineffective.\n- Determining goals of care is appropriate but does not improve survival."
+        },
+        {
+            "id": 10,
+            "question_type": "emq",
+            "question": "10. Watery diarrhea, hypokalemia, achlorhydria",
+            "options": [
+                "A. Insulinoma",
+                "B. Gastrinoma",
+                "C. Glucagonoma",
+                "D. VIPoma",
+                "E. Somatostatinoma"
+            ],
+            "answer": "D",
+            "explanation": "- The vasoactive intestinal peptide-secreting tumor (VIPoma) causes the constellation of symptoms known as WDHA syndrome: watery diarrhea, hypokalemia, and achlorhydria.\n- Symptoms are often episodic, but massive diarrhea can cause electrolyte abnormalities.\n- VIPomas are mostly located in the tail of the pancreas and have often spread at diagnosis."
+        },
+        {
+            "id": 11,
+            "question_type": "emq",
+            "question": "11. Diabetes, necrolytic migratory erythema, deep venous thrombosis",
+            "options": [
+                "A. Insulinoma",
+                "B. Gastrinoma",
+                "C. Glucagonoma",
+                "D. VIPoma",
+                "E. Somatostatinoma"
+            ],
+            "answer": "C",
+            "explanation": "- Glucagonoma causes a syndrome consisting of diabetes associated with necrolytic migratory erythema.\n- Patients are at an increased risk for deep venous thrombosis.\n- Diagnosis is confirmed with a serum glucagon level >500 pg/mL.\n- Glucagonomas are primarily located in the head and tail of the pancreas, tend to be large, and often have metastases at diagnosis.\n- Surgical removal with debulking is the treatment of choice."
+        },
+        {
+            "id": 12,
+            "question_type": "emq",
+            "question": "12. Hypoglycemia",
+            "options": [
+                "A. Insulinoma",
+                "B. Gastrinoma",
+                "C. Glucagonoma",
+                "D. VIPoma",
+                "E. Somatostatinoma"
+            ],
+            "answer": "A",
+            "explanation": "- Insulinoma is one of the most common pancreatic endocrine neoplasms.\n- Typical presentation is Whipple triad: symptomatic hypoglycemia when fasting, serum glucose <50 mL/dL, and symptom relief after glucose administration.\n- Laboratory studies reveal low blood glucose and elevated serum insulin and C-peptide levels.\n- Insulinomas are localized with CT imaging and endoscopic ultrasound.\n- Most insulinomas are benign and amenable to simple enucleation."
+        },
+        {
+            "id": 13,
+            "question_type": "clinical_scenario",
+            "question": "A 65-year-old woman presents with painless jaundice. On CT scan, she is found to have a mass in the head of the pancreas consistent with pancreatic cancer (figure 13.1). Metastatic workup reveals no metastatic disease, and her CA19-9 is 100 U/mL (0-37 U/mL) after resolution of the jaundice with a biliary stent. Arterial anatomy includes a replaced right hepatic artery with tumor surrounding the artery and the tumor abutting less than 180° of the superior mesenteric artery. This tumor is categorized as",
+            "options": [
+                "A. resectable.",
+                "B. borderline resectable.",
+                "C. locally advanced.",
+                "D. unresectable.",
+                "E. regionally advanced."
+            ],
+            "answer": "B",
+            "explanation": "- Advances in staging pancreatic cancer include a better understanding of tumor-vascular relationships.\n- A subset of patients with advanced tumors benefits from vascular resection, categorized as borderline resectable.\n- Tumors that encase aberrant anatomy are considered borderline resectable.\n- Borderline resectable pancreatic cancer is defined as tumor abutment of less than 180° of the superior mesenteric artery or celiac axis.\n- Patients with borderline resectable tumors are often treated with neoadjuvant therapy or enrolled in clinical trials."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "During a laparoscopic right hemicolectomy for colon cancer, a patient is found to have a solitary metastasis in segment II of the liver. Which of the following statements is true about the management of solitary colorectal liver metastases?",
+            "options": [
+                "A. 5-year survival is less than 5%.",
+                "B. Surgical resection should not be considered for metastatic disease.",
+                "C. Adjuvant systemic chemotherapy after liver resection significantly improves survival.",
+                "D. Laparoscopic liver resection has fewer postoperative complications than open resection.",
+                "E. Perioperative FOLFOX chemotherapy improves overall survival compared with surgery alone."
+            ],
+            "answer": "D",
+            "explanation": "- Liver resection is a significant advance for liver metastases from colon cancer.\n- 5-year survival rate for liver resection is 48-51%, with a cure rate of approximately 20%.\n- Systemic chemotherapy is standard for metastatic colorectal cancer.\n- The EORTC 40983 trial found no difference in long-term survival between perioperative chemotherapy and surgical resection alone, though progression-free survival improved with chemotherapy.\n- Perioperative chemotherapy may not alter overall survival and can increase perioperative morbidity.\n- Adjuvant (after resection) chemotherapy has not conclusively demonstrated improved survival.\n- Laparoscopic hepatic resection has fewer postoperative complications (19% vs 31%) compared to open resection, without increasing operating room time."
+        },
+        {
+            "id": 15,
+            "question_type": "clinical_scenario",
+            "question": "A 50-year-old healthy woman presents with 4 days of right upper quadrant pain associated with nausea and vomiting. Her white blood cell count is 15,000/mm3 (3600-11,200/mm3), and her liver and pancreatic function tests are normal. The right upper quadrant ultrasound reveals gallbladder wall thickening, stones, and pericholecystic fluid with a positive Murphy sign. What is most appropriate management of this patient in addition to starting intravenous antibiotics?",
+            "options": [
+                "A. Delayed laparoscopic cholecystectomy",
+                "B. Endoscopic retrograde cholangiopancreatography",
+                "C. Placement of a cholecystostomy tube",
+                "D. Immediate laparoscopic cholecystectomy",
+                "E. E Lithotripsy"
+            ],
+            "answer": "D",
+            "explanation": "- The definitive management of cholecystitis is laparoscopic cholecystectomy.\n- Controversy exists regarding timing due to concerns about increased inflammation and higher incidence of suppurative or necrotizing cholecystitis with longer symptom duration.\n- A randomized clinical trial found no difference in surgical complications between early and delayed laparoscopic cholecystectomy.\n- Early laparoscopic cholecystectomy is safe and appropriate, even for patients presenting more than 72 hours after symptom onset.\n- Percutaneous cholecystostomy tubes are effective for acute cholecystitis, especially in sick patients, but are not needed for otherwise healthy patients.\n- Endoscopic retrograde cholangiopancreatography is unnecessary given normal liver and pancreatic function tests.\n- Lithotripsy is not effective for managing this disease via transcutaneous approaches; intraductal lithotripsy has risks."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "Which of the following statements best characterizes the role of a CT scan in the diagnosis of acute cholecystitis?",
+            "options": [
+                "A. It is the first-line study in a patient with right upper quadrant pain.",
+                "B. Gallbladder wall thickness of 1 cm is diagnostic for malignancy.",
+                "C. It identifies complications of acute cholecystitis.",
+                "D. It reliably demonstrates the presence of cholelithiasis.",
+                "E. E It is superior to hepatobiliary scanning for assessing gallbladder obstruction."
+            ],
+            "answer": "C",
+            "explanation": "- Cross-sectional CT imaging has not replaced ultrasound as the first-line study for right-upper quadrant pain.\n- CT is not superior to hepatobiliary scanning for assessing gallbladder obstruction (cholecystitis).\n- Gallstones are often radiolucent and may not be seen on CT scan.\n- CT scan readily shows secondary signs of cholecystitis (gallbladder wall thickening, pericholecystic fluid) and complications (gallbladder perforation, emphysematous cholecystitis, adjacent liver abscess).\n- The most reliable CT finding for gallbladder cancer is a mass replacing or obscuring the gallbladder, not gallbladder wall thickening."
+        },
+        {
+            "id": 17,
+            "question_type": "clinical_scenario",
+            "question": "A 30-year-old woman presents with left upper quadrant pain. She denies any injury. Her ultrasound shows a splenic rupture. What is the most common cause of atraumatic splenic rupture?",
+            "options": [
+                "A. Splenic hydatid disease",
+                "B. Drug induced",
+                "C. Malignant hematologic disorders",
+                "D. Splenic aneurysm",
+                "E. Splenic infarction"
+            ],
+            "answer": "C",
+            "explanation": "- Spontaneous atraumatic splenic rupture is infrequent but potentially life-threatening, mainly occurring in histologically abnormal spleens.\n- A systematic review identified 6 major etiologic groups: neoplastic (30.3%), infectious (27.3%), inflammatory/noninfectious (20%), drug/treatment-related (9.2%), mechanical disorders (6.8%), and normal spleen (6.4%).\n- Malignant hematologic disorders, including non-Hodgkin lymphoma and leukemia, are the most common cause of atraumatic splenic rupture.\n- Splenic involvement in hydatid disease is uncommon (0.9-8%), and cyst rupture is a primary infection route.\n- Mononucleosis is the most common infectious cause.\n- Splenic artery aneurysms are third most common intra-abdominal aneurysms, with a 2-3% rupture risk, increased in portal hypertension, post-liver transplant, or pregnancy.\n- Splenic infarcts are often asymptomatic; complications include febrile illness, abscess, pseudocyst, rupture, and hemorrhage.\n- Impending splenic rupture is considered with progressive liquefaction or expansion of infarcted tissue."
+        },
+        {
+            "id": 18,
+            "question_type": "emq",
+            "question": "18. A 50-year-old man without family history of colorectal cancer after his complete, high-quality, index, asymptomatic screening colonoscopy: 5-mm hyperplastic polyp at 20 cm, 9-mm tubular adenoma from sigmoid colon at 40 cm, and a 4-mm tubular adenoma without dysplasia in the rectum",
+            "options": [
+                "A. Repeat colonoscopy in 6 months",
+                "B. Repeat colonoscopy in 1 year",
+                "C. Repeat colonoscopy in 3 years",
+                "D. Repeat colonoscopy in 5 to 10 years",
+                "E. Transanal mucosal resection"
+            ],
+            "answer": "D",
+            "explanation": "- Guidelines for postcolonoscopy surveillance stratify asymptomatic, average-risk patients into low and high risk.\n- Low-risk patients have any number of hyperplastic polyps or 1-2 subcentimeter adenomatous polyps.\n- High-risk patients have 3 or more adenomatous polyps, adenomatous polyp >1 cm, adenomatous polyp with high-grade dysplasia, villous adenoma, or serrated polyps.\n- Low-risk individuals are screened every 10 years.\n- High-risk individuals are recommended to have repeat colonoscopy in 3 to 5 years.\n- Patients with an adenoma >1 cm removed piecemeal should have a repeat colonoscopy within 6 months.\n- This patient has 2 subcentimeter adenomatous polyps (9mm and 4mm tubular adenomas) and a hyperplastic polyp, classifying him as low-risk for surveillance."
+        },
+        {
+            "id": 19,
+            "question_type": "emq",
+            "question": "19. A 50-year-old man without family history of colorectal cancer after his complete, high-quality, index, asymptomatic screening colonoscopy: 9-mm hyperplastic polyp at 20 cm, 20-mm tubular adenoma removed piecemeal from the sigmoid colon at 40 cm, and a 7-mm tubular adenoma in the rectum",
+            "options": [
+                "A. Repeat colonoscopy in 6 months",
+                "B. Repeat colonoscopy in 1 year",
+                "C. Repeat colonoscopy in 3 years",
+                "D. Repeat colonoscopy in 5 to 10 years",
+                "E. Transanal mucosal resection"
+            ],
+            "answer": "A",
+            "explanation": "- Guidelines for postcolonoscopy surveillance stratify asymptomatic, average-risk patients into low and high risk.\n- Low-risk patients have any number of hyperplastic polyps or 1-2 subcentimeter adenomatous polyps.\n- High-risk patients have 3 or more adenomatous polyps, adenomatous polyp >1 cm, adenomatous polyp with high-grade dysplasia, villous adenoma, or serrated polyps.\n- Low-risk individuals are screened every 10 years.\n- High-risk individuals are recommended to have repeat colonoscopy in 3 to 5 years.\n- Patients with an adenoma >1 cm removed piecemeal should have a repeat colonoscopy within 6 months to ensure complete removal and minimize cancer risk.\n- This patient had a 20-mm tubular adenoma removed piecemeal, indicating a need for repeat colonoscopy in 6 months."
+        },
+        {
+            "id": 20,
+            "question_type": "emq",
+            "question": "20. A 50-year-old man without family history of colorectal cancer after his complete, high-quality, index, asymptomatic screening colonoscopy: 12-mm adenoma with high-grade dysplasia completely removed by cautery snare polypectomy from the distal rectum",
+            "options": [
+                "A. Repeat colonoscopy in 6 months",
+                "B. Repeat colonoscopy in 1 year",
+                "C. Repeat colonoscopy in 3 years",
+                "D. Repeat colonoscopy in 5 to 10 years",
+                "E. Transanal mucosal resection"
+            ],
+            "answer": "C",
+            "explanation": "- Guidelines for postcolonoscopy surveillance stratify asymptomatic, average-risk patients into low and high risk.\n- Low-risk patients have any number of hyperplastic polyps or 1-2 subcentimeter adenomatous polyps.\n- High-risk patients have 3 or more adenomatous polyps, adenomatous polyp >1 cm, adenomatous polyp with high-grade dysplasia, villous adenoma, or serrated polyps.\n- Low-risk individuals are screened every 10 years.\n- High-risk individuals are recommended to have repeat colonoscopy in 3 to 5 years.\n- Patients with an adenoma >1 cm removed piecemeal should have a repeat colonoscopy within 6 months.\n- This patient had a 12-mm adenoma with high-grade dysplasia, classifying him as high-risk for surveillance."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding patients with ulcerative colitis and colorectal cancer is true?",
+            "options": [
+                "A. Colorectal cancer is the cause of death in up to 5%.",
+                "B. Forty percent of patients will have colorectal cancer after 30 years.",
+                "C. Rates of colorectal cancer are lower than in patients with Crohn disease.",
+                "D. Outcomes are better compared with all other patients with colorectal cancer.",
+                "E. Endoscopic screening for colorectal cancer should begin within 8 years' of diagnosis."
+            ],
+            "answer": "E",
+            "explanation": "- Inflammatory bowel disease (IBD) is strongly associated with colorectal cancer (CRC).\n- Overall CRC rate for ulcerative colitis (UC) is 5%; 8% at 20 years, nearly 20% at 30 years post-diagnosis.\n- CRC is the cause of death in 10-15% of UC patients.\n- Factors influencing CRC rates include extent, severity of inflammation, and disease duration.\n- Family history of CRC and primary sclerosing cholangitis increase risks.\n- Crohn disease also predisposes to CRC, but only 6% develop CRC at 20 years.\n- Biologic agents, earlier surgical intervention, and intense screening appear to reduce CRC rates.\n- American College of Gastroenterology guidelines recommend index screening within 8 years of diagnosis and then every 1-3 years with multiple random biopsies.\n- Chromoendoscopy is better for determining inflammation extent and increases sensitivity.\n- IBD itself does not negatively affect CRC prognosis or survival; 5-year survival rates are similar to CRC alone."
+        },
+        {
+            "id": 22,
+            "question_type": "emq",
+            "question": "22. A healthy 56-year-old man with chronic asymptomatic hepatitis C infection, serum bilirubin 1.5 mg/dL (0.2-1.9 mg/dL), and a solitary 7-cm hepatocellular carcinoma of segment HI of the liver found on surveillance ultrasound.",
+            "options": [
+                "A. Hepatic resection",
+                "B. Hepatic transplantation evaluation",
+                "C. C Transarterial chemoembolization",
+                "D. Percutaneous image-guided tumor ablation",
+                "E. Best supportive or palliative therapy"
+            ],
+            "answer": "A",
+            "explanation": "- The Barcelona Clinic Liver Cancer (BCLC) system classifies HCC and links it to treatment.\n- This patient has good performance status (ECOG PS 0), preserved liver function (normal bilirubin), and a solitary 7-cm tumor.\n- According to BCLC criteria, this is considered an early stage hepatoma or Stage A HCC.\n- Treatment with curative intent is considered.\n- Liver resection is considered unless portal hypertension is present, in which case orthotopic liver transplantation would be prescribed."
+        },
+        {
+            "id": 23,
+            "question_type": "emq",
+            "question": "23. A 75-year-old man with mild chronic kidney insufficiency and stable angina pectoris, normal liver function, and a biopsy-proven hepatocellular carcinoma of segment V of the liver. Dynamic contrasted MRI of the liver shows the main lesion is 2.7 cm, and there are 2 small satellite lesions near the main tumor.",
+            "options": [
+                "A. Hepatic resection",
+                "B. Hepatic transplantation evaluation",
+                "C. C Transarterial chemoembolization",
+                "D. Percutaneous image-guided tumor ablation",
+                "E. Best supportive or palliative therapy"
+            ],
+            "answer": "D",
+            "explanation": "- The BCLC system classifies HCC and links it to treatment.\n- This patient has preserved liver function and what is described as \"Stage A disease\" (3 nodules <= 3cm, with the largest being 2.7cm, and two satellite lesions).\n- His advanced age and comorbidities would likely preclude orthotopic liver transplantation.\n- Liver-directed therapies with curative intent, such as ablation (microwave, radiofrequency, or ethanol), would be indicated."
+        },
+        {
+            "id": 24,
+            "question_type": "emq",
+            "question": "24. A 55-year-old woman with alcoholism, recently abstinent for 3 months with a multifocal hepatoma of segments IV, VI, and VII of the liver. Serum alpha fetoprotein level is 650 mg/dL (0-40 mg/dL), and serum bilirubin is 3.5 mg/dL (0.2-1.9 mg/dL). The main tumor is 5.5 cm in size, and 2 satellite lesions are 1.5 cm and 2.5 cm in size.",
+            "options": [
+                "A. Hepatic resection",
+                "B. Hepatic transplantation evaluation",
+                "C. C Transarterial chemoembolization",
+                "D. Percutaneous image-guided tumor ablation",
+                "E. Best supportive or palliative therapy"
+            ],
+            "answer": "C",
+            "explanation": "- The BCLC system classifies HCC and links it to treatment.\n- This patient has a multifocal hepatoma (main tumor 5.5cm, two satellite lesions), elevated alpha fetoprotein, and elevated serum bilirubin, indicating impaired liver function.\n- She is considered a poor candidate for surgical resection or orthotopic liver transplantation due to recent active alcohol abuse and impaired liver function.\n- This case is described as an \"intermediate stage B tumor\" in the explanation.\n- Transarterial chemoembolization (TACE) as a palliative treatment would be indicated."
+        },
+        {
+            "id": 25,
+            "question_type": "emq",
+            "question": "25. A 45-year-old reformed alcoholic with good performance status and Child class B cirrhosis with a solitary 3.8-cm hepatocellular carcinoma of segment VIII of the liver. Contrasted CT scan shows splenomegaly",
+            "options": [
+                "A. Hepatic resection",
+                "B. Hepatic transplantation evaluation",
+                "C. C Transarterial chemoembolization",
+                "D. Percutaneous image-guided tumor ablation",
+                "E. Best supportive or palliative therapy"
+            ],
+            "answer": "B",
+            "explanation": "- The BCLC system classifies HCC and links it to treatment.\n- This patient has good performance status, Child class B cirrhosis, a solitary 3.8-cm HCC, and splenomegaly (indicating elevated portal pressures).\n- He would be considered a good candidate for orthotopic liver transplantation."
+        }
+    ]
+}

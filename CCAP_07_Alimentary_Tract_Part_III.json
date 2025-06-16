@@ -1,0 +1,427 @@
+{
+    "chapter_name": "Alimentary Tract Part III",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A 51-year-old patient presents with abdominal distention, nausea, and bilious vomiting 2 years after a cholecystectomy. He has not passed flatus for the last day. The patient is afebrile with normal vital signs. Exam demonstrates mild distention, tympany, and mild tenderness. A complete blood count is within normal limits. An abdominal CT scan is obtained, and the radiologist reports a small bowl dilation and a transition point with no other abnormalities. What is the appropriate next step?",
+            "options": [
+                "A. Exploratory laparotomy",
+                "B. Gastrografin small bowel follow through",
+                "C. Diagnostic laparoscopy",
+                "D. Gastrografin enema",
+                "E. CT enterography"
+            ],
+            "answer": "B",
+            "explanation": "- The dictum that the sun neither rises nor sets on a small bowel obstruction is sometimes not appropriate because some patients do not present with worrisome physiology such as fever, leukocytosis, hypotension, tachycardia, or peritoneal signs on physical exam.\n- Many small bowel obstructions resolve without surgical intervention.\n- Recent data from a retrospective review and prospective trial suggest that absent signs of obstipation for more than 12 hours, CT scan findings of mesenteric edema, and fecalization of the small bowel, a Gastrografin challenge can be used to predict the need for operative management.\n- This test uses 100 mL of water-soluble contrast, diluted with 50 mL of water, and infused via a gastric tube.\n- An abdominal radiograph is taken 8-hours later. Visualized contrast in the colon suggests a nonobstructed small bowel and strongly predicts the ability to avoid surgery.\n- Peritonitis or other signs of strangulated bowel should prompt immediate surgery. Likewise, the presence of fever, leukocytosis, hypotension, or tachycardia suggests the bowel is at risk for ischemia and should also prompt abdominal exploration. In this patient, such features were not reported, and an initial nonoperative evaluation with Gastrografin is appropriate.\n- A contrast enema is not helpful because contrast is limited to the large intestine and would not interrogate the small bowel.\n- CT enterography, although possible, is time-consuming and not used in the acute setting.\n- Diagnostic laparoscopy would not be indicated because the initial approach is nonoperative.\n- Once the decision is made to intervene operatively, the next decision is whether to proceed in an open or laparoscopic fashion. This decision will depend on the patient presentation and the surgeon's expertise in laparoscopic surgery."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "A 21-year old man with cystic fibrosis presents with crampy abdominal pain with distention. He has no surgical history. CT scan shows dilated loops of small bowel and heavy stool burden in his colon. After attempts at oral laxative treatment without results, what is an appropriate next step?",
+            "options": [
+                "A. Exploratory laparotomy",
+                "B. Abdominal ultrasound",
+                "C. Diagnostic laparoscopy",
+                "D. Gastrografin enema",
+                "E. CT enterography"
+            ],
+            "answer": "D",
+            "explanation": "- Cystic fibrosis is an autosomal recessive genetic disorder that results in the thickening of many normally thin secretions throughout the body.\n- Pulmonary toilet of these thick secretions is a lifelong challenge and results in frequent infections.\n- The disease also causes abnormal pancreatic and intestinal function, which at times results in thickened small bowel succus and fecal material.\n- Because this material can be difficult to pass through the gastrointestinal tract, patients may exhibit signs and symptoms of constipation or even large or small bowel obstructions.\n- Supplemental digestive enzymes can prevent this from occurring.\n- When intestinal obstruction results from thickened succus or fecal material (sometimes called meconium), imaging will show heavy stool burden distal to the dilated or obstructive-appearing intestinal loops.\n- Laparotomy or laparoscopy with or without resection is the last solution.\n- Gastrografin, a water soluble contrast, can pull fluid into the intestinal lumen relieving the obstruction caused by the inspissated meconium. Repeated applications are sometimes required.\n- In this case, the diagnosis was made by CT scan. Further imaging, such as ultrasound or CT enterography, is not indicated."
+        },
+        {
+            "id": 3,
+            "question_type": "emq",
+            "question": "2-cm tubular adenoma, completely removed on screening colonoscopy",
+            "options": [
+                "A. Follow-up surveillance colonoscopy now",
+                "B. Follow-up surveillance colonoscopy in less than 3 years",
+                "C. Follow-up surveillance colonoscopy in 3 years",
+                "D. Follow-up surveillance colonoscopy in 5 years",
+                "E. Follow-up surveillance colonoscopy in 10 years"
+            ],
+            "answer": "C",
+            "explanation": "- The timing of follow-up surveillance or screening colonoscopy depends on the finding of the original study.\n- Guidelines are based on the risk of developing subsequent colorectal cancer and assume the initial colonoscopy thoroughly evaluates the mucosa throughout the colon and rectum, visualizes the ileocecal valve, and completely removes all visualized polyps.\n- In general, any incomplete polyp removal requires a repeat colonoscopy or another attempt at removal.\n- Recent updates also account for evidence that some high-risk patients may develop cancer within 3 to 5 years of colonoscopy and polypectomy and hope to improve guideline adherence.\n- According to Table 3-6.1, a tubular adenoma >10 mm (2 cm = 20 mm) is considered high risk and requires follow-up surveillance colonoscopy in 3 years."
+        },
+        {
+            "id": 4,
+            "question_type": "emq",
+            "question": "Multiple (12) adenomas found on screening colonoscopy",
+            "options": [
+                "A. Follow-up surveillance colonoscopy now",
+                "B. Follow-up surveillance colonoscopy in less than 3 years",
+                "C. Follow-up surveillance colonoscopy in 3 years",
+                "D. Follow-up surveillance colonoscopy in 5 years",
+                "E. Follow-up surveillance colonoscopy in 10 years"
+            ],
+            "answer": "B",
+            "explanation": "<b>PROBABLE ANSWER: C<b><br>- The timing of follow-up surveillance or screening colonoscopy depends on the finding of the original study.\n- Guidelines are based on the risk of developing subsequent colorectal cancer and assume the initial colonoscopy thoroughly evaluates the mucosa throughout the colon and rectum, visualizes the ileocecal valve, and completely removes all visualized polyps.\n- In general, any incomplete polyp removal requires a repeat colonoscopy or another attempt at removal.\n- Recent updates also account for evidence that some high-risk patients may develop cancer within 3 to 5 years of colonoscopy and polypectomy and hope to improve guideline adherence.\n- According to Table 3-6.1, having >10 adenomas (number) is considered high risk and requires follow-up surveillance colonoscopy in 3 years."
+        },
+        {
+            "id": 5,
+            "question_type": "emq",
+            "question": "1-cm tubular adenoma, incompletely removed on screening colonoscopy",
+            "options": [
+                "A. Follow-up surveillance colonoscopy now",
+                "B. Follow-up surveillance colonoscopy in less than 3 years",
+                "C. Follow-up surveillance colonoscopy in 3 years",
+                "D. Follow-up surveillance colonoscopy in 5 years",
+                "E. Follow-up surveillance colonoscopy in 10 years"
+            ],
+            "answer": "A",
+            "explanation": "- The timing of follow-up surveillance or screening colonoscopy depends on the finding of the original study.\n- Guidelines are based on the risk of developing subsequent colorectal cancer and assume the initial colonoscopy thoroughly evaluates the mucosa throughout the colon and rectum, visualizes the ileocecal valve, and completely removes all visualized polyps.\n- In general, any incomplete polyp removal requires a repeat colonoscopy or another attempt at removal."
+        },
+        {
+            "id": 6,
+            "question_type": "emq",
+            "question": "No abnormalities seen on screening colonoscopy",
+            "options": [
+                "A. Follow-up surveillance colonoscopy now",
+                "B. Follow-up surveillance colonoscopy in less than 3 years",
+                "C. Follow-up surveillance colonoscopy in 3 years",
+                "D. Follow-up surveillance colonoscopy in 5 years",
+                "E. Follow-up surveillance colonoscopy in 10 years"
+            ],
+            "answer": "E",
+            "explanation": "- The timing of follow-up surveillance or screening colonoscopy depends on the finding of the original study.\n- Guidelines are based on the risk of developing subsequent colorectal cancer and assume the initial colonoscopy thoroughly evaluates the mucosa throughout the colon and rectum, visualizes the ileocecal valve, and completely removes all visualized polyps.\n- In general, any incomplete polyp removal requires a repeat colonoscopy or another attempt at removal.\n- According to Table 3-6.1, \"No polyps\" warrants follow-up surveillance colonoscopy in 10 years."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "A 50-year-old woman who underwent a right upper quadrant ultrasound for vague postprandial symptoms has a 0.5-cm echogenic area in the gallbladder fundus that does not move with adjustment of the ultrasound probe or change of her physical position. Her ultrasound exam is otherwise normal, without cholelithiasis, sludge, or local discomfort during the exam. She is referred for possible cholecystectomy. What would you advise?",
+            "options": [
+                "A. Repeat ultrasound in 6 months",
+                "B. MRI",
+                "C. Laparoscopic cholecystectomy",
+                "D. Open cholecystectomy with resection of the hepatic bed",
+                "E. Endoscopic ultrasound"
+            ],
+            "answer": "A",
+            "explanation": "- Gallbladder polyps are common, and most are benign cholesterol polyps.\n- The recommendation as to which patients can be observed and which require intervention depends on several factors, including polyp size, the number of polyps, presence of gallstones or cholecystitis, and the patient's age and ethnicity.\n- In general, gallbladder polyps smaller than 10 mm are benign.\n- A growing solitary polyp with a sessile morphology, coexisting with cholelithiasis, should raise concern for potential malignancy.\n- Patients older than 60 and of Indian ethnicity are at higher risk.\n- The probability that this patient has a covert gallbladder malignancy is very low, and she can be safely followed with ultrasound in 6 months, monitoring for polyp growth.\n- Further imaging (MRI or endoscopic ultrasound) is not necessary, given the low malignancy suspicion.\n- Patients with smaller polyps can be followed less frequently."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "Which of the following statements about screening tests for colorectal cancer is true?",
+            "options": [
+                "A. CT colonography is superior to colonoscopy for detecting sessile-serrated polyps.",
+                "B. 6- to 9-mm polyps identified on CT colonography need follow-up in 3 years.",
+                "C. Only polyps larger than 10 mm need to be removed at colonoscopy.",
+                "D. Repeat colonoscopy before 10 years of a negative, uncompromised examination is recommended.",
+                "E. Multitarget stool DNA testing has replaced fecal occult blood testing for screening average risk patients."
+            ],
+            "answer": "B",
+            "explanation": "- Colon cancer screening recommendations are evolving to improve patient compliance.\n- Colonoscopy remains the current standard screening modality.\n- Because more than 99% of diminutive polyps are benign, use of less invasive, more economical approaches to the management of patients at low risk for malignancy with polyps smaller than 1 cm are being assessed.\n- Proposed strategies include removing and discarding diminutive polyps given the low incidence of advanced histologic features in less than 3% of such lesions, as well as less frequent exams.\n- Repeat colonoscopy before 10 years after a negative, uncompromised colonoscopy appears to offer little benefit.\n- CT colonography is increasingly popular as a screening tool.\n- Sensitivity for detection of adenomas of at least 6 mm is 80%, although radiologists do not routinely report lesions detected by CT colonography that are smaller than 6 mm.\n- The current recommendation is that polyps 6 to 9 mm, although likely to be benign, be removed by colonoscopy or followed with a second CT colonography in 3 years.\n- For lesions larger than 10 mm, sensitivity approaches 88%.\n- Sessile polyps can be difficult to identify by colonoscopy or CT colonography due to their flat morphology, primarily in the cecum. However, with careful preparation and attention to evidence of contrast adherence to the mucosa, identification of these worrisome lesions can match screening colonoscopy.\n- Patient compliance may be greater for CT colonographic screening, but colonoscopy remains the only available one-step approach to colorectal cancer screening.\n- Stool DNA tests are becoming widely available. These tests detect tumor-associated genetic and epigenetic markers in cells shed in the stool.\n- A recent cross-sectional study showed a sensitivity of 92% for a multitarget stool DNA for detecting colorectal cancer in a screening population, but it is less sensitive (42%) for detecting advanced adenomas.\n- Fecal occult testing (FIT) has a 74% sensitivity for colorectal cancer and 24% for advanced adenomas.\n- Specificity of the FIT for nonadvanced or negative findings is superior to stool DNA testing (96.4% vs 89.8%).\n- Given its false-positive rate and current cost, stool DNA testing has not supplanted FIT testing in the screening of low-risk patients."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "One year after a Toupet fundoplication, a 56-year-old man undergoes surveillance upper endoscopy for his known Barrett esophagus. A transition from squamous to Barrett epithelium is noted to begin 32 cm from the teeth without evidence of esophagitis. Four-quadrant biopsies immediately below the transition show low-grade dysplasia. On his gastroenterologist's advice, he has continued omeprazole 40 mg twice a day since the operation Upper gastrointestinal studies confirm an intact fundoplication with no active reflux. What would you advise for his endoscopic findings?",
+            "options": [
+                "A. Conversion to Nissen fundoplication",
+                "B. Radiofrequency ablation",
+                "C. Repeat biopsies in 8 weeks",
+                "D. Repeat endoscopy with biopsy in 6 months",
+                "E. No further surveillance"
+            ],
+            "answer": "B",
+            "explanation": "- Barrett esophagus secondary to chronic reflux is currently the only identified precondition for esophageal adenocarcinoma.\n- Antireflux procedures are touted as a means of limiting the rate of endothelial dysplastic progression, and some studies showed efficacy in this regard.\n- Management of residual low-grade dysplasia, however, remains controversial.\n- Reviews of patients undergoing surveillance have led to several best practice recommendations.\n- The reported rate of progression from low-grade to high-grade dysplasia is highly variable (0.4-13.4% per year) and is dependent on the pathologist's interpretation of biopsy specimens.\n- The presence of active erosive esophagitis will potentially confound diagnosis and biopsy in this setting should be avoided.\n- The proximal half of the Barrett esophagus segment is most vulnerable to dysplasia.\n- Persistent low-grade dysplasia on consecutive endoscopies, nodularity, and multifocality are risk factors for Barrett esophagus progression and for failure to regress after an antireflux procedure.\n- Short-segment Barrett esophagus, smoking cessation, and proton pump inhibitor use are associated with regression.\n- Eradication of Barrett esophagus should be encouraged.\n- Endoscopic resection of Barrett esophagus offers a larger pathologic specimen for accurate grading of any dysplasia.\n- Radiofrequency ablation significantly slows progression to high-grade dysplasia.\n- This patient has persistence of a relatively long segment of Barrett esophagus 1 year after a successful antireflux procedure and has continued an intensive medical antireflux regimen.\n- Repeat biopsies in 8 weeks would be appropriate if esophagitis was present.\n- The most effective management choice to affect potential dysplasia progression is radiofrequency ablation, with a goal of complete endoscopic and histologic eradication of intestinal metaplasia.\n- The current regimen involves treatment every 3 months for a maximum of 2 circumferential or 3 focal sessions.\n- Should the patient refuse ablation, repeat endoscopy with biopsies in 4 quadrants every 1 to 2 cm at 6 and 12 months is recommended."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "A 28-y ear-old man undergoes an abdominal magnetic resonance cholangiopancreatography (figures 10.1 and 10.2) as part of an evaluation for abdominal pain and diarrhea. He has an elevated amylase and mild hyperbilirubinemia. Which of the following statements regarding his condition is true?",
+            "options": [
+                "A. Cholangitis is a rare complication.",
+                "B. Endoscopic ultrasound is required to confirm the diagnosis.",
+                "C. Complete extrahepatic duct excision with cholecystectomy is recommend",
+                "D. Placement of a biliary stent is preferred treatment.",
+                "E. Malignancy is present in more than 50% of patients."
+            ],
+            "answer": "C",
+            "explanation": "- This patient has a type I choledochal cyst, a fusiform dilation of the distal common bile duct (figure 10.3).\n- Unlike children, adults with a choledochal cyst present with biliary or pancreatic symptoms associated with abdominal pain.\n- Concern for malignancy in choledochal cysts is the primary reason for surgical referral.\n- The incidence in adults is approximately 12% overall, peaking at approximately 38% in the sixth or seventh decades.\n- Although cancer can occur at any age, the incidence is less than 6% before age 30.\n- Cholangiocarcinoma is most commonly associated with types I and IV cysts.\n- If carcinoma is suspected, endoscopic ultrasound may be useful as a staging modality before operation.\n- Management requires complete extrahepatic bile duct cyst excision down to the level of its communication with the pancreatic duct, cholecystectomy, and biliary-enteric reconstruction.\n- Biliary stasis in the cyst contributes to symptoms often interpreted as cholecystitis, cholangitis, or symptomatic cholelithiasis.\n- It is not uncommon for such patients to have previously undergone biliary stenting or cholecystectomy without resolution of their symptoms.\n- Choledochal cysts are typically identified with multimodality imaging, including ultrasound, CT scan, and MRI with magnetic resonance cholangiopancreatography (MRCP).\n- A common duct diameter greater than 10 mm on ultrasound should prompt further investigation.\n- MRCP is highly sensitive (70-90%) and specific (90-100%) for both diagnosis and classification."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "What feature distinguishes a pancreatic intraductal papillary mucinous neoplasm from a mucinous cystic neoplasm?",
+            "options": [
+                "A. Cyst fluid carcinoembryonic antigen level",
+                "B. Cytology of mucus",
+                "C. Cyst fluid amylase level",
+                "D. Communication with the pancreatic duct",
+                "E. Size greater than 3 cm"
+            ],
+            "answer": "D",
+            "explanation": "- Cystic lesions of the pancreas are commonly identified on abdominal imaging, and questions regarding their management often fall to the surgeon.\n- Distinguishing the benign from malignant lesion (or potentially malignant lesion) and recommending appropriate management requires an understanding of the natural history of these lesions and an individual patient's oncologic risk.\n- Although it is widely acknowledged that cyst size greater than 3 cm is a significant risk factor for malignancy in mucinous cystic neoplasms (MCNs), these solitary tumors typically occur in the body and tail of the pancreas and are not in communication with the main pancreatic duct.\n- Intraductal papillary mucinous neoplasms (IPMNs), by definition, do communicate with the pancreatic duct.\n- Surgical resection is recommended for all main duct IPMN.\n- Worrisome features for a branch duct IPMN include lesion size greater than 3 cm, thickened enhancing cyst walls, a nonenhancing solid component, an associated dilated main pancreatic duct, or an abrupt change in main pancreatic duct caliber with distal pancreatic atrophy and lymphadenopathy.\n- Analysis of cyst contents obtained via endoscopic ultrasound is being studied as a means of distinguishing malignant from more benign lesions.\n- Although elevated serum CA19-9 and carcinoembryonic antigen (CEA) are highly specific biomarkers associated with invasive pancreatic malignancy, cyst CEA levels alone cannot reliably discern benign from malignant and are variably present in both MCNs and IPMNs.\n- Similarly, cyst amylase offers limited distinctions.\n- Cyst fluid cytology can accurately diagnose a malignant pancreatic cyst lesion, but sensitivity is hampered by low cellular volume in mucous.\n- The cytologic features of IPMNs and MCNs may be similar, each showing mucinous neoplastic epithelial cells.\n- Immunohistochemical analysis of mucous can distinguish the different histopathologic origin of an IPMN (e.g., differentiating gastric from intestinal or pancreatobiliary IPMNs), pancreatic mucin gene expression patterns, specific genetic mutations, and microRNA analyses remain under investigation as predictors of invasive cancer."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "A 75-year-old man with dysphagia undergoes uncomplicated placement of a percutaneous endoscopic gastrostomy tube for durable feeding access. Approximately 3 weeks after placement, nurses at his facility notice pain with administration of feeds. He presents to the emergency department, and CT scan are obtained (figures 12.1 and 12.2). Other than pain with feeds, the patient is asymptomatic. What is the next step in the management of his tube?",
+            "options": [
+                "A. Urgent laparotomy with oversewing of the gastrotomy",
+                "B. Wide local debridement of his anterior abdominal wall around his tube",
+                "C. Tube removal",
+                "D. Cutting the feeding tube flush to the skin and leaving it in situ",
+                "E. Loosening of the retention flange"
+            ],
+            "answer": "C",
+            "explanation": "- Percutaneous endoscopic gastrostomy (PEG) tubes are placed for durable feeding access across a wide spectrum of diseases.\n- The published complication rate is between 0.5 and 20%, with minor complications predominating.\n- Typical complications associated with PEG tubes include those related to insertion and long-term maintenance.\n- Insertion-related complications include bleeding, hollow viscous or hepatic injury, and tumor seeding of the insertion site (seen in head and neck cases).\n- Complications from long-term maintenance include abscess formation (including necrotizing soft tissue infections), distal tube migration, skin breakdown, and buried bumper syndrome (BBS; figure 12.3).\n- BBS occurs when the PEG fixation flange slowly migrates out of the intragastric space and into either the wall of the stomach or the anterior abdominal wall.\n- Typically, the stomach remains adherent to the abdominal wall and the presentation is an inability to administer feeds, with leakage around the PEG tube site.\n- This complication is often seen after several months but can be seen as early as 3 weeks after placement.\n- The etiology is likely due to too much tension on the flange causing slow erosion anteriorly of the bumper.\n- The first step in management is to determine the etiology of the tube malfunction.\n- Adherence of the stomach to the anterior abdominal wall should be confirmed.\n- Patients with peritonitis, free air, or other findings consistent with an intra-abdominal leak should be explored.\n- For a true BBS, management can either be endoscopic or fluoroscopic.\n- If the flange is partially visible on endoscopy, an attempt can be made to push it into the gastric lumen and then a new tube can be placed.\n- Alternatively, as in the case pictured, with axial evidence of the tube completely retracted into the abdominal wall, the tube should be removed, and the stomach can be accessed fluoroscopically to replace the tube or another percutaneous feeding tube can be placed.\n- If there is significant tissue breakdown, the patient may require a period of wound healing before replacing the tube.\n- In the interim, the patient can be maintained on nasoenteric feeds, if necessary.\n- Cutting the tube flush to the skin will not address the problem and will likely lead to an abdominal wall abscess.\n- This technique, described as \"cut and leave,\" is reserved for only the direst of circumstances and patients without signs of local or systemic inflammation.\n- Most patients, even those who are unable to tolerate any operative intervention, can have their tube removed at the bedside.\n- Wide local debridement is necessary only if there is significant tissue destruction, abscess, or concern for a necrotizing process."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "Which of the following statements is true regarding lower gastrointestinal bleeding?",
+            "options": [
+                "A. Superselective angioembolization carries an unacceptably high risk of bowel necrosis.",
+                "B. Early colonoscopy for lower gastrointestinal bleeding is associated with increased colon perforation.",
+                "C. Colonoscopy for lower gastrointestinal bleeding provides localization without options for successful hemostatic intervention.",
+                "D. A rapid colon purge before early colonoscopy is safe.",
+                "E. Patients with active bleeding will require surgical intervention."
+            ],
+            "answer": "D",
+            "explanation": "- After resuscitation and stabilization, most lower gastrointestinal bleeds can be managed endoscopically.\n- Colonoscopy is not only feasible but also safe and often therapeutic for the management of acute lower gastrointestinal bleeds.\n- Several studies confirmed this finding.\n- Despite advances in vascular and interventional radiology, endoscopy should be the first step in the diagnostic algorithm for lower gastrointestinal bleeds.\n- Most lower gastrointestinal bleeds subside soon after presentation, so colonoscopy is often performed after a rapid colon purge.\n- A rapid bowel preparation is safe and allows for a more thorough examination of the colon, facilitating any therapeutic measures.\n- Early colonoscopy decreases hospital length of stay.\n- Therapeutic endoscopy includes epinephrine injection, thermal probe coagulation, and hemoclips placement.\n- In one large study, no patient undergoing colonoscopic intervention for diverticular bleeds demonstrated a rebleed within the 3-year study period. This number was compared with 50% seen in historic controls where no endoscopic therapeutic maneuver was performed.\n- For patients failing endoscopic management, both endovascular and surgical options exist.\n- Superselective angioembolization (SSAE) is an option available to avoid surgical resection.\n- Although the technical success rate of SSAE is documented at greater than 90%, one in 5 patients will go on to require surgical resection.\n- The overall ischemic complications are low, ranging from 0 to 5% in the literature.\n- This low rate is thought to be likely multifactorial and includes the use < very small microcatheters to restrict the embolization only to the distal arcades in the bleeding territory."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "A 32-year-old woman recently completed a course of metronidazole for treatment of Clostridium difficile infection. She returns to the emergency department with complaints of abdominal pain and distension, watery diarrhea, and fevers. She is hemodynamically normal, and her white blood cell count is 11,000/mm3 (3600-11,200/mm3). Which of the following statements is true regarding her recurrent C. difficile infections?",
+            "options": [
+                "A. Intravenous metronidazole is more effective than oral metronidazole.",
+                "B. Oral metronidazole is more effective than oral vancomycin.",
+                "C. Fidaxomicin is more effective than oral vancomycin.",
+                "D. Duodenal infusion of donor feces is less effective than oral vancomycin,",
+                "E. Administration of oral probiotics is more effective than oral vancomycin."
+            ],
+            "answer": "C",
+            "explanation": "- Infectious colitis related Clostridium difficile infections have increased in incidence over the past 10 years.\n- The number of asymptomatic carriers has increased, and the estimated incidence of infection in the United States is nearly 300,000 cases annually.\n- Healthcare-related infections represent most infections, with up to half of these beginning in residents of long-term healthcare facilities.\n- Vancomycin is used to treat initial episodes.\n- Fidaxomicin, another macrocyclic antimicrobial similar to vancomycin, is also approved for the treatment of C. difficile; however, for initial infections, it is not superior to vancomycin.\n- Metronidazole has been relegated to use when vancomycin or fidaxomicin are not available or for a mild C. difficile infection episode.\n- Oral metronidazole is somewhat more effective than the same antimicrobial administered intravenously.\n- Recurrent infections occur in up to one-third of treated patients.\n- The rate of recurrence increases with each recurrent episode (initial rate 15-30%, second recurrence 33-65%), emphasizing the importance of eradication and containment with the initial infectious episode.\n- Vancomycin administered orally is more effective than metronidazole (either orally or intravenously) for the treatment of both initial and recurrent infections.\n- Recent reviews of the available literature noted fidaxomicin to be superior to vancomycin for the treatment of recurrent infections.\n- Fecal transplant (either via nasoduodenal or endoscopic administration) has emerged as a nonantimicrobial method for the treatment of infectious colitis related to C. difficile.\n- The objective of fecal transplant is to restore gut microbiota to a healthy state.\n- Low-strength evidence exists for the use of fecal transplant in the setting of recurrent C. difficile infections.\n- Most of the studies to date have been small, although 3 notable randomized controlled trials have been conducted.\n- The success rate for fecal transplantation in the setting of recurrent infections is between 60 and 100%. It appears to be superior to vancomycin in all of the randomized studies.\n- Probiotics containing lactobacillus or other multiorganism mixes reduce the rate of C. difficile-related infections.\n- Robust data demonstrating these agents as a method of reducing subsequent infections after a treatment course are lacking.\n- Probiotic agents are not indicated for the treatment of an acute C. difficile infection (recurrent or otherwise.)"
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "Which of the following statements is true regarding stapled hemorrhoidopexy for a patient with grade 3 internal hemorrhoids?",
+            "options": [
+                "A. A complete bowel cleansing is necessary.",
+                "B. The incidence of incontinence to feces and flatus is lower than with open hemorrhoidectomy.",
+                "C. Tenesmus is common postoperatively.",
+                "D. The rate of anal stenosis is higher compared with open hemorrhoidectomy.",
+                "E. Postoperative pain is less compared with banding."
+            ],
+            "answer": "C",
+            "explanation": "- Hemorrhoidectomy can be performed as a closed, open, or semiopen procedure.\n- For all 3, full mechanical bowel preparation is not necessary.\n- Perioperative antibiotic administration provides no benefit.\n- The open resection is associated with more complications, including stenosis.\n- In a 3-arm randomized controlled trial (open, closed, or stapled), the worst outcomes were associated with the open technique.\n- The closed and stapled approaches were associated with less stenosis and less pain.\n- In the stapled hemorrhoidopexy, a stapling device is used. This device resects and fixes the internal hemorrhoid tissues to the adjacent rectal wall.\n- The staple line is above the dentate line, which produces less pain than a surgical hemorrhoidectomy.\n- Rectal prolapse and tenesmus are higher with stapled hemorrhoidopexy.\n- This approach is associated with less pain, less operating room time, and more rapid return to normal activity.\n- Patients who had a stapled hemorrhoidopexy have an earlier return to work.\n- Specific complications are associated with stapled hemorrhoidopexy. These include failure of the staple gun, urosepsis, and pelvic sepsis with rectal perforation.\n- The most common complication of stapled hemorrhoidopexy is early bleeding.\n- Late complications include fecal incontinence and proctitis.\n- Tenesmus is more common in stapled hemorrhoidopexy than in other methods of hemorrhoidectomy.\n- Tenesmus is most likely from the presence of a low rectal suture.\n- Septic complications are more common after stapled hemorrhoidectomy compared with all other techniques.\n- The incidence of incontinence of feces and flatus is not lower with stapled hemorrhoidopexy compared with open hemorrhoidectomy."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "A 56-year-old woman presents with slowly progressive dysphagia for solids and liquids, with regurgitation of bland, undigested food, chest pain, weight loss, and chronic cough. Chest x-ray reveals absence of a gastric bubble, with the presence of a fluid-filled, dilated esophagus. Barium swallow reveals a dilated, aperistaltic esophagus with an air-fluid level and \"bird's beak\" appearance Esophageal manometry reveals a hypertensive lower esophageal sphincter and esophageal aperistalsis. Which treatment provides the best long-term relief of dysphagia, regurgitation, and weight loss?",
+            "options": [
+                "A. Thoracoscopic Heller myotomy",
+                "B. Transhiatal esophagectomy",
+                "C. Laparoscopic Heller myotomy",
+                "D. Pneumatic dilation of the lower esophageal sphincter",
+                "E. Botulinum toxin injection of the lower esophageal sphincter"
+            ],
+            "answer": "C",
+            "explanation": "- Achalasia is an esophageal motility disorder with no known etiology.\n- Patients present with symptoms of dysphagia, regurgitation of undigested food, and chest pain.\n- Review of pathology slides reveals degeneration of the myenteric plexus.\n- This results in a lack of peristalsis of the esophageal body as well as absence or incomplete relaxation of the lower esophageal sphincter.\n- Esophagectomy is not indicated for motility disorders.\n- Endoscopic injection of botulinum toxin into the lower esophageal sphincter is done with the intent of blocking the release of acetylcholine from the cholinergic neurons to lower both the basal and residual lower esophageal sphincter pressures.\n- Although patients experience relief from dysphagia, this relief is short lived and requires repeated injections for continued relief.\n- Lower esophageal sphincter pressure is not substantially reduced.\n- Repeated injections create an inflammatory reaction in the distal esophagus, with resultant submucosal fibrosis, which can make subsequent myotomy more difficult.\n- Pneumatic dilation decreases esophageal outflow resistance by tearing the fibers of the lower esophageal sphincter, with attendant risk of perforation.\n- Its efficacy is longer lasting than botulinum toxin injection but not as efficacious as surgical myotomy, with only 38% of patients experiencing long-term symptom relief.\n- Laparoscopic Heller myotomy is the most effective treatment for achalasia, with long-term symptom relief of dysphagia, regurgitation, and chest pain approaching 80% at 10 years.\n- Thoracoscopic Heller myotomy, although efficacious, has largely been abandoned due to a combination of cumbersome intraoperative management (double lumen endotracheal tube for single lung ventilation), postoperative pain related to tube thoracostomy, and an incidence of postoperative gastroesophageal reflux of up to 60%.\n- Per-oral endoscopic myotomy (POEM) is a new technique in which entry into the submucosal space allows dissection of the submucosa distally along the muscular layer using spray coagulation.\n- This creates a submucosal tunnel that extends beyond the gastroesophageal junction.\n- Myotomy of the circular esophageal and gastric muscle bundles can then be performed under direct vision.\n- The mucosal incision is closed with hemostatic clips.\n- POEM is safe, less invasive than conventional surgery, and appears to offer durable symptom relief approaching that of Heller myotomy, with very promising 3-year data."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "A 34-year-old man presents with epigastric pain that has persisted despite dietary modifications and proton pump inhibitor therapy. Upper endoscopy reveals a flat, slightly irregular, 3-cm mass in the distal stomach. Biopsy reveals low-grade lymphoma of mucosa-associated lymphoid tissue. The AP-12-MALT1 mutation was absent. Endoscopic ultrasound reveals no penetration of the submucosa and no involvement of perigastric nodes. What is the best initial management?",
+            "options": [
+                "A. Distal gastrectomy",
+                "B. Imatinib",
+                "C. Treatment for Helicobacter pylori",
+                "D. Chemoradiation",
+                "E. Subtotal gastrectomy"
+            ],
+            "answer": "C",
+            "explanation": "- Gastric lymphoma accounts for 2 to 7% of primary gastric malignancies.\n- The endoscopic appearance is variable and can be flat, polypoid, and ulcerated.\n- It is primarily seen in the middle to distal third of the stomach, with multifocal and diffuse disease typical.\n- Most primary gastric lymphoma arise from B cells, closely resembling mucosa associated lymphoid tissue (MALT).\n- The connection of MALT lymphoma and Helicobacter pylori infection is well established, with these bacteria present in the stomachs of most patients with this disease.\n- The theory is that lymphoid cells accumulate in the stomach in response to H. pylori infection.\n- The B cells proliferate monoclonally, resulting in a low-grade lymphoma.\n- This proliferation is thought to require both the antigenic stimulation by H. pylori as well as production of IL-2 by normal T cells.\n- Without treatment, low-grade lymphoma can progress to high-grade lymphoma.\n- Prognosis is better than that of equivalent non-Hodgkin lymphoma.\n- Low-grade MALT lymphomas are typically localized and slow to spread to lymph nodes and other sites.\n- As might be expected, survival for low-grade lymphoma is better than for high grade lymphoma.\n- Initial treatment for low-grade MALT lymphoma should include the eradication of H. pylori, which results in successful and durable regression of the MALT lymphoma in most cases.\n- Predictors of response to treatment include depth of penetration of the gastric wall (deep to the submucosa is less responsive), absence of AP-12-MALT1 translocation in the lymphoma cells, gastric site (proximal is more worrisome), microsatellite instability, and advanced age.\n- If the patient does not have H. pylori infection or does not respond to treatment for these bacteria, treatment is then radiation therapy, with chemotherapy as salvage for radiation failure.\n- Surgical excision for gastric MALT lymphoma is not considered appropriate therapy.\n- Imatinib, a tyrosine kinase inhibitor, is used for treatment of gastrointestinal stromal tumors but is not described for treatment of gastric MALT lymphoma."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "A 36-year-old woman undergoes upper endoscopy for evaluation of gastroesophageal reflux. No esophagitis or hiatal hernia is visualized. In the distal stomach, 3 subcentimeter polypoid lesions are visualized and biopsied. Pathology reveals carcinoid tumor. Repeat upper endoscopy with random biopsies of the antrum and fundus reveals no evidence of occult malignancy, but atrophic gastritis is identified. Endoscopic ultrasound reveals these lesions to be superficial. CT scan is unrevealing. Serum gastrin is markedly elevated. Chromogranin A is mildly elevated. Parietal cell and intrinsic factor antibodies are positive, consistent with autoimmune atrophic gastritis. Serum Vitamin B12 is low. The best management for these lesions is",
+            "options": [
+                "A. observation.",
+                "B. endoscopic removal.",
+                "C. antrectomy.",
+                "D. vagotomy and pyloroplasty.",
+                "E. total gastrectomy."
+            ],
+            "answer": "B",
+            "explanation": "- Gastroenteropancreatic neuroendocrine tumors (NET or carcinoids) occur at a rate of 35 per 100,000 population.\n- This patient's tumor is type I, as are 70 to 80% of gastric NETs.\n- They occur mostly in women ages 40 to 60, and present with multifocal, subcentimeter polypoid mucosal protrusions in the body or fundus.\n- These lesions are associated with fundic chronic atrophic gastritis (often autoimmune) and enterochromaffin-like cell hyperplasia.\n- As in this patient, almost all type I and II gastric NETs are asymptomatic and found on upper endoscopy performed for vague upper abdominal symptoms.\n- Multiple biopsies are required, because larger tumors (>1 cm) can be associated with a synchronous gastric adenocarcinoma.\n- Biopsies should be stained for Chromogranin A and synaptophysin, with mitotic count and Ki-67 index assessment.\n- Endoscopic ultrasound is preferred for assessing both tumor size and depth of penetration.\n- Serum gastrin and Chromogranin A are obtained; a serum gastrin greater than 120 pg/mL (0-100 pg/mL) is 94% sensitive and 100% specific for this diagnosis.\n- Hypergastrinemia is associated with an acidic stomach with chronic atrophic gastritis on biopsy.\n- If present, parietal cell and intrinsic factor antibodies, with serum Vitamin B12 and a complete blood count should be obtained as well.\n- Type I and type II gastric NETs that are less than 1 cm and without risk factors (muscle invasion, increased proliferation, angioinvasion) can be managed with either endoscopic surveillance (every 1-2 years) or endoscopic removal.\n- Endoscopic removal is favored over observation and surveillance if there are fewer than 6 nodules, as in this patient.\n- There is no survival benefit for surgical resection compared with endoscopic removal in this setting.\n- Solitary, larger gastric NETs often have associated risk factors and are managed surgically, with antrectomy for tumors larger than 1 cm and total gastrectomy with oncologic lymph node resection for poorly differentiated neuroendocrine carcinoma of the stomach.\n- Vagotomy and pyloroplasty would address neither the primary problem nor its etiology and have not been used for this disease."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "A 72-year-old man presents to urgent care with 4 days of intermittent fevers and persistent right upper quadrant pain. He is hemodynamically normal. His bilirubin is 5 mg/dL (0.2-1.9 mg/dL). His alkaline phosphatase is 110IU/L (<95 IU/L), and his aspartate aminotransferase is 400 IU/L (6-34 IU/L). His amylase is 200 U/L (23-85 U/L). Ultrasound shows gallbladder wall thickening and a common bile duct of 1 cm. Which of the following findings predicts the presence of a common bile duct stone?",
+            "options": [
+                "A. Total bilirubin",
+                "B. Gallbladder wall thickening",
+                "C. Pancreatitis",
+                "D. Alkaline phosphatase",
+                "E. Aspartate aminotransferase"
+            ],
+            "answer": "A",
+            "explanation": "- The presence of bile duct stones is a common problem in patients presenting with cholecystitis.\n- Endoscopic retrograde cholangiopancreatography (ERCP) is highly effective in extraction of choledocholithiasis, but it is associated potentially severe complications.\n- Patients should be risk stratified using biochemical tests and ultrasound findings, based on the likelihood of having choledocholithiasis, to minimize adverse outcomes.\n- The American Society of Gastrointestinal Endoscopy guidelines assign a likelihood of choledocholithiasis based on the presence of very strong, strong, and moderate clinical predictors (table 19.1).\n- A high likelihood (>50%) of choledocholithiasis is defined as the presence of 1 very strong predictor or 2 strong predictors; a low likelihood exists in the absence of any predictors.\n- All other patients are at intermediate risk for choledocholithiasis.\n- Very strong predictors of choledocholithiasis include CBD stone on transabdominal US, Clinical ascending cholangitis, and Bilirubin >4 mg/dL.\n- Strong predictors include Dilated CBD on US (>6 mm with gallbladder in situ) and Bilirubin level 1.8-4 mg/dL.\n- Moderate predictors include Abnormal liver biochemical test other than bilirubin, Age older than 55 years, and Clinical gallstone pancreatitis.\n- Several studies have examined the accuracy of these guidelines in predicting choledocholithiasis.\n- The most robust findings are the presence of a bilirubin greater than 4 mg/dL (specificity, 83-94%) and the presence of choledocholithiasis on ultrasound (specificity, 94-97%).\n- Other predictors are more variable in accuracy and may lead to continued overuse of ERCP."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "A 47-year-old man presents to the emergency department with right upper quadrant pain after a large meal. He has no associated fever. His white blood cell count and liver function tests are normal. An abdominal ultrasound demonstrates a 1.4-cm gallbladder polyp in the fundus of the gallbladder. There is no evidence of pericholecystic fluid or gallbladder wall thickening. The optimal management is",
+            "options": [
+                "A. repeat ultrasound in 3 months.",
+                "B. cholecystectomy.",
+                "C. cholecystectomy with a liver margin.",
+                "D. MRI of the abdomen.",
+                "E. endoscopic retrograde cholangiopancreatography."
+            ],
+            "answer": "B",
+            "explanation": "- A gallbladder polyp is defined as any projection of mucosa into the lumen of the gallbladder.\n- The estimated prevalence is approximately 5%.\n- Polyps are classified as neoplastic (adenomas, carcinoma in situ) and nonneoplastic (approximately 95% of all polyps).\n- Although most gallbladder polyps are found incidentally after cholecystectomy, when identified on imaging studies, the management algorithm depends on the presence of symptoms and on the risk of malignancy.\n- Cholecystectomy is recommended for symptomatic patients.\n- Risk factors for malignancy include patient age, presence of gallstones, sessile morphology, polyp size, and a diagnosis of primary sclerosing cholangitis.\n- Current consensus is that gallbladder polyps larger than 1 cm are at higher risk for malignancy, particularly for patients older than 45 to 50 years of age.\n- Surveillance is recommended for patients with gallbladder polyps between 5 and 10 mm and includes serial imaging every 6 to 12 months.\n- The optimal duration of follow-up for polyps that are unchanged in size is unknown.\n- For asymptomatic patients with small (<5 mm) polyps, surveillance may not be required."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "A 65-year-old woman presents with 3 days of progressive abdominal distention and obstipation. She has no surgical history and is otherwise healthy except for declining mental status over the past several years. Her admitting abdominal plain film is shown (figure 21.1). With regard to her likely diagnosis, which of the following statements is true?",
+            "options": [
+                "A. This condition has a lower incidence in African Americans.",
+                "B. Sigmoidopexy is appropriate initial management.",
+                "C. Colonoscopic decompression is more successful with sigmoid involvement than with a cecal location.",
+                "D. The recurrence rate after colonoscopic sigmoid decompression is less than 25%.",
+                "E. Placement of a rectal tube is sufficient management."
+            ],
+            "answer": "C",
+            "explanation": "- Colonic volvulus is a common cause of large bowel obstruction worldwide (10-20%) but occurs less commonly in the United States.\n- It occurs more frequently among older and debilitated patients.\n- Colonic volvulus appears to have a higher incidence among African American patients because of a long sigmoid mesentery with a narrow stalk.\n- This finding suggests that anatomic factors may play a more significant role in pathogenesis than diet alone.\n- Recent reports suggest that cecal and sigmoid volvulus occur equally.\n- When identified, volvulus must be treated rapidly to prevent progression of bowel ischemia, gangrene, and perforation.\n- Colonoscopic decompression has a success rate of 70 to 90% in sigmoid volvulus but often fails in the management of cecal volvulus.\n- When successful for sigmoid involvement, colonoscopic decompression is not definitive treatment, because it is associated with a short-term recurrence rate of 20 to 70%.\n- Sigmoidopexy has a recurrence rate of up to 10%.\n- For these reasons, decompression is recommended for initial management, with resection with anastomosis rather than sigmoidopexy for definitive treatment.\n- A limited number of studies have examined open versus laparoscopic management for uncomplicated sigmoid volvulus.\n- Preliminary reports indicate no difference between the 2 techniques with regard to hospital stay, anastomotic leak rate, the need for reoperation, or the occurrence of serious morbidity.\n- Placement of a rectal tube alone is not sufficient management because of the inability to decompress the bowl proximal to the area of torsion."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "A 35-y ear-old woman presents with a 2-year history of abdominal pain, weight loss, and postprandial emesis. On physical examination, she is cachectic. An abdominal CT scan demonstrates a dilatated duodenum (figure 22.1). Which of the following statements regarding this condition is true?",
+            "options": [
+                "A. Patients will have an increased angle between the superior mesenteric artery and the aorta.",
+                "B. Pain is secondary to malabsorption.",
+                "C. There is an equal sex distribution.",
+                "D. Abdominal pain is improved by lying prone.",
+                "E. Endovascular stenting is recommended as initial therapy."
+            ],
+            "answer": "D",
+            "explanation": "- Superior mesenteric artery (SMA) syndrome was first described by Rokitansky in 1842 and is caused by entrapment of the third part of the duodenum between the SMA and the aorta.\n- The most important anatomic consideration is a decreased angle between the SMA and the aorta.\n- Normally, this angle is between 38° and 65°.\n- When reduced below 22%, obstruction of the third portion of the duodenum can occur.\n- The cause of the narrowing is thought to be the loss of intra-abdominal fat that narrows the aorta superior mesenteric angle resulting in functional obstruction of the duodenum.\n- The 2 most common antecedent events are weight loss and corrective surgery for scoliosis.\n- Women are affected more commonly than men, which may be a reflection of an overall lower body fat composition.\n- Although malabsorption may lead to weight loss, epigastric postprandial pain associated with the SMA syndrome is caused by functional obstruction of the third portion of the duodenum leading to high-volume emesis of partially digested food, early satiety, and nausea.\n- Several diagnostic studies are useful, including abdominal CT scan with intravenous contrast, barium swallow, angiography, and ultrasound.\n- A barium study will typically show an abrupt cutoff at the level of the third portion of the duodenum.\n- Having the patient lie prone or in a right lateral decubitus position will increase the aorto superior mesenteric angle and allow the barium to pass.\n- Surgical procedures address the obstructed bowel rather than the SMA itself.\n- Management includes both laparoscopic and open duodenojejunostomy to bypass the affected segment."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "A 53-year-old man had open aortobifemoral grafting for an abdominal aortic aneurysm 2 years ago. he presents to the emergency department with tachycardia and hypotension after developing melena at home. After initiating resuscitative measures, which of the following should be undertaken immediately to evaluate for an aortoenteric fistula?",
+            "options": [
+                "A. Abdominal ultrasonography",
+                "B. CT angiography",
+                "C. Upper endoscopy",
+                "D. Tagged red blood, cell scan",
+                "E. Colonoscopy"
+            ],
+            "answer": "B",
+            "explanation": "- Aortoenteric fistula (AEF) is a potentially life-threatening condition arising after prosthetic graft placement for treatment of aortic disease (i.e., aneurysmal repair, bypass grafting).\n- Up to 70% of patients present initially with gastrointestinal bleeding, although hypovolemic shock, sepsis, and abdominal pain with general malaise can occur.\n- Exsanguinating hemorrhage is often preceded by a minor \"herald bleed,\" which is self-limited secondary to vasoconstriction and thrombus formation at the site of the AEF.\n- Herald bleeds can occur from hours to months before massive hemorrhage.\n- The duodenum is the most common enteric site for an AEF, with more than half of cases occurring at this site, followed by the jejunum and ileum.\n- Prompt diagnosis is key to survival.\n- Although upper endoscopy is undertaken to rule out other etiologies of bleeding in hemodynamically normal patients, it is not a very sensitive or specific modality for identifying AEF.\n- CT angiography, conversely, has a reported sensitivity approaching 94%, especially when considering findings associated with AEF.\n- Such criteria include ectopic gas (i.e., air between the aorta and duodenum), perigraft fluid, perigraft soft tissue attenuation (i.e., loss of a distinct interface between aorta and bowel), focal bowel wall thickening, and the presence of a pseudoaneurysm.\n- Given such sensitivity, it is the diagnostic modality of choice in hemodynamically abnormal patients with prior aortic prosthetic graft placement and suspected AEF.\n- Colonoscopy, abdominal ultrasonography, and tagged red blood cell nuclear scintigraphy have very poor sensitivity and specificity in identifying AEFs.\n- Although complete graft excision with oversewing of the aortic stump was the standard of care for AEF, treatment is evolving toward staged therapy involving endovascular stent placement followed by open repair."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "A 49-year-old man presents with right lower quadrant pain and a CT scan of the abdomen/pelvis consistent with appendicitis. He undergoes laparoscopic appendectomy. Pathology shows a 2.5-cm mass at the base of the appendix that is a well-differentiated neuroendocrine tumor and negative margins (carcinoid). The next step in treatment is",
+            "options": [
+                "A. observation.",
+                "B. total abdominal colectomy.",
+                "C. C right hemicolectomy.",
+                "D. 5-fluorouracil-based chemotherapy.",
+                "E. E octreotide."
+            ],
+            "answer": "C",
+            "explanation": "- The appendix is the most common location for intestinal neuroendocrine tumors (NETs).\n- Well-differentiated intestinal NETs are also called carcinoid tumors.\n- Right hemicolectomy is recommended for appendiceal NETs with any of the following characteristics: size larger than 2 cm, evidence of invasion at the base of the appendix, incomplete resection, lymphovascular invasion, invasion into the mesoappendix, intermediate to high grade, or goblet cell carcinoid/adenocarcinoid histology.\n- Total hemicolectomy is not required, because the goal of the right hemicolectomy is to resect the nearby lymph node basin at risk for this appendiceal primary.\n- Five-fluorouracil-based chemotherapy is standard treatment for advanced colorectal adenocarcinoma but not for localized intestinal NETs.\n- Octreotide is a synthetic analog of somatostatin.\n- Most intestinal NETs express somatostatin receptors.\n- Octreotide is used in the treatment of locoregional unresectable NETs and patients with distant metastatic disease."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "A 65-year-old woman presents with a complete small bowel obstruction. She has had no history of abdominal operations. CT scan of the abdomen/pelvis shows a mass in the mid-ileum and extensive mesenteric and retroperitoneal lymphadenopathy. After resuscitation and placement of a nasogastric tube, she is taken for exploratory laparotomy. Intraoperative biopsy of mesenteric lymph nodes suggests small bowel lymphoma. The best next step is to",
+            "options": [
+                "A. A stop surgery; start postoperative chemotherapy.",
+                "B. place an operative gastric tube.",
+                "C. perform a small bowel resection with resection of the associated mesentery.",
+                "D. biopsy the retroperitoneal lymphadenopathy.",
+                "E. stop surgery; test for Helicobacter pylori."
+            ],
+            "answer": "C",
+            "explanation": "- Patients with lymphoma involving the small bowel most often have systemic disease.\n- In adults, lymphoma accounts for 25% of malignant small bowel tumors.\n- The ileum is the most commonly affected site, due to the abundance of lymphoid tissue.\n- In this patient, the complete small bowel obstruction mandates surgical exploration, even with the findings of extensive mesenteric and retroperitoneal lymphadenopathy on her preoperative imaging.\n- The goal of surgery is to relieve her obstruction, and, if possible, to resect the affected bowel en bloc with the mesenteric disease.\n- Stopping surgery and attempting chemotherapy would not be safe in the setting of a complete small bowel obstruction.\n- Placing an operative gastric tube would temporize the patient but would be unlikely to relieve the obstruction enough to get her to definitive medical treatment.\n- A biopsy of the retroperitoneal lymphadenopathy is unlikely to give additional useful information.\n- This disease likely also represents systemic lymphoma, and there is increased risk with performing the unnecessary additional biopsy.\n- Treatment of Helicobacter pylori in MALT lymphoma can result in remission of disease in the majority of patients.\n- Testing for H. pylori would not change the management for this patient."
+        },
+        {
+            "id": 26,
+            "question_type": "mcq",
+            "question": "A 17-year-old boy is rushed to the emergency department by his parents after drinking from a bottle containing a bathroom cleaner. The label indicates it contains sodium hydroxide and sodium hypochlorite. An attempt at self-harm is suspected. He is coughing, hoarse, and complains of throat and chest pain. Which of the following statements is true?",
+            "options": [
+                "A. A neutralizing solution should be given orally in the emergency department",
+                "B. Sodium hypochlorite solutions have a higher risk of caustic injury than sodium hydroxide solutions.",
+                "C. More severe injuries are associated with suicide attempts.",
+                "D. Esophageal perforations due to alkali solutions occur within minutes of ingestion."
+            ],
+            "answer": "C",
+            "explanation": "- Ingestion of strong alkali bases, such as sodium hydroxide (NaOH) can produce severe esophageal burns and necrosis (caustic injury).\n- Although sodium hypochlorite (NaOCl) is a strong alkali, ingestion of hypochlorite-only solutions, such as household bleach, typically cause only minor damage to the esophagus such as first-degree burns or hyperemia.\n- Bleach ingestion only rarely produces severe complications such as perforation or stricture, usually with large volume ingestions.\n- Attempts to use neutralizing agents in caustic injury should be avoided because they may generate exothermic reactions and further injury.\n- Most accidental caustic ingestions produce mild injuries from which patients recover without complications.\n- Large ingestions are usually associated with suicide attempts and produce more severe injuries. These can cause death from hemorrhage, gastrointestinal perforation with sepsis, pulmonary injury, and aortoenteric fistulae in the first 2 to 3 weeks after ingestion.\n- Long-term complications include gastrointestinal fistulae and pharyngeal, esophageal, and gastric strictures that compromise nutritional status.\n- Initial management of the patient may require a critical care environment with endotracheal intubation and ventilation available.\n- Multiple-agent ingestions (alcohol, drugs, other poisons) are common.\n- Initial assessment usually includes evaluation of the injury via esophagogastroduodenoscopy.\n- Caustic injury of the esophagus begins within minutes and may persist for hours.\n- Clinical evidence of esophageal perforation is usually delayed, possibly as a result of transmural ischemia and subsequent necrosis due to alkali-induced arteriolar and venous thrombosis of the esophageal wall."
+        },
+        {
+            "id": 27,
+            "question_type": "msq",
+            "question": "Pictures taken during the initial esophago-gastroduodenoscopy (EGD) in figure 27.1. What is the next step in this patient's care?",
+            "options": [
+                "A. Early repeat endoscopy and dilation",
+                "B. Pharmacologic steroids",
+                "C. Esophagectomy",
+                "D. Esophageal stenting",
+                "E. CT scan"
+            ],
+            "answer": [
+                "C",
+                "E"
+            ],
+            "explanation": "- Initial assessment usually includes evaluation of the injury via esophagogastroduodenoscopy.\n- Endoscopic grading is as follows: Grade 0 - Normal, Grade 1 - Mucosal edema and hyperemia, Grade 2A - Superficial ulcers, bleeding, exudates, Grade 2B - Deep focal or circumferential ulcers, Grade 3A - Focal necrosis, Grade 3B - Extensive necrosis, Grade 4- Perforation.\n- Emergency surgery, including esophagectomy is often advocated for severe injuries seen at esophagogastroduodenoscopy (grades 3B and 4).\n- However, poor survival and poor long-term functional outcomes are associated with emergency surgery for caustic injuries.\n- Steroids are not beneficial in the management of esophageal injury.\n- Strictures are late sequalae usually occurring within 8 weeks and sometimes as early as 3 weeks after esophageal injury.\n- Strictures occur in 71% of grade 2B and 100% of grade 3 injuries.\n- Stricture management may include stenting, dilation, or delayed esophagectomy.\n- A CT scan would be a logical next step after EGD to assess the transmural extent of the injury, especially for severe burns, which can guide further management including potential esophagectomy."
+        },
+        {
+            "id": 28,
+            "question_type": "mcq",
+            "question": "Which of the following statements is true regarding percutaneous endoscopic gastrostomy (PEG) tube insertion?",
+            "options": [
+                "A. Button gastrostomy devices should not be placed as an initial procedure.",
+                "B. Ultrasound-guided needle placement may decrease complications from PEG placement.",
+                "C. \"Buried bumper\" syndrome is avoided by securing the external skin flange t the skin by sutures.",
+                "D. Perioperative antibiotics are not required.",
+                "E. Dislodgement or inadvertent removal of the PEG tube in the first 4 weeks after placement requires laparoscopy for replacement"
+            ],
+            "answer": "B",
+            "explanation": "- Percutaneous endoscopic gastrostomy (PEG) tube insertion is commonly performed in patients who have long-term issues with oral intake, such as neurologic conditions.\n- Complication rates of PEG vary from 0.4 to 22.5% of cases, with major complications occurring in one-third of total complications.\n- Button gastrostomies are popular in pediatric patients and may be safely placed as initial gastrostomy or to replace an existing PEG.\n- This is a low-profile device that may be preferable in mobile adult patients on intermittent feeds where a standard PEG may be at risk of being pulled out.\n- The \"buried bumper\" syndrome is reported in 1% of PEG tube insertions, so-called because the internal fixation device migrates into the tract of the stoma and outside of the stomach.\n- This can result in obstruction of the PEG or leakage of tube feeds into the abdominal wall or peritoneal cavity with possible infection, including necrotizing infections, peritonitis, and sepsis.\n- Buried bumper syndrome is thought to be caused by excess compression of tissue between the external and internal fixation device of the PEG tube.\n- Skin sutures on the external flange of the PEG alone will not prevent buried bumper syndrome.\n- Avoiding excess tension or laxity of the PEG flanges during and after insertion and demonstration of the \"PEG swirl\" sign (twisting mucosa with rotation of the PEG tube) during insertion gastroscopy are proposed avoidance measures.\n- Perioperative antibiotics for PEG tube insertion are recommended because a meta-analysis demonstrated a statistically significant reduction (50-75%) in the incidence of peristomal infection with administration of prophylactic antibiotics.\n- Early dislodgement of a PEG tube is usually described as less than 14 days after initial insertion.\n- Dislodgement carries a significant risk of morbidity and mortality because the stomach may separate from the abdominal wall and leak gastric contents and tube feeds into the peritoneal cavity.\n- Peritonitis usually requires open laparotomy to perform gastrostomy closure, irrigation and drainage of the peritoneal cavity, and placement of an open gastrostomy.\n- After 14 days, the PEG tube tract is usually mature, and dislodgement is considered late.\n- At this point, the tube can be inserted back through the tract and position confirmed by contrast fluoroscopy or CT scan.\n- Ultrasound is used to avoid PEG insertion complications, and it may reveal the cause of unsuccessful transillumination of the abdominal wall due to intervening structures such as the left lobe of the liver."
+        },
+        {
+            "id": 29,
+            "question_type": "mcq",
+            "question": "A patient has undergone previous endoscopic resection of a 2-cm malignant rectal polyp. Additional rectal surgery is necessary for which of the following clinical or pathologic findings?",
+            "options": [
+                "A. A 2-mm negative resection margin",
+                "B. A moderately differentiated tumor with a negative margin",
+                "C. Submucosal invasion of less than 1 mm",
+                "D. Poorly differentiated tumor cells",
+                "E. Polyp size"
+            ],
+            "answer": "D",
+            "explanation": "- An abundance of evidence suggests that colon cancers arise from precursor adenomatous polyps.\n- The polyp-to-cancer sequence represents a stepwise progression from normal epithelium to benign polyps, to malignant polyps, and ultimately invasive adenocarcinoma.\n- Polyps can appear benign endoscopically but have occult malignant invasion identified only on microscopic pathologic evaluation after resection.\n- Malignant polyps will have cancer cells invading through the muscularis mucosa into the underlying submucosa.\n- Histologic examination can identify patients who require surgical resection due to incomplete resection or the need to remove draining lymph nodes at high risk of metastatic disease.\n- Complete endoscopic removal is necessary to allow accurate histologic classification.\n- Characteristics of high-risk malignant polyps include poor differentiation, lymphovascular invasion, submucosal invasion of more than 1 mm, a margin of less than 1 mm, and resection in pieces, making margin assessment difficult.\n- Although polyp size is associated with the presence of occult malignancy, it does not confer any specific risk over and above the previously outlined criteria.\n- Patients medically fit for surgery who have high-risk polyps should be referred for definitive oncologic segmental resection."
+        },
+        {
+            "id": 30,
+            "question_type": "mcq",
+            "question": "A 45-year-old woman is undergoing an upper endoscopy for gastroesophageal reflux disease. Endoscopy demonstrates multiple smooth, dome-shaped polyps in the antrum of the stomach. They range in size from 0.5 to 1 cm. These polyps are most likely to be associated with",
+            "options": [
+                "A. alcohol consumption.",
+                "B. familial adenomatous polyposis.",
+                "C. hypergastrinemia.",
+                "D. Helicobacter pylori.",
+                "E. chronic proton pump inhibitor use."
+            ],
+            "answer": "D",
+            "explanation": "- Most gastric polyps are asymptomatic. They are discovered incidentally during endoscopy in 6% of cases.\n- Symptomatic gastric polyps tend to present with bleeding (acute or chronic) or nonspecific symptoms such as weight loss, abdominal pain, and nausea.\n- Hyperplastic and fundic gland polyps are the 2 types of polyps most frequently identified in the stomach.\n- They tend to occur most frequently on a background of chronic gastritis, that is, as a response to chronic inflammation.\n- This gastritis may be chemical in nature (bile reflux), infectious (Helicobacter pylori), or reactive.\n- Hyperplastic polyps most commonly occur in the setting of inflammation secondary to H. pylori infection.\n- Hyperplastic polyps will regress with H. pylori eradication.\n- Endoscopic findings of hyperplastic polyps include sizes ranging from 0.5 to 1.5 cm, usually with a smooth, dome-shaped characteristic, although they can be stalked.\n- They usually cluster in the antrum but can occur throughout the stomach.\n- Fundic gland polyps tend to be smaller than hyperplastic polyps (0.1-0.8 cm) and are sessile.\n- They occur exclusively in the gastric fundus and tend to have a normal underlying gastric mucosa.\n- Their presence is associated with proton pump inhibitor use, hypergastrinemia, and familial adenomatous polyposis (FAP).\n- Adenomatous polyps may be sessile or polypoid in shape but are usually less than 2 cm and solitary.\n- They can occur spontaneously or as part of familial syndromes such as FAP.\n- Alcohol intake is not associated with the development of any polyp disorders."
+        }
+    ]
+}
