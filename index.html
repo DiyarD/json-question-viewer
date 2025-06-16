@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Quiz Viewer</title>
+    <style>
+        :root {
+            --primary-bg: #ffffff;
+            --secondary-bg: #f7f9fc;
+            --border-color: #e0e0e0;
+            --text-color: #333;
+            --accent-color: #007bff;
+            --correct-bg: #e6f7e9;
+            --correct-border: #8dcc93;
+            --correct-text: #2d6b32;
+            --answer-reveal-bg: #f0f8ff;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            background-color: var(--primary-bg);
+            color: var(--text-color);
+            margin: 0;
+            padding: 20px;
+        }
+        main {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        .header {
+            text-align: center;
+            border-bottom: 2px solid var(--border-color);
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        #fileInput {
+            display: block;
+            margin: 20px auto;
+            padding: 10px;
+            border: 1px solid var(--border-color);
+            border-radius: 5px;
+        }
+        #chapter-title {
+            text-align: center;
+            color: var(--accent-color);
+            font-size: 2em;
+        }
+        .question-card {
+            background-color: var(--secondary-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            margin-bottom: 25px;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        .question-header {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        .question-header .type {
+            font-size: 0.8em;
+            font-weight: normal;
+            background-color: var(--accent-color);
+            color: white;
+            padding: 2px 8px;
+            border-radius: 12px;
+            margin-left: 10px;
+            vertical-align: middle;
+        }
+        .question-text {
+            margin-bottom: 20px;
+        }
+        .options-list {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .options-list li {
+            background-color: var(--primary-bg);
+            border: 1px solid var(--border-color);
+            padding: 10px 15px;
+            margin-bottom: 8px;
+            border-radius: 5px;
+            display: flex;
+            align-items: center; /* Changed for better alignment */
+        }
+        .options-list .option-letter {
+            font-weight: bold;
+            margin-right: 10px;
+            color: var(--accent-color);
+        }
+        .options-list li.correct {
+            background-color: var(--correct-bg);
+            border-color: var(--correct-border);
+            color: var(--correct-text);
+            font-weight: bold;
+        }
+        .options-list li.correct .option-letter {
+            color: var(--correct-text);
+        }
+        /* *** NEW STYLE *** */
+        .answer-reveal {
+            font-weight: bold;
+            color: var(--accent-color);
+            margin-left: auto; /* Pushes it to the right */
+            padding-left: 15px;
+            background-color: var(--answer-reveal-bg);
+            padding: 3px 8px;
+            border-radius: 4px;
+            border: 1px solid var(--accent-color);
+        }
+        .toggle-answer-btn {
+            background-color: var(--accent-color);
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 0.9em;
+            margin-top: 15px;
+            transition: background-color 0.2s;
+        }
+        .toggle-answer-btn:hover {
+            background-color: #0056b3;
+        }
+        .answer-explanation {
+            display: none;
+            margin-top: 20px;
+            padding: 15px;
+            background-color: var(--answer-reveal-bg);
+            border-left: 4px solid var(--accent-color);
+            border-radius: 0 5px 5px 0;
+        }
+        .answer-explanation h4 {
+            margin-top: 0;
+            margin-bottom: 10px;
+            color: var(--accent-color);
+        }
+        .answer-content {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 1.1em;
+            background: #e9ecef;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            word-wrap: break-word;
+        }
+        .explanation-content {
+            font-style: italic;
+        }
+        .explanation-content:empty::before {
+            content: "No explanation provided.";
+            color: #888;
+            font-style: normal;
+        }
+        .matching-container {
+            display: flex;
+            gap: 20px;
+        }
+        .matching-container div {
+            flex: 1;
+        }
+        .matching-container h5 {
+            margin-bottom: 5px;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <div class="header">
+            <h1>JSON Quiz Viewer</h1>
+            <p>Load a quiz file generated by the specified prompt.</p>
+            <input type="file" id="fileInput" accept=".json">
+        </div>
+        
+        <div id="quiz-container">
+            <h2 id="chapter-title"></h2>
+            <div id="questions-list"></div>
+        </div>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const fileInput = document.getElementById('fileInput');
+            const chapterTitleEl = document.getElementById('chapter-title');
+            const questionsListEl = document.getElementById('questions-list');
+
+            fileInput.addEventListener('change', handleFileSelect);
+
+            function handleFileSelect(event) {
+                const file = event.target.files[0];
+                if (!file) {
+                    return;
+                }
+
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    try {
+                        const content = e.target.result;
+                        const data = JSON.parse(content);
+                        renderQuiz(data);
+                    } catch (error) {
+                        alert(`Error parsing JSON file: ${error.message}`);
+                        clearQuiz();
+                    }
+                };
+                reader.onerror = function() {
+                    alert('Error reading file.');
+                    clearQuiz();
+                }
+                reader.readAsText(file);
+            }
+
+            function clearQuiz() {
+                chapterTitleEl.innerHTML = '';
+                questionsListEl.innerHTML = '';
+            }
+
+            function renderQuiz(data) {
+                clearQuiz();
+                chapterTitleEl.innerHTML = data.chapter_name || 'Untitled Chapter';
+                
+                data.questions.forEach(q => {
+                    const questionCard = document.createElement('div');
+                    questionCard.className = 'question-card';
+                    
+                    const questionId = q.id;
+                    const questionType = q.question_type;
+                    
+                    const questionHeader = document.createElement('div');
+                    questionHeader.className = 'question-header';
+                    questionHeader.innerHTML = `Question ${questionId} <span class="type">${questionType}</span>`;
+                    
+                    const questionText = document.createElement('div');
+                    questionText.className = 'question-text';
+                    questionText.innerHTML = q.question;
+                    
+                    const optionsContainer = document.createElement('div');
+                    optionsContainer.className = 'options-container';
+                    optionsContainer.innerHTML = renderOptions(q);
+
+                    const toggleButton = document.createElement('button');
+                    toggleButton.className = 'toggle-answer-btn';
+                    toggleButton.textContent = 'Show Answer & Explanation';
+                    
+                    const answerExplanationContainer = document.createElement('div');
+                    answerExplanationContainer.className = 'answer-explanation';
+                    
+                    const answerTitle = document.createElement('h4');
+                    answerTitle.textContent = 'Correct Answer Summary';
+                    
+                    const answerContent = document.createElement('div');
+                    answerContent.className = 'answer-content';
+                    answerContent.innerHTML = formatAnswer(q);
+
+                    const explanationTitle = document.createElement('h4');
+                    explanationTitle.textContent = 'Explanation';
+
+                    const explanationContent = document.createElement('div');
+                    explanationContent.className = 'explanation-content';
+                    explanationContent.innerHTML = q.explanation;
+                    
+                    answerExplanationContainer.append(answerTitle, answerContent, explanationTitle, explanationContent);
+                    
+                    questionCard.append(questionHeader, questionText, optionsContainer, toggleButton, answerExplanationContainer);
+                    questionsListEl.append(questionCard);
+
+                    toggleButton.addEventListener('click', () => {
+                        const isVisible = answerExplanationContainer.style.display === 'block';
+                        answerExplanationContainer.style.display = isVisible ? 'none' : 'block';
+                        toggleButton.textContent = isVisible ? 'Show Answer & Explanation' : 'Hide Answer & Explanation';
+
+                        if (!isVisible) {
+                           highlightCorrectAnswer(q, optionsContainer);
+                        } else {
+                           removeHighlight(optionsContainer);
+                        }
+                    });
+                });
+            }
+
+            function renderOptions(q) {
+                const type = q.question_type;
+                const options = q.options;
+
+                if (!options || (typeof options !== 'object' || options === null) || Object.keys(options).length === 0) {
+                    return '';
+                }
+                
+                let html = '';
+
+                switch(type) {
+                    case 'mcq':
+                    case 'msq':
+                    case 'tf':
+                        html = '<ul class="options-list">';
+                        options.forEach((opt, index) => {
+                            const letter = String.fromCharCode(65 + index);
+                            html += `<li><span class="option-letter">${letter}.</span><div class="option-text">${opt}</div></li>`;
+                        });
+                        html += '</ul>';
+                        break;
+                    
+                    // *** MODIFIED: Treat matching and complex EMQ identically, adding data-attributes ***
+                    case 'emq':
+                    case 'matching':
+                        if (options.items && options.choices) {
+                            html = '<div class="matching-container">';
+                            html += '<div><h5>Items</h5><ul class="options-list">';
+                            options.items.forEach((item, index) => {
+                                const itemKey = index + 1; // Use index for robustness
+                                html += `<li data-item-id="${itemKey}"><span class="option-letter">${itemKey}.</span><div class="option-text">${item}</div></li>`;
+                            });
+                            html += '</ul></div>';
+                            html += '<div><h5>Choices</h5><ul class="options-list">';
+                            options.choices.forEach((choice, index) => {
+                                const choiceKey = String.fromCharCode(65 + index); // Use index for robustness
+                                html += `<li data-choice-id="${choiceKey}"><span class="option-letter">${choiceKey}.</span><div class="option-text">${choice}</div></li>`;
+                            });
+                            html += '</ul></div></div>';
+                        } 
+                        // Handle simple EMQs (less common but supported)
+                        else if (Array.isArray(options.choices)) {
+                            html = '<div><strong>Options:</strong><ul class="options-list">';
+                            options.choices.forEach((opt, index) => {
+                                 html += `<li><span class="option-letter">${index + 1}.</span><div class="option-text">${opt}</div></li>`;
+                            });
+                            html += '</ul></div>';
+                        }
+                        break;
+
+                    case 'ordering':
+                         html = '<div><strong>Items to order:</strong><ul class="options-list">';
+                         options.forEach((opt, index) => {
+                             html += `<li><span class="option-letter">${index + 1}.</span><div class="option-text">${opt}</div></li>`;
+                         });
+                         html += '</ul></div>';
+                        break;
+                    default:
+                        html = '';
+                }
+                return html;
+            }
+
+            function formatAnswer(q) {
+                const answer = q.answer;
+                switch(q.question_type) {
+                    case 'emq':
+                    case 'matching':
+                        if (typeof answer === 'object' && answer !== null && !Array.isArray(answer)) {
+                            return Object.entries(answer).map(([key, value]) => `${key} → ${value}`).join('<br>');
+                        }
+                        // Fallthrough for simple EMQ
+                    case 'mcq':
+                    case 'fill_blank':
+                    case 'saq':
+                    case 'numerical':
+                    case 'essay':
+                    case 'completion':
+                        return String(answer);
+                    case 'msq':
+                    case 'ordering':
+                        return Array.isArray(answer) ? answer.join(', ') : '';
+                    case 'tf':
+                        return String(answer);
+                    default:
+                        return JSON.stringify(answer, null, 2);
+                }
+            }
+            
+            // *** MODIFIED: Major rewrite of highlight function ***
+            function highlightCorrectAnswer(q, optionsContainer) {
+                const answer = q.answer;
+                const type = q.question_type;
+
+                switch(type) {
+                    case 'mcq': {
+                        const correctIndex = answer.charCodeAt(0) - 'A'.charCodeAt(0);
+                        const correctLi = optionsContainer.querySelectorAll('.options-list li')[correctIndex];
+                        if (correctLi) correctLi.classList.add('correct');
+                        break;
+                    }
+                    case 'msq': {
+                        answer.forEach(ansLetter => {
+                            const correctIndex = ansLetter.charCodeAt(0) - 'A'.charCodeAt(0);
+                            const correctLi = optionsContainer.querySelectorAll('.options-list li')[correctIndex];
+                            if (correctLi) correctLi.classList.add('correct');
+                        });
+                        break;
+                    }
+                    case 'tf': {
+                        const listItems = optionsContainer.querySelectorAll('.options-list li');
+                        const correctIndex = (String(answer).toLowerCase() === 'true') ? 0 : 1;
+                        if (listItems[correctIndex]) listItems[correctIndex].classList.add('correct');
+                        break;
+                    }
+                    case 'emq':
+                    case 'matching': {
+                        if (typeof answer === 'object' && answer !== null) {
+                            Object.entries(answer).forEach(([itemKey, choiceKey]) => {
+                                const itemLi = optionsContainer.querySelector(`li[data-item-id='${itemKey}']`);
+                                const choiceLi = optionsContainer.querySelector(`li[data-choice-id='${choiceKey}']`);
+
+                                if (itemLi && choiceLi) {
+                                    itemLi.classList.add('correct');
+                                    choiceLi.classList.add('correct');
+
+                                    // Create and append the answer reveal span
+                                    const revealSpan = document.createElement('span');
+                                    revealSpan.className = 'answer-reveal';
+                                    revealSpan.textContent = `→ ${choiceKey}`;
+                                    itemLi.appendChild(revealSpan);
+                                }
+                            });
+                        } else { // Handle simple EMQ (answer is a number/string)
+                             const listItems = optionsContainer.querySelectorAll('.options-list li');
+                             const correctIndex = parseInt(answer, 10) - 1;
+                             if (!isNaN(correctIndex) && listItems[correctIndex]) {
+                                 listItems[correctIndex].classList.add('correct');
+                             }
+                        }
+                        break;
+                    }
+                }
+            }
+
+            // *** MODIFIED: Now also removes the answer-reveal spans ***
+            function removeHighlight(optionsContainer) {
+                 optionsContainer.querySelectorAll('.options-list li').forEach(li => {
+                    li.classList.remove('correct');
+                 });
+                 optionsContainer.querySelectorAll('.answer-reveal').forEach(el => {
+                    el.remove();
+                 });
+            }
+
+        });
+    </script>
+</body>
+</html>
