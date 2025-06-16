@@ -1,0 +1,425 @@
+{
+    "chapter_name": "Section 5: Trauma",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A 25-year-old man is blue-lighted into the emergency department following an accident at work. A pan of hot cooking oil had spilled over half of his back and over both his legs and he has sustained extensive burns in this distribution. He weighs 70 kg. Calculate the additional volume of crystalloid this patient will require in the first 8 hours (from the time of his burn) of his treatment using the Parkland formula and the Wallace Rule of Nines.",
+            "options": [
+                "A. 250 mL",
+                "B. 3,150 mL",
+                "C. 6,300 mL",
+                "D. 12,600 mL",
+                "E. None, only patients with a percentage burn more than 15% require admission"
+            ],
+            "answer": "C",
+            "explanation": "Burn victims lose a lot of fluid following their injury and their treatment is notoriously difficult. The current ATLS guidelines quote the Parkland formula as the preferred method by which fluid replacement should be calculated. The formula is as follows:\n\nWeight (kg) × % Burn × 4 = Volume of crystalloid required over 24 hours\n\nThe percentage burn is best calculated using the Wallace Rule of Nines:\n\n• Head = 9%\n• Arm = 9%\n• Leg = 18%\n• Trunk front = 18%\n• Back = 18%\n\nTherefore, this patient has a percentage burn of 45%. Using this percentage in the formula gives a volume of 12,600 ml. Half of this should be given in the first 8 hours, the rest over the subsequent 16 hours. Obviously this is a rough guide and local practice will differ. All patients with this extent of injury should be managed in a specialist centre, typically in an intensive care unit. The take home message is that large volumes of fluid are required."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "A patient is admitted following a motorcycle accident. He has fractured his left femur, tibia, fibula and pelvis. His blood pressure is 70/35 mmHg, pulse is 140 beats/min, respiratory rate is 35 breaths/min and the Glasgow Coma Scale score is 9/15. You wish to resuscitate the patient. Which one of the following procedures may be contraindicated in such a patient?",
+            "options": [
+                "A. Motorcycle helmet removal",
+                "B. Urinary catheterization",
+                "C. Neck line insertion",
+                "D. Nasogastric tube insertion",
+                "E. Intubation"
+            ],
+            "answer": "B",
+            "explanation": "This patient has sustained severe injuries and has developed an advanced degree of haemorrhagic shock. Circulatory support is paramount and therefore central line insertion is justifiable. Intubation may not be urgently required; however, his low GCS at presentation identifies him as a patient at risk of further deterioration, and intubation in these cases certainly is not contraindicated. Severely traumatized patients can develop gastric distension and with an obtunded conscious state they are at risk of aspiration, therefore NG tube insertion is advocated. Helmet removal is not recommended at the scene of injury; however removal in the emergency department is advised to allow appropriate assessment and airway protection.\n\nUrinary catheterization is desirable in shock patients to guide fluid management. However, any suspicion of urethral disruption is an absolute contraindication for urethral catheter insertion. You should have a high index of suspicion in the following circumstances:\n\n• Blood at the penile meatus\n• Perineal bruising\n• Blood in the scrotum\n• High-riding prostate\n• Pelvic fracture\n\nConformation of the integrity of the urinary tract is required by retrograde urethrogram prior to catheter insertion. If urethral injury is confirmed, suprapubic catheterization is indicated."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "An initial primary survey of the chest is intended to quickly identify the following causes of cardiorespiratory compromise, except",
+            "options": [
+                "A. Flail chest",
+                "B. Cardiac tamponade",
+                "C. Tension pneumothorax",
+                "D. Haemothorax",
+                "E. Pulmonary contusion"
+            ],
+            "answer": "E",
+            "explanation": "The ATLS guidelines teach a method of rapid assessment of the traumatized patient divided into a primary survey, which is aimed at the identification of immediate threats to life, and a secondary survey, which aims to identify more minor injuries. Thoracic injuries which are an immediate threat to life include flail chest, tension pneumothorax, open pneumothorax, massive haemothorax and cardiac tamponade. Pulmonary contusion is not an immediate threat to life, and therefore is not of initial concern during the primary survey. However, it can complicate recovery as the injured lung can impair gas exchange and may be more susceptible to fluid overload."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "A patient is admitted following an assault. On assessment, he has a stab wound to his chest. Clinically, he has a massive haemothorax and his Glasgow Coma Scale score is 4/15. Without further management this patient will succumb to which cause of death first?",
+            "options": [
+                "A. Haemorrhagic shock",
+                "B. Respiratory failure",
+                "C. Airway compromise",
+                "D. Intracranial haemorrhage",
+                "E. Multiorgan failure"
+            ],
+            "answer": "C",
+            "explanation": "The ATLS primary survey follows an ABCDE format so that those injuries which most rapidly threaten life are identified and dealt with first.\n\n• A = Airway (+ cervical spine support)\n• B = Breathing\n• C = Circulation\n• D = Disability\n• E = Exposure\n\nThis patient has a GCS of 4, rendering him unable to maintain his own airway, which will therefore be the first factor to lead to his death. Consequently, his airway must be managed before addressing his other injuries."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "As well as measuring oxygen saturation, a pulse oximeter also gives useful information regarding what other factor, used in initial assessment of the traumatized patient?",
+            "options": [
+                "A. Blood pressure",
+                "B. Partial pressure of oxygen",
+                "C. Partial pressure of carbon dioxide",
+                "D. Peripheral perfusion",
+                "E. Acid-base balance"
+            ],
+            "answer": "D",
+            "explanation": "Many factors may influence the accuracy of the oximetry trace; the majority are a hindrance, such as methaemoglobinaemia, nail varnish and the presence of a blood pressure cuff on the arm in question. Another factor is poor peripheral perfusion; an oximetry trace which is low compared with the values gained from arterial blood gas sampling indicates that the patient is peripherally shut down, a consequence of low circulating volume and shock. Pulse oximetry gives no indication of pO2, pCO2, blood pressure or acid-base balance."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "Which of the following techniques does not provide a definitive airway?",
+            "options": [
+                "A. Cricothyroidotomy",
+                "B. Tracheostomy",
+                "C. Nasotracheal tube",
+                "D. Laryngeal mask airway",
+                "E. Endotracheal tube"
+            ],
+            "answer": "D",
+            "explanation": "The definition of a definitive airway is a tube in the trachea with an inflatable cuff. Definitive airways are of three types: nasotracheal, orotracheal and surgical. A laryngeal mask airway has an inflatable cuff, but this sits on top of the larynx and does not intubate the trachea. It therefore provides no airway protection from aspiration or laryngeal oedema."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "A patient is admitted following a road traffic accident. He has sustained significant blunt injury to his head, chest and abdomen and has a Glasgow Coma Scale score of 8/15. His saturations are poor at 89% on 15 L of oxygen via a rebreathing mask. You note bruising around both eyes and blood-stained fluid issuing from his left ear, which forms concentric circles when dripped on a white sheet. You wish to support his airway to improve oxygenation. The first choice of airway adjunct would be",
+            "options": [
+                "A. Oropharyngeal airway",
+                "B. Nasopharyngeal tube",
+                "C. Laryngeal mask",
+                "D. Intubation",
+                "E. Positive pressure ventilation (continuous positive airway pressure)"
+            ],
+            "answer": "A",
+            "explanation": "This patient has sustained a significant head injury which complicates your choice of airway. Candidates should be aware that any suspicion of a basal skull fracture is an absolute contraindication to nasopharyngeal airway and nasogastric tube insertion. This is because of the risk of penetrating through the damaged cribriform plate and intubating the brain.\n\nThe signs suggestive of basal skull fracture include periorbital ecchymosis (panda eyes/raccoon eyes), retroauricular ecchymosis (battle sign), CSF leakage from the nose or ears and VII/VIII cranial nerve dysfunction. The internal carotid artery may also be injured resulting in dissection or pseudoaneurysm. CSF leakage can be differentiated from blood by dripping the fluid on a white sheet; CSF will form concentric circles whereas blood will simply make a spot.\n\nWith nasopharyngeal tube placement contraindicated, the first option in this patient would be Guedel oropharyngeal airway placement. A patient with a GCS score of 8 may still gag on the Guedel airway, although with a patient thus obtunded, it is possible it will be tolerated without sedation. An endotracheal tube may well be required later in the resuscitation because this patient has a severe head injury; however, endotracheal intubation requires an anaesthetist and significant time. Guedel airway placement should still be considered the first choice adjunct as it is quick, allowing further assessment of the patient to continue, and it acts as a bridge to intubation."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "A 35-year-old man is admitted after severing his arm on industrial machinery. His airway is patent and there is no identifiable hindrance to breathing. His pulse is 110 beats/min, blood pressure is 130/105 mmHg, and respiratory rate is 25 breaths/min. Which stage of shock is this patient in?",
+            "options": [
+                "A. Class I",
+                "B. Class II",
+                "C. Class III",
+                "D. Class IV",
+                "E. Impossible to say from given information"
+            ],
+            "answer": "B",
+            "explanation": "Shock is classified into classes I-IV and its clinical evaluation is judged on the derangement of vital signs. Each class of shock can be considered to be equivalent to an estimated percentage loss, and this percentage may be used to calculate volume loss (see Question 9).\n\nThe following table illustrates the clinical signs of the different stages of hypovolaemic shock.\n\nClass I: Per cent blood loss Up to 15, Pulse rate <100, Blood pressure Normal, Pulse pressure Normal, Respiratory rate 14-20, Urine output (mL/h) >30, Mental status Slight anxiety\nClass II: Per cent blood loss 15-30, Pulse rate >100, Blood pressure Normal, Pulse pressure ↓, Respiratory rate 20-30, Urine output (mL/h) 20-30, Mental status Mild anxiety\nClass III: Per cent blood loss 30-40, Pulse rate >120, Blood pressure ↓, Pulse pressure ↓, Respiratory rate 30-40, Urine output (mL/h) 5-15, Mental status Anxious, confused\nClass IV: Per cent blood loss >40, Pulse rate >140, Blood pressure ↓, Pulse pressure ↓, Respiratory rate >35, Urine output (mL/h) <5, Mental status Confused"
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "A 35-year-old butcher is admitted after stabbing himself with a knife inadvertently. His airway is patent and there are no identifiable hindrances to breathing. His pulse is 110 beats/min, BP is 130/105 mmHg, and respiratory rate is 25 breaths/min. Assuming a body mass of 70 kg, what is the best estimated volume of blood lost?",
+            "options": [
+                "A. 400 mL",
+                "B. 1000 mL",
+                "C. 1800 mL",
+                "D. 2500 mL",
+                "E. Impossible to say from given information"
+            ],
+            "answer": "B",
+            "explanation": "Circulating volume accounts for approximately 7% of body mass. Therefore, a 70 kg adult has a circulating volume of 5 L. This rough guide is less reliable in children, in whom the circulating volume accounts for 8%-9% of body mass, or in obese people, in whom calculation should be based on their ideal body weight to avoid gross overestimation of blood loss.\n\nOnce the total volume has been calculated, estimate blood loss by assessing the class of shock. Class I shock (see Question 8) corresponds to a blood loss of up to 15% (750 mL in a 70 kg man). Class II shock equates to 15%-30% blood loss (750-1500 mL) and class III to 30%-40% (1500-2000 mL). Class IV shock accounts for blood loss of over 40%. Therefore, in this scenario, with the patient in class II shock, the best answer would be B (1000 mL blood loss)."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "A patient is admitted in haemorrhagic shock following a road traffic accident. A final year medical student places an intravenous cannula; they have inserted a pink (20 G) cannula in the antecubital fossa. What rate of flow into the patient will this allow?",
+            "options": [
+                "A. 250 mL/min",
+                "B. 170 mL/min",
+                "C. 55 mL/min",
+                "D. 25 mL/min",
+                "E. 10 mL/min"
+            ],
+            "answer": "C",
+            "explanation": "Flow rates through a hollow tube are dependent on two factors: the radius and the length of the tube. Poiseuille's law states that flow rate is proportional to the fourth power of the radius of the cannula and inversely proportional to the length. Therefore the most effective way of giving fluids is through a short fat peripheral cannula, and not, as commonly believed, through a central line. Other factors affecting flow rate include the viscosity of the fluid and the pressure difference across the tube.\n\n• Brown/orange (14 G) cannula – may deliver 250 mL/min\n• Grey (16 G) cannula – 170 mL/min\n• Green (18 G) cannula – 90 mL/min\n• Pink (20 G) cannula – 55 mL/min\n• Blue (22 G) cannula – 25 mL/min"
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "A patient is admitted to the emergency department following an assault. You note a penetrating wound on the anterior chest wall. On examination, his blood pressure is 80/65 mmHg, pulse is thready and respiratory rate is 38 breaths/min. His jugular venous pulse is unrecognizable as the neck veins are grossly distended. Breath sounds are equal bilaterally. During your evaluation the patient's output becomes undetectable. The next course of action should be",
+            "options": [
+                "A. Thoracocentesis",
+                "B. Plain chest radiograph",
+                "C. Pericardiocentesis",
+                "D. Resuscitative thoracotomy",
+                "E. Echocardiogram"
+            ],
+            "answer": "C",
+            "explanation": "Beck's triad consists of venous pressure elevation, reduced arterial blood pressure and muffled heart sounds. These three features are the classic identifying features of cardiac tamponade. In addition, an exaggerated pulsus paradoxus (a fall in arterial blood pressure >10 mmHg on spontaneous inspiration) and Kussmaul's sign (rising venous pressure on spontaneous inspiration) are also signs of tamponade. Knowing this, candidates can correctly identify tamponade as the likely diagnosis in this scenario.\n\nThe next thing to recognize is that this patient is peri-mortem. There are two methods used to confirm the diagnosis of tamponade: echocardiography in the form of a FAST (a focused assessment with sonography for trauma) scanner is less invasive, but has a false negative rate of 10% even in experienced hands. In a patient as compromised as the scenario suggests, with a convincing history of penetrating chest injury, pericardiocentesis is both diagnostic and therapeutic, and should not be delayed by other diagnostic adjuncts. Resuscitative thoracotomy may be required, but is the reserve of surgeons experienced enough to perform such a procedure. Pericardiocentesis should be attempted first to allow time for a more controlled surgical management. Thoracotomy or a pericardial window procedure should be reserved for cases where pericardiocentesis fails."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "A 42-year-old construction worker is admitted following a crush injury. The patient is in great distress and complaining of chest pain. The patient is working hard to breathe, however there is some paradoxical movement of her chest wall. Arterial blood gases show hypoxia with p02 7.5 and pCO2 8.2. A chest radiograph shows multiple rib fractures. The life-saving intervention is",
+            "options": [
+                "A. High-flow oxygen",
+                "B. Cricothyroidotomy",
+                "C. Endotracheal tube insertion",
+                "D. Aggressive fluid resuscitation",
+                "E. Adequate analgesia to allow effective respiration"
+            ],
+            "answer": "C",
+            "explanation": "Flail chest is a term used to describe an injury to the chest wall which results in a section losing continuity with the remainder. This loose segment is therefore sucked in by the negative pressures implicit in inspiration, preventing effective respiration and causing significant damage to the underlying lung parenchyma. These two factors combined result in significant impairment of gas exchange and respiratory failure.\n\nAnalgesia will improve the patient's pain but since the respiratory failure is not due to pain restricting breathing it will not save this patient's life. Fluid resuscitation is a complicated issue in these patients; a careful balance must be struck as the injured lung is vulnerable to fluid overload, which only exacerbates the poor gas exchange. High-flow oxygen will partially reverse the hypoxia, but is only a holding measure and will not affect the carbon dioxide retention. This patient requires mechanical ventilation and therefore the placement of a definitive airway. Both endotracheal intubation and cricothyroidotomy will provide this, but surgical airways are reserved for cases in which intubation fails or is impossible due to severe facial injury. Therefore, endotracheal intubation is the best option in this case."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "A male patient is admitted following a fall from height. On arrival his Glasgow Coma Scale score is 5/15 and he is therefore intubated. During primary resuscitation a chest film is taken which shows a widened mediastinum and right-sided deviation of the trachea. The diagnosis is",
+            "options": [
+                "A. Tension pneumothorax",
+                "B. Ruptured oesophagus",
+                "C. Cardiac tamponade",
+                "D. Right lobe collapse",
+                "E. Aortic rupture"
+            ],
+            "answer": "E",
+            "explanation": "Aortic rupture is a common cause of sudden death following sudden-deceleration injuries occurring in traffic collisions or after falls from height. The point of disruption in the wall of the aorta is at the ligamentum arteriosum, across which the aorta may kink or twist, causing dissection or rupture.\n\nRupture into the left side of the chest is nearly universally fatal, unless it occurs in the emergency department itself. In those who survive, the haematoma is retained either within the adventitia or within the mediastinum. Features on a chest radiograph include the following:\n\n• Widening of the mediastinum\n• Loss of the aortic knuckle\n• Deviation of the trachea to the right\n• Obliteration of the space between the aorta and pulmonary artery (the AP window)\n• Depression of the left main bronchus\n• Left-sided haemothorax\n\nIt is rare for there to be no signs evident on plain radiographs following great vessel disruption; however, it can occur in in 1%-2% of cases."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "A 20-year-old woman was resuscitated in the emergency department and required the insertion of a chest drain. The drain was removed 2 days later before she was discharged. She re-presents 10 days later complaining of chest pain associated with high fever and sweats. An empyema is suspected and a chest radiograph confirms a collection. The most appropriate next course of action is",
+            "options": [
+                "A. Intravenous antibiotics for 6 weeks",
+                "B. Needle tap and aspiration",
+                "C. Chest drain reinsertion",
+                "D. Computed tomography scan of the thorax",
+                "E. Ultrasound scan"
+            ],
+            "answer": "E",
+            "explanation": "Empyema typically occurs at around 10 days after chest drain insertion. It is a common and potentially fatal complication of this procedure. Like all abscesses and collections, there is little scope for conservative therapy, and empyema requires invasive drainage. The fluid collection is typically thick and loculated, making needle aspiration an inappropriate method of therapy. Definitive management is with chest drain re-insertion; however, this should be guided by appropriate imaging. Computed tomography may be helpful; however, ultrasound is perfectly adequate in assessing loculations and can also be used to guide drain insertion. As it does not involve exposure to ionising radiation, ultrasound should be the first choice technique."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "Which one of the following statements regarding diagnostic peritoneal lavage is not true?",
+            "options": [
+                "A. A positive test would follow injury to spleen, liver, pancreas or intestine",
+                "B. It is more sensitive than computed tomography and focused assessment with sonography for trauma (FAST) scanning",
+                "C. It is the technique of choice when attempting to confirm the hollow viscus injury",
+                "D. Urinary catheterization and nasogastric tube insertion is required prior to diagnostic peritoneal lavage",
+                "E. Diagnostic peritoneal lavage is contraindicated in the presence of an indication for explorative laparotomy"
+            ],
+            "answer": "A",
+            "explanation": "Diagnostic peritoneal lavage (DPL) is a useful technique for the identification of intra-abdominal bleeding and hollow organ rupture. Its use is more common in blunt injury as penetrating injury with significant likelihood of viscus injury is managed with explorative laparotomy. A litre of Hartmann's solution is instilled into the peritoneal cavity through a catheter and then drained. The fluid is sent to the laboratory, examined for blood and food fibre and Gram stained for bacteria.\n\nAlthough non-specific, it is 98% sensitive, making it more reliable than CT and FAST scanning. In addition, it is able to identify hollow organ injury more reliably in the immediate post-injury setting than CT or ultrasound. However the use of DPL is declining in favour of the less invasive techniques and because the procedure requires insertion of a catheter into the peritoneal cavity decompression of the bladder and stomach is required to minimize risk of injury to these organs. The disadvantage of DPL is that it is unable to identify retroperitoneal injury i.e. damage to the kidneys, ureters, duodenum and pancreas. Therefore option A is the correct answer in this case."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "Which of the following is not an independent indication for laparotomy following trauma?",
+            "options": [
+                "A. Evisceration of healthy bowel",
+                "B. Evisceration of omentum",
+                "C. Stab wound to anterior abdomen",
+                "D. Gunshot to abdomen",
+                "E. Blunt abdominal trauma with free intraperitoneal air on erect chest radiograph"
+            ],
+            "answer": "C",
+            "explanation": "Although opinions among trauma surgeons vary, studies show that 33% of anterior abdominal stab wounds fail to penetrate the peritoneum and only 30% of stabbing injuries cause visceral injuries. Therefore, the current ATLS guidance does not advocate explorative laparotomy in all such cases. A haemodynamically stable patient with no evidence of peritonism may be managed conservatively with regular observations and serial clinical examinations over a 24-hour period. Where doubt remains, local exploration of the wound under local anaesthesia may clarify the extent of the injury. Other options include DPL and diagnostic laparoscopy.\n\nA laparotomy is automatically indicated if evisceration of bowel or omentum occurs following penetrating injury or if the patient is haemodynamically unstable or has peritonism. In addition, if penetration of the peritoneum is confirmed, the majority of trauma surgeons advocate explorative laparotomy in the absence of clinical evidence of haemodynamic instability or peritonitis. In contrast to stab wounds, gunshots to the abdomen carry a 90% risk of visceral injury, and therefore all such patients are candidates for laparotomy. Blunt trauma carries a risk of diaphragmatic injury as well as injury to solid and hollow viscus. Hypotension, peritonism or free air or fluid evident on abdominal radiographs or an erect chest radiograph following blunt abdominal trauma are all indications for surgical exploration."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "A 35-year-old man was involved in a motor vehicle collision where he was thrown against the steering column. He sustained a blunt trauma injury to his left upper abdomen. On arrival at the emergency department, he complains of abdominal pain, but is haemodynamically stable. Computed tomography (CT) scanning shows a splenic tear and retained intra-abdominal haematoma. The tear extends through the splenic capsule, but not to the hilum. Which one of the following treatment options is not indicated in this case?",
+            "options": [
+                "A. Cross-match, group and save",
+                "B. Pneumovax",
+                "C. Explorative laparotomy",
+                "D. Serial CT scanning",
+                "E. 24-hour monitoring in the high-dependency/intensive care setting"
+            ],
+            "answer": "C",
+            "explanation": "Splenic injury is the most common organ injury sustained as a consequence of blunt trauma to the abdomen. Complications in trauma patients who require splenectomy are significantly greater than in similar patients who do not require splenectomy; causes of death include sepsis, pneumonia and meningitis. All splenic injury patients should receive vaccines against pneumococcus and meningococcus immediately, regardless of the extent of injury.\n\nIn modern surgical care, every effort is made to retain the spleen. Haemodynamically, stable patients require investigation utilizing both ultrasound and CT scanning. Injury is graded 1-4, according to the extent of the capsule laceration and involvement of the hilum. Grades 1-3 are widely considered to be suitable for conservative therapy. Grade 4 injuries extend into the hilum; as such they are at greater risk of major haemorrhage and devascularisation of the spleen. Significant controversy has existed regarding the management of this group of patients, although evidence suggests surgery can be safely avoided in haemodynamically stable patients using conservative measures. Splenic artery embolization using interventional radiographic techniques can be used if bleeding should continue in such cases.\n\nIn patients being managed conservatively, close monitoring is required in a high-dependency setting as a minimum. There is a risk of major haemorrhage and serial examination supplemented with regular CT scanning should be implemented. Patients should, of course, be cross-matched according to the centre's major bleeding protocol. Clinicians must be aware that in 5% of cases of presumed isolated solid organ injury, there exists an unrecognized concomitant hollow viscus injury. Deterioration, peritonism or haemodynamic compromise indicates the need for laparotomy, but in the case described above this is not yet required."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "The following factors detract from the diagnostic sensitivity of FAST scanning, except",
+            "options": [
+                "A. Surgical emphysema",
+                "B. A patient with high body mass index",
+                "C. Operator inexperience",
+                "D. Previous surgery",
+                "E. Large-volume intraperitoneal blood loss"
+            ],
+            "answer": "E",
+            "explanation": "FAST is a non-invasive technique that can be performed in the emergency department, advantages which mean it is increasingly preferred to DPL and CT scanning in the assessment of the traumatized abdomen. In experienced hands, this technique is equivalent in sensitivity and specificity to DPL and CT; however as with all ultrasound scanning techniques this is operator-dependent and an experienced individual is required.\n\nFour views are taken:\n\n• The pericardium and the three sites within the abdomen where free fluid most commonly collects:\n• Hepatorenal fossa\n• Splenorenal fossa\n• Pouch of Douglas\n\nScanning is difficult to achieve in obese patients and subcutaneous free air makes ultrasound imagery impossible, as air does not transmit sound waves to deeper tissues. Previous surgery distorts normal anatomy and increases the likelihood of adhesions which prevent the free movement of blood within the peritoneal space and therefore its collection in the normal areas. This has a predictable effect on the sensitivity of FAST scanning.\n\nThe primary aim of FAST scanning is not to achieve a diagnosis, but to confirm the presence of peritoneal free fluid. Therefore a large-volume haematoperitoneum will be easier to detect on FAST scanning, although finding its source might not be. Therefore, option E is the most appropriate answer in this case."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "A patient is admitted to the emergency department with a reduced level of consciousness, smelling of alcohol. A boggy haematoma is noted on the posterior aspect of his skull. The patient's eyes open to voice, but he makes no attempt to vocalize. A sternal rub causes the patient to open his eyes, moan and extend his arms and legs. His Glasgow Coma Scale score is",
+            "options": [
+                "A. 4/15",
+                "Β. 5/15",
+                "C. 6/15",
+                "D. 7/15",
+                "Ε. 8/15"
+            ],
+            "answer": "D",
+            "explanation": "The Glasgow Coma Scale is a commonly used method of assessing and monitoring consciousness level. It is frequently assessed in both written and practical exams and should therefore be well known to candidates. It consists of three parts with a fully conscious patient scoring 15/15, and a completely unresponsive patient scoring 3/15 (Table 5.1).\n\nTable 5.1 The Glasgow Coma Scale\nScore\nMotor\nObeys commands 6\nLocalizes to pain 5\nFlexor withdrawal 4\nAbnormal flexion 3\nAbnormal extension 2\nNo response 1\nEyes\nOpen spontaneously 4\nOpen to verbal command 3\nOpen to pain 2\nNo response 1\nVerbal\nOrientated 5\nConfused 4\nInappropriate words 3\nIncomprehensible sounds 2\nNo response 1\n\nPatient's GCS breakdown:\nEyes: Open to voice (3). (Sternal rub also causes eyes to open, but 'open to voice' is a higher score, so take 3).\nVerbal: Moan (Incomprehensible sounds) = 2.\nMotor: Extend arms and legs (Abnormal extension) = 2.\nTotal GCS = 3 (Eyes) + 2 (Verbal) + 2 (Motor) = 7/15."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "A patient is admitted into the emergency department following a head injury at work. He is resuscitated and stabilized, but a computed tomography scan shows significant brain contusion. He is intubated and cared for on the intensive care unit. You attempt to evaluate his Glasgow Coma Scale score; there is no response to voice, but pressing a pen into his fingernail causes the patient to open his eyes and attempt to withdraw his hand from you. His Glasgow Coma Scale score is therefore",
+            "options": [
+                "A. 5/10",
+                "Β. 6/10",
+                "C. 5/15",
+                "D. 6/15",
+                "Ε. 7/15"
+            ],
+            "answer": "B",
+            "explanation": "Rarely examiners will attempt to confuse candidates by asking how assessment of GCS in intubated patients differs. Put simply, assessment of motor and eyes is exactly the same. Assessment of vocalization is impossible and therefore discounted entirely. Therefore a fully conscious intubated patient scores 10/10, and an unresponsive intubated patient scores 2/10. The level of sedation obviously is a compounding factoar and mention should be made of this in a viva.\n\nPatient's GCS breakdown:\nEyes: Pressing a pen into his fingernail causes the patient to open his eyes (Open to pain) = 2.\nVerbal: Intubated, so verbal response is not assessable. The GCS is then out of 10.\nMotor: Attempt to withdraw his hand from you (to pain) (Flexor withdrawal) = 4.\nTotal GCS = 2 (Eyes) + 4 (Motor) = 6/10."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "A 31-year-old man is admitted following an assault outside a nightclub. During the fight, he was hit by a blunt object across the side of the head. On admission his Glasgow Coma Scale score is initially 12/15 but falls to 8/15 during his evaluation. The decision is taken to perform a computed tomography head scan, which identifies a lens-shaped space-occupying lesion within the cranial vault. The diagnosis is",
+            "options": [
+                "A. Extradural haematoma",
+                "B. Subdural haematoma",
+                "C. Subarachnoid haemorrhage",
+                "D. Cerebral contusion",
+                "E. Intracerebral haemorrhage"
+            ],
+            "answer": "A",
+            "explanation": "Haemorrhage within the cranial vault is commonly classified according to the layer of meninges in which the bleeding collects. The three layers of membranes which make up the meninges are the tough fibrous dura, the arachnoid and the pia mater. The dura is firmly adherent to the undersurface of the skull; within the folds of dura run the venous sinuses which drain to the internal jugular veins. Between the dura and the skull run the meningeal arteries, whose branches penetrate the dura to supply the brain substance. The arachnoid lies beneath the dura but does not adhere to it which leaves a potential space, the subdural space, for blood to collect (see Question 22). Between the arachnoid membrane and the pia mater flows the CSF. Bleeding into the subarachnoid space causes signs of meningism and puts the patient at increased risk of hydrocephalus, because blood may occlude the arachnoid granulations and prevent CSF reabsorption (post-traumatic communicating hydrocephalus).\n\nThis case is a classic description of extradural haemorrhage; bleeding is most commonly, but not exclusively, from a meningeal artery. The most commonly involved vessel is the middle meningeal artery, as it underlies the weakest point in the cranial vault, the temporal bones. Although the temporal bone is protected somewhat by the temporalis muscle, a blow to the side of the head may cause a fracture, with consequential rupture of the underlying vessel. Because the dura is adherent to the bone, blood spread is restricted and therefore collects in a lens shape. In subdural and subarachnoid haemorrhage the blood is free to spread out over the surface of an entire cerebral hemisphere due to the lack of membrane adherence to overlying or underlying structures."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "Of the following options, which is not a risk factor for subdural haematoma?",
+            "options": [
+                "A. Pregnancy",
+                "B. Alcoholism",
+                "C. Dementia",
+                "D. Old age",
+                "E. Schizophrenia"
+            ],
+            "answer": "A",
+            "explanation": "A subdural haematoma is a collection of blood between the dura and arachnoid membrane (see Question 21). Because these two membranes are not adhering to one another, this allows shearing forces which damage vessels traversing the subdural space. Veins, with their thinner walls, are more susceptible to such damage and therefore the vast majority of subdural haematomas are venous. They occur more commonly than other forms of intracranial haemorrhage, complicating approximately 30% of severe head injuries.\n\nFactors which predispose to subdural haemorrhage include all causes of cerebral atrophy, namely old age, alcohol, dementia and schizophrenia. Pregnancy does not predispose to it."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "The following are the treatment options available for the management of the patient with severe head injury. Which of the following does not have an effect on reducing intracranial pressure?",
+            "options": [
+                "A. Corticosteroids",
+                "B. Mannitol",
+                "C. Barbiturates",
+                "D. Hyperventilation",
+                "E. Furosemide"
+            ],
+            "answer": "A",
+            "explanation": "Injury to the head following trauma can be divided into primary (i.e. damage sustained as a direct result of the injury itself) and secondary. Minimization of secondary brain injury should be the main aim of management of the injured patient and maintenance of cerebral perfusion is paramount. Patients usually require ventilation and should be managed on ITU/HDU and kept normotensive with a normal pO2 and pCO2.\n\nThis management is complicated by the presence of increased ICP. Mechanical hyperventilation has been used extensively as a technique to effectively reduce ICP; the resulting hypocapnia results in cerebral vasoconstriction and therefore reduced CSF and vascular volume within the cranial vault. However, vasoconstriction results in hypoxic brain injury, so prolonged hyperventilation must be discouraged and, ideally, pCO2 should be maintained above 4.5 kPa. In the normotensive patient, diuretics such as mannitol with or without furosemide may be used to reduce ICP. These agents can cause hypotension, which should be avoided, and therefore they are not used in patients with low blood pressure. When raised ICP proves refractory to other measures, barbiturates can be used, but are associated with a high risk of inducing hypotension and are therefore avoided in the acute resuscitative phase. Steroids have been shown to have no effect on ICP and no beneficial effect on short-term or long-term outcome following brain injury; therefore their use is in decline and is not advocated in current guidelines."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "A female patient is admitted following a domestic assault during which she sustained an isolated head injury. On admission she had a Glasgow Coma Scale score of 13/15 but remained confused. She was therefore admitted overnight for observations. You are called to see her by the high-dependency unit nurses who have noticed a drop in her Glasgow Coma Scale score to 8/15. On examination you note her left pupil is now fixed and dilated. The most likely cause of this is",
+            "options": [
+                "A. Transient ischaemic attack/cerebrovascular accident",
+                "B. Basal skull fracture",
+                "C. Isolated III nerve palsy",
+                "D. Uncal herniation",
+                "E. Previously undocumented eye trauma"
+            ],
+            "answer": "D",
+            "explanation": "This patient presented with a moderate brain injury. Up to 20% of such patients can be expected to deteriorate or become comatose. The first thing to consider is an expansion of an intracranial haemorrhage with subsequent raised ICP. The Monro-Kellie concept is useful in explaining why intracranial bleeding may initially be compensated for but, once the threshold for compensation is exceeded, eventually results in rapid decompensation unless intervention supervenes. The cranial vault has a fixed volume; bleeding within the skull has a mass effect and therefore some of the existing volume must be sacrificed. This is initially possible since venous volume and CSF volume can be lost, hence the initial period of compensation. However, once haematoma volume exceeds approximately 150 mL, the ability for the venous and CSF compartments to compensate is overwhelmed and ICP rises exponentially with further added volume. With increased ICP, arterial flow is compromised and brain matter is under pressure, leading to herniation.\n\nMost commonly, the result is uncal herniation; the uncus is the medial part of the temporal lobe, which may be pushed against the edge of the tentorial notch. This puts pressure on the III cranial nerve, which runs along the edge of the tentorial notch, resulting first in loss of parasympathetic supply, then complete oculomotor palsy. The motor tracts are also vulnerable, positioned superficially at that level of the midbrain. Therefore the typical signs of uncal herniation include ipsilateral parasympathetic + motor oculomotor nerve palsy with motor weakness. Confusion can arise when considering the motor signs of uncal herniation; hemiparesis can be contralateral or ipsilateral (Kernohan's phenomenon) to the lesion depending on the severity of herniation. Therefore, all head injury patients with altered consciousness, third nerve and motor signs should be referred for immediate emergency neurosurgical consultation."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "A patient is admitted following a fall from 4 m. He has sustained an injury to the posterior aspect of his head and has a Glasgow Coma Scale score of 12/15. On primary and secondary survey you identify a fracture of the left tibia but no focal neurology. You wish to remove the cervical spine collar and spinal board and so you review the cervical spine films; they show no abnormalities, but the lateral and swimmer's view films do not show the C7-T1 junction. Which one of the following is the most appropriate next step?",
+            "options": [
+                "A. Clear the cervical spine clinically, asking whether neck pain is felt and assessing for neurology",
+                "B. Flexion and extension views",
+                "C. Continue management on a spinal board and collar until clinical assessment is possible",
+                "D. Ask senior clinician/radiologist to review films",
+                "E. Clear the cervical spine using computed tomography"
+            ],
+            "answer": "E",
+            "explanation": "Cervical spine support is of primary importance when managing a trauma patient. Because of this the vast majority of accident victims will be brought to the emergency department with a collar in place, and candidates will need to know when it can be removed, and when they must not do so. It is acceptable to clear a cervical spine on clinical grounds when a patient is fully awake, sober, alert and neurologically intact with no neck pain. If the patient complains of neck pain, or if their consciousness is impaired, it is obligatory to perform plain fılm examination as a minimum. If the patient does not complain of neck pain, but has a distracting injury, such as in this case, cervical spine films may be taken despite a normal level of consciousness.\n\nFor plain films to be adequate, both AP and lateral views of the entire cervical spine should be taken, inclusive of the base of the skull and T1 vertebrae. In addition a view through the mouth visualizing the C1 and C2 vertebrae (also called a ‘peg view') is required. Failure to meet these requirements, or identification of areas of suspicion, indicates the need for CT scanning. Flexion-extension films should only be attempted in patients who are fully conscious with normal AP, lateral and peg views; they are used to identify areas of occult instability. They are contraindicated in patients with an altered level of consciousness.\n\nLeaving a patient on a backboard for over 2 hours puts them at risk of development of decubitus pressure ulceration. The risk is particularly high in patients with a reduced level of consciousness, therefore clearance of the cervical spine and avoidance of unnecessary immobilization is advisable."
+        },
+        {
+            "id": 26,
+            "question_type": "mcq",
+            "question": "Which of the following is not a recognized complication of severe burn injury?",
+            "options": [
+                "A. Renal failure",
+                "B. Pancreatitis",
+                "C. Liver failure",
+                "D. Gastric ulceration",
+                "E. Carbon monoxide poisoning"
+            ],
+            "answer": "B",
+            "explanation": "Severe burns are best regarded as systemic insults. The fluid loss from extensive burns is considerable and will cause hypovolaemic shock. This is commonly undertreated and often results in acute renal and liver failure. An added insult to the kidneys is deep tissue damage releasing myoglobin, a nephrotoxin, into the circulation. Carbon monoxide poisoning is obviously a common cause of death in industrial and domestic fires and can exacerbate respiratory distress secondary to inhalation injury. The systemic stress response may lead to gastric and duodenal ulceration known as Curling's ulcers. Pancreatitis is not caused by burn injuries, but may be associated with hypothermia."
+        },
+        {
+            "id": 27,
+            "question_type": "mcq",
+            "question": "A patient is admitted following a house fire. He has extensive partial and full thickness burns over his arms, upper torso and neck. You note black carbon deposits around his nostrils and oropharynx. Which of the following is the immediate priority?",
+            "options": [
+                "A. Adequate analgesia",
+                "B. Sterile water irrigation",
+                "C. Intubation",
+                "D. Fluid resuscitation",
+                "E. Immediate transfer to a specialist burns centre"
+            ],
+            "answer": "C",
+            "explanation": "The subglottic airway is protected from thermal injury by the larynx. However, the supraglottic airway is susceptible to such injury and upper airway occlusion is a common consequence of inhalational injury or extensive burns to the neck. Signs of inhalation injury include singed nasal hair, facial burns, carbon deposits around the nose and oropharynx, hoarseness of voice, carbonaceous sputum and history of confinement in a burning environment.\n\nThis patient is at high risk of complicating his airway, with evidence of inhalational injury combined with external injury to the neck. Securing his airway is of highest priority as delay may lead to laryngeal oedema and need for surgical airway placement. This patient will also require fluid resuscitation and transfer to a specialist burns centre. Water irrigation and removal of all clothing is required to ensure removal of all burning material from the site of injury; only warmed fluid should be used to avoid hypothermia. Excessive analgesia should be avoided in the acute stages of burn resuscitation, as such medications mask signs of hypoxia and hypotension, which are used to guide fluid therapy."
+        },
+        {
+            "id": 28,
+            "question_type": "mcq",
+            "question": "A 32-year-old woman is admitted following a house fire. She has no obvious injuries save for some partial thickness burning to her back and legs. On initial assessment she appears confused, Glasgow Coma Scale score 14/15, and complains of nausea and headache. Her blood pressure is 165/110 mmHg, pulse rate is 105 beats/min and respiratory rate is 23 breaths/min. Oxygen saturation is 98% on room air. Arterial blood gases reveal respiratory alkalosis and a normal PO2. The next stage of management is",
+            "options": [
+                "A. High-flow oxygen via non-rebreathable mask",
+                "B. Intubate and ventilate",
+                "C. Computed tomography head scan",
+                "D. Focused assessment with sonography for trauma (FAST) scan of the abdomen",
+                "E. 100% oxygen via rebreathing bag"
+            ],
+            "answer": "A",
+            "explanation": "Carbon monoxide poisoning is a common consequence of being trapped in an enclosed space during a fire. It should be considered in all patients with such a history as it is easily treated and failure to do so may have serious consequences. However, if confusion continues despite appropriate treatment, or if there is evidence of head injury or focal neurology, further investigation such as CT scanning may be warranted.\n\nCarbon monoxide's affinity for haemoglobin is 240 times that of oxygen. Its half-life is 4 hours while a patient breathes room air; this is reduced to 40 minutes if appropriate oxygen therapy is instituted. Symptoms depend on the percentage haemoglobin saturation by carbon monoxide; saturations less than 20% are typically asymptomatic, 20%-40% saturation causes nausea, headache and confusion. Saturations of 40%-60% result in coma and death occurs once levels exceed 60%. Appropriate management is high-flow oxygen via a non-rebreathing mask. Intubation and ventilation is only rarely required.\n\nBecause of its high affinity for haemoglobin, carbon monoxide saturates haemoglobin at low partial pressures; therefore normal arterial pO2 does not exclude a high carbon monoxide saturation. Pulse oximetry does not differentiate between haemoglobin saturated with oxygen and that saturated with carbon monoxide, and therefore saturations will appear normal. Carboxyhaemoglobin levels are used to confirm the diagnosis; some arterial blood gas machines are able to provide these measurements."
+        },
+        {
+            "id": 29,
+            "question_type": "mcq",
+            "question": "A 48-year-old man is admitted with a burn over his arm and anterior chest. The involved tissue includes the entire circumference of his upper arm. Following initial resuscitation, he is admitted for observation. You are called to assess him as he is beginning to complain of increasing pain and tightness in his forearm. On examination you note weak peripheral pulses, paraesthesia and pain on active movement of the fingers, hand and wrist. The next stage in management is",
+            "options": [
+                "A. Angiography",
+                "B. Fasciotomy",
+                "C. Fluid resuscitation",
+                "D. Electrolyte assay and replenishment",
+                "E. Escharotomy"
+            ],
+            "answer": "E",
+            "explanation": "Skin is inherently elastic and allows expansion and relaxation of underlying tissues. When skin is lost due to burns or other causes, fibrotic scarring occurs. When such injuries are circumferential, as in this case, healing can constrict underlying tissues, blood vessels and nerves. Limbs are vulnerable, as is the neck and even the chest, where extensive injury can restrict chest expansion and impair breathing.\n\nThe patient in this case is clearly exhibiting the signs of muscle compartment compromise secondary to restricted blood supply. There is concomitant paraesthesia, which may be as a result of ischaemia or a direct result of nerve compression. Fluid resuscitation is not required and although an electrolyte imbalance should be ruled out it is unlikely to be causative. Angiography is not indicated. This patient requires urgent escharotomy (incision of scar tissue to release constricting pressure). Fasciotomy is rarely required in such cases, but may be indicated if vascular supply remains compromised for a prolonged period and true compartment syndrome develops."
+        },
+        {
+            "id": 30,
+            "question_type": "mcq",
+            "question": "A homeless man is admitted unresponsive after being found by police on a park bench. He has no external signs of injury. An oesophageal temperature probe records his core body temperature to be 34 °C. Which of the following management options is not routinely indicated in this case?",
+            "options": [
+                "A. Cardiac monitoring",
+                "B. Warmed peritoneal lavage",
+                "C. Warmed intravenous fluids",
+                "D. Intravenous dextrose",
+                "E. Blood alcohol and toxin screen"
+            ],
+            "answer": "B",
+            "explanation": "Hypothermia is classified into mild (35-32°C), moderate (32–30°C) and severe (less than 30°C). The clinical manifestations of hypothermia include decreased consciousness, decreased respiratory rate and decreased heart rate. Cardiac output also falls proportional to the severity of hypothermia, and a patient who initially lacks any signs of life may make a full recovery with appropriate supportive therapy.\n\nThe main cause of death is cardiac arrhythmia; the myocardium becomes increasingly irritable below a temperature of 33°C and patients are at particular risk of fibrillation. Because of this, all hypothermia patients require cardiac monitoring and should be rewarmed using ‘passive external warming techniques' including blankets, external heat sources and warmed IV fluids. The possibility of confounding causes of unresponsiveness should not be overlooked, and evidence of alcohol, drug use or sepsis should be excluded. Hypoglycaemia is another cause of reduced responsiveness that also frequently occurs secondary to hypothermia; therefore blood glucose monitoring and IV dextrose should be initiated as standard.\n\n‘Active core rewarming methods' are the reserve of severe hypothermia or hypothermia in high-risk patients (i.e. in conjunction with other injuries) and would not therefore be indicated in this scenario. Such techniques include warmed peritoneal lavage, warmed pleural lavage, warmed bladder irrigation, arterio-venous rewarming and cardiopulmonary bypass."
+        }
+    ]
+}

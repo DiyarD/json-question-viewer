@@ -1,0 +1,285 @@
+{
+    "chapter_name": "SECTION 14: ENT SURGERY",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A 19-year-old Caucasian woman attends the outpatient clinic with a 2-day history of left-sided earache. The pain has worsened in the past 24 hours and she describes some seepage from the affected ear. Over the past few weeks her left ear has felt 'blocked' and she has been using cotton wool buds to clean them. Her hearing is not impaired. She is afebrile (36.7°C). On examination, the pain is worsened on superior movement of the auricle. There is a scanty discharge emerging from the left ear. Which of the following is the most likely diagnosis?",
+            "options": [
+                "A. Acute otitis externa",
+                "B. Chronic otitis externa",
+                "C. Acute otitis media",
+                "D. Mastoiditis",
+                "E. Chronic otitis media"
+            ],
+            "answer": "A",
+            "explanation": "Acute otitis externa is a condition caused by inflammation of the outer ear canal. It is particularly common in people who regularly clean their ears with cotton wool buds and in swimmers. The overriding feature is pain, which is worsened by superior elevation of the pinna. The signs may be minimal and therefore the diagnosis is easily missed.\n\nChronic otitis externa is a low-grade condition commonly associated with dermatitis, which may or may not be associated with pain. Acute otitis media causes deep seated pain, deafness and fever coupled with copious mucoid discharge. Classical mastoiditis should be suspected if there are signs of acute otitis media with mastoid tenderness."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "The patient in Question 1 is due to undergo treatment for her 2-day history of ear pain. Which of the following is most appropriate therapy?",
+            "options": [
+                "A. Discharge with advice to stop using cotton wool buds",
+                "B. Discharge with combination of acidifying and antibiotic ear drops",
+                "C. Discharge with oral analgesics",
+                "D. Referral to ENT specialist for myringotomy",
+                "E. None of the above as the ear canal is ‘self-cleaning'"
+            ],
+            "answer": "B",
+            "explanation": "Topical therapy is the mainstay of treatment in this case. Acidifying drops may prevent the build-up of cerumen (ear wax) and create a more hostile environment for pathogens. Antibiotic drops will usually treat infection in the ear canal. Advice on prevention is important, which includes refraining from swimming, and refraining from using cotton wool buds, headphones or ear plugs. Removal of ear debris and cerumen will aid contact with therapeutic medications and impregnated wicks/ gauzes are available for this purpose. Myringotomy is not required. The 'self-cleaning' mechanism (migration of skin toward the external meatus) may not be functioning effectively in patients with otitis externa."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "A 6-year-old Asian boy is brought to the paediatric emergency department by his mother. She is worried because the boy is lethargic and has been complaining of right-sided earache all day. There have been no similar attacks in the past. On examination, he looks unwell, and his temperature is 39.0°C, pulse rate is 110 beats/min and blood pressure is 90/40 mmHg. There is no cervical lymphadenopathy. Otoscopic examination reveals a bright red right tympanic membrane. You decide to take a microbiology swab. Which one of the following is the most likely pathogen?",
+            "options": [
+                "A. Group B streptococcus",
+                "B. Haemophilus influenzae",
+                "C. Mycobacterium tuberculosis",
+                "D. Moraxella catarrhalis",
+                "E. None of the above"
+            ],
+            "answer": "B",
+            "explanation": "Acute otitis media is commonly caused by Haemophilus influen- zae or Streptococcus pneumonia (beta-haemolytic streptococcus). Less commonly, infection may be due to Moraxella catarrhalis and Mycobacterium tuberculosis. Group B streptococcus species are more commonly found in pregnant women (who are usually asymptomatic) and can infect neonates, causing conditions such as pneumonia and meningitis."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "The patient is Question 3 is to undergo treatment for his ear infection. Which one of the following options is most appropriate therapy?",
+            "options": [
+                "A. Immediate myringotomy",
+                "B. Advice on hygiene and antipyretics",
+                "C. Refer to ENT for tympanostomy tube",
+                "D. Oral antibiotics (amoxicillin) for 5 days",
+                "E. Antibiotic (amoxicillin) ear drops"
+            ],
+            "answer": "D",
+            "explanation": "Acute otitis media should be treated with systemic antibiotics, particu- larly if systemic features are present or there is no improvement in the condition of otherwise asymptomatic children after 72 hours of conser- vative management. A 5-day course of oral amoxicillin is effective against most of the common pathogenic organisms, but can be replaced with co- amoxiclav if there is no improvement after the first 48 hours of treatment. Analgesics and warm olive oil drops may also be soothing. Myringotomy (fashioning a hole in the tympanic membrane) is reserved for treatment of recurrent otitis media or for otitis media with effusion (glue ear). If a child has multiple infections which are not controlled with medical therapy or there is a significant build-up of fluid, then it may be necessary to insert a grommet (tympanostomy) to enable adequate drainage."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "You are asked to review a 34-year-old Caucasian male patient in the clinic. He describes a long history of problems in his right ear as a child. He also describes a 10-day history of pain in and behind the same ear. There has been a continu- ous discharge from the ear and he has been feeling ‘under the weather’. He has a low-grade fever (37.5°C). Clinical examination reveals tenderness behind the right ear. Otoscopic examination reveals a bulging, red tympanic membrane. Select the most appropriate statement regarding the management of this patient from the list below.",
+            "options": [
+                "A. The patient should be discharged on high-dose oral antibiotics for 7 days",
+                "B. Admit the patient for intravenous antibiotics and investigation",
+                "C. The condition cannot be treated by myringotomy and a tympanos- tomy tube",
+                "D. Mastoidectomy should be performed as soon as practically possible",
+                "E. None of the above"
+            ],
+            "answer": "B",
+            "explanation": "This patient needs hospital admission as there should be a high index of suspicion of classic mastoiditis. This results from the breakdown of the bony partition between the mastoid air cells. A CT scan will usually confirm fluid-filled middle ear and mastoid and demineralisation of the mastoid trabeculae. A CT scan will exclude any intracranial involvement. The patient should be given high-dose IV antibiotics. Initial procedures may include myringotomy and a tympanostomy tube. If these proce- dures fail only then is simple or radical mastoidectomy indicated."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "The following may all complicate acute otitis media, except",
+            "options": [
+                "A. Facial paralysis",
+                "B. Extradural abscess",
+                "C. Mastoiditis",
+                "D. Cavernous sinus thrombosis",
+                "E. Labrynthitis"
+            ],
+            "answer": "D",
+            "explanation": "All of the options are rare but recognized complications of acute sup- purative otitis media with the exception of cavernous sinus thrombosis, which may complicate dental infection or abscess."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "You are asked to review a 75-year-old female patient in the emergency department. She describes a 1-week history of severe left-sided earache, which is especially profound at night. She has taken to carrying tissues with her to clean up copious exudate discharging from the ear. Of note her past medical history includes con- trolled diabetes mellitus. Physical examination reveals granulation tissue in the external auditory canal. The erythrocyte sedimentation rate is elevated. Which one of the following is the most likely diagnosis?",
+            "options": [
+                "A. Chronic secretory otitis media",
+                "B. Acute mastoiditis",
+                "C. Malignant otitis externa",
+                "D. Bullous myringitis",
+                "E. None of the above"
+            ],
+            "answer": "C",
+            "explanation": "Malignant otitis externa should be suspected in any patient present- ing with severe otalgia which is worse at night, otorrhoea and granu- lation tissue at the bone-cartilaginous junction. The latter feature is the hallmark of the condition. It is more common in elderly patients and those who are immunocompromised (diabetes mellitus, steroid use, HIV-positive, etc.). Osteitis of the base of the skull may ensue. Cranial nerve involvement indicates a poor prognosis, whilst death may occur as a result of intracranial complications."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "Regarding the same patient in Question 7, which one of the following pathogens is most likely to be responsible?",
+            "options": [
+                "A. Pseudomonas aeruginosa",
+                "B. Streptococcus viridans",
+                "C. Staphylococcus aureus",
+                "D. Escherichia coli",
+                "E. Moraxella catarrhalis"
+            ],
+            "answer": "A",
+            "explanation": "The most common pathogen responsible for malignant otitis externa is Pseudomonas aeruginosa, followed by Staphylococcus epidermidis, Gram-negative bacteria and fungi. Anti-pseudomonal antibiotics such as piperacillin and tazobactam should be used to treat the condition."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "A 22-year-old Caucasian man presents to the ENT clinic complaining that he is unable to hear properly in the right ear. A week earlier, he received a blow to the right ear while playing rugby. Rinne's test is negative on the right (bone conduction greater than air conduction). On Weber's test, sound is heard best on the right side. Which one of the following is the most appropriate, regarding the likely cause?",
+            "options": [
+                "A. Left-sided sensorineural deafness",
+                "B. Right-sided conductive deafness",
+                "C. Right-sided sensorineural deafness",
+                "D. Left-sided conductive deafness",
+                "E. None of the above"
+            ],
+            "answer": "B",
+            "explanation": "These findings suggest a right-sided conductive deafness. Sound is normally heard better by air than bone conduction (Rinne-positive). Conductive deafness reverses Rinne's test (Rinne-negative). In the nor- mal setting, in Weber's test, sound should be heard equally in both ears. A conductive deficit causes the sound to be heard best on the same side as the hearing loss."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "Regarding the same patient in Question 9, otoscopic examination reveals a lim- ited amount of cerumen and a defect in the tympanic membrane. Which one of the following is the most likely diagnosis?",
+            "options": [
+                "A. Otosclerosis",
+                "B. Excess wax",
+                "C. Eustachian tube obstruction",
+                "D. Perforated tympanic membrane",
+                "E. None of the above"
+            ],
+            "answer": "D",
+            "explanation": "Perforation of the ear drum impairs the transmission of sound waves. Traumatic perforations are more common following a blow to the ear with the flat of the hand. These heal spontaneously provided the ear is kept clean and dry. Excess wax can cause conductive deafness, but is less likely given the history and signs. Otosclerosis is a disease involv- ing new bone growth in the inner ear, which may fix the footplate of the stapes, impeding its motion. Eustachian tube obstruction is more common in children."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "A 65-year-old Caucasian woman attends the clinic complaining of gradual pro- gressive difficulty hearing in her left ear. She has noticed that she is having to ask her friends and relatives to speak up in public places. This is causing her some social embarrassment. Weber's test localizes to the right ear. Rinne's test is positive bilaterally. Which one of the following is the most appropriate statement regarding the likely cause?",
+            "options": [
+                "A. Left-sided sensorineural deafness",
+                "B. Right-sided conductive deafness",
+                "C. Right-sided sensorineural deafness",
+                "D. Left-sided conductive deafness",
+                "E. None of the above"
+            ],
+            "answer": "A",
+            "explanation": "This patient has the clinical features of a left-sided sensorineural deaf- ness. Examination using Weber's test (tuning fork held on the forehead) localizes to the opposite side."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "Regarding the patient in Question 11, which one of the following is the most likely diagnosis?",
+            "options": [
+                "A. Otosclerosis",
+                "B. Sudden idiopathic hearing loss",
+                "C. Ossicular discontinuity",
+                "D. Presbycusis",
+                "E. None of the above"
+            ],
+            "answer": "D",
+            "explanation": "This patient has a sensorineural hearing loss in the left ear. The most likely cause is presbycusis (age-related hearing loss), a common condi- tion affecting people from the age of 60-65 years onwards. It is caused by progressive loss of the hair cells in the cochlea with age. It affects amplification and discrimination of words. The social implications can lead to embarrassment and isolation if not properly detected. It is treated with an amplification hearing aid device. Sudden hearing loss is rare and unlikely from the history. The latter is thought to be caused by viral infection or vascular ischaemia. Otosclerosis and ossicular discontinu- ity result in conductive hearing loss."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "A 60-year-old Caucasian woman presents to the emergency department com- plaining of new-onset ‘dizziness'. She noticed it in the morning when she turned her head around to talk to her children. She felt the room was spinning around her for a few minutes and she had to go and rest in bed. She denies any deaf- ness, tinnitus, otalgia or otorrhoea. She describes a less severe attack happening two months earlier. On examination she appears comfortable at rest, her pulse is 90 beats/min, blood pressure is 133/68 mmHg and respiratory rate is 12 beats/ min. Otoscopic assessment is within normal limits. What will you do next?",
+            "options": [
+                "A. Request a head computed tomography scan",
+                "B. Request magnetic resonance imaging of the brain",
+                "C. Perform positional testing",
+                "D. Prescribe betahistine",
+                "E. Prescribe cyclizine"
+            ],
+            "answer": "C",
+            "explanation": "This patient has benign paroxysmal positional vertigo (BPPV), one of the commonest causes of vertigo. It is typically provoked by certain head movements. The vertigo lasts for a few seconds, but this can seem longer to the patient. The condition is thought to be due to detachment of calcium carbonate crystals from the otolith organ of the affected utricle. The diag- nosis may be confirmed by positional testing. It usually resolves sponta- neously. A CT scan and MRI would not help in diagnosing this condition but may help differentiate it from other disorders of balance (e.g. transient ischaemic attack, CVA, mass lesions, Ménière's disease). Betahistine (a vasodilator) may help to reduce the endolymphatic fluid imbalance in the inner ear in patients suffering from Ménière's disease. Cyclizine may help to control associated nausea, but will not help to establish a cause."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "A 4-year-old girl is brought to the paediatric emergency department by her father. He is concerned that she is finding it painful to swallow her saliva. She describes a 1-week history of sore throat and feeling unwell. On examination she is febrile (39.0°C) and dribbling her saliva. A faint high-pitched sound is heard on inspiration from the end of the bed. What will you do next?",
+            "options": [
+                "A. Call for senior help and an ENT specialist",
+                "B. Immediately set up an adrenaline nebulizer",
+                "C. Start oral third-generation cephalosporins",
+                "D. Request a neck radiograph",
+                "E. Site a surgical airway"
+            ],
+            "answer": "A",
+            "explanation": "This patient has stridor secondary to epiglottitis (also known as acute supraglottitis). This is an emergency not to be missed. You should call immediately for senior help and ENT opinion. The time from stridor to complete respiratory compromise may be very short. In most cases a paediatric anaesthetist will be successful in intubating the child, but the ENT surgeon will be on standby in case a surgical airway is required. Adrenaline nebulizers may buy time, but should not delay expert opinion and treatment. Intravenous cephalosporins should be started and later changed depending on the cultures of cultures."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "A 17-year-old boy is transferred to the emergency resuscitation bay following a serious road traffic accident. He was not wearing a seat belt and ‘bulls-eyed’ the windscreen on impact with another car. No life-threatening injuries were detected on primary survey. On secondary survey you notice major bruising to the front and right side of his forehead and face. His right eye is also badly bruised. He has multiple superficial cuts and some blood is trickling from the right nostril. Which one of the following statements is the most appropriate regarding facial trauma?",
+            "options": [
+                "A. An orbital fracture may be responsible for the epistaxis",
+                "B. Cerebrospinal fluid rhinorrhoea does not complicate facial injury",
+                "C. Zygomatic fracture may narrow the oropharyngeal isthmus",
+                "D. Inhalation injury should not be suspected",
+                "E. Sensory loss involving the infraorbital nerve is unlikely"
+            ],
+            "answer": "A",
+            "explanation": "Facial trauma may be complicated by an orbital fracture which may tear the anterior ethmoidal artery resulting in epistaxis. Facial injury may be complicated by CSF rhinorrhoea, especially if it involves the frontal sinus and/or the cribriform plate. Maxillary and mandibular injuries may narrow the oropharyngeal isthmus leading to airway compromise. Inhalation of foreign bodies (teeth and blood) should always be sus- pected. Sensory loss resulting from damage to the infraorbital nerve may complicate facial injuries."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "A 40-year-old Caucasian man presents to the outpatient clinic complaining of progressively severe nasal obstruction. His wife has noticed that he has started to snore at night. He also describes a recent history of clear discharge from his nose. He suffers from recurrent attacks of sinusitis. Physical examination does not reveal any tenderness across the paranasal sinuses. What will you do next?",
+            "options": [
+                "A. Request magnetic resonance imaging",
+                "B. Request allergy testing",
+                "C. Request plain radiographs of the sinuses",
+                "D. Examine the nose with a light and mirror",
+                "E. Refer for rhinomanometry"
+            ],
+            "answer": "D",
+            "explanation": "This patient requires complete ENT assessment to determine the cause for his symptoms. Examination with a head light and mirror may help to exclude any masses or polyps which can commonly occur following recurrent sinusitis. Plain radiographs of the sinuses are of limited value. Computed tomography and MRI scans may be required to differentiate secretions from soft tissue masses in patients with sinus disease, but should not be requested until a proper physical assessment has been conducted. Rhinomanometry measures nasal airflow, and is an objec- tive method for quantifying the degree of nasal obstruction."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "A 50-year-old Asian woman attends the emergency department complaining of a nose bleed that has persisted for more than 10 minutes at home. She is pinching her nose tightly and placed a towel under her mouth to catch any blood. A friend is holding an ice pack on her forehead. She describes several previous attacks which have resolved spontaneously. She is not in any respiratory distress. Her pulse rate is 100 beats/min, blood pressure is 130/70 mmHg and respiratory rate is 12 breaths/min. Physical assessment reveals an anterior bleeding point. What is the next procedure to control the bleeding?",
+            "options": [
+                "A. Anterior nasal packing",
+                "B. Anterior and postnasal packing",
+                "C. Silver nitrate cautery",
+                "D. Arterial ligation of the sphenopalatine artery",
+                "E. None of the above"
+            ],
+            "answer": "C",
+            "explanation": "Ninety per cent of epistaxis occurs in Kiesselbach's plexus, which is localized to the anterio-inferior portion of the nasal septum (Kiesselbach's triangle/Little's area). If an obvious bleeding point is seen, attempts to control it with silver nitrate cautery is first-line management. Nasal packs are used only if bleeding continues and no clear bleeding source is identifiable. If anterior packing fails, it may be necessary to pack the postnasal space, but specialist ENT opinion should be sought. If these measures fail to control the bleeding, assessment under a general anaes- thetic is required, at which time it may become necessary to ligate the sphenopalatine or maxillary arteries to control ongoing haemorrhage."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "A 10-year-old boy presents with a history of multiple episodes of moderately severe epistaxis that resolve with conservative management. The most recent attack required hospital admission. He also describes multiple episodes of having a 'stuffy noise' associated with mild headaches. During these episodes his mother thinks he looks ‘puffy'. There is no history of foreign body inhalation or nasal trauma. He does not suffer from easy bruising. Which one of the following is the most likely diagnosis?",
+            "options": [
+                "A. Leukaemia",
+                "B. Juvenile nasal angiofibroma",
+                "C. Trauma to Little's area",
+                "D. Allergic rhinitis",
+                "E. Nasal polyps"
+            ],
+            "answer": "B",
+            "explanation": "Juvenile nasal angiofibroma is the most likely diagnosis in this patient. This condition presents with episodes of nasal obstruction and epi- staxis. However, otological (hearing loss), ocular (diplopia) and facial symptoms (swelling) can also occur. The mass may be seen on indi- rect mirror, rigid endoscope or rhinoscopy. A biopsy may cause severe haemorrhage and is therefore deferred. The extent of the lesion can be delineated by MRI, CT and angiographic assessment. Surgical excision is the mainstay of treatment. Minor trauma and allergic rhinitis should not lead to facial symptoms. Nasal polyps are rare in children under 10 years. This patient should have a full work-up to exclude haemato- logical causes for repeated epistaxis."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "You review a 33-year-old Afro-Caribbean woman in the minors bay of the emer- gency department. She describes a 4-day history of a sore throat (being worse on the right side) and pain on swallowing. Today, she is unable to even swallow her own saliva. She feels unwell and describes ‘ache' in all her muscles and joints. On examination she is febrile (37.9°C), pulse rate is 100 beats/min, blood pressure is 144/90 mmHg and respiratory rate is 12 breaths/min. She is reluctant to open her mouth due to pain. Examination of the oropharynx reveals asymmetric tonsillar enlargement (right more than left) with marked tonsillar exudate. The uvula is deviated to the left. She has bilateral cervical lymphadenopathy. Which one of the following is the most appropriate management?",
+            "options": [
+                "A. Oral amoxicillin 500 mg four times daily",
+                "B. Aspiration of abscess in the emergency department",
+                "C. Chlorhexidine mouthwash four times daily",
+                "D. Regular oral analgesia and discharge to general practitioner",
+                "E. None of the above"
+            ],
+            "answer": "E",
+            "explanation": "This patient has a peritonsillar abscess (quinsy). The appropriate man- agement is referral to an ENT specialist for formal incision and drain- age in the operating theatre. Intravenous antibiotics and chlorhexidine mouthwash will not treat a peritonsillar abscess. Regular analgesia may soothe pain following the procedure, but will not treat the quinsy abscess or be suitable as a standalone treatment."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "A 68-year-old Caucasian man presents with a 3-week history of a swelling at the angle of the right jaw. He denies pain or any other symptoms of note. On further enquiry, he has felt lethargic for the past few months but denies weight loss. On physical examination, he has a 4 cm x 3 cm firm irregular swelling arising from the right parotid gland. He has an asymmetrical smile and is unable to purse his lips to whistle. The most likely diagnosis is",
+            "options": [
+                "A. Benign pleomorphic adenoma",
+                "B. Warthin's tumour (adenolymphoma)",
+                "C. Parotid carcinoma",
+                "D. Salivary gland calculus",
+                "E. None of the above"
+            ],
+            "answer": "C",
+            "explanation": "Parotid carcinoma should be suspected in any patient presenting with a parotid tumour and facial nerve involvement. The parotid gland accounts for approximately 80% of salivary gland tumours, and 80% of them are benign. Common examples of benign salivary gland tumours are pleomorphic adenoma and adenolymphoma (Warthin's tumour). Salivary gland calculi tend to present with intermittent episodes of pain and swelling and do not involve the facial nerve."
+        }
+    ]
+}

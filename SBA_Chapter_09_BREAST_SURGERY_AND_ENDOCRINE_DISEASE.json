@@ -1,0 +1,355 @@
+{
+    "chapter_name": "SECTION 9: BREAST SURGERY AND ENDOCRINE DISEASE",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A worried 23-year-old woman, who started taking the combined contraceptive pill 3 months ago, presents with a 1-day history of discovering a painless lump in the right breast. The patient states that the lump was not there a month ago. On examination, a slightly mobile, discrete, well-defined, non-tender, firm 1 cm diameter lump is found. There is no lymphadenopathy. The most likely diagnosis here is",
+            "options": [
+                "A. Breast cyst",
+                "B. Lipoma",
+                "C. Fibroadenoma",
+                "D. Sebaceous cyst",
+                "E. Carcinoma of the breast"
+            ],
+            "answer": "C",
+            "explanation": "Fibroadenomas classically present in females below the age of 35 and are infrequent after the age of 35–40. They are described as painless, rubbery to firm, non-fluctuant, discrete mobile breast lumps commonly referred to as ‘breast mice'. Breast cysts occur more frequently after the age of 35 and may present with breast pain. They can be fluctuant if fluid filled and characteristically are tense, discrete, mobile lumps. Carcinoma of the breast is rare under the age of 35, and usually presents as a solitary, painless, ill-defined lump of varying size which may show signs of skin tethering. Lipomas, although very common, are usually soft, fluctuant, irregularly defined lumps. Sebaceous cysts are typically round, soft lumps attached to the skin and have a central punctum."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "A 36-year-old nulliparous woman attends your clinic with a 7-day history of left breast pain after being involved in a car accident. On examining her breast, you notice a hard, irregular 3 cm, immobile, tender lump. You also notice some skin tethering and overlying bruising in the region of the lump. Ultrasound features suggest a benign pathology. The most likely diagnosis at this point is",
+            "options": [
+                "A. Fat necrosis",
+                "B. Breast cyst",
+                "C. Mammary duct ectasia",
+                "D. Breast abscess",
+                "E. Fibroadenosis"
+            ],
+            "answer": "A",
+            "explanation": "The most likely answer here is fat necrosis. Although the irregularity and hardness of the breast lump with overlying skin tethering suggests breast carcinoma, the history of recent trauma coupled with overlying breast lump tenderness and bruising indicates fat necrosis rather than breast cyst, fibroadenosis and breast abscess. Breast cyst, fibroadenosis and breast abscess are all unlikely here because of the history."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "A 33-year-old, non-smoking, breastfeeding woman is 10 days postpartum. She has a 4-day history of a slight crack on the surface of her left nipple. She presents with a 2-day history of severe continuous pain in the left breast, spiking pyrexia up to 38.8 with rigours which has prevented her sleeping. On examination, you find the outer quadrants of the left breast to be red, warm and tender with a hard 3 cm lump at the edge of the left nipple. The most likely diagnosis is",
+            "options": [
+                "A. Acute mastitis",
+                "B. Breast cyst",
+                "C. Fat necrosis",
+                "D. Breast abscess",
+                "E. Periductal mastitis"
+            ],
+            "answer": "D",
+            "explanation": "Lactational breast abscesses are caused by the skin's commensal micro-organisms, nearly always staphylococci, infiltrating cracks in the nipple during breastfeeding. Segmental breast inflammation occurs, leading to cellulitis which, if not treated promptly, results in breast tissue necrosis, pus build up and abscess formation within the breast segment. Continuous pain and sleepless nights coupled with the hard 3 cm painful lump suggest an abscess rather than acute mastitis. Fat necrosis is unlikely here with no history of previous minor local trauma. Periductal mastitis is possible, but classically occurs in non-lactating women of reproductive age and is associated with smoking. From the nature of the history and physical examination findings, it is unlikely to be a breast cyst."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "A 65-year-old nulliparous woman presents to your clinic with a lump in her left breast, which was discovered 7 months ago. On examination you find a hard, ill-defined, non-tender, 3.5 cm lump behind the left nipple. The patient has also had bloody, non-purulent discharge from a single duct on the left nipple for over 3 months. The most likely diagnosis here is",
+            "options": [
+                "A. Mammary duct ectasia",
+                "B. Breast carcinoma",
+                "C. Duct papilloma",
+                "D. Periductal mastitis",
+                "E. Acute mastitis"
+            ],
+            "answer": "B",
+            "explanation": "The most likely diagnosis here is breast carcinoma. The patient is in her sixth decade with a nulliparous history. Furthermore, blood-stained nipple discharge coupled with the non-tender breast lump place her at high risk of breast cancer. Milky to dirty-green nipple discharge is usually seen with mammary duct ectasia (common in postmenopausal women) and often, but not always, occurs bilaterally. Acute and periductal mastitis are unlikely here due to the absence of mastalgia. Although duct papillomas are relatively common causes of blood-stained discharge, they do not classically present with a breast lump and other symptoms are rarely present. Owing to the similar presentation of breast carcinoma, it is difficult to distinguish it from a duct papilloma by clinical examination alone."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "A 43-year-old woman presents to your clinic with a 2-month history of localized dull pain in the right breast. The pain intensifies just before her period. On examination, you find a discrete 2.5 cm mobile, tense, tender, fluctuant lump in the lower inner quadrant of the right breast. The most likely diagnosis here is",
+            "options": [
+                "A. Fibroadenosis",
+                "B. Periductal mastitis",
+                "C. Breast cyst",
+                "D. Fat necrosis",
+                "E. Fibroadenoma"
+            ],
+            "answer": "C",
+            "explanation": "Breast cysts usually occur in women over the age of 40 years through to the menopause. The aetiology in unclear, but it is thought that they occur due to hormonal imbalances around the menopause. Not all breast cysts manifest as pre-menstrual tenderness. The lump is mobile and fluctuant, suggesting that it is a fluid-filled cyst. Fibroadenomas classically present in females below the age of 35 and are infrequent after the age of 35–40. Fibroadenosis presents at a similar age, however the lump is fluctuant, making it more likely to be a cyst. Fat necrosis is unlikely here in the absence of previous minor local trauma (which is not stated in the history). Periductal mastitis is commonly seen in non-lactating women in their thirties (with a history of smoking) with pain usually developing in the areolar area."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "A 47-year-old perimenopausal woman presents with a 3-week history of green discharge from the right nipple. On examination, the right nipple is non-tender, has a 'slit-like' appearance and is retracted. The most likely diagnosis is",
+            "options": [
+                "A. Galactorrhoea",
+                "B. Duct papilloma",
+                "C. Breast carcinoma",
+                "D. Mammary duct ectasia",
+                "E. Fibroadenoma"
+            ],
+            "answer": "D",
+            "explanation": "This presentation is typical of mammary duct ectasia, which is common in the decade around the menopause. The nipple discharge can vary, ranging from milky, brown to a dirty green colour. The nipple discharge can be bilateral and occasionally it is associated with cyclical mastalgia. The history of nipple retraction can cause confusion, leading the clinician to suspect breast carcinoma. However, the presence of the slit in the nipple, coupled with the colour of the nipple discharge and the perimenopausal age of the patient, make it more likely to be duct ectasia. Galactorrhoea is unlikely here as nipple discharge is usually bilateral and milky in appearance and this usually follows lactation. Duct papillomas usually present with blood-stained nipple discharge. Fibroadenoma does not usually present with nipple discharge and is common in women under the age of 35."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "A 25-year-old woman presents to your clinic after discovering, for the first time, two lumps in the inner lower quadrant of her left breast. On examination you find these lumps to be 2 cm in size, solid, discrete, mobile and non-tender. The right breast is normal and there is no lymphadenopathy. The most appropriate course of management is",
+            "options": [
+                "A. Request a mammogram",
+                "B. Reassure the patient and discharge her",
+                "C. Request an ultrasound of the left breast",
+                "D. Request fine needle aspiration",
+                "E. Request a core biopsy"
+            ],
+            "answer": "C",
+            "explanation": "All breast lumps are investigated using 'triple assessment' which involves clinical examination, ultrasound breast scans for women younger than 35 (due to relatively denser breast tissue) or mammograms for women older than 35, followed by fine needle aspiration cytology and/or core biopsy for cytological and histological assessment, respectively. Women over the age of 35 tend to have less dense breast tissue, which increases the sensitivity and specificity of mammography. This patient is 25, which coupled with the discovery of two new lumps, indicates that the next line investigation, following clinical examination, would be an ultrasound of the left breast. Mammography would not be suitable as this patient is under the age of 35. Reassurance and discharge is clearly wrong as all breast lumps should undergo triple assessment before the patient is discharged. Fine needle aspiration and core biopsy, although they will be carried out, are not considered until radiological assessment has been performed."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "A 67-year-old woman, with a 25-year smoking history, on hormone replacement therapy, presents to clinic expressing concerns regarding an increase in the size of her right breast over the last 4 months. On examination, you find a non-tender, mobile, lobulated 10 cm mass with relatively smooth edges in the right breast. The right breast is significantly larger than the left and has a 'teardrop' appearance and the skin looks normal. The most likely diagnosis here is",
+            "options": [
+                "A. Paget's disease of the nipple",
+                "B. Inflammatory breast carcinoma",
+                "C. Breast abscess",
+                "D. Malignant phylloides tumour",
+                "E. Fibroadenoma"
+            ],
+            "answer": "D",
+            "explanation": "The most likely answer here is a malignant phyllodes tumour which accounts for 0.5% of all breast tumours. The recent increase in size of the right breast coupled with the discovery of a non-tender, mobile lump, giving the right breast a ‘tear drop' appearance, is suggestive of a malignant phyllodes tumour. Phyllodes tumours have many of the clinical and histological features of fibroadenomas (which are common in women in their early to late twenties). Inflammatory breast carcinoma, as its name suggests, is associated with pain (unlike other breast cancers), breast erythema, peau d'orange (the skin overlying the breast resembles that of red-coloured orange peel) and skin ridging with or without a palpable mass. Paget's disease of the nipple presents as a unilateral, non-itchy, irregular eczematoid eruption of the nipple. It can be easily confused with eczema of the nipple, which usually occurs bilaterally, with pruritus, and can be nipple sparing. Breast abscess is unlikely here, and for more information, please refer to the answer to Question 2."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "A worried 59-year-old city worker arrives at your clinic with a 1-month history of having noticed a non-itchy, persistent, burning rash in the region of her right breast. On examination, you find the right nipple and the skin overlying the areola to be red and eczematous. The most likely cause is",
+            "options": [
+                "A. Breast abscess",
+                "B. Malignant phyllodes tumour",
+                "C. Paget's disease of the nipple",
+                "D. Basal cell carcinoma",
+                "E. Mastitis"
+            ],
+            "answer": "C",
+            "explanation": "The most likely answer here is Paget's disease of the nipple. The non-itchy, eczematoid changes in the overlying skin of the right nipple and accompanying lymphadenopathy suggests underlying breast malignancy rather than eczema. Paget's disease of the nipple is almost always associated with an underlying intraductal or invasive carcinoma. Early BCC lesions consist of raised pearly pink papules with fine overlying areas of telangiectasia. Late BCC lesions gradually ulcerate and are often referred to as 'rodent ulcers'. A malignant phyllodes tumour is unlikely here due to the absence of a lump and increase in size of the breast. Mastitis and breast abscess are also unlikely due to the presenting history and clinical findings (please refer to the answer to Question 2)."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "A 21-year-old nulliparous woman presents to your clinic with a 1-month history of bilateral breast pain. The pain, which is dull and achy in nature, is poorly localized and widespread across both breasts. The pain gradually increases in severity and is worse just before her menses. The pain usually starts to get better once her menses start. On examination, both breasts are tender. There are no lumps, skin changes or obvious swellings. The most likely diagnosis here is",
+            "options": [
+                "A. Non-cyclical mastalgia",
+                "B. Tietze's syndrome",
+                "C. Cyclical mastalgia",
+                "D. Acute bacterial mastitis",
+                "E. Traumatic fat necrosis"
+            ],
+            "answer": "C",
+            "explanation": "The history of bilateral cyclical breast pain, which gradually intensifies before the start of the menses, and which is relieved once the menses start, is highly suggestive of cyclical mastalgia. The absolute cause of this condition is not yet clear, although it is thought to arise due to the sensitivity and responsiveness of breast tissue to hormones. Non-cyclical mastalgia does not fit the history as it is not usually associated with the menstrual cycle. Tietze's syndrome is characterized by tenderness usually over the second, third or fourth costochondral junctions because of chondritis of the costal cartilages. Acute bacterial mastitis is possible, but usually does not present bilaterally and is not associated with the menstrual cycle. The affected breast is usually erythematous, swollen and extremely tender. Traumatic fat necrosis is clearly wrong as there is no history of recent trauma to the breasts."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "You are attending a breast multidisciplinary team (MDT) meeting where the core biopsy histology results of a suspicious breast lesion are being discussed in a 55-year-old woman presenting with a right sided breast lump. The histopathologist states that the breast lesion possesses ‘B5b' histology features. What is the most likely diagnosis?",
+            "options": [
+                "A. Fibroadenoma",
+                "B. Benign breast cyst",
+                "C. Ductal carcinoma in-situ",
+                "D. Invasive breast carcinoma",
+                "E. No breast abnormality"
+            ],
+            "answer": "D",
+            "explanation": "Triple assessment is adopted when investigating all breast lumps. Clinical history and examination is followed by imaging and then by cytological or histological analysis.\n\nOn palpation of a breast lump, a grade of 1-5 is given based on its clinical characteristics. These are:\n• P1 - Normal breast tissue\n• P2 - Benign breast tissue\n• P3 - Suspicious but probably benign\n• P4 - Suspicious but probably malignant\n• P5 - Malignant\n\nThe same 1-5 grading is used for imaging, but an ‘M' is used for mammography and ‘U' for ultrasound.\n\nCytological grades are given as follows:\n• C1 – Normal cell architecture or inadequate sample\n• C2 - Benign cytology\n• C3 - Suspcious but probably benign\n• C4 - Suspicious but probably malignant\n• C5 - Malignant\n\nHistology grades for needle core biopsy are\n• B1 - Normal breast tissue or inadequate sample\n• B2 - Benign breast tissue\n• B3 - Suspious but probably benign\n• B4 - Suspicious but probably malignant\n• B5a – Carcinoma in-situ (e.g. ductal/lobular carcinoma in situ)\n• B5b – Invasive carcinoma (e.g. invasive ductal/lobular carcinoma)\n\nWith regard to the question, the breast lesion was given a ‘B5b' histology grade from the needle core biopsy sample. This histology result implies invasive malignancy."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "A 25-year-old woman is diagnosed with a 1.5 cm palpable area of fat necrosis of the left breast by core biopsy following a traumatic injury 14 days earlier. She has slight bruising of the lower outer quadrant of the left breast with moderate tenderness. What would be the most appropriate course of management?",
+            "options": [
+                "A. Reassurance and discharge",
+                "B. Follow-up appointment for ultrasound in 3 months",
+                "C. Wide local excision",
+                "D. Left mastectomy",
+                "E. Follow-up appointment for ultrasound in 6 months"
+            ],
+            "answer": "A",
+            "explanation": "Traumatic fat necrosis of the breast, in most cases, does not warrant any treatment or follow-up and will usually resolve with time. In some cases, fat necrosis can leave a hard, irregular lump (with some overlying skin tethering) which can be mistaken for carcinoma. History of recent trauma to the breast(s) makes carcinoma unlikely. Core biopsy can be performed to confirm the diagnosis. Therefore, follow-up appointment in 3 months, wide local excision, left mastectomy, and follow-up appointment in 6 months are all incorrect."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "A 38-year-old woman, and mother of two healthy children, is diagnosed with a fluid-filled simple cyst after triple assessment. On ultrasound the inner surface of the cyst looks entirely smooth. The woman does not have any significant family history of carcinoma and the cyst is located in the outer-lower quadrant of the right breast. What would be the most appropriate course of action?",
+            "options": [
+                "A. Wide local excision",
+                "B. Follow-up appointment in 3 months",
+                "C. Annual follow-up",
+                "D. Reassure and discharge",
+                "E. Core biopsy"
+            ],
+            "answer": "C",
+            "explanation": "Once a breast cyst is diagnosed and imaging features are benign, there is usually a follow-up with the patient in 1 year. Wide local excision, follow-up appointment in 3 months, reassure and discharge and core biopsy are incorrect. Benign breast cysts usually produce a straw-coloured aspirate. Once drained, fluid-filled benign cysts usually collapse and the lump disappears. If the aspirate is blood stained or the lump fails to resolve, re-evaluation with triple assessment is done within a few weeks."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "A 30-year-old woman who is 12 days postpartum and breastfeeding is diagnosed with acute mastitis of the left breast. Four days earlier, she discovered a painful crack in the region of the left nipple and noticed that the surrounding skin was tender, warm and red in colour. The patient is not allergic to penicillin and you decide to prescribe a course of antibiotics. What would be the most appropriate antibiotic for treating this condition?",
+            "options": [
+                "A. Erythromycin",
+                "B. Amoxicillin",
+                "C. Ciprofloxacin",
+                "D. Flucloxacillin",
+                "E. Cephalexin"
+            ],
+            "answer": "D",
+            "explanation": "Flucloxacillin is the antibiotic of choice for treating lactational acute mastitis. The crack in the left nipple allows invasion by skin commensal Staphylococcus aureus, the most common cause of breast infection. Flucloxacillin is a penicillinase-resistant antibiotic that is very effective against S. aureus infections. Breastfeeding or milk expression is still encouraged during treatment and has shown to quicken recovery. Amoxicillin (from the penicillin family), and ciprofloxacin (from the quinolone family) are ineffective against S. aureus. Erythromycin (from the macrolide family) is usually administered to patients who are allergic to penicillin formulas. It is not as effective as penicillinase-resistant antibiotics against S. aureus. Cephalexin (from the cephalosporin family), a moderate-spectrum antibiotic, can be used for S. aureus infections. However, cephalosporins are not considered a first line antibiotic therapy for the treatment of breast abscesses due to moderate-spectrum activity. In this case, the patient is not allergic to penicillin and thus flucloxacillin is the more appropriate choice of treatment."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "After a triple assessment, including core biopsy, a 28-year-old woman is diagnosed with a fibroadenoma of the left breast. The patient has a significant family history of breast carcinoma. The non-tender lump is situated in the inner lower quadrant of the left breast. The lump is approximately 1.5 cm × 1.5 cm. What is the most appropriate course of management?",
+            "options": [
+                "A. Excision of the lump",
+                "B. Reassure and follow-up after 3 months",
+                "C. The patient should be given the choice of excision or not and if not she could be discharged",
+                "D. Fine needle aspiration",
+                "E. Perform triple assessment again in 6 weeks"
+            ],
+            "answer": "A",
+            "explanation": "After a diagnosis of fibroadenoma is made, small lesions (i.e. <2.5 cm) do not warrant excision. In most cases, patients are reassured and discharged from clinic, but due to the patient's significant family history of breast carcinoma, it is essential, and reassuring to her, for the lump to be excised. Therefore, excision of the lump is the most appropriate answer in this clinical vignette."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "A 45-year-old perimenopausal woman is diagnosed with mammary duct ectasia of the right breast after having had small and infrequent amounts of milky green discharge from multiple ducts of the right nipple for over 2 months. The patient has no significant family history and mammography findings are normal. What is the most appropriate course of management?",
+            "options": [
+                "A. Reassure and discharge",
+                "B. Surgical resection of the duct system of the right breast (Hadfield's operation)",
+                "C. Commence antibiotic therapy",
+                "D. Perform mammography of the right breast in 3 months",
+                "E. Mastectomy of the right breast"
+            ],
+            "answer": "A",
+            "explanation": "Mammary duct ectasia does not warrant treatment providing investigations are normal. Duct excision is only performed if the discharge is frequent and excessive. Antibiotic therapy is not usually a treatment option for this condition and will not provide a cure. Performing a mammography in 3 months is unlikely to be beneficial. Mastectomy of the right breast is not a recommended treatment modality."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "A 48-year-old perimenopausal woman presents with a 2-month history of a painful lump in her right breast. On examination you find a 2.5 cm tense, fluctuant, mobile lump in the outer lower quadrant of the right breast. The most appropriate next course of action is",
+            "options": [
+                "A. Computed tomography scan",
+                "B. Mammography and ultrasound",
+                "C. Fine needle aspiration",
+                "D. Core biopsy",
+                "E. Mammography and core biopsy"
+            ],
+            "answer": "B",
+            "explanation": "After clinical examination of a breast lump, the next step is radiological assessment. This patient is over 35 and should therefore be offered mammography and ultrasound. CT scanning does not indicate in the triple assessment protocol. Fine needle aspiration and core biopsy are not considered until radiological assessment is performed. A combination of mammography and core biopsy is incorrect for reasons explained in the answer to Question 7."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "A 60-year-old woman was found to have one focal area of microcalcification (approximately 20 mm in diameter) in the left breast. A stereotactic core biopsy of this area was taken for histological assessment, which revealed low-grade ductal carcinoma in situ. In light of this, what would be the most appropriate treatment modality for this patient?",
+            "options": [
+                "A. Mastectomy",
+                "B. Mastectomy + postoperative radiotherapy",
+                "C. Wide local excision + postoperative radiotherapy",
+                "D. Mastectomy + axillary clearance + postoperative radiotherapy",
+                "E. Wide local excision + axillary clearance + postoperative radiotherapy"
+            ],
+            "answer": "C",
+            "explanation": "Although mastectomy and mastectomy + postoperative radiotherapy are accepted treatment options for DCIS, wide local excision + postoperative radiotherapy is now frequently offered to women with tumours less than 40 mm in diameter of not an aggressive grade. Wide local excision attempts to conserve the unaffected breast tissue, thus avoiding the need for complete mastectomy, which carries greater psychological trauma to the patient. Mastectomy + postoperative radiotherapy is offered when DCIS is found in multiple areas of the breast, the tumour grade is aggressive, the size of the tumour is greater than 40 mm and if the oestrogen receptor status is negative. Ductal carcinoma in situ implies that the tumour is still confined to the basement membrane and has not broken through the latter. Thus axillary lymph nodes are at a greater chance of being affected once the tumour has broken through the basement membrane. With some exceptions, axillary staging and clearance is performed when multiple foci of extensive and aggressive DCIS are found."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "A 47-year-old woman is diagnosed with an unifocal 2.5 cm Grade 3 invasive ductal carcinoma of the right breast. Following MDT discussion the consultant sees the patient in clinic to convey management options. Which of the following would be the most appropriate management plan for this patient?",
+            "options": [
+                "A. Wide local excision",
+                "B. Wide local excision and axillary clearance",
+                "C. Mastectomy and sentinel node biopsy",
+                "D. Wide local excision and sentinel node biopsy",
+                "E. Mastectomy and axillary clearance"
+            ],
+            "answer": "D",
+            "explanation": "The patient has a unifocal 2.5 cm malignant tumour in the right breast. The most appropriate management would be to perform a wide local excision of the breast tumour and it is essential to establish whether axillary disease is present or not. To assess disease positivity/negativity in the axilla, sentinel node biopsy should be performed. If the axillary sentinel lymph node is involved with metastatic tumour deposits originating from the primary breast tumour (e.g. macrometastases; tumour deposits. 2 mm), depending on the level of involvement of the axilla, the patient will undergo axillary clearance. This involves removing level 1-3 axillary lymph nodes to remove residual malignancy. It is not common practice for a patient diagnosed with breast cancer to undergo axillary clearance if the axilla has not been assessed. In some cases, an axillary lymph node FNA cytology assessment may be performed if there is palpable axillary disease. If the result confirms malignant disease, then the patient will undergo axillary clearance. Otherwise, sentinel node biopsy is usually performed to plan, whether the patient requires axillary clearance. The main indications for mastectomy are patients who have large tumours (>5 cm) that are unresponsive to chemotherapy, multifocal breast tumours, diffuse DCIS, and a large tumour relative to the patient's breast tissue."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "A 46-year-old man is diagnosed with an oestrogen receptor positive invasive ductal carcinoma of the right breast after having discovered a lump 3 months before. The patient is found to have multiple involved axillary lymph nodes and the tumour is of an aggressive phenotype. The most appropriate treatment option for this patient is",
+            "options": [
+                "A. Cytotoxic chemotherapy and Tamoxifen but no surgery",
+                "B. Mastectomy + axillary clearance + systemic chemotherapy + radiotherapy and tamoxifen",
+                "C. Wide local excision and Tamoxifen only",
+                "D. Mastectomy + postoperative radiotherapy only",
+                "E. Palliative care programme"
+            ],
+            "answer": "B",
+            "explanation": "The treatment options for male breast cancer are similar to those for female breast cancer. The most common form of breast cancer in males is invasive ductal carcinoma, which is also the most common type in women. There are four clinical stages of ductal carcinoma and determining the clinical stage allows for the selection of initial treatment. Patients who have stage 1 or 2 (early breast cancer) are more suitable for surgery whereas surgery should be avoided in patients who have stage 3 and 4 breast cancer, that is locally advanced cancer or metastatic spread at presentation, respectively, and they should be treated with chemotherapy. In this case, the patient has stage 2 breast cancer, implying that he is suitable for surgery. In addition, this tumour is oestrogen receptor positive; 90% of male breast cancers are oestrogen receptor positive. Mastectomy + axillary clearance, followed by systemic chemotherapy, radiotherapy and Tamoxifen, is the most suitable answer out of the five options. Chest wall radiotherapy coupled with systemic chemotherapy carries a better prognosis for the patient. Mastectomy alone would ensure tumour removal, but would not ensure the clearance of micrometastases, and the risk of recurrence/metastases would be higher without chemo/radiotherapy. Wide local excision would be difficult due to the invasive nature of the tumour and ensuring tumour clear margins of tissue. Mastectomy + radiotherapy is possible, but the addition of chemotherapy and hormonal therapy with Tamoxifen carries a better prognosis because of the higher likelihood of removal of micrometastases. Patients who have stage 4 breast cancer (metastases at presentation) are usually offered palliative care."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "A 34-year-old premenopausal woman presents to your clinic with a lump in her right breast. On examination you find a 2.5 cm fluctuant, mobile, tender lump in the inner lower quadrant of the right breast. The ultrasound report suggests a benign fluid-filled cyst. The most appropriate course of action is",
+            "options": [
+                "A. Breast magnetic resonance imaging",
+                "B. Ultrasound guided fine needle aspiration",
+                "C. Ultrasound guided core biopsy",
+                "D. Reassure and discharge",
+                "E. Mammography"
+            ],
+            "answer": "B",
+            "explanation": "Ultrasound assessment of this patient's breast lump confirms that it is a fluid-filled cyst with benign features. The next best course of action is therefore to offer the patient fine needle aspiration of the cyst. The extracted fluid is usually discarded. In some cases, if the Radiologist suspects that the cyst has indeterminate features, the aspirated cystic fluid be sent off for cytological analysis (if but in some cases the fluid may be blood). Breast MRI is used in the assessment of multifocal/ bilateral disease and also in patients with cosmetic implants who are at a predisposed risk of breast cancer. Core biopsy, reassure and discharge and mammography are thus incorrect answers. For further clarification, please refer to the answer to Question 7."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "In which one of the following scenarios is the complication of lymphoedema of the arm more likely to occur after resection of a breast tumour and axillary clearance?",
+            "options": [
+                "A. Mastectomy + axillary clearance + postoperative radiotherapy to the chest wall",
+                "B. Mastectomy + axillary clearance + systemic chemotherapy",
+                "C. Mastectomy + axillary clearance + postoperative radiotherapy to the axilla",
+                "D. Mastectomy + axillary clearance",
+                "E. Mastectomy + postoperative radiotherapy"
+            ],
+            "answer": "C",
+            "explanation": "Lymphoedema of the arm usually occurs following the combination of surgical axillary clearance and postoperative radiotherapy to the axilla. This therapeutic combination is therefore not offered to patients as it is associated with an unacceptably high incidence of lymphoedema. Mastectomy + axillary clearance + postoperative radiotherapy to the chest wall, mastectomy + axillary clearance + systemic chemotherapy, mastectomy + axillary clearance and mastectomy + postoperative radiotherapy are incorrect options where the incidence of lymphoedema is relatively lower compared with mastectomy + axillary clearance + postoperative radiotherapy to the axilla."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "A 28-year-old woman, who was hospitalized 2 months ago following a head injury, attends the outpatient clinic with a 6-week history of polyuria and polydipsia and no other symptoms. Her blood pressure is 117/83 mmHg and her heart rate is 68 beats/min. From the list below, select the most appropriate management option.",
+            "options": [
+                "A. Carbimazole",
+                "B. Desmopressin",
+                "C. Spironolactone",
+                "D. Thyroxine",
+                "E. Octreotide"
+            ],
+            "answer": "B",
+            "explanation": "Symptoms of polyuria and polydipsia are common in many conditions. From the patient's history, she had suffered a head injury (the triggering factor for her symptoms) and after 2 weeks her symptoms started. The fact that she has no other symptoms makes it likely that this patient is suffering from diabetes insipidus, where vast amounts of dilute urine are secreted. Two forms exist: cranial diabetes insipidus (causes include head injury, cranial surgery, sarcoidosis), where there is a lack of ADH secretion from the posterior pituitary gland; and nephrogenic diabetes insipidus (causes include hypokalaemia, hypercalcaemia, drugs such as lithium and demecycline, genetic defects and heavy metal poisoning), where there is a lack of response of the kidneys to ADH. Diagnosis can be confirmed using the water deprivation test. This patient has cranial diabetes insipidus. From the list of options, the most likely answer is treatment with desmopressin (a synthetic analogue of ADH). Carbimazole is given to patients with hyperthyroidism. Spironolactone, in the context of endocrine medicine, is given to patients with Conn's syndrome. Thyroxine is given to hypothyroid patients and octreotide (a somatostatin analogue) can be used in patients with excessive growth hormone production (e.g. acromegaly) and patients with carcinoid syndrome."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "During a ward round, you are asked by your surgical registrar about the management of a phaeochromocytoma. Select from the list below the most appropriate management plan for a phaeochromocytoma.",
+            "options": [
+                "A. Surgical resection, followed by ẞ blockade, followed by a blockade",
+                "B. Lifelong ẞ and a blockade",
+                "C. Surgical resection",
+                "D. ẞ blockade, followed by a blockade, followed by surgical resection",
+                "E. a blockade, followed by ẞ blockade followed by surgical resection"
+            ],
+            "answer": "E",
+            "explanation": "Definitive treatment of a phaeochromocytoma is surgical resection, but before this is performed, pharmacological therapy is required to antagonize the effects of serum circulating catecholamines. a blockade with phenoxybenzamine is usually commenced 7-10 days before surgery, which allows blood volume expansion. Once this is achieved, β blockade therapy is started. β blockade cannot be initiated too early as unopposed a receptor stimulation may precipitate a hypertensive crisis. Once the patient has been established on adequate a and ẞ blockade, surgical resection of the tumour is carried out."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "A 58-year-old postmenopausal woman has been seen in clinic following discovery of a 3 cm, non-tender, irregular, firm lump in the upper outer quadrant of the left breast. Mammography and ultrasound imaging respectively reveal that the lump has areas of calcification and is a solid mass. The most appropriate course of action is",
+            "options": [
+                "A. Repeat mammography and ultrasound scans in 6 months",
+                "B. Reassure and discharge",
+                "C. Repeat mammography and ultrasound scans in 3 months",
+                "D. Fine needle aspiration to ensure that the lump is not really fluid filled",
+                "E. Core biopsy"
+            ],
+            "answer": "E",
+            "explanation": "After confirmation with mammography and ultrasound imaging, a core biopsy of the lump is warranted for histological analysis. Ultrasound confirmation of the lump being solid is sufficient. This lump is highly suggestive of underlying malignancy and requires urgent assessment. Repeat mammography and ultrasound scans in 6 months, reassure and discharge and repeat mammography and ultrasound scans in 3 months are therefore all incorrect."
+        }
+    ]
+}

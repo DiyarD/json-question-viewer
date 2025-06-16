@@ -1,0 +1,425 @@
+{
+    "chapter_name": "SECTION 12: ORTHOPAEDICS",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "You are asked to see a patient in the outpatient clinic. The patient has weakness in her left arm following a car accident 1 month ago when she fractured her left arm. On examination, there is weakness of extension of the fingers and wrist on the left side. However, the sensation is maintained in all distributions and there is no wrist drop. Which one of the following fractures classically associated with nerve damage is the most likely cause of this palsy?",
+            "options": [
+                "A. Fracture of head of radius",
+                "B. Fracture of shaft of humerus",
+                "C. Medial epicondyle of humerus",
+                "D. Fracture of shaft of ulna",
+                "E. Fracture of neck of femur"
+            ],
+            "answer": "A",
+            "explanation": "Candidates who are able to answer this level of question are those heading for honours. It tests candidates' knowledge of the functional anatomy of the nerve supply to the upper limb. The nerve involved is obviously the radial nerve; its course winds around the shaft of the humerus before entering the forearm laterally and running adjacent to the head of the radius. Option E is obviously wrong. Options C and D are also wrong as the radial nerve runs laterally. Medial epicondyle fractures are associated with ulnar nerve palsies, and not radial nerve injury.\n\nBoth fractured head of radius and a fractured shaft of the humerus may cause radial nerve damage. However, in the above case the sensation to the arm is maintained, as is wrist extension. This implicates a fracture of the head of the radius; proximal to the elbow, the radial nerve gives off several branches: the posterior interosseous nerve, the superficial radial nerve, which is the sensory branch, as well as a branch supplying the extensor carpi radialis longus. Head of radius fractures damage the posterior interosseous nerve only. This fracture therefore results in a palsy that spares sensation and wrist extension, while all other extensor function is lost."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "On assessment of a patient in the outpatients department you identify that they are Trendelenburg's test positive. This indicates a possible palsy of which nerve?",
+            "options": [
+                "A. Sciatic",
+                "B. Femoral",
+                "C. Obturator",
+                "D. Superior gluteal",
+                "E. Inferior gluteal"
+            ],
+            "answer": "D",
+            "explanation": "The detail of anatomy teaching varies greatly between medical schools. However, some essential points should be consistently taught. Trendelenburg's sign and gait should be correctly elicited or described by all final year candidates and candidates should expect to be able to talk about common causes and compartmental anatomy of the lower limb.\n\nTrendelenburg's gait and test manifest secondary to hip abductor weakness. This may occur due to an abnormality in the muscle, the nerve or in the connections between the two. The most common cause is muscle wasting in patients with degenerative joint disease or chronic hip pain. Other causes include muscle damage following multiple surgeries, structural joint diseases such as developmental hip dysplasia and neuromuscular diseases such as polio and Guillian-Barré.\n\nThe nerve supply to the hip abductors (gluteus medius and minimus) is from the superior gluteal nerve; the inferior gluteal nerve supplies gluteus maximus. The superior gluteal nerve exits the greater sciatic foramen and lies in close approximation to the greater trochanter, where it may become damaged following trauma or surgery."
+        },
+        {
+            "id": "3",
+            "question_type": "mcq",
+            "question": "The most common cause of an acquired valgus deformity of the knee joint is",
+            "options": [
+                "A. Rheumatoid arthritis",
+                "B. Osteoporosis",
+                "C. Trauma",
+                "D. Osteoarthritis",
+                "E. Osteomalacia"
+            ],
+            "answer": "D",
+            "explanation": "The concept that OA predominantly causes a varus deformity of the knee, whereas RA causes a valgus deformity, is a favoured question in exams but is of limited use in clinical practice. In reality, both diseases can cause either valgus or varus deformity, depending on the pattern of joint involvement. What is true is that OA more commonly affects the medial compartment of the knee, and therefore more commonly causes a varus deformity, and the inverse can be said of RA. However, since OA of the knee affects 40% of those over the age of 75, the most common cause of valgus deformation of the knee is OA, not RA.\n\nIf candidates are asked to differentiate between OA and RA in an exam, they should take account of the patient's age and other joint involvement, and ask for a radiograph of the joint in question. It is not possible to differentiate between OA and RA on examining an isolated knee joint alone."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "Which of the following is the most common secondary cause of haemarthrosis of the knee?",
+            "options": [
+                "A. Meniscal tear",
+                "B. Anterior cruciate ligament injury",
+                "C. Osteophyte fracture",
+                "D. Posterior cruciate ligament injury",
+                "E. Patella dislocation"
+            ],
+            "answer": "B",
+            "explanation": "Haemarthrosis may be primary or secondary. Primary haemarthrosis indicates a spontaneous bleed into the joint, which may be because of inherited coagulopathy or may be drug (warfarin) induced. Secondary haemarthrosis is consequent to traumatic injury.\n\nAnterior cruciate ligament injury causes rapid accumulation of blood within the joint and accounts for 80% of traumatic haemarthrosis. Posterior cruciate ligament injury is less commonly associated with significant haemarthrosis. Ten per cent of haemarthrosis is caused by patella dislocation, and an additional 10% is caused by meniscal injury where the tear extends into the peripheral third of the cartilage where it is vascularised. Osteophyte fracture is an important cause, but rarer than capsular/ligament injury.\n\nNB: 25% of ligament/capsular injuries severe enough to cause haemarthrosis also have significant associated cartilage injury. Therefore, all such injuries will require follow-up MRI/arthroscopy."
+        },
+        {
+            "id": "5",
+            "question_type": "mcq",
+            "question": "Which of the following options is not a clinical feature common in osteoarthritis and rheumatoid arthritis of the knee?",
+            "options": [
+                "A. Muscle wasting",
+                "B. Joint effusion",
+                "C. Baker's cyst",
+                "D. Raised C-reactive protein",
+                "E. Subcutaneous nodules"
+            ],
+            "answer": "E",
+            "explanation": "Osteoarthritis and RA are both degenerative diseases affecting the joints. Osteoarthritis is commonly thought of as a disease of ‘wear and tear'. However, a clinician should be aware that aetiology is multifactorial and local joint inflammation has a significant role in the progression, probably as part of a deranged repair response to cartilage injury. Therefore, joint effusion, synovitis and raised inflammatory markers are common features in both diseases, although the inflammation in rheumatoid disease is more severe.\n\nAs degenerative diseases, both RA and OA weaken the joint capsule and Baker's cyst formation may occur in either condition, although rupture is classically associated with active RA. Muscle wasting occurs as a consequence of local inflammation and reduced use of the joint secondary to pain. The vastus medialis muscle is the first to atrophy with disuse and its bulk is best assessed by measuring the thigh circumference 15–20 cm proximal to the tibial tuberosity. The key difference between RA and OA is that the former is a systemic connective tissue disorder, therefore the presence of extra-articular manifestations are only associated with RA. The nodules in OA are bony and periarticular, not subcutaneous."
+        },
+        {
+            "id": "6",
+            "question_type": "mcq",
+            "question": "Rheumatoid arthritis is a multisystem connective tissue disease. Which of the following is not a pulmonary complication of rheumatoid arthritis?",
+            "options": [
+                "A. Effusion",
+                "B. Obstructive lung disease",
+                "C. Restrictive lung disease",
+                "D. Cavitation",
+                "E. Emphysema"
+            ],
+            "answer": "E",
+            "explanation": "The extra-articular manifestations of RA are truly numerous and are beyond the scope of this text. As well as patterns of joint involvement candidates should familiarize themselves with the cutaneous, ocular, pulmonary, cardiovascular and haematological complications complicit with this complex and common disease.\n\nRheumatoid lung is a term used to describe a restrictive deficit secondary to fibrosis and accounts for 20% of pulmonary complications associated with RA. Pleuritis is also common (5%) presenting with chest pain and (exudative) pulmonary effusions. Pulmonary nodules are histologically similar to cutaneous nodules; they are typically peripherally placed and asymptomatic, but may cavitate. In the presence of pneumoconiosis, pulmonary nodules may cause large cavitating lesions (Caplin's syndrome) with associated respiratory compromise, but this is becoming increasingly rare in the UK following the collapse of the mining industry and improved health and safety on industrial sites.\n\nHowever, the most common pulmonary manifestation in RA is an obstructive lung disease, which accounts for 35%-50% of all RA pulmonary disease. Patients present with wheeze and exertional dyspnoea similar to COPD, however the underlying pathology is bronchiolitis, and not emphysema."
+        },
+        {
+            "id": "7",
+            "question_type": "mcq",
+            "question": "All of the following are dermatological manifestations of rheumatoid arthritis, except",
+            "options": [
+                "A. Palmar erythema",
+                "B. Erythema nodosum",
+                "C. Pyoderma gangrenosum",
+                "D. Livedo reticularis",
+                "E. Skin nodules"
+            ],
+            "answer": "B",
+            "explanation": "Dermatological manifestations of systemic diseases are beloved of examiners almost as much as they are hated by those sitting the exam. The question lists some of the most commonly asked about cutaneous signs associated with systemic conditions, and candidates should know the appearance and be able to list a differential diagnosis for each. Erythema nodosum is the only one which is not seen in association with RA."
+        },
+        {
+            "id": "8",
+            "question_type": "mcq",
+            "question": "Dupuytren's contracture is caused by a thickening of the palmar fascia. It is associated with the following conditions, except",
+            "options": [
+                "A. Alcoholic cirrhosis",
+                "B. Peyronie's disease",
+                "C. Acquired immune deficiency syndrome",
+                "D. Epilepsy",
+                "E. Syphilis"
+            ],
+            "answer": "E",
+            "explanation": "Dupuytren's contracture is a deformity caused by thickening of the palmer fascia, which results in finger flexion. The differential diagnosis includes skin fibrosis (look for previous scarring), tendon fibrosis and ulna nerve palsy. Tendon contracture and Dupuytren's may be differentiated clinically by passively flexing the fingers; in tendon contracture the thickened area will move with flexion, in Dupuytren's it will not. Also look for Garrod's pads, thickened subcutaneous tissue over the dorsal aspect of the PIPJs. The exact cause is unknown, but it is 10 times more prevalent in men, most commonly occurring in middle age. It is associated with repetitive trauma in manual workers. Dupuytren's is also associated with various systemic conditions which makes it a common exam subject, although it is important to remember idiopathic Dupuytren's is more common. The following mnemonic (ABCDEF) may be of use:\n• AIDS\n• Bent penis – Peyronie's disease disease is fibrosis of the corpus cavernosum, seen in 3% of Dupuytren's\n• Cirrhosis – Particularly alcoholic liver disease\n• Diabetes mellitus\n• Epilepsy and anti-epileptic medication (particularly phenytoin)\n• Familial (autosomal dominant)\n• Fibromatoses – A group of disorders characterized by diffuse fibrosis. A patient may develop each in isolation, or may develop several over the course of their life. Such conditions include Reidel's thyroiditis, retroperitoneal fibrosis, Ledderhose disease and desmoid tumours."
+        },
+        {
+            "id": "9",
+            "question_type": "mcq",
+            "question": "Your registrar tells you that his patient has a boxer's fracture. From this, you know that the bone which is fractured is",
+            "options": [
+                "A. The fifth metacarpal",
+                "B. The fourth metacarpal",
+                "C. The fifth proximal phalanx",
+                "D. Hamate",
+                "E. Styloid process"
+            ],
+            "answer": "A",
+            "explanation": "A boxer's fracture is a fracture of the fifth metacarpal bone, so called because it typically occurs when a closed fist strikes a solid surface. Although required knowledge of fracture patterns is limited in most medical schools, the commonest should be familiar to finals candidates. The most commonly asked about fractures at the author's own school are Colles', Smith's, Barton's, Monteggia's and Galeazzi's fractures, as well as boxer's fracture."
+        },
+        {
+            "id": "10",
+            "question_type": "mcq",
+            "question": "Which one of the following intrinsic muscles of the hand is not innervated by the median nerve?",
+            "options": [
+                "A. First lumbrical",
+                "B. Abductor pollicis brevis",
+                "C. Opponens pollicis",
+                "D. Adductor pollicis",
+                "E. Flexor pollicis brevis"
+            ],
+            "answer": "D",
+            "explanation": "The anatomy of the nervous supply to the hand is an extremely common examination topic throughout medical school, and especially in finals examinations. Put simply, the ulnar nerve supplies all intrinsic muscles of the hand, except the ‘LOAF' muscles:\n• First and second lumbricals\n• Opponens pollicis\n• Abductor pollicis brevis\n• Flexor pollicis brevis\nThese LOAF muscles are supplied by the median nerve. In reality it can be difficult to isolate between median and ulnar function, as the lumbricals are difficult to test, the action of opponens pollicis is supplemented by other muscles such as adductor pollicis, and is therefore impossible to isolate, and flexor pollicis has a variable innervation. Therefore, in an exam, the only way of truly isolating median nerve function is to test abductor pollicis brevis (raise thumb to the ceiling while the palm is facing up); this muscle is therefore said to have an autonomous motor supply.\n\nSimilarly, to truly isolate ulnar motor function, test the palmar interossei (finger adduction) and the radial nerve by assessing finger extension at the MCPJ."
+        },
+        {
+            "id": "11",
+            "question_type": "mcq",
+            "question": "All of the following are causes of carpal tunnel syndrome, except",
+            "options": [
+                "A. Hypothyroidism",
+                "B. Amyloidosis",
+                "C. Alcoholism",
+                "D. Gout",
+                "E. Rheumatoid arthritis"
+            ],
+            "answer": "C",
+            "explanation": "Carpal tunnel syndrome is a palsy secondary to nerve compression within the narrow confines of the carpal tunnel. Chronic compression impairs the blood supply to the nerve fibres, which results in fibrosis and impaired conduction. The clinical syndrome is one of altered sensation, aching pain (especially at night) and muscle weakness and wasting affecting the thenar eminence. It occurs more commonly in women than men and the cause is most commonly idiopathic. Secondary causes are all conditions where the space within the carpal tunnel becomes compromised. These include:\n• Anatomical abnormalities – Deformity following previous fracture\n• Soft tissue proliferation – Obesity, lipoma, ganglion, acromegaly, amyloidosis\n• Inflammation – RA, gout\n• Diabetes – Due to abnormal collagen proliferation within the endoneurium.\n• Fluid balance aberration – Pregnancy, menopause, hypothyroidism, renal failure\nPeripheral neuropathies due to alcoholism, vitamin B12 deficiency, etc. may mimic carpal tunnel syndrome but since their mechanism is not compressive, they cannot be considered as causes of carpal tunnel syndrome."
+        },
+        {
+            "id": "12",
+            "question_type": "mcq",
+            "question": "Which of the following pathological changes is not a feature of rheumatoid disease of the hand?",
+            "options": [
+                "A. Boutonniàre's deformity",
+                "B. Z line thumb",
+                "C. Squaring of the thumb",
+                "D. Ulnar deviation",
+                "E. Swan-neck deformity"
+            ],
+            "answer": "C",
+            "explanation": "This easy question is assessing basic knowledge of a common condition in clinical practice and examinations. Squaring of the thumb is a feature of OA of the hands along with Bouchard's nodes (PIPJ) and Heberden's nodes (DIPJ).\n\nSigns of rheumatoid disease of the hand are more numerous:\n• Z thumb – Flexion of the interphalangeal joint with hyperextension of MCPJ\n• Fixed ulnar deviation of fingers – As opposed to Jaccoud's deformity in SLE, where fingers appear normal in extension but ulnar deviation occurs on flexion\n• Swan-neck deformity – Due to fibrosis of the interosseous and lumbrical muscles, forcing a hyperextension of PIPJ and flexion of DIPJ\n• Boutonniàre deformity – Due to trapping of a flexed PIPJ through a rupture in the central portion of the extensor tendon expansion, resulting in fixed flexion of the PIPJ and hyperextension of DIPJ.\n• Radial deviation of the wrist\n• Volar subluxation of the wrist\n• Volar subluxation of the MCPJs"
+        },
+        {
+            "id": "13",
+            "question_type": "mcq",
+            "question": "A patient presents to his GP surgery complaining of a swelling on his wrist. On examination, there is a focal swelling on the dorsal aspect of the wrist. It is smooth and non-tender. The overlying skin is normal and moves freely over the mass, however it seems to be fixed to the tendon. What is the likely diagnosis?",
+            "options": [
+                "A. Sebaceous cyst",
+                "B. Lipoma",
+                "C. Ganglion",
+                "D. Giant cell tumour of the tendon sheath",
+                "E. Fibroma"
+            ],
+            "answer": "C",
+            "explanation": "The lump in question is not fixed to the skin, therefore sebaceous cyst can effectively be excluded as a possible diagnosis. Similarly, fixation to the tendon excludes lipoma as a possible diagnosis, as there is no fatty tissue in tendons. The three remaining entities may be difficult to differentiate clinically, but fibroma and giant cell tumours are extremely rare and therefore ganglion is the best answer in this case.\n\nA ganglion is a cystic degeneration of fibrous tissue. They therefore occur most commonly around joints and tendon sheaths. Candidates should be clear that they are not degenerations or projections of synovial membranes. Ninety per cent of ganglia occur in association with the wrist joint and tendons of the hand."
+        },
+        {
+            "id": "14",
+            "question_type": "mcq",
+            "question": "A patient presents to the outpatients department following referral for carpal tunnel syndrome. While taking the history and examining the patient you attempt to evaluate whether any permanent nerve injury has occurred. Which sign is often the first indicator of lasting nerve injury?",
+            "options": [
+                "A. Pins and needles",
+                "B. Thenar muscle wasting",
+                "C. Night pain",
+                "D. Reduced two-point discrimination",
+                "E. Positive Phalen's test"
+            ],
+            "answer": "D",
+            "explanation": "As alluded to in Question 11, carpal tunnel syndrome is caused by compression of the median nerve within the carpal tunnel. This compression damages the nerve by inducing a state of chronic ischaemia, the consequences of which include fibroblast proliferation and impairment of nerve function.\n\nNight pain and pins and needles are two common early symptoms which occur due to ischaemia of the nerve axon. They are, however, reversible and patients learn various tricks to alleviate their discomfort, such as hanging the affected hand out of the bed or shaking it, which re-establishes perfusion through the vasa nervorum. A positive Phalen's test demonstrates the medial nerve is susceptible to pressure, but does not indicate the presence of lasting damage. Reduced two-point discrimination, however, indicates a loss of nerve fibres which is rarely entirely reversible. Muscle wasting is a late sign of irreversible nerve damage and permanent loss of function."
+        },
+        {
+            "id": "15",
+            "question_type": "mcq",
+            "question": "Which of the following muscles is not part of the rotator cuff?",
+            "options": [
+                "A. Pectoralis minor",
+                "B. Subscapularis",
+                "C. Supraspinous",
+                "D. Teres minor",
+                "E. Infraspinous"
+            ],
+            "answer": "A",
+            "explanation": "The shoulder joint actually comprises four joints: the sternoclavicular joint, the acromioclavicular joint, the glenohumeral joint and the scapulothoracic joint. The joint is highly reliant on supporting ligaments and muscles for stability, which is compromised for the sake of greater mobility. The rotator cuff is the assembly of muscles largely responsible for retaining the head of the humerus within the glenoid fossa, whilst also allowing free rotational movement in all planes. Of the muscles listed above, the pectoralis minor is the only one that does not contribute to the rotator cuff."
+        },
+        {
+            "id": "16",
+            "question_type": "mcq",
+            "question": "A patient presents with symptoms suggestive of adhesive capsulitis (frozen shoulder). Which of the following systemic conditions is most commonly associated with this?",
+            "options": [
+                "A. Fibrotic lung disease",
+                "B. Systemic lupus erythematosus",
+                "C. Sjögren's syndrome",
+                "D. Osteoarthritis",
+                "E. Diabetes"
+            ],
+            "answer": "E",
+            "explanation": "Adhesive capsulitis is an uncommon condition where fibrotic contracture around the glenohumeral joint restricts movement. The diagnosis is clinical, and the disease is classically described as occurring in three stages: an initial painful phase, a painless ‘locked' phase and a resolution phase, typically occurring sequentially over a period of several months. The fibrotic proliferation is similar in histology to that seen in Dupuytren's contracture, and there is a strong correlation between the two conditions. The classic association with adhesive capsulitis is diabetes mellitus although the underlying reasons are not known."
+        },
+        {
+            "id": "17",
+            "question_type": "mcq",
+            "question": "A patient with longstanding osteoarthritis presents with pain on movement of his shoulder. You perform a full shoulder exam. You note that you can re-create the pain by asking the patient to abduct his shoulder against resistance. You conclude that there is impingement of which one of the following structures?",
+            "options": [
+                "A. Teres minor",
+                "B. Supraspinatus",
+                "C. Infraspinatus",
+                "D. Subscapularis",
+                "E. Subacromial bursa"
+            ],
+            "answer": "B",
+            "explanation": "The coracoacromial arch is formed by the coracoid process, the anterior third of the acromion and the coracoacromial ligament which bridges between the two. Through this space run the ligaments of the four muscles of the rotator cuff, with the subacromial bursa providing some protection from friction. However, degenerative joint diseases commonly narrow this space, causing rubbing of tendons against bony structures and resultant inflammatory pain. The most commonly affected tendon is that of supraspinatus; this classically results in pain on resisted shoulder abduction. The other muscles can be similarly isolated. Infraspinatus tendon impingement causes pain on resisted lateral rotation, subscapularis causes pain on resisted medial rotation. Teres minor is only rarely involved. Pain on all ranges of movement is suggestive of a subacromial bursitis."
+        },
+        {
+            "id": "18",
+            "question_type": "mcq",
+            "question": "A 37-year-old patient presents to you having noticed a lump on the lateral aspect of his leg. The lump was first noticed while the patient was in the gym on a rowing machine. There is no associated pain. On examination when the patient tenses his quadriceps a smooth lump can be appreciated, which disappears when the leg is relaxed. With the leg relaxed, it is possible to identify a depression in the fascia lata. The diagnosis is",
+            "options": [
+                "A. Intramuscular haematoma",
+                "B. Partial quadriceps rupture",
+                "C. Muscle hernia",
+                "D. Intermuscular lipomata",
+                "E. Myosarcoma"
+            ],
+            "answer": "C",
+            "explanation": "An intramuscular haematoma is a collection of blood around an injured muscle, which is typically painful and restricts movement. On examination, tensing the muscle will cause pain and the haematoma will become less prominent due to overlying muscle tissue. Intermuscular lipomata are lipomas occurring within the bulk of the muscle; they may be painful or painless, and may become more or less prominent on contraction depending on their position within the muscle, but they rarely occur in the limbs and most commonly are found on the back or trunk. Muscle rupture occurs in two main groups: athletes following injury when it is typically painful, and the elderly, in whom it occurs due to innate weakening of the tissue (the original incident may or may not be noticed). Typically, the muscle tear will not be palpable with the muscle relaxed, but a lump will become prominent on contraction. A muscle hernia is an extrusion of muscle fibres through a defect in its fibrous sheath. The most common site is the thigh. The hernia becomes more prominent on muscle contraction and less so on relaxation. The fascia defect may occasionally be palpable with the lump reduced. Primary muscle tumours (rhabdomyosarcoma = striated, leiomyosarcoma = smooth) are rare and are predominantly diseases of old age. Most soft tissue sarcomas are fibrosarcomas derived from fibrous tissue such as fascia, tendons and aponeuroses."
+        },
+        {
+            "id": "19",
+            "question_type": "mcq",
+            "question": "Out of the following bone pathologies, which is not correctly matched to the most common site at which it occurs?",
+            "options": [
+                "A. Enchondroma – Bones of hands and feet",
+                "B. Osteoma – Cranial vault and skull",
+                "C. Ewing's sarcoma Mid-shaft femur",
+                "D. Osteosarcoma – Femur, just above the knee",
+                "E. Osteomyelitis – Mid-shaft long bone"
+            ],
+            "answer": "E",
+            "explanation": "Enchondromas and ecchondromas are benign cartilage growths occurring in the centre or the surface of a bone, respectively. They most commonly occur in the hands and feet, and rarely affect long bones. Osteomas are benign bone tumours of the cranial vault. Malignant bone tumours grow in characteristic sites which helps to define the likely diagnosis; osteosarcomas are the most common primary bone tumours and their most common sites (in order of prevalence) are distal femur, proximal tibia and proximal humerus. Giant cell tumours (also known as osteoclastoma) have a similar distribution. Ewing's sarcoma occurs in the centre of long bones, which aids its clinical distinction from other primary bone tumours. Osteomyelitis is a disease predominantly of childhood. This is because of the rich blood supply to the growth plate which allows bacterial seeding of the metaphysis and subsequent infection affecting the ends of long bones. The mid-shaft is rarely affected."
+        },
+        {
+            "id": "20",
+            "question_type": "mcq",
+            "question": "A 19-year-old man presents having noticed a hard lump above his knee. He initially noticed the lump 3 years ago, but presents now after his girlfriend persuaded him to find out what it is. He does not complain of any associated symptoms. Radiographic investigation demonstrates a knob of bone on the surface of the distal femur, which projects away from the knee joint. The most likely diagnosis is",
+            "options": [
+                "A. Ossification of quadriceps tendon",
+                "B. Exostosis",
+                "C. Enchondroma",
+                "D. Osteoma",
+                "E. Osteosarcoma"
+            ],
+            "answer": "B",
+            "explanation": "The key features of this history are that the lump is slow growing and asymptomatic; this effectively rules out a sarcoma. Osteosarcomas typically occur in the long bones, the most common site being the femur, just above the knee. Presentation is with bone pain and rapid growth, neither of which feature in the history. Examination reveals a firm mass which is often warm to palpation due to vastly increased vasculature; a bruit may also be heard. Enchondroma is a benign cartilage growth within a bone, which most commonly affects the hands and feet; the position of the lesion and radiographic features therefore preclude this diagnosis. Osteomas are benign, slow-growing bone tumours which most commonly occur on the forehead and the vault of the skull. The quadriceps tendon inserts into the patella, and therefore calcification of this structure cannot be considered a sensible diagnosis.\n\nThe radiographic findings, the positioning and the history are all consistent with the diagnosis of the exostosis. An exostosis is a developmental aberration caused when a small piece of metaphyseal cartilage becomes separated from the main growth plate. It continues to grow in its aberrant position on the side of the bone, and forms a bony knob, which typically points away from the adjacent joint. They are usually asymptomatic, but may interfere with muscle or tendon function."
+        },
+        {
+            "id": "21",
+            "question_type": "mcq",
+            "question": "Which one of the following statements regarding Paget's disease of the bone is not correct?",
+            "options": [
+                "A. It most commonly occurs in the pelvis",
+                "B. It more commonly affects a single bone",
+                "C. It occurs in 3% of all individuals over 40 in the United Kingdom",
+                "D. Characteristic biochemical findings include raised serum alkaline phosphatase, normal calcium and normal phosphate",
+                "E. 1% of cases will develop osteosarcoma"
+            ],
+            "answer": "B",
+            "explanation": "Paget's disease of the bone is a common (3%) condition which is largely underdiagnosed as the majority of those affected are asymptomatic. Features in those who are symptomatic include bony pain, fracture and deformity. Deformity occurs due to bone overgrowth, and may manifest as head enlargement (osteoporosis circumscripta) and long bone bowing and enlargement (sabre tibia). Complications include nerve compression within bony channels (particularly cranial nerves, spinal cord), fracture, high-output cardiac failure (due to increased bone vasculature necessitating increased cardiac output) and sarcomatous change, which will affect 1% of cases.\n\nOnly 15% of cases are restricted to a single bone (mono-ostotic); the vast majority of cases are polyostotic, affecting (in order of sites most commonly involved) pelvis, lumbar spine, femur, thoracic spine, sacrum, skull and tibia. Diagnosis is based on characteristic biochemical and radiological findings."
+        },
+        {
+            "id": "22",
+            "question_type": "mcq",
+            "question": "Looser's zones (also known as pseudofractures) are a radiographic feature characterizing which one of the following bone diseases?",
+            "options": [
+                "A. Osteomalacia",
+                "B. Osteoporosis",
+                "C. Gout",
+                "D. Paget's disease",
+                "E. Osteomyelitis"
+            ],
+            "answer": "A",
+            "explanation": "The majority of medical schools will expect their graduates to be able to differentiate metabolic bone pathology on plain radiographs and also in a viva scenario. Most candidates should at least be able to name the characteristic abnormalities of each of the conditions listed in the question. Osteoporosis is an age-related loss of bone mass with cortical thinning and loss of trabeculae. It is difficult to identify from plain films alone, but certain fracture patterns typify the weakness inherent in the abnormal bone, including vertebral crush fractures. Confirmation of the diagnosis requires DEXA scanning. Gout is typified by soft tissue gouty tophi, with plain films showing punched-out lesions away from the joint line. Paget's disease is a disorder of bone turnover; the radiographic features are variable, but include sclerotic and lytic lesions, with coarse irregular trabeculae. Osteomyelitis may show no abnormalities on radiographs; 50% will show periosteum lifting, which represents a subperiosteal abscess formed by pus tracking from the medullary canal. Later a sclerotic reaction may be seen on plain films. Osteomalacia is a disease of reduced bone quality, the mass is normal. It occurs secondary to the ineffective mineralization of the bone matrix, which may be due to dietary deficiency, abnormal uptake (gastrointestinal disease), abnormal metabolism (secondary to renal or liver failure) or the actions of certain drugs. The loss of cortical bone and failure of mineralization results in the radiographic appearance of Looser's zones: these are radiolucent lines through the cortex, which the appearance of non-displaced partial fractures (pseudofractures)."
+        },
+        {
+            "id": "23",
+            "question_type": "mcq",
+            "question": "According to the current National Institute for Health and Clinical Excellence guidelines all of the following are indications for the use of bisphosphonates in the treatment of osteoporosis, except",
+            "options": [
+                "A. Any patient with a fracture over the age of 65",
+                "B. Any patient with a fracture aged 65–75 and a T score less than –2.5",
+                "C. Any patient with a fracture aged <65 and a T score less than –3.0",
+                "D. Any patient taking high-dose systemic steroids for more than 3 months with a T score less than -1.3",
+                "E. Any smoker with a fracture aged <65 and a T score less than –2.5"
+            ],
+            "answer": "A",
+            "explanation": "Osteoporosis is an extremely common condition; 1 in 3 women and 1 in 12 men will sustain a fracture secondary to osteoporosis by the age of 90. Investigation of bone density is by DEXA scanning, the result of which is expressed as a T score. A T score of –1 represents a BMD of 1 standard deviation below the mean of a normal population. The WHO definition of osteoporosis is a BMD less than 2.5 standard deviations below the mean (T score less than -2.5). Individuals with a T score between -1 and −2.5 meet the WHO criteria for osteopenia, but are not classed as having osteoporosis. Current best practice regarding the use of bisphosphonates to treat osteoporosis is covered by NICE guidelines published in 2011. All of the above options are correct except for option A; the guidance states any individual over 75 who sustains a fracture should be offered bisphosphonates irrespective of their T score. Treatment of those under the age of 75 should be guided by DEXA scans. Bisphosphonates are also indicated in the prophylactic treatment of patients receiving steroid therapy of >7.5 mg daily for longer than 3 months. In those under 65, bisphosphonates are only indicated if T score is less than -3.0 or less than −2.5 with an identified risk factor for osteoporosis. Risk factors include smoking, steroids, sedentary lifestyle, poor diet, alcohol, liver cirrhosis, hyperthyroidism/hyperparathyroidism, early menopause, amenorrhoea >6 months in women and hypogonadism in men. Anorexia nervosa is another common risk factor, with risk increasing once BMI <19 kg/m²."
+        },
+        {
+            "id": "24",
+            "question_type": "clinical_scenario",
+            "question": "A 10-year-old African Caribbean boy is referred to the orthopaedic team with an acutely painful arm. On examination, there is a notable swelling of the limb above and around the elbow joint. There is no reduced range of passive movement of the joint, but the boy is holding his arm very still and will not actively move the limb. Investigations include haemoglobin 8.3 g/dL, white cell count 10.5 × 109/L, and C-reactive protein 12 mg/L. The child is apyrexial with a blood pressure of 110/75 mmHg, and a pulse rate of 85 beats/min.",
+            "options": [
+                "A. Septic arthritis",
+                "B. Osteomyelitis",
+                "C. Bony infarct",
+                "D. Gout",
+                "E. Juvenile arthritis"
+            ],
+            "answer": "C",
+            "explanation": "The clue is in the question; note that the question specifies the ethnic origin of the child and the full blood count shows he is anaemic. All candidates should identify that this boy may have sickle cell disease and that this may be a bony crisis. The question is made easier by the given scenario in which the infection markers are broadly normal making septic arthritis and osteomyelitis extremely unlikely; often diagnosis is clouded since infection is the most common trigger for a sickle crisis, and inflammatory markers will be raised. This makes the clinical distinction between bone or joint infection and bone infarction more difficult, and aspirates and MRI may be required. Gout in a child of this age is extremely rare, and would indicate an enzyme deficiency and hereditary disease. Juvenile arthritis is, again, rare and presents most commonly with polyarthropathy, systemic upset and raised inflammatory markers."
+        },
+        {
+            "id": "25",
+            "question_type": "mcq",
+            "question": "Which one of the following organisms is most commonly associated with septic arthritis?",
+            "options": [
+                "A. Gram negative bacilli",
+                "B. Haemophilus influenzae",
+                "C. B-haemolytic streptococci",
+                "D. Streptococcus pneumoniae",
+                "E. Staphylococcus aureus"
+            ],
+            "answer": "E",
+            "explanation": "Septic arthritis is an infection of a synovial joint. Diagnosis is by clinical suspicion. In cases where uncertainty exists joint aspiration may be useful, but if history and examination are suggestive nothing should delay immediate arthroscopic washout in an effort to save the joint. Intravenous antibiotics should be started immediately once cultures of blood and synovial fluid are acquired and the joint should be splinted for 48 hours and analgesia given. Always look for a focus of infection; joint sepsis occurs secondary to bacteraemia from another source. Common culprits are UTI, LRTI, cellulitis/abscess or intravenous drug use. The most commonly implicated organism is Staphylococcus aureus, which accounts for 60% of septic arthritis. ẞ-haemolytic streptococci account for an additional 15%. Gram-negative organisms collectively account for 17% and are usually secondary to gastrointestinal infection, biliary sepsis or urinary tract infection. Streptococcus pneumoniae is relatively uncommon (3%), but when it does occur, 50% of patients also have a streptococcal pneumonia. Haemophilus influenzae is more common in children less than 3 years, but it is uncommon in adults."
+        },
+        {
+            "id": "26",
+            "question_type": "mcq",
+            "question": "Which of the following conditions/factors does not predispose to gout?",
+            "options": [
+                "A. Lesch-Nyhan syndrome",
+                "B. Psoriasis",
+                "C. Aspirin",
+                "D. Xanthine oxidase deficiency",
+                "E. Alcohol"
+            ],
+            "answer": "D",
+            "explanation": "Uric acid is the breakdown product of purine metabolism. At physiological pH, uric acid is 98% ionized, however raised levels of uric acid predispose to formation of monosodium urate, which has a low solubility and deposits in joints, soft tissues and the renal tubules. There are several genetic disorders which affect purine metabolism with various clinical manifestations; Lesch-Nyhan syndrome is due to complete deficiency in hypoxanthine-guanine phosphoribosyl transferase which normally reduces urate production through recycling of metabolic intermediates. Deficiency causes hyperuricaemia and severe physical and mental disorders. Conditions which increase cell turnover will also predispose to hyperuricaemia. Such conditions include psoriasis, haemolytic anaemias, malignancy and cytotoxic drugs. Certain drugs influence uric acid handling; thiazide diuretics and aspirin both inhibit secretion into the renal tubules and therefore impair excretion. Alcohol interferes with ADP/ATP metabolism and predisposes to hyperuricaemia. Xanthine oxidase is an enzyme which converts xanthine to urate. It is the target for allopurinol, which inhibits the enzyme's function in order to lower urate levels. Therefore, its deficiency would not predispose to gout."
+        },
+        {
+            "id": "27",
+            "question_type": "mcq",
+            "question": "A 56-year-old man is admitted with pyrexia and an acutely painful knee. On examination, the patient is holding the joint rigidly still and is extremely reluctant to let you manipulate the joint. The knee is obviously effused and erythematous. Joint aspirate is strongly positive for white cells (75000/mm³) with polymorphs accounting for 90% of these. Blood tests show a raised urate level. The diagnosis is",
+            "options": [
+                "A. Osteomyelitis",
+                "B. Septic arthritis",
+                "C. Gout",
+                "D. Pseudogout",
+                "E. Monoarticular acute rheumatoid arthritis"
+            ],
+            "answer": "B",
+            "explanation": "The scenario describes an excruciating painful limb associated with severely limited movement. This is consistent with all the listed diagnoses, as is erythema and effusion. Answering this question correctly requires correct interpretation of the aspirate results. Osteomyelitis is rare outside childhood, particularly in the long bones. When it does occur in adults, it is usually in association with other comorbidities such as diabetes or systemic sepsis, intravenous drug use or endocarditis. Osteomyelitis may also be seen in severely debilitated patients, and may complicate severe pressure ulceration in paralysed, elderly, or ITU patients. The high white cell count with predominant neutrophils is highly suggestive of an infective process. White cell counts in joint aspirates in crystalline or inflammatory arthropathy may also be high, approaching 50,000 cells/mm³, but white cell counts over this should definitely raise the suspicion that the cause is septic arthritis. A neutrophil count >90% of the total is also not typical of non-infective causes. Candidates should not be lured into the trap of assuming a high urate level implies gout; asymptomatic hyperuricaemia is 10 times more common than gout. In addition, urate levels are often normal in an acute gout attack and therefore serum urate levels should not be used to confirm or exclude gout as a diagnosis."
+        },
+        {
+            "id": "28",
+            "question_type": "mcq",
+            "question": "A patient presents to the outpatients department following a car accident in which she has hurt her neck. Since then she has noticed some numbness in her right shoulder and neck pain. On examination you note weakness in shoulder abduction, elbow flexion, absent biceps reflex, and paraesthesia affecting the badge area over her right shoulder. The most likely diagnosis is",
+            "options": [
+                "A. Spinal cord compression",
+                "B. Radiculopathy",
+                "C. Musculocutaneous nerve injury",
+                "D. Axillary nerve injury",
+                "E. Brown-Séquard syndrome"
+            ],
+            "answer": "B",
+            "explanation": "This patient presents with lower motor neurone signs localized to the C5 level. There are no deficits below the level of C5 and therefore spinal cord compression and Brown-Séquard syndrome can be safely excluded as possible diagnoses. Deltoid weakness and loss of sensation over the badge area is classically associated with axillary nerve injury, which may occur following a shoulder dislocation or fractures of the proximal humerus. However, the loss of biceps strength and absence of biceps reflex implicates a lesion of the musculocutaneous nerve. The unifying diagnosis is therefore a lesion of the C5 nerve root, i.e. an isolated C5 radiculopathy. Compression of nerve roots is common and results in lower motor neurone signs and dermatomal loss of sensation at the levels affected. It is most common in the lumbar spine, but also complicates cervical spine disease. Causes of root compression are varied, but the two most common mechanisms are disc prolapse and narrowing of the intervertebral foramina, which may be due to osteoarthritis, Paget's or another degenerative disease."
+        },
+        {
+            "id": "29",
+            "question_type": "mcq",
+            "question": "A patient is admitted from the emergency department with new and sudden-onset urinary incontinence. The patient has previously been seen in the back pain clinic by the orthopaedic team. On examination you note a large palpable bladder. Neurological examination reveals weakness of knee flexion on the right, plantar flexion of the left and reduced ankle jerks bilaterally. Plantars are downgoing on both sides. You also note patchy mixed sensory loss bilaterally. The diagnosis is",
+            "options": [
+                "A. Cauda equina syndrome",
+                "B. L3 radiculopathy",
+                "C. Conus medullaris",
+                "D. S1 level cord compression",
+                "E. Anterior cord syndrome"
+            ],
+            "answer": "A",
+            "explanation": "level L1-2, therefore there is no such thing as S1 cord compression. The signs described are pure LMN with no UMN component, therefore anterior cord syndrome can be discounted. A conus syndrome occurs when the tail end of the cord and the nerve roots surrounding it become compressed by a lesion, typically at the L1-2 level. Compression of nerve roots causes LMN signs, compression of the end of the spinal cord causes localized UMN signs at the level of compression. The syndrome is one of mixed modality patchy sensory loss, with patchy LMN signs combined with spasticity of the anal and urinary sphincters, causing urinary retention and constipation, plus or minus additional UMN signs depending on the level of the lesion. The lack of UMN signs in the scenario makes this diagnosis unlikely. Cauda equina syndrome occurs when compression occurs within the spinal canal, below the level of the cord. It is a syndrome of pure LMN signs as no spinal cord is involved. Compression of the nerve roots causes patchy sensory and motor losses with considerable case-to-case variability. Loss of urinary continence and anal tone are, however, relatively consistent. Typically, urinary incontinence occurs over a background of bladder atony, therefore patients will have grossly distended bladders and incontinence is an overflow phenomenon. The distinguishing feature from nerve root compression is that the sensorimotor deficit involves multiple levels and is bilateral, whereas root compression will be unilateral and confined to a single dermatome and myotome, unless root compression is occurring at multiple levels."
+        },
+        {
+            "id": "30",
+            "question_type": "mcq",
+            "question": "A patient is being investigated for sciatica. On detailed neurological examination you elicit the following signs: sensory loss over the outer calf and dorsum of foot, weakness in dorsiflexion of toes, normal ankle reflexes, normal knee reflexes, painful straight leg raise, normal femoral nerve stretch test. At which level is the disc protrusion?",
+            "options": [
+                "A. L2/3",
+                "B. L3/4",
+                "C. L4/5",
+                "D. L5/S1",
+                "E. S1/S2"
+            ],
+            "answer": "C",
+            "explanation": "The sensory loss elicited implicates an L5 nerve root compression. This is backed by weakness in dorsiflexion of the foot (tibialis anterior and peroneus tertius) with sparing of the ankle (S1, S2) and knee (L3, L4) reflexes. Candidates often struggle with the derivation of the level of prolapse from the nerve root signs as it appears counter-intuitive. It is important to remember that lumbar disc protrusion does not usually affect the nerve exiting above the disc. Therefore, lateral protrusion of the L4/5 disc spares the L4 spinal nerve, but compresses the L5 spinal nerve which exits the spinal canal one vertebral level below the level of disc herniation. Similarly, herniation of the L3/4 disc compresses the L4 spinal nerve, and the L5/S1 disc compresses the S1 spinal nerve. Another important point to remember is that straight leg raising causes pain in L4/5 and L5/S1 disc herniation, whereas a positive femoral stretch test indicates L3/4 disc herniation."
+        }
+    ]
+}

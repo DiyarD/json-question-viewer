@@ -1,0 +1,285 @@
+{
+    "chapter_name": "SECTION 15: OPHTHALMIC SURGERY",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A 40-year-old woman presents complaining that her right eye hurts and that she cannot tolerate the bright light in the room. She is protecting her right eye with her hand. There is no history of trauma or foreign body. Visual acuity is reduced in the right eye. Examination reveals redness at the junction between the cornea and sclera of the right eye. The right pupil appears small. Slit lamp examination reveals a collection of cells in the anterior chamber of the eye. What is the most likely cause of this woman's symptoms?",
+            "options": [
+                "A. Conjunctivitis",
+                "B. Acute closed angle glaucoma",
+                "C. Corneal ulceration",
+                "D. Iritis",
+                "E. Trauma"
+            ],
+            "answer": "D",
+            "explanation": "This patient has anterior uveitis or iritis. This condition leads to eye pain, redness, excessive tearing, photophobia, visual loss in late stages and a constricted pupil due to spasm of the papillary sphincter. The presence of a hypopyon (pus deposition from leucocytes) in the anterior chamber on slit lamp assessment helps differentiate iritis from other causes of acute red eye. Approximately 50% of cases are primary and of unknown origin whilst the remainder may be associated with certain sexually transmitted infections, tuberculosis and autoimmune disorders such as systemic lupus erythematosus (SLE) and sarcoidosis. If an underlying cause is found, it must be treated but due to the frequent inability to identify a precipitating factor, management consists largely of symptomatic control. Treatment with topical corticosteroids may reduce inflammation and prevent adhesion formation and visual loss."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "A 22-year-old Caucasian man presents with a 1-day history of discomfort and a 'weepy' left eye. His brother recently had similar symptoms. He denies any previous trauma. His vision is entirely unaltered and has normal acuity on formal testing. Physical examination reveals a red eye with uniform engorgement of all the conjunctival blood vessels. What is the most likely diagnosis?",
+            "options": [
+                "A. Conjunctivitis",
+                "B. Trauma",
+                "C. Iritis",
+                "D. Glaucoma",
+                "E. Keratitis"
+            ],
+            "answer": "A",
+            "explanation": "Conjunctivitis is an inflammation of the conjunctiva, the connective tissue layer that covers the eyeball and inner layer of the eyelid. It is one of the most common causes of an uncomfortable red eye in clinical practice. Conjunctivitis is primarily a diagnosis of exclusion, made in instances of red eye and discharge where there is neither visual loss nor evidence of glaucoma, iritis or keratitis. It is typically bilateral, but the recent family history with discharge from the eye suggests an infective cause in the patient described by the scenario. It is also worth remembering that conjunctivitis may be viral (which is generally self-limiting) or bacterial in nature. Bacterial conjunctivitis is treated according to clinical severity. Classical therapy consists of instilling chloramphenicol eye drops to the affected eye; initially hourly for the first 24 hours, gradually decreasing the frequency to four times per day. General advice on hygienic measures may also be appropriate."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "A 64-year-old Caucasian man presents with a 1-week history of an erythematous vesicular rash on the right side of his face and forehead. He also complains of a painful red right eye. His visual acuity is reduced on the right. Slit lamp assessment with fluorescein stain reveals a discrete green patch under blue light. What is the most likely cause for the acute red eye in this patient?",
+            "options": [
+                "A. Acute closed angle glaucoma",
+                "B. Herpes simplex corneal ulcer",
+                "C. Varicella zoster corneal ulcer",
+                "D. Iridiocyclitis",
+                "E. Conjunctivitis"
+            ],
+            "answer": "C",
+            "explanation": "When reactivation of dormant varicella zoster virus (herpes zoster/ shingles) affects the nasociliary division of the trigeminal nerve, herpetic eruptions can occur on the nose tip. The presence of these lesions is highly suggestive of present or imminent corneal involvement by the viral process (also known as Hutchinson's sign/rule). Ophthalmic zoster (herpes zoster ophthalmicus) can cause multiple ophthalmic conditions, including scleritis, iritis, corneal ulceration (which can be detected by fluorescein staining) and, in severe cases, blindness. Patients with corneal ulceration should be referred on to specialist care as there is a high risk of visual loss. Treatment is with acyclovir eye ointment and oral aciclovir (800 mg, five times daily) for 7–10 days. In cases of corneal ulceration, intensive treatment is started in the form of antibiotic eye drops whilst cycloplegic drops may additionally be used to relieve pain resulting from ciliary muscle spasm."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "A 72-year-old Asian man presents complaining of sudden severe pain in his right eye. The pain is associated with nausea and vomiting. His vision is mildly impaired on the right side. On examination, the eye is inflamed and acutely tender. The pupil is semi-dilated and fixed. The intraocular pressure is raised. What is the most likely diagnosis?",
+            "options": [
+                "A. Acute closed angle glaucoma",
+                "B. Viral conjunctivitis",
+                "C. Iritis",
+                "D. Episcleritis",
+                "E. Keratitis"
+            ],
+            "answer": "A",
+            "explanation": "Acute closed angle glaucoma (or primary angle closure glaucoma) is an ophthalmic emergency that occurs when the iris is pressed against the trabecular meshwork at the angle of the anterior chamber of the eye, thereby blocking the outflow of aqueous humour. This blockage, and subsequent aqueous accumulation, precipitates a dangerous elevation of the intra-ocular pressure (IOP) which must be reduced to prevent optic nerve damage and preserve sight. In cases where it is not possible to immediately transfer the patient to a specialist unit for definitive surgical treatment, pilocarpine 4% (to constrict the pupil) and acetazolamide, as a stat dose of 500 mg IV followed by 500 mg orally, should be given. Mannitol 20% (500 mL) given by slow IV infusion is also proven to effectively reduce IOP. The pupil is usually constricted in iritis and an examination will confirm hypopyon. Intraocular pressure is not elevated in cases of conjunctivitis, episcleritis and keratitis."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "A 9-year-old boy is brought to the hospital by his father because he noticed that his right eye was ‘red, bulging and not moving very well'. The boy describes a headache and pain on moving his right eye. He has had multiple previous attacks of sinusitis. On examination, his temperature is 39.0°C, blood pressure 100/60 mmHg, pulse 94 beats/min, and respiratory rate 20 breaths/min. Physical assessment reveals proptosis and ophthalmoplegia of the right eye with pain to gentle palpation. The sinuses are tender, his eyelids are erythematous and the conjunctiva is markedly injected, but visual acuity is intact bilaterally. A purulent nasal discharge is additionally noted by the examining clinician. What is the most appropriate next step?",
+            "options": [
+                "A. Needle aspiration of the orbit",
+                "B. Oral amoxicillin 500 mg four times daily for 10 days",
+                "C. Topical steroid eye drops",
+                "D. Admit for high-dose intravenous antibiotics",
+                "E. None of the above"
+            ],
+            "answer": "D",
+            "explanation": "The scenario suggests a diagnosis of orbital cellulitis, a potentially blinding and life-threatening condition that must not be missed. It most commonly results from the spread of infection from the adjacent paranasal sinuses and is especially important to diagnose promptly in children, in whom it occurs more frequently than adults and can lead to rapid loss of sight. The typical triad suggestive of infection is that\n• The patient is unwell\n• There is tenderness over the sinuses\n• There is painful restriction of eye movements\nOwing to the seriousness of the condition, affected individuals should be admitted to hospital and given intravenous broad-spectrum antibiotics (e.g. amoxicillin or cephalosporin) unless cultures identify a causative agent for which specific treatment can be administered. The duration of intravenous therapy is dependent on the clinical course but typically lasts 1–2 weeks. Once the condition settles, intravenous antibiotics are replaced with oral antibiotics for a further 2 weeks at which point the patient is usually reviewed in the outpatient clinic. Topical steroid application and needle aspiration is not indicated in this scenario, although formal surgical drainage may be necessary in the presence of an orbital abscess refractory to intravenous therapy."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "A 64-year-old Caucasian woman presents to the emergency department complaining of a 'droopy left eyelid’. She has been a smoker since her twenties (with a 40 pack year history) and drinks between 20 and 25 units of alcohol each week. There is no prior history of neuromuscular disorder. Physical examination reveals clubbing, and a small reactive left pupil. Visual acuity is unaltered and eye movements are normal. An absence of sweating is noticed across the left side of the forehead. Which of the following diagnoses is most likely?",
+            "options": [
+                "A. Horner's syndrome secondary to an apical lung tumour",
+                "B. Horner's syndrome secondary to syringomyelia",
+                "C. Myasthenia gravis",
+                "D. Third nerve palsy",
+                "E. Pseudoptosis"
+            ],
+            "answer": "A",
+            "explanation": "The features indicative of Horner's syndrome include ptosis or drooping of the eyelid, a small reactive pupil and the absence of sweating on the same side of the face. Horner's syndrome is caused by damage to the sympathetic nerve supply to the eye, in this case most likely due to a Pancoast/apical lung tumour. Ptosis can also be caused by general muscular disorders such as dystrophia myotonica and myasthenia gravis, but these are less likely in the absence of typical facies and without wider abnormalities of muscular tone. Third nerve palsy may present with ptosis, but the pupil is usually dilated and the affected eye may assume the classic ‘down and out' position."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "A 40-year-old Caucasian man presents complaining of pain in his left eye. Earlier that day he was working in his house, attempting to put up a shelf with nails. He felt a sensation of ‘some material entering his eye’. He does not wear contact lenses. His eye has been extremely watery and he has been unable to open it properly. All of the following statements regarding assessment are correct, except",
+            "options": [
+                "A. It is vital to assess visual acuity",
+                "B. Local anaesthesia may be required to formally assess the eye",
+                "C. The use of fluorescein is required to exclude an abrasion",
+                "D. Laceration to the margin of the eyelid can be sutured in the emergency room",
+                "E. It is important to identify and remove any foreign bodies"
+            ],
+            "answer": "D",
+            "explanation": "Lacerations to the eyelids generally need specialist attention, especially if\n• The lid margins are torn – as accurate approximation is important\n• Lacrimal ducts have been damaged\n• There is suspicion of a foreign body or penetrating eyelid injury\nIt may be necessary to use local anaesthesia to assess the eye and fluorescein is required to exclude an abrasion. Foreign bodies should be removed and visual acuity should always be tested to establish a baseline of function. However, normal visual acuity does not rule out the possibility of serious ophthalmic injury."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "Regarding the same patient as in Question 7, fluorescein assessment under the blue light slit lamp reveals a discrete green region at the lateral corneal margin. Which one of the following statements best describes the management for corneal abrasion following foreign body injury?",
+            "options": [
+                "A. An eye pad should not be prescribed",
+                "B. Topical steroids should be prescribed",
+                "C. Chloramphenicol may help prevent infection",
+                "D. Cycloplegic drops may speed healing",
+                "E. Surgery has no role in the management"
+            ],
+            "answer": "C",
+            "explanation": "In the management of corneal abrasion, an eye patch may help to speed healing. Chloramphenicol drops are commonly prescribed as a prophylactic agent against infection. Cycloplegic drugs may help relieve pain, but there is no evidence that they aid healing. Topical steroids are contraindicated since they increase the risk of infection. Surgery is undertaken in cases of recurrent abrasion to enhance adhesion between the epithelium and underlying basement membrane."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "Regarding the same patient as in Questions 7 and 8, following clinical assessment and thorough irrigation, the assessing clinician removes all the foreign bodies, which are sent for culture. Which one of the following pathogens is most likely to be responsible for infection?",
+            "options": [
+                "A. Streptococcus",
+                "B. Pseudomonas",
+                "C. Candida",
+                "D. Chlamydia",
+                "E. Staphylococcus"
+            ],
+            "answer": "E",
+            "explanation": "Studies have revealed that coagulase-negative Staphylococcus is the most common pathogen isolated from ocular foreign bodies. Pseudomonas is more common in contact lens wearers. Chlamydia can cause conjunctivitis or trachoma, but can be more difficult to culture. Candida may be cultured from the ocular surface of the eye in immunocompromised patients."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "A 12-year-old Caucasian boy is brought to the emergency department by his mother on a Sunday afternoon. He was playing squash and the ball ‘flew and hit his left eye'. The boy complains of double vision and his visual acuity is reduced on the left side. Physical examination reveals an irregular left pupil that reacts poorly to light. Eye movements are restricted. There is reduced sensation below the left eye and blood is spotted from the ipsilateral nose. Slit lamp assessment reveals a subconjunctival haemorrhage. What is the most likely diagnosis?",
+            "options": [
+                "A. Extradural haemorrhage",
+                "B. Orbital 'blow out' fracture",
+                "C. Third nerve palsy",
+                "D. Retinal detachment",
+                "E. Lacerated levator muscle"
+            ],
+            "answer": "B",
+            "explanation": "Orbital 'blow out' fracture should be suspected following blunt ocular injury when the patient has diplopia, a recessed eye, defective eye movements, ipsilateral epistaxis and diminished sensation over the distribution of the infra-orbital nerve. Any disturbance in visual acuity following blunt ocular trauma should prompt early specialist referral. Pupillary abnormalities are common and can mask a dilated pupil caused by acute extradural haemorrhage; a high index of suspicion is therefore required. Third nerve palsy presents with ophthalmoplegia, ptosis and pupillary dilatation, however the history in this scenario is more consistent with a bony orbital injury."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "Which one of the following is the most accurate statement regarding chemical ocular injury?",
+            "options": [
+                "A. Alkali are especially damaging",
+                "B. The severity of injury is unrelated to the substance",
+                "C. Specialist referral can be delayed",
+                "D. Irrigation is unnecessary",
+                "E. None of the above"
+            ],
+            "answer": "A",
+            "explanation": "Alkaline chemicals that have a high pH can penetrate the surface of the eye and cause severe injury to both external structures such as the cornea and internal structures such as the lens. In general, more damage occurs with higher pH chemicals than with acids. The severity of the injury is dependent on the nature of the substance and degree of contamination. Thorough irrigation is essential and may be all that is required in cases of minimal contamination. Specialist advice should always be sought in cases of chemical ocular injury."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "A 20-year-old man is brought into the resuscitation bay of the emergency department having been involved in a road traffic accident. He is immediately intubated and ventilated as he has a Glasgow Coma Scale score of 4/15 on arrival. You are asked to review his ocular injuries as part of the secondary survey just prior to the computed tomography scan. On inspection, you see a deep horizontal laceration at the inferior aspect of the lower eyelid. Which structure is most likely to be damaged given the pattern of injury?",
+            "options": [
+                "A. Nasolacrimal duct",
+                "B. Levator palpebrae superioris",
+                "C. Inferior oblique muscle",
+                "D. Lacrimal canaliculi",
+                "E. Lateral rectus muscle"
+            ],
+            "answer": "C",
+            "explanation": "Horizontal injuries of the lower eyelid may involve the inferior tarsal plate, inferior oblique muscle and infra-orbital nerve. Horizontal lacerations of the upper lid may penetrate the septum and injure the levator palpebrae superioris. Lateral ocular injuries may damage the lateral rectus. The lacrimal duct, canal and gland are more susceptible to medial ocular injury."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "A 54-year-old Caucasian man presents to the eye clinic complaining of experiencing 'flashes of light', heaviness around his right eye and the sensation of ‘floaters' in the right visual field. He is concerned as the symptoms have not resolved spontaneously. Examination reveals loss of peripheral vision over the right visual fields. What is the most likely diagnosis?",
+            "options": [
+                "A. Arterial occlusion",
+                "B. Macular degeneration",
+                "C. Posterior vitreous detachment",
+                "D. Migraine",
+                "E. Retinal detachment"
+            ],
+            "answer": "E",
+            "explanation": "Retinal detachment should be suspected from the clinical history. Advanced detachment affects the visual fields. Sudden onset of floaters indicates pigment or blood in the vitreous, whilst flashing lights (photopsia) are caused by retinal traction. The condition is a medical emergency and requires immediate specialist referral. There is characteristically no field loss in posterior vitreous detachment. Migrainerelated field defects usually resolve within a few hours. Peripheral fields are often normal in cases of macular degeneration."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "An 80-year-old African American man presents to the emergency department as he has noticed a sudden loss of central aspects of his visual fields. On examination, visual acuity is mildly reduced bilaterally. The central lines on an Amsler chart (grid line chart) appear distorted. The peripheral fields are normal. Fundoscopy reveals multiple retinal infiltrates, but the macula appears normal in size and shape. What is the most likely diagnosis?",
+            "options": [
+                "A. Retinal detachment",
+                "B. Migraine",
+                "C. Age-related macular degeneration",
+                "D. Arterial occlusion",
+                "E. None of the above"
+            ],
+            "answer": "C",
+            "explanation": "Macular degeneration of old age is one of the leading causes of blindness. The macula is the central region of the retina, which can atrophy over time leading to the loss of central vision. Yellow retinal deposits or drusen are commonly observed. The macula may look entirely normal. Central visual field loss is not a typical ophthalmic feature of migraine or arterial occlusion. Retinal detachment may result in peripheral visual field loss."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "A 48-year-old Caucasian man presents to the emergency department complaining of sudden-onset loss of vision in his left eye which has now resolved. A few hours ago, he experienced the sensation of a ‘curtain falling down over his left eye'. He is a smoker with a 40 pack year history and also has a past history of transient ischaemic attacks and angina. Fundoscopy reveals retinal infarcts and a cherry-red spot at the macula. The most appropriate management for this patient is",
+            "options": [
+                "A. Treatment with steroids",
+                "B. Laser treatment to the ischaemic retina",
+                "C. Oral sumatriptan",
+                "D. Carotid duplex and oral aspirin",
+                "E. None of the above"
+            ],
+            "answer": "D",
+            "explanation": "The scenario describes a case of amaurosis fugax, a transient monocular visual loss. The extent of visual field loss depends on the size of the affected retina. The retinal artery may become blocked due to atherosclerosis, thrombosis or emboli. Episodes may occur in conjunction with transient ischaemic attacks. Carotid arterial duplex will identify flow abnormalities and/or the source of an embolus. Risk factors for arterial disease should be treated and the patient prescribed aspirin or clopidogrel. Steroid treatment is reserved for acute visual disturbance associated with optic neuritis. Laser treatment to ablate the retina may be indicated in venous occlusion to prevent secondary glaucoma, whilst oral sumatriptan is used to treat ocular manifestations of migraine."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "An 80-year-old Caucasian man comes to the emergency department because of sudden-onset, transient visual loss in his right eye. He is currently asymptomatic, and denies any other new symptoms. His past medical history includes hypertension and peripheral vascular disease. His medications include aspirin and ramipril. On examination, his temperature is 36.7°C, blood pressure 170/80 mmHg, pulse rate 70 beats/min and respiratory rate 12 breaths/min. Which one of the following is most likely to be found on clinical examination?",
+            "options": [
+                "A. Carotid bruit",
+                "B. Pansystolic heart murmur",
+                "C. Irregularly irregular heart beat",
+                "D. Papilloedema",
+                "E. Haemorrhagic exudates in the retina"
+            ],
+            "answer": "A",
+            "explanation": "The patient has amaurosis fugax, a common cause for transient visual loss in patients with previous arterial disease. A carotid bruit is the most likely examination finding, TIAs and amaurosis fugax are caused by platelet microthrombi from the surface of atherosclerotic disease. Atrial thrombi are too large to present in this manner and therefore atrial fibrillation is a less common cause. A pansystolic murmur is more likely to be due to mitral or tricuspid regurgitation, but may also be caused by an atrial or ventricular septal defect which may allow emboli to cross from the right heart to the left. So-called paradoxical emboli are, however, a rare cause of TIA. Papilloedema is seen in cases of raised intracranial pressure. Occlusion of the posterior ciliary arteries may lead to ischaemia of the optic nerve head (ischaemic optic neuropathy) but this should not be mistaken for papilloedema. Retinal ‘flame haemorrhages' are seen in cases of venous occlusion."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "A 40-year-old Caucasian man presents with visual disturbance in both temporal visual fields. He works as a taxi driver and is finding he cannot notice customers on the street as well as he used to. His appetite is reduced. He has a 2-week history of morning headache. Clinical examination reveals bitemporal hemianopia. Which of the following is the best diagnostic investigation?",
+            "options": [
+                "A. Fundoscopy",
+                "B. Serum thyroid-stimulating hormone",
+                "C. Angiogram",
+                "D. Skull radiograph",
+                "E. None of the above"
+            ],
+            "answer": "E",
+            "explanation": "The scenario suggests the presence of a pituitary tumour impinging on the optic chiasm. Other causes for bitemporal hemianopia include nasopharyngeal carcinoma and sphenoid sinus mucocele. If a pituitary tumour is suspected, further assessment with an MRI and occasionally a CT scan (to detect calcification secondary to tumour growth) is indicated. Fundoscopy cannot be considered a valid answer here. Although fundoscopy may help identify disc atrophy, it does not constitute a diagnostic investigation in this case."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "You are asked to see a 77-year-old Caucasian woman on the ward by the admitting medical team. She describes a 1-week history of a constant ache on the right side of her head. This area is especially tender when she touches it or combs her hair. She describes suffering a similar series of symptoms approximately a year before the present admission on the left side, which resulted in complete blindness in her left eye. She has no visual disturbance in the right eye and acuity is normal. What would you recommend the team to do next?",
+            "options": [
+                "A. Refer immediately to an ophthalmologist",
+                "B. Start high-dose steroids immediately",
+                "C. Perform a temporal artery biopsy",
+                "D. Perform erythrocyte sedimentation rate",
+                "E. None of the above"
+            ],
+            "answer": "B",
+            "explanation": "This patient has giant cell (temporal) arteritis. Giant cell arteritis has several serious complications, most notably blindness, which may occur in 10%-15% of untreated or inadequately treated patients. Blindness may not be preceded by visual symptoms. High dosages of steroids (40–60 mg per day of prednisone) are used for giant cell arteritis. Clinical suspicion should guide commencing steroid treatment, which should not be delayed whilst awaiting a formal tissue diagnosis. The ESR is almost always elevated, but should not delay treatment. Where the history is uncertain, temporal artery biopsy should be undertaken. Referral to an ophthalmologist can often be avoided."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "An 18-year-old Caucasian man presents with a 2-day history of a unilateral sore, red, right eye. He describes ‘gum sticking the eyelids together'. He also describes dysuria and a painful right knee. His visual acuity is normal and examination reveals a diffusely injected conjunctiva. What is the pathogen most likely to be causing this man's symptoms?",
+            "options": [
+                "A. Staphylococcus",
+                "B. Chlamydia",
+                "C. Streptococcus",
+                "D. Escherichia coli",
+                "E. Proteus"
+            ],
+            "answer": "B",
+            "explanation": "Reiter's syndrome is characterized by the triad of urethritis, arthritis of large joints and conjunctivitis. The most likely pathogen involved in the process is Chlamydia. It is important to include a detailed sexual history during initial assessment and urethral swabs should be taken during clinical work-up so as to culture the causative organism and treat the patient with appropriate pharmacological agents. Eye involvement occurs in about 50% of men with urogenital reactive arthritis. Conjunctivitis and uveitis can present as redness of the eyes, eye pain and irritation, or blurred vision. Eye involvement typically occurs early in the course of reactive arthritis, and symptoms come and go. Staphylococcus is more commonly cultured from ocular foreign bodies. E. coli and Proteus may be cultured from urinary specimens in patients with urinary tract infections."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "Regarding the management of chronic/primary open angle glaucoma, all the following statements are true, except",
+            "options": [
+                "A. Older patients are at increased risk",
+                "B. People with diabetes and those of African Caribbean origin are at higher risk",
+                "C. Symptoms may not be present despite significant pathology",
+                "D. Can be treated by carbonic anhydrase inhibitors",
+                "E. Laser trabeculoplasty is rarely indicated"
+            ],
+            "answer": "E",
+            "explanation": "Primary (chronic) open angle glaucoma is the commonest form of glaucoma and the third leading cause of blindness in the UK. It is caused by a gradual resistance to the outflow of aqueous humour through the trabecular network. There is an increased risk as a result of advancing age, diabetes, being a first-degree relative of sufferers, African Caribbean ethnicity and myopia. Symptoms may be absent despite ongoing gradual increases in intraocular pressure. Central visual fields are spared until quite late on in the disease process. The condition is treated with ẞ-blockers such as timolol to reduce secretion of aqueous, carbonic anhydrase inhibitors (acetazolamide) which also reduce aqueous secretion and pilocarpine (para-sympathomimetic agent) to constrict the pupil and increase the outflow of aqueous. If these measures fail patients often require laser trabeculoplasty – a procedure that applies laser energy to regions around the trabecular network to improve drainage."
+        }
+    ]
+}

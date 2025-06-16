@@ -1,0 +1,422 @@
+{
+    "chapter_name": "SECTION 8: ABDOMEN: THE ACUTE ABDOMEN",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A 55-year-old man, with a 2-year history of dyspepsia, is brought to the emergency department following a sudden onset of severe epigastric pain. The pain is made worse on movement and the patient has also experienced one episode of haematemesis. On examination, the patient is cold, sweating profusely and taking shallow breaths. The abdomen is rigid and bowel sounds are absent. A plain film chest radiograph reveals free air under the diaphragm. The most likely diagnosis is",
+            "options": [
+                "A. Perforated appendicitis",
+                "B. Acute cholecystitis",
+                "C. Acute pancreatitis",
+                "D. Myocardial infarction",
+                "E. Perforated peptic ulcer"
+            ],
+            "answer": "E",
+            "explanation": "Free air under the diaphragm, visualised on chest radiograph, suggests that there has been perforation of a hollow viscus. In this case, the history of dyspepsia, coupled with the onset of acute sudden epigastric pain, fits in more with acute peptic ulceration rather than perforated appendicitis. Acute cholecystitis typically presents with right upper quadrant or epigastric pain. Patients are usually pyrexial and nausea/vomiting may be present. Acute pancreatitis also presents with severe epigastric or upper abdominal pain which may radiate to the back. Approximately 10% of perforated peptic ulcer cases do not reveal free air under the diaphragm on chest radiograph, making it difficult to differentiate from acute pancreatitis (CT scan of an abdomen or explorative laparotomy addresses this). Patients suffering from a myocardial infarction can present with symptoms similar to an acute abdomen and should never be excluded in the differential diagnosis of abdominal pain."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "A 26-year-old woman arrives at the emergency department with unbearable intense right iliac fossa pain. Earlier that day, she was experiencing ‘on and off’ moderate pain in the umbilical area which gradually moved over to the right iliac fossa. Associated symptoms include anorexia, nausea and vomiting. On examination, the patient is pyrexial and there is rebound tenderness and guarding over the right iliac fossa. A beta-human chorionic gonadotrophin test is negative. What should you do next?",
+            "options": [
+                "A. Send the patient to the emergency operating theatre for an appendicectomy",
+                "B. Alert the obstetrics and gynaecology team, suspecting that she may have a ruptured ectopic pregnancy",
+                "C. Manage the patient medically in the emergency department",
+                "D. Order an ultrasound scan of the abdomen",
+                "E. Send the patient for a plain film radiograph of the abdomen"
+            ],
+            "answer": "A",
+            "explanation": "A very important rule to remember is that a female of childbearing age is assumed pregnant until proven otherwise. In this scenario, the results of the beta-hCG test confirm that the patient is not pregnant, also ruling out ectopic pregnancy. This patient is showing clear signs and symptoms of appendicitis and needs to have an emergency appendicectomy. Delaying surgery may lead to severe complications such as perforation resulting in generalized peritonitis and sepsis. Ultrasound can be diagnosed in the hands of the experienced but should not delay surgical intervention due to the severity of the patient's symptoms. Ultrasound of the pelvis may be done to rule out pelvic pathology if in doubt after history taking and physical examination. A plain film abdominal radiograph has been rarely shown to be useful as a diagnostic aid in appendicitis. In the hands of experienced surgeons, laparoscopy can be used as a diagnostic and therapeutic tool. Therefore, making sure that this patient is sent to the theatre in the presence of a good history is the priority."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "A 12-year-old boy is admitted to the emergency department with sudden onset of severe right testicular and lower abdominal pain during athletic training. He has had one episode of vomiting and constantly feels nauseous. On examination, the patient is sweating and in unbearable pain. There is marked tenderness and swelling of the right testicle which is observed to be lying horizontally. What is the most appropriate next step in this patient's management?",
+            "options": [
+                "A. Order a Doppler ultrasound of the testicular arteries",
+                "B. Send the patient immediately for emergency surgical exploration of the scrotum"
+            ],
+            "answer": "B",
+            "explanation": "This patient has testicular torsion which is common between the ages of 12 and 25; it is uncommon after this age but does sometimes occur in older adults. The pain is usually of sudden onset and may occur following mild trauma to the testis, straining and weight-bearing exercises. Lower abdominal pain is experienced because the testis retains its embryological nerve supply which, primarily, is from the T10 sympathetic pathway. Testicular torsion is a surgical emergency and when suspected, surgical exploration of the scrotum should not be delayed as the testes can infarct within hours. Although Doppler ultrasound can effectively show the integrity of the arterial blood flow to the testis, it should not delay surgical exploration."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "You see a 55-year-old woman in the emergency department, who was admitted with central colicky abdominal pain and multiple episodes of vomiting. She last opened her bowels 4 hours ago. On examination she appears dehydrated and is in pain. The abdomen is generally tender and slightly distended. Bowel sounds are increased. You suspect a bowel obstruction and decide to order some investigations. What is the most valuable initial investigation that will support your suspected diagnosis?",
+            "options": [
+                "A. Upper gastrointestinal endoscopy",
+                "B. Colonoscopy",
+                "C. Computed tomography scan of the abdomen",
+                "D. Plain film radiograph of the abdomen",
+                "E. Barium follow-through"
+            ],
+            "answer": "D",
+            "explanation": "This patient has symptoms and signs consistent with small bowel obstruction. The four cardinal features of small bowel obstruction are: Vomiting (occurs early in small bowel obstruction) Colicky pain (in small bowel obstruction the pain is periumbilical) Absolute constipation (not passing faeces or flatus) Abdominal distension Absolute constipation may not always be a feature if the site of obstruction is high up and is usually a late sign of small bowel obstruction. The abdominal plain film radiograph is a valuable tool and should be the first line imaging investigation in confirming the diagnosis of small bowel obstruction. Barium follow-through, colonoscopy (if mechanical obstruction is suspected, but it carries the risk of perforation) and CT scan are all helpful investigations and can be performed after the initial plain abdominal film is obtained. Upper gastrointestinal endoscopy is not usually helpful in diagnosing small bowel obstruction."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "A 48-year-old woman is admitted with severe epigastric pain and vomiting. The pain is continuous in nature and is made worse on movement. On examination you notice the patient is lying still, taking shallow breaths and sweating. There is marked tenderness in the epigastric and right upper quadrant of the abdomen. Murphy's sign is positive and the patient is slightly pyrexial. You suspect acute cholecystitis. What is the next best step in managing this patient?",
+            "options": [
+                "A. Keep nil by mouth, administer parenteral analgesia and systemic antibiotics",
+                "B. Send patient for emergency laparoscopic cholecystectomy",
+                "C. Request a plain film abdominal radiograph",
+                "D. Administer analgesia and seek the opinion of a superior colleague",
+                "E. Request an ultrasound of the abdomen"
+            ],
+            "answer": "A",
+            "explanation": "Acute cholecystitis can sometimes be confused with biliary colic. Unlike biliary colic (where patients writhe around in pain), patients prefer to remain still and take shallow breaths which indicate local peritonitis. Impaction of the gallbladder outlet by a stone causes the accumulation of bile, which can initiate a chemical inflammatory process within the gallbladder. Secondary bacterial infection can arise due to this inflammation and the condition may progress to acute bacterial cholecystitis. The most important next step in managing this patient is to provide pain relief and systemic antibiotics (for example, IV cefuroxime and metronidazole) to cover any superimposed infection. As the patient has been vomiting, IV fluid resuscitation would also be of benefit, but for the purpose of this question, answer A is the most appropriate option in the list. The next thing to do would be to order an ultrasound scan to confirm the diagnosis. Under conservative management, the cholecystitis will usually settle down within 24–48 hours. If this is the case, patients are discharged and asked to return after 6–8 weeks to have an elective laparoscopic cholecystectomy. Recent literature has shown that cholecystectomy within the first 72 hours from onset of attack has the same complication rate as elective cholecystectomy (done after 6 to 8 weeks) after the inflammation has subsided. If after 72 hours from admission the patient has still not improved, then always remember the possibility of an empyema of the gallbladder, which may require percutaneous drainage."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "A 45-year-old Asian man is brought in with an acute onset of epigastric pain, nausea and severe vomiting. The pain is worse with movement and is only relieved slightly by leaning forward. The patient is an alcoholic and has been admitted to the emergency department on several occasions for alcohol intoxication. On examination the patient is tachycardic, pyrexial and dehydrated. The abdomen is diffusely tender and soft, and bowel sounds are normal. The patient's serum amylase is raised by six times the upper limit of normal. The most likely diagnosis is",
+            "options": [
+                "A. Perforated peptic ulcer",
+                "B. Small bowel obstruction",
+                "C. Acute cholecystitis",
+                "D. Acute pancreatitis",
+                "E. None of the above"
+            ],
+            "answer": "D",
+            "explanation": "Symptoms of pancreatitis can easily be confused with other acute abdominal conditions such as acute cholecystitis and perforated peptic ulcer. Acute abdominal pain that is relieved by leaning forward is usually associated with pancreatitis. The head and neck of the pancreas are retroperitoneal. Thus, by leaning forward, this relieves the pressure on the retroperitoneal components of the pancreas, which in turn alleviates the pain. Patients usually have fever and tachycardia. The abdomen is usually soft, but in severe and later stages of pancreatitis the patient may be lying still and the abdomen may show signs of guarding and rigidity which resemble peritonism. All options can cause serum amylase to be raised. However, the clinical symptoms and signs coupled with the raised amylase six times the upper limit of normal suggests acute pancreatitis."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "A 75-year-old man, who suffers from chronic atrial fibrillation, is admitted to the emergency department with a sudden onset of severe central colicky abdominal pain and vomiting. The patient has been bleeding from the rectum. The blood is dark in colour and has an altered consistency. On examination the patient is pale, has cold peripheries and is tachycardic. The abdomen is diffusely tender and bowel sounds are decreased. What is the likely diagnosis?",
+            "options": [
+                "A. Diverticulitis",
+                "B. Small bowel obstruction",
+                "C. Acute mesenteric ischaemia",
+                "D. Perforated peptic ulcer",
+                "E. None of the above"
+            ],
+            "answer": "C",
+            "explanation": "Acute mesenteric ischaemia presents with a triad of symptoms: acute colicky abdominal pain, rectal bleeding and symptoms of shock which are associated with the blood loss. This condition almost always occurs in the small bowel, involving embolism or thrombosis of the mesenteric vessels. Arterial causes (e.g. emboli due to atrial fibrillation, mural thrombus after myocardial infarction, detached atheromatous plaques and reduced arterial flow due to low cardiac output owing to either heart failure or hypotension) are more common than venous (e.g. venous stasis due to portal hypertension or portal venous system thrombosis; sepsis; coagulopathies; occasionally it may be caused by a paradoxical embolus). Arterial thrombosis is more common than arterial embolism. Venous causes tend to occur in younger patients. Haemoglobin may be raised (owing to the loss of plasma volume), and the white cell count is also usually raised coupled with serum amylase. An early abdominal plain film radiograph may show a ‘gasless abdomen'. CT angiography or mesenteric angiography can be performed if the patient is stable, but this is time consuming. If the patient is unstable, the patient will usually be sent for emergency laparoscopy or laparotomy, which will reveal areas of necrotic bowel. Diverticulitis usually presents with pain and tenderness in the left iliac fossa accompanied by fever and local signs of peritonitis. The patient usually has a history of chronic constipation. (For more information regarding perforated peptic ulcers and intestinal obstruction, please refer to the answer to Questions 1 and 4.)"
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "A 50-year-old woman presents with an acute episode of epigastric pain, vomiting and fever. The registrar, who has already clerked and examined the patient, tells you that 'Murphy's sign is positive'. Despite not having seen the patient, from the information conveyed to you, what is the most likely top differential diagnosis that is running through your mind?",
+            "options": [
+                "A. Acute appendicitis",
+                "B. Acute cholecystitis",
+                "C. Peritonitis",
+                "D. Biliary colic",
+                "E. Cholangitis"
+            ],
+            "answer": "B",
+            "explanation": "Murphy's sign may be a useful tool when attempting to diagnose cholecystitis. Confirmation of diagnosis depends on the combination of physical and laboratory findings, coupled with imaging studies. The patient is instructed to lie flat. Locate the right upper quadrant of the abdomen and put two fingers lightly over that area, and at the same time ask the patient to take a deep breath. If the patient experiences pain on inspiration and catches their breath, the sign is positive. As the patient breathes in, the inflamed gallbladder impacts on the examining hand, causing pain and consequently cessation of inspiration. The sensitivity of Murphy's sign has been recorded at 97.2% and the specificity at 48.3%. The positive predictive value of this test has been recorded at 70% and negative predicted value at 93.3%. In summary, these results indicate that if a positive Murphy's sign is present, this is highly suggestive of cholecystitis; and if the sign is absent, then it is highly unlikely that the patient has cholecystitis."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "A 65-year-old man is admitted to the emergency department following an acute episode of abdominal pain and collapse. The pain is intermittent and radiates to the back and iliac fossae. On examination, the patient appears confused, is sweating and has tachycardia. On inspection, the abdomen appears normal, but on palpation, you discover a pulsatile, expansile swelling in the midline of the abdomen. You suspect a ruptured abdominal aortic aneurysm. What is the most important next step?",
+            "options": [
+                "A. Establish intravenous access and begin fluid resuscitation with a colloid",
+                "B. Send for a computed tomography scan of the abdomen",
+                "C. Obtain blood to determine haemoglobin and amylase levels",
+                "D. Request an abdominal plain film radiograph",
+                "E. Perform electrocardiography"
+            ],
+            "answer": "A",
+            "explanation": "This patient has a ruptured abdominal aortic aneurysm and is showing signs and symptoms of shock. The most important initial aspect of management is to establish venous access and begin fluid resuscitation. By giving IV colloid therapy, and aiming to keep systolic blood pressure less or equal to 100 mmHg, this will decrease the rate of blood volume depletion and ‘buy' some time for the patient to be sent to theatre and have the aneurysm repaired. Although all the other answers (B-E) form part of management, they do not take priority over the initial fluid resuscitation, which, if not managed promptly, may be fatal. Performing a CT scan is usually helpful and should only be done if the patient is stable. An abdominal plain film radiograph will not change the course of management and will add further delay to the patient being sent to theatre. Amylase and haemoglobin are important, but should, again, be performed once the patient is stable. Surgery for ruptured AAAs involves immediate laparotomy, clamping the aorta above the site of rupture and inserting a synthetic Dacron graft (e.g. 'tube graft' or ‘trouser graft' for aneurysms extending to the common iliac arteries). A treated ruptured AAA carries a mortality rate of approximately 41% as opposed to 100% if left untreated."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "A patient has been sent to theatre for emergency surgery with suspected appendicitis. He is given three doses of intravenous cefuroxime and metronidazole in a timely fashion. When is the best time to administer the first dose of antibiotics?",
+            "options": [
+                "A. One hour after the first incision is made",
+                "B. One hour before surgery",
+                "C. One hour postoperatively",
+                "D. Just before the surgical incision is made",
+                "E. None of the above"
+            ],
+            "answer": "B",
+            "explanation": "Surgical site infections account for approximately 15% of nosocomial infections and are associated with a prolonged hospital stay and increased costs. A prospective randomized control trial has shown that administering prophylactic antibiotics, and starting the initial dose one hour before surgery, decreases the incidence of postoperative surgical site infections. It is also worth noting that for a majority of surgical procedures, prophylaxis should not exceed 24 hours."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "An elderly man with chronic constipation experiences acute-onset left iliac fossa pain and tenderness. On examination, the patient has fever and is slightly tachycardic. There is marked tenderness and guarding in the left iliac fossa. Full blood count results reveal a raised. What is the most likely diagnosis?",
+            "options": [
+                "A. Diverticular disease",
+                "B. Diverticulitis",
+                "C. Diverticulosis",
+                "D. Perforated diverticulitis",
+                "E. None of the above"
+            ],
+            "answer": "B",
+            "explanation": "In general, diverticula can be described as outpouchings of serosa-covered mucosa alone through gaps in the muscularis layer where terminal blood vessels are transmitted (the weakest point where diverticula protrude). Diverticula are commonly found in the descending and sigmoid colon. Patients who have diverticula and do not experience any symptoms are said to have diverticulosis. If colonic diverticula cause symptoms (either left-sided or central colicky abdominal pain, as well as bloating coupled with constipation), the patient is said to have diverticular disease. Diverticulitis occurs when a colonic diverticulum becomes inflamed due to infection or when faeces impact within it. Classically, it presents with lower central abdominal pain which moves to the left iliac fossa, usually referred to as ‘left-sided appendicitis' due to the similar symptoms experienced in appendicitis. Accompanying symptoms include fever, vomiting, local tenderness and guarding (local peritonitis). When the inflamed diverticulum perforates (perforated diverticulitis), signs of general peritonitis develop, characterized by general abdominal rigidity and guarding. Patients may show signs of shock, and on an erect chest radiograph free air may be visible under the diaphragm."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "You are asked by your senior colleague to devise the treatment plan for the patient in Question 11. What is the most appropriate treatment plan?",
+            "options": [
+                "A. Keep nil by mouth and send for emergency laparotomy",
+                "B. Give analgesia and antibiotics",
+                "C. Keep nil by mouth, administer antibiotics and analgesia",
+                "D. Keep nil by mouth, administer intravenous fluids, antibiotics and analgesia",
+                "E. Keep nil by mouth, administer intravenous fluids and analgesia"
+            ],
+            "answer": "D",
+            "explanation": "The treatment of diverticulitis focuses on conservative management. This consists of resting the bowel by keeping the patient nil by mouth, giving maintenance intravenous fluids and administering antibiotics (e.g. cefuroxime and metronidazole or the recommended combination of choice at the local hospital), which will resolve the underlying infection. Diverticulitis is extremely painful and administering analgesia is imperative in providing pain relief to the patient. This combined method of treatment will allow the inflammation to resolve."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "You are asked to see a 48-year-old woman who has been admitted to the emergency department with sudden onset of right upper quadrant pain. Your registrar liaises with you, after having seen this patient, and tells you that the patient has 'Charcot's triad'. From the information conveyed to you, what is the most likely diagnosis that you should be thinking of?",
+            "options": [
+                "A. Biliary colic",
+                "B. Acute cholecystitis",
+                "C. Cholangitis",
+                "D. Gallstone ileus",
+                "E. Pancreatitis"
+            ],
+            "answer": "C",
+            "explanation": "In the context of acute abdominal conditions, the Charcot's triad is a set of clinical signs relating to ascending cholangitis. The combination of right upper quadrant abdominal pain, jaundice and rigours (involuntary shaking, which occurs during high fevers) are the clinical manifestations of ascending cholangitis. If a patient presents with Charcot's triad coupled with hypotension and an altered mental state, this collection of clinical signs is called Reynold's pentad and suggests a diagnosis of septic ascending cholangitis. A patient suspected of having ascending cholangitis requires prompt treatment with intravenous fluids and antibiotics."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "A 78-year-old African Caribbean man presents to the emergency department with severe pain arising from his hernia in the left groin. The patient is also experiencing central colicky abdominal pain. On examination, the abdomen is generally tender and distended and bowel sounds are raised. Examination of the hernial orifices reveals a left-sided, irreducible, tense and extremely tender inguinal hernia. The overlying skin of the hernia is warm and erythematous. What is the most appropriate course of action in managing this patient?",
+            "options": [
+                "A. Alert theatre and send patient for emergency surgery",
+                "B. Request a computed tomography scan of the abdomen",
+                "C. Request an ultrasound",
+                "D. Attempt to reduce the hernia",
+                "E. None of the above"
+            ],
+            "answer": "A",
+            "explanation": "This patient is suffering from a strangulated hernia, which requires prompt surgical intervention. The signs of bowel obstruction coupled with the tense, irreducible, inguinal hernia and the overlying skin being erythematous and warm suggests that this hernia is strangulated rather than obstructed. The blood supply to the contents of the hernia is cut off by pressure at the neck of the hernia. This causes ischaemic necrosis/gangrene of the hernial contents (i.e. either bowel or omentum). Symptoms of intestinal obstruction are present if the bowel is present within the hernial sac. If on the other hand, only omentum is present, bowel obstruction is not a feature with the accompanying strangulation. In this case, the patient requires immediate surgical intervention. Delaying surgery can be fatal and emergency surgery is a priority in a patient in whom a strangulated hernia is suspected."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "A 57-year-old man presents with acute colicky pain in the suprapubic area. He has been constipated over the last 2 days and has been feeling bloated. He feels nauseous, but he has not vomited. On examination of the abdomen you notice marked abdominal distension, and increased bowel sounds. What is the most likely diagnosis?",
+            "options": [
+                "A. Small bowel obstruction",
+                "B. Irritable bowel syndrome",
+                "C. Diverticular disease",
+                "D. Large bowel obstruction",
+                "E. Appendicitis"
+            ],
+            "answer": "D",
+            "explanation": "The most likely answer here is large bowel obstruction. Pain is usually colicky in nature and is felt commonly in the suprapubic area rather than the central area of the abdomen, which is experienced in small bowel obstruction. Vomiting is usually a late sign in large bowel obstruction, but an early sign in small bowel obstruction. Absolute constipation (not passing faeces or flatus) is an early feature of large bowel obstruction, due to the lower site of obstruction, and a late feature of small bowel obstruction. Abdominal distension is marked in large bowel obstruction and may be absent or slight in small bowel obstruction depending on the level of obstruction in the small bowel. For information on appendicitis, pancreatitis and diverticular disease, please refer to answers to Questions 2, 6 and 11, respectively. Irritable bowel syndrome is a chronic disorder of intestinal motility and presents as central/lower abdominal pain which is relieved by defaecation. It is accompanied by bloating, altered bowel habits (constipation alternating with diarrhoea), tenesmus (the feeling of incomplete faecal evacuation) and usually mucus production rectally."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "What is the least number of factors that must be present from the modified Glasgow criteria for acute pancreatitis to be classified as severe within 48 hours of admission?",
+            "options": [
+                "A. 2",
+                "B. 4",
+                "C. 3",
+                "D. 5",
+                "E. 1"
+            ],
+            "answer": "C",
+            "explanation": "The modified Glasgow criteria (sensitivity 68% and specificity 84%) are commonly used in the United Kingdom to assess the severity of an episode of pancreatitis within 48 hours of onset. Other systems used are Ranson's criteria, and the acute physiological and chronic health evaluation (APACHE) scores. The modified Glasgow criteria can be used for pancreatitis caused by gallstones and alcohol whereas Ranson's criteria have been validated for alcohol-induced pancreatitis and can only be fully put to use after 48 hours of onset. The modified Glasgow criteria are: • pa02 <8 kPa • Age >55 years • White cell count >15 × 109/L • Calcium <2 mmol/L • Urea >16 mmol/L • LDH >600 IU/L • AST/ALT >200 IU/L • Albumin <32 g/L • Blood glucose >10 mmol/L If three or more criteria are positive and detected within 48 hours of onset, this suggests that the pancreatitis is severe."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "A 28-year-old man with a 10-year history of ulcerative colitis presents to the emergency department with an acute severe episode of abdominal pain, nausea and vomiting and blood-stained, watery diarrhoea. On examination you notice that the patient has fever and tachycardia and that the abdomen is markedly distended. An abdominal plain film radiograph shows that the transverse colon is dilated at approximately 6.5 cm. What is the most likely diagnosis?",
+            "options": [
+                "A. Large bowel obstruction",
+                "B. Toxic megacolon",
+                "C. Perforated diverticulitis",
+                "D. Crohn's colitis",
+                "E. None of the above"
+            ],
+            "answer": "B",
+            "explanation": "This patient is suffering from an acute complication of ulcerative colitis called toxic megacolon. Severe inflammation rendered by the ongoing ulcerative colitis leads to dilatation of the colon, especially the transverse colon. Clinical features include toxaemia (leading to pyrexia, tachycardia and hypotension), anaemia from bleeding, acute loss of water and electrolytes and progressive abdominal distension. Along with clinical features, toxic megacolon can be diagnosed on a plain film abdominal radiograph by assessing the extent of dilatation of the transverse colon. Usually if the transverse colon is dilated more than 6 cm, this is diagnostic of toxic megacolon. For information on perforated diverticulitis and large bowel obstruction, please refer to the answers to Questions 11 and 15, respectively. Toxic megacolon can also be a complication of Crohn's colitis, but in this scenario we are told that the patient already has a 10-year history of ulcerative colitis, making Crohn's colitis unlikely. Treatment involves initial fluid resuscitation, correcting electrolyte imbalances and administering high-dose steroids. Repeated abdominal plain film radiographs are conducted as part of ongoing assessment of the size of the colon. If the size of the colon is increasing despite medical therapy, surgery is indicated before perforation ensues. Surgery is usually indicated if the patient fails to improve within 24–48 hours of medical treatment or if the risks of perforation are high."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "From the list of options below which one is the most unlikely cause of mechanical intestinal obstruction?",
+            "options": [
+                "A. Faecal impaction",
+                "B. Caecal volvulus",
+                "C. Paralytic ileus",
+                "D. Congenital intestinal atresia",
+                "E. Crohn's colitis"
+            ],
+            "answer": "C",
+            "explanation": "Intestinal obstruction can be broadly divided into mechanical and paralytic obstruction (also known as paralytic ileus). A paralytic ileus occurs when the intestines are in a complete state of atony. Clinical features include abdominal distension, absolute constipation, vomiting and the absence of intestinal motility (thus bowel sounds are absent). Due to the lack of intestinal movement, colicky abdominal pain is not a feature, unlike what is seen in mechanical obstruction. Postoperative abdominal surgery, peritonitis, trauma, acute pancreatitis, potassium deficiency, uraemia, anticholinergic and antidiarrhoeal drugs are some of the frequent causes of a paralytic ileus. Causes of mechanical obstruction can be divided into: • Luminal (e.g. faecal impaction, foreign body, intussusceptions, large polyps) • Intramural (e.g. congential intestinal atresia, Crohn's colitis, tumours, strictures) • Extraluminal (e.g. volvulus, adhesions, strangulated hernia, extrinsic compression also known as a ‘mass effect') A gallstone ileus can be classified as a form of luminal intestinal obstruction. This occurs when a large gallstone (usually >2.5 cm) erodes through the gallbladder wall and passes into the duodenum, through a cholecysto-duodenal fistula, which is formed due to the chronic inflammatory environment of the eroding gallstone. The stone may then go on to obstruct the terminal ileum at the ileocaecal junction."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "A 44-year-old woman presents to the emergency department with acute onset of right upper quadrant pain and fever. On examination, the patient is lying still and has a tachycardia. The abdomen is tender in the right upper quadrant with guarding in that area. Murphy's sign is positive. What is the most useful investigation for this patient?",
+            "options": [
+                "A. Ultrasound",
+                "B. Colonoscopy",
+                "C. Barium follow-through",
+                "D. Upper gastrointestinal endoscopy",
+                "E. Serum amylase"
+            ],
+            "answer": "A",
+            "explanation": "Right upper quadrant pain coupled with a positive Murphy's sign suggests acute cholecystitis. From the list, upper gastrointestinal endoscopy, colonoscopy and barium follow-through are inappropriate and will not positively add to the management of this patient. Serum amylase, although an important test used to rule out acute pancreatitis, would not be the most useful test in this scenario. Conducting an ultrasound scan of the abdomen can confirm the presence of gallstones, identify areas of the gallbladder where oedema and wall thickening are present and know the status of the CBD."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "A 75-year-old man is admitted to the emergency department with acute-onset suprapubic pain and inability to pass urine for 2 days. On examination, the patient is in discomfort, neurologically intact, and the abdomen is particularly tender in the suprapubic region. A digital rectal examination reveals a smooth, enlarged prostate. What is the most likely diagnosis?",
+            "options": [
+                "A. Bladder outflow obstruction due to prostate cancer",
+                "B. Bladder outflow obstruction due to benign prostatic hypertrophy",
+                "C. Bladder outflow obstruction due to a urethral stricture",
+                "D. Bladder outflow obstruction due to a spinal cord lesion",
+                "E. None of the above"
+            ],
+            "answer": "B",
+            "explanation": "The findings of the DRE suggest that this man has bladder outflow obstruction due to prostatic enlargement rather than the other causes mentioned in options C–E. From the findings of the DRE, it seems evident that the prostate enlargement is most likely due to benign prostatic hypertrophy rather than prostatic carcinoma, which usually feels ‘craggy and nodular' on DRE coupled with systemic symptoms such as back pain and weight loss, which may occur as a result of metastatic spread of the primary prostate carcinoma. Urethral strictures are uncommon in men and rare in women. They may arise due to recurrent infections of the urinary tract, trauma or cancer, and can be congenital. Symptoms include dysuria, decreased stream, terminal dribbling and ‘double stream' when voiding. In addition, acute urinary retention may be caused by a spinal cord lesion which would have produced severe neurological complications such as paraesthesia and paralysis depending on the level of the spinal cord lesion; a history of trauma would also be present."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "From the list of options below, select the most appropriate course of action to take in managing the patient in Question 20.",
+            "options": [
+                "A. Ask the urology registrar to see the patient",
+                "B. Obtain blood for urea and electrolytes sampling",
+                "C. Request an abdominal plain film radiograph",
+                "D. Urinary catheterization",
+                "E. Request an intravenous urogram"
+            ],
+            "answer": "D",
+            "explanation": "Prompt urinary catheterization is the most appropriate course of action here. This will relieve the discomfort and prevent the risk of acute renal failure. Urethral catheterization is attempted first; if unsuccessful, suprapubic catheterization is carried out. At some centres, administering parenteral antibiotics (e.g. intramuscular gentamicin) 15–20 minutes before catheterization is encouraged (in elderly patients with acute urinary retention) to decrease the risk of the patient developing a urinary tract infection. An abdominal plain film radiograph would not be informative in this case and obtaining blood for urea and electrolytes is important (to check renal function) but should be done once the patient is catheterized."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "A 55-year-old woman presents to the emergency department with severe epigastric and left upper quadrant pain. Since admission, the patient has vomited. On examination you notice the patient is retching (which is non-productive), tachycardic and hypotensive. There is marked tenderness in the upper abdomen and bowel sounds are slightly raised. There is failure to pass a nasogastric tube. A chest radiograph reveals a dilated stomach and large fluid level behind the heart. Which is the most likely diagnosis?",
+            "options": [
+                "A. Small bowel obstruction",
+                "B. Perforated peptic ulcer",
+                "C. Gastro-oesophageal obstruction secondary to a gastric volvulus",
+                "D. Gastro-oesophageal obstruction secondary to an adenocarcinoma of the stomach",
+                "E. Sigmoid volvulus"
+            ],
+            "answer": "C",
+            "explanation": "The clinical triad of vomiting (after which non-productive retching occurs), pain and failed attempts to pass a nasogastric tube are classic signs of gastro-oesophageal obstruction. Gastric dilatation and a prominent fluid level seen on the plain film chest radiograph suggest that the obstruction is due to a volvulus. The pathology has been clinically narrowed down to the stomach, making a sigmoid volvulus an unlikely possibility in this question. The causes of a gastric volvulus can be divided into congenital (e.g. paraoesophageal hernia, congenital bands, bowel malformations, pyloric stenosis) and acquired (e.g. previous gastric/oesophageal surgery, adhesion from previous abdominal surgery). If a gastric volvulus is suspected, emergency laparotomy should not be delayed so as to avoid perforation. At some centres, endoscopic manipulation is done first and if this is not successful, surgery is warranted. Perforation usually occurs secondary to ischaemia and necrosis of the stomach (caused by the twisting of the stomach). This surgical emergency is more common in adults than in children and carries a 42%–56% mortality rate."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "You see an 11-year-old boy in the emergency department who is admitted with an acute onset of abdominal pain, nausea and vomiting. There is diffuse pain around the central abdomen and right iliac fossa and is continuous in nature. On examination, the patient is febrile and there is marked tenderness and rebound in the right iliac fossa. The patient's mother tells you that he has recently had a sore throat. You suspect mesenteric adenitis and request an ultrasound scan which is inconclusive. What is the best next step to take in managing this patient?",
+            "options": [
+                "A. Start the patient on analgesia and intravenous antibiotics",
+                "B. Send for a computed tomography scan of the abdomen",
+                "C. Observe patient for the next 2 hours and reassess",
+                "D. Send for emergency explorative laparotomy",
+                "E. None of the above"
+            ],
+            "answer": "D",
+            "explanation": "Mesenteric adenitis refers to inflammation of the mesenteric lymph nodes and is regarded as the main differential diagnosis of acute appendicitis. It is more commonly a childhood illness, though occasionally seen in adults. It is often preceded by a viral upper respiratory tract infection. Enlargement of the mesenteric lymph nodes, due to the effects of the viral infection, causes right iliac fossa pain (can be diffused) and tenderness as well as an accompanying fever. Symptoms of nausea, vomiting, anorexia and diarrhoea may also be experienced. A white cell count may show lymphocytosis rather than a raised neutrophil count as seen with acute appendicitis. Since the ultrasound was inconclusive, coupled with symptoms and signs paralleling acute appendicitis, the most appropriate step to take is to send the patient for an explorative laparotomy. Acute appendicitis may be mistaken for mesenteric adenitis which can lead to complications of perforation, general peritonitis and septicaemia. Usually during explorative laparotomy, the appendix will be removed (even if it is normal) so that subsequent attacks of abdominal pain of this nature are not confused with appendicitis. Treatment of mesenteric adenitis involves analgesia and observing the patient for 24 hours; symptoms usually settle down within 24 hours of onset. In severe cases, intravenous antibiotics may be given and anti-emetics for the nausea and vomiting."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "A 13-month-old girl is diagnosed with intussusception. She was admitted to the emergency department 2 hours ago with vomiting, passing red mucus-like stools and persistent crying. You are asked by your consultant about the first line treatment for this condition. What is the most likely first line treatment option?",
+            "options": [
+                "A. Laparotomy and reduction",
+                "B. Barium enema per rectum and abdominal plain film radiography",
+                "C. Analgesia and observation for 24 hours",
+                "D. Intravenous fluids and antibiotics",
+                "E. Laparotomy and resection"
+            ],
+            "answer": "B",
+            "explanation": "Intussusception can be defined as the invagination of a portion of bowel into its own lumen. The invaginated portion of the bowel is called the intussusceptum. Common types of intussusception are ileo-ileal, ileocaecal and colocolic. This condition is common in children (the cause is idiopathic enlarged Peyer's patch) and rare in adults. After the age of 3 years certain factors can predispose to the condition such as intestinal polyps, carcinoma, intestinal lymphoma, foreign bodies or an inverted Meckel's diverticulum. It presents as intermittent abdominal colic (screaming and pallor are seen in children), vomiting, and the passage of mucus and bloody stools per rectum (sometimes referred to as red-currant jelly). On examination the child will appear pale and anxious and will be irritable. On palpation of the abdomen, a sausage-shaped mass may be felt. Plain film abdominal radiography may be normal in early stages or there may be signs consistent with bowel obstruction. Ultrasound scanning has been used in some centres, but with variable success in diagnosing intussusception. The initial steps of treatment involve the use of barium enemas per rectum and plain abdominal film radiographs (which highlight the site of intussusception). The pressure at which the barium flows through the bowel can reduce the intussusception and this can be confirmed by conducting another plain abdominal film radiograph. If this fails, surgical reduction can be carried out. If the bowel is gangrenous, resection will be carried out. The chances of bowel ischaemia and gangrene are reduced if the intussusception is reduced within 24 hours of diagnosis."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "A 49-year-old postmenopausal woman is admitted to the emergency department following severe attacks of abdominal pain, nausea and vomiting. The pain is colicky in nature, starts from the left flank of the abdomen and radiates to the left groin. You are unable to take a history from the patient as she is writhing in pain. On examination you notice that the patient is sweating profusely. The abdomen is soft and non-tender and bowel sounds are normal. What is the most likely diagnosis?",
+            "options": [
+                "A. Diverticulitis",
+                "B. Ruptured ectopic pregnancy",
+                "C. Renal colic",
+                "D. Small bowel obstruction",
+                "E. Ruptured abdominal aortic aneurysm"
+            ],
+            "answer": "C",
+            "explanation": "The most likely diagnosis here is renal colic caused by obstruction of the urinary tract. Commonly the obstruction is caused by calculi impacting the pelvi-ureteric junction or anywhere along the course of the ureters. Stones within the renal parenchyma of the kidney rarely produce pain but if they do, dull loin pain may be experienced. The pain is caused by dilatation, stretching and spasm of the ureters. This is an extremely painful condition and clinically presents with colicky pain which radiates from 'loin to groin'. The pain is usually so intense that patients are classically described as ‘writhing around in pain'. Associated symptoms include vomiting and sweating. In small bowel obstruction, the pain is centrally positioned and bowel sounds are usually raised (please refer to the answer to Question 4). Acute diverticulitis presents with left iliac fossa pain and tenderness with local guarding, usually with accompanying fever (please refer to the answer to Question 11). A ruptured ectopic pregnancy would produce signs of left or right iliac fossae pain, generalized peritonitis (generalized guarding and abdominal rigidity), fever, hypotension and tachycardia; serum b-hCG is raised. In this case the patient is postmenopausal making a ruptured ectopic pregnancy unlikely. For information on ruptured aortic aneurysms please refer to the answer to Question 9."
+        },
+        {
+            "id": 26,
+            "question_type": "mcq",
+            "question": "From the list below, select the investigation that will be of more diagnostic value of the patient's condition mentioned in Question 25.",
+            "options": [
+                "A. Computed tomography scan of the abdomen",
+                "B. KUB (kidneys, ureters and bladder)",
+                "C. Intravenous urogram",
+                "D. Ultrasound",
+                "E. Abdominal plain film radiography"
+            ],
+            "answer": "A",
+            "explanation": "Urine dipstick shows blood but is not diagnostic. Intravenous urogram and CT scanning (more specifically, CT-KUB) are investigations of diagnostic value for renal stones. CT scans are able to detect 99% of renal stones and, therefore, have now been classed as the gold standard diagnostic investigation for renal calculi. In addition, the CT scan is able to exclude other causes of an acute abdomen and contrast media is not needed unlike IVU which may be nephrotoxic. A KUB film, although not the investigation of choice, should always be performed when the patient is admitted with symptoms of renal colic. It should be noted that a KUB film alone will detect 80% of renal stones. Ultrasound scanning, when combined with a KUB film, has been shown to be sensitive in detecting renal calculi, but not as sensitive as CT-KUB scanning. An abdominal plain film radiograph would not be of value in this condition; KUB is a larger abdominal plain film radiograph which incorporates visualization of the kidneys, ureters and bladder."
+        },
+        {
+            "id": 27,
+            "question_type": "mcq",
+            "question": "During a ward round, you are asked by your senior registrar to name the most common causative factor that is responsible for the development of acute pancreatitis. Which option from the list below would you choose as your answer?",
+            "options": [
+                "A. Ethanol",
+                "B. Steroids",
+                "C. Gallstones",
+                "D. Drugs",
+                "E. Trauma"
+            ],
+            "answer": "C",
+            "explanation": "The causes of pancreatitis can be remembered by the pneumonic ‘GET SMASHED' (see the answer to Question 33 in Section 6). The most common causes are gallstones followed by alcohol (especially binge drinking)."
+        },
+        {
+            "id": 28,
+            "question_type": "mcq",
+            "question": "You are asked to give your opinion on an abdominal plain film radiograph of a patient with bowel obstruction. The film shows distended loops of large bowel which form a ‘U' shape, giving the appearance of a big coffee bean. Select the most likely reason for the large bowel obstruction.",
+            "options": [
+                "A. Faecal impaction",
+                "B. Sigmoid volvulus",
+                "C. Obstructing carcinoma",
+                "D. Foreign body",
+                "E. None of the above"
+            ],
+            "answer": "B",
+            "explanation": "Sigmoid volvulus is the most common type of volvulus in its category. It is common in elderly and mentally retarded patients who have a chronic history of constipation and who have redundant loops of sigmoid colon on a long mesentery, making the chances of ‘twisting' more likely. The patient usually presents with severe acute colicky abdominal pain, abdominal distension and absolute constipation. Abdominal plain film radiography may reveal, first, distended loops of the sigmoid colon in an inverted 'U' shape orientation, which extend from the pelvis under the diaphragm. The classical ‘coffee bean sign' is seen as a result of compression of two medial walls of the distended sigmoid colon. Second, free air may be present under the hemi-diaphragms as a result of bowel perforation (secondary to ischaemia and necrosis of the bowel)."
+        },
+        {
+            "id": 29,
+            "question_type": "mcq",
+            "question": "You see a 50-year-old woman, admitted with colicky central abdominal pain, and passing blood-stained diarrhoea and mucus per rectum. She has a marked fever and tachycardia. Abdominal plain film radiography appears normal. The white cell count is raised and stool analysis reports reveal the presence of Clostridium difficile cytotoxins. What is the most likely diagnosis?",
+            "options": [
+                "A. Ulcerative colitis",
+                "B. Crohn's colitis",
+                "C. Ischaemic colitis",
+                "D. Pseudomembranous colitis",
+                "E. None of the above"
+            ],
+            "answer": "D",
+            "explanation": "Pseudomembranous colitis is an infection of the colon caused by the Gram-positive anaerobic bacteria Clostridium difficile. The signs and symptoms of this condition are similar to those experienced in ulcerative, Crohn's and ischaemic colitis: watery diarrhoea (with or without blood), passing of mucus per rectum, cramping abdominal pain and fever. Toxin A, a proinflammatory enterotoxin released by C. difficile, acts as an intestinal receptor causing loosening of junctions between intestinal epithelia. Toxin B, which is also produced by this organism, is then able to pass through the loosened epithelial cell junctions and initiates an inflammatory cascade. This process ultimately leads to fluid secretion, mucosal cell injury, oedema and inflammation. The development of C. difficile infection has been associated with a history of recent or prolonged antibiotic use, increasing age and prolonged hospital stay. Diagnosis is by stool analysis; the stool cytotoxin test is highly sensitive and specific and considered to be the first line diagnostic investigation. A highly effective, but expensive, PCR testing method is also available, but due to the costs involved, stool cytotoxin testing is favoured. Colonoscopy or sigmoidoscopy may show pseudomembrane plaque appearance (present in 50% of patients). In some cases, histological examination may be performed for confirmation. First line treatment is usually with metronidazole, or vancomycin, if the C. difficile is resistant to metronidazole. C. difficile colitis can cause toxic megacolon (see the answer to Question 17). This cannot be treated with antibiotics and therefore warrants emergency surgery."
+        },
+        {
+            "id": 30,
+            "question_type": "mcq",
+            "question": "A 75-year-old man, with a history of diverticular disease, is experiencing swinging fevers and left-sided abdominal pain. You suspect the patient has a diverticular abscess. Which one of the following investigations is the most appropriate to confirm your suspicion?",
+            "options": [
+                "A. Barium enema studies",
+                "B. Abdominal plain film radiography",
+                "C. Computed tomography scan of the abdomen",
+                "D. Colonoscopy",
+                "E. Flexible sigmoidoscopy"
+            ],
+            "answer": "C",
+            "explanation": "The most appropriate investigation here is an abdominal CT scan. Barium enema evaluation was the diagnostic investigation of choice before CT scanning was introduced. The plain film abdominal radiograph, although a quick and simple imaging investigation, is not useful in diagnosing diverticular abscesses. Colonoscopy and flexible sigmoidoscopy carry a risk of perforation and may not be able to visualize the abscess and are therefore not used. Diverticular abscess could be treated with antibiotics and CT guided drainage."
+        }
+    ]
+}

@@ -1,0 +1,425 @@
+{
+    "chapter_name": "ABDOMEN: LOWER GASTROINTESTINAL SURGERY",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "A 50-year-old man presents to the outpatient clinic with an 8-week history of bleeding from his back end. This is typically bright red and copious during or following a stool. The patient has had no change in his bowel habit, no weight loss, and has no family history of bowel cancer. What is the most appropriate course of action?",
+            "options": [
+                "A. Perform rubber band ligation of haemorrhoids",
+                "B. Perform injection sclerotherapy of haemorrhoids",
+                "C. Blood tests including CEA",
+                "D. Examination under anaesthetic +/- proceed to treat haemorrhoids",
+                "E. Flexible sigmoidoscopy"
+            ],
+            "answer": "E",
+            "explanation": "The most likely diagnosis here is haemorrhoids, however, a left-sided colorectal adenocarcinoma must be excluded, despite the low index of suspicion. Such patients should be reassured, but advised to undergo a flexible sigmoidoscopy to exclude cancer or colonic polyps. Patients with change in bowel habit would need a colonoscopy.\nTreating the patient for haemorrhoids without excluding malignancy is not acceptable. An examination under anaesthetic will not allow suffi-cient visualisation of the left colon unless a flexible sigmoidoscopy was also done as part of the procedure. Blood tests and CEA levels should not be used to diagnose or exclude colonic malignancy."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "A postoperative patient has been moved to a side room after developing diar-rhoea following the start of a course of antibiotics. Faecal samples test positive for Clostridium difficile toxin and metronidazole is started. After 10 days the antibiotic course is finished and nursing staff repeat the toxin assay on a formed stool sample, which is again positive. What is the most appropriate next manage-ment step?",
+            "options": [
+                "A. No further action required",
+                "B. Continue metronidazole for a further 10 days",
+                "C. Start intravenous vancomycin",
+                "D. Start oral vancomycin",
+                "E. Urgent colonoscopy as this patient is at significant risk of pseudo-membranous colitis"
+            ],
+            "answer": "A",
+            "explanation": "This patient has developed a common complication of broad-spectrum antibiotic therapy, which all graduating foundation year 1 doctors should be able to manage. The key word in the scenario is ‘formed'. Clostridium difficile toxin assays will remain positive for at least 2 weeks following clearance of the original infection. Therefore, there is no benefit in repeating assays following cessation of treatment. In any case, this patient is asymptomatic and there is no need to continue or escalate antibiotic therapy. Intravenous vancomycin has no role in the treatment of C. difficile in this scenario, and colonoscopy on this patient would be entirely inappropriate.\nIf the patient had remained symptomatic, then oral vancomycin would be the antibiotic of choice. Failure of diarrhoea to resolve following 10 days of metronidazole would be indicative of resistance and therefore continuation for a further 10 days would not be of benefit."
+        },
+        {
+            "id": "3",
+            "question_type": "mcq",
+            "question": "A 60-year-old patient is being treated for colonic carcinoma. The primary lesion has been excised and chemotherapy started. However, computed tomography (CT) scanning identifies a 1 cm metastasis in the right lobe of the liver. The patient has no history of alcohol misuse or viral hepatitis. CT chest and CT brain show no abnormalities. The most appropriate next stage of management would be:",
+            "options": [
+                "A. Liver resection",
+                "B. Gadolinium-enhanced liver magnetic resonance imaging",
+                "C. CT/ultrasound-guided biopsy",
+                "D. Referral to a palliative care setting with appropriate counselling and support",
+                "E. Monitor lesion – If size exceeds 1.5 cm, add irinotecan to 5-fluorouracil and folinic acid chemotherapy"
+            ],
+            "answer": "B",
+            "explanation": "Following this patient's initial operative treatment of his colonic cancer, he has been found to have early metastatic disease.\nThe significance of identifying metastatic deposits is that they impact on prognosis; Dukes' stage C disease carries a 5-year survival of 20%-30%, whereas distant metastasis shorten 5-year survival to <5%. However, aggressive management of metastatic disease isolated to a single lobe of the liver can increase survival from 5% to over 30%. Therefore, this patient would benefit from hepatic resection as long as the disease is truly confined to a single lobe. The gold standard imaging for suspected hepatic malignancy is gadolinium-enhanced MRI and therefore B is the correct answer. Option A is inappropriate as liver resection must only be performed in carefully selected patients, therefore, MRI imaging must be completed prior to planning for resection. Options D or E may well be appropriate if MRI demonstrates more widespread disease, however the possibility of hepatic resection should be considered first.\nHistological examination of the lesion using guided biopsy is not neces-sary in this case as the patient is unlikely to have primary HCC in the absence of identifiable risk factors and in the context of proved gastro-intestinal tract malignancy. By biopsying the lesion there is a danger one may seed the biopsy tract; an unnecessary risk in this case."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "On colonoscopy a malignant lesion is identified 5 cm proximal to the splenic flexure. There are no contraindications to resection and the decision is made to operate with curative intent. The most appropriate procedure would be",
+            "options": [
+                "A. Right hemicolectomy",
+                "B. Total colectomy",
+                "C. Sigmoid colectomy",
+                "D. Anterior resection",
+                "E. Extended right hemicolectomy"
+            ],
+            "answer": "E",
+            "explanation": "This question is simply designed to test candidates' baseline knowl-edge of common surgical techniques, which are often confused and misunderstood. As with virtually all tumour surgery the aim is to achieve clear resection margins. Therefore the operation is planned to remove the tumour and all mesenteric lymph tissue draining that area.\nThe choice of operation in this case is either an extended right hemi-colectomy or left hemicolectomy; left hemicolectomy is associated with the technical difficulty of forming a large bowel to large bowel anas-tomosis and the preferred technique for tumours located in the trans-verse colon is therefore an extended right hemicolectomy. This allows a primary anastomosis between the ileum and descending colon, which avoids the end-to-end anastomosis implicit in left hemicolectomy.\nA right hemicolectomy would not excise the area in question and nei-ther would a sigmoid colectomy or an anterior resection. A total colec-tomy in this patient would be equally inappropriate, as the removal of the entire colon is not necessary to achieve cure."
+        },
+        {
+            "id": "5",
+            "question_type": "mcq",
+            "question": "A 32-year-old female patient presents with a 6-week history of bloody bowel motions. She has noticed significant weight loss over the preceding 6 weeks with increasing lethargy and fatigue. She has previously had constipation and admits to regular laxative use. What is the most likely diagnosis?",
+            "options": [
+                "A. Bowel cancer",
+                "B. Irritable bowel syndrome",
+                "C. Diverticular disease",
+                "D. Inflammatory bowel disease",
+                "E. Anal fissure"
+            ],
+            "answer": "D",
+            "explanation": "This is essentially an easy question which will catch out candidates who are aiming for a unifying diagnosis when the question clearly states ‘most likely diagnosis'. The key point is the history of weight loss and fatigue, which indicate a systemic illness rather than local disease and therefore makes anal fissure unlikely. Diverticular disease is also unlikely to pres-ent in this fashion. The patient's age makes malignancy a less likely diag-nosis, but in clinical practice one would have to rule this out.\nInflammatory bowel disease is commonly encountered and is by far the most likely diagnosis in this case; the patient is of the correct age and the history of weight loss and fatigue are very suggestive. The detail of history of constipation is not of any significance. Irritable bowel syndrome is a common misdiagnosis; no clinician should diagnose this condition in a patient with bloody loose stool and weight loss."
+        },
+        {
+            "id": "6",
+            "question_type": "mcq",
+            "question": "Which one of the following statements regarding stomas is the most correct?",
+            "options": [
+                "A. Hartmann's procedure results in a defunctioned rectum and loop colostomy",
+                "B. An abdominoperineal resection may be reversed by formation of an ileal J-pouch",
+                "C. A mucus fistula functions to decompress residual distal bowel",
+                "D. Small bowel obstruction is a common early complication and indi-cates need for revision",
+                "E. Positioning of the stoma is not important"
+            ],
+            "answer": "C",
+            "explanation": "Care is required when answering this type of question and a systematic approach is essential. Taking each statement in turn\n• Hartmann's procedure does result in a defunctioned rectum, but not a loop colostomy. The stoma formed is an end or terminal colostomy which may be reversed in 60%-70% of cases.\n• Abdominoperineal resection is not reversible as it leaves the patient without an anus.\n• Option C is true. The aim of a mucus fistula is to protect the resection margins of the distal segment by avoiding the potential build-up of mucoid secretions from the defunctioned bowel. More often the distal bowel is sown to the underside of the abdominal wall and left as a ‘potential mucus fistula' which may be easily opened if the need arises.\n• Small bowel obstruction complicates 10%-15% of stomas in the long term. The majority resolve with conservative measures, however, and they rarely necessitate revision. Early complica-tion of a stoma with mechanical small bowel obstruction is uncommon. The most common post-operative complication is paralytic ileus, which can mimic obstruction.\n• Positioning is extremely important, as poorly situated stomas can make it near-impossible for patients to independently man-age their stoma, and siting the stoma too near a wound can result in wound sepsis and even dehiscence."
+        },
+        {
+            "id": "7",
+            "question_type": "mcq",
+            "question": "You are called to see an 85-year-old female patient as the nursing staff is concerned that the patient has not passed stool for 4 days. The patient has been admitted after family members became increasingly concerned regarding her general deteriora-tion in health and level of function. She is orientated but frail and complains of increasing abdominal discomfort. On examination bowel sounds are increased. The abdomen is distended with generalized tenderness, but no rebound or guard-ing. There is a firm palpable mass in the left iliac fossa. Digital rectal examination shows an empty rectum. What diagnosis must be excluded?",
+            "options": [
+                "A. Simple constipation",
+                "B. Paralytic ileus",
+                "C. Sigmoid volvulus",
+                "D. Peritonitis secondary to diverticular disease",
+                "E. Neoplasia"
+            ],
+            "answer": "E",
+            "explanation": "This is a difficult question for many candidates as the information given does not allow a clear distinction between simple constipation and neo-plasia. However, the other three options can be excluded relatively easily; ileus is not a viable option as bowel sounds are increased, not absent. Sigmoid volvulus is unlikely as the presentation is over 4 days, and there is no suggestion of the severe pain and systemic upset associated with vol-vulus. Similarly, peritonitis secondary to diverticular disease would pres-ent with peritoneal signs more local to the left iliac fossa. An uncontained diverticular perforation might result in generalised peritonitis; however, this would certainly be associated with cardiovascular collapse. The absence of rebound and guarding in this age group of patients does not exclude peritonitis, however this patient is described as having a general slower decline rather than an acute deterioration.\nChoosing between constipation and neoplasia requires greater consider-ation. Particular attention must be given to the way in which the question is asked. 'What diagnosis must be excluded?' indicates the examiner is looking for a diagnosis of significance. In this case, the history of general and rapid deterioration in condition and the findings on rectal examina-tion throw sufficient doubt on a diagnosis of simple constipation, making neoplasia the best answer. If the question had asked for ‘The most likely diagnosis' then candidates would be justified in considering constipation to be more likely as it is a far more common diagnosis in elderly inpatients."
+        },
+        {
+            "id": "8",
+            "question_type": "mcq",
+            "question": "An 85-year-old male patient with a history of chronic constipation presents with acute severe colicky abdominal pain and absolute constipation. Plain abdominal film shows a grossly dilated oval of large bowel arising from the left lower quad-rant. A diagnosis of sigmoid volvulus is made. The next step in management is:",
+            "options": [
+                "A. Laparotomy",
+                "B. Sigmoidoscopy with flatus tube insertion",
+                "C. Sigmoid colectomy with colostomy",
+                "D. Barium swallow",
+                "E. Computed tomography"
+            ],
+            "answer": "B",
+            "explanation": "This is a classic presentation of sigmoid volvulus. Volvulus is a condi-tion where a loop of bowel becomes twisted on its mesentery, occluding the blood supply to that section of bowel. Without rapid decompression, ischaemia and subsequent gangrene will occur.\nSigmoid volvulus is more common in men than women (4:1), the elderly and those with a long history of constipation. The radiological appearance on plain radiograph is classically described as the ‘coffee-bean' or ‘bent inner-tube' sign. These patients require resuscitation and treatment for shock, but definitive management is the decompression of the bowel as soon as possible. The diagnosis in this case is not disputed and sigmoidoscopy with insertion of a flatus tube should not be delayed by further radiological investigations. Following successful decompression at sigmoidoscopy this patient would have to be closely observed for signs suggestive of bowel ischaemia. Laparotomy and colectomy are the reserve of failed attempts at endoscopic decompression and/or proven bowel infarction. Therefore, these options cannot be considered the next step in management. Barium swallow has no place in the management of sigmoid volvulus."
+        },
+        {
+            "id": "9",
+            "question_type": "mcq",
+            "question": "Which one of the following does not occur as a systemic manifestation of inflammatory bowel disease?",
+            "options": [
+                "A. Amyloidosis",
+                "B. Pyoderma gangrenosum",
+                "C. Scleritis",
+                "D. Cardiomyopathy",
+                "E. Sclerosing cholangitis"
+            ],
+            "answer": "D",
+            "explanation": "This is a simple question. The systemic manifestations of inflammatory bowel disease (IBD) are numerous and candidates should familiarize themselves with a comprehensive list from their source reference text. Osteoporosis can occur as a consequence of long-term steroid therapy used to manage IBD. Osteomalacia does occur in direct association with IBD along with other musculoskeletal complaints, most commonly arthritis, sacroiliitis and ankylosing spondylitis. Sclerosing cholangitis is associated with ulcerative colitis to a greater extent than Crohn's disease and there is also an increased risk of cholangiocarcinoma. Ocular manifestations are common in IBD, and scleritis and iritis are severe and potentially sight-threatening, so require urgent treatment. Episcleritis is more common, but less severe. Pyoderma gangrenosum is a dermatological manifestation of both Crohn's and ulcerative colitis, but is not exclusive to these conditions and may also manifest in PBC, rheumatoid arthritis and neoplasia, particularly haematological malig-nancies. Amyloidosis is a rare complication of IBD, but nevertheless candidates should be aware that amyloid deposition may complicate any chronic systemic inflammatory process.\nCardiomyopathies are not a known systemic manifestation of inflam-matory bowel disease."
+        },
+        {
+            "id": "10",
+            "question_type": "mcq",
+            "question": "Which one of the following statements regarding diverticular disease is the most correct?",
+            "options": [
+                "A. Colonic diverticula are true diverticula",
+                "B. Diverticular disease describes the outpouching of colonic mucosa between the muscle layers of the colonic wall",
+                "C. The most common site of diverticula is the rectum, where the high-est pressures occur",
+                "D. Saint's triad consists of diverticular disease, cholelithiasis and inguinal herniation",
+                "E. 95% of complications from diverticula occur at the sigmoid colon"
+            ],
+            "answer": "E",
+            "explanation": "Diverticula are described as outpouchings of the wall of a hollow viscus. They can be congenital, as in Meckel's diverticulum, or acquired, as in the colonic or oesophageal diverticula. A true diverticulum has within its walls all of the components of the viscus from which it originates. Since colonic diverticula are outpouchings of the mucosa between the taenia coli they do not contain all the components of the colon wall and they are not true diverticula. Diverticula occur in approximately 30% of the adult population over the age of 60. Not all these patients have diverticular disease, as this term is reserved for diverticula with complications. The most common site for diverticula to develop is the sigmoid colon. They do not occur in the rectum as within the rectal wall the taenia coli become fused. Saint's triad describes the association between diverticula, cholelithiasis and hiatus herniation, all of which occur with greater frequency in Western societies."
+        },
+        {
+            "id": "11",
+            "question_type": "mcq",
+            "question": "A 78-year-old patient is admitted with a short history of sudden onset colicky abdominal pain and bleeding per rectum. On assessment his blood pressure is 110/55 mmHg, respiratory rate is 30 breaths/min and he is in atrial fibrillation with a ventricular response of 130 beats/min. He is known to you as he has pre-viously presented in the outpatients department and been investigated for inter-mittent abdominal pain associated with food associated with a 2 stone weight loss. He had a colonoscopy and upper GI endoscopy 3 months ago which was normal. Whilst you are investigating his pain, it changes to a constant central ache. The diagnosis is",
+            "options": [
+                "A. Obstruction secondary to neoplasia",
+                "B. Inflammatory colitis",
+                "C. Ischaemic colitis secondary to embolus",
+                "D. Angiodysplasia",
+                "E. Mesenteric atherosclerosis"
+            ],
+            "answer": "E",
+            "explanation": "This patient is presenting with a triad of symptoms classic of mesen-teric vascular occlusion: shock, rectal bleeding and colicky abdomi-nal pain which rapidly evolves. The normal colonoscopy 3 months ago makes obstruction secondary to neoplasia virtually impossible. Angiodysplasia presents with painless rectal bleeding. Inflammatory colitis would not explain the history of intermittent pain associated with food.\nThe key to this question is differentiating the likely cause of bowel ischaemia. This patient has had pain after eating and weight loss, which is typical of intermittent mesenteric ischaemia. So-called intes-tinal angina is suggestive of the presence of atherosclerotic disease. Atrial fibrillation might suggest embolus as a possible cause, but con-sider that this patient is in shock, and therefore the AF might be as a consequence of this, rather than an established condition. This patient requires urgent fluid resuscitation and is likely to undergo a CT mesen-teric angiogram prior to laparotomy with bowel resection or mesenteric angiography + angioplasty."
+        },
+        {
+            "id": "12",
+            "question_type": "mcq",
+            "question": "A 27-year-old patient is seen in outpatients, as part of the follow-up for his ulcerative colitis. His current maintenance drugs include mesalazine and aza-thioprine, but he has not been tolerating azathioprine, and complains of malaise, nausea and vomiting. The next treatment option is",
+            "options": [
+                "A. Long-term oral steroids",
+                "B. 6-mercaptopurine",
+                "C. Ciclosporin",
+                "D. Infliximab",
+                "E. Methotrexate"
+            ],
+            "answer": "B",
+            "explanation": "The pharmacological management of inflammatory bowel disease is complex and much controversy exists. There are significant differ-ences between the management of remission and acute episodes and in the management of Crohn's disease and ulcerative colitis; the question refers to long-term remission of ulcerative colitis.\nSteroids are extremely useful drugs in the acute setting, and topical steroid enema preparations may be used in the maintenance of remis-sion, although oral use is restricted to acute flairs for obvious reasons. Mesalazine is the first line agent in both ulcerative colitis and Crohn's due to its relative low toxicity, although its efficacy in Crohn's is far less than in ulcerative colitis. In those who require additional agents, second line management is with azathioprine; however 33% of patients will not tolerate this drug and in these patients 6-mercaptopurine may be tried next. Although 6-mercaptopurine is the active breakdown component of azathioprine, 50% of those intolerant to azathioprine will respond to this drug without side effects.\nPatients intolerant or non-responsive to first and second line manage-ment options are candidates for anti-TNF treatments. These should only be instituted by a specialist gastroenterologist. Ciclosporin is typi-cally only used as a salvage drug during acute severe exacerbations. Methotrexate use has declined with the introduction of biological thera-pies such as the anti-TNF antibody treatments, but still has a role in Crohn's disease."
+        },
+        {
+            "id": "13",
+            "question_type": "mcq",
+            "question": "An 18-year-old patient presents with a 12-day history of abdominal pain and pyrexia. On examination bowel sounds are present and the abdomen is soft with no rebound. A mass in the right iliac fossa is palpable. Abdominal computed tomog-raphy confirms the diagnosis of an appendix mass with an associated abscess. The patient is started on cefuroxime and metronidazole and admitted for observation and conservative management. After 2 days the mass has not reduced in size and the temperature remains raised. The next stage in management is",
+            "options": [
+                "A. Continue antibiotics for further 14 days",
+                "B. Proceed to appendicectomy",
+                "C. Percutaneous drainage",
+                "D. Colonoscopy",
+                "E. Laparoscopy"
+            ],
+            "answer": "C",
+            "explanation": "An appendix mass occurs when an inflamed appendix becomes walled off by adhesions to the omentum. The majority of these cases (80%) are manageable with intravenous antibiotics. Appendicectomy in the presence of an appendix mass is often technically hazardous and should not be attempted in the acute setting. Therefore, B would be an inappropriate answer. Laparoscopy, similarly, is used in the acute setting either to remove the appendix or when the diagnosis of appen-dicitis is uncertain as it gives the option to proceed. As the diagnosis is not in doubt, and appendicectomy is to be avoided, laparoscopy is not indicated in this scenario. Colonoscopy, similarly, has nothing to add in this case where the diagnosis is not disputed, but an argument could be made to perform a colonoscopy at a delayed point in time to exclude caecal carcinoid or polyp, although no absolute indication exists.\nAlthough 80% of appendix masses will settle with conservative man-agement, 20% will not. Enlargement of the mass or continuation of pyrexia indicates that further intervention is necessary. In these cases, prolonged courses of antibiotics should be avoided as they lead to the development of chronic inflammatory masses laden with abscesses. Appropriate treatment is radiological drainage. Failure to do so may result in perforation of the mass into the abdominal cavity, bladder, rectum or even through the abdominal wall."
+        },
+        {
+            "id": "14",
+            "question_type": "mcq",
+            "question": "A 60-year-old homosexual man presents with a 6-month history of passing fresh blood per rectum and anal pain. His presentation has been precipitated by the recent loss of continence to faeces. The blood coats the stool and he had noticed it on the paper after wiping. On rectal examination the patient has an empty rectum. You identify a third-degree haemorrhoid in the 11 o'clock position, as well as two further second-degree haemorrhoids. No other masses are palpable. The diagnosis is",
+            "options": [
+                "A. Anal squamous carcinoma",
+                "B. Haemorrhoids",
+                "C. Sigmoid adenocarcinoma",
+                "D. Diverticular disease",
+                "E. Anal fissure"
+            ],
+            "answer": "A",
+            "explanation": "History of blood-coated stool is suggestive of distal disease. Cancer of the sigmoid colon typically manifests with blood mixed into the stool and therefore is less likely in this scenario. Bleeding due to diverticu-lar disease occurs due to erosion of a vessel within the bowel wall. Haemorrhage is typically large volume. Therefore a chronic presenta-tion such as this is not indicative of diverticular disease.\nThe key point in this history is the loss of continence. Neither haemor-rhoids nor anal fissures cause loss of faecal continence although incon-tinence may complicate attempts to treat these conditions. Carcinoma of the anal canal, however, commonly presents with bleeding and incon-tinence; 70% of patients have sphincter involvement at presentation. Perianal pain is another common symptom occurring in 50% of cases. Do not be put off making this diagnosis by the absence of a palpable mass – only 25% have a palpable lesion. The relevance of the patient's sexuality is that carcinoma of the anus is closely associated with human papilloma virus, and as such is more common in homosexual men and those with perianal or genital warts."
+        },
+        {
+            "id": "15",
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding the anatomy of the anal canal is false?",
+            "options": [
+                "A. There is no touch or pain sensation above the dentate line",
+                "B. The anal canal below the dentate line drains lymph to the inguinal nodes",
+                "C. The anorectal ring is made up of the blended fibres of the puborec-tal muscle and internal anal sphincter",
+                "D. The superior rectal vein drains into the portal system",
+                "E. The pelvic diaphragm delineates the point at which the rectum becomes the anal canal"
+            ],
+            "answer": "C",
+            "explanation": "This question touches on several important concepts regarding rectal and anal anatomy and the application of this knowledge in surgical practice.\n• A – True. The anal canal above the dentate line is supplied by nerves of the hypogastric plexus. They are autonomic and therefore are only sensitive to stretch.\n• B – True. Anal carcinoma is an increasingly common condition and therefore candidates should familiarize themselves with local drainage, as it impacts on management. The anal canal below the dentate line drains via inguinal nodes, that above drains via internal iliac nodes.\n• C – False. The anorectal ring is made up from the combined fibres of the puborectal muscle and the external sphincter. The internal sphincter is hypertrophied smooth muscle.\n• D – True. Hence portal hypertensives commonly develop exag-gerated haemorrhoids as the anal canal is a site of potential portal-systemic shunting.\n• E – True. The pelvic diaphragm is made up from the levator ani and coccygeus muscles, and it divides the pelvis and the perineum, demarcating the division between the rectum and anus."
+        },
+        {
+            "id": "16",
+            "question_type": "mcq",
+            "question": "A 60-year-old diabetic patient presents with an 8-hour history of being unable to pass urine. On taking his history, he reports a 3-day history of pyrexia and throbbing pain around the back passage. He is also concerned as he has also noticed he has been passing urine increasingly frequently and worries that his diabetes is getting worse since increased urinary fre-quency was how his condition was initially diagnosed. On examination of his abdomen there is no evidence of peritonism. On digital rectal examina-tion there are no abnormalities visible in the perianal area; the procedure is extremely painful. However, the prostate feels normal and is in the normal position. The diagnosis is",
+            "options": [
+                "A. Ischiorectal abscess",
+                "B. Acute prostatitis",
+                "C. Urinary tract infection",
+                "D. Invasive pelvic malignancy",
+                "E. Supralevator abscess"
+            ],
+            "answer": "E",
+            "explanation": "This patient has an abscess. The short history of sepsis with a throbbing rectal pain are typical and would not be commonly found in malignant disease or uncomplicated UTI. Prostatitis is a possible diagnosis in a patient with fever and painful urinary retention; pain from the prostate is non-specific and may be felt deep within the pelvis, between the legs or in the lower back or from the rectum. However, throbbing pain indicates an abscess and the prostate would feel enlarged and boggy in acute prostatitis.\nAnswering this question therefore depends on a candidate's ability to differentiate between the sites of perianal abscess formation based on the history provided. The majority of abscesses originates from an infection within one of the glands that lie between the internal and external sphincters. In 65% of cases the infection will then track down-wards to form a perianal abscess; these present as a discrete local red swelling close to the anal verge. In 15% of cases, the infection will track through the external sphincters and into the ischiorectal fossa forming an ischiorectal abscess. Because the fossa is full of fat with no natural barriers preventing spread of infection, these abscesses present with systemic illness and extreme pain on palpation/DRE.\nIn a further 15% of cases the infection remains within the muscle layers, forming an intersphincteric abscess. These present with chronic anal pain and tenderness on DRE.\nIn 5% of cases the infection extends upwards through the levator ani muscles forming a supralevator abscess. These abscesses cause signif-icant inflammation adjacent to the bladder, and therefore presenting symptoms are those of systemic illness, perianal discomfort and bladder irritation."
+        },
+        {
+            "id": "17",
+            "question_type": "mcq",
+            "question": "A patient with a previous anal abscess presents with persistent discharge from the anus and perianal discomfort. On examination a sinus is identifiable at the 6 o'clock position with the patient in the lithotomy position. A fistula is diagnosed and the patient is booked for theatre. What procedure is the surgeon most likely to perform?",
+            "options": [
+                "A. Diversion loop colostomy",
+                "B. Plug insertion",
+                "C. Open exploration of tract",
+                "D. Endoanal ultrasound",
+                "E. Examination under anaesthetic +/- proceed"
+            ],
+            "answer": "E",
+            "explanation": "Over 70% of fistula in ano are intersphincteric, that is they do not involve the sphincter muscles. A further 23% do involve the sphinc-ter muscles, but not the anorectal ring. Both these types of fistula are readily identified by passing a probe through the tract while the patient is anaesthetized. Therefore the most appropriate answer is “E”; once the extent of the fistula is known, the surgeon will decide whether it is safe to lay the tract open, or whether a seton is required. Seton insertion is necessary if the anorectal ring is involved with, or closely associated with, the fistula tract. Use of setons carries less risk of permanent incontinence, and is therefore favoured if there is any uncertainty regarding the degree of sphincter involvement, par-ticularly in women. Open exploration of the tract is not an acceptable technique as it risks incontinence. Endoanal ultrasound may be used intraoperatively in cases where doubt remains about the course of the fistula, however, is typically only required in complex perianal Crohn's disease. Diversion colostomy is not a first line treatment for simple fistula in ano."
+        },
+        {
+            "id": "18",
+            "question_type": "mcq",
+            "question": "Which of the following is not an option when treating an anal fissure?",
+            "options": [
+                "A. Propranolol",
+                "B. Botulinum toxin A injections",
+                "C. Glyceryl trinitrate cream",
+                "D. Diltiazem cream",
+                "E. Laxatives"
+            ],
+            "answer": "A",
+            "explanation": "Propranolol is the only option not used in the treatment of anal fis-sure. Of the others, laxatives are commonly used in almost all cases as they treat the major predisposing problem. In conjunction with laxatives, give the patient advice on toilet habits and dietary modi-fication, although this management may still fail in the majority of cases. The most effective medical treatment is 2% diltiazem cream applied twice daily. GTN ointment is a slightly less effective alterna-tive to those who cannot use diltiazem. Such measures, which may allow resolution in up to 75% of cases within the first 8 weeks of therapy. Lidocaine gel is also often co-prescribed to aid symptom relief.\nFailing these measures, botulinum toxin A injections can be used, and have been shown to be an effective way of avoiding surgical manage-ment, which risks loss of continence."
+        },
+        {
+            "id": "19",
+            "question_type": "mcq",
+            "question": "Which of the following is not encountered when making a Lanz incision during an open appendicectomy?",
+            "options": [
+                "A. External oblique aponeurosis",
+                "B. Rectus abdominis",
+                "C. Peritoneum",
+                "D. Internal oblique muscle",
+                "E. Transversus abdominis"
+            ],
+            "answer": "B",
+            "explanation": "Depending on what emphasis a medical school places on surgical teach-ing and applied anatomy, candidates may be asked simple questions regarding the more common or classical surgical incisions in the writ-ten or viva examination. Candidates should therefore know the surgical anatomy of Kocher's incision, Lanz incision, mid-line laparotomy inci-sion and open hernia repair (i.e. the inguinal canal).\nAppendicectomy may be performed through laparoscopic or open tech-niques. Open incision is traditionally performed through a gridiron dissection made over McBurney's point at 90° to the line drawn from the umbilicus to the ASIS. However, the current popular practice is to perform a Lanz incision; this cosmetic approach is positioned lower at the level of the ASIS and follows the skin crease transversely. In both incisions, the subcutaneous tissues are divided exposing the external oblique aponeurosis, which is in turn divided along the line of its fibres. This exposes the underlying internal oblique, the fibres of which run at 90?° to those of the external oblique. As before, the fibres are split following the line of the muscle fibres; hence the term gridiron, as the divisions occur in 90?° to one another. The transversus abdominis is closely associated with the internal oblique and will usually be split with it exposing the underlying peritoneum. This incision is made lat-eral to the rectus, which should not be involved. This technique is to be favoured as by splitting structures along the line of their fibres, rather than dissecting across them, the strength of the tissues is maintained. This makes incisional herniation and wound dehiscence rare complica-tions of such operations."
+        },
+        {
+            "id": "20",
+            "question_type": "mcq",
+            "question": "Which of the following is not a sign associated with acute appendicitis?",
+            "options": [
+                "A. Murphy's sign",
+                "B. Cope sign",
+                "C. Psoas sign",
+                "D. Rovsing's sign",
+                "E. Pain on rectal examination"
+            ],
+            "answer": "A",
+            "explanation": "The classic description of appendicitis is peritonitis over McBurney's point, located at two-thirds the distance from the umbilicus to the ASIS. However, this may vary with abnormal anatomical positioning of the appendix, and may occur in the flank (appendix positioned behind the caecum) or even below the right costal margin (sub-hepatic appendix). Therefore, knowledge of the several less-known signs is important.\nRovsing's sign is pain experienced in the right iliac fossa when pressure is placed on the left iliac fossa. Cope sign is pain on flexion and internal rotation of the right hip and indicates the appendix is low lying within the pelvis lying in close association with obturator internus. Psoas sign is pain on extension of the hip and indicates a retrocaecal appendix. Pain on rectal examination indicates either a low-lying appendix or pus in the pouch of Douglas.\nMurphy's sign is associated with acute cholecystitis; it is elicited by pal-pating the costal margin with the patient in expiration and then asking the patient to take in a deep breath. The sign is positive if the patient experiences pain and arrests inspiration as the gallbladder moves down onto the examining clinician's hand during inspiration. Murphy's sign can only be considered positive if a similar manoeuvre at the left costal margin fails to arrest inspiration."
+        },
+        {
+            "id": "21",
+            "question_type": "mcq",
+            "question": "All of the following may cause a right iliac fossa mass that is palpable on abdom-inal examination, except",
+            "options": [
+                "A. Mucocele",
+                "B. Ulcerative colitis",
+                "C. Tuberculosis",
+                "D. Appendicitis",
+                "E. Ovarian cancer"
+            ],
+            "answer": "B",
+            "explanation": "The differential diagnosis of a right iliac fossa mass is a common sub-ject in surgical examinations and candidates should have a comprehen-sive list prepared and be able to differentiate between the most common culprits. Each person will have their own system of remembering the list of differential diagnoses; the authors prefer to divide these into the different surgical specialties as an aide mémoire:\n• General: Appendix mass/abscess, colorectal carcinoma, Crohn's, distended gallbladder, lymphadenopathy\n• Urological: Pelvic kidney, renal transplant, tumour in an unde-scended testis\n• Gynaecological: Ovarian cyst, ovarian tumour, fibroid\n• Vascular: Iliac artery aneurysm\n• Orthopaedics: Chondrosarcoma or osteosarcoma of the ileum (rare!)\n• Infective: Psoas abscess, ileocaecal TB"
+        },
+        {
+            "id": "22",
+            "question_type": "mcq",
+            "question": "Which of the following is not a syndrome associated with an increased risk of colonic adenocarcinoma?",
+            "options": [
+                "A. Congenital hypertrophy of retinal pigment epithelium",
+                "B. Familial adenomatous polyposis coli",
+                "C. Hereditary non-polyposis colon cancer",
+                "D. Multiple endocrine neoplasia syndrome II",
+                "E. Gardner's syndrome"
+            ],
+            "answer": "D",
+            "explanation": "Familial adenomatous polyposis is an autosomal dominant condition caused by a mutation in the APC gene (chromosome 5q21). It results in the development of hundreds of polyps within the colon and carries a 100% lifetime risk of colorectal cancer; these patients are there-fore offered prophylactic proctocolectomy with ileorectal pouch at a young age. Fifty per cent of these patients also develop gastric and duodenal polyps, and therefore require regular endoscopic screening. Gardner's is closely related to FAP, as it is also a consequence of an APC gene mutation, but has additional extraintestinal manifestations; it is a syndrome of colonic polyps, epidermoid cysts and osteomas. Similarly, CHRPE is another variant of FAP; CHRPE may be detected on indirect ophthalmoscopy in up to 75% of those with adenomatous polyposis coli.\nHereditary non-polyposis colon cancer is the most common cause of hereditary colon cancer accounting for 3% of all colonic carcinoma.\nThe genes responsible are various but all function in DNA repair. The MEN syndromes may have gastrointestinal manifestations, including neuroendocrine tumours of the duodenum and pancreas and mega-colon (MEN 2B most commonly, but also 2A) secondary to motility dysfunction. However, adenocarcinoma is not a feature."
+        },
+        {
+            "id": "23",
+            "question_type": "mcq",
+            "question": "Which of the following is the most common site for colorectal adenocarcinoma?",
+            "options": [
+                "A. Rectum",
+                "B. Sigmoid colon",
+                "C. Caecum and ascending colon",
+                "D. Descending colon",
+                "E. Transverse colon"
+            ],
+            "answer": "A",
+            "explanation": "The distribution of colorectal cancer is an extremely common topic in examination and this is a basic question that all candidates should be able to answer. Thirty-three per cent of cancers occur in the rectum, 25% occur in the sigmoid colon, 18% occur in the caecum and ascending colon, 9% occur in the transverse colon and 5% occur in the descending colon. This can be easily remembered by considering the length of time faecal material remains in contact with the part of the colon involved; note that the segments with the longest transit time have the highest incidence of adenocarcinoma."
+        },
+        {
+            "id": "24",
+            "question_type": "mcq",
+            "question": "Which of the following is not an indication for radiotherapy or chemotherapy in colonic cancer?",
+            "options": [
+                "A. Dukes' stage A",
+                "B. Intraoperative peritoneal contamination during resection",
+                "C. Dukes' stage C",
+                "D. Rectal adenocarcinoma threatening the resection margin",
+                "E. Dukes' stage D"
+            ],
+            "answer": "A",
+            "explanation": "Answering this question relies on examination technique as much as knowledge of the subject in question; few candidates will know the intricacies of adjunct chemotherapy and radiotherapy in colorectal car-cinoma, however the majority will know that Dukes' stage A colorectal cancer is treated with surgery alone. This level of knowledge is all that is required in answering this question correctly.\nIn simple terms, no survival benefit is gained from adjunct therapy in stage A disease. Adjuvant therapy in patients with Dukes B disease is controversial, and the decision to offer such treatments takes into account a range of both tumour-related and patient-related factors. Clear benefit is evident in Dukes C and D disease, however, as once the tumour metas-tasizes to lymph nodes or more distant sites, an increase in survival of 3%-10% can be achieved with adjuvant treatments. Chemotherapy should also be considered if peritoneal contamination occurs intra-operatively or if the tumour has perforated into the peritoneal cavity. Patients with rectal carcinoma undergo pre-operative rectal MRI scanning; in cases where the resection margin is threatened or breached neoadjuvant radio-therapy (+/- chemotherapy) will often be used to ‘downstage' the tumour."
+        },
+        {
+            "id": "25",
+            "question_type": "mcq",
+            "question": "An 85-year-old patient is admitted to the emergency department in shock with a short history of large-volume fresh bleeding per rectum. You resuscitate the patient with blood and fluids. There is no identifiable source on rectal examination. However, the patient continues to be unstable and you suspect continued bleeding. Her bowels open and pass an additional large volume of blood. Your next stage of management is",
+            "options": [
+                "A. Laparotomy",
+                "B. Radionucleotide red cell scanning",
+                "C. Oesophagogastroduodenoscopy",
+                "D. Mesenteric angiography",
+                "E. Colonoscopy"
+            ],
+            "answer": "C",
+            "explanation": "Gastrointestinal haemorrhage is a common clinical problem, account-ing for 1%-2% of acute hospital admissions. It is broadly divided into upper and lower gastrointestinal bleeding, according to whether haemorrhage occurs proximal or distal to the ligament of Treitz. Upper gastrointestinal bleeding accounts for 80% of all gastrointestinal haemorrhage.\nNinety-five per cent of lower gastrointestinal haemorrhage bleeding is from the colon, the small intestine, accounts for less than 5%. The management of lower gastrointestinal haemorrhage relies on the accu-rate localization of a source; blind emergency hemicolectomy must be avoided as it results in a re-bleeding rate of up to 50%. Initial assess-ment should aim to exclude anorectal causes as a possible diagnosis by careful rectal examination and rigid proctoscopy/sigmoidoscopy. If no source is found the next stage is to exclude an upper gastrointestinal cause as these are readily treatable at endoscopy; 15% of per-rectal bleeds in haemodynamically compromised patients originate proximal to the ligament of Treitz.\nFollowing a negative OGD further management will depend on the haemodynamic status of the patient. Colonoscopy is possible in mild bleeding, but its diagnostic yield is severely restricted in moderate to severe haemorrhage as the view is compromised. Major haemorrhage in patients who are haemodynamically unstable indicates a need to localise the source of bleeding. CT mesenteric angiography is effec-tive but requires a reasonable rate of blood loss to identify a source. Angiography can localize the lesion to a greater degree of accuracy and has the option of therapeutic intervention, but it takes longer, is more invasive and is more technically demanding. Both techniques require an actively bleeding lesion and a reasonable cardiac out-put. In severely compromised patients refractory to resuscitation, the decision may be made to perform a laparotomy and isolate the lesion through serial clamping and in-theatre colonoscopy, but this is rarely required."
+        },
+        {
+            "id": "26",
+            "question_type": "mcq",
+            "question": "The most common cause of large bowel obstruction in the developing world is",
+            "options": [
+                "A. Adhesions",
+                "B. Intestinal parasites",
+                "C. Volvulus",
+                "D. Hernia",
+                "E. Neoplasia"
+            ],
+            "answer": "D",
+            "explanation": "Adhesions are the most common cause of small bowel obstruction in the developed world due to the greater number of elective procedures performed in Western countries. However in the developing world, the most common cause of obstruction of both small and large bowel is her-niae. Other causes of obstruction which occur with greater frequency in the developing world than the developed world include volvulus, due to greater intestinal loading with fibrous matter, and intestinal para-site infection. Neoplastic disease causes obstruction more commonly in developing countries than in Western society as diagnosis is delayed, however hernias still account for a greater overall number of cases."
+        },
+        {
+            "id": "27",
+            "question_type": "mcq",
+            "question": "A 45-year-old woman with a history of previous gynaecological surgery is admitted through the emergency department with central colicky abdominal pain, vomiting and absolute constipation. She is fluid resuscitated and a naso-gastric tube is placed. Abdominal radiograph demonstrates dilated loops of bowel with valvulae conniventes clearly identifiable. Over the next 48 hours she fails to improve. The next stage of management is",
+            "options": [
+                "A. Repeat plain abdominal film",
+                "B. Barium meal",
+                "C. Diagnostic laparoscopy",
+                "D. Gastrografın via a nasogastric tube",
+                "E. Radio-opaque contrast enema"
+            ],
+            "answer": "D",
+            "explanation": "Obstruction may be due to mechanical or non-mechanical causes. Mechanical obstructions may be partial or complete, simple or compli-cated. A complicated obstruction is one where the bowel shows vascular compromise or is perforated; closed loop obstructions are at particular risk of complications as distension tends to occur rapidly without any possible spontaneous outlet. This patient has generalised small bowel dilatation with a background of previous surgery. The most likely diag-nosis is adhesional obstruction.\nInitial management of adhesional obstruction includes blood tests, fluid resuscitation and NG tube insertion with aspiration. Complete mechanical obstructions typically require surgery and therefore the role of initial investigations is to exclude mechanical obstruction non-amenable to conservative management. Early investigation is war-ranted in patients who are unresponsive to resuscitation, those with peritoneal signs, those with a palpable mass and those without a his-tory of surgery in whom obstruction cannot be safely attributed to adhesions. Patients with likely adhesional obstruction can be trialled on non-operative management; however, failure for the obstruction to resolve within 48 hours is an indication for investigation +/- laparotomy.\nGastrografın via the NG tube is a diagnostic investigation as well as a part of therapeutic management since a minority of obstruction secondary to adhesions may spontaneously resolve following oral Gastrografın. Traditionally oral contrast studies consisted of serial plain abdominal radiographs following oral Gastrografın, however the contemporaneous availability of cross sectional imaging means that oral Gastrografın contrast CT scanning is more frequently employed in such patients. Contrast enema is not typically required in cases of small bowel obstruction.\nLaparoscopy cannot be considered a first line investigation and use of barium is contraindicated due to the consequences of barium peritonitis should the patients develop a perforation. Repeating a plain abdominal film without oral contrast is unlikely to give you any additional useful information."
+        },
+        {
+            "id": "28",
+            "question_type": "mcq",
+            "question": "Which of the following is not a recognized complication of a Meckel's diverticulum?",
+            "options": [
+                "A. Volvulus",
+                "B. Adenocarcinoma",
+                "C. Peptic ulceration",
+                "D. Intussusception",
+                "E. Pancreatitis"
+            ],
+            "answer": "E",
+            "explanation": "Meckel's diverticulum is the most common congenital abnormality of the gastrointestinal tract occurring in 2% of the population. It is an embryological remnant of the vitello-intestinal duct and is therefore found within 2 ft of the ileocaecal valve. The diverticulum varies in size in different individuals; large diverticula often have a fibrous cord (the remnant duct) linking them to the umbilicus.\nThe cells that line the vitello-intestinal duct are pluripotent and may therefore differentiate into any tissue. However, most commonly the diverticulum is lined with heterotrophic gastric epithelium (50%) or pancreatic tissue (5%). The most common clinical presentation of Meckel's is gastrointestinal haemorrhage secondary to peptic ulcer-ation of this abnormal gastric epithelium, which contains a pre-dominance of acid-secreting parietal cells. This is most commonly a childhood presentation causing melaena at around 10 years of age and accounts for over 50% of all symptomatic disease associated with Meckel's. The mucosa is also at risk of malignant change, most com-monly adenocarcinoma.\nMeckel's diverticula are at risk of mechanical complications. Diver-ticulitis accounts for 20% of symptomatic presentations with features indistinguishable from acute appendicitis. The abnormal segment is also liable to cause intussusceptions following inversion into the ileum or volvulus caused by the small bowel twisting around on the fibrous band at the diverticulum apex. Other presentations include perforation and umbilical fistulation, which occurs when the entire vitello-intestinal duct remains patent."
+        },
+        {
+            "id": "29",
+            "question_type": "mcq",
+            "question": "Carcinoid tumours occur most commonly in which site?",
+            "options": [
+                "A. Large bowel",
+                "B. Duodenum",
+                "C. Appendix",
+                "D. Stomach",
+                "E. Lung"
+            ],
+            "answer": "C",
+            "explanation": "Carcinoid tumours are closely related to neural crest cells and are otherwise known as APUD tumours. They are characterized by their embryological site of origin and may therefore be derived from foregut (respiratory tract, thymus), midgut (stomach, duodenum, jejunum, right colon) or hindgut (left colon and rectum) structures. Foregut and mid-gut carcinoids secrete serotonin (5-HT) whereas hindgut tumours rarely do. They may also secrete other peptide hormones such as bradykinin, VIP, gastrin, insulin, ACTH, thyroxin, etc. The most common site is the appendix, but they may be found anywhere in the alimentary tract, and 10% occur in the lung.\nCarcinoid syndrome is caused by systemically released serotonin, which causes flushing (90%), diarrhoea (70%), abdominal pain (40%), and bronchospasm (10%). In the majority, symptoms are not noticeable because the peptide hormones are delivered via the portal venous sys-tem to the liver where they are metabolized. If a patient is symptomatic, this is indicative of metastasis to the liver which allows hormones to escape into the systemic circulation. More commonly patients present with appendicitis or mechanical obstruction and other mass effects."
+        },
+        {
+            "id": "30",
+            "question_type": "mcq",
+            "question": "Which of the following features is not characteristic of Crohn's disease?",
+            "options": [
+                "A. Rose thorn abscesses",
+                "B. Cobblestoning",
+                "C. Skip lesions",
+                "D. Lead piping",
+                "E. Serosal involvement"
+            ],
+            "answer": "D",
+            "explanation": "Comparing and contrasting the histopathological features of ulcerative colitis and Crohn's disease is a classic exam question all candidates should be prepared for. In schools with viva examinations, barium studies may be shown and candidates will be expected to distinguish between the two diseases radiographically.\nUlcerative colitis is a superficial disease and therefore its features are consistent with superficial fibrosis; the colon loses its normal haustra and appears rigid on barium studies, so-called lead piping. Its lesions are confluent and always affect the rectum. Stricturing is rare and fis-tulae are very rare. Histologically, crypt abscesses are identifiable but the serosa is normal.\nCrohn's disease, however, involves all layers of the bowel wall down to the serosa. The mucosal surface is pocketed with deep abscesses, which have a characteristic appearance of rose thorns on barium studies. The mucosa is said to be cobblestoned, strictures are common, as are fistu-lae. The mucosal involvement is not confluent, that is ‘skip lesions', and the rectum is only involved in 50% of cases."
+        }
+    ]
+}
