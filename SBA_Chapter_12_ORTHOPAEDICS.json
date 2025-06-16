@@ -325,7 +325,7 @@
         },
         {
             "id": "24",
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "A 10-year-old African Caribbean boy is referred to the orthopaedic team with an acutely painful arm. On examination, there is a notable swelling of the limb above and around the elbow joint. There is no reduced range of passive movement of the joint, but the boy is holding his arm very still and will not actively move the limb. Investigations include haemoglobin 8.3 g/dL, white cell count 10.5 × 109/L, and C-reactive protein 12 mg/L. The child is apyrexial with a blood pressure of 110/75 mmHg, and a pulse rate of 85 beats/min.",
             "options": [
                 "A. Septic arthritis",

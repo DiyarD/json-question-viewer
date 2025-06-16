@@ -73,7 +73,7 @@
         },
         {
             "id": 6,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "6. Anatomy of the reproductive system\nA 34-year-old father of five children attends the family planning clinic for advice\non birth control. After discussing the various options available, he requests a\nvasectomy. Which of the following structures lies most proximal to the vas def-\nerens (ductus deferens)?",
             "options": [
                 "A. Superficial scrotal fascia (Dartos fascia)",
@@ -101,7 +101,7 @@
         },
         {
             "id": 8,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "8. Renal stone disease (1)\nA 40-year-old office executive presents with a 4-hour history of excruciating\nleft loin pain radiating to the groin. The pain has been constant with short spells\nof more severe pain every 30-40 minutes. He informs you that his father has\ngout and has had similar pains in the past. A KUB and IVU confirm the presence\nof a radio-opaque stone in the left ureter, measuring approximately 4 mm in\ndiameter. What type of stone is more likely to be present in this patient?",
             "options": [
                 "A. Xanthine",
@@ -115,7 +115,7 @@
         },
         {
             "id": 9,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "9. Investigation of urinary calculi\nA 30-year-old PhD student presents with acute-onset colicky left loin pain and\ndescribes a history suggestive of urinary calculi. Which one of the following\nwould be the initial investigation of choice to determine the presence of a calcu-\nlus in the renal tract?",
             "options": [
                 "A. Dimercaptosuccinic acid (DMSA) scan",
@@ -129,7 +129,7 @@
         },
         {
             "id": 10,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "10. Renal stone disease (2)\nA 35-year-old housewife presents to her GP with a week-long history of dysuria,\nfrequency and extremely strong smelling urine. A urine dipstick test confirms\nthe presence of leucocytes and nitrites. She has previously suffered from mul-\ntiple urinary tract infections, which have resolved with a short course of antibi-\notics. To rule out further complications of the urinary tract, an ultrasound scan\nis performed, which suggests the presence of a large calculus within the left\npelvicalyceal system. Which one of the following microorganisms is *not* associ-\nated with the formation of such stones?",
             "options": [
                 "A. Proteus",
@@ -143,7 +143,7 @@
         },
         {
             "id": 11,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "11. Renal stone disease (3)\nA 75-year-old man presents to the surgical unit with a 24-hour history of acute-\nonset left loin pain, which seems to worsen intermittently and has not settled\nwith regular simple analgesia. He suffers from mild dementia and is unable to\nrecall the details of his past medical history. The foundation year 2 doctor on\ncall suspects that a urinary calculus is the cause of this man's pain and spots an\nold pathology report in the patient's notes showing the presence of negatively\nbirefringent crystals in a synovial fluid aspirate. Which one of the following\nsubstances is likely to make up the majority of this man's calculus?",
             "options": [
                 "A. Xanthine",
@@ -157,7 +157,7 @@
         },
         {
             "id": 12,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "12. Urological infection (1)\nA 24-year-old sexually active medical student is diagnosed as having a urinary\ntract infection by her GP. Which one of the following organisms is most com-\nmonly associated with community acquired urinary tract infection?",
             "options": [
                 "A. Escherichia coli",
@@ -171,7 +171,7 @@
         },
         {
             "id": 13,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "13. Urological infection (2)\nA 40-year-old female lawyer is referred to the urology outpatient clinic with a\nhistory of multiple urinary tract infections over the preceding 10 years, which\nhave required increasingly longer courses of antibiotics to treat. She also reports\nfeeling more lethargic of late, despite leading a relatively active lifestyle. An\nultrasound scan of this patient's renal tract indicates chronic pyelonephri-\ntis. Which of the following sonographic features would be diagnostic of her\ncondition?",
             "options": [
                 "A. Absent kidney",
@@ -185,7 +185,7 @@
         },
         {
             "id": 14,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "14. Urethral discharge\nA 28-year-old student presents with a 2-day history of dysuria and mucopuru-\nlent urethral discharge. He reports recently having had unprotected sex while\non holiday in the Mediterranean. A urethral discharge smear inoculated into\nThayer-Martin medium confirms infection with *Neisseria gonorrhoeae* and\nappropriate antibiotics are started. What type of organism is *N. gonorrhoeae*?",
             "options": [
                 "A. Lactose-fermenting Gram-negative rod",
@@ -199,7 +199,7 @@
         },
         {
             "id": 15,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "15. Urological disease\nA 69-year-old diabetic man presents to the acute surgery unit with a 5-day his-\ntory of mild dysuria, frequency and feeling generally unwell. On examination,\nhe is found to be pyrexial and tachycardic. A genital examination reveals both\nthe penis and the scrotum to be swollen, red and tender to touch, with ery-\nthema also extending into the groin bilaterally. Of note, the examining surgeon\nbelieves that there is palpable crepitus in the perineum. Routine bloods and\ncultures are taken (which later grow both aerobic and anaerobic organisms), and\nfluid resuscitation and broad-spectrum antibiotics are commenced. Following\nfurther discussion with a urologist, he is taken promptly into the operating the-\natre for definitive management. The most likely diagnosis in this patient is",
             "options": [
                 "A. Fournier's gangrene",
@@ -213,7 +213,7 @@
         },
         {
             "id": 16,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "16. Rhabdomyolysis\nA 45-year-old railway worker is admitted following a crush injury to his left\nleg. He is talking in full sentences and complaining of pain in his leg. Further\nexamination reveals a blood pressure of 90/58 mmHg, pulse of 99 beats/min,\nand a swollen and bruised left leg. Intravenous access is gained, routine blood\nsamples are taken and fluid resuscitation is commenced. In addition, the patient\nis catheterized for monitoring purposes but passes only a small volume of red-\nbrown urine, which, on microscopy, is confirmed to contain myoglobin. The\nadmitting physician makes a working diagnosis of rhabdomyolysis. Which one\nof the following metabolic abnormalities is *not* associated with this condition?",
             "options": [
                 "A. Hypocalcaemia",
@@ -227,7 +227,7 @@
         },
         {
             "id": 17,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "17. Inherited urological disease\nA 41-year-old man presents to the emergency department with a severe head-\nache that started suddenly following a weight-training session. He is treated\nappropriately and further examination some days later reveals a palpable lump\nin the left loin. An ultrasound scan confirms multiple kidney cysts and hepato-\nmegaly, suggestive of adult polycystic kidney disease. On further questioning,\nhe reports that his father died of a brain haemorrhage at the age of 35. Adult\npolycystic kidney disease is most commonly inherited by which one of the fol-\nlowing modalities?",
             "options": [
                 "A. Autosomal recessive gene chromosome 16",
@@ -241,7 +241,7 @@
         },
         {
             "id": 18,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "18. Paediatric urology (1)\nA 6-week-old boy presents with his parents to the specialist paediatric urology\noutpatients department. The family is Jewish and at the time of the boy's circum-\ncision were told by their rabbi that the urethral meatus was not in the normal\nposition. On examination, the meatus is on the ventral surface just below the\nglans penis. What is the most likely diagnosis?",
             "options": [
                 "A. Hypospadias",
@@ -255,7 +255,7 @@
         },
         {
             "id": 19,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "19. Paediatric urology (2)\nA young girl presents to her GP with a 2-day history of fever and swelling on the\nleft side of her abdomen. Examination confirms a raised temperature and left\nloin swelling extending into the mid-line. In addition, microscopic haematuria\nis found on a urine dipstick test. She is referred to the local hospital where an\nultrasound scan of the abdomen and biopsy confirm Wilm's tumour (nephro-\nblastoma). Which one of the following statements regarding Wilm's tumour is\ntrue?",
             "options": [
                 "A. The tumour may be associated with anophthalmia",
@@ -269,7 +269,7 @@
         },
         {
             "id": 20,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "20. Preoperative assessment\nA 65-year-old hypertensive man attends the preoperative assessment clinic\n7 days before he is due to undergo a transurethral resection of the prostate for\nbengn prostatic hypertrophy. He is currently taking furosemide for blood pres-\nsure control but no other regular medication. A routine set of bloods is taken,\nthe results of which show a potassium level of 2.7 mmol/L. On the basis of\nthis an electrocardiogram is requested. All of the following electrocardiographic\nchanges are characteristic of hypokalaemia, except",
             "options": [
                 "A. Left bundle branch block",
@@ -311,7 +311,7 @@
         },
         {
             "id": 23,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "23. Bladder malignancy (2)\nA 69-year-old retired canal engineer who has previously worked in North Africa\npresents to the urology outpatients department with a 2-month history of inter-\nmittent painless haematuria. A cystoscopy is performed showing a sessile mass\non the posterior bladder wall. A biopsy is taken of this mass, which confirms\ntransitional cell carcinoma invading the bladder muscle, but no local nodes are\ninvolved. A further staging computed tomography scan shows no distant metas-\ntases. According to the TNM classification, the tumour stage in this individual is",
             "options": [
                 "A. Tis Nx Mx",
@@ -339,7 +339,7 @@
         },
         {
             "id": 25,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "25. Testicular malignancy (2)\nA 36-year-old carpenter is diagnosed with a seminoma. To which lymph nodes\ndo a seminoma most commonly spread first?",
             "options": [
                 "A. Para-aortic lymph nodes",
@@ -367,7 +367,7 @@
         },
         {
             "id": 27,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "27. Peyronie's disease\nA 55-year-old solicitor presents to the urology outpatients department with a\n6-month history of abnormal angulated penis on erection. This has made sexual\nintercourse particularly difficult and painful and has been affecting his rela-\ntionship with his wife. After further questioning, a diagnosis of Peyronie's dis-\nease is offered. All of the following statements regarding Peyronie's disease are\ntrue, except",
             "options": [
                 "A. It is a connective tissue disorder of unknown origin",
@@ -395,7 +395,7 @@
         },
         {
             "id": 29,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "29. Prostatic disease\nAn 80-year-old man presents to his GP with a 6-month history of increasing\nurinary frequency. He passes urine approximately eight times during the day\nand six times each night, but feels that he has not completely voided. In addition,\nhe reports that his stream is very slow and finds it hard to stop, with micturi-\ntion prolonged due to terminal dribbling. He is otherwise fit and healthy with\nno other symptoms reported. On rectal examination, the prostate is found to be\nsmoothly enlarged with no other significant findings on systemic examination.\nWhich of the following layers of the prostate gland is likely to be enlarged in\nthis man?",
             "options": [
                 "A. Transition zone",
@@ -409,7 +409,7 @@
         },
         {
             "id": 30,
-            "question_type": "clinical_scenario",
+            "question_type": "mcq",
             "question": "30. Prostate cancer\nA 75-year-old man presents to the urology outpatient clinic with a 6-month\nhistory of urinary frequency associated with difficulty initiating micturition,\ndribbling on reaching the end of his stream and nocturia. A digital rectal exami-\nnation reveals a hard prostate gland. Core biopsy is performed on the gland and\nthe pathology report indicates the presence of a tumour involving most of the\nright lobe. According to the TNM classification, the tumour stage is",
             "options": [
                 "A. T2 N1 MO",
