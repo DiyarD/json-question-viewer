@@ -1,0 +1,260 @@
+{
+    "chapter_name": "The urinary bladder",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A The bladder is lined by transitional epithelium.",
+                "B Hypertrophy of the detrusor muscle results in bladder trabeculation.",
+                "C The epithelium of the trigone extends into the lower ends of ureters and proximal urethra.",
+                "D The internal sphincter prevents urinary incontinence.",
+                "E The distal urethral sphincter is supplied by S2-S4 fibres via the pudendal nerves."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "The bladder is lined by transitional epithelium as is the entire urinary tract, extending from the renal pelvis down to the distal urethra (in the male), to the tip of the glans, called the navicular fossa, where the lining is stratified squamous epithelium. In the female the transitional epithelium extends down until the proximal two-thirds of the urethra. The epithelium of the trigone does extend proximally to lower ends of ureters and distally down to the proximal urethra.\nHypertrophy of the detrusor muscle results in trabeculation of the bladder, the outcome of bladder outflow obstruction. Trabeculation later leads to sacculation and diverticula formation. The distal urethral sphincter is supplied by the S2–S4 fibres via the pudendal nerves. The internal sphincter is the smooth muscle around the male bladder neck, which prevents retrograde ejaculation and has no role in urinary continence."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "The following statements are true except:",
+            "options": [
+                "A Pubovesical ligaments anchor the bladder neck to the pubis.",
+                "B The bladder is supplied to a minor extent by the obturator and inferior gluteal arteries.",
+                "C The principal lymphatic drainage is to the external iliac nodes.",
+                "D Parasympathetic fibres provide the main motor innervation.",
+                "E The sympathetic input is from L1 to L4 segments."
+            ],
+            "answer": "E",
+            "explanation": "The sympathetic input is from the T10 to L2 segments passing via the presacral hypogastric nerves to the inferior hypogastric plexus. They convey afferents from the fundus responding to touch, temperature, pain and stretch information. The parasympathetic fibres derived from the S2 to S4 are the pelvic splanchnic nerves, which are motor helping to empty the bladder. Aspects of micturition are controlled centrally in the pons where detrusor activity is coordinated."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Extraperitoneal rupture is more common than intraperitoneal rupture.",
+                "B Extraperitoneal rupture mimics rupture of membranous urethra.",
+                "C CT scan is the investigation of choice.",
+                "D Retrograde cystography is useful in making a diagnosis.",
+                "E Laparotomy is required in all cases of bladder rupture."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Extraperitoneal rupture is much more common, occurring in about 80%. The causes are usually blunt trauma or iatrogenic injury, the latter occurring during inguinal hernia repair, hysterectomy, or operations on the rectosigmoid. This can mimic rupture of membranous urethra, particularly when it is associated with fracture pelvis. Intraperitoneal rupture occurs in a distended bladder when the patient, due to inebriation, is unaware of a full bladder and sustains blunt lower abdominal injury usually from an assault.\nThe ideal imaging is a CT scan although retrograde cystogram will also give the diagnosis (Figure 76.1).\nA laparotomy is not necessary in all cases of bladder rupture. Laparotomy is the treatment in intraperitoneal rupture. Here the torn edges are freshened, the rent closed with interrupted absorbable sutures and a urethral catheter left for about 10 days. In extraperitoneal injury, suprapubic or urethral drainage of the bladder for 10 days under antibiotic cover is the treatment."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "In acute retention the following statements are true except:",
+            "options": [
+                "A Bladder outlet obstruction is the most common cause in the male.",
+                "B Retroverted gravid uterus is a cause in the female.",
+                "C Non-urological conditions might cause acute retention.",
+                "D Suprapubic puncture should be done if urethral catheterisation fails.",
+                "E Once urine drains on passing the catheter, the balloon should be immediately inflated."
+            ],
+            "answer": "E",
+            "explanation": "Once the catheter has been successfully passed as evidenced by the passage of urine, the balloon should not be immediately inflated. The catheter should be further pushed into the bladder before the balloon is inflated to prevent the balloon being inflated within the prostatic urethra.\nIn the male the most common cause for acute urinary retention is bladder outlet obstruction, the causes of which might be benign prostatic hypertrophy (BPH) or carcinoma of the prostate. Patients who suffer from lower urinary tract symptoms (LUTS) might go into acute retention under the following circumstances: not able to void when necessary due to social reasons, having had too much alcohol and having had certain drugs such as diuretics, antihistamines, anti-cholinergics and tricyclic antidepressants.\nIn the female a retroverted gravid uterus might result in acute retention. Besides, there are non-urological conditions that might cause acute retention. This might be the first sign of certain neurological conditions such a spinal cord compression or multiple sclerosis; bladder or urethral calculus, acute perianal conditions, faecal impaction and following spinal anaesthesia."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "In chronic retention which of the following statements are true?",
+            "options": [
+                "A The patient complains of very severe pain from his distended bladder.",
+                "B Diuresis might follow catheterisation.",
+                "C Spinal cord injury might result in acute neuropathic bladder.",
+                "D Intermittent self-catheterisation is a form of treatment for patients with spinal cord injury.",
+                "E Bladder dysfunction can occur after radical rectal excision."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Once a patient with chronic retention is catheterised, he develops post-obstructive diuresis and might go into hypovolaemic shock. The patient should be closely monitored and volume loss is combated by intravenous normal saline. The patient will have bilateral hydronephrosis and hydroureter and require urgent urological management. Occasionally relief of the chronic retention might result in haematuria, because the distended urinary tract is decompressed. Once catheterised the catheter is connected to a closed drainage system and the patient started on prophylactic antibiotics.\nSpinal-cord injury produces spinal shock. This results in the inability of the detrusor to contract, resulting in bladder distension with overflow incontinence. This is treated by intermittent catheterisation and full urodynamic assessment undertaken once the patient is stable in a few weeks hence. The long-term aim would be to promote good bladder emptying to prevent upper-tract damage. One of the methods of achieving this is clean intermittent self-catheterisation (CISC). Those with poor emptying and low-bladder capacity might benefit from endoscopic sphincterotomy and condom drainage.\nUp to 15% of patients undergoing anterior resection or abdomino-perineal resection for cancer might fail to pass urine after removal of the urinary catheter. This is due to neurogenic bladder dysfunction from damage to inferior hypogastric plexus of nerves. The treatment is catheterisation, followed by thorough urodynamic investigation once the patient has fully recovered from the original operation.\nPatients with chronic urinary retention never have pain, so much so that the majority are unaware of the problem. Others might have incontinence due to retention with overflow."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "Which of the following statements is false?",
+            "options": [
+                "A Urodynamic studies are essential in the investigation of urinary incontinence.",
+                "B In men with bladder outflow obstruction, 50% have detrusor instability.",
+                "C Genuine stress incontinence (GSI) is from increased true detrusor pressure.",
+                "D Vesicourethral fistula might be a cause in the female.",
+                "E Intravesical Botox injection has a role in treatment."
+            ],
+            "answer": "C",
+            "explanation": "When there is increased intra-abdominal pressure as in coughing, sneezing and laughing, pressure within the urinary bladder is increased. This causes urinary leakage and is referred to as genuine stress incontinence. This is not due to true detrusor pressure.\nIncontinence of urine is a major part of lower urinary tract dysfunction. Urodynamic testing needs to be carried out in most of these patients and is essential in all patients who might proceed to an operation. In this investigation bladder filling and emptying is artificially simulated while measuring the pressure and taking tracings. In men, half the patients who have bladder outflow obstruction, detrusor instability is present. In men the normal voiding pressure should be less than 60 cm of H₂O and less than 40 cm H₂O in women with a flow rate of 20-25 mL/sec."
+        },
+        {
+            "id": 7,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Men are more often affected than women.",
+                "B An oxalate calculus develops in sterile urine.",
+                "C A cystine calculus is radio-opaque.",
+                "D Treatment is crushing with an optical lithotrite in all cases.",
+                "E In men with stones and outflow obstruction from enlarged prostate, both can be dealt with at the same time."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Bladder stones occur eight times more often in men. A primary bladder calculus is one that develops in sterile urine and an oxalate calculus is one of them. It grows slowly, is of moderate size and is solitary with an uneven surface. Although calcium oxalate is white, the stone is often dark-brown or black because it is impregnated with blood pigment. A cystine calculus occurs in cystinuria and is radio-opaque because of its high sulphur content. A triple phosphate calculus is composed of ammonium, calcium and magnesium phosphate and might occur around a foreign body (Figure 76.2).\nWhen a stone occurs in a male patient due to stasis from bladder outflow obstruction from an enlarged prostate, both the cause and the effect can be treated at the same time. An open prostatectomy can be carried out; during the procedure the stone is also removed. Obviously the condition can also be treated by minimal access surgery by the transurethral route.\nWhile most bladder stones can be treated by minimal-access surgery by litholapaxy using an optical lithotrite, the procedure is contraindicated in patients below 10 years for fear of damaging the urethra and causing a stricture."
+        },
+        {
+            "id": 8,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A They are diagnosed when they produce double micturition and repeated urinary tract infections.",
+                "B All bladder diverticula must be excised.",
+                "C Trabeculation and sacculation precede diverticula formation.",
+                "D The normal intravesical pressure during voiding is 35-50 cm H₂O.",
+                "E Haematuria is a symptom in 30%."
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "As a result of long-standing obstruction there is a rise in intra-vesical pressure, which might go up to 150 cm of H₂O (normal voiding pressure is 35–50 cm H₂O). This initially causes hypertrophy of the bladder musculature, resulting in trabeculation; as the pressure continues, this causes the inner layer of the hypertrophied muscle to protrude causing sacculation. Ultimately, a diverticula (consisting of only the mucosa) forms at the site of maximum weakness, which is the ureteric orifice (Figure 76.3)."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "Which of the following statements is not true?",
+            "options": [
+                "A Most urinary fistulae are vesicovaginal.",
+                "B A combined ureterovaginal fistula might be present in 10% of patients.",
+                "C Examination under anaesthesia (EUA), intravenous urogram (IVU) and cystoscopy are necessary to evaluate them.",
+                "D When there are multiple tracts, the causes might be radiation, malignancy, or sepsis.",
+                "E Conservative management by catheter drainage of the bladder is usually successful in a post-hysterectomy fistula."
+            ],
+            "answer": "E",
+            "explanation": "Conservative management of a vesicovaginal fistula by urethral bladder drainage is rarely successful in a fistula following hysterectomy. Most urinary fistula are vesicovaginal and the result of prolonged or neglected labour – the result of ischaemic necrosis of the bladder from prolonged pressure of the foetal head in obstructed labour. In one in 10 patients there might be an associated ureterovaginal fistula.\nThorough evaluation is necessary for successful management. The diagnosis is established by the ‘three swab test', EUA (examination under anaesthesia), vaginoscopy, cystoscopy, IVU and, sometimes, retrograde pyelography.\nWhen there are multiple fistulous tracks the situation is quite complex and the cause can be malignancy, post-radiation, or sepsis. An intractable fistula indicates distal obstruction, chronic infection such as TB, a foreign body such as a stone, or non-absorbable sutures. A combined team effort between the gynaecologist and urologist yields the best outcome, the principles of surgery being good exposure, excision of diseased tissue and tension-free anatomical repair with good blood supply."
+        },
+        {
+            "id": 10,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A The condition is more common in women.",
+                "B In recurrent infections, haematuria and rigors, cystoscopy and imaging are essential.",
+                "C Sterile pyuria is a sinister finding.",
+                "D In tuberculous cystitis, the route of infection is usually haematogenous or lymphogenous",
+                "E Carcinoma in situ might present as recurrent abacterial cystitis."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Lower UTIs are much more common in women. They are usually associated with pyelonephritis and present with loin pain, fever, rigors and malaise, and might present with septicaemia. Recurrent infection in both sexes should be treated promptly with empirical antibiotics and thoroughly investigated with urine microscopy, IVU, US, CT scan and a cystoscopy, the latter being mandatory in haematuria. Urodynamic studies should be initiated in incomplete emptying.\nPredisposing causes are bladder outflow obstruction, neurogenic bladder dysfunction, stones, neoplasm, vesico-ureteric reflux and immunosuppression. Carcinoma in situ of the urinary bladder might often present as abacterial cystitis – hence the importance of cystoscopy. Sterile pyuria should always be looked upon as sinister as it is a feature of genitourinary TB.\nTuberculous cystitis is secondary to renal tuberculosis and not due to haematogenous or lymphogenous spread. Therefore, changes commence around the ureteric orifices and trigone in the form of pallor of the mucosa and submucosal oedema with tubercles appearing subsequently. Fibrosis causes the ureteric orifices to be indrawn and hence called ‘golf-hole' ureter; the bladder is small and contracted and referred to as ‘thimble' bladder, also the result of fibrosis."
+        },
+        {
+            "id": 11,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A More than 90% of primary bladder cancers are transitional cell carcinomas.",
+                "B Painful haematuria is the most significant symptom.",
+                "C In newly diagnosed patients, 70% do not invade muscle.",
+                "D In a quarter of new patients, the muscle is invaded.",
+                "E Depth of invasion (T) in TNM classification and grade (WHO classification I, II, III) are important factors in planning treatment."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "More than 90% of primary bladder cancers are urothelial in origin being transitional cell cancers. Squamous cancers account for about 5%, although this is higher in countries where bilharzia is endemic. Adenocarcinoma occurs in 1% to 2% arising from the urachal remnant or from glandular metaplasia.\nWhen new patients are diagnosed 70% do not invade the muscle and are hence pTa and pT1 tumours. In 25% of new patients, muscle-invasive disease pT2 is seen. In 5% carcinoma in situ (CIS) is seen as a flat noninvasive lesion. In planning treatment, accurate staging of the tumour is paramount. Depth of invasion (T) in TNM classification and WHO classification (grade I, II, III) are important in planning treatment and determining prognosis.\nIn the clinical presentation, bladder cancers classically produce painless, profuse, progressive and periodic haematuria; pain is conspicuous by its absence. If haematuria is painful in bladder cancer it denotes extravesical spread."
+        },
+        {
+            "id": 12,
+            "question_type": "msq",
+            "question": "Which of the following investigations are routinely carried out?",
+            "options": [
+                "A Urine cytology",
+                "B IVU and US",
+                "C Contrast-enhanced computed tomography (CECT) and MRI",
+                "D Bone scan",
+                "E Cystourethroscopy and bimanual examination"
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Urine cytology is only useful when positive; such a result is very specific and is particularly useful in high-grade disease and CIS. A negative result has no significance. Thorough urinary tract assessment is mandatory. IVU, still carried out in many centres, is fast becoming an obsolete investigation, being replaced by CECT and MRI. US will help in delineating irregularity of the bladder wall, hydronephrosis and show obstructive uropathy. Muscle invasion and lymph node metastasis are better demonstrated by cross-sectional MRI.\nCystourethroscopy supplemented by bimanual palpation and EUA is the keystone in the assessment. This manoeuvre should be carried out with the bladder empty before and after endoscopic resection of the tumour. It is bimanual palpability that will differentiate between a pT2 and pT3 tumour, the latter being palpable. Invasion into the prostate or vagina is pT4a and when fixed is pT4b. Bone scan, not a routine investigation, is carried out only if there is a strong suspicion of skeletal spread."
+        },
+        {
+            "id": 13,
+            "question_type": "msq",
+            "question": "In the treatment of bladder cancers, which of the following statements are true?",
+            "options": [
+                "A Non-muscle invasive (superficial) tumours are treated by endoscopic resection and a single dose of mitomycin instillation.",
+                "B Grade 3 superficial disease is best managed by BCG immunotherapy.",
+                "C External beam radiotherapy should be the first-line treatment in muscle-invasive disease.",
+                "D When the cancer has invaded muscle (pT2 and pT3) radical cystectomy and lymphadenectomy is the treatment of choice.",
+                "E Neoadjuvant cisplatin-based chemotherapy improves survival in muscle-invasive tumours."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Non-muscle invasive tumours are treated by endoscopic resection. A single dose of intravesical mitomycin decreases the risk of recurrence in pTa and pT1 grade 1 and 2 disease. In patients with high-grade pT1 tumour, when multiple or accompanied by CIS, immediate cystectomy is offered by some; others would treat the condition with endoscopic resection with BCG immunotherapy.\nIn muscle-invasive tumours, the treatment is debatable. Primary surgical treatment in the form of radical cystectomy and pelvic lymphadenectomy is regarded as the standard treatment. Preoperative systemic chemotherapy with a combination of cisplatin, methotrexate, doxorubicin and vinblastine has been shown to be beneficial. External-beam radiotherapy is not regarded as the best first-line treatment for muscle-invasive tumours, as some patients do not respond, others respond partially, whilst some others have very troublesome side effects. It is to be considered as an option in those who decline or are unfit for surgery."
+        },
+        {
+            "id": 14,
+            "question_type": "emq",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "A A 35-year-old male, a recent visitor from Egypt, attended the emergency department with painless terminal haematuria. He had a few similar episodes while at home in Egypt. Clinical examination revealed no abnormality. On flexible cystoscopy at the one-stop haematuria clinic, he was found to have scattered tubercles and islands of pale patches resembling sand.",
+                    "B A 70-year-old male, a heavy smoker for more than 50 years, complains of painless, profuse and periodic haematuria for 6 weeks. The blood is uniformly mixed with the urine. He has frequency of micturition and some retropubic discomfort. Clinical examination reveals no abnormality.",
+                    "C A 70-year-old male complains of poor micturition stream, post-micturition dribbling and a feeling of insufficient emptying of his bladder. He has some dysuria. On occasions he has found that shortly after micturition he again passes a large amount of urine. Clinical examination reveals no abnormality.",
+                    "D A 60-year-old man complains of haematuria and painful micturition, and he occasionally finds that his micturition stream suddenly stops. He has learned to re-start his stream by changing position. Clinical examination reveals no abnormality.",
+                    "E A 35-year-old female patient, a recent visitor from the Indian subcontinent, complains of frequency of micturition and bilateral loin discomfort. She has evening pyrexia, general malaise and weight loss. Clinical examination reveals no abnormality. Urine examination carried out by her doctor shows sterile pyuria."
+                ],
+                "choices": [
+                    "1 Bladder calculus",
+                    "2 Bladder carcinoma",
+                    "3 Bladder diverticulum",
+                    "4 Schistosomiasis of bladder",
+                    "5 Tuberculosis of the bladder"
+                ]
+            },
+            "answer": {
+                "A": "4",
+                "B": "2",
+                "C": "3",
+                "D": "1",
+                "E": "5"
+            },
+            "explanation": "1. D Bladder calculus\nMost bladder calculi are mixed. A primary calculus is one that develops in sterile urine such as an oxalate calculus. This is usually solitary, spiky and dark brown in colour as the white calcium oxalate is incorporated with blood pigment. A triple phosphate calculus, dirty white and chalky, is one that is composed of ammonium, magnesium and calcium and grows in urine infected with urea-splitting organisms. When there is a large intravesical prostate, urine stagnates in the retroprostatic pouch; infection supervenes and silent stones tend to form. It might also occur around a foreign body (Figure 76.2, see previously).\nThe incidence between the sexes is M:F 8:1. Pain in the form of strangury, dysuria, haematuria and sudden cessation of the urinary stream are the presenting features. Young boys pull on the prepuce or penis during micturition screaming with pain, a typical symptom of bladder calculus. When lodged within a bladder diverticulum, a stone is usually silent. A plain x-ray (Figure 76.4) followed by cystoscopy confirms the diagnosis.\n2. B Bladder carcinoma\nCarcinoma of the bladder is the fourth most common non-dermatological malignancy in men who are affected three times more than women. Smoking is the principal cause although exposure to urothelial carcinogens of a chemical nature might occur as an occupational hazard. Painless, progressive, profuse and periodic haematuria is the classical presentation and physical signs are few except for anaemia. The diagnosis is made by cystoscopy in a one-stop haematuria clinic.\nOnce diagnosed the patient should be accurately staged by CECT, MRI, US and IVU followed by cystourethroscopy and EUA with bimanual palpation, the latter also carried out after endoscopic resection. Management depends upon staging. An IVU (Figure 76.6) might be particularly useful when there is obstruction to a ureter with hydronephrosis and hydroureter. When bladder cancer is first diagnosed, 70% will be non-muscle invasive tumours (pTa and pT1), 25% will be muscle invasive (pT2 or pT3) while 5% will be CIS. Histologically more than 90% are TCC.\nTransurethral resection of bladder tumour (TURBT) is the treatment in pTa and pT1 tumours with a dose of mitomycin instillation. Treatment of muscle-invasive disease (pT2 and pT3) is debatable. TURBT is one choice; the other is radical cystectomy and pelvic lymphadenectomy. Those undergoing TURBT are kept under regular cystoscopic surveillance. In advanced cases such as pT4a or pT4b external-beam radiotherapy is the option.\n3. C Bladder diverticulum\nThis is the outcome of bladder outflow obstruction (BOO). In the vast majority of patients, the symptoms are related to BOO and the diverticulum happens to be an incidental finding seen on cystoscopy or US. Trabeculation and sacculation precede the formation of a diverticulum. They arise next to the ureter (para-ureteric), the site of maximum weakness. Rarely a large diverticulum might cause ureteric obstruction from peridiverticular inflammation.\nIn the majority these do not require any treatment. Tending to the BOO by transurtheral resection of the prostate (TURP) is all that is necessary. However, prior to doing a TURP, it is prudent to visualise the inside of the diverticulum to make sure that there is no pathology inside such as an unsuspected stone or cancer. The diverticulum needs to be excised if there are complications such as stone formation, tumour or persistent infection. Excision is carried out by the open procedure of intra and extravesical diverticulectomy after cannulating the ureter on the affected site to safeguard it from injury or instantly recognise any injury that might occur inadvertently.\n4. A Schistosomiasis\nThe condition is endemic in parts of the Middle East. It is caused by the trematode Schistosoma haematobium. The snail is the intermediate host for this parasite, which penetrates the human skin, while man, the definitive host, bathes in infected freshwater. The male and female worms, having attained sexual maturity in the liver, leave the hepatic circulation through the portosystemic anastomoses to enter the systemic circulation, where they have an affinity for the vesical venous circulation ultimately entering the urinary bladder.\nAfter the incubation period of 4 to 12 weeks patients might develop high evening temperature, sweating and asthma-like attacks. After several months of quiescence, patients develop intermittent, painless, terminal haematuria. There is eosinophilia. An early-morning specimen of the patient's urine is used to perform the ELISA test (enzyme-linked immunoabsorbent assay) using Schistosoma masnsoni microsomal antigen. A positive test is specific.\nA high index of suspicion helps in making the diagnosis, which is confirmed by cystoscopy. The findings on cystoscopy depend on the stage of the disease. From the earliest to the most advanced the appearances are pseudotubercles, nodules, ‘sandy patches', ulceration, fibrosis, granulomas and papillomas. In very late cases the end result might be a squamous carcinoma, bladder and bladder neck fibrosis and urethral strictures. Drug treatment in the form of a course of praziquantel is effective in the early stages.\n5. E Tuberculosis\nThis condition is still rife in developing countries. The infection spreads from the kidneys. The patient might also have pulmonary TB. Clinical features of weight loss, malaise, evening rise of temperature, dysuria, urinary frequency and painless haematuria might be present. Sterile pyuria is a typical finding on urine examination. Early morning urine (EMU) specimen should be sent for culture, which might take several weeks to obtain an answer.\nCystoscopic findings are typical. Tubercles might be seen in early stages; undermined ulcer, a small contracted bladder and 'golf-hole' ureteric orifices due to fibrosis may be the other findings. The patient is treated with anti-tuberculous chemotherapy. Depending upon the extent of the disease, the patient might require nephro-ureterectomy. A permanently contracted bladder (‘thimble' bladder) will require bladder augmentation procedures such as ileocystoplasty or caecocystoplasty."
+        }
+    ]
+}

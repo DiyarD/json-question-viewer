@@ -1,0 +1,199 @@
+{
+    "chapter_name": "Paediatric orthopaedics",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "1. Which of the following statements are false regarding development and normal variants seen in paediatric orthopaedics?\nA Limb bud embryogenesis commences at\n4 weeks after fertilisation.\nB An in-toeing gait is associated with a\nnegative foot progression angle.\nC In-toeing can be caused by persistent\nfemoral neck retroversion.\nD All children start with bowlegs and progress\nto knock-knees by 2 to 3 years of age.\nE Children under the age of 3 years\ncommonly have flat feet.",
+            "options": [
+                "A Limb bud embryogenesis commences at 4 weeks after fertilisation.",
+                "B An in-toeing gait is associated with a negative foot progression angle.",
+                "C In-toeing can be caused by persistent femoral neck retroversion.",
+                "D All children start with bowlegs and progress to knock-knees by 2 to 3 years of age.",
+                "E Children under the age of 3 years commonly have flat feet."
+            ],
+            "answer": "C",
+            "explanation": "An in-toeing gait is defined by a negative foot progression angle and common causes or locations are persisting femoral neck anteversion, internal tibial torsion and metatarsus varus (Table 41.1). Most of these conditions correct themselves as the child grows.\nLimb bud embryogenesis starts very early (around week 4) and is complete by week 8 (all within the first trimester). This is the same time as some internal organs, such as the heart, are forming. This means that certain limb bud abnormalities are associated with specific cardiac abnormalities because both are the result of the same insult to the embryo at that critical time. Children start with bowlegs and become knock-knees by 2 to 3 years of age, and then stabilise at 7º valgus by 7 years old. Pathological causes for persistent deformity are rickets, skeletal dysplasia, or trauma. Children under the age of 3 years commonly have flat feet until the development of the medial longitudinal arch. Flat feet are associated with a valgus heel, i.e., planovalgus foot. There are two types of persistent flat feet – flexible (tiptoe arch = restores, heel corrects into varus) and rigid (does not correct on tiptoe). Flexible flat feet do not routinely require intervention. Rigid flat feet are associated with inflammatory conditions or tarsal coalition and are likely to require intervention."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. In relation to congenital and developmental skeletal abnormalities, which of the following statements are false?\nA Fibular hemimelia is a transverse failure\nof formation of parts.\nB Congenital constriction band syndrome\noften affects the hands and feet.\nC Gigantism is an example of an\novergrowth malformation.\nD Achondroplasia is associated with a\ndefect in the FGFR3 gene.\nE Reduced intake of vitamin D and calcium\nis associated with rickets.",
+            "options": [
+                "A Fibular hemimelia is a transverse failure of formation of parts.",
+                "B Congenital constriction band syndrome often affects the hands and feet.",
+                "C Gigantism is an example of an overgrowth malformation.",
+                "D Achondroplasia is associated with a defect in the FGFR3 gene.",
+                "E Reduced intake of vitamin D and calcium is associated with rickets."
+            ],
+            "answer": "A",
+            "explanation": "Fibular hemimelia is a longitudinal, not transverse, failure of formation of parts. Gigantism and macrodactyly are examples of overgrowth. Congenital constriction band syndrome does routinely affect the hands and feet of children, with associated poor digit formation. Achondroplasia is a generalised skeletal dysplasia caused by an abnormality of enchondral bone formation and is associated with a defect of the fibroblast growth factor receptor 3 gene. Clinical manifestations include disproportionate dwarfism (limbs shorter than trunk), underdeveloped foramen magnum, varus deformity of the distal tibia and spinal stenosis. Rickets is characterised by failure of mineralisation of growing bone. The most common cause is nutritional, i.e., vitamin D deficiency. Other causes include environmental (reduced sunlight exposure), genetic (hypophosphataemic rickets), renal (chronic renal failure), GI (Crohn's) and drugs (bisphosphonates). Patients can present with bone pain or deformity and failure to thrive or developmental delay."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. In relation to DDH, which of the following statements are false?\nA It is more common in boys than in girls.\nB It is associated with a breech presentation.\nC It is more common in first born.\nD It can be assessed clinically using Ortolani\nand Barlow examination manoeuvres.\nE Ultrasonography is the best diagnostic\ntool in the neonate.",
+            "options": [
+                "A It is more common in boys than in girls.",
+                "B It is associated with a breech presentation.",
+                "C It is more common in first born.",
+                "D It can be assessed clinically using Ortolani and Barlow examination manoeuvres.",
+                "E Ultrasonography is the best diagnostic tool in the neonate."
+            ],
+            "answer": "A",
+            "explanation": "Developmental dysplasia of the hip is approximately five times more common in girls, the left hip (4:1) and is bilateral in 10%–30%. It is thought to present in ≤20% of breech deliveries (particularly extended breech). It is more common in the first born, with a strong genetic component (strong family history, population prevalence, e.g., North American Inuit) suspected. It is associated with other congenital abnormalities including spina bifida, clubfoot, Down syndrome and arthrogryposis. Newborn baby checks at birth and 6 weeks should assess for hip instability. The two classical clinical tests are (Figure 41.1) the following: • Ortolani's test (Figure 41.1a) is reducing the dislocated hip: Baby is supine with hips and knees flexed to approximately 90 degrees, thumbs over inner thighs and fingers over greater trochanters, hips are carefully abducted and the test is positive if a palpable or audible clunk is felt or heard as the femoral head reduces. • Barlow's test (Figure 41.1b) is dislocating the reduced hip: Baby is supine with hips and knees flexed to approximately 90 degrees in adduction, femurs are pushed toward the couch and the test is positive if the femoral head subluxes or dislocates. Ultrasound is used in the diagnosis and monitoring treatment for the neonate as neither the femoral head nor the acetabulum can be visualised on x-ray at birth, as they have not yet ossified (<6 months)."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. In relation to Legg-Calvé-Perthes' disease, which of the following statements are false?\nA Perthes' disease is an idiopathic\navascular necrosis (AVN) of the proximal\nfemoral epiphysis.\nB It commonly affects boys.\nC Low birth weight is a risk factor.\nD Sickle cell disease could lead to a similar\npresentation.\nE Age of onset does not influence\nprognosis.",
+            "options": [
+                "A Perthes' disease is an idiopathic avascular necrosis (AVN) of the proximal femoral epiphysis.",
+                "B It commonly affects boys.",
+                "C Low birth weight is a risk factor.",
+                "D Sickle cell disease could lead to a similar presentation.",
+                "E Age of onset does not influence prognosis."
+            ],
+            "answer": "E",
+            "explanation": "Legg-Calvé-Perthes' is an idiopathic AVN of the proximal femoral epiphysis. It is of unknown aetiology, although low birth weight, delayed bone age, low socioeconomic status and secondhand smoking have been implicated. The presentation can mimic other causes of AVN of the femoral head, e.g., sickle cell disease, infection, steroids and hypothyroidism. The incidence is approximately 1 in 12,000 and affects boys (4:1) predominantly between the ages of 4 and 8 years. Diagnosis is made using x-rays (AP and frog lateral) +/– further imaging (e.g., MRI), with the Herring lateral pillar classification (A = no loss of lateral pillar, B = <50% loss of lateral pillar, C =>50% loss of lateral pillar) commonly used. Treatment depends on the age of onset, timing of presentation and severity of disease. The prognosis is improved with a younger age of onset, as there is greater remodelling potential."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "5. In relation to slipped upper femoral epiphysis, which of the following statements are true?\nA The peak age of onset is 6 years.\nB Pain in the knee is uncommon.\nC Hypothyroidism is a risk factor for SUFE.\nD A mild slip is when <50% of the\nmetaphysis is uncovered.\nE Anatomical reduction and pinning is the\noptimal treatment.",
+            "options": [
+                "A The peak age of onset is 6 years.",
+                "B Pain in the knee is uncommon.",
+                "C Hypothyroidism is a risk factor for SUFE.",
+                "D A mild slip is when <50% of the metaphysis is uncovered.",
+                "E Anatomical reduction and pinning is the optimal treatment."
+            ],
+            "answer": "C",
+            "explanation": "SUFE is characterised by a ‘stress fracture' through the physis of the proximal femur resulting in epiphyseal posterior-inferior displacement. The overall incidence is ~5/100,000 population. The peak age of onset is related to the onset of puberty (~10–14 years); hence, it is seen at an earlier age in girls. Boys are more frequently affected (3:1), with ~25% of cases bilateral, and only one in four presenting concomitantly. Knee pain (along with a shortened and externally rotated leg) is a common presentation as Hilton's law states that the nerve supply to a joint is the same as the muscles acting over it. Risk factors include endocrine (growth or gonadal) disorders, e.g., hypothyroidism, renal failure, previous radiotherapy (local or pituitary), delayed puberty and obesity. AP and frog leg lateral radiographs are essential in the diagnosis (Figure 41.2). Classification can be made according to the chronicity (acute, acute on chronic, chronic), the weight-bearing status with or without crutches (Loder – stable or unstable), or severity of the slip (<33% mild, 33%–66% moderate, >66% severe). For mild and moderate slips, pinning in situ is recommended. For severe slips, a femoral osteotomy might be required. Attempt is not routinely made to reduce the slip, as it is a major risk of damaging the blood supply to the femoral head leading to AVN. Therefore, in all but the most acute slips, the head is fixed in its slipped position using a single screw. As the contralateral hip is commonly involved, some surgeons will choose to pin this prophylactically before it has a chance to slip."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. In relation to congenital taclipes equinovarus (CTEV), which of the following statements are false?\nA It is more common in boys.\nB Spina bifida is associated with CTEV.\nC Deformity is characterised by hindfoot\nequinus or varus and forefoot abduction\nor supination.\nD Pirani scoring system is used to\nassess the severity of CTEV and guide\nprognosis.\nE The Ponseti method for correcting\ndeformity is successful in over ~90%\ncases.",
+            "options": [
+                "A It is more common in boys.",
+                "B Spina bifida is associated with CTEV.",
+                "C Deformity is characterised by hindfoot equinus or varus and forefoot abduction or supination.",
+                "D Pirani scoring system is used to assess the severity of CTEV and guide prognosis.",
+                "E The Ponseti method for correcting deformity is successful in over ~90% cases."
+            ],
+            "answer": "C",
+            "explanation": "CTEV has a reported incidence of 1–6/1000 births, with higher incidences reported amongst certain races and the developing world. It is more frequently found in boys (2–3:1) and is bilateral in ~50% of cases. Most cases are idiopathic or might be postural. Other cases can be associated with neuromuscular (spina bifida, arthrogryposis) or syndromic (trisomy 15) disorders. The classical deformity is with the hindfoot in equinus and varus, with the forefoot in adduction and supination relative to the hindfoot. A variety of classification of scoring systems exist, with the Pirani scoring system used to determine prognosis according to the position of the foot (hind and midfoot contracture scores). The Ponseti method uses a series of manoeuvres, casting and then foot abduction orthoses to correct the deformity over time. It is a popular method with quoted success rates at 90%–95%."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "7. A child presents with chronic lower back pain and subsequent x-rays reveal a spondylolisthesis of L5/S1, with a 60% slip. What is the Grade of this patient's slip?\nA 1\nB 2\nC 3\nD 4\nE 5",
+            "options": [
+                "A 1",
+                "B 2",
+                "C 3",
+                "D 4",
+                "E 5"
+            ],
+            "answer": "C",
+            "explanation": "Spondylolisthesis is defined by the anterior translation of one upper vertebra over the one inferior to it. It is often seen as the final stage of a continuum that begins with a stress reaction within the pars interarticularis, a pars defect (spondylolysis) and then finally a spondylolisthesis. It is a common cause for lower back pain in the paediatric population and most frequently found at the L5/S1 level. A variety of classifications exist, with the six types most commonly described as follows: 1 Congenital (dysplastic) 2 Isthmic (pars weak/elongated/fractured) 3 Degenerative 4 Traumatic 5 Post-surgical 6 Pathological/neoplastic The Myerding classifies spondylolisthesis according to the severity of the slip (Table 41.2). Management is determined by the severity of symptoms, in particular the presence of neurology, which is often associated with the severity of the slip."
+        },
+        {
+            "id": 8,
+            "question_type": "emq",
+            "question": "For each of the following cases, select the single most appropriate diagnosis from the options listed. Each option may be used once, more than once, or not at all.",
+            "options": {
+                "items": [
+                    "A A young man complains of clunking and locking of the knee. MRI shows that a fragment of the femoral condyle has broken off and is jamming in the joint.",
+                    "B A child has a knee that clunks and locks. An MRI shows an abnormal lateral meniscus, which is a solid disc rather than a crescent.",
+                    "C A child presents with a painful lump over the tibial tubercle.",
+                    "D A teenage girl has pain that appears to arise from patellofemoral maltracking.",
+                    "E A West Indian child presents with varus bowing of the tibia."
+                ],
+                "choices": [
+                    "1 Blount's disease",
+                    "2 Chondromalacia patellae",
+                    "3 Discoid meniscus",
+                    "4 Osgood-Schlatter disease",
+                    "5 Osteochondritis dissecans",
+                    "6 Pseudoarthrosis of the tibia"
+                ]
+            },
+            "answer": {
+                "A": "5",
+                "B": "3",
+                "C": "4",
+                "D": "2",
+                "E": "1"
+            },
+            "explanation": "A. 5 Osteochondritis dissecans\nFragments of the femoral condyle can be lost in a condition called osteochondritis dissecans. These loose fragments can jam in the joint and cause locking.\nB. 3 Discoid meniscus\nA second possibility for a clunking, locking knee is the congenital abnormality of the lateral meniscus called discoid meniscus. In these cases, the cartilage is not a crescent but has a solid centre-like a disc. This meniscus is susceptible to tears and then causes locking in the knee.\nC. 4 Osgood-Schlatter disease\nA painful lump over the tibial tubercle in an adolescent is Osgood–Schlatter disease, an inflammation of the epiphysis under the tibial tubercle. It usually settles spontaneously.\nD. 2 Chondromalacia patellae\nPain and possible maltracking of the patella is called chondromalacia patellae. It is most painful when going up and down stairs and after sitting still for a long period.\nE. 1 Blount's disease\nVarus bowing in a West Indian child might be caused by rickets. However, this case is more likely to be Blount's disease, which is an abnormality of growth of the proximal tibial epiphysis."
+        },
+        {
+            "id": 9,
+            "question_type": "emq",
+            "question": "For each of the following cases, select the single most appropriate diagnosis from the options listed. Each option may be used once, more than once, or not at all.",
+            "options": {
+                "items": [
+                    "A A child presents with a fixed-flexion deformity of the proximal interphalangeal joint of the little finger.",
+                    "B A child with known cardiorespiratory problems since birth presents with a deformity to the forearm and an absent thumb.",
+                    "C A child with Down's syndrome is found to have a congenital curvature of the little finger in the radioulnar plane.",
+                    "D A 4-year-old child complains of an inability to rotate his forearm. His mother tells you that she had a similar problem when she was a child.",
+                    "E A mother presents with her 6-month-old girl and says that she appears unable to extend her thumb and has a lump over the palmar aspect of the thumb."
+                ],
+                "choices": [
+                    "1 Camptodactyly",
+                    "2 Clinodactyly",
+                    "3 Congenital radial head dislocation",
+                    "4 Radial club hand",
+                    "5 Radioulnar synostosis",
+                    "6 Syndactyly",
+                    "7 Trigger thumb"
+                ]
+            },
+            "answer": {
+                "A": "1",
+                "B": "4",
+                "C": "2",
+                "D": "5",
+                "E": "7"
+            },
+            "explanation": "A. 1 Camptodactyly\nCamptodactyly is rare (prevalence <1%) and characterised by a fixed-flexion deformity that usually affects the proximal interphalangeal joint of the little finger. Splinting and physiotherapy are the primary treatment, with surgery reserved for progressive severe cases that cause functional disability.\nB. 4 Radial club hand\nRadial club hand or radial deficiency is defined as a longitudinal failure of formation of the radius. It is rare (incidence is less than 1 in 100,000) and bilateral in ~50%–70% of cases. It is associated with other developmental abnormalities, e.g., VACTERL syndrome (abnormal vertebrae, anal atresia, cardiovascular system, trachea, oesophagus atresia, tracheoesophageal fistula, renal agenesis, limb defects). The Bayne and Klug classification is used to classify it. Treatment is determined by the severity of the disease, e.g., presence of the thumb and clinical picture. Conservative measures include physiotherapy and stretching, while surgery involves hand centralisation +/– thumb reconstruction.\nC. 2 Clinodactyly\nClinodactyly is characterised by a congenital curvature of the finger (middle phalanx of little finger often) in the radioulnar plane. It has an autosomal dominant inheritance and prevalence is increased in patients with Down syndrome. Most cases can be observed, with surgery (e.g., open wedging osteotomy) reserved for progressive severe cases that cause functional disability.\nD. 5 Radioulnar synostosis\nCongenital radioulnar synostosis is caused by failure of separation of the proximal radius and ulna. A genetic component has been noted. Patients often present at 3 to 5 years of age with a functional disability, as they are unable to supinate, and often to a lesser degree pronate, the forearm. X-rays of the affected elbow and forearm will confirm the diagnosis. Observation is routinely all that is required, with osteotomy and fusion reserved for severe cases that require a functional amount of pronation or supination.\nE. 7 Trigger thumb\nCongenital trigger thumb affects the interphalangeal joint of the thumb and is caused by restriction of the flexor pollicis longus tendon at the A1 pulley. Patients under 1 year of age have a one in three chance of resolution, while patients over 1 year of age have less than a one in 10 chance of resolution. Treatment is with surgical release of the A1 flexor tendon pulley."
+        },
+        {
+            "id": 10,
+            "question_type": "emq",
+            "question": "For each of the following cases, select the single most appropriate diagnosis from the options listed. Each option may be used once, more than once, or not at all.",
+            "options": {
+                "items": [
+                    "A A child who had a febrile illness now has marked motor weakness and wasting in the lower legs but no sensory loss.",
+                    "B A teenager presents with a curve of the spine, which produces a rib hump when he tips forward to touch his toes.",
+                    "C A teenager starts to develop sloping shoulders and a prominent thoracic kyphosis.",
+                    "D A child is born with the head fixed to one side, due to a contracture of the sternocleidomastoid.",
+                    "E After a difficult breech birth, a child is noted to have a flaccid arm."
+                ],
+                "choices": [
+                    "1 Brachial plexus injury",
+                    "2 Cerebral palsy",
+                    "3 Congenital abnormality of a vertebra",
+                    "4 Idiopathic scoliosis",
+                    "5 Leg-length inequality",
+                    "6 Muscular dystrophy",
+                    "7 Polio",
+                    "8 Scheuermann's disease",
+                    "9 Spina bifida",
+                    "10 Spondylolisthesis",
+                    "11 Torticollis"
+                ]
+            },
+            "answer": {
+                "A": "7",
+                "B": "4",
+                "C": "8",
+                "D": "11",
+                "E": "1"
+            },
+            "explanation": "A. 7 Polio\nPolio presents as a febrile illness that then goes on to permanently damage the anterior horn cells of the spinal cord, causing muscle weakness but no sensory changes. The motor signs are lower, not upper, and are not progressive.\nB. 4 Idiopathic scoliosis\nIdiopathic scoliosis is primarily a rotational curvature deformity of the spine, which develops in the rapidly growing spine. In this condition, the spine rotates more as the child bends forward, creating the characteristic rib hump. Scoliosis can be defined according to the age of onset (Table 41.3). The Cobb angle is a radiographic measurement of deformity and aims to guide treatment (<20 degrees = observation; 25–40 degrees = bracing; >40 degrees = consider surgery).\nC. 8 Scheuermann's disease\nScheuermann's kyphosis is a growth abnormality of the spine, which also develops during the adolescent growth spurt. Kyphosis exceeds the normal range of 20–50 degrees. It is characterised by ≥5 degrees of vertebral wedging at three adjacent levels with associated end-plate changes.\nD. 11 Torticollis\nA twisted neck is called torticollis and in this case, it is congenital and is caused by contracture and even a fibrous mass in the sternocleidomastoid muscle. It is associated with other congenital abnormalities, such as developmental dysplasia of the hip.\nE. 1 Brachial plexus injury\nA child with a flaccid arm after birth may have suffered injury to the brachial plexus. This is associated with a breech delivery."
+        }
+    ]
+}

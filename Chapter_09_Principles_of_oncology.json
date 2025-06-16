@@ -1,0 +1,133 @@
+{
+    "chapter_name": "Principles of oncology",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "msq",
+            "question": "Which of the following statements are true regarding characteristics that cells should acquire before they are fully malignant?",
+            "options": [
+                "A Establish an autonomous lineage.",
+                "B Develop apoptosis.",
+                "C Ability to invade.",
+                "D Ability to disseminate and implant.",
+                "E Ability to change energy metabolism."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The cancer cell is independent of signals that control the process of multiplication, thus distinguishing it from the normal cell. In normal wound healing, cellular proliferation is coordinated in an orderly manner such that the process occurs when it is needed, as in injury, and ceases when healing is complete. Cancer cells are free from such constraints, causing them to grow and proliferate and thus demonstrating their autonomous nature. In the human body, there are aberrant forms of normal cellular genes, called oncogenes, responsible for malignant change.\nCancer cells do not respect tissue planes and have the ability to break into the basement membrane and invade blood and lymphatic vessels, which form the perfect transport system to metastasise. The cells secrete enzymes, collagenases and proteases, which dissolve the boundaries formed by extracellular matrix, thus helping their invasion and spread.\nHaving gained access to the lymphatics and blood vessels, the body's natural transport system, the cancer cell develops the propensity to disseminate throughout the body. The 'seed and soil hypothesis' of Stephen Paget explains the ability of certain host organs to ‘invite' clinical metastases. Although the cancer cell (seed) may settle into an organ (soil), the cell may not grow to form a clinical metastasis. When the soil is fertile, as in liver, lungs, bone, brain and lymphatics, implantation of the cancer cell occurs, producing overt metastases. This is done by the cancer cells producing inflammatory cytokines, making the soil fertile enough to allow the seed to grow into a ‘plant or sapling' (metastasis).\nBlood flow within a tumour is haphazard. This may result in the cancer cell living in an environment of hypoxia or at times where there is profuse vascularity when oxygen is abundant. In the latter situation there is aerobic (oxygenated) glycolysis causing the pyruvate to go to the mitochondria ultimately producing lactate. The cancer cells use this to produce energy. This phenomenon is called the Warburg effect, which was first described by Otto Warburg, a Nobel Laureate. The phenomenon of aerobic glycolysis is used in the technique of positron emission tomography (PET) scanning, which uses radiolabelled glucose to see tumours.\nApoptosis is programmed cell death seen in the normal human and is a physiological process that is a self-regulatory mechanism in growth and development. Cancer cells evolve mechanisms to prevent apoptosis. For example, the p53 gene is a tumour suppressor gene that activates apoptosis. Loss of function in such a tumour suppressor gene will contribute to malignancy."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "The following statements are true about cancer cells except:",
+            "options": [
+                "A Obtain immortality.",
+                "B Acquire angiogenic competence.",
+                "C Acquire genomic stability.",
+                "D Tumour-related inflammation promotes malignant change.",
+                "E The major part of cell growth has occurred before the tumour is clinically apparent."
+            ],
+            "answer": "C",
+            "explanation": "It is genomic instability that contributes to cancer development. As the pathogenesis of cancer involves multiple genetic events, genomic instability contributes to mutations in the DNA of tumour cells. The most important factor of genomic instability is chromosome instability.\nA normal cell in the human body undergoes a finite number of divisions. This limitation is caused by shortening of the end of the chromosome (telomere) every time the cell divides. With each cell division there is telomeric attrition, which ultimately causes cell death. But cancer cells produce an enzyme telomerase that extends the length of the telomeres, thus allowing continued cell division thereby conferring on the cancer cell the quality of immortality. Along with the ability of immortality, cancer cells have the unique ability in a tumour to form new blood vessels, a phenomenon termed ‘angiogenic competence'.\nAnother aspect that perpetuates the growth of malignancy is the ability of a tumour to provoke an inflammatory response. This produces cytokines that help to elaborate growth factors, angiogenic factors (see previous section) and anti-apoptotic factors, all of which contribute to the progression of a tumour. A certain feature of cancer biology is the unpredictable nature of the condition. The unpredictable nature of cancer is obvious by the clinical application of the Gompertzian growth factor (Gompertz being an insurance actuary). The major part of the growth of a tumour has occurred before it is clinically detected; when tumours are detected they have passed their stage of most rapid growth, thus making them less amenable to chemotherapy. In many patients at presentation cancer has already become a systemic disease."
+        },
+        {
+            "id": "3",
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Environmental factors have been the cause in >80% of cancers.",
+                "B Genetic inheritance has a role in 20% of cancers.",
+                "C Certain cancers can be prevented.",
+                "D Screening aims at detecting disease in an asymptomatic stage.",
+                "E Accurate diagnosis is the key to successful management."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The aetiology of cancer can broadly be divided into two causes – environmental factors (80%) and genetic inheritance (20%). The environmental contributions as a cause of cancer are manifold and include smoking (lung), alcohol (oesophageal, liver), ultraviolet exposure (skin), ionising radiation (lymphomas), viral infection (cervix), parasitic infection (Bilharziasis in urinary bladder, H. pylori in stomach), chemicals (aniline dye in bladder, immunosuppression in Kaposi's sarcoma, tamoxifen in endometrium) and obesity (breast and others). Genetic factors are in the vast majority from an autosomal dominant inheritance. They are familial adenomatous polyposis coli (APC gene), hereditary non-polyposis coli cancer (DNA mismatch repair genes) also associated with endometrial, stomach, ureter and renal pelvis, MEN syndrome 2A causing medullary thyroid cancer (RET gene), familial breast cancer (BRCA1 and 2) and other less common cancers. The purpose of knowing the aetiology is to provide strategies to prevent the disease by changing the environmental and behavioural factors and offering genetic counselling.\nScreening, prevention, accurate diagnosis, staging, treatment and rehabilitation should form the overall management of cancer. Once diagnosed, it is a 'cancer journey' that the patient has to take. Several criteria for screening are set out. The disease should be common; early treatment should make a difference in enhancing the longevity; the test should be sensitive, specific, inexpensive and safe; diagnostic facilities should be readily available for those with positive tests; and benefit must outweigh physical and psychological harm.\nAccurate diagnosis is crucial in the management. In this regard, the cellular architecture, differentiation, lymphovascular invasion, grading and local and distant staging are necessary. These factors are often given numerical points to obtain an overall score of the cancer to accurately stratify the disease. This would enable the team to mount the most effective treatment, which may turn out to be a combination of modalities as decided by the multidisciplinary team (MDT)."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "Which of the following statements are not true?",
+            "options": [
+                "A The extent of the disease, local and distant, should be mapped by staging.",
+                "B Once diagnosed, the cancer should be radically excised at the earliest.",
+                "C Non-surgical treatment of cancer can be expressed in reproducible units, unlike surgery.",
+                "D Radiotherapy works by damage to the DNA of cells and targeting gene expression.",
+                "E Chemotherapy acts by selective toxicity."
+            ],
+            "answer": "B",
+            "explanation": "Once diagnosed, the cancer should not be excised at the earliest; it would be poor surgical principle to do so. The condition should be staged, scored if appropriate, discussed in a MDT and then the best form of treatment instituted. The team looking after a complex cancer patient (such as head and neck cancer) should not only be multidisciplinary but multi-professional, the latter having a larger number of members. In certain cases, surgery may not be best form of treatment at the outset.\nWhen the diagnosis has been confirmed on histology, the extent of the disease should be staged, both locally and regionally. Technological advances in recent years have revolutionised the staging of cancer. Depending upon the particular type of cancer and the organ involved, contrast enhanced CT scan, MRI, PET scan, ultrasound (US), laparoscopy +/– US and sentinel node biopsy (using radiolabelled colloid) all have an important role in mapping the disease as accurately as possible. Tumour markers have an important place also in follow up.\nSurgery is one of tri-modal methods of treating cancer, the other two being radiotherapy and chemotherapy. The latter two can be expressed in reproducible units. For example, in the case of drugs, milligrams, and Grays (Gy) in the case of radiation; but, for example, it is not possible to describe in units of measure an operation such as a hemicolectomy.\nRadiotherapy acts by producing damage to the DNA of dividing cells. While this explains the biological effects, radiation also has effects on gene expression thereby working as a targeted form of gene therapy. Chemotherapy acts by selective toxicity and often is used for palliation rather than cure. Therefore, in its use one must make sure that the effect of the treatment is not worse than the disease. Cytotoxic drugs are usually used in combination and often along with radiotherapy. When choosing a combination of drugs, the principles are to use drugs with distinct mode of action; use drugs against the disease; and use drugs with non-overlapping toxicities."
+        },
+        {
+            "id": "5",
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Ultraradical surgery for local control of cancer has little effect on metastatic disease.",
+                "B Surgery for metastatic disease is appropriate in certain circumstances.",
+                "C Overall treatment of cancer consists of surgery, chemotherapy and radiotherapy.",
+                "D The goal of palliative treatment is the relief of symptoms.",
+                "E Palliative care is the same as end-of-life care."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Radical cancer surgery entails removal of the primary tumour, as much of the surrounding tissue as possible and lymph nodes to achieve local control. Ultraradical surgery, which used to be done for breast cancer, has hardly any effect on the development of metastatic spread. Meticulous surgical technique with minimal handling of the primary tumour is the key to good surgery that would prevent local recurrence.\nSurgical excision of metastases must be considered under certain circumstances. Excision of liver metastases from colorectal cancer and pulmonary secondaries from testicular cancer, which is usually seen in the younger patient, gives good palliation. Overall management of cancer in general consists of all three modalities – surgery, radiotherapy and chemotherapy – depending upon the patient, type of cancer and stage. Neoadjuvant therapy (chemotherapy and radiotherapy) is used to downstage the tumour prior to surgery.\nWhen radical surgery cannot be carried out, palliative treatment is the answer. This would be in a patient who has distant metastases with a resectable primary, for example, a colorectal carcinoma with liver secondaries. Palliative care is not the same as end-of-life care. Patients may survive for months, if not years, with palliative care and good symptomatic control. End-of-life care is different from palliative care. It concerns the last few months or weeks of a patient's life. This may entail non-medical issues such as bereavement counselling (with family and friends), spirituality, alternative therapies and community support at home."
+        },
+        {
+            "id": "6",
+            "question_type": "emq",
+            "question": "Match the clinical scenarios and diagnoses with the most appropriate management, bearing in mind that the same management may be used in more than one of the above diagnoses:",
+            "options": {
+                "items": [
+                    "1 Bone secondary: A 54-year-old man complains of a swelling in the front of his thigh with throbbing pain of 6 weeks duration. The swelling is 4 cm across, warm to the touch, tender and pulsating. Three years ago, he underwent a right nephrectomy for carcinoma.",
+                    "2 Carcinoma of breast: A 58-year-old woman complains of a hard, mobile lump in her left breast, which is 3 cm in diameter. Triple assessment confirmed a carcinoma without palpable axillary lymph nodes. A sentinel lymph node biopsy confirmed positive axillary lymph nodes.",
+                    "3 Carcinoma of descending colon: A 65-year-old man complains of increasing constipation and colicky left-sided abdominal pain for 6 weeks. Investigations confirmed a carcinoma of the mid-descending colon, and staging showed no distant spread and the cancer confined within the colonic wall. A radical left hemicolectomy was done, which came back as Dukes' Stage B.",
+                    "4 Carcinoma of head of pancreas: A 78-year-old woman presents with severe itching and jaundice. She has scratch marks all over her body with an enlarged nodular liver, palpable gallbladder and ascites. CT scan confirms the diagnosis of disseminated cancer of head of pancreas.",
+                    "5 Carcinoma of prostate: A 75-year-old man complains of severe backache of 2 months duration. One year ago, he underwent radiotherapy for a carcinoma of the prostate. A bone scan shows hot spots all over the lumbar vertebrae and pelvis.",
+                    "6 Carcinoma of rectum: A 62-year-old man complains of early morning spurious diarrhoea with rectal bleeding of 6 weeks duration. Clinical examination, investigations and staging showed an adenocarcinoma 5 cm from the anal verge, which has spread locally to the lateral pelvic wall without any distant metastases.",
+                    "7 Medullary thyroid carcinoma: A 56-year-old woman complains of a diffuse thyroid swelling of 6 months duration. She has sporadic diarrhoea without any toxic symptoms. Core biopsy showed amyloid stroma, and a diagnosis of medullary thyroid carcinoma was made.",
+                    "8 Multiple liver metastases: A 72-year-old woman complains of severe diarrhoea, colicky abdominal pain, flushing attacks and jaundice. On examination she has an enlarged, hard, nodular liver. Seven years ago she underwent a right hemicolectomy for a carcinoid tumour of the ileum.",
+                    "9 Pulmonary secondaries: A 32-year-old man presents with two episodes of haemoptysis. Eight years ago, he underwent a right orchidectomy following which he was given a course of chemotherapy. Three years ago, he was given the ‘all clear' and discharged. A current chest x-ray shows two shadows in his right lung.",
+                    "10 Thyroid lymphoma: A 32-year-old woman complains of malaise for 4 months. Three months ago, she noticed a lump in front of her neck. She underwent fine-needle aspiration cytology followed by core biopsy. A diagnosis of lymphoma was made. Full staging did not show disease anywhere else in the body."
+                ],
+                "choices": [
+                    "A Interventional radiological technique",
+                    "B Minimal access surgery",
+                    "C Neoadjuvant chemoradiotherapy followed by surgery",
+                    "D Radiotherapy alone",
+                    "E Radiotherapy +/– hormonal manipulation",
+                    "F Surgery alone",
+                    "G Surgery followed by chemotherapy",
+                    "H Surgery followed by radiotherapy"
+                ]
+            },
+            "answer": {
+                "1": "H",
+                "2": "G",
+                "3": "G",
+                "4": "B",
+                "5": "E",
+                "6": "C",
+                "7": "F",
+                "8": "A",
+                "9": "G",
+                "10": "D"
+            },
+            "explanation": "1. Bone secondary: This patient who underwent a nephrectomy for renal carcinoma has a typical bone secondary in a long bone (femur in this case). Bone secondaries in renal carcinomas characteristically are osteolytic and very vascular. He needs an operation of internal fixation of the secondary to be followed by radiotherapy in the postoperative period.\n2. Carcinoma of breast: This patient would undergo the appropriate surgery for local treatment of her breast carcinoma (mastectomy +/– reconstruction or breast conservation surgery) followed by chemotherapy for her node-positive lymph nodes.\n3. Carcinoma of descending colon: This patient has undergone a radical left hemicolectomy. Postoperative staging is Dukes' stage B, which means that the growth has extended to extra-colonic tissues without lymph-node metastasis. Such patients benefit from a course of chemotherapy. (Dukes' staging initially was instituted for rectal carcinoma but later extended to all large bowel cancers).\n4. Carcinoma of head of pancreas: This patient requires palliation from her itching. This is ideally achieved by inserting a stent endoscopically into the common bile duct. Failing this, external biliary drainage can be carried out by interventional radiology. Sometimes, if the patient has gastric outlet obstruction, he or she may need a stent insertion into the pylorus. If, for technical reasons, none of these methods are successful, then the patient will need the palliative operative procedure of triple bypass.\n5. Carcinoma of prostate: This patient has multiple bone secondaries from a prostatic carcinoma. He is best treated by palliative radiotherapy. This can be supplemented by hormonal manipulation by performing bilateral subcapsular orchidectomy or carrying out a chemical castration with drugs.\n6. Carcinoma of rectum: This patient has a locally advanced rectal carcinoma that has spread to the lateral pelvic wall. The patient should undergo a course of neoadjuvant chemoradiotherapy over a period of 6 weeks. This should downstage the tumour, following which an anterior resection with total mesorectal excision should be carried out.\n7. Medullary thyroid carcinoma: This patient should undergo a total thyroidectomy with resection of central and bilateral cervical lymph nodes. Follow up should entail serum calcitonin at regular intervals.\n8. Multiple liver metastases: This patient has multiple liver secondaries from a carcinoid tumour excised in the past. The liver secondaries are producing the hormone serotonin, giving the patient carcinoid syndrome with distressing symptoms. This can be palliated well by the interventional radiological technique of chemoembolisation thus destroying the secondaries, which will not be able to produce serotonin.\n9. Pulmonary secondaries: This young man has developed lung secondaries from treated testicular teratoma. He should be discussed in a MDT where the outcome would certainly be resection of the secondaries (metastasectomy). Consideration should be given to postoperative chemotherapy. The management of testicular tumours is changing all the time. He might even be considered for preoperative chemotherapy, to be followed by surgery.\n10. Thyroid lymphoma: This patient with a proven thyroid lymphoma, which is localised to the thyroid, is treated by external beam radiotherapy."
+        }
+    ]
+}

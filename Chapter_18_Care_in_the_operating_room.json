@@ -1,0 +1,132 @@
+{
+    "chapter_name": "18 Care in the operating room",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following interventions prevent surgical infection?",
+            "options": [
+                "A Administration of prophylactic antibiotics less than 1 hour before surgery.",
+                "B Preparing the skin from the incision site outwards.",
+                "C Meticulous surgical scrub technique.",
+                "D Maintaining the patient's temperature above 36°C.",
+                "E Avoiding hyperglycaemia."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "These simple interventions all reduce the risk of surgical infections. Antibiotic prophylaxis, where appropriate, as well as meticulous asepsis are key components. Perioperative hypothermia not only increases the risk of infection but also impairs wound healing, glucose control and coagulation pathways. Hypothermic patients are also more likely to experience cardiac events. Blood sugar control is discussed in Chapter 18."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "2. Which of the following statement regarding the operating theatre environment are correct?",
+            "options": [
+                "A The relative humidity is kept at 50% to 60% to minimise the risk of surgical site infections.",
+                "B Theatres should have at least 10 air changes per hour.",
+                "C Optimal ambient temperature is 16-18°C.",
+                "D The operating theatre is kept at positive pressure relative to the surroundings.",
+                "E Filtered air should be introduced at ceiling height and exhausted near the floor."
+            ],
+            "answer": [
+                "D",
+                "E"
+            ],
+            "explanation": "The theatre is kept at a positive pressure to prevent ingress of infective material. Airflow in theatre is from ceiling to floor to prevent stirring up dirt and dust from floors, which can contaminate the operative field. Theatre humidity is kept at 50% to 60% to minimise the risk of static electrical charge build up. Twenty air changes per hour is the minimum requirement. Optimal ambient temperature is 20–24°C, which represents a compromise between reducing the risk of patients becoming hypothermic and allowing comfortable operating conditions."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. Which of the following statements regarding use of a tourniquet are true?",
+            "options": [
+                "A A tourniquet can be safely inflated for 21/2 hours.",
+                "B Distal neurovascular status must be checked before and after its use.",
+                "C The tourniquet must be placed as proximally as possible.",
+                "D Tourniquets are contraindicated in patients with Sickle cell disease.",
+                "E When used on the upper arm the cuff pressure should be 50 mmHg above systolic blood pressure."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Distal vascular status should be assessed prior to use of a tourniquet, as it is contraindicated in patients with peripheral vascular disease. Postoperatively, the return of circulation should also be noted. Tourniquets should be placed as proximally as possible to allow access to the operative site. Sickling of red blood cells in patients with sickle cell disease occurs in response to hypoxia, and tourniquets are therefore contraindicated in these patients. The maximum safe tourniquet inflation time is 1.5 hours. Longer times risk irreversible ischaemic damage to muscle, nerves and vasculature. Tourniquets should be inflated to 100 mmHg above systolic BP for the arm and 150 mmHg for the leg."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "4. Which of the following statements are true regarding the transfer and positioning of patients?",
+            "options": [
+                "A Universal precautions should be maintained by all staff during transfer.",
+                "B Obese patients are at higher risk of nerve injury.",
+                "C Ointment, tape, or protective pads may be used to prevent eye injury.",
+                "D Limbs not involved in surgery during lengthy operation should be moved during prolonged procedures.",
+                "E The nerve most at risk of injury when leg supports are used is the tibial nerve."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Universal precautions to prevent contamination with blood or other body fluids must be maintained in all patient care situations. Obese patients are difficult to position safely and are therefore at increased risk of nerve injuries and pressure sores. The risk of corneal abrasions under general anaesthesia is around 1 in 2800. Tape, ointment and protective pads can prevent this occurring. During prolonged surgery, limbs not involved in surgery should be moved regularly to prevent pressure sores and nerve injuries. The incidence of significant nerve damage under general anaesthesia is less than 1 in 2000. The nerves most commonly affected are the ulnar nerve in the arm and common peroneal nerve in the leg. Common peroneal nerve injury can lead to numbness over the dorsum of the foot and foot drop."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "5. Which of the following statements with regard to diathermy are true?",
+            "options": [
+                "A Should not be applied over scar tissue, bony prominences and implanted metalwork.",
+                "B The diathermy plate site should be free of hair.",
+                "C Monopolar diathermy should be used in preference to bipolar in patients with implanted defibrillators.",
+                "D Place the plate as close as possible to the operative site.",
+                "E Ensure that all metal surfaces with which the patient is in contact are earthed."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "With monopolar diathermy, the entire surface area of the plate should be in contact with skin over tissues with a good blood supply to prevent burns. It should therefore not be placed on bony prominences, scar tissue and hairy skin. The plate should also not be placed over implanted metal work to avoid heating effects. The current path should be short and not travel through susceptible tissue or medical devices. Therefore, the pad should be placed close to the operative site. Ideally bipolar diathermy should be used in patients with pacemakers or implantable cardiodefibrillators, as the current is confined to the instrument tip. The patient must not be in contact with any other metal surfaces. The risk of electrocution increases if they are earthed, because current can flow between the diathermy and the earthed appliance."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "6. With regard to surgical scrubbing, which of the following statements are true?",
+            "options": [
+                "A If the surgeon has a suspected infected lesion, it is sprayed with iodine and covered with a sterile dressing before gloving.",
+                "B 7.5% povidone-iodine scrub solution has the longest duration of effect.",
+                "C The first scrub of the day should take about 5 minutes, from start to drying.",
+                "D A sterile scrubbing brush and nail cleaner are used for 1 to 2 minutes at the first scrub, provided the surgeon stays within the theatre suite in between cases.",
+                "E Allergic reactions occur with povidone-iodine, but not chlorhexidine."
+            ],
+            "answer": [
+                "C",
+                "D"
+            ],
+            "explanation": "Surgeons should not scrub if they have an open wound or infected lesion. 2% Chlorhexidine has the longest duration of effect and, like povidone-iodine, is a cause of allergic reactions."
+        },
+        {
+            "id": 7,
+            "question_type": "msq",
+            "question": "7. Which of the following statements regarding the WHO safety checklist are true?",
+            "options": [
+                "A The prelist briefing is an optional part of the safety checklist.",
+                "B The patient should confirm his or her identity, site of surgery, procedure and consent at 'sign in'.",
+                "C 'Time out' should occur just before the procedure starts.",
+                "D 'Sign out' checks are the responsibility of the scrub nurse.",
+                "E Clear postoperative instructions must be completed immediately after surgery."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "It is essential that the patient confirms the identity and details of the planned procedure prior to the start of anaesthesia. At this point, the patient's name-bands should also be checked. A further 'time out' check just prior to starting surgery should be done once the patient is anaesthetised. One of the main aims of the surgical safety checklist is to encourage communication between members of the theatre team. It encourages team members to speak out when potential problems are detected and improves list efficiency. The ‘pre list brief' is therefore arguably one of the most important parts of the five-step WHO process, and is not optional. Ensuring that the sign-out checks are completed is the responsibility of the entire theatre team. Clear, written postoperative instructions must be completed in a timely manner for when the patient leaves theatre."
+        }
+    ]
+}

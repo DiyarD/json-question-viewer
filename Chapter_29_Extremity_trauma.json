@@ -1,0 +1,612 @@
+{
+    "chapter_name": "Extremity trauma",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "Which of the following important injuries is notorious for not being seen on initial radiographs that appear normal?",
+            "options": [
+                "A Anterior dislocation of the shoulder",
+                "B Supracondylar fracture of the elbow",
+                "C Hip fracture",
+                "D Scaphoid fracture",
+                "E Distal radius fracture"
+            ],
+            "answer": "D",
+            "explanation": "Up to 30% to 40% of fractures of the scaphoid are not identified on initial four-view radiographs (Figure 29.4), with the clinical scaphoid fracture continuing to be a diagnostic conundrum. Posterior dislocations of the shoulder are classically (although not exclusively) associated with a seizure or electrocution, with displacement of the head in a posterior-inferior direction. Posterior dislocations (5%) are much rarer than an anterior dislocation (95%) and are easily missed on initial radiographs, with the anteroposterior (AP) view appearing normal apart from a possible lightbulb sign. A lateral or axillary view will clarify the diagnosis. Lateral condyle fractures of the elbow in children can be missed on initial radiographs, with an internal oblique view helpful. Hip fractures are identified routinely on initial radiographs of the pelvis and hip, although in cases where the diagnosis is unclear, further imaging in the form of CT or MRI can be indicated. Slipped upper femoral epiphysis in children is analogous to a posterior dislocation of the shoulder and may often appear normal on an AP pelvis view, with a frog-leg lateral view best for identifying the true extent of the slip. Distal radius fractures are routinely identified on standard AP and lateral views of the wrist."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "Regarding diagnostic imaging, which of the following imaging modalities would be most appropriate for assessing an x-ray confirmed L1 fracture of the spine in a polytrauma patient?",
+            "options": [
+                "A CT",
+                "B Ultrasound",
+                "C MRI",
+                "D Bone scan",
+                "E Fluoroscopy"
+            ],
+            "answer": "A",
+            "explanation": "CT is the optimal imaging modality to determine the extent of any spinal fracture, e.g., number of columns involved, particularly in the polytrauma patient. The secondary survey in the ATLS protocol is part of a look-everywhere approach, and a CT head to pelvis is now used routinely in many centres. CT is also useful in planning surgery for complex peri-articular fractures, although availability and radiation dose should be considered. Ultrasound is useful for diagnosing soft tissue injuries, e.g., rotator cuff tears around the shoulder, but is operator dependent. MRI is primarily useful for assessing soft tissue injuries and some fractures. For certain spinal fractures, it may be used to assess the extent of ligamentous and/or cord injury but would not routinely be the next line of investigation. MRI is expensive and specialist equipment is needed in the ventilated patient. Bone scan is useful for assessing pathological fractures and possible metastases. Fluoroscopy is used intra-operatively."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "What is the Gustilo and Anderson open-fracture classification for a 4 cm wound over the medial aspect of the mid-calf associated with a mid-shaft fracture of the tibia and an arterial injury, requiring repair?",
+            "options": [
+                "A I",
+                "B II",
+                "C IIIA",
+                "D IIIB",
+                "E IIIC"
+            ],
+            "answer": "E",
+            "explanation": "Any open fracture associated with an arterial injury requiring repair is a type IIIC. The Gustillo and Anderson classification (Table 29.1) is designed for open fractures and applies to the state of the soft tissue. The classification does not take account of the body part involved. The primary concern is the energy imparted to the soft tissue and hence its disruption, as well as the soft-tissue cover of the fracture and whether there is contamination. These factors are important to determine treatment and predict outcome. Some injuries are classified as a grade III irrespective of wound size or soft tissue injury, e.g., traumatic amputation, segmental fracture, or heavy contamination (e.g., farming, gunshot)."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "What is the Salter-Harris fracture classification for a fracture of the distal radius that passes along the epiphyseal plate and then deviates off into the metaphysis (Figure 29.1)?",
+            "options": [
+                "A I",
+                "B II",
+                "C III",
+                "D IV",
+                "E V"
+            ],
+            "answer": "B",
+            "explanation": "Fractures involving the growth plate are classified according to shape and prognosis using the Salter-Harris classification (Table 29.2, Figure 29.5)."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "A 50-year-old woman sustains a displaced and angulated fracture through the diaphysis of the right humerus. Following four months of treatment with initially a U-slab and then a humeral brace, the patient has persistent pain and mobility at the fracture site and check radiographs demonstrate no cortex bridging and no callus. What is the most likely diagnosis?",
+            "options": [
+                "A Delayed union",
+                "B Atrophic non-union",
+                "C Hypertrophic non-union",
+                "D Infected non-union",
+                "E Union"
+            ],
+            "answer": "B",
+            "explanation": "Radiological union is routinely characterised by the bridging of 3 of 4 cortices at the fracture site. Malunion is characterised by bone healing in a non-anatomical position. Generally, this is considered as an articular step of > 2mm, with angulation or rotation < 5 degrees. Delayed union is used to describe a fracture that has not healed within the expected time. Diagnosing a delayed union is fracture dependent, e.g., femoral fractures in adult can take 12–16 weeks to unite. Fractures in children unite quicker than fractures in adults, and upper-limb fractures unite quicker than lower-limb fractures. Non-union is defined as failure to develop signs of clinical and radiological healing. Following are the three types of non-union: 1 Atrophic – No callus formation, thinning of the fractures ends, associated with poor blood supply, fracture mobile. 2 Hypertrophic – Abundant callus formation, expansion of bone ends, no bridging of the fracture site, associated with poor stability or fixation. 3 Infected - Union prevented by infection, potentially catastrophic complication, multi-stage treatment may be required. 4 Risk factors for delayed or non-union include patient (age, diabetes, smoking, NSAIDs), fracture (open, severe soft tissue damage, infection, neurovascular injury) and management (inadequate fracture reduction or fixation) characteristics."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding the treatment of fractures is false?",
+            "options": [
+                "A Not all fractures require reduction or stabilisation.",
+                "B Pain relief is a benefit of fracture treatment.",
+                "C Anaesthesia is a possible risk of fracture treatment.",
+                "D Relative stability leads to primary bone healing.",
+                "E Absolute stability leads to primary bone healing."
+            ],
+            "answer": "D",
+            "explanation": "There are two stages in treating a fracture. The first of these is reduction, or putting the fragments back together so that the shape and alignment of the bone are correct. This is not always necessary and is dependent on both patient and fracture characteristics. If the fracture is undisplaced or the displacement does not matter, reduction is not needed. The second stage is 'stabilisation'. Not all fractures need stabilization – they might be stable once reduced, while others cannot easily be reduced or stabilised, nevertheless, they will heal. Benefits of fracture treatment include pain relief, restoration of anatomy and preservation of function, early mobilisation of the joint and the patient, prevention of infection and, potentially, reduced risk of secondary OA. Risks of fracture management include anaesthesia, possible introduction of infection, perisosteal stripping, soft tissue or neurovascular damage and the need for a second operation to remove metalwork. Relative stability refers to a degree of movement at the fracture site that is expected and leads to indirect or secondary bone union with callus formation (enchondral ossification). Absolute stability occurs when the fracture has be anatomically reduced and stabilised so that there is no motion at the fracture site. The result is primary bone healing without callus formation, e.g., bone remodelling with cutting cones crossing the fracture site and lamellar bone being laid down."
+        },
+        {
+            "id": 7,
+            "question_type": "emq",
+            "question": "A man presents after a game of squash with pain in the back of the calf and heel that was of sudden onset and difficulty weight bearing. On calf-squeeze test, the ankle does not dorsiflexion.",
+            "options": {
+                "items": [
+                    "A"
+                ],
+                "choices": [
+                    "1 Bone scan",
+                    "2 CT",
+                    "3 Fluoroscopy",
+                    "4 MRI",
+                    "5 Ultrasound",
+                    "6 X-ray"
+                ]
+            },
+            "answer": "5",
+            "explanation": "The history and examination findings are classical of a ruptured Achilles tendon. Soft tissue is usually best visualised with ultrasound, especially if dynamic imaging is needed."
+        },
+        {
+            "id": 8,
+            "question_type": "emq",
+            "question": "A displaced intra-articular distal radial fracture is being reduced under general anaesthetic and held with a volar plate.",
+            "options": {
+                "items": [
+                    "B"
+                ],
+                "choices": [
+                    "1 Bone scan",
+                    "2 CT",
+                    "3 Fluoroscopy",
+                    "4 MRI",
+                    "5 Ultrasound",
+                    "6 X-ray"
+                ]
+            },
+            "answer": "3",
+            "explanation": "When fractures are being reduced and fixed under anaesthetic, fluoroscopy (image intensifier) is the best way of achieving this while keeping the radiation dose to a minimum."
+        },
+        {
+            "id": 9,
+            "question_type": "emq",
+            "question": "A patient who had a breast cancer excised 5 years previously presents with weight loss and a pathological fracture of the femur. You want to know if there is evidence of other metastases in the body.",
+            "options": {
+                "items": [
+                    "C"
+                ],
+                "choices": [
+                    "1 Bone scan",
+                    "2 CT",
+                    "3 Fluoroscopy",
+                    "4 MRI",
+                    "5 Ultrasound",
+                    "6 X-ray"
+                ]
+            },
+            "answer": "1",
+            "explanation": "If metastases are suspected, a radioisotope bone scan allows the whole skeleton to be screened for increased lytic activity."
+        },
+        {
+            "id": 10,
+            "question_type": "emq",
+            "question": "A pedestrian sustains a fall from 30 feet, sustaining an open-book fracture of the pelvis. The patient is stabilised and the plan now is for reconstruction.",
+            "options": {
+                "items": [
+                    "D"
+                ],
+                "choices": [
+                    "1 Bone scan",
+                    "2 CT",
+                    "3 Fluoroscopy",
+                    "4 MRI",
+                    "5 Ultrasound",
+                    "6 X-ray"
+                ]
+            },
+            "answer": "2",
+            "explanation": "For complex fractures, further imaging in the form of CT, possibly with three-dimensional reconstruction of the fracture, will be helpful in planning surgery."
+        },
+        {
+            "id": 11,
+            "question_type": "emq",
+            "question": "A footballer has twisted his ankle in a tackle. The ankle is very tender over the medial and lateral malleolus.",
+            "options": {
+                "items": [
+                    "E"
+                ],
+                "choices": [
+                    "1 Bone scan",
+                    "2 CT",
+                    "3 Fluoroscopy",
+                    "4 MRI",
+                    "5 Ultrasound",
+                    "6 X-ray"
+                ]
+            },
+            "answer": "6",
+            "explanation": "A footballer who has gone over on his ankle may have fractured the malleolus. Plain x-rays are the best way of imaging this type of injury."
+        },
+        {
+            "id": 12,
+            "question_type": "emq",
+            "question": "A rugby player sustains a twisting injury to his left knee during a game and subsequently complains of the knee giving way under him (instability) with episodes of locking. The knee had a significant effusion at the time or injury. X-ray is normal.",
+            "options": {
+                "items": [
+                    "F"
+                ],
+                "choices": [
+                    "1 Bone scan",
+                    "2 CT",
+                    "3 Fluoroscopy",
+                    "4 MRI",
+                    "5 Ultrasound",
+                    "6 X-ray"
+                ]
+            },
+            "answer": "4",
+            "explanation": "The history is classical of a soft tissue of the knee, with a ruptured anterior cruciate ligament or a torn meniscus, or both. MRI is the best imaging modality for this type of suspected soft tissue injury."
+        },
+        {
+            "id": 13,
+            "question_type": "emq",
+            "question": "Select the single most appropriate description for Diagram 1 from Figure 29.2.",
+            "options": {
+                "items": [
+                    "Diagram 1"
+                ],
+                "choices": [
+                    "1 Angulated",
+                    "2 Oblique",
+                    "3 Rotated",
+                    "4 Segmental",
+                    "5 Shortened",
+                    "6 Spiral",
+                    "7 Translated",
+                    "8 Transverse",
+                    "9 Wedge"
+                ]
+            },
+            "answer": "6",
+            "explanation": "This is a spiral fracture caused by a rotatory force."
+        },
+        {
+            "id": 14,
+            "question_type": "emq",
+            "question": "Select the single most appropriate description for Diagram 2 from Figure 29.2.",
+            "options": {
+                "items": [
+                    "Diagram 2"
+                ],
+                "choices": [
+                    "1 Angulated",
+                    "2 Oblique",
+                    "3 Rotated",
+                    "4 Segmental",
+                    "5 Shortened",
+                    "6 Spiral",
+                    "7 Translated",
+                    "8 Transverse",
+                    "9 Wedge"
+                ]
+            },
+            "answer": "2",
+            "explanation": "This is an oblique fracture probably caused by a bending force."
+        },
+        {
+            "id": 15,
+            "question_type": "emq",
+            "question": "Select the single most appropriate description for Diagram 3 from Figure 29.2.",
+            "options": {
+                "items": [
+                    "Diagram 3"
+                ],
+                "choices": [
+                    "1 Angulated",
+                    "2 Oblique",
+                    "3 Rotated",
+                    "4 Segmental",
+                    "5 Shortened",
+                    "6 Spiral",
+                    "7 Translated",
+                    "8 Transverse",
+                    "9 Wedge"
+                ]
+            },
+            "answer": "8",
+            "explanation": "This is a transverse fracture, caused by three-point loading (a force is applied across the fracture point, while the two ends are fixed). This injury commonly occurs in the tibia of footballers."
+        },
+        {
+            "id": 16,
+            "question_type": "emq",
+            "question": "Select the single most appropriate description for Diagram 4 from Figure 29.2.",
+            "options": {
+                "items": [
+                    "Diagram 4"
+                ],
+                "choices": [
+                    "1 Angulated",
+                    "2 Oblique",
+                    "3 Rotated",
+                    "4 Segmental",
+                    "5 Shortened",
+                    "6 Spiral",
+                    "7 Translated",
+                    "8 Transverse",
+                    "9 Wedge"
+                ]
+            },
+            "answer": "9",
+            "explanation": "A wedge or butterfly fragment fracture occurs when the bone receives a sharp and heavy blow. The bone bends and the wedge fragment blows out on the other side."
+        },
+        {
+            "id": 17,
+            "question_type": "emq",
+            "question": "Select the single most appropriate description for Diagram 5 from Figure 29.2.",
+            "options": {
+                "items": [
+                    "Diagram 5"
+                ],
+                "choices": [
+                    "1 Angulated",
+                    "2 Oblique",
+                    "3 Rotated",
+                    "4 Segmental",
+                    "5 Shortened",
+                    "6 Spiral",
+                    "7 Translated",
+                    "8 Transverse",
+                    "9 Wedge"
+                ]
+            },
+            "answer": "4",
+            "explanation": "This is a segmental or comminuted fracture and is associated with a high-energy mechanism of injury and is unstable. The central fragments can sometimes lose their blood supply, so non-union can be a problem."
+        },
+        {
+            "id": 18,
+            "question_type": "emq",
+            "question": "Select the single most appropriate description for Diagram 6 from Figure 29.2.",
+            "options": {
+                "items": [
+                    "Diagram 6"
+                ],
+                "choices": [
+                    "1 Angulated",
+                    "2 Oblique",
+                    "3 Rotated",
+                    "4 Segmental",
+                    "5 Shortened",
+                    "6 Spiral",
+                    "7 Translated",
+                    "8 Transverse",
+                    "9 Wedge"
+                ]
+            },
+            "answer": "1",
+            "explanation": "This fracture is angulated, and so is likely to need reduction before fixation; otherwise a malunion will result."
+        },
+        {
+            "id": 19,
+            "question_type": "emq",
+            "question": "Select the single most appropriate description for Diagram 7 from Figure 29.2.",
+            "options": {
+                "items": [
+                    "Diagram 7"
+                ],
+                "choices": [
+                    "1 Angulated",
+                    "2 Oblique",
+                    "3 Rotated",
+                    "4 Segmental",
+                    "5 Shortened",
+                    "6 Spiral",
+                    "7 Translated",
+                    "8 Transverse",
+                    "9 Wedge"
+                ]
+            },
+            "answer": "7",
+            "explanation": "This fracture is displaced in the form of translation with one fragment moving in relation to the other. This pattern of injury is likely to need reduction before fixation otherwise a malunion may result."
+        },
+        {
+            "id": 20,
+            "question_type": "emq",
+            "question": "Select the single most appropriate description for Diagram 8 from Figure 29.2.",
+            "options": {
+                "items": [
+                    "Diagram 8"
+                ],
+                "choices": [
+                    "1 Angulated",
+                    "2 Oblique",
+                    "3 Rotated",
+                    "4 Segmental",
+                    "5 Shortened",
+                    "6 Spiral",
+                    "7 Translated",
+                    "8 Transverse",
+                    "9 Wedge"
+                ]
+            },
+            "answer": "5",
+            "explanation": "This fracture is so displaced ('off-ended') that the two fragments have slid past each other. If this is not reduced, the fracture may still heal, but the limb will heal much shorter than before."
+        },
+        {
+            "id": 21,
+            "question_type": "emq",
+            "question": "Select the single most appropriate description for Diagram 9 from Figure 29.2.",
+            "options": {
+                "items": [
+                    "Diagram 9"
+                ],
+                "choices": [
+                    "1 Angulated",
+                    "2 Oblique",
+                    "3 Rotated",
+                    "4 Segmental",
+                    "5 Shortened",
+                    "6 Spiral",
+                    "7 Translated",
+                    "8 Transverse",
+                    "9 Wedge"
+                ]
+            },
+            "answer": "3",
+            "explanation": "This fracture has rotated. Normally this is accompanied by a spiral fracture, in which case the fragments are usually displaced and shortened."
+        },
+        {
+            "id": 22,
+            "question_type": "emq",
+            "question": "A 32-year-old woman twists her right ankle, sustaining an isolated Weber B undisplaced lateral malleolus fracture with no displacement of the ankle mortice.",
+            "options": {
+                "items": [
+                    "A"
+                ],
+                "choices": [
+                    "1 Cannulated screws",
+                    "2 Dynamic hip screw",
+                    "3 External fixation",
+                    "4 Hip hemi-arthroplasty",
+                    "5 Intramedullary nailing",
+                    "6 K-wire fixation",
+                    "7 Non-operative – collar and cuff",
+                    "8 Non-operative – plaster of Paris",
+                    "9 ORIF",
+                    "10 Total hip arthroplasty",
+                    "11 Traction",
+                    "12 Wound debridement and washout",
+                    "13 Wound debridement with washout and closure, fracture fixation",
+                    "14 Wound debridement, washout, leave wound open and fracture fixation"
+                ]
+            },
+            "answer": "8",
+            "explanation": "Ankle fractures are commonly classified according to the AO-Weber classification, which is based on AP and lateral x-rays of the ankle. This classification helps to guide treatment (Table 29.3)."
+        },
+        {
+            "id": 23,
+            "question_type": "emq",
+            "question": "A 17-year-old boy falls and suffers a transverse displaced midshaft fracture of the left radius and ulna. It is a closed and neurovasculary intact injury.",
+            "options": {
+                "items": [
+                    "B"
+                ],
+                "choices": [
+                    "1 Cannulated screws",
+                    "2 Dynamic hip screw",
+                    "3 External fixation",
+                    "4 Hip hemi-arthroplasty",
+                    "5 Intramedullary nailing",
+                    "6 K-wire fixation",
+                    "7 Non-operative – collar and cuff",
+                    "8 Non-operative – plaster of Paris",
+                    "9 ORIF",
+                    "10 Total hip arthroplasty",
+                    "11 Traction",
+                    "12 Wound debridement and washout",
+                    "13 Wound debridement with washout and closure, fracture fixation",
+                    "14 Wound debridement, washout, leave wound open and fracture fixation"
+                ]
+            },
+            "answer": "9",
+            "explanation": "Anatomic reduction with absolute stability is the optimal treatment for this patient using open reduction and internal fixation. Plates and screws are ideal for forearm fractures where a perfect reduction is needed, if full pronation and supination are to be achieved."
+        },
+        {
+            "id": 24,
+            "question_type": "emq",
+            "question": "A 22-year-old man sustains an open fracture of his left distal radius following a heavy fall while playing football. There is 0.2 cm small puncture wound over the ulna aspect of his left wrist, with no evidence of contamination and is neurovascularly intact.",
+            "options": {
+                "items": [
+                    "C"
+                ],
+                "choices": [
+                    "1 Cannulated screws",
+                    "2 Dynamic hip screw",
+                    "3 External fixation",
+                    "4 Hip hemi-arthroplasty",
+                    "5 Intramedullary nailing",
+                    "6 K-wire fixation",
+                    "7 Non-operative – collar and cuff",
+                    "8 Non-operative – plaster of Paris",
+                    "9 ORIF",
+                    "10 Total hip arthroplasty",
+                    "11 Traction",
+                    "12 Wound debridement and washout",
+                    "13 Wound debridement with washout and closure, fracture fixation",
+                    "14 Wound debridement, washout, leave wound open and fracture fixation"
+                ]
+            },
+            "answer": "13",
+            "explanation": "Assessment and management of open fractures should start with ATLS guidelines. The first step is to lavage and photograph the wound, followed by using an iodine-soaked gauze to cover the fracture. Reduction of fracture may be necessary ary if there is surrounding skin or neurovascular compromise. The fracture should be immobilised for comfort and to prevent further soft tissue damage. Intravenous antibiotics should be commenced and the patient's tetanus status ascertained. The timing to theatre remains controversial, particularly for lower-grade fractures. Debridement involves wound extension and removal of all contaminated or devitalised soft tissue, followed by delivery and cleaning of the bone ends via the wound. Fracture stabilisation is then carried out. In this case primary fixation, possibly with a volar pate, would be carried out. However, temporary, e.g., external fixation may be carried out if there is concern about the soft tissue, contamination, or patient stability. For small (Grade 1) open wounds associated with a fracture, a thorough exploration, debridement and closing the wound primarily at the time of surgery would be done by many. All other open wounds would return to theatre at 48 hours for review +/- closure."
+        },
+        {
+            "id": 25,
+            "question_type": "emq",
+            "question": "A 71-year-old man with carcinoma of the lung and metastases presents with a pathological fracture through the upper third of the femur.",
+            "options": {
+                "items": [
+                    "D"
+                ],
+                "choices": [
+                    "1 Cannulated screws",
+                    "2 Dynamic hip screw",
+                    "3 External fixation",
+                    "4 Hip hemi-arthroplasty",
+                    "5 Intramedullary nailing",
+                    "6 K-wire fixation",
+                    "7 Non-operative – collar and cuff",
+                    "8 Non-operative – plaster of Paris",
+                    "9 ORIF",
+                    "10 Total hip arthroplasty",
+                    "11 Traction",
+                    "12 Wound debridement and washout",
+                    "13 Wound debridement with washout and closure, fracture fixation",
+                    "14 Wound debridement, washout, leave wound open and fracture fixation"
+                ]
+            },
+            "answer": "5",
+            "explanation": "The intramedullary nail is valuable in treating long-bone fractures, including pathological fractures. Combined with locking screws, it can provide adequate 'relative' stability to allow immediate weight bearing, while minimising vascular compromise."
+        },
+        {
+            "id": 26,
+            "question_type": "emq",
+            "question": "An 81-year-old woman presents following a simple mechanical fall, and on presentation her right leg is shortened and externally rotated. She has a past medical history of ischaemic heart disease and COPD. X-rays reveal a right intertrochanteric neck of femur fracture.",
+            "options": {
+                "items": [
+                    "E"
+                ],
+                "choices": [
+                    "1 Cannulated screws",
+                    "2 Dynamic hip screw",
+                    "3 External fixation",
+                    "4 Hip hemi-arthroplasty",
+                    "5 Intramedullary nailing",
+                    "6 K-wire fixation",
+                    "7 Non-operative – collar and cuff",
+                    "8 Non-operative – plaster of Paris",
+                    "9 ORIF",
+                    "10 Total hip arthroplasty",
+                    "11 Traction",
+                    "12 Wound debridement and washout",
+                    "13 Wound debridement with washout and closure, fracture fixation",
+                    "14 Wound debridement, washout, leave wound open and fracture fixation"
+                ]
+            },
+            "answer": "2",
+            "explanation": "Hip fractures are best classified according to damage of the capsular blood supply to the femoral head. For extracapsular intertrochanteric or pertrochanteric fractures, there is no problem with the blood supply but strong fixation is required to allow early mobilisation. The dynamic hip screw is effectively a combination of an intramedullary nail fitted up the femoral neck, which connects to a heavy plate screwed to the side of the femur. The nail in the neck can slide into a slot in the nail so, that the fracture ends can be compressed together. This improves stability and stimulates bone healing."
+        },
+        {
+            "id": 27,
+            "question_type": "emq",
+            "question": "A 4-year-old girl falls from a trampoline and sustains a displaced fracture of the left distal humerus (supracondylar). It is a closed and neurovasculary intact injury.",
+            "options": {
+                "items": [
+                    "F"
+                ],
+                "choices": [
+                    "1 Cannulated screws",
+                    "2 Dynamic hip screw",
+                    "3 External fixation",
+                    "4 Hip hemi-arthroplasty",
+                    "5 Intramedullary nailing",
+                    "6 K-wire fixation",
+                    "7 Non-operative – collar and cuff",
+                    "8 Non-operative – plaster of Paris",
+                    "9 ORIF",
+                    "10 Total hip arthroplasty",
+                    "11 Traction",
+                    "12 Wound debridement and washout",
+                    "13 Wound debridement with washout and closure, fracture fixation",
+                    "14 Wound debridement, washout, leave wound open and fracture fixation"
+                ]
+            },
+            "answer": "6",
+            "explanation": "Supracondylar fractures of the elbow make up more than 50% of all paediatric elbow fractures, with the extension type most frequently seen (95%–98%). Neurovascular compromise can occur. The Gartland classification is employed, with type 1 fractures nondisplaced and effectively managed non-operatively in an above-elbow cast. Type 2 (displaced with an intact posterior cortex) and type 3 (completely displaced) fractures require closed reduction (open, if reduction not attained closed) and K-wire fixation, often using divergent lateral wires."
+        },
+        {
+            "id": 28,
+            "question_type": "emq",
+            "question": "A 68-year-old woman presents following a low-energy fall whilst out at bingo, and on presentation her right leg is shortened and externally rotated. She has a past medical history of hypertension and hypothyroidism, otherwise she is fully independent. X-rays reveal a displaced right intracapsular neck of femur fracture (Figure 29.3).",
+            "options": {
+                "items": [
+                    "G"
+                ],
+                "choices": [
+                    "1 Cannulated screws",
+                    "2 Dynamic hip screw",
+                    "3 External fixation",
+                    "4 Hip hemi-arthroplasty",
+                    "5 Intramedullary nailing",
+                    "6 K-wire fixation",
+                    "7 Non-operative – collar and cuff",
+                    "8 Non-operative – plaster of Paris",
+                    "9 ORIF",
+                    "10 Total hip arthroplasty",
+                    "11 Traction",
+                    "12 Wound debridement and washout",
+                    "13 Wound debridement with washout and closure, fracture fixation",
+                    "14 Wound debridement, washout, leave wound open and fracture fixation"
+                ]
+            },
+            "answer": "10",
+            "explanation": "The intracapsular fracture of the neck of femur destroys the blood supply to the femoral head, so it requires replacement. In independent patients, total hip arthroplasty has been proved to provide a superior outcome over hemi-arthroplasty and ORIF for these injuries."
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "chapter_name": "The spleen",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following statements\nare true?",
+            "options": [
+                "A The splenic vessels are contained within\nthe splenorenal ligament.",
+                "B The splenic artery arises from the left\ngastric artery.",
+                "C. The short gastric branches of the splenic\nartery lie within the gastrosplenic\nligament.",
+                "D The splenic vein and the superior\nmesenteric vein join to form the\nportal vein.",
+                "E The inferior mesenteric vein empties\ninto the splenic vein."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The splenic vessels travel within the two layers of the splenorenal (lienorenal) ligament, which acts as one of its two pedicles. This ligament is a part of the greater omentum that extends from the spleen to the anterior surface of the kidney. The gastrosplenic ligament, also a part of the greater omentum, extends from the hilum of the spleen to the greater curve of the stomach and contains the short gastric branches of the splenic artery. These anatomical facts are vital during splenectomy.\nThe splenic vein and superior mesenteric vein join to form the portal vein behind the neck of the pancreas. It enters the two layers of the lesser omentum and runs vertically upward toward the porta hepatis. The inferior mesenteric vein travels behind the lower border of the body of the pancreas in front of the left renal vein to join the splenic vein. The splenic artery arises from the coeliac axis, which also gives off the left gastric and hepatic arteries."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "2. The following statements are true\nexcept:",
+            "options": [
+                "A The spleen lies in front of the left\nseventh, eighth and ninth ribs.",
+                "B The tail of the pancreas lies in the\nsplenorenal ligament.",
+                "C The lymphatics of the spleen ultimately\ndrain into the coeliac nodes.",
+                "D. The left extremity of the lesser sac lies\nagainst the splenic hilum.",
+                "E The inner surface of the spleen has two\nvisceral impressions for the stomach\nand the splenic flexure of colon."
+            ],
+            "answer": [
+                "A",
+                "E"
+            ],
+            "explanation": "The spleen lies in front of (deep to) the left ninth, tenth and eleventh ribs. This fact is of applied importance because in fracture of these ribs the spleen is liable to be injured as a result of the broken ribs penetrating the splenic parenchyma. The inner (visceral) surface of the spleen is in contact with the flexure of the left colon, stomach, left kidney and pancreatic tail at the splenic hilum.\nThe tail of the pancreas lies within the two layers of the splenorenal ligament accompanied by the splenic artery, vein and lymphatics. This anatomical fact is of utmost importance in splenectomy. During the procedure the surgeon must be very careful not to damage the tail of the pancreas while ligating the splenic artery and vein. The lymphatics of the spleen drain into the splenic hilar nodes; thereafter by way of the pancreaticosplenic nodes they ultimately drain into the coeliac nodes. The left extremity of the lesser sac (omental bursa) lies against the splenic hilum."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. Which of the following statements is\nnot true?",
+            "options": [
+                "A The splenic parenchyma consists of\nwhite and red pulp.",
+                "B Pitting is a specific function of the\nspleen.",
+                "C The spleen is a major site of immune\nfunction.",
+                "D Haemopoiesis occurs in the foetal\nspleen.",
+                "E The spleen has a major reservoir\nfunction of red cell mass."
+            ],
+            "answer": "E",
+            "explanation": "The spleen does not have a major reservoir function of red cell mass, containing about 8% of the total RBC mass. An enlarged spleen might contain a larger proportion.\nThe splenic parenchyma consists of red and white pulp within the structural framework of the trabeculae and arteriovenous bundles. The white pulp comprises of a central trabecular artery surrounded by lymphatic nodules with lymphocytes and macrophages. The lymphatic nodules (Malphigian corpuscles) are composed of lymphoid follicles rich in ẞ-lymphocytes and lymphoid sheaths rich in T-lymphocytes. These immunoglobulins take part in the active immune response through humoral and cell-mediated pathways.\nBetween the white pulp and red pulp lies the marginal zone. The red pulp consists of cords (sinusoids) and sinuses. Blood passes in the trabecular artery through the centre of the white pulp into the red pulp. RBCs must elongate and become thinner to pass from the cords to the sinuses within the red pulp; this process removes abnormal red cells from the circulation. As 90% of the blood passing through the spleen flows through an open circulation, splenic pulp pressure is a reflection of the portal pressure. The remaining 10% of the splenic blood flow does not go through the cords and sinuses but travels through A-V communications. The blood flow through the spleen is about 300 mL/minute.\nRBCs that contain nuclear remnants are removed by phagocytosis and the repaired RBCs then returned to the circulation – the process being called pitting. The manufacture of B-lymphocytes and T-lymphocytes is responsible for the spleen having a major immune function. Some degree of haemopoiesis occurs in the foetal spleen. To summarise, the functions of the spleen in varying degrees are the following: produce immunity, act as a filter, pitting, act as reservoir and cytopoiesis."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "4. Which of the following statements\nare true?",
+            "options": [
+                "A Plain abdominal x-ray is a common\nmodality of imaging in splenomegaly.",
+                "B Splenomegaly with portal hypertension\nrequires upper Gl endoscopy (OGD).",
+                "C Lymph node biopsy may be required in\nsome cases of splenomegaly.",
+                "D CECT is the best imaging modality.",
+                "E 99mTc-labelled colloid is useful in certain\ncases."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "In patients with suspected splenic pathology, all routine haematological (including tests for haemolysis and reticulocyte count) and biochemical investigations must be done including the full gamut of liver function tests. When portal hypertension is diagnosed patients should undergo an OGD to look for gastro-oesophageal varices. As the spleen is a part of the reticuloendothelial system, in splenomegaly, enlarged lymph nodes should be sought in the neck, axilla and groins. If there is lymphadenopathy, an excision biopsy is important.\nAs an imaging modality CECT is the ideal investigation to determine the nature of suspected splenic pathology besides helping to exclude any other intra-abdominal pathology. A preliminary US examination might be useful and could prevent the need for a CT. Radioisotope scanning helps to determine if the spleen is the site of RBC destruction in haemolytic anaemia, thus helping to predict the response to splenectomy.\nPlain abdominal x-ray is not an investigation asked for when investigating splenic pathology. However, such an x-ray taken for some other purpose might show up unsuspected splenic pathology such as calcification of a splenic artery aneurysm or old infarct, splenic cyst, hydatid disease, or multiple calcifications of tuberculosis."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "5. The following statements are true\nexcept:",
+            "options": [
+                "A Partial splenectomy can result in splenic\nregeneration.",
+                "B Before splenectomy for haemolytic\nanaemia, abdominal US is essential.",
+                "C A pancreatic or gastric fistula can occur\nas a post-splenectomy complication.",
+                "D In a left hemicolectomy the spleen can\nbe in danger of iatrogenic injury.",
+                "E The risk of opportunist post-\nsplenectomy infection (OPSI) is greatest\nafter the first 6 months of splenectomy."
+            ],
+            "answer": "E",
+            "explanation": "The period during which a post-splenectomy patient is most susceptible to OPSI is the first 2 to 3 years after the operation because of compromised immune function. Prophylaxis should be given during this period with penicillin, erythromycin, amoxycillin, or co-amoxiclav taken orally.\nIf possible, partial splenectomy in trauma should always be attempted because there is rapid regeneration of lost tissue with no reduction in splenic function. When splenectomy for haemolytic anaemia is to be carried out, an abdominal US is essential to look for unsuspected pigment gallstones. If present, cholecystectomy is carried out at the same time either laparoscopically or by open operation.\nA pancreatic or gastric fistula can occur following splenectomy from unrecognised inadvertent damage to the tail of the pancreas or greater curve of the stomach. The tail of the pancreas can be damaged while ligating the splenic artery and vein at the hilum. The greater curve of the stomach can be damaged during ligation and division of the short gastric vessels. The most common cause of iatrogenic injury to the spleen is a left hemicolectomy."
+        },
+        {
+            "id": 6,
+            "question_type": "emq",
+            "question": "Choose and match the correct diagnosis with each of the scenarios that follow:",
+            "options": {
+                "items": [
+                    "A A male patient of 55 years, known to suffer from myelofibrosis, presents with onset of severe\nleft upper quadrant and shoulder tip pain of 8 hours duration. On examination he has a\ntemperature and marked tenderness over an enlarged spleen. A contrast-enhanced computed\ntomography scan (CECT) shows a perfusion defect in an enlarged spleen.",
+                    "B An 18-year-old male presents with intermittent generalised abdominal pain, mild jaundice\nand anorexia. On examination he has pallor, jaundice and splenomegaly. An ultrasound of his\nabdomen shows multiple small gallstones and confirms splenomegaly.",
+                    "C A 30-year-old female patient presents with petechial haemorrhagic spots in her skin. She suffers\nfrom menorrhagia. Abdominal examination shows no organomegaly but many areas of skin\necchymoses. The coagulation and bleeding times are normal. The blood tests show anaemia and\nlow platelet count. Bone marrow reveals a large number of platelet-producing megakaryocytes.",
+                    "D A 25-year-old male was kicked in his abdomen accidentally while playing football. He got up\nand continued to play for another few minutes, but then he felt dizzy with intense pain in his\nleft upper abdomen. In the hospital he complained of pain in his left shoulder tip and had\nrigidity and rebound tenderness in his left hypochondrium. Until the age of 18 years, he lived\nin a tropical country when he had suffered from malaria.",
+                    "E A 30-year-old woman during her ultrasound for pregnancy was found to have a calcified 1-cm\nmass in the epigastrium. A bruit was heard in the epigastric region. She does not have any\nsymptoms."
+                ],
+                "choices": [
+                    "1 Hereditary spherocytosis",
+                    "2 Idiopathic thrombocytopenic purpura (ITP)",
+                    "3 Splenic artery aneurysm",
+                    "4 Splenic infarction",
+                    "5 Splenic rupture"
+                ]
+            },
+            "answer": {
+                "A": "4",
+                "B": "1",
+                "C": "2",
+                "D": "5",
+                "E": "3"
+            },
+            "explanation": "1. B Hereditary spherocytosis\nThis patient has hereditary spherocytosis, an autosomal dominant disorder. As a result this patient has spherocytic RBC because of the lack of erythrocyte membrane proteins, which are necessary to maintain the normal biconcave shape of the red cell. As a result of the increased permeability of the cell membrane, sodium leaks into the cell causing a rise in the osmotic pressure and resulting in swelling and increased fragility of the cell causing RBCs to be destroyed in the spleen.\nClinically he has unconjugated hyperbilirubinaemia, splenomegaly and gallstones (almost certainly pigment stones). This patient will not have any pruritis from his jaundice because the bilirubin is unconjugated. As the bilirubin is unconjugated, it is bound to albumin and not excreted in the urine. Hence, the condition is also called acholuric (lack of bile in the urine) jaundice.\nThe blood picture will show anaemia, a positive fragility test and a large number of reticulocytes. During the course of the disease some patients might develop a severe crisis of RBC destruction, which presents as pyrexia, extreme pallor, abdominal pain, nausea and vomiting and increase in jaundice. Chronic leg ulcers might sometimes be present. Radioactive chromium labelling of the patient's own red cells will show the spleen to be site of red cell sequestration. Splenectomy and cholecystectomy should be carried out laparoscopically or by open surgery depending on the available expertise.\nThe other causes of haemolytic anaemia suitable for splenectomy are acquired autoimmune haemolytic anaemia, thalassaemia and sickle cell disease.\n\n2. C Idiopathic thrombocytopenic purpura (ITP)\nThis 30-year-old female has signs of petechial haemorrhages and generalised bleeding tendency. Her low platelet count points to the diagnosis of ITP. The low platelet count is due to the development of antibodies to specific platelet glycoproteins that damage the patient's own platelets – hence it is also known as autoimmune thrombocytopenic purpura. The spleen is palpable in a minority of cases.\nIf the platelet count remains low and the patient has two relapses on steroid therapy, splenectomy is considered. Response to steroids indicates a good response to splenectomy. Up to two-thirds of patients will be cured by splenectomy; a further 15% will be improved, whilst in the remainder the operation will make no difference.\nAn enlarged spleen is not always palpable. For an enlarged spleen to be clinically palpable, the organ needs to be almost three times its normal size. A spleen enlarges toward the right iliac fossa. The classical physical findings of an enlarged spleen are that it moves with respiration and has a sharp edge with a notch.\n\n3. E Splenic artery aneurysm\nThis pregnant woman has the incidental finding of a splenic artery aneurysm. These are usually silent unless they rupture. Fifty percent of cases of rupture occur in patients younger than 45 years, and 25% occur in pregnant women usually in the third trimester or during labour. Hence, a serious consideration should be given to prophylactically treating this splenic artery aneurysm by interventional radiology.\nIn 25% of the cases, there might be more than one aneurysm when they are usually the aftermath of pancreatic necrosis after severe acute pancreatitis. In the young patient embolisation or endovascular stenting can be considered depending upon the available expertise. Splenectomy still remains a choice.\n\n4. A Splenic infarction\nThis patient has splenic infarction (Figure 66.1), a condition that occurs in those with massive splenomegaly, such as in myeloproliferative disorders, portal hypertension, or splenic vein thrombosis. The infarct can be asymptomatic or give rise to left upper quadrant pain radiating to the left shoulder tip. The suspected diagnosis is confirmed by CECT showing perfusion defect in an enlarged spleen.\nConservative management is tried but if the patient continues to be septic, denoting a splenic abscess, splenectomy is carried out.\nHypersplenism is a term used to describe a combination of anaemia, leukopenia, or thrombocytopenia and compensatory bone marrow hyperplasia in the presence of splenomegaly. Almost any cause of splenomegaly can give rise to this, the mechanism being increased filtration or phagocytosis, increased pooling of cellular blood components, or reduced RBC life span. Improvement usually occurs after splenectomy.\n\n5. D Splenic rupture\nThis young man has the hallmarks of a ruptured spleen. He spent the early part of his life in a tropical country where he suffered from malaria, which would have caused an enlarged spleen. Trivial trauma during contact sport caused rupture of his spleen. It is typical of a pathological organ to be badly damaged and cause bleeding after minor trauma. In a malarial spleen, blunt trauma might cause a subcapsular haematoma and the patient might be in slight discomfort to start with, only for him to collapse with severe pain and shock some time later when the haematoma ruptures."
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "chapter_name": "History taking and clinical examination in musculoskeletal disease",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "1. Regarding history taking, which of the following are not routinely part of the process?",
+            "options": [
+                "A Introduce yourself.",
+                "B Confirm the patient's name and date of birth.",
+                "C Obtain details of the patient's past medical history.",
+                "D Ask about any previous surgical procedures.",
+                "E Assess for tenderness."
+            ],
+            "answer": "E",
+            "explanation": "Introduction consists of giving your own name and position, followed by checking the patient's name and date of birth. You should then explain what you are proposing to do before obtaining the patient's verbal consent to proceed. Essential aspects of the musculoskeletal history include the following:\n• Presenting complaint and history\n• Associated symptoms, e.g., pain, swelling, instability, other joint or bone involvement\n• Past medical and drug history, e.g., warfarin, steroids\n Previous surgical procedures or anaesthetics\n Relevant family history\n Allergies\n• Social history\n Smoking and alcohol\n Occupation\n Level of mobility including the use of aids\n Activities of daily living\nAssessing for tenderness is routinely part of the musculoskeletal examination."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "2. Regarding the Apley system of examination, which of the following statements are true?",
+            "options": [
+                "A It is a four-stage system.",
+                "B The 'look' stage only starts once the patient has been fully exposed.",
+                "C It requires exposure only of the affected limb and one joint above and below.",
+                "D Assessing the skin for scars, wounds and redness is part of the 'feel' stage.",
+                "E It requires that the distal neurovascular status be checked in all cases."
+            ],
+            "answer": "E",
+            "explanation": "The Apley system is a triad (three parts) comprising 'look', ‘feel,' and ‘move'. This is followed by special tests and a neurovascular assessment. Looking starts as the patient enters the room for the following:\n• Assess the gait and for evidence of discomfort, as well as any walking aids\n• Look for any stigmata of disease, e.g., Horner's syndrome in the eyes or rheumatoid arthritis in the hands\nExposure requires removing any clothes from one joint above to the one below in relation to the affected area as well as the opposite side, so that a comparison can be made between normal and abnormal. The Apley system starts with looking at the skin, which is often best done with the patient standing, walking around the patient to make sure that no view (especially the back) is missed. Look at the following:\n• Skin: scars, wounds, erythema, sinuses, rashes, ulcers, bruising, hair loss, pigmentation\n• Soft tissue: swelling, lumps, muscle wasting or fasciculation\n• Bones: alignment or deformity\nFeel is the second stage of the Apley system and follows the same principle: skin, soft tissue and bone. It is good practice to ask the patient if there is an especially tender area, to avoid causing unnecessary discomfort. Observe the patient's face, not your hands, when palpating as it is on the patient's face that the first signs of discomfort will be found. Assessment of the distal neurovascular status is required in all cases."
+        },
+        {
+            "id": "3",
+            "question_type": "mcq",
+            "question": "3. Regarding the Apley system of examination, which of the following statements are false in relation to the 'move' stage?",
+            "options": [
+                "A 'Move' is the third stage of the Apley system of examination.",
+                "B The physician should move the limb first (passive movement).",
+                "C Stability includes checking muscle power, joint stability and special tests.",
+                "D Abduction is movement of the limb away from the midline.",
+                "E Muscle power is measured on a six-level scale (0-5)."
+            ],
+            "answer": "B",
+            "explanation": "Move is the third stage of the Apley system of the examination. Initially, active movement (by the patient) of the affected limb is carried out to give an overall impression of the range of movement and discomfort. The physician should then progress with passive movements and assess stability. The standard range of movement involves the following:\n• Flexion (forward/anterior movement of trunk or limb)\n• Extension (backwards/posterior movement)\n• Abduction (away from the midline)\n• Adduction (towards the midline)\n• Internal rotation (rotation towards midline)\n• External rotation (rotation away from midline)\nPronation-supination (palms down/posteriorly, palms up/superiorly)\n• Inversion-eversion (sole of foot moves medially, sole of foot moves laterally)\nStability has static and dynamic components that are assessed through muscle power, ligament stability and special tests. Muscle power is routinely graded on the Medical Research Council (MRC) scale, with consideration given to the action of each muscle, the peripheral nerve supply and nerve root supply (Table 33.1)."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "4. Regarding examination of the spine, which of the following statements are true?",
+            "options": [
+                "A Forward bend accentuates the rib hump of idiopathic thoracic scoliosis.",
+                "B The thoracic spine normally has a lordosis.",
+                "C A hairy tuft at the base of the spine is diagnostic of Down syndrome.",
+                "D The Lasègue straight-leg raise test is a special test for fixed flexion deformity of the hip.",
+                "E Palpation of the spinous processes does not detect a spondylolisthesis."
+            ],
+            "answer": "A",
+            "explanation": "Examination of the spine – cervical, thoracic and lumbar – follows the same system as for any other joint. The spine should be straight in the coronal (front/back) plane with the head centred over the sacrum, but in the sagittal (side) plane the following should be seen:\n• Cervical spine: concave/lordosis (range 20–40 degrees)\n• Thoracic spine: convex/kyphosis (range 20-45 degrees)\n• Lumbar spine: concave/lordosis (range 40–60 degrees)\nAsking the patient to bend forward accentuates the rib hump (on the thoracic convex side) caused by the rotation of idiopathic thoracic scoliosis. If the curve disappears as the patient bends forward, this is indicative of a flexible curve secondary to other deformities, e.g., leg length discrepancy.\nA hair tuft at the base of the spine is diagnostic of spina bifida. The Lasègue straight-leg test excludes pain arising from the hip joint and tight hamstrings, focusing on pain produced by stretching the sciatic nerve (sciatica, L5-S1 nerve roots). Palpation of the lumbar spinous processes might detect the characteristic gap and ‘step-off' caused by the forward slip of one vertebral body on the one below (spondylolisthesis)."
+        },
+        {
+            "id": "5",
+            "question_type": "mcq",
+            "question": "5. Regarding examination of the hand and wrist, which of the following statements are false?",
+            "options": [
+                "A Tight bands on the volar surface are indicate of Dupuytren's disease.",
+                "B Wasting of the thenar eminence is diagnostic of an ulnar nerve palsy.",
+                "C Froment's sign assesses the power of adductor pollicis.",
+                "D Median nerve neuropathy can be assessed with Phalen's test.",
+                "E Allen's test determines the efficacy of the blood supply to the hand."
+            ],
+            "answer": "B",
+            "explanation": "Dupuytren's contracture is immediately visible when inspecting the hand. The skin is contracted by tight bands, with the little and ring fingers (commonly) pulled down into a fixed flexion deformity.\nPatterns of motor and sensory disturbance, along with the special tests, for median and ulnar neuropathy are detailed in Table 33.2 (see also Figure 33.1). Wasting of the thenar eminence is diagnostic of median neuropathy. Abnormal sensation in the hand can be assessed using the stroke test, utilising the contralateral hand for comparison. However, for accurate delineation of the extent and severity of sensory loss, two-point discrimination is tested. When testing for carpal tunnel syndrome, Tinel's or Phalen's test can be used. Tinel's involves tapping over the suspected nerve with the tip of a finger, e.g., over the flexor retinaculum for the median nerve. A positive test is associated with pains or tingling sensation over the nerve and its distribution. Allen's test assesses the contribution of the ulnar and radial arteries to the palmar arch and hand. It involves occluding both arteries at the wrist, while the patient repeatedly makes a fist until the fingers go pale. Each artery is released in turn to determine the contribution."
+        },
+        {
+            "id": "6",
+            "question_type": "mcq",
+            "question": "6. Regarding examination of the shoulder and elbow, which of the following statements are true?",
+            "options": [
+                "A The physiological carrying angle of the elbow is less than five degrees.",
+                "B Tenderness over the common flexor origin is diagnostic of tennis elbow.",
+                "C A positive Jobe's test can be indicative of rotator cuff impingement.",
+                "D Internal rotation of the shoulder is normal if the patient can reach L2.",
+                "E A painful arc is diagnostic for a rotator cuff tear."
+            ],
+            "answer": "C",
+            "explanation": "The physiological carrying angle is the axis that the forearm makes with the upper arm when the patient stands with the elbows fully extended, palms facing anteriorly. The carrying angle reduces with elbow flexion and an abnormal angle may be associated with previous trauma, e.g., supracondylar fracture malunion. The normal carrying angle is ~7–16 degrees (~10 degrees in males, ~13 degrees in females). Tennis elbow is a painful inflammation of the common extensor origin on the lateral side of the elbow, i.e., lateral epicondylitis. Golfer's elbow is less frequent and involves the common flexor origin, i.e., medial epicondylitis.\nThe movements of the shoulder with the patient standing include the following:\n• Flexion (0-180°) and extension (0-45°)\n• Abduction: 0-180°\n 0–70° glenohumeral,\n 70–150° glenohumerual and scapulothoracic\n 150-180° glenohumerual and scapulothoracic\n• Adduction\n• External rotation (0–40°)\n Arms by side, elbows at 90° flexion\n• Internal rotation (T4–T9 normal range)\n Touch back as high up as possible with dorsum of hand\nThe rotator cuff (supraspinatus, infraspinatus, teres minor, subscapularis) can become inflamed or damaged as it passes under the acromion. A positive Jobe's test or painful arc is indicative for impingement syndrome:\n• Jobe's test for supraspinatus impingement and tear: abduct to 90°, angle forward 30º, internal rotation, thumb pointing to floor\n 'Empty can' position\n Push down on arm: weak = tear or impingement, pain = impingement\n• Painful arc for impingement: abduct arm from side\n Positive if pain between ~50–120°"
+        },
+        {
+            "id": "7",
+            "question_type": "mcq",
+            "question": "7. Regarding examination of the hip, which of the following statements are false?",
+            "options": [
+                "A A broad based gait can be caused by cerebellar ataxia.",
+                "B Leg-length discrepancy can be divided into true and apparent.",
+                "C Thomas's test assess for a fixed flexion deformity of the hip.",
+                "D Trendelenburg test positive is indicative of weak adductors.",
+                "E Impingement can be assessed with hip flexion, adduction and internal rotation."
+            ],
+            "answer": "D",
+            "explanation": "Common gaits are described in Table 33.3. Osteoarthritis of the hip is the most common condition affecting the hip, which moves into a position of comfort (flexed and adducted). Classically, patients lose hip flexion and internal rotation, although all movements can be affected. With the leg held in a flexed adducted position, an apparently ‘short' leg (because of the deformity) is found even when there is no difference in the ‘real' leg lengths as measured by checking the bone lengths. Leg lengths are best measured with the patient supine, pelvis square and legs flat and in an equal abduction angle. The true lengths are measured from the anterior superior iliac spine to the medial malleolus, with the apparent lengths measured from the xiphisternum to the medial malleolus. Galleazzi test confirms whether the discrepancy is coming from the femur or tibia. A positive Trendelenburg test is indicative of weak abductors. You kneel in front of the patient with hands on their pelvis and ask them to stand on each leg in turn while resting their hands on your shoulders. If the abductors are weak, then as they take weight on the affected limb the pelvis will not tilt down (pelvis drops on the contralateral side) and the patient may lose balance pressing down on your shoulder to prevent them falling. Thomas' test is used to determine the degree of fixed flexion deformity of the hip and is performed with the patient supine. One hand is placed under the lumbar lordosis, and the unaffected contralateral hip is flexed up. The lumbar lordosis should flatten out and any fixed flexion of the hip in question becomes apparent. Femoro-acetabular impingement can be assessed by the following:\n1 Hip flexion to ≥ 90°, adduction, internal rotation (anterior impingement)\n2 Hip flexion to ≥ 90°, full adduction, external rotation"
+        },
+        {
+            "id": "8",
+            "question_type": "mcq",
+            "question": "8. Regarding examination of the knee, which of the following statements are true?",
+            "options": [
+                "A The patellar tap test is a test for patellar femoral osteoarthritis.",
+                "B The lag test assesses the integrity of the flexor mechanism.",
+                "C The integrity of the collateral ligaments is assessed with the knee in full extension.",
+                "D A posterior cruciate deficient knee will have a positive Lachmann test.",
+                "E A positive apprehension test could indicate a previously dislocated patella."
+            ],
+            "answer": "E",
+            "explanation": "Dislocation of the patella can be difficult to diagnose, as it normally relocates spontaneously. However, from then on any manual attempt to dislocate the patella laterally will cause apprehension in the patient, along with potentially pain and quadriceps contraction. Patello-femoral osteoarthritis is associated with crepitus. Following are the two common methods when assessing for a knee joint effusion:\n1 Stroke or massage test: The knee is in extension, and the medial side of the knee is emptied into to the suprapatellar pouch by massaging upwards on the medial aspect of the knee. This fluid is then massaged down, filling the medial gutter.\n2 Patellar tap: The knee is in extension, and fluid is squeezed from the suprapatellar pouch into the knee and with the other hand the patella is depressed and a 'tap' is felt.\nThe lag test is a sensitive test for weakness or rupture in the extensor mechanism of the knee. The leg is raised passively first to ensure that the knee can fully extend. The patient is then asked to perform a straight leg raise actively. A difference between passive range of movement and active indicates a positive lag test. When assessing the collateral ligaments, it is necessary to flex the knee to ~10º, to release the posterior capsule. Lachmann's test assesses the integrity of the anterior cruciate ligament, whereas the posterior draw test assesses the posterior cruciate ligament."
+        },
+        {
+            "id": "9",
+            "question_type": "mcq",
+            "question": "9. Regarding examination of the foot and ankle, which of the following statements are false?",
+            "options": [
+                "A Pes cavus is associated with Charcot-Marie Tooth disease.",
+                "B Loss of sensation in a glove-and-stocking distribution is associated with diabetes.",
+                "C Inversion and eversion occur at the ankle joint.",
+                "D The windlass test distinguishes physiological from spastic flat foot.",
+                "E Patients with a ruptured tendo Achilles might still be able to stand on their tiptoes."
+            ],
+            "answer": "C",
+            "explanation": "Pes cavus is defined by a high medial arch and is associated with spinal and neurological disorders, e.g., Charcot-Marie Tooth, spina bifida. Loss of sensation in the foot resulting from nerve root entrapment will be in the distribution of a dermatome, e.g., L5, but diabetes produces a glove-and-stocking distribution of sensory loss. Dorsiflexion and plantar flexion occur almost exclusively at the tibiotalar (ankle) joint, while inversion and eversion occur at the subtalar joint. When you ask a patient to stand on tiptoes, the arch of the foot should increase. This is the windlass test. If the arch does not appear or increase, then the patient has a fixed or rigid flat foot, e.g., tarsal coalition. Thompsons's or Simmonds' test is used to test the integrity of the Achilles tendon. The patient lies prone and the calf is squeezed, and the ankle should dorsiflex with an intact tendon. It is a paradox that patients with a complete rupture of the tendo Achilles might still be able to stand on their tiptoes using the long toe flexors as plantarflexors of the ankle."
+        }
+    ]
+}

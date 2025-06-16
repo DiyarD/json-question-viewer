@@ -1,0 +1,156 @@
+{
+    "chapter_name": "Musculoskeletal tumours",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "Regarding malignant bone tumours, which of the following is the most common primary bone malignancy?",
+            "options": [
+                "A Chondrosarcoma",
+                "B Ewing's sarcoma",
+                "C Metastases",
+                "D Multiple myeloma",
+                "E Osteosarcoma"
+            ],
+            "answer": "D",
+            "explanation": "Metastases are the most common malignant bone tumours, but multiple myeloma is the most common primary malignant bone tumour. It is common after the fifth decade and in males. It is defined by the neoplastic proliferation of plasma cells in the bone marrow, resulting in solitary (plasmacytoma) or multicentric (multiple myeloma) skeletal lesions. There are major and minor criteria for the diagnosis. The prognosis is varied with median survival being three years. Osteosarcoma is the most common malignant primary bone sarcoma, with a bimodal incidence distribution (adolescents, e.g., second decade and elderly patients associated with Paget's disease). Chondrosarcoma and Ewing's sarcoma are less commonly seen."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "Regarding bone metastases, which of the following is a common primary site?",
+            "options": [
+                "A Brain",
+                "B Breast",
+                "C Colonic",
+                "D Gastric",
+                "E Pancreatic"
+            ],
+            "answer": "B",
+            "explanation": "After the lung and liver, bone is the third most common site for metastases. Patients can present with symptoms and signs from the primary lesion, e.g., shortness of breath or cough in patients with primary lung cancer, along with symptoms and signs associated with bony metastases, e.g., pain. Patients can present with metabolic disturbance associated with hypercalcaemia (e.g., confusion, polyuria, muscle weakness). The most common sites are the spine (thoracic common), which can lead to neurological compromise associated with spinal cord compression, the proximal femur and proximal humerus (which can cause bone pain or pathological fracture). Haematogenous spread is the common route, with cells spreading via Batson's vertebral venous plexus (no valves allowing retrograde spread to spine, pelvis and long bones). For more than 90% of bony metastases, the primary lesion is from the following:\n• Breast\n• Lung\n• Renal → Lytic lesions common\n• Thyroid\n• Prostate → Sclerotic lesions common\nRoutine investigations include bloods, plain radiographs, CT, bone scan and bone biopsy, when indicated. MRI is used to detect neurological compromise. Management includes pain relief, bisphosphonates, radiotherapy, chemotherapy and potentially surgery, e.g., intramedullary nailing to stabilise an actual or impending pathological fracture, spinal cord decompression. Pre-operative embolisation of the lesion is indicated for potentially highly vascular lesions, e.g., renal or thyroid metastases."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "Regarding osteogenic and chondrogenic tumours, which of the following is associated with Ollier's disease?",
+            "options": [
+                "A Chondroblastoma",
+                "B Chondrosarcoma",
+                "C Enchondroma",
+                "D Osteoid osteoma",
+                "E Osteosarcoma"
+            ],
+            "answer": "C",
+            "explanation": "Enchondroma is a common benign hyaline cartilaginous tumour found in the medullary cavity of predominantly the hands (most common bone tumour of the hand), feet and long bones. It is seen in both men and women between 20 and 50 years of age. Although enchondroma can be associated with pain, swelling, deformity and pathological fracture, many are asymptomatic incidental findings. Radiographs often demonstrate scalloped lucent or lytic lesions located in the bone metaphysis or diaphysis, with patchy calcification (Figure 39.1). Solitary lesions are defined as an Enneking benign lesions stage 1 – latent. The following two multiple forms are known:\n1 Ollier's disease: Multiple enchondromas, skeletal dysplasia, long bones affected with associated deformity (e.g., bowing, short), risk of malignant transformation 20%–30%."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "Regarding the Enneking staging system for malignant bone tumours, what stage is a high-grade extra compartmental osteosarcoma?",
+            "options": [
+                "A IA",
+                "B IB",
+                "C IIA",
+                "D IIB",
+                "E III"
+            ],
+            "answer": "D",
+            "explanation": "The following are the two Enneking classifications for bone tumours:\n1. Benign\n• Latent: Often asymptomatic, e.g., osteochondroma, enchondroma.\n• Active: Mild symptoms and grow slowly, e.g., aneurismal bone cyst.\n• Aggressive: Symptomatic and often grow rapidly, e.g., giant cell tumour.\n2. Malignant: Based on the grade, whether the bone cortex has been breached (extra compartmental) and presence of metastases (Table 39.1). Many bone tumours present as an Enneking stage IIB."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "Regarding soft tissue tumours, which of the following is not a common warning symptom or sign?",
+            "options": [
+                "A Increasing in size",
+                "B Larger than 5 cm",
+                "C Pain",
+                "D Recurrence of previous excision",
+                "E Superficial to the fascia"
+            ],
+            "answer": "E",
+            "explanation": "Soft-tissue tumours can be benign (e.g., lipoma) or malignant (e.g., liposarcoma). Soft-tissue tumour warning signs are the following:\n• Increasing in size\n• Larger than 5 cm\n• Painful\n• Recurrence of previous excision\n• Deep to the fascia"
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "Regarding the classification of surgical resection margins, which of the following defines a resection through the reactive zone of the tumour?",
+            "options": [
+                "A Biopsy",
+                "B Intralesional",
+                "C Marginal",
+                "D Radical",
+                "E Wide"
+            ],
+            "answer": "C",
+            "explanation": "Following surgical excision of a tumour, the resection margins are classified to determine the degree of resection (Table 39.2)."
+        },
+        {
+            "id": 7,
+            "question_type": "matching",
+            "question": "For each of the following cases, select the single most likely diagnosis from the options listed. Each option may be used once, more than once, or not at all.",
+            "options": {
+                "items": [
+                    "A A 68-year-old woman presents with a painful left hip with no history of trauma and radiographs demonstrate a pathological fracture through a lytic lesion in the left proximal femur. Subsequent staging investigations show multiple lesions in the spine.",
+                    "B A 16-year-old boy finds a prominent hard lump on the back of his knee, which restricts flexion but has not changed significantly in size over the past 6 to 12 months. Radiographs reveal a pedunculated projection from the bone.",
+                    "C A 13-year-old boy presents with a history of pain and localised swelling of his left humerus, with subsequent radiographs demonstrating an ‘onion skin' periosteal reaction.",
+                    "D A 66-year-old woman is found to have multiple lytic lesions in her skeleton. Urine protein electrophoresis was positive for Bence-Jones proteins.",
+                    "E A 32-year-old woman presents with pain and reduced range of movement around her right wrist. Radiographs reveal a single lytic lesion of the distal radius, with subsequent biopsy demonstrating large multinucleate osteoclast-like cells.",
+                    "F A 17-year-old boy presents complaining of severe pain in the right leg. The pain is worse at night but lessens with ibuprofen. Radiographs reveal a 1-cm radiolucent nidus surrounded by a dense cortical reaction in the right tibial diaphysis."
+                ],
+                "choices": [
+                    "1 Chondrosarcoma",
+                    "2 Ewing's sarcoma",
+                    "3 Fibrous dysplasia",
+                    "4 Giant cell tumour",
+                    "5 Metastasis",
+                    "6 Multiple myeloma",
+                    "7 Osteochondroma",
+                    "8 Osteoid osteoma",
+                    "9 Osteosarcoma"
+                ]
+            },
+            "answer": {
+                "A": "5",
+                "B": "7",
+                "C": "2",
+                "D": "6",
+                "E": "4",
+                "F": "8"
+            },
+            "explanation": "A. 5 Metastasis: A pathological fracture in an elderly patient through a lytic lesion is most likely to be a metastasis, particularly with further lesions found within the spine. Metastases are far more common than primary bone tumours.\nB. 7 Osteochondroma: This lump is not growing and therefore is likely to be benign. It appears to be an outgrowth from the bone but on radiographs is almost completely invisible. This means that it is mainly a cartilage cap on a bone stalk with a classic ‘mushroom' appearance. This is characteristic of an osteochondroma, which is a common benign chondrogenic tumour frequently found in children, adolescents and young adults. Common sites are the metaphyses of the proximal and distal femur, proximal tibia and proximal humerus. Multiple hereditary exostosis (MHE) is an autosomal dominant multiple form associated with mutation in the EXT gene. Many solitary lesions are asymptomatic, with a palpable mass possible or less commonly mechanical or neurovascular symptoms or signs due to irritation of the surrounding soft-tissue structures. MHE is associated with limb deformities, e.g., bowed forearm and early onset osteoarthritis (Figure 39.2). Malignant transformation (chondrosarcoma) is rare with solitary lesions but can occur in 5%–10% in MHE. Management is with excision if symptomatic.\nC. 2 Ewing's sarcoma: Ewing's sarcoma is a rare malignant small round cell sarcoma of bone commonly found in males in the second decade of life (5 to 25 years old). Genetic translocation is (t 11;22). Site is usually the diaphysis of long bones, e.g., femur, pelvis, or spine. Clinical presentation is often with a painful and tender mass, with or without possibly systemic upset, e.g., pyrexia, anaemia and raised inflammatory markers. Presentation can mimic infection. Radiographs reveal osseous destruction (moth-eaten), soft-tissue swelling (particularly evident on MRI that is required to determine extent of soft-tissue involvement) and a characteristic ‘onion-skin' periosteal reaction. CT is required for staging, with lung metastases seen. Management is with chemotherapy and surgical resection.\nD. 6 Multiple myeloma: After metastases, the next most common lesion in the skeleton is plasmacytoma (solitary), which is called multiple myeloma when there are many lesions. These consist of lymphoid tissue. Multiple myeloma is caused by the proliferation of plasma cells, and presentation can mimic widespread metastases. Investigations include blood tests for anaemia, raised ESR, hypercalcaemia and renal failure. Blood and urine protein electrophoresis demonstrate raised levels of immunoglobulin, and in the urine this is seen as Bence-Jones protein. Radiographs reveal multiple punched-out lesions. Bone scans can be cold. Chemotherapy is the mainstay of management, along with the following symptom controls:\n• Bone pain +/- fracture: Bisphosphonates, radiotherapy, fracture stabilisation\n• Anaemia: EPO\n• Renal failure: Supportive, dialysis\nE. 4 Giant cell tumour: A solitary lesion full of large multinucleate osteoclast-like cells is a giant cell tumour. It is a benign tumour (it does not metastasise) but is locally quite aggressive and is defined as an Enneking benign lesions stage 3 – aggressive. They are commonly found in young adults between the ages of 20 and 50 years, with females more frequently seen. Common sites include the epiphysis of long bones, e.g., proximal tibia, distal femur, proximal humerus, distal radius. Pain and reduced range of movement of local joint is common. Radiographs demonstrate a non-sclerotic expanding eccentric lytic lesion that extends to the subchondral region. Management is with radical curettage +/– adjuvant treatment, e.g., hydrogen peroxide, plus reconstruction as required. Metastases can occur to the lung (<5% cases).\nF. 8 Osteoid osteoma: Osteoid osteoma is a benign osteogenic tumour commonly found in young males between the ages of 5 and 30 years. Sites include the diaphysis of the long bones and the spine. Patients often present with quite severe pain that is not associated with activity, which is characteristically worse at night and relieved by NSAIDs, e.g., ibuprofen. Radiographs demonstrate a radiolucent nidus surrounded by a dense periosteal reaction (when nidus >1.5cm osteoblastoma). Management is with conservative measures, e.g., observation and NSAIDs. Surgery (ablation or excision) is usually reserved for refractory cases."
+        },
+        {
+            "id": 8,
+            "question_type": "matching",
+            "question": "For each of the following cases, select the Mirels score from the options listed. Each option may be used once, more than once, or not at all.",
+            "options": {
+                "items": [
+                    "A A 45-year-old man presents with a pathological lesion of the humerus, with malignant melanoma the known primary. He has moderate pain and a lytic-type lesion, which is 30% of the cortical thickness.",
+                    "B A 62-year-old man presents with a pathological lesion of the shaft of the femur, with renal cell carcinoma the known primary. He has moderate pain and a lytic-type lesion, which is 50% of the cortical thickness.",
+                    "C A 52-year-old woman presents with a pathological lesion of the proximal femur, with breast carcinoma the known primary. She has severe pain and a lytic-type lesion, which is 80% of the cortical thickness.",
+                    "D A 72-year-old man presents with a pathological lesion of the shaft of the humerus, with prostate carcinoma the known primary. He has mild pain and a mixed-type lesion, which involves 50% of the cortical thickness."
+                ],
+                "choices": [
+                    "1 Mirels score 3",
+                    "2 Mirels score 4",
+                    "3 Mirels score 5",
+                    "4 Mirels score 6",
+                    "5 Mirels score 7",
+                    "6 Mirels score 8",
+                    "7 Mirels score 9",
+                    "8 Mirels score 10",
+                    "9 Mirels score 11",
+                    "10 Mirels score 12"
+                ]
+            },
+            "answer": {
+                "A": "5",
+                "B": "7",
+                "C": "10",
+                "D": "4"
+            },
+            "explanation": "The Mirels scoring system is used to stratify the risk of pathological fracture and involves the following four categories scored 1–3:\n• Tumour site: Upper limb, lower limb, peri-trochanteric or proximal femur\n• Pain: Mild, moderate, functional or severe\n• Lesion: Blastic, mixed, lytic\n• Size: <1/3 of cortical thickness, 1/3-2/3 cortical thickness, >2/3 cortical thickness\nFor a score of ≤7, the risk of fracture is less than 5%, so prophylactic fixation is not considered necessary, with observation +/– radiotherapy as indicated. For a score of 8, clinical judgement is recommended as the risk of fracture is ~15%–30%. For a score ≥9, prophylactic fixation is recommended as the risk of fracture ranges from 30%–100%.\n\nA. Humerus (upper limb = 1), Moderate pain (2), Lytic (3), 30% cortical thickness (<1/3 = 1). Total = 1+2+3+1 = 7.\nB. Shaft of the femur (lower limb = 2), Moderate pain (2), Lytic (3), 50% cortical thickness (1/3-2/3 = 2). Total = 2+2+3+2 = 9.\nC. Proximal femur (peri-trochanteric or proximal femur = 3), Severe pain (3), Lytic (3), 80% cortical thickness (>2/3 = 3). Total = 3+3+3+3 = 12.\nD. Shaft of the humerus (upper limb = 1), Mild pain (1), Mixed (2), 50% cortical thickness (1/3-2/3 = 2). Total = 1+1+2+2 = 6."
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "chapter_name": "The pancreas",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?\nA The pancreas weighs about 80 g.\nB The head of the pancreas lies over the body of L2 vertebra.\nC The uncinate process lies behind the superior mesenteric vessels.\nD The splenic artery travels along the upper border of the pancreas.\nE The potential space in front of the pancreas is called the greater sac.",
+            "options": [
+                "A The pancreas weighs about 80 g.",
+                "B The head of the pancreas lies over the body of L2 vertebra.",
+                "C The uncinate process lies behind the superior mesenteric vessels.",
+                "D The splenic artery travels along the upper border of the pancreas.",
+                "E The potential space in front of the pancreas is called the greater sac."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "The pancreas weighs about 80 g. The head constitutes 30% of the gland mass, whilst the remaining 70% is accounted for by the body and tail. The head of the pancreas overlies the second lumbar vertebra. This anatomical fact is important in severe blunt upper abdominal trauma where there may be a ‘fracture' of the pancreas at the junction of the head and neck because of the gland being crushed between the force of injury and vertebral body.\nThe uncinate process is a hook-shaped projection from the head toward the left behind the superior mesenteric artery and vein and in front of the aorta. A cancer affecting the uncinate process would soon involve these vessels making the growth almost unresectable. The splenic artery travels along the upper border of the pancreas to enter the splenic hilum. The position of this artery is significant in that if there were a gastric ulcer in the posterior wall of the stomach it would penetrate into this artery causing severe haematemesis.\nThe space in front of the pancreas is called the lesser sac or omental bursa. The surgical importance of this is the formation of a pseudo-cyst of the pancreas, which is a collection of fluid in this space that occurs as a complication of acute pancreatitis."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "2. The following statements are true except:\nA The vast majority of the acinar tissue is endocrine.\nB The pancreatic tail snugly fits into the splenic hilum.\nC The pancreatic digestive enzymes are acidic in nature with a pH of 7.\nD The islets of Langerhans have three types of cells producing hormones.\nE The amount of pancreatic juice secreted is 1200 to 1500 mLs in 24 hours.",
+            "options": [
+                "A The vast majority of the acinar tissue is endocrine.",
+                "B The pancreatic tail snugly fits into the splenic hilum.",
+                "C The pancreatic digestive enzymes are acidic in nature with a pH of 7.",
+                "D The islets of Langerhans have three types of cells producing hormones.",
+                "E The amount of pancreatic juice secreted is 1200 to 1500 mLs in 24 hours."
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "explanation": "The vast majority (80%–90%) of the pancreatic acinar tissue is exocrine. This is in the form of lobules. The pancreatic digestive enzymes, secreted in response to a meal, are a bicarbonate-rich fluid with a pH of 8.4.\nThe pancreatic tail fits into the splenic hilum, an important anatomical fact during the procedure of splenectomy. At the operation the surgeon needs to dissect the pancreatic tail very carefully off the hilum so as not to inadvertently damage it while ligating the main splenic vessels. The islets of Langerhans are groups of endocrine cells distributed throughout the pancreas and consist of the following different cell types: β cells producing insulin constitute 70%, α cells producing glucagon comprise 20% and δ cells producing somatostatin make up the remainder. The total amount of pancreatic juice secreted by the cells lining the ducts is about 1200 to 1500 mLs."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. Which of the following statements in biochemical investigations are true?\nA Elevation of serum amylase is diagnostic.\nB Estimation of serum lipase is more sensitive and specific.\nC Urinary amylase and amylase-creatinine clearance is highly accurate.\nD Pancreatic exocrine function can be measured.\nE Serum elastase measurement is useful.",
+            "options": [
+                "A Elevation of serum amylase is diagnostic.",
+                "B Estimation of serum lipase is more sensitive and specific.",
+                "C Urinary amylase and amylase-creatinine clearance is highly accurate.",
+                "D Pancreatic exocrine function can be measured.",
+                "E Serum elastase measurement is useful."
+            ],
+            "answer": [
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Serum lipase is more specific and sensitive than serum amylase in the diagnosis of acute pancreatitis; unfortunately it is not readily available. Pancreatic exocrine function can be assessed by directly measuring the amount of pancreatic enzymes secreted by giving a stimulus. This can be in the form of a test meal, as in the Lundh test. The other alternative is to give an intravenous injection of secretin or cholecystokinin (CCK) and measuring the output of gastric and duodenal juices by duodenal intubation using a triple lumen tube. Measurement of the enzyme elastase in stool is specific and used widely; a low level of faecal elastase indicates pancreatic exocrine insufficiency.\nElevation of serum amylase is suggestive but not diagnostic of acute pancreatitis. It might be elevated in other causes of acute abdomen such as perforation of a hollow viscus, mesenteric vascular occlusion, retroperitoneal haematoma and sialadenitis. It therefore follows that urinary amylase and amylase-creatinine ratios are equally not diagnostic."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. Which of the following statements in imaging is not true?\nA Ultrasonography (US) is the initial investigation of choice in the jaundiced patient.\nB When doing a computed tomography (CT) scan, initially an unenhanced scan must be done followed by a scan after intravenous contrast injection (CECT).\nC While doing a magnetic resonance cholangiopancreatography (MRCP), intravenous secretin injection helps to determine any obstruction to the pancreatic duct.\nD Plain abdominal x-ray showing a sentinel loop can be diagnostic.\nE Endoscopic retrograde cholangiopancreatography (ERCP) should always be preceded by a plain radiograph.",
+            "options": [
+                "A Ultrasonography (US) is the initial investigation of choice in the jaundiced patient.",
+                "B When doing a computed tomography (CT) scan, initially an unenhanced scan must be done followed by a scan after intravenous contrast injection (CECT).",
+                "C While doing a magnetic resonance cholangiopancreatography (MRCP), intravenous secretin injection helps to determine any obstruction to the pancreatic duct.",
+                "D Plain abdominal x-ray showing a sentinel loop can be diagnostic.",
+                "E Endoscopic retrograde cholangiopancreatography (ERCP) should always be preceded by a plain radiograph."
+            ],
+            "answer": "D",
+            "explanation": "Plain abdominal x-ray in suspected acute pancreatitis has no role except to exclude the possibility of perforated hollow viscus (duodenal ulcer) looking for gas under the diaphragm. The presence of a sentinel loop is not specific of acute pancreatitis. It is just a loop of bowel affected by ileus and occurs in intra-abdominal infection or inflammation from any cause and is in no way diagnostic of acute pancreatitis.\nUltrasonography is always the initial investigation in the jaundiced patient. It will show gallstones, the width of the common bile duct and space-occupying lesions in the liver and pancreas. It is highly operator dependent and not effective in the obese patient and in the presence of excessive gas in the bowel.\nAn unenhanced CT always precedes a CECT to look for pancreatic or biliary calcification. After contrast injection, arterial and venous phases delineate accurately space-occupying lesions. During an MRCP, secretin injection will show emptying of the pancreatic duct, thereby showing the absence or presence of obstruction. A plain x-ray of the abdomen should precede an ERCP to look for calcification."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "5. Which of the following statements are true?\nA Pancreatic injury is common following blunt abdominal trauma.\nB Pancreatic injury is often accompanied by damage to the liver, spleen and duodenum.\nC The serum amylase is raised in most cases of pancreatic injury.\nD A CECT scan will delineate the damage.\nE In doubtful cases, urgent ERCP is helpful.",
+            "options": [
+                "A Pancreatic injury is common following blunt abdominal trauma.",
+                "B Pancreatic injury is often accompanied by damage to the liver, spleen and duodenum.",
+                "C The serum amylase is raised in most cases of pancreatic injury.",
+                "D A CECT scan will delineate the damage.",
+                "E In doubtful cases, urgent ERCP is helpful."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Pancreatic injury is rare in blunt upper abdominal trauma because of the retroperitoneal position of the organ. Therefore, for the pancreas to be injured, the force of trauma has to be severe. Thus if pancreatic injury occurs, almost certainly the liver, duodenum and spleen are damaged. Penetrating injuries to the back or upper abdomen have a higher incidence of pancreatic damage. The overall damage can be from simple contusion or laceration to major parenchymal and duct destruction; in extreme cases there may be massive destruction of the pancreatic head where inevitably concomitant duodenal injury will be present. The integrity or otherwise of the pancreatic duct will decide the management.\nA raised serum amylase indicates damage to the pancreas. A CECT scan will delineate the damage, failing which an urgent ERCP should be done. MRCP, whilst providing the answer in some patients, may be difficult to interpret."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. Which of the following statements is false?\nA All patients with pancreatic trauma should undergo an exploratory laparotomy.\nB Pancreatic duct disruption requires surgical exploration.",
+            "options": [
+                "A All patients with pancreatic trauma should undergo an exploratory laparotomy.",
+                "B Pancreatic duct disruption requires surgical exploration."
+            ],
+            "answer": "A",
+            "explanation": "All pancreatic injuries do not need a laparotomy. A stable patient following a blunt injury should be thoroughly assessed. Disruption of the main pancreatic duct is an indication for an operation. Penetrating injury in an unstable patient needs urgent surgical exploration. The procedure depends upon the type of injury. Minor parenchymal injuries are treated by haemostasis and closed drainage; a transected gland at the body and tail (Figure 68.1) requires a distal pancreatectomy +/– splenectomy; sometimes an end-to-side pancreatojejunostomy to a Roux loop of jejunum might be possible; finally, severe injuries to the head of the pancreas and duodenum require an emergency pancreatoduodenectomy – a procedure to be carried out by the expert hepatobiliary surgeon.\nStricture of the pancreatic duct might occur later, resulting in recurrent acute pancreatitis. Treatment in such patients is pancreatic resection distal to the strictured duct. A pseudocyst might develop in the aftermath of the injury. This is treated appropriately depending upon whether the main pancreatic duct is patent. When the duct is patent percutaneous aspiration will suffice; in the presence of a disrupted duct, cystogastrostomy is carried out. Unrecognised damage to the pancreatic tail during splenectomy may cause a pancreatic fistula or a pseudocyst."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "7. Which of the following statements is false?\nA Acute pancreatitis accounts for 3% of hospital admissions for abdominal pain in the United Kingdom.\nB Acute pancreatitis is classified into mild and severe.\nC 80% of cases are mild acute pancreatitis, with a mortality rate of 1%.\nD 20% are severe acute pancreatitis, with a mortality of 20%–50%.\nE In all cases of acute pancreatitis, there is a marked rise in serum amylase.",
+            "options": [
+                "A Acute pancreatitis accounts for 3% of hospital admissions for abdominal pain in the United Kingdom.",
+                "B Acute pancreatitis is classified into mild and severe.",
+                "C 80% of cases are mild acute pancreatitis, with a mortality rate of 1%.",
+                "D 20% are severe acute pancreatitis, with a mortality of 20%–50%.",
+                "E In all cases of acute pancreatitis, there is a marked rise in serum amylase."
+            ],
+            "answer": "E",
+            "explanation": "All cases of acute pancreatitis do not cause a rise in serum amylase. A normal amylase in acute pancreatitis might occur when the disease is so severe that the entire pancreas has been destroyed and there is not enough pancreatic tissue left to elaborate the enzyme. Thus, a normal amylase in the presence of acute pancreatitis indicates a poor prognosis. A normal amylase level might also be because the blood has been taken too late and the patient has recovered from the acute attack, which has been transient.\nAcute pancreatitis accounts for 3% of hospital admissions for abdominal pain in the United Kingdom. Once diagnosed with the condition the patient is categorised as a mild or severe case (see the following), 80% turning out to be mild with a mortality of 1%. The remaining 20% who are severe have a mortality rate ranging from 20% to 50%."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "8. Which one of the following causes of acute pancreatitis is due to a congenital anatomical variation?\nA Gallstones\nB Hereditary pancreatitis\nC Pancreas divisum\nD Autoimmune pancreatitis\nE Hyperparathyroidism",
+            "options": [
+                "A Gallstones",
+                "B Hereditary pancreatitis",
+                "C Pancreas divisum",
+                "D Autoimmune pancreatitis",
+                "E Hyperparathyroidism"
+            ],
+            "answer": "C",
+            "explanation": "During the development of the pancreas, most of the dorsal duct drains into the proximal part of the ventral duct. The proximal part of the dorsal duct persists as accessory pancreatic duct. Late in the development or in the postnatal period, the ducts fuse. Failure of fusion of the embryological dorsal and ventral parts of the pancreas results in pancreas divisum. In such a situation, which occurs in 5% to 10%, the dorsal pancreatic duct acts as the main pancreatic duct draining most of the pancreas through the minor or accessory papilla. The ventral duct drains only the uncinate process.\nThese papillae in pancreas divisum are smaller than the major papilla. Therefore a large volume of secretions flowing through these minor papillae cause incomplete drainage with back pressure, resulting in pancreatitis. In patients with recurrent acute pancreatitis where no cause can be found (idiopathic), pancreas divisum should be considered. It is estimated that 25% to 50% of patients who suffer from recurrent acute pancreatitis, chronic pancreatitis, or pancreatic pain have pancreas divisum as the cause.\nConfirmation of the diagnosis is by MRCP, EUS, or ERCP. Treatment can range from endoscopic sphincterotomy and stenting, sphincteroplasty, pancreatojejunsotomy, or resection of the pancreatic head.\nThe other listed causes are not of congenital origin. Up to 70% of cases of acute pancreatitis are accounted for by gallstones, while 25% arise from alcohol abuse. The remainder are from other rare causes. A familial condition called hereditary pancreatitis seen in patients in their teens is associated with mutations of the cationic trypsinogen gene. For the aetiology of acute pancreatitis, see Figure 68.2."
+        },
+        {
+            "id": 9,
+            "question_type": "msq",
+            "question": "9. Which of the following statements are true regarding the aetiology of postoperative acute pancreatitis?\nA Following ERCP the incidence of acute pancreatitis is 10%.\nB Therapeutic intervention during ERCP has a higher incidence.\nC Patients after cardiothoracic surgery may develop acute pancreatitis.\nD The post-gastrectomy patient might develop acute pancreatitis.\nE In a post-cholecystectomy patient, acute pancreatitis may be due to a retained stone.",
+            "options": [
+                "A Following ERCP the incidence of acute pancreatitis is 10%.",
+                "B Therapeutic intervention during ERCP has a higher incidence.",
+                "C Patients after cardiothoracic surgery may develop acute pancreatitis.",
+                "D The post-gastrectomy patient might develop acute pancreatitis.",
+                "E In a post-cholecystectomy patient, acute pancreatitis may be due to a retained stone."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The incidence of acute pancreatitis following ERCP is 1%–3%. This incidence rises if therapeutic intervention such as sphincterotomy or balloon dilatation is carried out. When cardiothoracic surgery involves cardiopulmonary bypass, acute pancreatitis is one of the postoperative complications. It is suggested that a mild subclinical injury to the pancreas occurs from cardiopulmonary bypass; if hypoperfusion follows in the postoperative period ischaemic pancreatic necrosis occurs. It has been estimated that in the postoperative period hyperamylasemia occurs in 32% whereas the incidence of acute pancreatitis is 2.7%.\nAcute pancreatitis can also occur in the postoperative period following gastrectomy possibly due to manipulation in the region of the ampulla of Vater. A residual stone in the common bile duct can cause acute pancreatitis from obstruction to the pancreatic duct; this will be much more common if there is a common channel."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "10. Which of the following are not parameters to assess the severity of acute pancreatitis in either Ranson or Glasgow score?\nA Age\nB White cell count\nC Serum amylase\nD Serum calcium\nE Blood urea",
+            "options": [
+                "A Age",
+                "B White cell count",
+                "C Serum amylase",
+                "D Serum calcium",
+                "E Blood urea"
+            ],
+            "answer": "C",
+            "explanation": "Serum amylase is not one of the blood results for assessing severity. Besides the other tests mentioned in the list, serum albumin, arterial oxygen saturation, lactic dehydrogenase (LDH) and aspartate transaminase (AST) are the other important factors. The assessment of severity is very important, so much so this must be performed within 48 hours of making the diagnosis. This is because of the difference in outcome in patients with mild and severe disease and therefore the pattern of management.\nIn intensive care units, where the patient with severe disease should be managed, the APACHE II scoring system is used; a score of 8 or more denotes severe disease. A Glasgow score of 3 or more, C-reactive protein of >150 mm/L and worsening clinical state with organ dysfunction are indicators of severe disease and hence poor prognosis. A patient with a body mass index of >30 has a greater chance of developing complications."
+        },
+        {
+            "id": 11,
+            "question_type": "msq",
+            "question": "11. Which of the following signs have been known to occur in acute pancreatitis?\nA Trousseau's sign\nB Courvoisier's sign\nC Murphy's sign\nD Grey-Turner's sign\nE Cullen's sign",
+            "options": [
+                "A Trousseau's sign",
+                "B Courvoisier's sign",
+                "C Murphy's sign",
+                "D Grey-Turner's sign",
+                "E Cullen's sign"
+            ],
+            "answer": [
+                "D",
+                "E"
+            ],
+            "explanation": "Cullen's and Grey-Turner's signs (Figure 59.1 in Chapter 59) are not pathognomonic although, if present, are very suggestive of acute haemorrhagic pancreatitis. Grey-Turner's sign (originally described in leaking abdominal aortic aneurysm) is a bluish discoloration of the flanks as a result of blood tracking along the fascial planes. Cullen's sign (originally described in ruptured ectopic pregnancy) is haemorrhage around the umbilicus, the blood having tracked there through the falciform ligament. These signs can also occur in liver trauma, ruptured spleen and mesenteric vascular occlusion.\nTrousseau's sign or carpal spasm is seen in tetany. It is produced by arterial occlusion of the forearm above the systolic blood pressure with a sphygmomanometer cuff. Courvoisier's sign (sometimes called law) states that a palpable, nontender gall bladder is the outcome of a malignant distal common bile duct obstruction such as a carcinoma of the head of the pancreas, common bile duct, or periampullary region and not due to stones. This is because gallstones would have rendered the gall bladder contracted from previous cholecystitis.\nMurphy's sign is elicited in acute cholecystitis. When a patient is asked to take a deep breath, as mild pressure is exerted in the right upper quadrant beneath the costal margin at the level of the ninth costal cartilage, the patient has a catch in the breath due to pain."
+        },
+        {
+            "id": 12,
+            "question_type": "msq",
+            "question": "12. Which of the following statements are true with regard to pseudocysts?\nA Pseudocysts occur within the first week of onset of acute pancreatitis.\nB They can be confused with cystic neoplasms.\nC The majority of them require intervention.\nD They can arise after blunt trauma to the upper abdomen.\nE Gastrointestinal bleeding may be a complication of a pseudocyst.",
+            "options": [
+                "A Pseudocysts occur within the first week of onset of acute pancreatitis.",
+                "B They can be confused with cystic neoplasms.",
+                "C The majority of them require intervention.",
+                "D They can arise after blunt trauma to the upper abdomen.",
+                "E Gastrointestinal bleeding may be a complication of a pseudocyst."
+            ],
+            "answer": [
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Occasionally a pseudocyst can be confused with a cystic neoplasm (Figure 68.3). This can be distinguished by aspiration under image guidance or EUS, the fluid being sent for CEA and amylase levels and cytology. High levels of CEA are seen in a mucinous neoplasm, while high amylase levels are in favour of a pseudocyst. A pseudocyst can occur after blunt abdominal trauma, which causes acute or chronic pancreatitis. This resolves in 4 to 6 weeks with the formation of a pseudocyst. Gastrointestinal bleeding might be a presenting feature as a complication of acute pancreatitis if a pseudocyst ruptures into the stomach or duodenum.\nAfter acute pancreatitis, a pseudocyst usually takes up to 4 weeks or more to develop.\nSpontaneous resolution of a pseudocyst occurs in most cases because the majority have a communication with the main pancreatic duct."
+        },
+        {
+            "id": 13,
+            "question_type": "msq",
+            "question": "13. Which of the following statements are true with regard to complications in acute pancreatitis?\nA Patients with severe acute pancreatitis require a CECT scan to detect pancreatic necrosis.\nB In severe acute pancreatitis, a laparotomy must be done in all cases of pancreatic necrosis.\nC Aneurysm of the superior mesenteric artery can occur.\nD The vast majority of patients with peripancreatic sepsis can be treated conservatively.\nE Pleural effusion is seen in 10%–20% of patients.",
+            "options": [
+                "A Patients with severe acute pancreatitis require a CECT scan to detect pancreatic necrosis.",
+                "B In severe acute pancreatitis, a laparotomy must be done in all cases of pancreatic necrosis.",
+                "C Aneurysm of the superior mesenteric artery can occur.",
+                "D The vast majority of patients with peripancreatic sepsis can be treated conservatively.",
+                "E Pleural effusion is seen in 10%–20% of patients."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Patients with severe acute pancreatitis are treated in the ITU and, while they are there, a CECT is carried out at least every other day to look for pancreatic necrosis. If the CECT shows areas of reduced enhancement and peripancreatic fluid collection with pockets of gas within, it means that the necrosis is infected. Confirmation of infection is carried out by fine-needle aspiration cytology. If the fluid is purulent and obviously infected, the patient is treated with antibiotics and by insertion of the widest possible tube drains. The fluid can be viscous and the drain might require regular flushing and repeated replacement. If the sepsis worsens despite vigorous measures, a pancreatic necrosectomy should be undertaken – a challenging procedure not often encountered.\nA superior mesenteric artery aneurysm can occur. The anatomical position of the superior mesenteric vessels behind the neck and between the inferior border and uncinate process of the pancreas makes these vessels vulnerable to compression and inflammation, resulting in an aneurysm (sometimes referred to as a pseudoaneurysm) of the artery and thrombosis of the vein. Rupture of such an aneurysm can be a very serious complication and challenging to treat. Pleural effusion does occur following acute pancreatitis and may require aspiration. The complications of acute pancreatitis are shown in Figure 68.4."
+        },
+        {
+            "id": 14,
+            "question_type": "clinical_scenario",
+            "question": "A 65-year-old man complains of intense itching and jaundice of 6 weeks' duration. He has upper abdominal discomfort and has noticed of late that his urine is deep yellow in colour and his stools are pale. He has some weight loss. On examination he is deeply jaundiced with scratch marks all over his body; abdominal examination reveals a globular discrete mass in the right upper quadrant.",
+            "options": [],
+            "answer": "2",
+            "explanation": "This patient has painless obstructive jaundice with a distended gall bladder and weight loss – classical features of a carcinoma of the head of the pancreas (Figure 68.6). Clinically Courvoisier's sign (see previously) will be positive. Besides all the usual blood tests, he needs an US followed by a CT scan to see the solid mass in the head of the pancreas obstructing the lower end of the CBD. If there is evidence of secondaries in the abdomen, as there usually are, this is unresectable. After discussion in a multidisciplinary team meeting, plans for the best palliation should be made.\nThe patient will require palliation from itching, which is obtained by insertion of a mesh-metal stent in the common bile duct (Figure 68.7). If the growth is big enough to cause gastric outlet obstruction, then at the same time mesh-metal stent is placed in the duodenum. If for any reason that palliation cannot be achieved by minimal-access surgical means described previously, then an open operation is performed. The procedure referred to as triple bypass consists of cholecystojenunostomy, anterior gastrojejunostomy and side-to-side jejunojejunostomy.\nIf the patient is fit, the cancer is localised and there are no distant metastases (after thorough loco-regional staging), the patient should be considered for pancreatoduodenectomy (see the following)."
+        },
+        {
+            "id": 15,
+            "question_type": "clinical_scenario",
+            "question": "A 10-year-old boy presents with upper abdominal pain of 2 weeks' duration. This is associated with upper abdominal distension, nausea, intermittent vomiting and some weight loss, which his parents attribute to his loss of appetite. On abdominal examination he looks unwell, with a smooth mass in his epigastrium that is tense and does not move with respiration. There is bruising over the skin of the epigastrium and, when questioned about it, he says it was the result of his falling off his bike and the handlebar sticking into his tummy.",
+            "options": [],
+            "answer": "5",
+            "explanation": "This young boy has developed a pseudocyst of the pancreas. About 4 weeks ago his bicycle injury produced blunt upper abdominal trauma with transient acute pancreatitis. Although his symptoms at that time were not severe enough for him to seek help, there was a contused pancreas, which later resulted in a pseudocyst. He needs an US and CT scan for confirmation, although the latter may not be carried out to prevent undue radiation in a young boy. Moreover, the CT scan would not give much additional information that the US would not have provided.\nThis is to be followed by a decision as to the best method of treating him, whether by percutaneous or endoscopic drainage, or the open operation of cystogastrostomy. In an adult one would wait for 6 weeks and until the cyst is 6 cm in diameter to consider intervention by minimal access or open surgery of cystogastrostomy. The classification of pancreatic cysts is shown in Figure 68.8."
+        },
+        {
+            "id": 16,
+            "question_type": "clinical_scenario",
+            "question": "A 45-year-old woman, who is on the waiting list for a laparoscopic cholecystectomy, presents as an emergency with severe epigastric pain radiating to the back and the rest of the abdomen of 3 hours duration. She has nausea, vomited a few times and has retching. On examination she is tachypnoeic, has tachycardia and a blood pressure of 110/60 mmHg. She is slightly icteric. Abdominal examination reveals a Cullen's sign, extreme tenderness all over the abdomen with rebound and rigidity.",
+            "options": [],
+            "answer": "1",
+            "explanation": "This patient has acute pancreatitis of biliary origin. She needs to be resuscitated forthwith with analgesia and intravenous fluids, and blood investigations need to be carried out, in particular, serum amylase. This would be elevated to well over 1000 IU. If the serum amylase is not elevated, the diagnosis of acute pancreatitis should then be confirmed by a CECT scan.\nThe patient is then stratified as mild or severe acute pancreatitis by using one of several scoring systems available – Glasgow, Ranson and APACHE II, and managed accordingly.\nIf the stratification shows mild acute pancreatitis the patient is treated on the surgical ward. If she has severe acute pancreatitis she is managed in the high-dependency unit (HDU) or intensive care unit (ICU) depending upon the clinical needs. In either situation full supportive therapy is instituted with analgesia, intravenous fluids and close monitoring.\nAn US of the biliary tract is repeated or an MRCP is done to look for a stone in the common bile duct (CBD). If there is a stone in the CBD, an ERCP and endoscopic papillotomy is carried out to remove the stone/s. At the same admission a laparoscopic cholecystectomy is carried out a few days later.\nThe management in severe acute pancreatitis is outlined in Figure 68.5."
+        },
+        {
+            "id": 17,
+            "question_type": "clinical_scenario",
+            "question": "A 55-year-old man complains of intermittent jaundice associated with itching. This is associated with anorexia, weight loss and upper abdominal discomfort. On examination the patient is anaemic, has scratch marks over his body, is slightly jaundiced and has a gall bladder that is just palpable.",
+            "options": [],
+            "answer": "4",
+            "explanation": "This patient has intermittent obstructive jaundice (where the icterus waxes and wanes) with a gall bladder that is minimally palpable. His anaemia and weight loss should point to an underlying malignant lesion in the region of the lower end of the CBD. As the jaundice is intermittent, the diagnosis is obviously a periampullary carcinoma. In this condition, as the tumour grows, the patient's jaundice gets deeper; as the carcinoma outgrows its blood supply, there is necrosis and sloughing of the cancer, resulting in alleviation of the jaundice. He needs an US, CECT, EUS and biopsy of the lesion. If the staging shows no distant spread, the patient should next undergo the final staging procedure of laparoscopy and laparoscopic US to look for small peritoneal or liver secondaries. If there are no secondaries, the patient should then be considered for radical pancreatoduodenectomy (Whipple's procedure).\nThis major procedure, the domain of the specialist hepatobiliary surgeon, can be done in two stages, a choice that depends on the individual surgeon. In the first stage the CBD is stented to alleviate the patient's jaundice, so as to minimise the risks of a major procedure in a jaundiced patient. The second stage of resection is carried out 10 days or so later. Following the resection, usually a pylorus-preserving reconstruction is carried out."
+        },
+        {
+            "id": 18,
+            "question_type": "clinical_scenario",
+            "question": "A 50-year-old male patient presents with dull aching pain in his epigastrium and umbilical areas radiating to the back for 6 months. He has episodes of exacerbation of this pain, which last for 1 or 2 days. This is associated with nausea and occasional vomiting and diarrhoea most days. He has lost some weight over this period. Two months ago he was diagnosed with type 2 diabetes and is on oral medication. He admits to more than average alcohol consumption. Clinical examination shows no abnormality except for generalised tenderness.",
+            "options": [],
+            "answer": "3",
+            "explanation": "This patient has alcoholic chronic pancreatitis with exocrine and endocrine dysfunction (diarrhoea and diabetes). He should have all the usual haematological and biochemical investigations, including estimation of 24-hours faecal fat. Confirmation is by US and CECT and ERCP to visualise the anatomy of the pancreatic duct. He should be managed by the physicians for his pancreatic insufficiency (endocrine and exocrine) and the pain clinic for analgesia.\nA group of patients might have pancreatic ductal stones in a dilated duct with strictures seen on pancreatogram on ERCP, an appearance called ‘chain of lakes'. Such patients could be considered for bypass surgery of side-to-side pancreato-jejunostomy to a Roux loop of jejunum. During the procedure, obviously the stones would be removed. The aetiology and pathology of chronic pancreatitis is shown in Tables 68.1 through 68.3."
+        }
+    ]
+}

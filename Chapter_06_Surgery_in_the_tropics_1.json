@@ -1,0 +1,804 @@
+{
+    "chapter_name": "Surgery in the tropics",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "Which of the following are true of amoebiasis?",
+            "options": [
+                "A The disease is common in the Indian subcontinent, Africa and parts of Central and South America.",
+                "B The majority of sufferers are symptomatic.",
+                "C Amoebic liver abscess, the most common extraintestinal manifestation, occur in more than 50%.",
+                "D The mode of infection is via the faeco-oral route due to poor hygiene and sanitation.",
+                "E The organism enters the gut via contaminated food and water."
+            ],
+            "answer": [
+                "A",
+                "D",
+                "E"
+            ],
+            "explanation": "The disease is common in the Indian subcontinent, Africa and parts of Central and South America. The majority produce no symptoms and amoebic liver abscess occurs in less than 10% of patients affected with amoebiasis. The mode of infection is via the faeco-oral route through contaminated food or water."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "Entamoeba histolytica, the causative organism, enters the body as cysts contaminating water or food. Which of the following occurs?",
+            "options": [
+                "A The cysts hatch in the large bowel and colonise the colon.",
+                "B The cysts cause flask-shaped ulcers in the colon.",
+                "C The trophozoites may invade the wall of the colon and pass to liver via the portal circulation, causing focal infarction and liquefactive necrosis in the liver.",
+                "D Cysts are passed in the faeces in an infective form.",
+                "E The right lobe of the liver is affected in 10% of cases, the left in 80% and the rest are multiple."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "The cysts hatch in the small intestine and large numbers of trophozoites are released and carried to the colon. Here they attach themselves to the mucosa and may penetrate to cause flask-shaped ulcers, or invade the portal vein to be carried to the liver. They affect the right lobe in 80% of cases, the left lobe in 10% of the cases and the rest are multiple. A large number in the intestine form cysts, which are passed in stool that can infect other humans as well."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "A middle-aged man presents with pain in the right upper quadrant of the abdomen. He has had fever, night sweats, anorexia, malaise, cough and weight loss. He is found to be toxic, anaemic and mildly jaundiced. He has a tender hepatomegaly with tenderness over the right lower intercostal spaces. An ultrasound scan had shown a hypoechoic lesion in the right lobe of the liver and his CT scan is shown in Figure 6.1. Which of the following statements are true?",
+            "options": [
+                "A While the clinical features are suggestive of amoebiasis, travel to an endemic area and a history of bloody diarrhoea may also be present.",
+                "B The CT scan is compatible with an amoebic liver abscess.",
+                "C The abscess cavity contains blackcurrant jelly-like fluid.",
+                "D The collection is normally odourless and sterile but becomes smelly if secondarily infected.",
+                "E Trophozoites may be found in the wall of the abscess cavity in a minority of cases."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "The clinical features are those of an amoebic liver abscess. The CT scan features of a hypodense lesion with irregular walls showing peripheral enhancement are characteristic of an abscess. The fluid is chocolate-coloured, odourless and ‘anchovy sauce'-like, a mixture of blood and necrotic liver tissue. This fluid becomes smelly when secondarily infected. The abscess is usually high in the diaphragmatic surface of the right lobe. This may cause pulmonary symptoms. Untreated abscesses are likely to rupture."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "Which of the following are presenting features of amoebiasis?",
+            "options": [
+                "A Chronic diarrhoea, often blood-stained, with colicky abdominal pain.",
+                "B Pain in the upper right abdomen and right shoulder-tip with hiccoughs and a painful dry cough.",
+                "C An apple-core lesion on barium enema due to the formation of a chronic granuloma, most common in the caecum.",
+                "D Features of peritonitis with shock.",
+                "E All of the above."
+            ],
+            "answer": "E",
+            "explanation": "A large majority of patients will present with bloody diarrhoea due to colonic infestation. A liver abscess often presents with upper abdominal and chest symptoms. Rupture of the abscess causes peritonitis and shock. A chronic granuloma, called an amoeboma, may form, commonly on the right side of the colon, where the patient has had a long history of repeated indiscriminate and inadequate self-medication. This condition may mimic a carcinoma. When a patient is from an endemic background with a history of altered bowel habit and a right-sided lesion, an amoeboma should be suspected; it is imperative to exclude a carcinoma. The two conditions often co-exist; therefore, it is mandatory to take repeat biopsies on colonoscopy after adequate treatment."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "What is the treatment for an amoebic abscess?",
+            "options": [
+                "A Urgent laparotomy upon diagnosis.",
+                "B Medical treatment with metronidazole or tinidazole.",
+                "C Medical treatment with diloxanide furoate is sufficient.",
+                "D Aspiration may be carried out for abscesses that present with features of imminent rupture.",
+                "E Surgical treatment for amoebiasis is indicated for a ruptured liver abscess, for patients with severe haemorrhage and toxic megacolon and for a suspected amoeboma, which is not responding to treatment or where carcinoma cannot be excluded."
+            ],
+            "answer": [
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "The primary treatment for an amoebic liver abscess is medical. Metronidazole and tinidazole are the effective drugs. After treatment with metronidazole or tinidazole, diloxanide furoate, which is not effective against hepatic infestation, is used for 10 days to destroy any residual intestinal infestation. Aspiration not only prevents rupture, but also promotes the penetration of amoebicidal drugs. Surgery is carried out for complications of amoebiasis. However, the general principles of vigorous resuscitation must be applied to these very sick patients."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "Which of the following are caused by Ascaris lumbricoides?",
+            "options": [
+                "A Intestinal symptoms as a larva.",
+                "B Pulmonary symptoms as a larva.",
+                "C Intestinal symptoms as an adult worm.",
+                "D Pulmonary symptoms primarily as an adult worm.",
+                "E Biliary disease as a larva."
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "explanation": "The life cycle of the roundworm is as follows: The ingested eggs release larva, which penetrate the intestinal wall and get carried via the bloodstream to the lungs. In the lung, the larvae penetrate the bronchioles. This causes inflammation with a dry cough, chest pain and fluffy exudates on chest X-ray called Loeffler's syndrome. The larvae are swallowed in sputum and complete their maturation in the intestine. In the intestine, they mature and cause intestinal symptoms."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "What percentage of the world's population is affected by roundworms (Ascaris lumbricoides)?",
+            "options": [
+                "A 2%",
+                "B 10%",
+                "C 25%",
+                "D 50%",
+                "E 75%"
+            ],
+            "answer": "C",
+            "explanation": "Almost 25% of the world's population, principally in the developing world, harbour the roundworm in their intestines. The vast majority are asymptomatic or have transient ill-defined symptoms."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "How is roundworm disease transmitted?",
+            "options": [
+                "A Inadvertent ingestion of the larva in soil.",
+                "B Inadvertent ingestion of the fertilised egg in soil.",
+                "C The larva penetrates unbroken skin.",
+                "D Inadvertent ingestion of fertilised eggs in contaminated meat.",
+                "E The larva is transmitted to the lung as a droplet infection."
+            ],
+            "answer": "B",
+            "explanation": "The egg of Ascaris lumbricoides survives in the external environment even under hostile conditions. Hot and humid conditions are ideally suited for the eggs to turn into embryos. The fertilised eggs are present in the soil contaminated with infected faeces. Faeco-oral contamination causes human infection."
+        },
+        {
+            "id": 9,
+            "question_type": "msq",
+            "question": "Which of the following are true of the life cycle of the Ascaris lumbricoides?",
+            "options": [
+                "A Eggs release larvae in the lumen of the intestine, which then develop into adult worms.",
+                "B Eggs release larvae into the portal blood and thereafter into the liver and then the lungs.",
+                "C Eggs penetrate the intestinal wall and travel to the liver where they develop into adult worms and are released into the intestinal lumen via the biliary tract.",
+                "D The larvae are released in the lungs. The developing larvae are swallowed in sputum and complete their maturation in the intestine.",
+                "E Eggs are released into the environment in stool as cysts, which survive."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "Having been swallowed in the sputum (see Number 6 previously), they mature in the intestines where they cause their symptoms. Larvae are released into the portal circulation. They then travel to the liver and via the hepatic veins to the lungs. The larvae are present in the sputum. The swallowed sputum enables the larvae to enter the gut and repeat the cycle again."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "How is Loeffler's syndrome characterised?",
+            "options": [
+                "A Chest pain with productive cough, friction rub and a chest x-ray showing pleural effusion.",
+                "B Retrosternal burning, discomfort on ingestion of food, fever and mediastinal widening on chest x-ray.",
+                "C Epigastric pain radiating to the right, a tender palpable liver and an elevated right dome of the diaphragm.",
+                "D Chest pain, dry cough, dyspnoea and fever with fluffy exudates on chest x-ray.",
+                "E Haemoptysis."
+            ],
+            "answer": "D",
+            "explanation": "The release of larvae causes an inflammation of the lung characterised by dry cough, chest pain, dyspnoea and fever with fluffy exudates on chest x-ray. This combination of symptoms, combined with characteristic features on chest x-ray, is called Loeffler's syndrome."
+        },
+        {
+            "id": 11,
+            "question_type": "msq",
+            "question": "Which of the following are caused by roundworm infestation?",
+            "options": [
+                "A Malnutrition and failure to thrive.",
+                "B Mechanical obstruction of the intestine.",
+                "C Perforation of the intestine.",
+                "D Ascending cholangitis, obstructive jaundice and acute pancreatitis.",
+                "E Chest symptoms."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Roundworms cause problems in the lungs when larvae are released into the bronchioles from the circulation. Additionally, roundworms colonise the intestine and if the infestation is very heavy, compete for nutrients. This may lead to malnutrition and failure to thrive. A worm bolus may cause intestinal obstruction and perforation. The worms may travel up the papilla of Vater, causing ascending cholangitis, obstructive jaundice and acute pancreatitis."
+        },
+        {
+            "id": 12,
+            "question_type": "msq",
+            "question": "Which of the following may be found in roundworm infestations?",
+            "options": [
+                "A A high eosinophil count.",
+                "B Charcot-Leyden crystals in stool.",
+                "C Larvae in sputum or bronchoscopic lavage.",
+                "D Fluffy exudates on chest x-rays.",
+                "E Barium meal may show the worm lying freely in the lumen."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Worm infestation is often associated with a high eosinophil count, as in most parasitic infestations. Bronchoscopic lavage may show larvae or Charcot-Leyden crystals. In Loeffler's syndrome, chest x-ray shows fluffy exudates. A barium meal often demonstrates roundworms in the intestine either by a negative shadow or linear streak lying parallel to the intestine. This represents barium ingested by the worm."
+        },
+        {
+            "id": 13,
+            "question_type": "msq",
+            "question": "Which of the following are recognised treatments in uncomplicated roundworm intestinal obstruction?",
+            "options": [
+                "A Urgent laparotomy.",
+                "B Nasogastric suction, intravenous (IV) saline and hypertonic saline enemas.",
+                "C Kneaded a worm bolus into the large intestine at laparotomy, to be subsequently treated with hypertonic saline enemas.",
+                "D Gastrojejunostomy.",
+                "E A long-standing small intestinal perforation may require exteriorisation in the presence of a heavy worm load."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "An uncomplicated roundworm obstruction of the intestine should always be treated conservatively with nasogastric suction, IV fluids and hypertonic saline enemas. When laparotomy is indicated, there is never a situation of an actual pyloric narrowing, and therefore a gastrojejunostomy is not indicated. Kneading the bolus of worms into the large bowel and subsequent treatment with hypertonic saline enemas is a way of treating the condition. A long-standing perforation in a malnourished patient ideally requires exteriorisation of the bowel."
+        },
+        {
+            "id": 14,
+            "question_type": "msq",
+            "question": "A patient presents with sudden severe upper abdominal pain with chills and rigors. He has icterus and is diffusedly tender over the right upper abdomen. His blood tests show an elevated white cell count (WCC) with high polymorphs and obstructive jaundice. The ultrasound scan (Figure 6.2) shows stones in the gall bladder and a linear shadow in a dilated common bile duct (CBD). The magnetic resonance cholangiopancreatograpm (MRCP) shows a linear shadow in the CBD, which in real time is found to change its position. Which of the following statements are true?",
+            "options": [
+                "A The most likely diagnosis is a line of stones in the CBD.",
+                "B The condition is likely to be due to a live worm in the CBD.",
+                "C The condition should be treated with pyrantel palmoate.",
+                "D The condition should be treated with albendazole.",
+                "E Following an anthelmintic, the condition may be treated by endoscopic removal of the roundworm followed by cholecystectomy."
+            ],
+            "answer": [
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "The imaging in real time is found to change its position. Therefore, it is more likely to be due to a roundworm in the common bile duct. Following the use of albendazole, an anthelmintic, the worm may be extricated by an endoscope followed by cholecystectomy."
+        },
+        {
+            "id": 15,
+            "question_type": "msq",
+            "question": "Asiatic cholangiohepatitis, also called 'Oriental cholangiohepatitis', results from infestation of the hepatobiliary system by Clonorchis sinensis, a liver fluke. Which of the following pertain to the disease?",
+            "options": [
+                "A The human acts as the intermediate host, by the ingestion of infected fish and snails, which are the definitive host.",
+                "B The parasite matures into an adult worm in the intrahepatic biliary channel, causing epithelial hyperplasia and periductal fibrosis.",
+                "C The eggs or dead worms may form the nidus for stone formation in the biliary system.",
+                "D Changes around the intrahepatic biliary channels often cause dysplasia, which may lead to cholangiocarcinoma.",
+                "E Ultrasound scan characteristically shows uniform dilatation of small peripheral intrahepatic ducts with only minimal dilatation of the common duct system."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Clonorchis sinensis infects snails and fish, which act as the intermediate host. Ingestion of infected fish and snails when eaten raw or partly cooked causes infection in humans and other fish-eating mammals. The disease may remain dormant for years. It often presents with non-specific symptoms but can also present with features of ascending cholangitis, obstructive jaundice and acute pancreatitis."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "What is the treatment of Asiatic cholangiohepatitis?",
+            "options": [
+                "A Praziquantel and albendazole are the drugs of choice.",
+                "B Cholecystectomy, exploration of the common bile duct and choledochoduodenostomy.",
+                "C A Roux-en-Y choledochojejunostomy with or without an access loop.",
+                "D The disease should ideally be diagnosed and treated in its subclinical form.",
+                "E All of the above."
+            ],
+            "answer": "E",
+            "explanation": "Patients from endemic areas should be offered screening by ultrasonography of the biliary system. Stool examination for eggs or worms is diagnostic. The disease can be cured when treated in its subclinical form. Therefore, the risk of developing cholangiocarcinoma is eliminated."
+        },
+        {
+            "id": 17,
+            "question_type": "msq",
+            "question": "Which of the following statements about filariasis are true?",
+            "options": [
+                "A It is mainly caused by the parasite Brugia malayi and Brugia timori. In 10% of sufferers, the parasite Wuchereria bancrofti also causes the disease.",
+                "B Once inoculated by a mosquito bite, the matured eggs enter the circulation to hatch and grow into adult worms.",
+                "C The adult worms cause lymphatic blockage, resulting in massive limb oedema. This is often compounded by streptococcal secondary infection, leading to additional fibrosis of the lymphatic channels and further leading to elephantiasis.",
+                "D Chyluria and chylous ascites seen in cancers blocking lymphatics are never seen in filariasis.",
+                "E A mild form of the disease, which affects the respiratory tract and presents with dry cough is called tropical pulmonary eosinophilia."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "The disease is mainly caused by Wuchereria bancrofti and in 10% of cases is caused by the parasite Brugia malayi and Brugia timori. Chyluria and chylous ascites may be seen in filariasis."
+        },
+        {
+            "id": 18,
+            "question_type": "msq",
+            "question": "Which of the following statements about filariasis are true?",
+            "options": [
+                "A Blood tests often reveal an elevated lymphocyte count.",
+                "B Immature worms can be seen in nocturnal peripheral blood smear.",
+                "C Medical treatment with diethylcarbamazepine is effective even when huge elephantiasis occurs.",
+                "D Hydroceles are treated in the usual way, but excess skin may need trimming.",
+                "E Elephantiasis can be treated easily with operations to reduce the size of the limb."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "Blood tests reveal eosinophilia. Treatment with diethylcarbamazepine is very effective but only in the early stages before the gross deformity of elephantiasis sets in. Once elephantiasis sets in, the condition is rarely treated with surgery, as none of the operations described are universally successful."
+        },
+        {
+            "id": 19,
+            "question_type": "msq",
+            "question": "Which of the following are true with regard to hydatid disease caused by Echinococcus granulosus?",
+            "options": [
+                "A Man is the definitive host.",
+                "B Dog is the definitive host.",
+                "C Sheep and cattle are intermediate hosts.",
+                "D The disease causes cystic lesions mainly in the liver but may affect any organ.",
+                "E The disease causes an infiltration of the liver without any definite margin."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Echinococcus granulose, the parasite that causes cystic echinococcal disease, infects dogs and grows in their intestine. They are the definitive host. The eggs infect sheep, cattle and humans. The worms spread into the bloodstream via the portal system. Therefore, the liver is the most common site of infection but any organ may be infected. The lesions are cystic and spread by expanding rather than by direct invasion."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "How is hydatid disease transmitted?",
+            "options": [
+                "A By eating infected meat and therefore affects only non-vegetarians.",
+                "B By the faeco-oral route through ingestion of eggs.",
+                "C Through penetration of the skin of the bare-footed by larvae.",
+                "D It may be vector-borne.",
+                "E It spreads by droplet infection."
+            ],
+            "answer": "B",
+            "explanation": "In the dog, the adult worm reaches the small intestine, and the eggs are passed in the faeces. The ovum gains access to humans by being ingested. On excystation, the parasite penetrates the intestine to reach and spread through the portal system."
+        },
+        {
+            "id": 21,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding cystic hydatid disease are true?",
+            "options": [
+                "A It contains an outer pericyst made up of spreading living parasites.",
+                "B It contains an intermediate ectocyst, which is non-infective.",
+                "C It contains an inner endocyst, which has a germinal membrane containing viable parasites.",
+                "D The germinal envelope may give rise to daughter cysts.",
+                "E It spreads to the liver by travelling along the intestinal lymphatics."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "The cyst is characterised by three layers, an outer pericyst derived from compressed host organ tissues, an intermediate hyaline ectocyst that is non-infective and an inner endocyst that is the germinal membrane and contains viable parasites, which can separate forming daughter cysts."
+        },
+        {
+            "id": 22,
+            "question_type": "msq",
+            "question": "Which of the following features are the presentations of hydatid disease?",
+            "options": [
+                "A Chest symptoms of a dry cough with fluffy exudates called Loeffler's syndrome.",
+                "B A dull aching pain in the upper right abdomen.",
+                "C Abdominal pain, anaphylactic shock and collapse after trivial trauma.",
+                "D Patients often complain of passing live worms in stool.",
+                "E Features of obstructive jaundice."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Hydatid disease commonly affects the liver. Hence, patients present with a dull ache in the upper right abdomen from hepatomegaly. Exposure to the hydatid antigen means that patients often present with anaphylactic shock and collapse in addition to pain, because trivial trauma sometimes causes a rupture of the cyst. A large cyst may exert pressure on the CBD, and additionally daughter cysts may communicate with the biliary tract, causing obstructive jaundice."
+        },
+        {
+            "id": 23,
+            "question_type": "msq",
+            "question": "Which ultrasound scan features characterise a hepatic hydatid cyst?",
+            "options": [
+                "A A cyst with multiple septations.",
+                "B A cyst wall with shaggy and irregular outlines.",
+                "C A cyst wall with calcifications.",
+                "D A solid lesion with a surrounding rim of oedema.",
+                "E A cyst with split walls."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "E"
+            ],
+            "explanation": "Hydatid cysts are characterised by the presence of multiple septations, and calcification in the wall and periphery of the lesion may show a double edge. In addition, the presence of multiple daughter cysts sometimes gives rise to the characteristic ‘cartwheel' appearance."
+        },
+        {
+            "id": 24,
+            "question_type": "msq",
+            "question": "A young girl was dancing in school and felt a dull pain in the abdomen. In the evening the mother noticed a diffuse skin rash and started her on a course of antihistamines to which she responded and the pain reduced in intensity. A week later she underwent an ultrasound scan, which showed a cystic lesion with a split wall. Blood tests showed a high eosinophil count and a CT scan is shown (Figure 6.3). Which of the following are true of this clinical scenario?",
+            "options": [
+                "A The feature is compatible with a ruptured simple cyst of the liver.",
+                "B The feature suggests a ruptured hydatid cyst.",
+                "C Treatment is expectant.",
+                "D Treatment is exploratory laparotomy under cover of albendazole.",
+                "E Anaphylaxis can occur during laparotomy."
+            ],
+            "answer": [
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "The clinical scenario of abdominal pain after a trivial trauma, followed by skin rash that responds to antihistamines is suggestive of a ruptured hydatid cyst. The blood tests reveal an elevated eosinophil count and imaging shows a cyst with a split wall. The cyst, having already ruptured, needs immediate treatment with albendazole followed by laparotomy. As the patient is already exposed to the hydatid antigen, a repeat exposure during exploration of the cyst could initiate a violent anaphylactic attack. This needs to be anticipated and appropriate prophylactic measures initiated."
+        },
+        {
+            "id": 25,
+            "question_type": "msq",
+            "question": "A young woman presented with pain in her upper abdomen with chills and rigors followed by high-coloured urine. She is jaundiced and tender over the upper abdomen. An ultrasound scan shows gall bladder calculi, a dilated CBD with echogenic material and a septated cyst in the left lobe of the liver. A CT scan shows a septated cyst of the left lobe of the liver (Figure 6.4). At endoscopic retrograde cholangiopancreatography (ERCP), multiple membranous structures were delivered after sphincterotomy. Which of the following are true of this condition?",
+            "options": [
+                "A The likely diagnosis is cholecystitis and choledocholithiasis with an incidental liver cyst.",
+                "B The likely diagnosis is a multiseptated hydatid cyst with biliary communication, causing daughter cysts in the CBD and gall bladder calculi, due to hydatid sand.",
+                "C Treatment following endoscopic clearance of the CBD should only require a cholecystectomy.",
+                "D Treatment following endoscopic clearance of the CBD should be with a cholecystectomy followed by injection of sclerosants into the cyst.",
+                "E Treatment of the cyst by injection of scolicidal solutions has a risk of causing sclerosing cholangitis because of the presence of biliary communications."
+            ],
+            "answer": [
+                "B",
+                "E"
+            ],
+            "explanation": "ERCP reveals multiple membranous structures in the CBD with a septated hydatid cyst. A septated cyst, often caused by trivial trauma, is more likely to communicate with the biliary channel. Therefore, the likely diagnosis is that the entire biliary system has become colonised by hydatid disease. Injecting scolicidal solutions into this patient runs a real risk of the solution escaping into the biliary channel and causing sclerosing cholangitis."
+        },
+        {
+            "id": 26,
+            "question_type": "msq",
+            "question": "Which of the following statements are true of hydatid cysts?",
+            "options": [
+                "A Anaphylactic shock is more common in the treatment of unilocular hydatid cysts than in the treatment of multiloculated cysts.",
+                "B Sclerosing cholangitis is more common following injection of scolicidal solutions into multiloculated hydatid cysts.",
+                "C Small deep cysts that show calcification in their walls may be watched and treated with albendazole.",
+                "D Surgical curettage of the cyst wall is mandatory.",
+                "E Rupture of a cyst may cause dissemination of the disease."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Multiloculated cysts often occur after insignificant trauma. They are more likely to communicate with the biliary channels, and thus injection of scolicidal solutions is more likely to cause sclerosing cholangitis. Moreover, the host is more likely to have been exposed to hydatid antigen, and anaphylactic reactions are more common in multiloculated hydatid cysts. Some of these cysts are large, and the ectocyst often has a thin layer of compressed tissue spread over vital structures such as the intrahepatic inferior vena cava. Surgical curettage of the cyst wall is often fraught with danger. Deep cysts that show calcification signify that the parasite may be dying or dead and need only be treated with albendazole."
+        },
+        {
+            "id": 27,
+            "question_type": "msq",
+            "question": "Which of the following is true of thoracic hydatid disease?",
+            "options": [
+                "A The lung is the most common organ affected.",
+                "B The right lower lobe is affected slightly more than any other site.",
+                "C The cysts are usually multiple.",
+                "D Silent cysts may sometimes present with an allergic reaction.",
+                "E Pulmonary hydatid disease characteristically presents with a silent pleural effusion."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "The lung is the second most common organ affected after the liver. Cysts can vary in size from very small to very large. Usually single, the disease is slightly more common in the lower lobe of the right lung. The cysts may also be multiple and affect other organs at the same time. The disease may be silent but may also present with cough, expectoration, fever, chest pain and haemoptysis, and may sometimes rupture and present with an allergic reaction or anaphylaxis."
+        },
+        {
+            "id": 28,
+            "question_type": "msq",
+            "question": "A fit active young man presents suddenly with cough, expectoration of clear fluid, fever, chest pain and occasional haemoptysis. His chest x-ray shows a rounded cystic lesion and another rounded lesion with air in it (Figure 6.5). Which of the following are true of this condition.",
+            "options": [
+                "A Air is introduced as the lesion erodes into the bronchiole, giving rise to a fine radiolucent shadow.",
+                "B This x-ray finding is called the ‘meniscus sign or crescent sign'.",
+                "C Pulmonary hydatid disease never presents with pleural effusion.",
+                "D The 'water-lily sign' on CT scan of the chest indicates inactive disease (Figure 6.6).",
+                "E Surgery is the mainstay of hydatid disease of the lungs."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "Uncomplicated cysts present with a rounded or oval opacity on a chest x-ray. Air is often introduced by erosions into the bronchioles. This air collects in between the pericyst and the laminated membrane, giving a fine radiological crescent (Figure 6.5) called the ‘meniscus or crescent sign'. Rupture causes the membrane to collapse, the crumpled-up endocyst floats on the residual fluid giving the ‘water-lily' sign on a CT scan (Figure 6.6). Rupture into the pleural cavity is usually symptomatic and leads to pleural effusion. The mainstay of treatment is surgery. Medical treatment is less successful and reserved for patients with very poor general condition or with diffuse, recurrent, or ruptured pulmonary hydatidosis. The principle of surgery is to maintain as much viable lung tissue as possible. The exact procedure can be cystotomy, capittonage (suturing the walls together), pericystectomy, segmentectomy, or, rarely, pneumonectomy."
+        },
+        {
+            "id": 29,
+            "question_type": "msq",
+            "question": "A 33-year-old woman presents with loss of eyebrows, collapse of the nasal bridge and lifting of the tip of the nose, paralysis of the left orbicularis oculi causing exposure keratitis and blindness (Figures 6.7 and 6.8). A diagnosis of leprosy is made. Which of the following features are relevant to the disease?",
+            "options": [
+                "A The disease is caused by the acid-fast bacillus, Mycobacterium tuberculosis.",
+                "B The disease is transmitted by sexual contact.",
+                "C The disease is classified into two groups, lepromatous and tuberculoid, depending on the immune response of the patient to the disease.",
+                "D The disease is slowly progressive and affects the skin, upper respiratory tract and peripheral nerves.",
+                "E The deformities produced are primary, which are caused by leprosy or its reactions, and secondary from the effects such as anaesthesia of the hands and feet."
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The disease is caused by a Mycobacterium leprae, which is weakly acid-fast compared with Mycobacterium tuberculosis. The disease is transmitted by the nasal secretions of a patient, the infection being contracted in childhood or early adolescence. After an incubation period of several years, the disease presents with skin and upper respiratory or neurological manifestations. The deformities are therefore a direct cause of the disease or its reactions referred to as 'primary deformities', and secondary, resulting from effects such as anaesthesia of hands and feet causing repeated unrecognised trauma. The tissue damage is proportional to the host's immune response, with a plethora of grades between tuberculoid, where there is a strong immune response with scanty bacteria and epithelioid granuloma formation to lepromatous, where there is a poor immune response, with widespread dissemination of abundant bacilli in the tissues with macrophages and few lymphocytes."
+        },
+        {
+            "id": 30,
+            "question_type": "msq",
+            "question": "Which of the following statements about leprosy (Hansen's disease) are true?",
+            "options": [
+                "A Patients have neural involvement characterised by thickening of the nerves, which are tender.",
+                "B Patients may present with ‘leprids', which are asymmetrical, well-defined, anaesthetic, hypopigmented, or erythematous macules with elevated edges and a dry rough surface.",
+                "C There are often nodular lesions on the patient's face in the acute phase of the lepromatous type. The characteristic facies thus produced is known as ‘leonine facies' (resembling a lion).",
+                "D The condition is diagnosed by demonstrating the bacilli in urine.",
+                "E The patient is treated by a multidisciplinary team of infectious disease specialist, plastic surgeon, ophthalmologist and hand and orthopaedic surgeon."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "The disease is diagnosed by obtaining a skin smear, which often demonstrates the acid-fast bacillus, and by a skin biopsy, which shows the characteristic histology. Treatment is carried out according to WHO guidelines with rifampicin, dapsone and clofazimine. Deformities need a multidisciplinary team approach with the involvement of the physician, hand surgeon, orthopaedic surgeon, physiotherapist, occupational therapist and social worker."
+        },
+        {
+            "id": 31,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A It is a chronic, progressive, destructive granulomatous disease.",
+                "B The causative organism could be a fungus or bacteria.",
+                "C Patients present with painful nodules, multiple sinuses and mucus discharge (Figure 6.9).",
+                "D The condition occurs in Sudan, Somalia, Senegal, India, Yemen and Mexico.",
+                "E The route of infection is through direct transmission from another patient."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "Mycetoma is a chronic specific, granulomatous, progressive, destructive inflammatory disease that involves subcutaneous tissues spreading to the skin and deeper structures. The causative organism may be true fungi when the condition is called eumycetoma; when caused by bacteria it is called actinomycetoma. The pathognomonic feature is the triad of painless subcutaneous mass, multiple sinuses and seropurulent discharge. It causes tissue destruction, deformity, disability and, in extreme cases, death. The condition predominantly occurs in the 'mycetoma belt' that lies between the latitudes 15° south and 30° north. The route of infection is inoculation of the organism, resident in the soil, through a breach in the skin continuity. Although in the vast majority there is no history of obvious trauma, the site of entry is always an area of minor unrecognised trauma in a bare-footed individual; hence, the foot is the most common site affected. The foot is affected in 70% and hand in 12%."
+        },
+        {
+            "id": 32,
+            "question_type": "msq",
+            "question": "Which of the following is/are true regarding the diagnosis?",
+            "options": [
+                "A Ultrasound cannot differentiate between eumycetoma and actinomycetoma.",
+                "B A deep biopsy should be obtained from the nodule, under general or regional anesthesia to identify one of the three types of host tissue reactions.",
+                "C Type III reaction is characterised by formation of epitheloid granulomas and Langhan's type giant cells.",
+                "D FNAC is not useful in yielding an accurate diagnosis and not used in distinguishing between eumycetoma and actinomycetoma.",
+                "E Culture and immunoelectrophoresis are diagnostic of Mycetoma."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Ultrasound can differentiate between eumycetoma and actinomycetoma and between mycetoma and other conditions. In eumycetoma, the grains produce numerous sharp, bright hyper-reflective echoes. There are multiple thick-walled cavities with absence of acoustic enhancement. In actinomycetoma, the findings are similar but the grains are less distinct. The size and extent of the lesion can be accurately determined ultrasonically, a finding useful in planning surgical treatment. Deep biopsy is obtained under general or regional anaesthesia, although the chance of local spread is high. The biopsy should be adequate, contain grains and be fixed immediately in 10% formal saline. Deep biopsy is obtained under general or regional anaesthesia, although the chance of local spread is high. In Type I, a layer of polymorphonuclear leukocytes usually surrounds the grains. In Type II tissue reaction, the neutrophils largely disappear and are replaced by macrophages and multinucleated giant cells which engulf grain material. Type III reaction is characterised by the formation of a well-organised epithelioid granuloma with Langhan's type giant cells. The centre of the granuloma sometimes contains remnants of fungal material. Fine-needle aspiration cytology (FNAC) can yield an accurate diagnosis and helps in distinguishing between eumycetoma and actinomycetoma. The common serodiagnostic tests are immunoelectrophoresis and ELISA, while culture can be used to isolate and grow the microorganisms."
+        },
+        {
+            "id": 33,
+            "question_type": "msq",
+            "question": "Which of the following is/are true regarding the management?",
+            "options": [
+                "A In actinomycetoma, combined drug therapy with amikacin sulphate and co-trimoxazole in the form of cycles is the treatment of choice.",
+                "B There is no definitive drug therapy for Eumycetoma.",
+                "C Surgery is indicated for widespread lesions, after medical treatment.",
+                "D Amputation, used as a life-saving procedure, is indicated in advanced mycetoma refractory to medical treatment with severe secondary bacterial infection.",
+                "E Recurrence can be prevented with radiotherapy."
+            ],
+            "answer": [
+                "A",
+                "D"
+            ],
+            "explanation": "Management of this condition should be a team effort between the physician and surgeon. In actinomycetoma, combined drug therapy with amikacin sulphate and co-trimoxazole in cycles is the treatment of choice. Amoxicillin, clavulanic acid, rifampicin, sulphonamides, gentamicin and kanamycin are used as a second line of treatment. Long-term drug treatment may have serious side effects. In eumycetoma, ketoconazole, intraconazole and voriconazole are the drugs of choice. They may need to be used for up to 1 year. Use of these drugs should be monitored closely by the physician for side effects. While not curative, these drugs help to localise the disease by forming thickly encapsulated lesions which are then amenable to surgical excision. Medical treatment for both types of mycetoma must continue until the patient is cured and also in the postoperative period. Surgery is indicated in small, localized lesions, resistance to medical treatment, or for better response after medical treatment in patients with massive disease. Excision may need to be much more extensive than suggested at first on clinical appearance, because the disease may extend to deeper planes that are not clinically apparent. The surgical options are wide, local and debulking excisions and amputations. Amputation, used as a life-saving procedure, is indicated in advanced mycetoma refractory to medical treatment with severe secondary bacterial infection. The amputation rate is 10% to 25%. Postoperative medical treatment should continue for an adequate period to prevent recurrence, local or regional, which is 25% to 50%. Recurrence is usually due to inadequate treatment."
+        },
+        {
+            "id": 34,
+            "question_type": "msq",
+            "question": "Which of the following are true of poliomyelitis?",
+            "options": [
+                "A It is an enteroviral infection that spreads by inhalation or ingestion.",
+                "B It is a rotavirus that spreads by the faeco-oral route.",
+                "C It targets the anterior horn cells of the spinal cord.",
+                "D It causes sensory loss, which spreads cranially.",
+                "E It causes a lower motor neuron type of flaccid paralysis."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "E"
+            ],
+            "explanation": "Poliomyelitis is an enteroviral disease that enters the body by ingestion or inhalation. The disease targets the anterior horn cells, causing lower motor neuron paralysis. It does not cause sensory loss, a fact that distinguishes it from the Guillain-Barré syndrome, which also presents with fever and muscle weakness."
+        },
+        {
+            "id": 35,
+            "question_type": "msq",
+            "question": "Tropical chronic pancreatitis affects the younger age group from poor socioeconomic strata in developing countries. Which of the following statements about the condition are true?",
+            "options": [
+                "A It is caused by ingestion of cassava (tapioca), a root vegetable, which contains derivatives of cyanide. The concurrent absence of sulphur-containing amino acid in the diet prevents the cyanide from being detoxified in the liver, leading to cyanogen toxicity and the disease.",
+                "B It is caused by alcoholism.",
+                "C Patients present with extensive pancreatic periductal fibrosis, intraductal calcium carbonate stones and type I diabetes mellitus.",
+                "D Patients show pancreatic calcification in the form of discrete stones on straight abdominal X-ray. Ultrasound and CT scans of the pancreas confirm the disease.",
+                "E Patients need medical support for exocrine and endocrine pancreatic insufficiency and treatment for pain. Some require surgery."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The disease is not caused by alcohol ingestion but by derivatives of cyanide in cassava (tapioca), which is eaten as a staple diet; hence, it is a disease present in families. Patients present with abdominal pain, thirst, polyuria, weight loss due to malnutrition and features of gross pancreatic insufficiency. ERCP is used as a therapeutic procedure. Surgery is necessary for intractable pain, particularly for stones in a dilated pancreatic duct. The choice of procedure is usually a lateral pancreaticojejunostomy. Resectional surgery is used as a last resort for intractable pain."
+        },
+        {
+            "id": 36,
+            "question_type": "msq",
+            "question": "Which of the following types of infection may be caused by intestinal infection with Mycobacterium tuberculosis?",
+            "options": [
+                "A Transverse ulcers with undermined edges in the ileum.",
+                "B Tubercles on the serosa of the intestine.",
+                "C Apple-core lesions of the colon.",
+                "D Hyperplasia and thickening of the terminal ileum.",
+                "E Transmural inflammation with a propensity for fistula formation."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "Typically when a patient with pulmonary tuberculosis swallows infected sputum, the organism colonises the lymphatics of the terminal ileum, causing transverse ulcers with undermined edges. The other variety, called the hyperplastic type, occurs when the host's resistance is stronger than the virulence of the organism. It is often caused by drinking infected unpasteurised milk. There is a marked inflammatory reaction, causing hyperplasia and thickening of the terminal ileum because of the abundance of lymphoid follicles. Transmural inflammation with a propensity for fistula formation is not a feature of tuberculosis but Crohn's disease."
+        },
+        {
+            "id": 37,
+            "question_type": "msq",
+            "question": "What presenting features do patients with tuberculosis of the small intestine show?",
+            "options": [
+                "A Weight loss, vague abdominal pain and evening rise of temperature.",
+                "B A doughy feel of the abdomen from area of localised ascites.",
+                "C A mass in the right iliac fossa.",
+                "D A water-can perineum with undermined edges and watery discharge.",
+                "E Characteristically, a non-caseating granuloma on histology."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "A patient with tuberculosis of the intestine may present with weight loss, vague abdominal pain and evening rise of temperature. As an emergency the patient presents with distal small-bowel obstruction or peritonitis from perforation. There may be multiple perianal fistulae, sometimes causing a typical water-can perineum. Caseation on histology is the sine qua non of tubercular infection. Abdominal examination gives a doughy feel from the area of localised ascites. There may be a mass in the right iliac fossa."
+        },
+        {
+            "id": 38,
+            "question_type": "msq",
+            "question": "A 24-year-old woman presents with repeated attacks of abdominal pain with abdominal distension. A barium meal X-ray is carried out (Figure 6.10). Which of the following should make you consider a diagnosis of tuberculosis?",
+            "options": [
+                "A A resident of a developing country from a poor socioeconomic background.",
+                "B Presence of active tuberculosis of the lungs.",
+                "C Skip lesions of the intestine.",
+                "D The barium meal x-ray shows a narrowing of the terminal ileum with a normally placed caecum.",
+                "E The barium meal x-ray shows a narrowing of the terminal ileum with a pulled-up subhepatic caecum."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "Tuberculosis is often endemic in developing countries in patients from a poor socioeconomic background. There is often co-existent pulmonary tuberculosis. While tuberculosis may affect multiple sites of the intestine, ‘skip lesions' are characteristic of Crohn's disease. Narrowing of the terminal ileum on a barium study is present in Crohn's disease as in tuberculosis. However, because of intense fibrosis of the intestine and around draining lymph nodes, the caecum in tuberculosis often gets pulled up into the subhepatic position."
+        },
+        {
+            "id": 39,
+            "question_type": "mcq",
+            "question": "Which of the following surgical procedures can be carried out for ileal and ileocaecal tuberculosis:",
+            "options": [
+                "A Strictureplasty.",
+                "B Limited ileocolic resection.",
+                "C Right hemicolectomy.",
+                "D Ileo-transverse anastomosis.",
+                "E All of the above."
+            ],
+            "answer": "E",
+            "explanation": "Tuberculosis affects various sites of the intestine, and therefore all the noted surgical procedures may be carried out for a patient with intestinal tuberculosis depending upon the extent, site, number of lesions and length of healthy bowel in between affected parts of the intestine."
+        },
+        {
+            "id": 40,
+            "question_type": "msq",
+            "question": "Which of the following are true in tuberculous perforation?",
+            "options": [
+                "A Free gas under the diaphragm is always present.",
+                "B It is treated by resuscitation followed by resection of the affected segment.",
+                "C It may be treated by resuscitation, followed by strictureplasty through the perforation.",
+                "D It may be treated by resection and exteriorisation as a first step, followed by restoration of bowel continuity after completion of antituberculous chemotherapy.",
+                "E It should always be treated conservatively."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "There should be a high index of suspicion for tubercular perforation. Rarely, patients present with features of peritonitis and, because of a localised perforation due to adhesions gas under the diaphragm is often absent. These patients sometimes present very late. While laparotomy is almost always indicated, resection and anastomosis may not be feasible in a septic, undernourished patient with severe adhesions. In these individuals, resection and exteriorisation is carried out as a first step. A few weeks later this is followed by restoration of bowel continuity after completion of antituberculous chemotherapy."
+        },
+        {
+            "id": 41,
+            "question_type": "msq",
+            "question": "Typhoid fever is caused by Salmonella typhi, which is a Gram-negative bacillus. Which of the following are true of the disease?",
+            "options": [
+                "A The bacteria enter the body through infected blood or contaminated needles.",
+                "B The organism colonises the Peter's patches in the terminal ileum, initially causing hyperplasia and later necrosis and ulceration.",
+                "C If left untreated or inadequately treated, the ulcers may bleed or perforate.",
+                "D A typical patient may present with high fever for 2 to 3 weeks after a visit to an endemic area, with abdominal distension due to paralytic ileus.",
+                "E Patients may present as an emergency due to melaena and hypovolaemia or with features of peritonitis and shock."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The bacillus is ingested in contaminated food and drinks and is a result of poor hygiene and inadequate sanitation. The clinical features and a history of a visit to an endemic area should raise suspicion about the disease."
+        },
+        {
+            "id": 42,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A It is diagnosed by positive blood and stool cultures.",
+                "B The Widal test, although obsolete, looks for the presence of bacteria in red blood cells.",
+                "C In the presence of inadequate treatment when blood cultures are often negative, special kits such as Multi-Test Dip-S-Ticks to detect immunoglobulin G, Tubex to detect immunoglobulin M and TyphiDot to detect IgG and IgM may be used.",
+                "D In the second or third week, any patient who shows signs of deterioration accompanied by abdominal pain should be considered to have a perforation unless otherwise proved.",
+                "E Abdominal distension in typhoid disease in the second or third week of the fever should be treated by high-bowel washout to get rid of the toxins."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D"
+            ],
+            "explanation": "The Widal test, mostly obsolete, tests for the presence of agglutinins to O and H antigens of the Salmonella typhi and paratyphi in the patient's serum. The risk of a perforation is high in cases of untreated typhoid fever. Therefore, a patient who has abdominal symptoms and shows signs of deterioration in the second or third week should be investigated appropriately, using an erect chest x-ray or abdominal x-ray in lateral decubitus, if the patient is very sick, to exclude free gas in the abdomen."
+        },
+        {
+            "id": 43,
+            "question_type": "msq",
+            "question": "Which of the following statements are true with regard to the treatment of typhoid perforation?",
+            "options": [
+                "A Treatment involves vigorous resuscitation with IV fluids and antibiotics in an intensive care unit.",
+                "B Chloramphenicol is the drug of choice.",
+                "C Several surgical options are available, depending on the condition of the patient, site and number of perforations and amount of peritoneal soiling.",
+                "D After operation the skin and subcutaneous tissue are often kept open for delayed closure, as wound infection inevitably occurs, leading to wound dehiscence.",
+                "E Perforation occurring in the first week of typhoid fever has a better prognosis, as the patient's nutritional and immunological status is better."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Metronidazole, cephalosporins and gentamycin are used in combination in the treatment of typhoid perforation. Chloramphenicol, though very specific for typhoid infection is used very sparingly, because it can cause aplastic anaemia. Surgical options for treatment of typhoid perforation can vary, including closure of the perforation after freshening the edges, wedge resection of the perforated segment, resection of bowel with anastomosis or exteriorisation of ileum or colon and closure of the perforation with and side-to-side ileo-transverse anastomosis. Delayed wound closure is an accepted procedure as is creating a laparostomy in the presence of rampant infection."
+        },
+        {
+            "id": 44,
+            "question_type": "emq",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Actinomycetoma",
+                    "2 Amoebic liver abscess",
+                    "3 Ascariasis",
+                    "4 Filariasis",
+                    "5 Hydatid disease",
+                    "6 Hyperplastic ileocaecal tuberculosis",
+                    "7 Leprosy",
+                    "8 Poliomyelitis",
+                    "9 Psoas abscess",
+                    "10 Tropical chronic pancreatitis",
+                    "11 Tubercular peritonitis",
+                    "12 Typhoid perforation"
+                ],
+                "choices": [
+                    "A A 35-year-old man presents with episodic severe upper abdominal pain radiating to back for 5 months. He has increased thirst with polyuria and passage of bulky pale stools. He consumes tapioca as a staple diet. On examination, there is no abnormality. His fasting blood sugar level is 18 mmol/L; plain abdominal x-ray shows linear calcification in the upper abdomen across the spine.",
+                    "B A 45-year-old man presents with anorexia with pain in the upper abdomen associated with high-grade fever, night sweats and general malaise for 5 days. The pain has been constant in the right upper abdomen and is exacerbated by movement and coughing. He had bloody diarrhoea over the preceding 3 to 4 weeks. On examination there is tender hepatomegaly 5 cm below the right costal margin with intercostal tenderness in the right 5th, 6th and 7th spaces.",
+                    "C A 45-year-old sheep farmer complains about a gradually enlarging painful lump in the right upper abdomen for 3 months. He is otherwise healthy. Physical examination reveals firm tender hepatomegaly. He has a total leucocyte count (TLC) of 8600 with a differential leucocyte count (DLC) showing 12% eosinophils.",
+                    "D A 19-year-old woman presents with a history of intermittent colicky central abdominal pain for the past 6 months. She has diarrhoea alternating with constipation over this period. Her father died 2 years ago of a prolonged respiratory illness. On examination she is pale, with slight fullness in the right iliac fossa and a firm lump in the same region that is tender. The rest of her abdomen is unremarkable. A barium meal and follow-through reveals irregular narrowing of the terminal ileum.",
+                    "E A 25-year-old woman patient gives a history of high-grade fever with chills over the past 3 weeks, and diarrhoea 10 days previously, which lasted for about 1 week. She also gives a history of abdominal pain for the past 4 to 5 days that started in the lower abdomen and later became severe as well as generalized. On examination, she is severely dehydrated and febrile. Abdominal examination reveals a board-like rigidity with absent bowel sounds. There is free gas under the diaphragm on erect abdominal radiograph.",
+                    "F A 40-year-old man complains of progressive swelling of his right leg over the past 6 months. He has had episodes of high-grade fever for 4 months, during which the leg becomes red and painful with increase in the size of the swelling. On examination, the girth of the affected limb is found to be increased, and the skin is very thick and rough. The swelling of the limb does not pit with pressure. Blood examination reveals the presence of marked eosinophilia.",
+                    "G A 40-year-old female resident of Myanmar complains of progressive deformity affecting both of her hands over the past 3 to 4 years. She also complains of numbness of the tips of her fingers and non-healing ulcers involving several of them. There is no history of any trauma. On examination, there is bilaterally symmetrical clawing of all the digits of both the hands with non-healing ulcers over the tips of several of the digits. There are multiple hypoaesthetic and anaesthetic areas involving both the forearms and hands. Incidentally, she is also found to have lost her eyebrows.",
+                    "H A 6-year-old boy is brought by his parents with complaints of sudden-onset fever, with severe headache and weakness and deformities of both the upper limbs. On examination, the boy is malnourished, with no neck rigidity. There is weakness of the muscles of shoulders, elbows and wrist, more on the left side. There is also accompanying flattening of the thenar eminence with weakness of flexion of the fingers and apposition of the thumb. The sensory examination is normal.",
+                    "I A 30-year-old woman presents with an inability to straighten her left lower limb at the hip joint for the past 2 weeks. The deformity was preceded by a history of backache for 6 months for which she took some analgesics. She also has history of low-grade evening fever over the past 4 to 5 months. On examination there is flexion deformity of the left hip joint with evidence of fullness in the abdomen over the left iliac fossa. There is also a gibbus deformity of the upper lumbar spine, which is tender with fullness along the left paravertebral region.",
+                    "J A 36-year-old man presents with irregular swelling in the inguinal region with multiple purulent discharging sinuses involving the anterior abdominal wall and perineum, a swollen knee and a previous history of a swelling in the foot with similar discharging sinuses.",
+                    "K A 30-year-old woman presents with intermittent colicky central abdominal pain for 10 months with weight loss and amenorrhoea over the past 3 months. She has had alternating constipation and diarrhoea during this period. In the past week the pain has been continuous and is increasing in severity. Over the past 2 days, she has had absolute constipation. Her husband was treated for pulmonary tuberculosis in the recent past. On examination the patient is pale and dehydrated with a distended rigid abdomen with rebound tenderness and absent bowel sounds. An erect x-ray of the abdomen reveals free gas under the diaphragm.",
+                    "L A 10-year-old boy is brought to the hospital by his mother with complaints of sudden onset of severe colicky abdominal pain associated with several episodes of vomiting. There is a history of failure to thrive and also of the passage of worms per rectum in the past. On examination, he is pale and underweight for his age. The abdomen is distended with palpable bowel loops. The bowel sounds are exaggerated. His haemoglobin is 10.2 g/dL and 12% eosinophils."
+                ]
+            },
+            "answer": {
+                "A": "10",
+                "B": "2",
+                "C": "5",
+                "D": "6",
+                "E": "12",
+                "F": "4",
+                "G": "7",
+                "H": "8",
+                "I": "9",
+                "J": "1",
+                "K": "11",
+                "L": "3"
+            },
+            "explanation": "1. J Actinomycetoma Of the two types of mycetoma, actinomycetoma is characterised by earlier and more extensive invasion of deeper tissues as compared with eumycetoma. The swelling is variable in its physical characteristics, which are firm and rounded, soft and lobulated, rarely cystic and often mobile. Multiple secondary nodules may evolve; they may suppurate and drain through multiple sinus tracts. The sinuses may close transiently after discharge during the active phase of the disease. Fresh adjacent sinuses may open, while some of the old ones may heal completely. They coalesce and form abscesses, the discharge being serous, serosanguinous, or purulent. During the active phase of the disease the sinuses discharge grains, the colour of which can be black, yellow, white, or red depending upon the organism. Pain occurs when there is secondary bacterial infection. Local spread occurs predominantly along tissue planes. The organism multiplies, forming colonies that spread along the fascial planes to skin and underlying structures. Lymphatic spread occurs to the regional lymph nodes. During the active phase of the disease, these lymphatic satellites may suppurate and discharge. Lymphatic spread is more common in actinomycetoma; lymphadenopathy may also be due to secondary bacterial infection. Spread by bloodstream can occur. X-ray may show multiple large cavities with well-defined margins and periosteal reaction typical of eumycetoma. Periosteal reaction with new bone spicules may create a sun-ray appearance and Codman's triangle, not unlike in osteogenic sarcoma. However, clinical appearance is completely different in the latter where bony swelling rather than subcutaneous nodules are the predominant picture. MRI of the involved joint usually shows multiple 2–5 mm lesions of high signal intensity, which indicates the granuloma, interspersed within a low-intensity matrix denoting the fibrous tissue. The ‘dot-in-circle sign', which indicates the presence of grains, is highly characteristic. Kaposi sarcoma may be associated with swollen foot, multiple soft tissue nodules and destruction of the bones of the foot, making it sometimes difficult to differentiate from mycetoma.\n2. B Amoebic liver abscess Amoebiasis is caused by Entamoeba histolytica. The disease is common in the Indian subcontinent, Africa and parts of Central and South America where almost half the population is infected. The majority remain asymptomatic carriers. Amoebic liver abscess, the most common extraintestinal manifestation, occurs in less than 10% of the infected population and, in endemic areas, is much more common than pyogenic abscess. The typical patient with amoebic liver abscess is a young adult male with a history of pain and fever and insidious onset of non-specific symptoms such as anorexia, fever, night sweats, malaise, cough and weight loss, which gradually progress to more specific symptoms of pain in the right upper abdomen, shoulder-tip pain, hiccoughs and a non-productive cough. A past history of bloody diarrhoea or travel to an endemic area raises the index of suspicion. Examination reveals a patient who is toxic and anaemic. The patient will have upper abdominal rigidity, tender hepatomegaly, tender and bulging intercostal spaces, overlying skin oedema, pleural effusion and basal pneumonitis – the last feature being a late manifestation. Occasionally, a tinge of jaundice or ascites may be present. Rarely, the patient may present as an emergency due to the effects of rupture into the peritoneal, pleural, or pericardial cavity.\n3. L Ascariasis Ascaris lumbricoides, commonly called the roundworm, is the most common intestinal nematode to infect humans and affects one-quarter of the world's population. The parasite causes pulmonary symptoms as a larva and intestinal symptoms as an adult worm. The adult worm can grow up to 45 cm long. Its presence in the small intestine causes malnutrition, failure to thrive and abdominal pain. Small intestinal obstruction can occur, particularly in children, due to a bolus of adult worms incarcerated in the terminal ileum. This is a surgical emergency. Rarely, perforation of the small bowel may occur as a result of ischaemic pressure necrosis from the bolus of worms. A high index of suspicion is necessary so as not to miss the diagnosis. If a person from the tropics, or one who has recently returned from an endemic area, presents with pulmonary, gastrointestinal, hepatobiliary and pancreatic symptoms, roundworm infestation should be high on the list of possible diagnoses. Increase in the eosinophil count is common, in keeping with most other parasitic infestations. Stool examination may show ova. Sputum or bronchoscopic washings may show Charcot-Leyden crystals or the larvae.\n4. F Filariasis Filariasis is chiefly caused by the parasite Wuchereria bancrofti, which is carried by the mosquito. A variant of the parasite called Brugia malayi and Brugia timori is responsible for causing the disease in about 10% of sufferers. The condition affects more than 90 million people worldwide, two-thirds of who live in India, China and Indonesia. It is chiefly males who are affected, because females in general cover a greater part of their bodies, thus making them less prone to mosquito bites. In the acute presentation, there are episodic attacks of fever with lymphadenitis and lymphangitis. Occasionally, adult worms may be felt subcutaneously. Chronic manifestations appear after repeated acute attacks over several years. The adult worms cause lymphatic obstruction, resulting in massive lower limb oedema. Obstruction to the cutaneous lymphatics causes skin thickening, not unlike the 'peau d'orange' appearance in breast cancer, thus exacerbating the limb swelling. Secondary streptococcal infection is common. Recurrent attacks of lymphangitis cause fibrosis of the lymph channels, resulting in a grossly swollen limb with thickened skin, producing the condition of elephantiasis. Bilateral lower limb filariasis is often associated with scrotal and penile elephantiasis. Early on, there may be a hydrocele underlying scrotal filariasis. Eosinophilia is common, and a nocturnal peripheral blood smear may show the immature forms or microfilariae. The parasite may also be seen in chylous urine, ascites and hydrocele fluid.\n5. C Hydatid disease Commonly called dog tapeworm, hydatid disease is caused by Echinococcus granulosus. While it is common in the tropics, in the United Kingdom the occasional patient may come from a rural sheep farming community. The dog is the definitive host and, as a pet, is the most common source of infection transmitted to the intermediate hosts, including humans, sheep and cattle. As the parasite can colonise virtually every organ in the body, the condition can be protean in its presentation. When a sheep farmer, who is otherwise healthy, complains of a gradually enlarging painful mass in the right upper quadrant with the physical findings of a liver swelling, a hydatid liver cyst should be considered. The liver is the organ most often affected. The lungs are the next site most commonly affected. The parasite can affect any organ or several organs in the same patient. The disease may be asymptomatic and discovered incidentally at postmortem or when an ultrasound or CT scan is done for some other condition. Symptomatic disease presents with a swelling causing pressure effects. Thus, a hepatic lesion causes dull pain from stretching of the liver capsule, and a pulmonary lesion, if large enough, causes dyspnoea.\n6. D Hyperplastic ileocaecal tuberculosis Infection by Mycobacterium tuberculosis is common in the tropics. Any patient, particularly one who has recently arrived from an endemic area and who has features of generalised ill health and altered bowel habit, should arouse the suspicion of intestinal tuberculosis. Patients present electively with weight loss, chronic cough, malaise, evening rise in temperature with sweating, vague abdominal pain with distension and alternating constipation and diarrhoea. As an emergency, they present with features of distal small-bowel obstruction from strictures of the small bowel, particularly the terminal ileum. Rarely, a patient may present with features of peritonitis from perforation of a tuberculous ulcer in the small bowel. Examination shows a chronically ill patient with a ‘doughy' feel to the abdomen from areas of localised ascites. In the hyperplastic type, a mass may be felt in the right iliac fossa. Some patients may present late as an emergency from intestinal obstruction. Abdominal pain and distension, constipation and bilious and faeculent vomiting are typical of such a patient who is in extremis. Raised erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP), anaemia and a positive Mantoux test are usual, although the last is not significant in a patient from an endemic area. Sputum for culture and sensitivity (the result may take several weeks) and staining by the Ziehl-Neelsen method for acid-fast bacilli (the result is obtained much earlier) should be done. A barium meal and follow-through (or small-bowel enema) will show strictures of the small bowel, particularly the ileum, typically with a high subhepatic caecum with the narrow ileum entering the caecum directly from below upward in a straight line rather than at an angle. In the patient presenting as an emergency, urea and electrolytes show evidence of gross dehydration. Plain abdominal x-ray shows typical small-bowel obstruction– valvulae conniventes of dilated jejunum and featureless ileum with evidence of fluid between the loops.\n7. G Leprosy Leprosy, also called Hansen's disease, is a chronic infectious disease caused by the acid-fast bacillus, Mycobacterium leprae that is widely prevalent in the tropics. Globally, India, Brazil, Nepal, Mozambique, Angola and Myanmar (Burma) account for 91% of all the cases. The disease is broadly classified into two groups, lepromatous and tuberculoid. In lepromatous leprosy, there is widespread dissemination of abundant bacilli in the tissue with macrophages and a few lymphocytes. This is a reflection of the poor immune response, resulting in depleted host resistance from the patient. In tuberculoid leprosy, on the other hand, the patient shows a strong immune response with scant bacilli in the tissues, epithelioid granulomas, numerous lymphocytes and giant cells. The tissue damage is proportional to the host's immune response. The disease is slowly progressive and affects the skin, upper respiratory tract and peripheral nerves. In tuberculoid leprosy, the damage to tissue occurs early and is localised to one part of the body with limited deformity of that organ. Neural involvement is characterised by thickening of the nerves, which are tender. There may be asymmetric well-defined anaesthetic hypopigmented or erythematous macules with elevated edges and a dry and rough surface – lesions called leprids. In lepromatous leprosy, the disease is symmetrical and extensive. Cutaneous involvement occurs in the form of several pale macules that form plaques and nodules called lepromas. The deformities produced are divided into primary, which are caused by leprosy or its reactions, and secondary, which result from effects such as anaesthesia of the hands and feet. There is loss of eyebrows and destruction of the lateral cartilages and septum of the nose with collapse of the nasal bridge and lifting of the tip of the nose. There may be paralysis of the branches of the facial nerve in the bony canal or the zygomatic branch. The hands are typically clawed because of involvement of the ulnar nerve at the elbow and the median nerve at the wrist. Anaesthesia of the hands makes these patients vulnerable to frequent burns and injuries. Similarly, clawing of the toes occurs as a result of involvement of the posterior tibial nerve. When the lateral popliteal nerve is affected, it leads to foot drop, and the nerve can be felt to be thickened behind the upper end of the fibula. Anaesthesia of the feet predisposes to trophic ulceration, chronic infection, contraction and auto-amputation. Involvement of the testes causes atrophy, which in turn results in gynaecomastia.\n8. H Poliomyelitis Poliomyelitis is an enteroviral infection that affects children in developing countries. The virus enters the body by inhalation or ingestion. Clinically, the disease manifests itself in a wide spectrum of symptoms, from a few days of mild fever and headache to the extreme variety consisting of extensive paralysis of the bulbar form that may not be compatible with life because of involvement of the respiratory and pharyngeal muscles. The disease targets the anterior horn cells, causing lower motor neuron paralysis. Muscles of the lower limb are affected twice as frequently as those of the upper limb. Only 1% to 2% of sufferers develop paralytic symptoms, but, when they do occur, the disability causes much misery. When a patient develops fever with muscle weakness, Guillain-Barré syndrome needs to be excluded. The latter has sensory symptoms and signs, and cerebrospinal fluid (CSF) analysis should help to differentiate the two conditions. The regional anatomical deformities are as follows: Foot and ankle: The most common deformities are claw toes, cavovarus foot, dorsal bunion, talipes equines, talipes equinovarus, talipes cavovarus, talipes equinovalgus and talipes calcaneus. Knee: Flexion contracture, quadriceps paralysis, genu recurvatum and flail knee. Hip: Common problems are flexion and abduction contractures, hip instability due to paralysis of the gluteal muscles and paralytic hip dislocation. Trunk: Unbalanced paralysis causes scoliosis along with pelvic obliquity. Shoulder, elbow, wrist and hand: Common problems are shoulder weakness, wrist drop and claw hands.\n9. I Psoas abscess Psoas abscess is a condition in which an abscess develops in the fascial sheath of the psoas major muscle. The source of infection may be from the adjacent lumbar vertebrae (tuberculosis of the spine is the most common), haematogenous, or from the overlying peritoneal cavity. The abscess remains silent for a long time due to the deep-seated location of the muscle. At this time the patient may have systemic features of the infection, such as fever or malaise, or may have symptoms attributable to the spine such as backache or neurological complaints. The infection tracks along the muscle sheath and may involve the iliacus muscle, which joins the psoas for a common insertion, to form an iliopsoas abscess. This may be palpable as a lump in the iliac fossa. Rarely, the abscess may point on the medial side of the thigh at the point of insertion of the muscle on the femur. The affected muscle may go into spasm, causing flexion deformity of the hip joint. Clinical signs may include tenderness of the affected vertebrae, fullness of the paravertebral space and scoliosis with concavity toward the affected side, mass in the iliac fossa, flexion deformity of the hip and lump on the upper medial thigh with cross-fluctuation of the abscess (cold abscess). An x-ray of the dorsolumbar spine or US or CT scan help in arriving at a diagnosis.\n10. A Tropical chronic pancreatitis Tropical chronic pancreatitis is a disease affecting the younger generation seen mostly in southern India. The aetiology remains obscure, with malnutrition, dietary, familial and genetic factors being possible causes. Cassava (tapioca) is a root vegetable that is readily available and inexpensive and is therefore consumed as a staple diet. Several members of the same family have been known to suffer from this condition; this strengthens the theory that cassava toxicity is an important cause, because family members eat the same food. The patient, usually male, is almost always younger than 40 years and usually from a poor background. The clinical presentation is abdominal pain, thirst, polyuria and features of gross pancreatic insufficiency, causing steatorrhoea and malnutrition. The patient looks ill and emaciated. Initial routine blood and urine tests confirm that the patient has type 1 diabetes mellitus. Plain abdominal x-ray shows typical pancreatic calcification in the form of discrete stones in the duct. Ultrasound and CT scan of the pancreas confirm the diagnosis.\n11. K Tubercular peritonitis Infection by Mycobacterium tuberculosis is common in the tropics. Any patient, particularly one who has recently arrived from an endemic area and who has features of generalised ill health and altered bowel habit, should arouse the suspicion of intestinal tuberculosis. Patients present electively with weight loss, chronic cough, malaise, evening rise in temperature with sweating, vague abdominal pain with abdominal distension and alternating constipation and diarrhoea. As an emergency, they present with features of distal small-bowel obstruction from strictures of the small bowel, particularly the terminal ileum. Rarely, a patient may present with features of peritonitis from perforation of a tuberculous ulcer in the small bowel. Examination shows a chronically ill patient with a ‘doughy' feel to the abdomen from areas of localised ascites. In the hyperplastic type, a mass may be felt in the right iliac fossa. Because this is a disease seen mainly in developing countries, patients may present late as an emergency from intestinal obstruction. Abdominal pain and distension, constipation and bilious and faeculent vomiting are typical of such a patient who is in extremis. Raised ESR and CRP, low haemoglobin and a positive Mantoux test are usual, although the last is not significant in a patient from an endemic area. Sputum for culture and sensitivity (the result may take several weeks) and staining by the Ziehl-Neelsen method for acid-fast bacilli (the result is obtained much earlier) should be done. A barium meal and follow-through (or small-bowel enema) will show strictures of the small bowel, particularly the ileum, typically with a high subhepatic caecum with the narrow ileum entering the caecum directly from below upward in a straight line rather than at an angle. In the patient presenting as an emergency, urea and electrolytes show evidence of gross dehydration. Plain abdominal x-ray shows typical small-bowel obstruction – valvulae conniventes of dilated jejunum and featureless ileum with evidence of fluid between the loops.\n12. E Typhoid perforation Typhoid fever is caused by Salmonella typhi, which is also called the typhoid bacillus. This is a Gram-negative organism. The organism gains entry into the human gastrointestinal tract as a result of poor hygiene and inadequate sanitation. It is a disease normally managed by physicians, but the surgeon is called upon to treat the patient with typhoid fever because of perforation of a typhoid ulcer. A typical patient is from an endemic area or someone who has recently visited such a country and suffers from a high temperature for 2 to 3 weeks. The patient may be toxic with abdominal distension from paralytic ileus. The patient may have melaena due to haemorrhage from a typhoid ulcer; this can lead to hypovolaemia. In the second or third week of the illness, if there is severe generalised abdominal pain, this heralds a perforated typhoid ulcer. The patient, who is already very ill, deteriorates further with classical features of peritonitis. An erect chest x-ray or a lateral decubitus film (in the very ill, as they usually are) will show free gas in the peritoneal cavity. In fact, any patient being treated for typhoid fever who shows a sudden deterioration accompanied by abdominal signs should be considered to have a typhoid perforation until proved otherwise."
+        }
+    ]
+}

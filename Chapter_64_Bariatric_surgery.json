@@ -1,0 +1,122 @@
+{
+    "chapter_name": "Bariatric surgery",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "Which of the following defines morbid obesity?",
+            "options": [
+                "A BMI greater than 32 Kg/m²",
+                "B BMI greater than 35 Kg/m² with\ncormorbidity",
+                "C BMI greater than 40 Kg/m²",
+                "D BMI greater than 45 Kg/m²",
+                "E BMI greater than 50 Kg/m²"
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "explanation": "Body mass index (BMI) is calculated by dividing weight in kilograms with square of the height in metres (kg/m²). Normal weight ranges between 20–25 kg/m². Morbid obesity is defined as a body mass index (BMI) equal to or greater than 40 kg/m². Values between 25 and 39 kg/m² are classified as obesity. A number of serious medical comorbid conditions like hypertension, diabetes, obstructed sleep apnoea and chest complications are seen to develop in patients with obesity and in such patients the criteria for morbid obesity requiring treatment has been lowered to the level of 35 kg/m². Obesity is dangerous to health due to the excess incidence of comorbidities that obese patients often develop, especially the metabolic syndrome. Many studies have suggested that if weight loss is induced surgically this leads to improvement in various comorbidities, which translates into increased life expectancy. The rationale for doing bariatric surgery stems from the fact that there is an objective increase in life expectancy and a decrease in comorbidities and thus a decrease in the health care costs to society as a whole."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "Which of the following constitute\nthe selection criteria for performing\nbariatric surgery as per international\nnorms?",
+            "options": [
+                "A Minimum of 5 years obesity.",
+                "B Failure of conservative treatment.",
+                "C No alcoholism or major untreated\npsychiatric illness.",
+                "D Avoid if likely to get pregnant within\n1 year.",
+                "E Acceptable operative risk on\npreoperative assessment."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Selection criteria for obesity surgery (based on the International Federation for Surgery of Obesity and the National Institute for Clinical Excellence) is body mass index (BMI) >40 kg/m² or BMI 35–39 kg/m² with serious comorbid disease treatable by weight loss, minimum of 5 years obesity, failure of conservative treatment, no alcoholism or major untreated psychiatric illness, avoid if likely to get pregnant within 2 years, age limits 18–55 (relative) and an acceptable operative risk on preoperative assessment."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "Preoperative nutritional screening\nof morbidly obese patients includes\nwhich of the following?",
+            "options": [
+                "A Vitamins A, D and E, parathyroid\nhormone.",
+                "B Glucocorticoids and mineralocorticoids.",
+                "C Magnesium, calcium and phosphate.",
+                "D Ferritin, vitamin B12, folate and\ncoagulation screen.",
+                "E Zinc, selenium, copper and C-reactive\nprotein."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "A preoperative baseline metabolic screen is desirable to determine the levels of vitamins, minerals and micronutrients, which are essential for health. It is well recognised that many bariatric patients preoperatively suffer from vitamin and micronutrient deficiencies, usually due to their poor diet. Preoperatively patients are generally put on a low carbohydrate diet for a minimum of 2 weeks to shrink the liver to allow for adequate working space to carry out the surgery and easy retraction of the left lobe of the liver to facilitate dissection around the gastro-oesophageal junction."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "Roux-en-Y gastric bypass is which type\nof bariatric procedure?",
+            "options": [
+                "A Restrictive",
+                "B Malabsorptive",
+                "C Combined restrictive and malabsorptive",
+                "D Type of bowel transposition",
+                "E Uses band prosthesis"
+            ],
+            "answer": "C",
+            "explanation": "All the bariatric procedures are classified into one of the three types, i.e., restrictive, malabsorptive, or both.\nGastric banding involves putting an adjustable band around the upper stomach leaving a small pouch just below the cardia. The degree of restriction can be controlled by the amount of fluid injected into the subcutaneous port. This operation is especially popular in Australia, where excellent results are obtained. The perception that the band is reversible is important to some patients (although in reality it is a disadvantage). Gastric banding is certainly the least risky procedure (0.1% perioperative mortality) as it does not involve cutting any stomach or bowel and is a relatively easy operation to perform in most patients who have a BMI <50 kg/m². This is purely a restrictive procedure that is also reversible and done in almost 50% of cases worldwide. One disadvantage of the gastric band is the need for continual band adjustments in the early postoperative period and occasional long-term adjustments. It is generally considered a labour-intensive procedure that requires a lot of patient compliance to get good results. Another disadvantage of the gastric band is when a revisional procedure is indicated it is a much higher-risk procedure due to adhesions and gastric wall thickening. However, gastric banding has a place in properly selected patients who have the correct attitude and understanding of the postoperative requirements. In selected patients a band can even be inserted as a day-case procedure. It should generally be avoided in binge-eating patients and those whose eating habits involve excessive sweets and chocolate (see Figure 64.1).\nSleeve gastrectomy is a type of restrictive procedure, which is relatively new and requires less postoperative monitoring as it does not require any adjustments although it is a riskier procedure than gastric banding (0.2% operative mortality). Technically, the stomach is constructed into a sleeve by excising most of the gastric fundus and body, leaving the antrum. The long staple line can leak despite various manoeuvres to avoid leakage, such as applying reinforcing material or gluing. Another attraction of this procedure is that because it removes most of the grehlin-secreting area of the stomach, it might have a beneficial effect on reducing appetite. The true place for sleeve gastrectomy as a primary bariatric procedure is still unclear and more long-term data are needed. Despite this, the frequency of this procedure is accelerating at a remarkable rate largely because of the relative technical ease of doing the procedure, lack of potential malabsorption problems and option of doing a relatively safe second-stage procedure if needed (see Figure 64.2).\nRoux-en-Y gastric bypass is a very effective weight-loss procedure but is performed with myriad technical variations, making comparisons difficult. This is a combination of restrictive and malabsorptive procedure where a small pouch of stomach is created and disconnected from the remaining stomach, and a limb of jejunum is brought to restore the continuity thus bypassing a segment of small bowel. However, overall it produces 65%-75% excess weight loss albeit at a higher risk of around 0.5% perioperative mortality. Gastric bypass is a very effective operation for alleviating and even curing type 2 diabetes – the result being almost immediate and independent of weight loss. There are two major theories as to how this happens, given that other bariatric procedures such as banding and sleeve gastrectomy are dependent on weight loss to resolve the diabetes. Over 80% of patients will have their diabetes permanently resolved. There are many variations in the actual gastric bypass technique, e.g., antecolic versus retrocolic Roux limb placement, varying alimentary and biliary limb lengths, additional banding of the gastrojejunal anastomosis to prevent dilatation, varying methods of doing the gastrojejunal anastomosis and varying methods of closing potential hernia spaces (see Figure 64.3).\nBiliopancreatic diversion – with or without a duodenal switch is a procedure that produces the most malabsorption of all operations, is the most effective with 75%-85% excess weight loss but at the expense of the highest perioperative mortality of 1%-2%. Additionally as time goes by, if the patient does not adhere to his or her vitamin and micronutrient supplementation regime he or she is at severe risk of many deficiency syndromes. Furthermore, due to the extreme malabsorption these operations produce there is a need for a high protein intake of around 90 g per day, which many patients find difficult. If this is not achieved, protein calorie malnutrition can be a problem. In correctly selected patients, however, the BPD can be very effective, especially in those patients with a very high BMI (see Figure 64.4).\nIleal transposition is a malabsorptive procedure that is restricted for use in patients with metabolic syndrome such as correction of type 2 diabetes with a BMI between 30 and 34 kg/m². The procedure involves removal of a small segment of the ileum with its vascular and nervous supply and inserting it into the proximal small intestine."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "Which of the following are specific\ncomplications of bariatric procedures?",
+            "options": [
+                "A Internal herniation in gastric bypass and\nbilio-pancreatic diversion (BPD).",
+                "B Staple line or anastomotic leak in gastric\nbypass, sleeve gastrectomy and BPD.",
+                "C Pouch dilatation in gastric band, gastric\nbypass and sleeve gastrectomy.",
+                "D Erosion in BPD and sleeve gastrectomy.",
+                "E Band slippage in gastric banding."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "General risks of bariatric surgery include bleeding, infection, deep vein thrombosis (± pulmonary embolism), accidental bowel perforation and perioperative mortality. Long-term risks include protein calorie malnutrition and vitamin and micronutrient depletion syndromes. Risks of specific bariatric procedures include internal herniation (gastric bypass and BPD), staple line or anastomotic leak (gastric bypass, sleeve gastrectomy, BPD), band slippage or erosion after gastric banding and pouch dilatation after gastric band, gastric bypass or sleeve gastrectomy."
+        },
+        {
+            "id": 6,
+            "question_type": "matching",
+            "question": "Choose and match the correct surgical procedures with each of the scenarios that follow:",
+            "options": {
+                "items": [
+                    "A A 50-year-old man weighing 105 kg and with a height of 180 cm presents with a history\nof progressive and poorly controlled diabetes for 15 years. He was shifted from oral\nhypoglycaemics to insulin but has shown poor compliance to treatment. He is now beginning\nto have alteration in renal functions and eye changes. Which type of procedure can he benefit\nfrom?",
+                    "B A 30-year-old married woman presents with a weight of 110 kg and a height of 155 cm. She\nhas been a diabetic for the past 10 years and is on anti-hypertensives for the past 5 years with\nneed to escalate the doses of both medications. Which surgical procedure is likely to most\nbenefit her condition?",
+                    "C A 20-year-old man, a college student, presents with a history of weight gain over the past\n5 years. He has a BMI of 40 and is particularly worried about his physique. He has tried dieting\nand exercise and appears well motivated and wants a safe procedure and agrees for regular\nfollow up. Which bariatric procedure should be recommended for him?",
+                    "D A 35-year-old woman who underwent a sleeve gastrectomy 3 years ago, presents with regain\nof weight and relapse of diabetes. She presently has a BMI of 52 and is otherwise fit and\nhealthy. Which procedure is likely to benefit her most with this history?",
+                    "E A 45-year-old man presents with a BMI of 45. He has been obese for the past 10 years without\nany medical comorbidity except snoring during sleep for the past 1 year. Which bariatric\nprocedure is best suited for his ailment?"
+                ],
+                "choices": [
+                    "1 Bilio-pancreatic diversion (BPD)",
+                    "2 Gastric banding",
+                    "3 Ileal transposition",
+                    "4 Roux-en-Y gastric bypass",
+                    "5 Sleeve gastrectomy"
+                ]
+            },
+            "answer": {
+                "A": "3",
+                "B": "4",
+                "C": "2",
+                "D": "1",
+                "E": "5"
+            },
+            "explanation": "For Scenario A (matches 3 Ileal transposition): Ileal transposition is a type of metabolic surgery being offered in the past few years for treatment of long-standing type 2 diabetics with a BMI of 30–34 kg/m². This procedure brings about malnutrition, and studies have shown increased levels of glucagon like peptide-1 in these patients after surgery and is a potent insulinotropic hormone that improves glucose tolerance.\nFor Scenario B (matches 4 Roux-en-Y gastric bypass): Gastric bypass is ideally suited for patients with a BMI of 45–50 who have long-standing medical comorbidities like diabetes and hypertension. It has been seen that resolution of comorbidities like diabetes, hypertension and dyslipidaemias after this procedure is second only to BPD with a much lower intra-operative mortality.\nFor Scenario C (matches 2 Gastric banding): Gastric banding is the safest procedure with lowest intra-operative complication and ideally suited for those requiring a reversible operation. It is best for highly motivated group of patients that are not binge eaters or addicted to sweets and that is compliant for regular band adjustments.\nFor Scenario D (matches 1 Bilio-pancreatic diversion (BPD)): Bilio Pancreatic Division (BPD) is a procedure suited for cases of relapse after previous surgery like sleeve gastrectomy where a duodenal switch can be added to the already-done sleeve gastrectomy. The procedure has the highest percentage of resolution of comorbidities like diabetes, hypertension and dyslipidaemias.\nFor Scenario E (matches 5 Sleeve gastrectomy): Sleeve gastrectomy is rapidly becoming one of the most common procedures performed for bariatric surgery in the world largely due to the ease of surgery and comparable results in terms of excess weight loss and resolution of comorbidities. Snoring in obesity is due to obstructed sleep apnoea (OSA) and is one of the earliest conditions to resolve after surgery."
+        }
+    ]
+}

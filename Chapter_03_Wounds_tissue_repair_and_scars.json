@@ -1,0 +1,86 @@
+{
+    "chapter_name": "Wounds, tissue repair and scars",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "1. The following statements are true except:",
+            "options": [
+                "A The inflammatory phase of wound healing lasts for 5 to 7 days.",
+                "B Platelet-rich blood clot and dilated vessels are typical of the inflammatory phase.",
+                "C Fibroblastic activity is the main feature of the proliferative phase.",
+                "D In a tendon injury, fibrous adhesion between the tendon and its sheath is an important mechanism of healing.",
+                "E In a fractured bone cortical structure and medullary cavity are restored in the remodelling phase."
+            ],
+            "answer": "A",
+            "explanation": "The inflammatory phase of wound healing lasts for 2 to 3 days. Normal wound healing occurs in three phases – the inflammatory phase lasts for the first 2 to 3 days, the proliferative phase lasts for 3 days to 3 weeks and, finally, the remodelling (maturation) phase lasts from the end of the third week to years.\nThe inflammatory phase, also called the exudative phase, has no tensile strength to the wound. It consists of vascular, cellular and enzymatic processes. As a result of the wound, bleeding, vasoconstriction and thrombus formation occurs. Platelets stick to the damaged vessel endothelium, releasing adenosine diphosphate (ADP), cytokines, serotonin, prostaglandins and histamine. This causes vascular permeability, resulting in the migration of inflammatory cells and macrophages, the latter removing devitalised tissue and microorganisms. Fibrinogen produces fibrin, which forms the framework for the fibroblastic activity, which is the second phase.\nThe proliferative phase lasts from 3 days to the end of the third week. The principal feature of this is fibroblastic activity with the production of collagen and new capillaries (angiogenesis) and re-epithelialisation; this is called granulation tissue. This increased collagen gives the wound almost one-third of its original tensile strength. The third phase of remodelling constitutes re-arrangement and cross-linking of collagen fibres, which can go on for years while the wound regains 80% of its original tensile strength.\nWound healing in special situations such as tendon, consists of intrinsic and extrinsic mechanisms, the latter depending upon fibrous adhesions between the tendon and its sheath. In fractured bones, in the final phase of remodelling, restoration of cortical bone and the medullary cavity occurs."
+        },
+        {
+            "id": "2",
+            "question_type": "msq",
+            "question": "2. Which of the following statements are true?",
+            "options": [
+                "A The aim in treatment of a wound is to reduce the inflammatory and proliferative responses.",
+                "B The mechanism of wounding influences the healing of a wound.",
+                "C There is no role for tests for hepatitis and HIV when managing wounds.",
+                "D Primary repair of all damaged structures should be attempted in all wounds.",
+                "E Healing by tertiary intention should be the choice in certain situations."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "The aim should always be to achieve healing by primary intention. This can occur by reducing the inflammatory and proliferative responses. By doing so, healing occurs by first or primary intention when the wound edges are accurately apposed, leaving minimal scarring. The mechanism of a wound has a profound bearing on the healing. For example, a clean-cut incision in an elective operation will heal well with the least prominent scar. On the other hand, a crush injury or one following burns will take a long time to heal and do so by secondary intention with ugly scarring.\nIn certain situations, such as emergency abdominal surgery in faecal peritonitis where the wound would be inevitably contaminated, it is prudent to leave the abdominal wall open after closing the peritoneum. Delayed closure of the wound is carried out when the inflammatory and proliferative phases of wound healing are well established. This is referred to as closure by tertiary or delayed primary intention.\nThere is a role for testing hepatitis and HIV viruses when multiple victims from the same site (terrorist-related injuries or bus crashes) have been brought in because these will carry the risk of tissue and viral contamination. Primary repair of structures such as bone, tendon, soft tissue, nerve and vessels should not be attempted in all wounds. Such repair should be carried out only in a tidy wound. Staged procedures should be attempted in untidy wounds such as explosions."
+        },
+        {
+            "id": "3",
+            "question_type": "mcq",
+            "question": "3. Which one of the following statements is false?",
+            "options": [
+                "A In case of severe uncontrollable bleeding, a soft clamp must be applied immediately across the vessel in the wound.",
+                "B Wounds should be classified as tidy and untidy before deciding upon intervention.",
+                "C Repair of all damaged structures can be attempted under certain situations.",
+                "D Pulsed jet lavage for saline irrigation is not always ideal for saline irrigation.",
+                "E A large haematoma should be actively treated."
+            ],
+            "answer": "A",
+            "explanation": "In severe uncontrollable bleeding, a clamp should never be applied because nerves may be irreparably damaged. The bleeding wound should be elevated and a pressure pad applied until the wound can be properly examined under adequate analgesia or anaesthesia (local, regional, or general). When appropriate, this examination is carried out under the use of a tourniquet.\nWounds are classified as ‘tidy' and 'untidy' to help in their management. Tidy wounds are those with a clean incision on healthy tissue without any tissue loss. Untidy wounds are caused by crush or avulsion injuries and contaminated where there is tissue loss with ischaemia.\nRepair of all damaged structures may be attempted in a tidy wound. Vessels, nerves and tendons are repaired, magnification being used whenever necessary. Wound irrigation with large amounts of saline is carried out as a part of debridement. Irrigation by pulsed jet lavage is not always advisable, because the procedure can push the dirt further deep into tissue planes. A large haematoma can cause pressure on nerves and therefore should be evacuated by incision or aspiration, but the latter is not always successful because the clot may be semi-solid."
+        },
+        {
+            "id": "4",
+            "question_type": "emq",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Compartment syndrome",
+                    "2 Contracture",
+                    "3 Hypertrophic scar",
+                    "4 Keloid",
+                    "5 Leg ulcer",
+                    "6 Necrotising soft-tissue infection",
+                    "7 Pressure sore"
+                ],
+                "choices": [
+                    "A A 72-year-old man, recovering from a stroke, has developed an ulcer over his sacrum over a week. There is also a patch of necrotic skin over his heel.",
+                    "B A 54-year-old woman who is undergoing chemotherapy for breast carcinoma underwent an emergency appendectomy for acute perforated appendicitis 4 days ago. She complains of severe pain in the wound, which shows erythema, oedema, skin blistering and crepitus.",
+                    "C A 76-year-old woman complains of an ulcer in the region of her medial malleolus for 6 months. She has had a swollen leg for many years following a deep vein thrombosis, which she suffered after childbirth.",
+                    "D A 28-year-old man while working on a building site sustained a fracture of his tibia and fibula having fallen from a ladder. This was promptly treated by open reduction and internal fixation. On the second postoperative day, he developed severe pain in his leg exacerbated by passive movement and sensory loss.",
+                    "E A 62-year-old man underwent a coronary artery bypass grafting 8 months ago. The longitudinal scar on his sternum has increased in width, is itchy and is cosmetically unsightly.",
+                    "F An 18-year-old man sustained an assault injury to his face and neck with a broken glass bottle. This was sutured as an emergency and healed primarily. The scar is unsightly and he wishes further surgery.",
+                    "G A 26-year-old woman sustained a burn to her upper limb, which straddled her cubital fossa. This has healed, leaving her with a flexion deformity."
+                ]
+            },
+            "answer": {
+                "1": "D",
+                "2": "G",
+                "3": "F",
+                "4": "E",
+                "5": "C",
+                "6": "B",
+                "7": "A"
+            },
+            "explanation": "1. D Compartment syndrome\nCompartment syndrome usually occurs in the lower limb, following closed injuries, circumferential burns and revascularisation procedures. The patient complains of severe pain out of proportion to the injury or operation; the pain is exacerbated by passive movement and associated with sensory disturbance and loss of two-point discrimination. The calf muscles feel tense and tender and in late stages peripheral pulses may not be palpable. In vulnerable patients, compartment pressures may be measured by a catheter placed in the muscle compartment or through use of a pressure monitor. Normal pressure in the calf is up to 10 mm Hg. Pain and paraesthesia starts at 20–30 mm Hg when fasciotomy has to be undertaken. Decompression of the lower limbs is carried out by two incisions lateral to the subcutaneous border of the tibia, thus gaining access to the two posterior compartments, the peroneal and anterior compartments. In crush injuries when the presentation may be late, delayed fasciotomy may be dangerous. This is because myoglobin released from the dead muscles may result in myoglobinuria, causing acute renal failure. Under such circumstances, amputation may be the safer alternative once the dead tissue has demarcated.\n2. G Contracture\nContracture occurs when scars cross joints, causing deformity resulting in compromise of mobility. It most often occurs following burns or assault, causes disability and may require complex plastic surgery followed by intensive postoperative physiotherapy.\n3. F Hypertrophic scar\nThis is the outcome of a prolonged inflammatory phase of wound healing, particularly when the site of the scar is in an unfavourable area such as across the lines of Langer. It results in excessive scar tissue that is confined within the boundary of the original cut (unplanned wound) or incision. This may require expert plastic surgery for cosmetic purpose.\n4. E Keloid\nA keloid is an exuberant scar, which is the result of excessive scar tissue that extends well beyond the boundaries of the original incision or wound. It is associated with raised levels of growth factor, occurs more commonly in pigmented skin and has an inherited tendency. Certain areas of the body are more susceptible, such as ear lobe and the area bounded by the two shoulder tips and the xiphisternum. Histologically, the dermis is markedly thickened with broad and irregular hyalinised collagen bundles and an excess of capillaries and fibroblasts than seen in normal scar tissue. Several methods of treatment are available, a sure indication that it is a difficult condition to treat as recurrence is common. Steroid injection into the lesion and excision with postoperative radiation or steroid injection has been tried with limited success.\n5. C Leg ulcer\nAn ulcer is defined as a break in epithelial continuity. Leg ulcers can be caused by vascular disease (arterial or venous, or a combination of both) and autoimmune diseases such as rheumatoid arthritis causing arteritis, trauma, chronic infection, inflammatory bowel disease, haematological disorders and skin cancers (Figure 3.1). One of the most common causes is post-phlebitic syndrome with venous hypertension (Figure 3.2), the mechanism of which is explained in Figure 3.3. An indolent ulcer unresponsive to the usual methods of conservative treatment should be biopsied to exclude a Marjolin's ulcer, which is a squamous carcinomatous change in a venous ulcer. An arterial component (ischaemia) should always be excluded by Doppler ultrasound. The mainstay of management is to treat the underlying cause. Locally conservative regime of hygiene, rest, elevation and compression bandaging under the supervision of a district nurse is the key.\n6. B Necrotising soft tissue infection\nNecrotising soft tissue infection most often occurs in an immunosuppressed patient following trauma or surgery in the presence of wound contamination. The causative organisms are multiple with Gram-positive aerobes (S. aureus and pyogenes) and Gram-negative anaerobes (E. coli, pseudomonas, clostridia, bacteroides) and β-haemolytic streptococcus. The two main types are clostridial (gas gangrene) and non-clostridial (streptococcal origin). The latter type is called necrotising fasciitis, which may lead to toxic shock syndrome from S. pyogenes. In lay parlance, it is called the ‘flesh eating bug'. Patients present with severe pain out of proportion to the signs, oedema beyond the erythema, crepitus and greyish discharge (‘dishwater pus') with focal skin gangrene being a late sign. Unrecognised and hence when the diagnosis is made late, shock, coagulopathy and multiple organ dysfunction syndrome can be followed by death. Treatment is wide surgical excision, which may have to be repeated. Delayed skin grafting will be needed.\n7. A Pressure sore\nAlso called bed sores, decubitus ulcers and pressure ulcers, pressure sores are chronic wounds that result in tissue necrosis due to prolonged pressure. Although preventable, such sores occur in 5% of hospitalised patients. The most susceptible are paraplegic patients, those with peripheral vascular disease, unconscious and bed-bound patients. The sites are any bony prominences such as sacrum, ischium, greater trochanter, heel and malleoli. The mechanism of formation of a pressure sore is shown in Figure 3.4. Prevention is the most important. This is achieved by good skin care, special pressure dispersion cushions, foams and beds; meticulous nursing of the bed-bound patient who should be turned at regular intervals is essential. Overall management should be a multi-disciplinary approach and surgery should be contemplated only after very careful and detailed assessment. A well-motivated clinically stable patient with good nutrition should be considered for surgery by graft or flap cover. This should be preceded by optimum preparation of the wound by debridement and vacuum-assisted closure (VAC) also called negative pressure wound closure."
+        }
+    ]
+}

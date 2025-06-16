@@ -1,0 +1,203 @@
+{
+    "chapter_name": "The spine",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "1. Regarding the epidemiology of spinal pathology, which of the following statements are false?",
+            "options": [
+                "A The lifetime prevalence of lower back pain is 60%-80%.",
+                "B 80%-90% of acute low back pain episodes resolve.",
+                "C 5%-7% of 45- to 64-year-olds report back problems as a chronic illness.",
+                "D. The lifetime prevalence of sciatica is 10%-15%.",
+                "E 70% of acute episodes of sciatica resolve within three months."
+            ],
+            "answer": "D",
+            "explanation": "The chance of someone having back pain at some point in his or her life is between 60% and 80%, with more than 80%-90% of episodes resolving spontaneously within six weeks of onset without the need for aggressive investigation or treatment. However, 5%-7% of 45- to 64-year-olds report problems as a chronic illness. The lifetime prevalence of sciatica is 2%-4%, with 70% of acute episodes resolving within 3 months."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. Regarding clinical spinal anatomy, which of the following statements are false?",
+            "options": [
+                "A Cervical lordosis is normally between 35 and 45 degrees.",
+                "B Most lumbar lordosis is between L4-S1.",
+                "C The spinal nerve roots comprise 7 cervical, 12 thoracic, 5 lumbar and 5 sacral.",
+                "D The spinal cord terminates at L1.",
+                "E The radicular artery of Adamkiewicz is the main blood supply to the lower spinal cord."
+            ],
+            "answer": "C",
+            "explanation": "The spine is straight in the coronal plane with the head centred over the sacrum, but in the sagittal (side) plane there is the following:\n• Cervical lordosis (range 20–45 degrees)\n• Thoracic kyphosis (range 20–50 degrees), which increases with age\n• Lumbar lordosis (range 40–80 degrees), occurs predominantly between L4 to S1\nThe thoracic kyphosis balances the cervical and lumbar lordosis. The spinal cord terminates at the level of L1. The spinal nerve roots comprise 8 cervical (7 vertebrae), 12 thoracic, 5 lumbar, 5 sacral and 1 coccygeal. The blood supply to the spinal cord is from the vertebral, deep cervical, intercostal and lumbar arteries, supplying the anterior spinal artery (majority of blood supply) and two posterior spinal arteries. The lower spinal cord is supplied by the anterior spinal artery, which is mainly supplied by the radicular artery of Adamkiewicz. Injury to this artery can lead to critical ischaemia of the cord. It is found on the left side in 80% of patients, originating anywhere from T5 to L5 (ventral roots T9–T11 commonly)."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. Regarding the spinal patient history, which of the following is not a recognised finding in cauda equina syndrome?",
+            "options": [
+                "A History of malignant disease",
+                "B Unilateral or bilateral sciatica",
+                "C Saddle anaesthesia",
+                "D Lower-extremity motor weakness",
+                "E Bladder or bowel disturbance"
+            ],
+            "answer": "A",
+            "explanation": "History of malignant disease is a red-flag symptom but is not classically associated with cauda equina syndrome (Table 35.1). ‘Red flag' signs are possible indicators of a non-benign origin and possible serious spinal pathology. ‘Yellow flag' signs are psychosocial factors that potentially indicate that the back pain is not likely to be amenable to conventional surgical treatment and is more likely to be associated with long-term disability and likely psychological in origin."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. Regarding spinal physical examination, which of the following nerve roots is associated with an absent ankle jerk reflex?",
+            "options": [
+                "A L4",
+                "B L5",
+                "C S1",
+                "D S2",
+                "E S3"
+            ],
+            "answer": "C",
+            "explanation": "The dermatome, myotome and reflex evaluation for the upper and lower limb are found in Table 35.2."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "5. Regarding spinal physical examination, which of the following is a characteristic finding of an upper motor neurone lesion?",
+            "options": [
+                "A Decreased tone",
+                "B Hyper-reflexia",
+                "C Fasciculation",
+                "D Down-going plantars",
+                "E Sensory loss"
+            ],
+            "answer": "B",
+            "explanation": "Characteristic findings of an upper motor neurone lesion are increased tone (spasticity), hyper-reflexia, muscles spasms, motor weakness, disuse atrophy, a positive Hoffman's sign, ankle and patellar clonus and up-going plantar response. Characteristic findings of a lower motor neurone lesion are decreased tone (flaccid), hypo-reflexia, denervation fasciculation, motor weakness, severe atrophy, sensory loss and down-going plantar response."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. Regarding spinal investigations, which of the following statements are true?",
+            "options": [
+                "A Plain radiographs of the spine should be taken only if there is a history of trauma.",
+                "B Early tumour and infection can be diagnosed on plain radiographs.",
+                "C MRI is the optimal method of visualising the disc and nerve roots.",
+                "D CT is best for assessing soft tissue pathology.",
+                "E Bone scintigraphy is used to diagnose osteoporosis."
+            ],
+            "answer": "C",
+            "explanation": "Plain radiographs of the spine can be used as the primary investigation when there is back pain associated with ‘red flag' signs. This includes trauma. Plain radiographs are not useful in the early detection of tumour or infection, as 40%-60% of bone mass destruction is required before it is detected. The best way to image the soft tissue of the spine (disc, thecal sac, nerve roots) is MRI, with CT the investigation of choice for bony pathology. Osteoporosis cannot be diagnosed reliably on radiographs or by scintigraphy, with bone densitometry being used."
+        },
+        {
+            "id": 7,
+            "question_type": "clinical_scenario",
+            "question": "7. Figure 35.1 is a sagittal MRI that demonstrates spondylolisthesis at the L4/5 level, with associated disc pathology, facet joint arthrosis and spinal stenosis. The patient has had previous surgery to the spine. How would you classify this spondylolisthesis according to the Wiltse classification?",
+            "options": [
+                "A Dysplastic",
+                "B Isthmic type 2A",
+                "C Degenerative",
+                "D Isthmic type 2C",
+                "E Pathological"
+            ],
+            "answer": "C",
+            "explanation": "Although it could be argued this is a postsurgical spondylolisthesis, this patient has lumbar spinal stenosis caused by degenerative spondylolisthesis and disc pathology. Spondylolisthesis is the forward translation of one upper vertebra over the one inferior to it. A variety of classifications exist. The Myerding classifies spondylolisthesis according to the severity of the slip and is found in Table 41.2. The alternative Wiltse classification has the following six types:\n1 Congenital (dysplastic): Associated with congenital deficiency at L5/S1\n2 Isthmic: Associated with pars interarticulares lesion\na. Lytic pars defect, i.e., pars fatigue fracture\nb. Elongated or attenuated pars\nc. Acute pars fracture\n3 Degenerative: Facet joint segmental instability due to disc and facet joint degeneration\n4 Traumatic: Acute fracture involving posterior elements (not pars)\n5 Pathological: Pathological destruction associated with bone disease, e.g., metabolic or neoplastic\n6 Postsurgical: Sometimes considered part of traumatic"
+        },
+        {
+            "id": 8,
+            "question_type": "emq",
+            "question": "A A 68-year-old man presents with a long-standing progressive history of lumbar back pain associated with intermittent bilateral leg pain and paraesthesia to both feet. He describes normal bowel and bladder function. His symptoms are worse when walking (5 minutes before pain comes on) but are relieved when bending forward, e.g., leaning on a trolley.",
+            "options": [
+                "1 Cauda equina syndrome",
+                "2 Cervical myelopathy",
+                "3 Idiopathic scoliosis",
+                "4 Lumbar disc herniation",
+                "5 Neuromuscular scoliosis",
+                "6 Peripheral vascular disease",
+                "7 Primary spine tumour",
+                "8 Scheuermann's kyphosis",
+                "9 Spinal metastasis",
+                "10 Spinal stenosis",
+                "11 Spondylolisthesis"
+            ],
+            "answer": "10",
+            "explanation": "The history is classical of spinal stenosis, which is the narrowing of the spinal canal, nerve root canal, or foramen caused by a combination of facet joint hypertrophy (e.g., osteophytes), disc bulge or herniation, ligament flavum hypertrophy, or facet cysts. Resultant neural compression and ischaemia leads to back, buttock and leg pain that is worse when walking. It can be congenital, e.g., achondroplasia (medial facets and short pedicles), post-trauma or surgery, inflammatory (e.g., ankylosing spondylitis), or degenerative, with the latter normally presenting between 50 and 70 years of age. It is essential to differentiate spinal and vascular claudication, as with both causes of pain is initiated on exercise. However, standing stationary relieves symptoms of vascular claudication (postural changes not seen), whereas not stopping but flexion (leaning forward) relieves spinal claudication. Generally, with vascular claudication patients get pain going uphill (when the leg muscles require more oxygen and the spine is flexed), while spinal claudicants get worse pain going downhill (when the spinal canal narrows in extension). Generally, patients with spinal claudication will have normal distal pulses unless they have concomitant peripheral vascular disease. Bladder symptoms can occur in some patients, although cauda equina syndrome is rare. Diagnosis is confirmed with CT or MRI, with some quoting an AP diameter of less than 10 mm or a cross-sectional area of less than 100 mm². Spinal claudication only progresses in around one-third of cases, and if it does spinal decompression +/– fusion can offer symptom relief."
+        },
+        {
+            "id": 9,
+            "question_type": "emq",
+            "question": "B A 70-year-old man who has smoked all his life presents with increasing back pain that is worse at night and a feeling of being generally unwell with unexplained weight loss.",
+            "options": [
+                "1 Cauda equina syndrome",
+                "2 Cervical myelopathy",
+                "3 Idiopathic scoliosis",
+                "4 Lumbar disc herniation",
+                "5 Neuromuscular scoliosis",
+                "6 Peripheral vascular disease",
+                "7 Primary spine tumour",
+                "8 Scheuermann's kyphosis",
+                "9 Spinal metastasis",
+                "10 Spinal stenosis",
+                "11 Spondylolisthesis"
+            ],
+            "answer": "9",
+            "explanation": "Most tumours of the spine are metastases (98%), with the most common being breast (21%), and lung (14%). Prostate, renal, gastrointestinal and thyroid are all under 10%. Red flags are useful in identifying high-risk patients. The vast majority of patients present with progressive pain, with spinal cord compression less common. Routine investigations include bloods (FBC, UEs, LFTs, CRP, ESR, PSA, TFTs), plain radiographs (chest and spine; absent pedicles, vertebral erosion or collapse), CT, bone scan and bone biopsy, e.g., open or CT-guided. Whole-spine MRI is used to detect metastases and neurological compromise. Treatment includes analgesia, steroids, bisphosphonates, radiotherapy, chemotherapy and potentially surgery, e.g., for spinal cord decompression – stabilisation and postoperative radiotherapy."
+        },
+        {
+            "id": 10,
+            "question_type": "emq",
+            "question": "C A 38-year-old man has had problems with sciatica for many years. He lifts a heavy object and subsequently develops severe back pain, bilateral leg pain and perineal numbness.",
+            "options": [
+                "1 Cauda equina syndrome",
+                "2 Cervical myelopathy",
+                "3 Idiopathic scoliosis",
+                "4 Lumbar disc herniation",
+                "5 Neuromuscular scoliosis",
+                "6 Peripheral vascular disease",
+                "7 Primary spine tumour",
+                "8 Scheuermann's kyphosis",
+                "9 Spinal metastasis",
+                "10 Spinal stenosis",
+                "11 Spondylolisthesis"
+            ],
+            "answer": "1",
+            "explanation": "In this case, a cauda equine syndrome (central lumbar disc prolapse or herniation) has to be excluded. It is unlikely to be occult malignancy or an aneurysm, as the patient is too young and transverse myelitis is not usually painful. It is rare (2%–6% of all lumbar disc herniations), more common in men and routinely seen between 20 and 45 years of age. The most common cause is a large central disc prolapse at the L4/5 level. There are no completely reliable signs of central disc prolapse, but saddle anaesthesia and loss of anal tone (faecal incontinence) are important (Table 35.1). Bladder changes include painless retention initially followed by overflow incontinence. Absence of pain does not exclude the diagnosis nor do unilateral signs. They are commonly associated with a single nerve root trapped in the lateral foramen (a paracentral or lateral disc protrusion). Urgent MRI confirms the diagnosis. There is evidence that if surgical decompression is carried out within 24 hours of the loss of bowel or bladder control, the chance of recovery is better and so an immediate referral to a spine surgeon or unit is recommended."
+        },
+        {
+            "id": 11,
+            "question_type": "emq",
+            "question": "D A 40-year-old man presents with chronic lumbar back pain, with acute pain radiating down the left leg to his foot. On examination he has weakness of extensor hallucis longus on the left, with diminished sensation over the dorsum of the foot and the lateral side of the calf.",
+            "options": [
+                "1 Cauda equina syndrome",
+                "2 Cervical myelopathy",
+                "3 Idiopathic scoliosis",
+                "4 Lumbar disc herniation",
+                "5 Neuromuscular scoliosis",
+                "6 Peripheral vascular disease",
+                "7 Primary spine tumour",
+                "8 Scheuermann's kyphosis",
+                "9 Spinal metastasis",
+                "10 Spinal stenosis",
+                "11 Spondylolisthesis"
+            ],
+            "answer": "4",
+            "explanation": "Symptomatic lumbar disc herniation is rare (2%–5% of the population), more common in males, routinely seen between 30 and 50 years of age, and more than 90% occur at the L5/S1 and L4/L5 levels (Figure 35.2). Other risk factors include heavy manual work or lifting, occupation, socioeconomic deprivation, and smoking. Patients often present with back pain followed by unilateral radicular leg pain. A spectrum of neurological signs can be found including paraesthesia, motor weakness, absent reflexes, and a positive straight leg-raise test. In this case, the pain radiates down to the foot, suggesting that it is radicular rather than referred, so facet joint arthritis and discitis or infection are unlikely to be the cause. The motor supply to extensor hallucis longus is from L5 (Table 35.2), and the dermatomal distribution of L5 is the dorsum of the foot and lateral side of the calf. This will be caused by a posterolateral or paracentral disc herniation at L4/L5 or a far-lateral or extra-foraminal herniation at L5/S1. MRI confirms the diagnosis. Conservative management (physiotherapy, analgesia) results in symptoms settling within three months for 70%–90% of patients. Nerve root steroid injections may be helpful. For cases where the symptoms persist, micro-discectomy is employed."
+        },
+        {
+            "id": 12,
+            "question_type": "emq",
+            "question": "E A 13-year-old girl presents with a rib hump and a coronal curve to the spine. She has no previous past medical history of note. Abdominal reflexes are equal and normal.",
+            "options": [
+                "1 Cauda equina syndrome",
+                "2 Cervical myelopathy",
+                "3 Idiopathic scoliosis",
+                "4 Lumbar disc herniation",
+                "5 Neuromuscular scoliosis",
+                "6 Peripheral vascular disease",
+                "7 Primary spine tumour",
+                "8 Scheuermann's kyphosis",
+                "9 Spinal metastasis",
+                "10 Spinal stenosis",
+                "11 Spondylolisthesis"
+            ],
+            "answer": "3",
+            "explanation": "The patient's age, gender, and clinical findings are consistent with adolescent idiopathic scoliosis. A coronal curve is a scoliosis, whereas a sagittal deformity can be a lordosis or kyphosis. Normal abdominal reflexes suggest that a neuromuscular scoliosis is unlikely. Lung function is commonly affected in neuromuscular or early-onset scoliosis but is rarely affected in idiopathic adolescent scoliosis. Risk factors for progression of the curve include females, how much more growth is anticipated, and the rate at which it is occurring, along with curve type (thoracic worse than lumbar, double worse than single) and size. Curves normally stabilise at skeletal maturity. The severity of a scoliosis curve is measured with Cobb's angle on standard full PA and lateral standing views of the spine, with a right thoracic curve most common. Cobb's angle (>10 degrees diagnostic) measures the maximum angle of the spine curvature on the PA view (Figure 35.3). The Lenke classification is more comprehensive and aids to guide treatment. Risser's staging is a method to determine skeletal maturity from the closure of epiphyseal growth plates in the pelvis and therefore predicts how much more growth (and deformity) potential there is in the skeleton. MRI is used to exclude intra-spinal anomalies, e.g., Arnold-Chiari malformation, syrinx. Treatment is determined by the size of the curve and anticipated progression of the curve. For a Cobb angle of <25 degrees, observation with serial radiographs is recommended. Bracing aims to limit curve progression but will not correct the curve, thus the use is limited to skeletally immature patients with flexible curves between 25 and 45 degrees. For angles >40-45 degrees or trunk imbalance, surgery with continuous electrical spinal cord monitoring is indicated. Options include the following:\n• Posterior instrumented spinal fusion (most common)\n• Anterior instrumented spinal fusion\n• Combined"
+        }
+    ]
+}

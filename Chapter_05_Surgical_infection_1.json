@@ -1,0 +1,164 @@
+{
+    "chapter_name": "Surgical infection",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?",
+            "options": [
+                "A Microorganisms are prevented from causing infection by intact skin, chemi-cal, humoral and cellular factors.",
+                "B Reduced resistance to infection may result from metabolic problems, disseminated disease and iatrogenic causes.",
+                "C Colonisation and translocation in the gastrointestinal tract is a risk factor for SIRS, MODS and wound infection (surgical site infections, or SSIs).",
+                "D When closing a skin incision, silk has the least chance of causing infection.",
+                "E In reduced host resistance, non-pathogenic microorganisms may behave as pathogens."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Infection by microorganisms is normally prevented by intact epithelial surfaces, such as skin, chemical factors such as the low pH of gastric acid, humoral factors such as antibodies, and cellular factors such as phagocytic cells, macrophages, polymorphonuclear cells and killer lymphocytes. The organism gains the upper hand when resistance to infection is compromised in situations such as metabolic – diabetes, malnutrition and obesity, jaundice, chronic renal failure; disseminated disease – malignancy, AIDS; iatrogenic – radiotherapy, steroids, chemotherapy. When a patient's immunity is depressed as in cancer, sepsis and shock, bacteria, particularly aerobic Gram-negative bacilli, tend to colonise the upper gastrointestinal tract. They then translocate to the mesenteric lymph nodes causing release of endotoxins, which may then go on to produce SIRS, MODS and SSIs. In a situation of compromised host resistance, harmless microorganisms such as fungi become pathogenic, producing opportunistic infections much more so when prolonged, and changing antibiotic regimes have been in place. Silk as a suture material acts a nidus for infection and encourages the invasion of bacteria, causing suture abscesses. Hence, it should not be used."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. The following statements are true except:",
+            "options": [
+                "A Whether a wound becomes infected depends upon the host response.",
+                "B All SSIs are secondary and due to HAI (health-care-associated infection).",
+                "C Presence of antibiotics during the 'decisive period' is crucial to the prevention of SSIs.",
+                "D Poor surgical technique is a recipe for SSIs.",
+                "E Primary infection occurs when the source of the pathogen is endogenous."
+            ],
+            "answer": "B",
+            "explanation": "Not all SSIs are secondary and of health-care-associated origin. The origin of an SSI can be primary when it is endogenous in origin and present in the host, such as in faecal peritonitis from perforated diverticulitis or acute perforated appendicitis, and secondary or exogenous when it is health-care-associated or nosocomial infection. Host response is a very important factor that will determine whether a wound becomes infected. After trauma or surgery it takes at least 4 hours for the host's inflammatory, humoral and cellular defence mechanisms to be in place. This is referred to as the ‘decisive period' during which time the causative organisms become established in the host. Therefore, the concentration of antibiotics must reach its peak during this period so that the antibiotic level in the tissue should reach above the minimum inhibitory concentration for the likely pathogens. Poor surgical technique, such as leaving a dead space, or ischaemic and necrotic tissue and a haematoma are potent causes for SSIs and no attempt should ever be made to counterbalance this by using antibiotics."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. Which of the following statements is not true?",
+            "options": [
+                "A Surgical incision through infected tissue is best managed by delayed primary or secondary closure.",
+                "B SSIs are usually missed by the surgical team and picked up by the primary care doctors.",
+                "C Antibiotics should be started only once sensitivities are available.",
+                "D Extensive debridement is necessary in Meleney's synergistic gangrene.",
+                "E An infected wound is ideally treated by opening it up."
+            ],
+            "answer": "C",
+            "explanation": "Antibiotics should be started on clinical grounds in surgical infections. One should not wait for culture and sensitivities, because it takes two to three days for the answer to be available. Empirical treatment should be started when there is swinging pyrexia, spreading infection, cellulitis and bacteraemia. A triple-therapy combination of broad-spectrum penicillin (ampicillin), with aminoglycoside (gentamicin) and metronidazole is started; this is obviously modified once the results are available. As most patients have a short hospital stay after surgery and wound infections take up to 10 days to develop, surgical teams miss most SSIs; they are managed in primary care. In necrotising fasciitis of the abdominal wall (Meleney's synergistic gangrene), extensive debridement should be carried out; all necrotic tissue is excised and affected areas laid open, which will require skin grafting later. When there is infected postoperative wound with evidence of underlying pus, the wound should be laid open by removal of the sutures and wound curettage to drain the pus. In severely contaminated wounds, such as a laparotomy for faecal peritonitis, it is prudent to leave the wound open to be closed by delayed primary or secondary closure."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. The following statements are true except:",
+            "options": [
+                "A The blood and tissue levels of antibiotics should be maximal before contamina-tion occurs.",
+                "B In a long operation, under certain conditions, antibiotics should be repeated at 4-hourly intervals.",
+                "C Further doses of antibiotics post-operatively helps in reducing infection.",
+                "D Patients with cardiac valve disease or a prosthesis should have prophylaxis.",
+                "E Ideally, preoperative shaving should be done in the operating theatre just before the operation."
+            ],
+            "answer": "C",
+            "explanation": "There is no evidence that extra doses of antibiotics postoperatively are of any value in the prevention of infection. Such extra doses can actually be harmful as the process can cause antibiotic resistance. Prophylactic antibiotics are ideally given in the ‘decisive period' when local wound defences are minimal and before contamination occurs. In long operations or in the presence of excessive blood loss as in vascular surgery, or in unexpected contamination, antibiotics are repeated at 4-hourly intervals during operation as tissue levels fall faster than serum levels. Patients with valvular disease of the heart and those with prosthesis should have prophylactic antibiotics to prevent bacteraemia when undergoing any form of surgical intervention, such as dental work or urethral instrumentation. In preoperative preparation, shaving of the skin should be done just before the operation in the theatre, as SSI rate after clean wound surgery doubles if it is done the night before."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "5. Which of the following statements are true?",
+            "options": [
+                "A Streptococci are most often responsible for cellulitis.",
+                "B The most common organism in an abscess is Staphylococci.",
+                "C Bacteroides are aerobic spore-bearing organisms.",
+                "D Clostridium difficile causes pseudomembranous enterocolitis.",
+                "E Staphylococcus epidermidis is a cause of HAI."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Streptococci are Gram-positive organisms, the most important of which is the ẞ-haemolytic Streptococcus, which is the normal inhabitant of the pharynx in up to 10% of the population. Group A Streptococcus (S. pyogenes) is the most pathogenic, with the ability to spread, and causes cellulitis and tissue destruction by releasing the streptolysin, streptokinase and streptodornase enzymes. The organism is sensitive to penicillin and erythromycin. Staphylococci are Gram-positive organisms normally present in the nasopharynx of up to 15% of the population. Staphylococcus aureus is the most important pathogen that causes an abscess. Most of these strains are ẞ-lactamase producers resistant to penicillin (MRSA) but sensitive to flucloxacillin, vancomycin, aminoglycosides, some cephalosporins and fusidic acid. Bacteroides are non-spore-bearing anaerobes found in the large bowel, vagina and oropharynx. Bacteroides fragilis is the main organism that acts in concert with aerobic Gram-negative bacilli to cause SSIs after colorectal and gynaecological surgery. Such organisms are sensitive to metronidazole and cefotaxime. The Clostridia are Gram-positive anaerobes that produce resistant spores. C. difficile is the cause of the HAI, pseudomembranous enterocolitis. This is caused by the injudicious use of several antibiotics sequentially, and the elderly and immunocompromised are particularly vulnerable. Staphylococcus epidermidis (S. albus) is a coagulase-negative staphylococcus that is an important cause of HAI and a major threat in operations where prostheses are used (vascular and orthopaedic surgery)."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. Which of the following statements is not true?",
+            "options": [
+                "A A broad-spectrum antibiotic should be used to treat a known sensitive infection.",
+                "B Combination of broad-spectrum antibiotics is to be used while awaiting sensitivities.",
+                "C Under certain circumstances it may be necessary to rotate antibiotics.",
+                "D Antibiotics should not be used instead of surgical drainage.",
+                "E In SIRS and MODS when there is no response within 3 to 4 days, one should revisit the clinical situation."
+            ],
+            "answer": "A",
+            "explanation": "A broad-spectrum antibiotic should not be used to treat an infection when the sensitivities are known. The specific antibiotic should be used. For instance when MRSA is isolated, it should be treated by specific antibiotics such as vancomycin and teicoplanin. Antibiotics should not be withheld when clinically indicated. A combination of broad-spectrum antibiotics such as ampicillin or mezlocillin (penicillins), gentamicin (aminoglycoside) and metronidazole is used whilst awaiting sensitivities. In situations where commensals such as Pseudomonas and Klebsiella (Gram-negative species) become resident opportunist pathogens, it may be prudent to rotate anti-pseudomonal and anti-Gram-negative therapy. Antibiotics should never be used as a substitute for good surgical technique and surgical drainage; wherever pus is present, it needs to be let out. In SIRS and MODS with antibiotic treatment if the patient has not improved, the surgical team should revisit the diagnosis and methods of imaging to identify the source. Adherence to local hospital protocols and consultation with the infection-control team and microbiologist are essential in difficult situations."
+        },
+        {
+            "id": 7,
+            "question_type": "msq",
+            "question": "7. Which of the following statements are true?",
+            "options": [
+                "A Benzylpenicillin is the treatment of choice against Gram-positive organisms.",
+                "B Ampicillin and amoxicillin are the antibiotics of choice against Pseudomonas and Klebsiella.",
+                "C Aminoglycosides may have ototoxicity and nephrotoxicity.",
+                "D Carbapenems are effective against Gram-positive and anaerobic organisms.",
+                "E Quinolones have a limited role in treating surgical infections."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Benzylpenicillin is the antibiotic of choice against Gram-positive organisms such as streptococci, clostridia and staphylococci that do not produce ßactamase. It is effective against Actinomyces, a pathogen causing chronic wound infection in developing countries and very potent in gas gangrene. It is effective against spreading streptococcal infections and also used as a component of multiple therapy. Aminoglycosides (gentamicin and tobramycin), effective against Gram-negative Enterobacteriaceae and Pseudomonas, may cause ototoxicity and nephrotoxicity at sustained high levels. Therefore, serum levels should be monitored 48 hours after commencing treatment and the dosage modified to satisfy peak and trough levels. Sometimes single large doses may be effective, and the dose may be reduced in the presence of raised urea and creatinine. Carbapenems (meropenem, ertapenem, imipenem) are stable to ẞ-lactamase and have an useful broad-spectrum effect against anaerobic and Gram-positive organisms causing urinary tract and abdominal infections. Quinolones (ciprofloxacin) have a limited role in surgical infections because of the development of resistant strains. Ampicillin and amoxicillin are not effective against Pseudomonas and Klebsiella. These are B-lactam penicillins that can be used orally and parenterally but are rarely used now as there are more effective alternatives."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "8. The following statements are true except:",
+            "options": [
+                "A In surgical practice, the risk of trans-mission of the HIV virus is through needlestick injury.",
+                "B Those with the virus have an increased risk of neoplasms and opportunistic infections.",
+                "C Untreated HIV infection proceeds to AIDS within 2 years in 25%-35% of patients.",
+                "D In the early phases of infection, drug treatment is not required.",
+                "E Treatment after exposure should be dictated by local policies."
+            ],
+            "answer": "D",
+            "explanation": "In the early phases of treatment, drug treatment is most effective. Highly active anti-retroviral therapy (HAART) acts by inhibiting reverse-transcriptase and protease synthesis, which are the main mechanisms through which HIV progresses. Needlestick injury during operations is the most common risk of transmission of the disease. In general this retrovirus virus is transmitted by body fluids, especially blood. On exposure, the virus binds to CD4 receptors with loss of CD4+ cells, T-helper cells and other cells involved in cell-mediated immunity and antibody production. Therefore, the chances of opportunistic infections (Pneumocystis carinii pneumonia, tuberculosis and cytomegalovirus) and neoplasms (Kaposi's sarcoma and lymphoma) are enhanced. Untreated HIV infection leads to AIDS in 25% to 35% of patients within 2 years. Surgeons may be involved with HIV patients who suffer from surgical conditions or need surgical intervention related to their illness. Guidelines for universal precautions in the NHS are available to be followed. Contamination most often occurs due to needlestick injury on the nondominant index finger during an operation. Active management, and whether highly active anti-retroviral therapy (HAART) is instituted, is determined according to local policies."
+        },
+        {
+            "id": 9,
+            "question_type": "emq",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Abscess",
+                    "2 Bacteraemia and sepsis",
+                    "3 Cellulitis and lymphangitis",
+                    "4 Clostridium tetani",
+                    "5 Gas gangrene",
+                    "6 Synergistic spreading gangrene"
+                ],
+                "choices": [
+                    "A A 58-year-old cattle farmer normally a resident in the subcontinent, on a short visit to the United Kingdom, was brought into the A&E department with convulsions. The episode started with lassitude, irritability, dysphagia and spasm of facial muscles. He showed generalised tonic and clonic spasm.",
+                    "B A 68-year-old woman underwent an amputation of her right leg following severe crush injury. Three days postoperatively she has pyrexia and tachycardia and looks toxic. The amputation site looks red and brawny with the limb swollen with crepitus in the intermuscular planes.",
+                    "C A 75-year-old man underwent a low anterior resection. Five days postoperatively he became toxic. A contrast CT scan showed an anastomotic leak.",
+                    "D A 38-year-old woman sustained a superficial wound of her thumb from a puncture while gardening. Twenty-four hours later, her thumb became swollen and very painful, with red inflamed streaks all along the skin up to the axilla.",
+                    "E A 42-year-old woman underwent an emergency appendectomy for perforated suppurative appendicitis. Three days postoperatively, her wound became red and tender with gross oedema; on removal of the sutures, the wound showed slough and ulceration.",
+                    "F A 25-year-old man presented with a tender lump in the right supraclavicular area of 3 days' duration. The lump is red and fluctuant. He looks unwell with pyrexia. A week before the onset of this episode he had his right ear pierced, which became infected."
+                ]
+            },
+            "answer": {
+                "A": "4",
+                "B": "5",
+                "C": "2",
+                "D": "3",
+                "E": "6",
+                "F": "1"
+            },
+            "explanation": "1. F Abscess: This patient has developed an abscess secondary to infection of his pierced ear. The infection has spread to the cervical lymph nodes where liquefaction necrosis has resulted in an abscess. An abscess is a cavity lined by granulation tissue containing pus, which is the cause of his local signs. The organism is most likely to be Staphylococcus aureus. This is a clinical diagnosis. Because the patient is toxic, the patient is started on antibiotics and the abscess is drained and left open to heal by granulation. Abscesses in certain situations can be treated by aspiration and appropriate antibiotic therapy.\n2. C Bacteraemia and sepsis: This patient has bacteraemia and sepsis from anastomotic breakdown (deep space SSI). Aerobic Gram-negative bacilli are usually responsible. This patient needs vigorous resuscitation followed by laparotomy. The procedure should be to dismantle the anastomosis, bring the proximal end out as an end colostomy and close off the distal rectum. This should be followed by copious warm saline washouts. The abdominal wall may be left open to be closed by delayed primary closure. If on imaging the leak looks small and contained, a decision may be made to drain the leak by interventional radiology.\n3. D Cellulitis and lymphangitis: This patient has spreading infection from her injured thumb to her axilla along the lymphatic channels. This is an invasive non-suppurative, poorly localised infection caused by ẞ-haemolytic streptococci, staphylococci and Clostridium perfringens. Cellulitis is localised to site of injury, whilst lymphangitis is the vehicle of spread of the infection to the regional lymph nodes. The release of proteases results in tissue destruction, gangrene and ulceration with systemic signs of chills, fever and rigors (toxaemia). Blood cultures are sent and the patient started on empirical broad-spectrum antibiotics. Blood cultures are often negative, as the patient's clinical features are from a cytokine-mediated systemic inflammatory response that causes release of toxins. The arm should be elevated and rested with close watch kept for the development of systemic inflammatory response syndrome (SIRS).\n4. A Clostridium tetani: Clostridium tetani is rare in Western countries because of the strict prophylactic regimen in place of 5-yearly booster doses of tetanus toxoid. The condition is tetanus caused by the anaerobic, spore-bearing Gram-positive bacterium that has entered the tissues through a wound that is often trivial, unrecognised, or forgotten. The spores are abundant in soil or manure and hence the condition is more common in traumatic civilian or military injuries. The clinical features arise from the release of the exotoxin tetanospasmin, which affects the myoneural junctions, motor neurons and the anterior horn cells of the spinal cord. The treatment consists of benzylpenicillin with debridement of the wound. In established infection, antitoxin using human immunoglobulin should be considered. In severe cases, the patient needs ventilation with muscle relaxants. Prolonged ventilation will require a tracheostomy. However, prevention is the most important.\n5. B Gas gangrene: This is caused by Clostridium perfringens, a Gram-positive anaerobic, spore-bearing bacillus abundantly found in soil and faeces. The condition is more common in military and traumatic surgery and in colorectal operations. Also, the immunocompromised patient is more susceptible. The patient complains about severe wound pain out of proportion to the size of the wound, with local crepitus from gas, which may be seen on a plain x-ray (Figure 5.1). The wound exudes a thin, brown, sweet-smelling fluid, which soon gives way to gangrene. Unless promptly and aggressively treated, this may lead to multiple organ dysfunction syndrome (MODS). Prophylaxis is the key in the form of benzylpenicillin in patients undergoing amputation for peripheral vascular disease. In established disease, large doses of antibiotics and wide debridement of tissue is carried out.\n6. E Synergistic spreading gangrene: This is caused by a group of organisms acting in concert. The group includes coliforms, staphylococci, Bacteroides species and anaerobic streptococci. When it occurs on the abdominal wall it is called Meleney's synergistic hospital gangrene; when it affects the scrotum it is referred to as Fournier's gangrene. Contaminated wounds are more likely to be affected, causing severe wound pain and signs of spreading inflammation with crepitus and foul-smelling discharge. The patient is treated with broad-spectrum antibiotics with circulatory support. This is combined with aggressive excision of local necrotic tissue, which may need to be repeated. The patient once recovered will require extensive skin grafting."
+        }
+    ]
+}

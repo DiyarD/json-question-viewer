@@ -1,0 +1,201 @@
+{
+    "chapter_name": "The adrenal glands and other abdominal endocrine disorders",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A MEN1 is characterised by tumours in the pituitary, pancreas and parathyroids.",
+                "B Medullary thyroid carcinoma (MTC) plays a key role in MEN2 subtypes.",
+                "C. The mode of inheritance is autosomal dominant in both MEN1 and 2.",
+                "D The penetrance of the mutation is low.",
+                "E Screening of family members of the affected individual is essential."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "MEN1 is associated with a triad of anterior pituitary tumours (prolactinoma or nonfunctional tumours), primary hyperparathyroidism (pHPT) and pancreaticoduodenal tumours (PET).\nMEN2 have the following three subtypes: familial medullary carcinoma, MEN2a (MTC, pHPT and phaeochromocytoma) and MEN2b (features of MEN2a and neuromas and a marfanoid habitus). They are all inherited in an autosomal dominant manner, and genetic counselling with screening of family members is helpful.\nThe prevalence of the syndrome is 0.04–0.2 cases per 1000 population per year, but the penetrance of the mutation is high with almost 100% of carriers developing the syndrome. In particular MEN2 shows a good genotype-phenotype correlation."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "The following statements are true except:",
+            "options": [
+                "A Nephrolithiasis is a common clinical presentation.",
+                "B Pancreatic endocrine tumours (PET) are a common cause of death.",
+                "C Insulinomas are the most common pancreatic tumours in MEN1.",
+                "D All pituitary tumours must be surgically resected.",
+                "E Adrenocortical carcinomas frequently develop."
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Pituitary tumours are found in 30%-60% of MEN1 sufferers. They are most often microprolactinomas or nonfunctional tumours and are medically treated. The adrenals can be involved in 40%-50% of patients, but most tumours are nonfunctioning ones.\nIn total, 90%-100% of persons affected with MEN1 develop pHPT characterised by multiglandular hyperplasia. Renal stone disease is a common presentation. Measurement of serum parathyroid hormone (PTH) levels and Ca, PO4 in both serum and urine confirms pHPT. Pancreatic endocrine tumours (PET) occur in 50%-60% of MEN1 patients. They are mostly multiple, recur after surgery and are a cause of syndrome associated death. Gastrinomas are the most common functional PET followed by insulinomas."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Selective resection of the parathyroid is a preferred treatment option.",
+                "B MEN1 gastrinomas and insulinomas must be operated on.",
+                "C All nonfunctional adrenal tumours can be left alone.",
+                "D All nonfunctional PETs can be left alone.",
+                "E Most procedures related to the pituitary can be performed through the trans-spenoidal approach."
+            ],
+            "answer": [
+                "B",
+                "E"
+            ],
+            "explanation": "MEN1 gastrinomas and insulinomas must be removed to prevent liver metastasis and control hormone excess. For gastrinomas located in the gastrinoma triangle (Figure 52.1), partial pancreaticoduodenectomy is recommended. MEN1 insulinomas require distal pancreatectomy with enucleation of the tumours. Anterior pituitary tumours that fail medical therapy or symptomatic nonfunctional tumours must be considered for trans-spenoidal surgery.\nAs multiglandular disease is present in all cases, total parathyroidectomy, cervical thymectomy or 3 1/2-gland resection leaving behind half of one gland of parathyroid tissue is the preferred procedure. Non functional PETs >1 cm and nonfunctional adrenal tumours > 4cm in size must be operated upon."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A MTC is a late manifestation of MEN2a.",
+                "B Primary hyperparathyroidism (pHPT) is an early manifestation of MEN2.",
+                "C Diagnostic work up for MEN2 must include scintigraphy.",
+                "D Mutation carriers of MEN2 must be offered a thyroidectomy.",
+                "E Unilateral or bilateral sub-total resection of a phaeochromocytoma in MEN2 is appropriate."
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Diagnostic work up for a phaeochromocytoma includes measurement of urinary catecholamines, abdominal CT or MRI, iodine 131-MIBG scintigraphy. The operative approach is laparotomy or laparoscopic. A subtotal resection which retains the healthy part of the gland is preferred and prevents long-term dependence on glucocorticoids or mineralocorticoid. The likelihood of developing MTC is 100% for most mutations and hence operative therapy is offered to patients detected by genetic screening. Depending on the mutation detected, risk groups have been defined to determine the appropriate age for thyroidectomy.\nMTC is almost always the first manifestation of the syndrome. MTC occurs early and is most aggressive in MEN2b with lymph node metastasis present in early stages. pHPT is present in 20%-30% of patients with MEN2a. Most patients are asymptomatic with it."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A A diagnostic work up is unnecessary if it is <6 cm.",
+                "B Most incidentalomas are nonfunctioning.",
+                "C A 1-mg overnight dexamehasosne suppression test is helpful in diagnosis.",
+                "D An adrenal biopsy is always indicated.",
+                "E Adrenal metastasis is more likely in patients with a history of cancer elsewhere."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Nonfunctioning incidentalomas account for 78%. Functioning adenomas are the following: Cushing's adenoma (17%), adrenocortical carcinoma (4%) and phaeochromocytoma (4%), and the remaining are rarer causes such as metastasis, cysts and Conn's adenomas.\nAll adrenal masses require a complete history, physical examination and biochemical tests for hormone excess (elevated midnight cortisol, elevated 24-hour urinary cortisol or catecholamine, failure of cortisol to suppress after an overnight dexamethasone suppression test, increased aldosterone-rennin in primary hyperaldosteronism) and additional imaging to exclude a functioning or malignant adrenal tumour.\nAny nonfunctioning adenoma >4 cm, functional tumours and smaller tumours that are growing must be resected. Nonfunctional tumours <4 cm should be followed up regularly with hormonal and imaging tests.\nCT and MRI must precede FNAC only after a phaeochromocytoma has been excluded biochemically."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "The following statements are true except:",
+            "options": [
+                "A The weight of a normal adrenal gland is 15 g.",
+                "B Adrenals are retroperitoneal organs.",
+                "C The right adrenal vein drains into the right renal vein.",
+                "D Dehydroepiandrosterone is produced in the zona glomerulosa.",
+                "E Aldosterone is produced in the zona reticularis."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "A normal adrenal gland weighs just 4 g and is situated near the upper poles of the kidneys in the retroperitoneum within Gerota's capsule. The right gland is located between the right lobe of the liver and diaphragm, behind the IVC. The left gland is close to the upper pole of the left kidney and renal pedicle. The adrenals are very vascular organs. The arterial supply shows considerable variation, but it receives blood from the aorta and diaphragmatic and renal arteries. A large adrenal vein drains on the right side into the IVC and on the left side into the renal vein. It is hence difficult to access the left adrenal vein in procedures such as adrenal venous sampling.\nIt has two functional parts, which are the cortex and medulla. Catecholamines (adrenaline, noradrenaline, dopamine and metanephrines) are secreted by the adrenal medulla. Cells of the zona glomerulosa of the adrenal cortex secrete aldosterone (regulates sodium homeostasis). Cells of the zona fasciculata and zona reticularis synthesize cortisol and adrenal androgens such as dehydroepiandrosteron."
+        },
+        {
+            "id": 7,
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Addison's disease",
+                    "2 Congenital adrenal hyperplasia",
+                    "3 Cushing's syndrome",
+                    "4 Cushing's syndrome due to ectopic ACTH production",
+                    "5 Pheochromocytoma"
+                ],
+                "choices": [
+                    "A A 68-year-old alcoholic and smoker presents with weakness, weight loss, hyper-pigmentation and cough. His blood pressure (BP) is 170/90 mmHg and is cachectic. Blood glucose is 7.0 mmol/L, Na is 135 mmol/L and is K 2.5 mmol/L. Morning cortisol and midnight cortisol are 719 nmol/L and 675 nmol/L, respectively.",
+                    "B A 50-year-old woman sees her general practitioner (GP) with symptoms of palpitations, abdominal pain, sweating and panic attacks. Her BP is fluctuant and ranges between 140/80 and 180/98 mmHg; thyroid function tests (TFT) are normal.",
+                    "C A middle-aged woman is concerned about hirsuitism and weight gain. She is found to have abdominal striae, BP is 160/90 mmHg and BMI is 30. Her blood glucose is 11.6 mmol/L, Na is 140 mmol/L and K is 3.5 mmol/L. She shows elevated urinary cortisol excretion, which fails to suppress after dexamethasone.",
+                    "D A 19-year-old slim-built diabetic woman presents to A&E with an episode of collapse. Her tests are as follows: Na 129 mmol/L, K 5.6 mmol/L and blood glucose 11.2 mmol/L.",
+                    "E An ill male infant presents with vomiting and diarrhoea. Na is 130 mmol/L, K is 5.0 mmol/L, blood glucose is 7.0 mmol/L and cortisol is 50 nmol/L."
+                ]
+            },
+            "answer": {
+                "1": "D",
+                "2": "E",
+                "3": "C",
+                "4": "A",
+                "5": "B"
+            },
+            "explanation": "1. D Addison's disease: Addison's disease is associated with other autoimmune condition such as type 1 DM, vitiligo, etc. Tuberculosis remains a leading cause of primary adrenal failure globally. Hypotension, hyponatraemia, hyperkalaemia and hypoglycaemia are commonly observed. The diagnosis is confirmed by high 9 am ACTH levels (reduced cortisol production causes a negative feedback and rise in ACTH drive by the pituitary) and inability of serum cortisol to elevate following a short synacthen test.\n2. E Congenital adrenal hyperplasia: Congenital adrenal hyperplasia is a group of autosomal recessive disorders of steroid synthesis, resulting in decreased cortisol secretion. The age and type of clinical presentation varies widely from neonatal emergencies to young adults presenting with features of androgen excess. Associated mineralocorticoid deficiency is associated with hypotension and sodium wasting.\n3. C Cushing's syndrome: Cushing's syndrome is characterised clinically (Figure 52.2a and b) by weight gain (abdominal obesity), hirsuitism, easy bruising, thin skin, stria, proximal myopathy, glucose intolerance and hypertension. It is due to exogenous steroid usage or related to in vivo production of cortisol. Cortisol excess is diagnosed by the following: • Elevated morning and midnight plasma cortisol levels, possibly with loss of diurnal rhythm. • Dexamethasone fails to suppress 24-hour urinary cortisol excretion. • Serum ACTH levels discriminate ACTH-dependent from ACTH-independent disease treatment is open (Figure 52.2c) or laparoscopic excision.\n4. A Cushing's syndrome due to ectopic ACTH production: ACTH-dependent cortisol excess might be due to a pituitary disease (associated with a corticotrophin microadenoma) when it is Cushing's disease or related to ectopic ACTH secretion by a variety of tumours (most often small cell carcinoma of the bronchus) Malignancy associated Cushing's presents with pigmentation, weight loss and severe hypokalaemic alkalosis.\n5. B Phaeochromocytoma: Phaeochromocytomas are mostly adrenal in origin (90%). It is often referred to as a ‘10% tumour' because 10% occur in children, 10% are inherited, 10% are malignant, 10% are extra-adrenal and 10% are bilateral. They present with features of hypertension – headaches, palpitations and episodes of anxiety. A patient presenting with the triad of headaches, palpitations and sweating should arouse the suspicion of a phaeochromocytoma. Excessive metanephrine and normetanephrine in a 24-hour urine specimen is almost diagnostic. The tumour classically shows a ‘Swiss cheese' configuration. The next step is localisation. A 123|-MIBG (metaiodobenzylguanidine) single-photon emission computed tomography (SPECT) will identify about 90% of primary tumours and is essential for the detection of multiple extra-adrenal tumours and metastases. PET scanning using FDG PET or DOPA PET is yet more sensitive in detecting metastatic foci. Management requires good teamwork between the endocrinologist, anaesthetist and surgeon. Preoperative preparation by a- blockers is essential, with immediate postoperative care being in the ICU. Laparoscopic adrenalectomy is now the routine. However, if the tumour is >8 cm or malignancy is suspected, open operation should be carried out."
+        },
+        {
+            "id": 8,
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Diabetes Mellitus",
+                    "2 Disorder of carbohydrate metabolism",
+                    "3 Hypoglycaemia secondary to oral hypoglycaemic agents",
+                    "4 Insulinoma",
+                    "5 Insulin overdose"
+                ],
+                "choices": [
+                    "A A middle-aged-man with a BMI of 29 presents to the GP feeling dizzy especially after large meals. He has noticed nocturia and blurred vision. His fasting blood glucose on two occasions is 7.3 and 7.8 mmol/L.",
+                    "B A 42-year-old diabetic on insulin and a sulponylurea feels dizzy and unsteady. He sustained a fit 2 weeks ago. Blood glucose at the time was 2.2 mmol/L. Plasma insulin levels and proinsulin levels are elevated.",
+                    "C An 80-year-old diabetic man on insulin and metformin presents with shakiness, sweating and anxiety. He has features of dementia and is awaiting placement at a nursing home. Blood glucose is 2.5 mmol/L. Insulin levels are within normal limits in blood and proinsulin is undetectable.",
+                    "D A 48-year-old man finds that he becomes dizzy, anxious and confused in the mornings. These symptoms are relieved after eating. He has felt these symptoms after exercise. He also has abdominal pain and diarrhoea.",
+                    "E A 7-month-old infant is admitted with a seizure and noted to have a blood glucose of 2.1 mmol/L. The child also has hepatomegaly and lactic acidosis."
+                ]
+            },
+            "answer": {
+                "1": "A",
+                "2": "E",
+                "3": "C",
+                "4": "D",
+                "5": "B"
+            },
+            "explanation": "1. A Diabetes mellitus: Reactive or prandial hypoglycaemia occurs in diabetes mellitus, alimentary hypoglycaemia and alcohol induced. Symptoms typically occur 2 to 5 hours after a meal and are predominantly of adrenergic origin (anxiety, restlessness, sweating and palpitation). Neuroglycopenic symptoms (dizziness, confusion, paraesthesia, weakness, seizures and coma) rarely occur.\n2. E Disorder of carbohydrate metabolism: Glycogen storage disorders are a group of inherited metabolic disorders associated with fasting hypoglycaemia. It occurs due to the deficiency of enzymes required to break down and use glycogen. The liver and other organs become enlarged with accumulated glycogen. It presents in infancy with fasting hypoglycaemia. Infants and children require constant feeding (approximately once every 2 hours) to prevent hypoglycaemia.\n3. B Hypoglycaemia secondary to oral hypoglycaemic agents: Hypoglycaemia might be associated with increased or inappropriate plasma insulin levels in conditions such as insulinoma, sepsis, drugs such as quinine and pentamidine, overdosage or administration of insulin, or a sulphonylurea (which increase proinsulin release). A urine drug screen can confirm the excess of sulphonylurea within the body.\n4. D Insulinoma: Pancreatic endocrine tumours (PET) account for 5% of all detected pancreatic tumours. They can be benign or malignant, functional or nonfunctional. Insulinomas are the most common PET and represent 70%-80% of all PET's. Insulin-producing tumours cause Whipple's triad, i.e., symptoms of hypoglycaemia after fasting or exercise, plasma glucose <2.8 mmol/L and relief of symptoms on administration of glucose. Being aware of the condition is the secret in suspecting the diagnosis. High secretion of insulin, proinsulin and C-peptide in serial measurements is diagnostic in almost 80%. Once suspected, endoscopic ultrasound (EUS) helps in localisation supplemented by intraoperative ultrasound. Treatment is excision or enucleation.\n5. C Insulin overdose: All confirmed hypoglycaemic events must be evaluated in relation to food (fasting or prandial) and presence of detectable insulin or not at the time of hypoglycaemia. Those associated with suppressed insulin levels include hypopituitarism, adrenal insufficiency, chronic renal impairment, liver disease, malnutrition, exercise-induced and drugs such as salicylates and beta blockers."
+        },
+        {
+            "id": 9,
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Carcinoid syndrome",
+                    "2 Conn's syndrome",
+                    "3 Hyperthyroidism",
+                    "4 Metastatic liver disease",
+                    "5 Phaeochromocytoma"
+                ],
+                "choices": [
+                    "A A 46-year-old woman presents with intermittent explosive diarrhoea and colicky abdominal pain for 3 months. It is associated with wheeze and flushing. On examination, she is slightly jaundiced and her liver is enlarged, hard and nodular. She has a midline scar for a right hemicolectomy carried out 8 years ago.",
+                    "B A young woman complains of intermittent diarrhoea, weight loss and anxiety. On examination she is slightly jaundiced, has marked pedal oedema, tremor and a smooth goitre.",
+                    "C A middle-aged man presents with constipation and diarrhoea, weight loss and poor appetite. He has lost nearly 8 kg over the past 3 months. On examination he is pale and jaundiced and shows an enlarged, hard, nodular liver. A mass is felt in the left iliac fossa.",
+                    "D An elderly woman with hypertension, anxiety and depression was found to have an adrenal mass when being screened for an abdominal aortic aneurysm. Her 9 am cortisol was 565 nmo/L, 24-hour urine cortisol was normal and 24-hour urine catecholamines were elevated.",
+                    "E A young man is found to have poorly controlled hypertension despite being on three types of antihypertensive drugs. He was started on a diuretic but felt very unwell. His blood results are the following: Na 145 mmol/L, K 2.5 mmol/L, CI 101 mmol/L and HCO₃ 20 mmol/L."
+                ]
+            },
+            "answer": {
+                "1": "A",
+                "2": "E",
+                "3": "B",
+                "4": "C",
+                "5": "D"
+            },
+            "explanation": "1. A Carcinoid syndrome: Carcinoid tumours are neuroendocrine tumours mostly found in the small bowel. The tumours produce serotonin and cause carcinoid syndrome in patients with large liver metastasis or tumour invading the inferior vena cava. The cause of this syndrome is excessive secretion of 5-hydroxytryptamine (5-HT, serotonin). Diagnosis is made by history, examination and assessment of 24-hour urine for 5-hydroxy-indoleacetic acid (HIAA). Somatostatin-receptor scintigraphy will show tumour deposits in organs, provided they are large enough to have a high burden. The clinical manifestations are protean in nature. They are the following: Vasomotor: Flushing in face and neck and sun-exposed areas Gastrointestinal: Mild to explosive diarrhoea, abdominal pain, bloating and tenesmus Cardiopulmonary: Hypotension during flushing attacks, right-sided heart failure, pulmonary and tricuspid stenosis, bronchospasm Nutritional: Weight loss, features of pellagra: Dementia and skin lesions from niacin deficiency Diagnosis is confirmed by CT scan, which shows multiple liver secondaries. The ideal palliation is hepatic artery chemoembolisation.\n2. E Conn's syndrome: Primary hyperaldosteronism (PHA), or Conn's syndrome, is defined by hypertension, as a result of hyper secretion of aldosterone by the adrenal cortex. Among hypertensives, the incidence of PHA is around 2%. The most frequent cause of PHA with hypokalaemia is a unilateral adrenocortical adenoma. Biochemical diagnosis involves assessment of potassium (low) and aldosterone to rennin ratio (elevated). Once the biochemical diagnosis is confirmed, MRI or CT should be performed to distinguish unilateral from bilateral disease. Selective adrenal vein catheterisation can help to decide on nonsurgical treatment with spironolactone and anti-hypertensives or surgical treatment with unilateral laparoscopic adrenalectomy in the presence of unilateral disease or subtotal resection in case of a single Conn's adenoma.\n3. B Hyperthyroidism: Graves' disease is an autoimmune condition characterised by hyperthyroidism, pretibial myxoedema and a smooth goitre. Symptoms related to hyperthyroidism include anxiety, sweatiness, diarrhoea and unintended weight loss. Thyroid function tests (TFTs) show a suppressed TSH and elevated fT3 and fT4. The patient will have cardiovascular and neurological features of thyrotoxicosis, with a smooth diffuse goitre (Figure 52.3). The patient is treated by the physician with anti-thyroid drugs over a period of time and closely monitored. In due course a discussion is had with the patient regarding the ideal long-term management among drug therapy, radioactive iodine and surgery. After full-informed consent, the choice is made by the patient with help and advice from the physician and surgeon. If the patient chooses surgery, nowadays the choice is between near-total thyroidectomy and total thyroidectomy whilst a minority of surgeons still may perform subtotal thyroidectomy.\n4. C Metastatic liver disease: A middle-aged person with significant weight loss, cachexia and presence of a palpable mass and liver involvement is strongly suggestive of metastatic bowel cancer. A detailed history and examination is followed by confirming the diagnosis, staging the disease and then instituting definitive treatment after discussion in a multidisciplinary meeting. The diagnosis is confirmed by colonoscopy and biopsy; staging is done by CECT of abdomen and liver US and CXR. Depending upon the staging, the patient would undergo neoadjuvant chemotherapy +/– radiotherapy followed by the appropriate surgery to the bowel.\n5. D Phaeochromocytoma: The prevalence of adrenal masses increases with advancing age. Incidentalomas are detected in 1% of patients undergoing imaging. A phaeochromocytoma must be excluded (24-hour urinary catecholamines and metanephrines) and the patient managed appropriately (please see previous section)."
+        }
+    ]
+}

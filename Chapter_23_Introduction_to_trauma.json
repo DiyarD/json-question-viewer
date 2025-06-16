@@ -1,0 +1,103 @@
+{
+    "chapter_name": "Introduction to trauma",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "1. Regarding trauma, which of the following statements are true?",
+            "options": [
+                "A It is the fifth most common cause of death overall.",
+                "B It is the second most common cause of death and disability below 40 years of age.",
+                "C One-year mortality following a proximal femoral fracture in patients over 65 years is 30%.",
+                "D Trauma is predominantly secondary to high-energy injuries.",
+                "E < 25% of children who die of abuse have had previous contact with health or social services."
+            ],
+            "answer": "C",
+            "explanation": "Trauma is the most common cause of death and disability in patients below 40 years of age and is the third most common cause of death overall. Low-energy fragility fractures represent a large workload to health services, with elderly patients following simple falls being the most frequent trauma admissions in the United Kingdom. The 1-year mortality following a proximal femoral fracture in patients over 65 years of age is 30%, with approximately 70,000 proximal femoral fractures a year in the United Kingdom. Health care professionals must always be vigilant for non-accidental injury (NAI) in children, with 66% of children who die of abuse having had previous contact with health or social services."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. Regarding trauma assessment, which of the following statements are false?",
+            "options": [
+                "A The patient, mechanism of injury and injury are the keystones of management.",
+                "B It is as essential to identify obvious injuries as it is to identify the occult (hidden) injuries.",
+                "C High-velocity bullet injuries are associated with cavity formation.",
+                "D Blunt injuries can be direct (impact) or indirect (force transmission).",
+                "E Knife injury over a limb is easy to evaluate."
+            ],
+            "answer": "E",
+            "explanation": "The patient, mechanism of injury and resulting injury are the keystones of trauma assessment and management (patient + mechanism = injury). It is essential to identify occult injuries, with certain injuries associated with specific covert injuries. In day-to-day practice, the two most common mechanisms of injury are blunt or penetrating injuries. Blunt injuries are routinely caused by falls, sports, or road traffic accidents and can be direct or indirect. Penetrating injuries are commonly secondary to weapons such as knives or low-velocity firearms. Low-velocity bullet injuries behave like knife injuries, whereas high-velocity bullet injuries are associated with permanent or temporary cavity formation. Knife injuries over a limb are not always easy to evaluate, as penetration of the joint may not always be obvious, with thorough assessment required if this is felt to be possible."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. In relation to blunt injuries, which of the following statements are false?",
+            "options": [
+                "A The mechanisms are direct or indirect.",
+                "B In indirect injury, associated injuries may be present and should be sought.",
+                "C In chest injuries damage to abdominal organs is rare.",
+                "D Overt injury should lead the clinician to look for a covert injury as well.",
+                "E Proper exposure is essential so as not to miss other injuries."
+            ],
+            "answer": "C",
+            "explanation": "Blunt injuries are direct or indirect. In direct blunt trauma, the injury is concentrated at the site of impact and the effects on the soft tissue are at the injured site. In indirect injury, damage away from the site of injury should be sought. For example, fracture of the shaft of the ulna could be caused by direct trauma, e.g., nightstick blow to arm, or by indirect trauma, e.g., from a fall on an outstretched hand (overt injury). In this situation, there may also be a covert injury of a dislocated upper end of head of radius (Monteggia fracture-dislocation). Anatomically, the abdominal contents extend into the chest. Therefore, in blunt trauma to the lower chest, liver and splenic injuries are common."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. In relation to coverts injuries, which of the following statements are true?",
+            "options": [
+                "A A deductive approach is not necessary.",
+                "B A look-everywhere approach is not helpful.",
+                "C A focused approach that limits the scope of your assessment is not useful.",
+                "D Head to pelvis CT is part of a look-everywhere approach.",
+                "E Screen patients where clinical signs are obvious."
+            ],
+            "answer": "D",
+            "explanation": "Ideally screening of at-risk patients should be carried out before clinical signs are obvious (Table 23.1). This can be done by the deductive approach, e.g., assessing for classical covert injuries. A look-everywhere approach is essential in an unconscious patient to exclude further injury once initial life-saving assessment and management is complete. The primary survey in ATLS includes radiographs of the C-spine, chest and pelvis. The term ‘secondary survey' in the ATLS protocol is part of a look-everywhere approach and the threshold for further imaging, e.g., CT head to pelvis, is now low in many centres. A focused-exclusion approach is mandatory for life-threatening injuries (e.g., CT scan in suspected extradural haematoma, echocardiography in cardiac tamponade) and non-life-threatening injuries (e.g., scaphoid fracture, posterior dislocation of the shoulder)."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "5. In relation to coverts injuries, which of the following statements are false?",
+            "options": [
+                "A Electrocution = burn (obvious) and posterior dislocation of the shoulder (covert).",
+                "B Dashboard = patella fracture (obvious) and posterior dislocation of the hip (covert).",
+                "C Inhalational injury = facial burns (obvious) and laryngeal oedema (covert).",
+                "D Left-side impact RTA = left pneumothorax with chest wall contusions (obvious) and liver laceration (covert).",
+                "E Flexion-distraction = head injury (obvious) and cervical spine fracture (covert)."
+            ],
+            "answer": "D",
+            "explanation": "A left-sided impact would be associated with a splenic rupture and not a liver laceration."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. In relation to NAI in children, which of the following statements are false?",
+            "options": [
+                "A History is inconsistent with the injury sustained.",
+                "B There is a changing history.",
+                "C There are likely to be injuries of differing ages or duration.",
+                "D There may be aggressive behaviour from the carers.",
+                "E A femoral shaft fracture in a 6-month-old is not suspicious of NAI."
+            ],
+            "answer": "E",
+            "explanation": "All health care professionals must be vigilant for NAI in children and elderly patients. Important factors to consider include the following: \n• A delay in presentation.\n• History inconsistent with the age of the child or injury.\n• Changing history.\n• Aggressive behaviour of carers and abnormal interaction with child.\n• Multiple fractures or injuries of different ages.\n• A verbal explanation of brittle-bone disease (osteogenesis imperfecta) should not be accepted as a cause of multiple fractures, and the clinician should admit the patient for further thorough evaluation.\n• Full examination reveals other signs of abuse, e.g., finger-shaped bruises.\n• Posterior rib injuries.\n• Long-bone fractures in a nonambulatory child."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "7. Which of the following statements are false with regard to a polytrauma patient?",
+            "options": [
+                "A A drop in body temperature occurs.",
+                "B There is a generalised immune response.",
+                "C The patient has compensatory mechanisms to blood loss.",
+                "D The early management is protocol-driven.",
+                "E Diversion from protocol should be avoided."
+            ],
+            "answer": "E",
+            "explanation": "As a part of the metabolic response to trauma, there is a drop in body temperature, and heat loss thus should be prevented, e.g., a bear hugger. Heat loss may be due to exposure, inactivity, hypovolaemia, or loss of vasomotor control. The patient has compensatory mechanisms to blood loss with an aim to maintain perfusion of the vital organs, e.g., heart and kidneys. In most trauma cases, early management is routinely protocol-driven, which allows for easier and quicker decision making. The surgical plan will be recorded in the patient's notes, but a good method is to record all the details on a whiteboard in the theatre, outlining the proposed overall management. Whilst protocols can successfully aid the assessment and management of the patient, someone should be in the position (trauma team leader) to break protocol if it is in the best interest of the patient. Labelling of patients, e.g., 'neck of femur fracture,' should be avoided, as the focus should remain on the whole patient and pre-existing conditions and potential underlying causes need to be managed."
+        }
+    ]
+}

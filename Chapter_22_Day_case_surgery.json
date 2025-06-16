@@ -1,0 +1,134 @@
+{
+    "chapter_name": "Day case surgery",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "1. Which of the following make a patient unsuitable for day surgery?",
+            "options": [
+                "A Age over 75 years.",
+                "B American Society of Anaesthesiologists (ASA) grade 3.",
+                "C Body mass index (BMI) of 35.",
+                "D Procedure is expected to last 90 minutes.",
+                "E Journey time home of 2 hours."
+            ],
+            "answer": "E",
+            "explanation": "While the comfort of the journey is also important, a maximum travelling time of 1 hour is recommended.\nModern-day surgery practice concentrates on assessing each patient as an individual.\nThere is no upper age limit for day surgery. ASA 3 patients with stable, well-controlled co-morbidities and those with a BMI up to 40 can be successfully treated as day cases. With minimally invasive techniques and appropriate anaesthesia, procedures lasting up to two hours can be managed as a day case."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "2. Which of the following are suitable to be used as part of a multimodal analgesic technique for day surgery patients?",
+            "options": [
+                "A Infiltration of the wound with short-acting local anaesthetic.",
+                "B Oral Ibuprofen given preoperatively.",
+                "C Intramuscular morphine given during the procedure.",
+                "D Oral paracetamol given preoperatively.",
+                "E Intravenous fentanyl given during the procedure."
+            ],
+            "answer": [
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Multimodal analgesia where several drugs and routes are used to maximise analgesia while minimising side effects is key to successful day case anaesthesia. Preoperative oral medication with paracetamol and nonsteroidal anti-inflammatory drugs such as ibuprofen are recommended. Opiates given intravenously as part of a balanced anaesthetic technique should be short-acting drugs such as fentanyl or alfentanil.\nWound infiltration with long-acting local anaesthetic can make a significant contribution to a patient's postoperative analgesia. The use of large doses of long-acting opiates such as morphine carry a significant risk of postoperative complications, including sedation, nausea and vomiting, which can result in unplanned admission. If morphine is used, small intravenous bolus doses should administered to ensure that the minimum dose is used to achieve analgesia."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. Which of the following statements are true?",
+            "options": [
+                "A For some specialties, 90% of procedures are suitable to be done as day cases.",
+                "B A day case is admitted and discharged within 23 hours.",
+                "C The day surgery pathway includes input from the patient's general practitioner (GP).",
+                "D Day cases should be scheduled after complex inpatient procedures on the same list.",
+                "E The choice of anaesthetic agents is less important than the skill of the anaesthetist."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "E"
+            ],
+            "explanation": "In some specialties, up to 90% of procedures could be undertaken as day cases. Day surgery is a patient pathway, not a surgical procedure, and extends from first patient contact with the GP to after discharge. To ensure the highest quality outcome and reduce unplanned admissions, both the surgeon and anaesthetist have to be highly skilled in adapting techniques to individual patients and procedures.\nDay surgery is defined as the admission and discharge of a patient for a procedure within the 12-hour working day; where a patient requires an overnight admission the term ‘23-hour stay' should be used. Mixed lists of inpatients and day cases are not ideal. However, if they are planned, the day cases should be operated on first allowing time for recovery and reducing the risk of unplanned admission."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "4. Which of the following are true?",
+            "options": [
+                "A Persistent nausea or vomiting are com-mon reasons for unplanned admission after day surgery.",
+                "B Risk of reactionary haemorrhage is a reason to keep a patient in hospital overnight.",
+                "C Surgical technique, including the extent of tissue handling and tension, contributes to the risk of unplanned admission.",
+                "D Risk of secondary haemorrhage is a reason to keep patients in hospital overnight.",
+                "E Patients should be reviewed by a member of the surgical team to decide whether they are fit for discharge."
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "explanation": "Nausea and vomiting are common following surgery and the management of postoperative pain needs to be managed actively to reduce the incidence of unplanned admission. However, such factors remain a significant cause of patients being unable to go home. Meticulous surgical technique with attention to haemostasis and minimising tissue handling is essential for successful day surgery.\nThe risk of postoperative haemorrhage is often given as a reason for not undertaking procedures as a day case. However, most reactionary haemorrhage occurs 4 to 6 hours after surgery while a day case is still in the unit, and secondary haemorrhage occurs after 24 hours when even an overnight stay patient will have been discharged home. While postoperative review by the surgical team is encouraged, the assessment of when a patient is fit for discharge is best done by trained day surgery nurses using strict discharge criteria."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "5. The following statements are true except:",
+            "options": [
+                "A Assessment must be carried out by the anaesthetist who is going to do the list.",
+                "B Assessment should be carried out early in the patient pathway.",
+                "C Basic health screen includes BMI, BP, past medical history and medication.",
+                "D Appropriate investigations are performed to ensure patient fitness.",
+                "E Patient and carer must be given verbal and written information."
+            ],
+            "answer": "A",
+            "explanation": "The assessment does not need to be made by the specific anaesthetist who is going to do the list. Dedicated specialist nursing teams with anaesthetic support are allocated to do the assessment, which should be carried out early in the patient pathway. Basic health screen includes BMI, blood pressure, past medical history and current drug history. Appropriate investigations, such full blood count and biochemistry, are carried out along with an ECG if clinically indicated. Finally the patient and the carer should be given verbal information, which should be doubled up with written confirmation. The latter is particularly important, as most patients retain only a part of the information imparted to them at the consultation. Written guidelines are an essential part of day case surgery."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "6. Which of the following statements are true?",
+            "options": [
+                "A Day case surgery is best performed with inpatient cases on mixed lists.",
+                "B Major day case surgery should be placed early on the list.",
+                "C Multimodal approach is the key to successful day surgery analgesia.",
+                "D Pain levels should be routinely assessed in the recovery area.",
+                "E Long-acting local anaesthetic infiltration helps in giving optimal analgesia."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Major operations on a day case basis should be placed early on the list to enable the patient maximum recovery time. Multimodal analgesia should be planned and started from the preoperative period (see the following section); this may be supplemented by long-acting local anaesthetic to the incision site.\nPain levels should be assessed routinely in the recovery room and appropriately treated. Ideally, day case surgery should not be mixed with inpatient surgery. To obtain the optimum outcome, most NHS day case lists are performed separately in a dedicated day case unit. When inpatient surgery has to be mixed with day case surgery, the day case should be scheduled first. If not, the day case may be cancelled if the complex case takes longer than expected or could result in an unplanned overnight stay."
+        },
+        {
+            "id": 7,
+            "question_type": "emq",
+            "question": "Following is a list of operations to be done as a day case. All patients are ASA 1 or 2. Match the operations with the analgesic scenarios that follow, bearing in mind that you may use the same technique in more than one procedure.",
+            "options": {
+                "items": [
+                    "1 Breast lump excision",
+                    "2 Carpal tunnel decompression",
+                    "3 Circumcision",
+                    "4 Fistula-in-ano – excision and laying open",
+                    "5 Laparoscopic cholecystectomy",
+                    "6 Laparoscopic inguinal herinorrhaphy"
+                ],
+                "choices": [
+                    "A One hour before surgery, oral administration of paracetamol and ibuprofen. General anaesthesia with spontaneous breathing, including a small dose of short-acting opiate, e.g., fentanyl. Local infiltration of long-acting local anaesthetic by surgeon to wound(s).",
+                    "B One hour before surgery, oral administration of paracetamol and Ibuprofen. General anaesthesic technique with ventilation, including intravenous morphine. Local infiltration of long-acting local anaesthetic by surgeon to wound(s).",
+                    "C A nerve block carried out by the anaesthetist or surgeon, using a mixture of short- and long-acting local anaesthetic agents.",
+                    "D General anaesthesia, using a small dose of short-acting opiate, e.g., fentanyl. A nerve block using long-acting local anaesthetic carried out at the beginning of the procedure."
+                ]
+            },
+            "answer": {
+                "1": "A",
+                "2": "C",
+                "3": "D",
+                "4": "A",
+                "5": "B"
+            },
+            "explanation": "1. A Breast lump excision\nMultimodal analgesia aims to achieve maximum postoperative pain relief whilst reducing the impact of side effects. Infiltration of long-acting local anaesthetic significantly reduces the need for intra and postoperative opiates.\n\n2. C Carpal tunnel decompression\nCarpal tunnel decompression is most commonly performed in an awake patient using a brachial plexus or more peripheral nerve blocks. These techniques not only provide excellent conditions for surgery but also prolonged postoperative analgesia.\n\n3. D Circumcision\nHydrocoele repair can be carried out awake using a local anaesthetic nerve block technique (C). When it is to be under a general anaesthetic, if the same local anaesthetic block is used at the beginning the amount of anaesthetic and opiate required is minimal and patients wake pain free.\n\n4. A Fistula-in-ano – excision and laying open\nMultimodal analgesia aims to achieve maximum postoperative pain relief whilst reducing the impact of side effects. Infiltration of long-acting local anaesthetic significantly reduces the need for intra and postoperative opiates.\n\n5. B Laparoscopic cholecystectomy\nLaparoscopic cholecystectomy is a challenging procedure to manage as a day case and usually requires morphine; this is best given intravenously during the operation rather than postoperatively when nausea, vomiting, or sedation may result in an unplanned admission."
+        }
+    ]
+}

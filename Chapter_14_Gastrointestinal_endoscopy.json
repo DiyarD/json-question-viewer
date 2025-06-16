@@ -1,0 +1,201 @@
+{
+    "chapter_name": "14 Gastrointestinal endoscopy",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "1. Which of the following statements are false?\nA Sedation has no significant dangers and can be used without restrictions.\nB All sedated patients require secure intravenous access.\nC Co-administration of opiates and benzodiazepines has a synergistic effect and opiates administered wherever possible before benzodiazepines.\nD Use of supplemental oxygen is essential in sedated patients.\nE All sedated patients require pulse oximetry to monitor oxygen saturations.",
+            "options": [
+                "A Sedation has no significant dangers and can be used without restrictions.",
+                "B All sedated patients require secure intravenous access.",
+                "C Co-administration of opiates and benzodiazepines has a synergistic effect and opiates administered wherever possible before benzodiazepines.",
+                "D Use of supplemental oxygen is essential in sedated patients.",
+                "E All sedated patients require pulse oximetry to monitor oxygen saturations."
+            ],
+            "answer": "A",
+            "explanation": "Sedation should be used cautiously. The risk is higher in elderly and those with comorbidities. Pharyngeal anaesthesia may increase the risk of aspiration in sedated patients. The use of supplemental oxygen and pulse oximetry is essential in all sedated patients. A trained assistant should be present to monitor the patient throughout the procedure. Resuscitation equipment and reversal agents must be readily available. Increasingly, nitrous oxide is used for lower gastrointestinal examinations. CO₂ use instead of air for the procedure is known to decrease the need for sedation."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "2. In which of the following should antibiotic prophylaxis not be considered?\nA Prosthetic heart valves.\nB Previous history of endocarditis.\nC Severe neutropenia.\nD Chronic liver disease undergoing variceal sclerotherapy.\nE Previous cholecystectomy.",
+            "options": [
+                "A Prosthetic heart valves.",
+                "B Previous history of endocarditis.",
+                "C Severe neutropenia.",
+                "D Chronic liver disease undergoing variceal sclerotherapy.",
+                "E Previous cholecystectomy."
+            ],
+            "answer": "E",
+            "explanation": "The majority of the endoscopic procedures are performed safely, without the need for antibiotic prophylaxis. However, certain procedures are associated with significant bacteraemia. The risk of bacteraemia after colonoscopy, diagnostic OGD and ERCP for obstructed CBD are 2% to 4%, 4% and 11%, respectively. In fact, the incidence of bacteraemia can be between 34% and 54% after oesophageal dilatation. Patients with high-risk conditions, such as severe neutropenia, prosthetic heart valves, or a previous history of infective endocarditis, should have prophylaxis for all endoscopic procedures. Patients with moderate-risk conditions, such as mitral valve prolapse with leaflet disease and regurgitation, require antibiotics for procedures, which causes significant bacteraemia. The antibiotic regimen depends on local policies, but a standard protocol is 1 g amoycillin and 120 mg gentamycin IV 5 to 10 minutes prior to the procedure (Teicoplanin 400 mg IV if allergic to pencillin)."
+        },
+        {
+            "id": "3",
+            "question_type": "mcq",
+            "question": "3. It is not used in which of the following situations?\nA Diagnosis of obscure gastrointestinal bleeding.\nB Diagnosis of small bowel Crohn's disease.\nC Assessment of coeliac disease.\nD Screening and surveillance of polyps in familial polyposis syndrome.\nE Assessment of small bowel obstruction.",
+            "options": [
+                "A Diagnosis of obscure gastrointestinal bleeding.",
+                "B Diagnosis of small bowel Crohn's disease.",
+                "C Assessment of coeliac disease.",
+                "D Screening and surveillance of polyps in familial polyposis syndrome.",
+                "E Assessment of small bowel obstruction."
+            ],
+            "answer": "E",
+            "explanation": "Capsule endoscopy (CE) is the investigation of choice in patients with persistent obscure gastrointestinal bleeding who have a negative gastroscopy and colonoscopy. In addition to assisting with the diagnosis of Crohn's disease, CE is useful in assessing the extent and in the diagnosis of recurrence following resection. CE may be used in the diagnosis of complications of coeliac disease. The main complication of CE is retention. Hence is contraindicated when obstruction is suspected."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "4. Which of the following statements are true?\nA It is easy to get views beyond the ligament of Treitz during an oesophagogastroduodenoscopy (OGD).\nB Current endoscope is fibreoptic endoscope.\nC It is not necessary to stop clopidrogel before colonoscopic polypectomy.\nD Verbal consent is an accepted practice.\nE Perforation and haemorrhage are uncommon but significant complications of the procedure.",
+            "options": [
+                "A It is easy to get views beyond the ligament of Treitz during an oesophagogastroduodenoscopy (OGD).",
+                "B Current endoscope is fibreoptic endoscope.",
+                "C It is not necessary to stop clopidrogel before colonoscopic polypectomy.",
+                "D Verbal consent is an accepted practice.",
+                "E Perforation and haemorrhage are uncommon but significant complications of the procedure."
+            ],
+            "answer": "E",
+            "explanation": "A diagnostic OGD usually examines up to the second part of the duodenum. The fibreoptic endoscope was the originally used, however, the charge-coupled device (CCD) has been in use since 1960s. The CCD allows the creation of a digital electronic image, which is processed by a computer and transmitted to a TV monitor. The patient needs to stop clopidrogel prior to colonoscopic polypectomy to minimise the risk of bleeding. Although endoscopy is safe, it is still associated with rare but potentially life-threatening complications such as bleeding, perforation, missed lesions, incomplete examination and sedation-related problems. It is hence mandatory to explain clearly the procedure and complications to the patient and obtain a fully informed consent prior to the procedure. Approximately 1% of medical negligence claims in the United States are related to endoscopic procedures."
+        },
+        {
+            "id": "5",
+            "question_type": "mcq",
+            "question": "5. Which of the following are not risk factors for post-ERCP (endoscopic retrograde cholangiopancreatography) pancreatitis?\nA Young age.\nB Difficult cannulation.\nC Increased bilirubin.\nD Pancreatic sphincterotomy.\nE Balloon dilatation of biliary sphincter.",
+            "options": [
+                "A Young age.",
+                "B Difficult cannulation.",
+                "C Increased bilirubin.",
+                "D Pancreatic sphincterotomy.",
+                "E Balloon dilatation of biliary sphincter."
+            ],
+            "answer": "C",
+            "explanation": "The incidence of post-ERCP pancreatitis is around 4.3%. The additional risk factors for this complication include suspected sphincter of oddi dysfunction, normal bilurubin, prior ERCP-related pancreatitis and pancreatic duct contrast injection. Possible factors also include female sex, absent CBD stone and low volume of ERCP performed."
+        },
+        {
+            "id": "6",
+            "question_type": "msq",
+            "question": "6. In which of the following conditions is colonoscopy indicated?\nA Assessment of rectal bleeding with loose stools.\nB Management of iron deficiency anaemia.\nC Assessment of chronic diarrhoea (> 6 weeks).\nD Follow up of colorectal cancer and adenomatous polyp.\nE Diagnosis of fulminant colitis.",
+            "options": [
+                "A Assessment of rectal bleeding with loose stools.",
+                "B Management of iron deficiency anaemia.",
+                "C Assessment of chronic diarrhoea (> 6 weeks).",
+                "D Follow up of colorectal cancer and adenomatous polyp.",
+                "E Diagnosis of fulminant colitis."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Colonoscopy is the gold standard investigation for large-bowel mucosal lesions. It allows in the diagnosis (visualisation and biopsy) of benign and malignant lesions of the colon and rectum. Polyps can be snared or removed by endoscopic mucosal resection (EMR) if appropriate. Colonoscopy is indicated in patients with loose stools where biopsies can assist in the management. Colonoscopy in indicated in the screening and surveillance of colorectal cancer and inflammatory bowel disease. Colonoscopy is contraindicated when severe fulminant colitis is suspected, as the risk of perforation is high."
+        },
+        {
+            "id": "7",
+            "question_type": "msq",
+            "question": "7. Which of the following statements are true?\nA In the staging of upper gastrointestinal track malignancies (oesophagus, stomach, liver and biliary system).\nB Diagnosis of choledochal microlitithasis.\nC Biopsy of paraoesophageal lymph nodes.\nD Biopsy of pancreaticobiliary mass and in assessment of neuroendocrine tumours.\nE Transgastric drainage of pancreatic pseudocyst.",
+            "options": [
+                "A In the staging of upper gastrointestinal track malignancies (oesophagus, stomach, liver and biliary system).",
+                "B Diagnosis of choledochal microlitithasis.",
+                "C Biopsy of paraoesophageal lymph nodes.",
+                "D Biopsy of pancreaticobiliary mass and in assessment of neuroendocrine tumours.",
+                "E Transgastric drainage of pancreatic pseudocyst."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "EUS allows traditional mucosal imaging and also depicts clearly intestinal layers and proximate extraintestinal structures. EUS has revolutionised the staging and management of upper gastrointestinal and hepatobiliary malignancies. EUS allows sampling of paraoesophageal and celiac lymph nodes and drainage of peripancreatic abscess or pseudocysts. The complications are similar to other endoscopic examinations."
+        },
+        {
+            "id": "8",
+            "question_type": "mcq",
+            "question": "8. Which of the following developments are false?\nA Chromoendoscopy involves the use of pigments and stains to improve tissue localisation.\nB Narrow band imaging relies on an optical filter technology that radically improves the visibility of veins and capillaries in the superficial layers.\nC High-resolution magnification endoscopy achieves near cellular definition of the mucosa.\nD Capsule endoscopy acquires video images during natural propulsion through the gut.\nE Balloon enteroscopy permits visualisation of the small bowel but is unable to perform therapeutic procedures.",
+            "options": [
+                "A Chromoendoscopy involves the use of pigments and stains to improve tissue localisation.",
+                "B Narrow band imaging relies on an optical filter technology that radically improves the visibility of veins and capillaries in the superficial layers.",
+                "C High-resolution magnification endoscopy achieves near cellular definition of the mucosa.",
+                "D Capsule endoscopy acquires video images during natural propulsion through the gut.",
+                "E Balloon enteroscopy permits visualisation of the small bowel but is unable to perform therapeutic procedures."
+            ],
+            "answer": "E",
+            "explanation": "Balloon enteroscopy allows the direct visualisation and therapeutic intervention of the entire small bowel and may be attempted via the oral or rectal route."
+        },
+        {
+            "id": "9",
+            "question_type": "matching",
+            "question": "Match the diagnoses with the endoscopic findings that follow:",
+            "options": {
+                "items": [
+                    "1 Barrett's oesophagus",
+                    "2 Carcinoma of the oesophagus",
+                    "3 Gastrointestinal stromal tumour (GIST)",
+                    "4 Hiatus hernia",
+                    "5 Linitis plastica",
+                    "6 Mallory-Weiss tear",
+                    "7 Oesophageal varices",
+                    "8 Peptic stricture",
+                    "9 Rectal cancer",
+                    "10 Reflux gastritis"
+                ],
+                "choices": [
+                    "A Abnormal veins are seen in the lower end of the oesophagus, which are dilated and grape like.",
+                    "B A smooth, tapering stricture is seen at the lower end of the oesophagus along with inflammation and ulceration.",
+                    "C A mucosal tear is seen at the cardia with some fresh blood.",
+                    "D The pylorus is seen to be wide open with plenty of bile in the stomach. The antrum shows streaks of erythema.",
+                    "E The stomach is difficult to distend and appears to have low capacity. The mucosa appears stretched but no mucosal lesion is seen.",
+                    "F A submucosal lump is seen. The mucosa is stretched over this lump but is otherwise normal. The mucosal biopsies are normal.",
+                    "G There is an ulcerated and polypoidal mass at the lower end of the oesophagus causing obstruction.",
+                    "H There is evidence of gastro-oesophageal reflux disease (GORD) and a linear tongue of erythematous mucosa extending for a few centimetres into the oesophagus proximally.",
+                    "I The gastro-oesophageal junction is at 34 cm with prolapsing fundal mucosa and increased oesophageal fluid. The diaphragm is located at 39 cm.",
+                    "J A large polypoidal mass is noted in the lower rectum in a patient not fit for major surgery."
+                ]
+            },
+            "answer": {
+                "1": "H",
+                "2": "G",
+                "3": "F",
+                "4": "I",
+                "5": "E",
+                "6": "C",
+                "7": "A",
+                "8": "B",
+                "9": "J",
+                "10": "D"
+            },
+            "explanation": "1. H Barrett's oesophagus: This is becoming increasingly important, as it is associated with increasing the risk of malignancy. The incidence of adenocarcinoma of the lower end of the oesophagus is increasing. Barrett's oesophagus showing dysplastic changes needs regular surveillance. There is still some debate about its management, but most agree that severe dysplastic changes would be a strong reason for surgery. Invasive carcinoma may be found in almost half of these cases.\n2. G Carcinoma of the oesophagus: This causes profound weight loss and rapidly progressive dysphagia. Staging investigations such as endoscopic US, computerised tomography (CT) scan and laparoscopy are important before embarking on major resections. Prognosis still remains poor.\n3. F Gastrointestinal stromal tumour (GIST): This may be an incidental finding but can cause upper gastrointestinal bleed, which draws attention. Prognosis, though variable, is a lot better than adenocarcinoma. Even advanced cases respond to tyrosine kinase inhibitors such as imatinib.\n4. I Hiatus hernia: A small hiatus hernia may be an incidental finding. Some are associated with features of reflux oesophagitis. This can rarely present with complications such as incarceration, necrosis and perforation.\n5. E Linitis plastica: The mucosa may appear deceptively normal (though a bit stretched) and biopsies may be negative because the pathology is submucosal. The stomach will be very contracted and non-distensible. Special biopsy forceps are necessary to get the required tissue. Patients usually present late and hence this carries a very poor prognosis.\n6. C Mallory-Weiss tear: Patients present with severe epigastric pain, retching and mild haematemesis. The clinical differential diagnosis includes duodenal perforation, acute pancreatitis, myocardial infarction and oesophageal perforation. Endoscopy confirms the diagnosis, which is self-limiting.\n7. A Oesophageal varices: This may be seen in patients with portal hypertension presenting with haematemesis. The varices are usually injected or banded. More rarely, embolisation or vasopressin may be used. Surgery is almost never indicated nowadays, except in desperate situations.\n8. B Peptic stricture: This is a complication of long-standing GORD. Barrett's oesophagus may be present. The diagnosis is confirmed on histology, where intestinal metaplasia is seen. Smooth tapering and absence of shouldering differentiate this from malignancy.\n9. J Rectal cancer: Large rectal polyp in an otherwise unfit individual is assessed by taking a detailed history, followed by thorough clinical examination. This is followed by endoscopic assessment and biopsies. If the biopsies show dysplasia, there still may be a focus of cancer. Hence, MRI of pelvis and CT chest abdomen and pelvis are performed. To assess the local T staging, EUS may be beneficial. EUS is used in the lower gastrointestinal tract in the assessment of low rectal polyps to differentiate between T1 and T2 lesions, and in the assessment of perirectal lymph nodes. EUS is also indicated in the assessment of fistula in ano and in assessment of anal sphincter complex in faecal incontinence. However, EUS is an investigation that is operator dependent.\n10. D Reflux gastritis: This is a complication of long-standing GORD. Barrett's oesophagus may be present. The diagnosis is confirmed on histology, where intestinal metaplasia is seen. Smooth tapering and absence of shouldering differentiate this from malignancy."
+        },
+        {
+            "id": "10",
+            "question_type": "matching",
+            "question": "Choose and match the correct diagnosis with each of the scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Aspiration",
+                    "2 Bleeding",
+                    "3 Dental injury",
+                    "4 Perforation",
+                    "5 Sedation overdose"
+                ],
+                "choices": [
+                    "A An 80-year-old man who has just had an OGD after local anaesthetic spray has severe coughing and breathing problems after eating a sandwich in the recovery room.",
+                    "B A 71-year-old patient collapses and is found to be hypotensive after an endoscopic polypectomy.",
+                    "C A 70-year-old male is rushed to the emergency 8 hours after an endoscopic dilatation of an oesophageal stricture, complaining of severe chest pain and change in voice.",
+                    "D An 86-year-old woman has severe pain and bleeding from the mouth following an uneventful OGD.",
+                    "E An 80-year-old woman patient has severe bradycardia and low PO₂ and is difficult to arouse."
+                ]
+            },
+            "answer": {
+                "A": "1",
+                "B": "2",
+                "C": "4",
+                "D": "3",
+                "E": "5"
+            },
+            "explanation": "Endoscopic complications can be divided into cardiovascular and respiratory, which are usually related to sedation and mainly affect the elderly. In extreme cases, an anaesthetic opinion may be needed. The other complications are those related to the procedure and are surgically oriented.\nSedation must be used with caution in the elderly. Procedure-specific complications include bleeding, perforation and infections. Patients on anticoagulants should be assessed for their risk of thromboembolism against the risk of bleeding if a therapeutic procedure is planned. If bleeding is encountered during the procedure, combined modality using adrenaline injection, mechanical methods such as clips and snares and thermal methods such as argon plasma coagulation (APC) are used. Caution should be exercised when using APC, because there is a risk of perforation. Perforation should be suspected following upper gastrointestinal procedure if the patient complains of severe chest pain and has haemodynamic instability. On examination there may be subcutaneous emphysema or peritonitis. Early recognition and treatment is essential to reduce the risk of mortality."
+        }
+    ]
+}

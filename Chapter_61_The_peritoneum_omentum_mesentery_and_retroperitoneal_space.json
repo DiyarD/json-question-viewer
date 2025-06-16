@@ -1,0 +1,222 @@
+{
+    "chapter_name": "The peritoneum, omentum, mesentery and retroperitoneal space",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?\nA The surface area of the peritoneum is\nnearly equal to that of the skin.\nB The parietal peritoneum is poorly\ninnervated.\nC The peritoneum has the capacity to\nabsorb large volumes of fluid.\nD The peritoneum has the ability to\nproduce fibrinolytic activity.\nE When injured, the peritoneum produces\nan inflammatory exudate.",
+            "options": [
+                "A The surface area of the peritoneum is nearly equal to that of the skin.",
+                "B The parietal peritoneum is poorly innervated.",
+                "C The peritoneum has the capacity to absorb large volumes of fluid.",
+                "D The peritoneum has the ability to produce fibrinolytic activity.",
+                "E When injured, the peritoneum produces an inflammatory exudate."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "As the largest cavity in the body, the peritoneum has a surface area of 2 square metres in the adult – almost equal to that of the skin. It is composed of flattened polyhedral cells and consists of two parts, a visceral peritoneum enveloping the organs and a parietal part lining the surfaces of the abdominal cavity. The peritoneum has the capacity to absorb large amounts of fluid, a particular function that is utilised therapeutically for peritoneal dialysis in renal failure. In intra-abdominal pathology, fibrinolytic activity is a function of the peritoneum. When injured the peritoneum produces an inflammatory exudate, hence the fluid exudation in peritonitis.\nThe parietal peritoneum is richly innervated, as a result of which pain originating from the parietal peritoneum is severe and well localised. In contrast, the visceral peritoneum is poorly innervated as the nerves travel along the blood vessels; this results in poor localisation when pain originates from the organs."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "2. The following organisms are a gastrointestinal (GI) source of peritonitis except:\nA Escherichia coli.\nB Streptococci.\nC Chlamydia.\nD Bacteroides.\nE Clostridium.",
+            "options": [
+                "A Escherichia coli.",
+                "B Streptococci.",
+                "C Chlamydia.",
+                "D Bacteroides.",
+                "E Clostridium."
+            ],
+            "answer": "C",
+            "explanation": "In women, ascending infection via the Fallopian tubes due to colonisation with Chlamydia resulting in pelvic inflammatory disease (PID) is the most common non-gastrointestinal cause of peritonitis – gonococcus being another. These organisms might also cause the infection to ascend to the liver, causing perihepatitis by involving the Glisson's capsule producing 'violin string' adhesions giving rise to Fitz-Hugh-Curtis syndrome, a diagnosis that can be confused with acute cholecystitis.\nOrganisms from the Gl tract usually are in the form of two or more strains, the common flora being E. coli, Streptococci, Bacteroides and Clostridia. The bacterial colonisation is low in the small bowel and much higher distally; this is exacerbated when there is pathology such as obstruction and inflammation. The same is true of the biliary and pancreatic systems. Endotoxins and exotoxins released from the bacteria exert their effect by the release of tumour necrosis factor (TNF) from the host leucocytes. In serious cases they may result in endotoxic shock."
+        },
+        {
+            "id": "3",
+            "question_type": "msq",
+            "question": "3. Which of the following statements are true?\nA Peritonitis gets localised because of\nanatomical factors.\nB The greater omentum plays an\nimportant role in localising infection.\nC Diagnostic peritoneal lavage (DPL) has a\nvital role in diagnosis.\nD CT scan is useful for both diagnostic and\ntherapeutic purposes.\nE Operation is not necessary in all patients\nwith peritonitis.",
+            "options": [
+                "A Peritonitis gets localised because of anatomical factors.",
+                "B The greater omentum plays an important role in localising infection.",
+                "C Diagnostic peritoneal lavage (DPL) has a vital role in diagnosis.",
+                "D CT scan is useful for both diagnostic and therapeutic purposes.",
+                "E Operation is not necessary in all patients with peritonitis."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "A knowledge of the anatomy of the peritoneal cavity helps in understanding the sites and methods of localisation of peritonitis. The general peritoneal cavity is divided into a greater sac and lesser sac, the two communicating through the foramen of Winslow. The greater sac is subdivided into the subdiaphragmatic (subphrenic) spaces, pelvis and general peritoneal cavity. The lesser sac, also called the omental bursa, is the space behind the stomach. There are seven subdiaphragmatic spaces, four intraperitoneal and three extraperitoneal. The general peritoneal cavity is divided by the transverse colon and mesocolon into supra- and infra-colic compartments. These anatomic divisions have a bearing on the localisation of intraperitoneal infection.\nThe greater omentum plays a major role in localising peritonitis. It envelops the inflamed organ to localise the infection such as a perforated sigmoid diverticulum. This function as a barrier to the spread of infection prompted Rutherford Morison to give it the metaphorical name of 'abdominal policeman'. When intraperitoneal infection is suspected, a contrast-enhanced CT scan is the ideal imaging of choice. It will show the site of the collection of pus such as a paracolic abscess and the cause such as perforated diverticulitis. The procedure can be used to drain the pus and leave a catheter. Operation is not necessary in many patients, because image-guided drainage (US or CT) by the interventional radiologist is often successful.\nDiagnostic peritoneal lavage (DPL), an invasive method not without its complications, is now obsolete with the availability of alternative diagnostic methods such as high-quality US and CT."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "4. Which of the following statements is not true?\nA All patients should be thoroughly\nresuscitated.\nB A paracolic abscess on CT scan must\nhave open surgery.\nC Septic shock might follow.\nD Nutritional support must be instituted in\ncertain patients.\nE Young children do not have the\nnatural barrier against the spread of\nperitonitis.",
+            "options": [
+                "A All patients should be thoroughly resuscitated.",
+                "B A paracolic abscess on CT scan must have open surgery.",
+                "C Septic shock might follow.",
+                "D Nutritional support must be instituted in certain patients.",
+                "E Young children do not have the natural barrier against the spread of peritonitis."
+            ],
+            "answer": "B",
+            "explanation": "A paracolic abscess diagnosed on CT scan hardly ever will require open surgery. This should be drained by CT guidance and a catheter left in place. The catheter can also be used to irrigate the abscess cavity. Once the patient has recovered, detailed investigations are carried out and the pathology dealt with definitively.\nAll patients should be thoroughly resuscitated by correction of fluid, electrolyte and acid-base disturbance; an indwelling urinary catheter and a nasogastric tube are inserted and the patient started on the appropriate broad-spectrum antibiotic to cover aerobic and anaerobic organisms. Good analgesia is essential; an epidural might be considered. If the patient is not promptly and effectively managed, septic shock might follow. Assessing the patient early will give an idea as to the need for nutritional support, which will help toward quicker recovery.\nFor example, if the patient has had a laparotomy for diffuse peritonitis removal of the cause is carried out with thorough peritoneal lavage with several litres of warm normal saline. This should be followed by a feeding jejunostomy for long-term nutrition. Young children do not have a well-developed omentum. Therefore, they do not have the natural protection to localise peritonitis; the surgeon should therefore consider early surgery."
+        },
+        {
+            "id": "5",
+            "question_type": "mcq",
+            "question": "5. The following statements are true except:\nA Bile peritonitis is usually a feature\nfollowing operation.\nB A leucocytosis of >30,000 with\n90% polymorphs is suggestive of\npneumococcal peritonitis.\nC Tuberculous ascites may be loculated.\nD Tuberculosis (TB) spreads from the\nileocaecal region.\nE Diagnostic smear will be positive\nin the vast majority of cases of\ntuberculosis.",
+            "options": [
+                "A Bile peritonitis is usually a feature following operation.",
+                "B A leucocytosis of >30,000 with 90% polymorphs is suggestive of pneumococcal peritonitis.",
+                "C Tuberculous ascites may be loculated.",
+                "D Tuberculosis (TB) spreads from the ileocaecal region.",
+                "E Diagnostic smear will be positive in the vast majority of cases of tuberculosis."
+            ],
+            "answer": "E",
+            "explanation": "Diagnostic smears for acid-fast bacilli are positive in less than 3% of patients. Cultures take 4 to 8 weeks without any guarantee of a positive result. Laparoscopy with peritoneal biopsy and macroscopic intraperitoneal findings confirms the diagnosis. Caseating peritoneal nodules are common. Ascites is present in all patients with TB; this can be a generalised form or be loculated. The disease originates from the ileocaecal region, spreading via the mesenteric lymph nodes or directly from the bloodstream usually from the miliary form of the disease. Peritoneal involvement occurs in the vast majority.\nThe diagnosis of bile peritonitis is usually made at laparotomy unless the patient had an operation on the biliary tract in the recent past. If the patient has not had an operation, the most common cause is perforated cholecystitis. Postoperative causes are the following: postcholecystectomy with cystic duct blow-out or CBD injury, leak following biliary-enteric bypass, or duodenal stump leak after Polya gastrectomy. Bile peritonitis might also result from liver injury."
+        },
+        {
+            "id": "6",
+            "question_type": "msq",
+            "question": "6. Which of the following statements are correct?\nA The pelvis is the commonest site of\nintraperitoneal abscess.\nB Pus can also collect in four other\nintraperitoneal sites.\nC The usual cause is postoperative.\nD Pain may be a feature well away from\nthe site of pathology.\nE Open operation and drainage is the\ntreatment of choice.",
+            "options": [
+                "A The pelvis is the commonest site of intraperitoneal abscess.",
+                "B Pus can also collect in four other intraperitoneal sites.",
+                "C The usual cause is postoperative.",
+                "D Pain may be a feature well away from the site of pathology.",
+                "E Open operation and drainage is the treatment of choice."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "The pelvis is the most common site for an intraperitoneal abscess. This is because it is the most dependent site, and postoperatively the patient usually sits up. Also one of the most common causes is after an operation for pelvic appendicitis and tubo-ovarian infections causing pelvic inflammatory disease. Besides, the other intraperitoneal sites of abscesses are four in number, two on either side – right subphrenic, right subhepatic and left subphrenic and left subhepatic (Table 61.1). The causes in the vast majority are postoperative (Tables 61.2 and 61.3).\nWhile the clinical presentation might be insidious, the patient develops swinging pyrexia, looks toxic and typically complains of pain in his right shoulder tip when the right subphrenic or subhepatic spaces are involved. This is because pus collection under the right dome of the diaphragm causes irritation of the diaphragmatic peritoneum and pain travels along the sensory fibres of the phrenic nerve. This classically produces referred pain to the right shoulder tip in the distribution of C4.\nThe management of an intraperitoneal abscess is to localise the site of abscess by imaging such as US or CT scan, followed by image-guided drainage. Open operation is almost obsolete, the interventional radiologist having taken over the task."
+        },
+        {
+            "id": "7",
+            "question_type": "msq",
+            "question": "7. Which of the following statements are not true?\nA Imbalance between plasma and\nperitoneal colloid osmotic and\nhydrostatic pressure causes ascites.\nB Shifting dullness is a classical sign in all\ncases of ascites.\nC The protein content determines if\nthe ascitic fluid is a transudate or an\nexudate.\nD A peritoneovenous shunt should be\nconsidered in all cases of ascites.\nE Chylous ascites is most commonly\ncaused by malignancy.",
+            "options": [
+                "A Imbalance between plasma and peritoneal colloid osmotic and hydrostatic pressure causes ascites.",
+                "B Shifting dullness is a classical sign in all cases of ascites.",
+                "C The protein content determines if the ascitic fluid is a transudate or an exudate.",
+                "D A peritoneovenous shunt should be considered in all cases of ascites.",
+                "E Chylous ascites is most commonly caused by malignancy."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "In a patient with normal body habitus, for ascites to be clinically diagnosed there must be more than 1.5 litres of intraperitoneal fluid. Shifting dullness and fluid thrill are the clinical signs of ascites. However, shifting dullness cannot be elicited when there is a huge amount of fluid as there would be no free space in the peritoneal cavity for the fluid to be shifted. As a means of treating ascites by intervention, a peritoneovenous shunt is considered only rarely in selected cases.\nAscites is the accumulation of excess fluid in the peritoneal cavity. It occurs when there is a disturbance between the plasma and peritoneal colloid and hydrostatic pressures. This can be due to several causes, including cardiac, hepatic, renal and local. When the amount of protein in the ascitic fluid is >25 g/L it is called an exudate, while it is called a transudate when the protein content is <25 g/L. Capillary hydrostatic pressure is increased when there is a generalised water retention, as in heart failure, liver cirrhosis, portal vein thrombosis, or hepatic vein obstruction (Budd-Chiari syndrome); plasma colloid osmotic pressure is lowered in starvation, intestinal malabsorption, abnormal protein loss, or defective protein synthesis as in the cirrhotic.\nChylous ascites most commonly is the result of malignant obstruction of the thoracic duct usually a lymphoma; other causes are filariasis, TB and nephrotic syndrome. The fluid looks milky from excess of chylomicrons (triglycerides)."
+        },
+        {
+            "id": "8",
+            "question_type": "msq",
+            "question": "8. Which of the following statements are true?\nA Secondary tumours are more common.\nB Carcinomatosis peritonei is usually a\nterminal event.\nC Pseudomyxoma peritonei arises from a\nprimary tumour from the appendix.\nD Repeated 'debulking surgery' in\npseudomyxoma peritonei gives relief.\nE Peritoneal loose bodies are malignant\nin origin.",
+            "options": [
+                "A Secondary tumours are more common.",
+                "B Carcinomatosis peritonei is usually a terminal event.",
+                "C Pseudomyxoma peritonei arises from a primary tumour from the appendix.",
+                "D Repeated 'debulking surgery' in pseudomyxoma peritonei gives relief.",
+                "E Peritoneal loose bodies are malignant in origin."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Secondary tumours of the peritoneum are much more common and referred to as carcinomatosis peritonei (peritoneal metastases) and usually a terminal event. The primary can be from any intra-abdominal organ and also breast and bronchus. The malignancy takes the form of discrete nodules, plaques of varying sizes, or diffuse adhesive lesions giving a ‘frozen pelvis'. There is blood-stained or straw-coloured ascites. The condition can be mistaken for tuberculous peritonitis.\nPseudomyxoma peritonei, a rare condition and more common in women, arises from a primary tumour of the appendix that implants on to the ovaries. It fills the abdomen with yellow jelly-like mucinous material that might be encysted in the form of mucinous cystic tumours. Adenocarcinoma of the appendix resembles ovarian mucinous adenocarcinoma, and hence it is thought that most ovarian mucinous tumours are seeded from the appendix.\nThe diagnosis is suspected on ultrasound and CT scan. Good palliation is obtained by repeated debulking laparotomies when carried out in specialist units.\nPeritoneal loose bodies are benign small lumps found loose in the peritoneal cavity incidentally at laparotomy. It is the outcome of an appendix epiploica that has undergone torsion and become detached following necrosis."
+        },
+        {
+            "id": "9",
+            "question_type": "msq",
+            "question": "9. The following statements are true except:\nA Ischaemic tissue inhibits fibrinolysis\nencouraging formation of adhesions.\nB Laparoscopic surgery reduces adhesion\nrelated complications.\nC Adhesions are responsible for two-thirds\nof small bowel obstructions.\nD Prevention of adhesions can be actively\nachieved.\nE Intestinal obstruction from sclerosing\nencapsulating peritonitis should be\ntreated by surgery.",
+            "options": [
+                "A Ischaemic tissue inhibits fibrinolysis encouraging formation of adhesions.",
+                "B Laparoscopic surgery reduces adhesion related complications.",
+                "C Adhesions are responsible for two-thirds of small bowel obstructions.",
+                "D Prevention of adhesions can be actively achieved.",
+                "E Intestinal obstruction from sclerosing encapsulating peritonitis should be treated by surgery."
+            ],
+            "answer": [
+                "D",
+                "E"
+            ],
+            "explanation": "Major research has been ongoing for many years for the prevention of adhesions. Many drugs have been tried without much success. Various barrier methods have been used in trials. Although there has been reduction in adhesion formation, the findings do not translate to reduction in adhesion-related clinical problems. The outcomes of several trials have shown that the use of barrier products has reduced the incidence, extent and severity of adhesions, but this was not reflected in the clinical outcome in reducing the incidence or surgical intervention for intestinal obstruction. Sclerosing encapsulating peritonitis, which is the result of long-term peritoneal dialysis, is a form of severe adhesions that produces bowel obstruction. In this situation, surgery should be avoided.\nAdhesions form in the absence of fibrinolysis. Ischaemic tissue inhibits fibrinolysis, as it does not have the ability to break down fibrin; hence all attempts must be made to prevent ischaemia. Two-thirds of cases of small intestinal obstruction are caused by adhesions. Reducing the production of ischaemic tissue by good surgical technique is the hallmark in the prevention of adhesions. Further, the advent of laparoscopic surgery has resulted in reduction of readmissions for problems related to adhesions."
+        },
+        {
+            "id": "10",
+            "question_type": "msq",
+            "question": "10. Which of the following statements are true?\nA Torsion of the omentum always presents\nas an emergency.\nB Mesenteric injury occurs as a seatbelt\nsyndrome.\nC Acute nonspecific ileocaecal mesenteric\nadenitis can be confused with acute\nappendicitis.\nD A mesenteric cyst clinically presents as a\nfixed periumbilical mass.\nE Chylolymphatic cyst is the commonest\ntype of mesenteric cyst.",
+            "options": [
+                "A Torsion of the omentum always presents as an emergency.",
+                "B Mesenteric injury occurs as a seatbelt syndrome.",
+                "C Acute nonspecific ileocaecal mesenteric adenitis can be confused with acute appendicitis.",
+                "D A mesenteric cyst clinically presents as a fixed periumbilical mass.",
+                "E Chylolymphatic cyst is the commonest type of mesenteric cyst."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Torsion of the omentum is a diagnosis made at an emergency operation carried out for a mistaken diagnosis of acute appendicitis. Usually the sufferer is a middle-aged obese man who presents as an emergency with pain and tenderness in the right iliac fossa. At operation there is a gangrenous mass, which is a black piece of twisted omentum. This is ligated and excised. The normal appendix is usually removed at the same time to prevent confusion in diagnosis in the future, as the patient would have a gridiron incision.\nInjury to the mesentery is the aftermath of blunt abdominal injury occurring as a result of the seat belt crushing against the anterior abdominal wall from deceleration injury from a road-traffic accident. This causes a tear in the mesentery with haemorrhage and bowel ischaemia, which will require resection and end-to-end anastomosis. The presentation might be delayed.\nAcute nonspecific ileocaecal mesenteric adenitis is a classical differential diagnosis of acute appendicitis especially in children. It is suspected when there is shifting tenderness that is poorly localised and there are symptoms of upper-respiratory infection with cervical, axillary and groin lymphadenopathy. In situations where the diagnosis remains uncertain and acute appendicitis cannot be ruled out, an emergency appendicectomy has to be carried out.\nMesenteric cysts can be chylolymphatic (commonest type), enterogenous, dermoid and urogenital remnant; the diagnosis might be confused with congenital hydronephrosis. The typical presentation is a painless mobile lump that has a classical physical sign of moving diagonally up and down at right angles to the attachment of the mesentery (Tillaux's sign). Confirmation is by ultrasound."
+        },
+        {
+            "id": "11",
+            "question_type": "mcq",
+            "question": "11. Which of the following statements is not true?\nA Idiopathic retroperitoneal fibrosis can\npresent as chronic renal failure.\nB An AAA can cause retroperitoneal fibrosis.\nC Retroperitoneal fibrosis is always a\nbenign condition.\nD Retroperitoneal abscess may be a\nmanifestation of vertebral tuberculosis.\nE Retroperitoneal lipoma is often a sarcoma.",
+            "options": [
+                "A Idiopathic retroperitoneal fibrosis can present as chronic renal failure.",
+                "B An AAA can cause retroperitoneal fibrosis.",
+                "C Retroperitoneal fibrosis is always a benign condition.",
+                "D Retroperitoneal abscess may be a manifestation of vertebral tuberculosis.",
+                "E Retroperitoneal lipoma is often a sarcoma."
+            ],
+            "answer": "C",
+            "explanation": "Retroperitoneal fibrosis is not always a benign condition. It can be the result of a lymphoma or secondary lymph nodal deposits from a testicular tumour or other malignancies. In the majority a cause of the fibrosis cannot be found and hence is called idiopathic retroperitoneal fibrosis. The condition can cause involvement of both ureters, causing them to be pulled medially and lying in front of the vertebral bodies. This results in insidious chronic renal failure. AAA can cause retroperitoneal fibrosis. This happens when it is an inflammatory aneurysm, which involves the left ureter causing hydronephrosis and hydroureter. Such an aneurysm is very adherent to the neighbouring structures particularly the duodenum. It is suspected when the patient has a high ESR and CRP.\nA retroperitoneal abscess is a psoas abscess that tracks along the psoas sheath down into the femoral triangle to the lesser trochanter. Clinically a fluctuant mass is palpable in the iliac fossa and the femoral triangle that exhibits cross fluctuation. In developing countries it is still commonly seen, as the cause is vertebral tuberculosis resulting in a cold abscess. The retroperitoneal space-occupying lesion is a lipoma, which is often a liposarcoma. Women are more often affected, complaining of vague abdominal pain; the swelling can be very big and the diagnosis made by ultrasound and CT scan."
+        },
+        {
+            "id": "12",
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Idiopathic retroperitoneal fibrosis",
+                    "2 Mesenteric cyst",
+                    "3 Retroperitoneal liposarcoma",
+                    "4 Right subhepatic abscess",
+                    "5 Small bowel obstruction from adhesions",
+                    "6 Tuberculous ascites"
+                ],
+                "choices": [
+                    "A A 62-year-old man presents with generalised colicky abdominal pain with bilious vomiting for 48 hours. His symptoms have been intermittent. He has a distended abdomen with generalised tenderness without any rigidity or rebound tenderness. Following an operation for left hemicolectomy 3 years ago through a long midline incision, he has had several such episodes some of them requiring admission.",
+                    "B A 58-year-old man complains of malaise, bilateral backache, nausea and occasional vomiting for 2 months. Clinically there is nothing to find except for bilateral hydroceles of which the patient was not aware. His general practitioner performed routine blood tests, which are as follows: Hb 10 g/dL, ESR 88, CRP 292, urea 22 mmol/L, creatinine 256 mmol/L, K 6.1 mmol/L, Na 135 mmol/L, CI 98 mmol/L and HCO₃ 18 mmol/L.",
+                    "C A 45-year-old woman complains of an abdominal lump that she noticed in the bath 6 weeks ago. She has some generalised discomfort in her abdomen. On examination she looks well, with a smooth fluctuant periumbilical mass freely mobile in a diagonal plane from the right subcostal to the left iliac fossa.",
+                    "D A 50-year-old man underwent a laparoscopic closure of a perforated duodenal ulcer. His postoperative period during the first 4 to 5 days was uneventful. Thereafter he complained of hiccoughs with pain in the right subcostal area and right shoulder tip. He had swinging pyrexia, was toxic, tachypnoeic and tender in the right upper quadrant with oedema of the overlying skin.",
+                    "E A 38-year-old woman, who arrived from the Indian subcontinent 1 year ago, complains of general malaise, cough and low-grade evening temperature for 6 months. She has lost some weight and abdominal examination shows central abdominal distension with a feeling of an encysted periumbilical mass.",
+                    "F A 47-year-old woman complains of generally feeling unwell with weight loss for 6 months. She complains of some discomfort over her entire left side of the abdomen associated with constipation. On examination she has a marked fullness in her left lumbar region and loin."
+                ]
+            },
+            "answer": {
+                "1": "B",
+                "2": "C",
+                "3": "F",
+                "4": "D",
+                "5": "A",
+                "6": "E"
+            },
+            "explanation": "1. B Idiopathic retroperitoneal fibrosis\nA rare condition, retroperitoneal fibrosis results in the formation of greyish-white plaques in the retroperitoneum that spreads laterally to envelop adjacent organs such as the ureters, vessels and aorta. The causes may be benign resembling other fibromatoses such as Dupuytren's contracture and Peyronie's disease, inflammatory type of AAA and certain drugs. The malignant causes are lymphoma and secondary lymph nodal deposits. Histologically there may be active inflammation with high cellularity and collagen bundles; there may be mature fibrosis with calcification.\nPatients with the idiopathic benign disease present with chronic renal failure. Diagnosis is confirmed by ultrasound and contrast CT showing bilateral hydronephrosis and hydroureters, the latter being pulled medially by the fibrotic process.\nThe patient may require treatment for the renal failure such as dialysis. The urologist should take the patient over to perform the operation of ureterolysis with the ureters being wrapped around by omentum to prevent recurrence.\n2. C Mesenteric cyst\nThese occur more often in the small bowel mesentery. Their origin can be chylolymphatic (most common), enterogenous, urogenital remnant and dermoid. They are relatively asymptomatic and found as an abdominal lump. Diagnosis is by ultrasound and CT scan.\nTreatment is resection. In about a third of patients undergoing removal of the cyst, the bowel attached to the cyst will also require resection and end-to-end anastomosis.\n3. F Retroperitoneal liposarcoma\nThese are rare tumours, the other histological types being leiomysarcoma and malignant fibrous histiocytoma. Patients usually present late because of the capacious retroperitoneal space, which allows the tumour to grow very large before its presence is felt by nonspecific symptoms. Diagnosis is by CT scan and MRI and confirmation is by image-guided biopsy.\nA multidisciplinary team approach gives the best results. At operation three-quarters of resections will entail removal of at least one of the adjacent organs (parts of bowel and kidney). Survival rates even after complete resection are in the region of 35% to 50%.\n4. D Right subphrenic abscess\nA subphrenic abscess is to be suspected when a patient, particularly after an intra-abdominal operation for a potentially septic condition, does not make a smooth recovery. The classical adage is 'Pus somewhere, pus nowhere, pus under the diaphragm'. After an initial uneventful few days postoperatively, the patient typically fails to progress, has swinging pyrexia and is toxic. The most common site being the right side, the patient has right upper abdominal pain, with features of right basal pneumonia due to sympathetic right pleural effusion. The patient has polymorphonuclear leucocytosis; confirmation of the diagnosis is by US and CT scan.\nThe subdiaphragmatic spaces are named in Figure 61.1. The anatomic arrangement of the spaces are diagrammatically shown in Figure 61.2 and Figure 61.3. Involvement of the spaces on the right side is more common than on the left. This is explained in Table 61.1. The various postoperative causes on the right and left sides are enumerated in Tables 61.2 and 61.3.\nAfter the diagnosis is made, having being confirmed by US or CT scan, the abscess is drained under image guidance by the interventional radiologist and a catheter is left in the abscess cavity. As the patient is toxic, after blood cultures have been sent, intravenous broad-spectrum antibiotics are started. Sometimes the aspiration might have to be repeated if there are several loculi.\nIn rare instances an open operation may have to be performed. For a right anterior subphrenic abscess a right subcostal incision is made and the abscess drained extraperitoneally. For a posterior abscess, an oblique right loin incision is made and the 12th rib is excised subperiosteally followed by a transverse incision on the abscess cavity taking care not to enter the pleural cavity. Drains are left after open drainage.\n5. A Small bowel obstruction from adhesions\nSmall intestinal obstruction is the most common adhesion-related complication, being responsible for almost two-thirds of the causes of intestinal obstruction. Pelvic adhesions are responsible for the majority of causes of secondary infertility. Adhesions as a cause of chronic abdominal and pelvic pain remains unproved; division of adhesions reducing chronic abdominal pain has yet to be convincingly shown in trials. Nevertheless, significant research continues into prevention of postoperative adhesions.\nThis patient needs to be resuscitated with analgesia, intravenous fluids, nasogastric suction and an indwelling urinary catheter. A supine plain abdominal x-ray will show dilated loops of small bowel in the form of valvulae conniventes (jejunal dilatation) and featureless ileum (ileal dilatation). This patient will be hypokalaemic, which needs to be corrected. As long as the patient has no signs of strangulation (compromise of blood supply), conservative management should be given a fair trial.\nLaparotomy is avoided as long as possible as most of these patients do settle down. Moreover, laparotomy for release of adhesions would result in further future adhesions. Faeculent vomiting or aspirate is a sinister finding. This or clinical features of tachycardia, rebound tenderness and toxicity (signs of strangulation) are an indication for laparotomy.\n6. E Tuberculous ascites\nThis condition has an insidious onset with general malaise, vague abdominal symptoms, occasional nausea and vomiting, sometimes alternating constipation and diarrhoea, weight loss, evening pyrexia, night sweats and abdominal distension. Abdominal examination gives a 'doughy' feel from the matted greater omentum studded with tubercles. Localised encysted ascitic collections might give the false impression of an abdominal mass.\nA strong Mantoux test suggests the diagnosis, which is strongly supported with a raised ESR and CRP. Chest x-ray (for pulmonary TB) and abdominal US and CT scan are necessary, the latter to confirm ascites. Laparoscopy is the ideal diagnostic avenue and will reveal typical tubercles on the bowel serosa, multiple strictures, a high subhepatic caecum and enlarged lymph nodes. Biopsies are taken from the omentum and lymph nodes for confirmation.\nThe patient should be managed by the physician with full chemotherapy with involvement of the public health authorities. Surgeons are involved only in case of intestinal obstruction."
+        }
+    ]
+}

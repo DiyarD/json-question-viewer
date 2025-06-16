@@ -1,0 +1,139 @@
+{
+    "chapter_name": "Urinary symptoms and investigations",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. The following statements are true except:",
+            "options": [
+                "A Microscopic haematuria is not always abnormal.",
+                "B Haematuria at the start of urinary stream indicates a cause in the lower urinary tract.",
+                "C Haematuria where the urine is uniformly mixed with the urine points to a cause in the upper urinary tract.",
+                "D Terminal haematuria is caused by bladder irritation or infection.",
+                "E Painful haematuria indicates malignant pathology."
+            ],
+            "answer": [
+                "A",
+                "E"
+            ],
+            "explanation": "Haematuria, whether macroscopic or microscopic, is always abnormal and therefore should always be investigated. Haematuria from a malignant cause is usually painless as in bladder cancer when it is typically painless, profuse and periodic. It must be borne in mind that renal cell carcinoma presents with loin pain.\nHaematuria at the commencement of the urinary stream indicates a cause in the bladder such as cancer or prostatic urethra. When the urine is uniformly mixed with blood, the cause is usually in the kidney. Haematuria at the end of micturition is caused by bladder irritation or infection. When it occurs in young women, the usual cause is urinary infection.\nWhen haematuria is the presenting urinary symptom, the patient is placed on the urgent ‘one-stop haematuria clinic'. Here the patient undergoes an ultrasound of the genito-urinary tract and flexible cystoscopy and further imaging if indicated."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "2. Which of the following statements are true?",
+            "options": [
+                "A Pain of renal origin is a deep-seated sickening ache and ‘bursting' in nature.",
+                "B Pain from a ureteric stone is colicky and radiates to the groin, scrotum, or labium.",
+                "C Pain from the urinary bladder is a suprapubic discomfort.",
+                "D Perineal pain is a penetrating ache and can be referred to the rectum.",
+                "E Large, slow-growing, space-occupying lesions produce a constant ache."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Renal pain is a deep ache in the loin caused by stretching of the renal capsule. When the cause is inflammatory, there might be deep local tenderness with psoas spasm causing flexion of the hip. If the cause is a hydronephrosis the patient describes the pain as 'bursting'. Ureteric calculus causes one of the most severe pains ever, with the patient writhing around unable to find a comfortable position, and the pain radiates to the groin and genitalia. Pain originating from a cause in the urinary bladder, such as a stone, takes the form of wrenching discomfort at the end of micturition referred to as strangury. Pain in the perineum is a penetrating ache radiating to the rectum with inguinal discomfort. Although usually of prostatic origin when it is called 'prostadynia', it is also known to occur in women.\nLarge, slow-growing, space-occupying lesions are silent and do not cause pain. Hence some of the tumours or cysts grow to a large size before they are discovered."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. The following statements are true except:",
+            "options": [
+                "A If 30% of kidney function is lost, renal failure becomes evident by blood results.",
+                "B Negative dipstick usually indicates a negative urine culture.",
+                "C Organisms of >105/mL on a midstream specimen of urine (MSU) is due to contamination.",
+                "D Biochemical examination of urine helps in calculus disease.",
+                "E Cytological examination of urine is sensitive and specific for poorly differentiated transitional cell cancer."
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "explanation": "More than 70% of kidney function must be lost before renal failure becomes evident on blood tests, because the kidneys have a large functional reserve. Renal damage must be quite severe before this is reflected in the serum biochemistry with a raised urea and creatinine. Renal damage can be from reduction in blood flow as in renal artery stenosis or severe hypertension; it can be from acute cortical necrosis with loss of glomeruli as in glomerulonephritis; or when tubular function is impaired as in pyelonephritis. When culture shows organisms of >105/mL on a midstream specimen of urine (MSU), it indicates infection and not contamination.\nNegative dipstick means that there is no blood, protein, or nitrates in the urine. Organisms produce them, and hence their absence indicates no infection. Biochemical examination of urine in a 24-hour sample for calcium, oxalate and uric acid is useful in investigation of calculus disease. Cytology of urinary sediment can be sensitive and specific in identifying poorly differentiated transitional cell carcinoma whereas false negatives are common in well differentiated tumours."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "4. Which of the following statements are true?",
+            "options": [
+                "A All urinary calculi are radiodense.",
+                "B Pelvic phleboliths cannot be distinguished from lower ureteric calculi on a plain x-ray.",
+                "C Ultrasound scanning (US) provides the same information as an intravenous urogram (IVU).",
+                "D IVU can be dangerous.",
+                "E The procedure of antegrade pyelography can be used therapeutically."
+            ],
+            "answer": [
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Pelvic phleboliths, a common occurrence, cannot be distinguished from ureteric calculus in the lower one-third; only an intravenous urogram (IVU) will help distinguish them. An IVU can be dangerous because of allergic reactions. This is much more common in patients with a history of allergy, atopy and eczema; rarely severe reactions might occur without warning. Hence, the patient should be observed very closely after the injection of a small amount of the contrast medium. Antegrade pyelography done through direct puncture of the renal pelvis (usually dilated) can be used therapeutically to decompress the kidney in obstructive uropathy.\nMost, but not all, urinary calculi are radiodense. Uric acid calculi are radiolucent and hence not visible on a plain x-ray. US does not provide the same information as an IVU. IVU has the advantage of showing renal function. The IVU images show up tumours, calculi and details of abnormal anatomy better than US."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "5. The following statements are true except:",
+            "options": [
+                "A Retrograde ureteropyelography can cause septicaemia.",
+                "B Venography should be used when tumour invasion into the inferior vena cava (IVC) is suspected.",
+                "C Non-contrast spiral CT should be routine for diagnosis of urinary calculi.",
+                "D CT scan is crucial in the staging of renal carcinoma.",
+                "E Radioisotope scanning has a role to ascertain selective renal function."
+            ],
+            "answer": "B",
+            "explanation": "Venography is an obsolete investigation to look for extension of growth in renal carcinoma into the IVC. Ultrasound and CT scan can obtain this information. Retrograde ureteropyelography (retrograde ureterogram) entails cystoscopy and ureteric catheterisation. The procedure can be done through a flexible cystoscope under topical anaesthesia. Therefore it has the potential to introduce infection and if carried out in the presence of obstruction, the procedure carries a real risk of septicaemia.\nNon-contrast spiral CT is used routinely for the diagnosis of urinary calculi, particularly for ureteric stone that presents as an emergency with ureteric colic. Contrast CT is essential for staging in renal cancer – site, size, invasion of adjacent structures, hilar lymphadenopathy and extension into renal vein and IVC. It is equally mandatory in the staging and follow-up of testicular tumours. Radioisotope scanning gives useful information about selective renal function. In this diethyltriaminepentaacetic acid (DTPA) labelled with technetium-99 is used to give a dynamic renal function of individual kidneys. It is also of use in hydronephrosis from pelvi-ureteric junction obstruction."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. Which of the following statements is false?",
+            "options": [
+                "A Anuria is defined as complete absence of urine production.",
+                "B Oliguria is defined as urinary output of less than 300 mL in 24 hours.",
+                "C Certain drugs can cause renal failure.",
+                "D All patients with renal failure will require renal replacement therapy.",
+                "E Indwelling stents can be used to relieve ureteric obstruction."
+            ],
+            "answer": "D",
+            "explanation": "All patients with renal failure will not require renal replacement therapy. The cause of renal failure should be established – prerenal, renal, or postrenal (Figure 74.8). Patients in renal failure must be managed by a team involving the nephrologist and intensive care specialist. The patient is treated depending on the cause (Figure 74.9).\nDrugs such as aminoglycosides, cephalosporins, diuretics, NSAIDs (long-term use) and ACE inhibitors might damage the kidneys.\nAnuria is complete absence of urine production while oliguria is <300 mL of urine excretion in 24 hours. If the cause has been established as obstructive (post-renal) stent insertion into the ureter/s is the treatment of choice. Obstruction at the bladder outlet is treated by urethral catheterisation, failing which suprapubic cystostomy is carried out."
+        },
+        {
+            "id": 7,
+            "question_type": "emq",
+            "question": "Match the imaging techniques with the illustrations (Figures 74.1 through 74.7) shown:",
+            "options": {
+                "items": [
+                    "1 Antegrade pyelogram",
+                    "2 CT scan of urinary bladder",
+                    "3 Cystogram",
+                    "4 Intravenous urogram",
+                    "5 Plain x-ray",
+                    "6 Renal angiogram",
+                    "7 Retrograde ureterogram"
+                ],
+                "choices": [
+                    "Figure 74.1",
+                    "Figure 74.2",
+                    "Figure 74.3",
+                    "Figure 74.4",
+                    "Figure 74.5",
+                    "Figure 74.6",
+                    "Figure 74.7"
+                ]
+            },
+            "answer": {
+                "1": "Figure 74.1",
+                "2": "Figure 74.2",
+                "3": "Figure 74.3",
+                "4": "Figure 74.4",
+                "5": "Figure 74.5",
+                "6": "Figure 74.6",
+                "7": "Figure 74.7"
+            },
+            "explanation": "1. Antegrade pyelogram, Figure 74.1\nThis investigation is done in obstructive uropathy to see the site and cause of obstruction. It is also useful therapeutically to insert a nephrostomy tube to drain the urine. This patient has several filling defects in his grossly dilated renal pelvis from transitional cell carcinoma of the renal pelvis.\n\n2. CT scan of urinary bladder, Figure 74.2\nThis is a CT scan of the urinary bladder showing air in the vault of the bladder with loop of sigmoid colon adherent to the bladder denoting a colo-vesical fistula from diverticulitis.\n\n3. Cystogram, Figure 74.3\nThis is a cystogram carried out by injecting contrast through the indwelling catheter. It shows extravasation of contrast at the bladder neck due to extra-peritoneal rupture of the urinary bladder.\n\n4. Intravenous urogram, Figure 74.4\nThis is an intravenous urogram showing an irregular filling defect in the left renal pelvis from a transitional cell carcinoma.\n\n5. Plain x-ray KUB area, Figure 74.5a\nThis plain x-ray of KUB (kidney, ureter, bladder) area shows a typical stag-horn calculus of the right kidney.\nPlain x-ray pelvis Figure 74.5b.\nThis plain x-ray of pelvis shows a stone in the urinary bladder.\n\n6. Renal angiogram, Figure 74.6\nThis is a left renal angiogram showing a large vascular renal cell carcinoma. As an investigation this is obsolete, as a contrast-enhanced CT scan would give the same information. However, it is still carried out only when renal artery embolisation is contemplated in a very vascular tumour.\n\n7. Retrograde ureterogram, Figure 74.7\nThis is a left retrograde ureterogram showing cystoscope in place. The image shows an irregular filling defect in the upper part of the renal pelvis typical of a transitional cell carcinoma."
+        }
+    ]
+}

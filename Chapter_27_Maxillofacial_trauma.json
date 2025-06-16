@@ -1,0 +1,127 @@
+{
+    "chapter_name": "Maxillofacial trauma",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following are common features of fractures of the mandible?",
+            "options": [
+                "A Difficult intubation during general anaesthesia.",
+                "B Altered sensation of the skin overlying the angle of the mandible.",
+                "C A step deformity in the occlusal plane.",
+                "D Sublingual haematoma.",
+                "E Deviation away from the side of the fracture on mouth opening."
+            ],
+            "answer": [
+                "C",
+                "D"
+            ],
+            "explanation": "The teeth are precisely aligned and we perceive even minute changes in dental occlusion. Displaced fractures of the mandible alter this alignment and vertical discrepancies can be seen, and felt, as a step deformity. Bleeding from the site of fracture, and especially the rich lingual plexus, spreads easily in to the sublingual space, resulting in ecchymosis and haematoma.\nThe limited mouth opening seen with a fractured mandible is often due to pain rather than mechanical obstruction. Mouth opening is one predictor of difficult intubation during general anaesthesia however in these patients it can often simply be managed with analgesia. The inferior dental (ID) nerve supplies sensation to the lip, chin and mandibular gingivae and teeth. It courses through the mandible from the mandibular foramen to the mental foramen in the ID canal. Injury results in loss of, or altered, sensation. By contrast, the skin overlying the angle of the mandible is supplied by the great auricular nerve, which is rarely involved. Mandibular displacement is typically toward the side of fracture as a result of the loss of resistance to muscle tension."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "2. Which of the following are signs of retrobulbar haemorrhage?",
+            "options": [
+                "A Enophthalmos",
+                "B Pain",
+                "C Decreasing visual acuity",
+                "D Normal afferent pupillary reflex",
+                "E Retinal pallor"
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Retrobulbar haemorrhage can lead to acute orbital compartment syndrome. This is a surgical emergency and delay in treatment can rapidly lead to blindness in the affected eye. Visual acuity reduces, and ophthalmoplegia develops as intra-orbital pressure increases. Optic nerve nutrient vessels are compressed and later retinal artery ischaemia is seen with retinal pallor. Proptosis of the globe tensions the optic nerve and patients report severe pain. In this situation urgent decompression with lateral canthotomy and then, if necessary, cantholysis is indicated. Medical management alone (with steroid, mannitol and acetazolamide) is not sufficiently rapid or efficacious.\nThe afferent pupillary reflex is reduced and then lost. In an intact orbit, the contents can only move anteriorly and proptosis (exophthalmos) is seen. The globe feels tense on palpation."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. Which of the following statements are true?",
+            "options": [
+                "A Le Fort I fractures pass through the nasal bones.",
+                "B Anterior open bite is a feature of zygomatic arch fractures.",
+                "C Le Fort II fractures are often displaced superiorly.",
+                "D Traumatic telecanthus in nasoethmoidal fracture is best managed by closed reduction.",
+                "E Cerebrospinal fluid rhinorrhoea may be confirmed by beta-2-transferrin assay."
+            ],
+            "answer": "E",
+            "explanation": "Beta-2-transferrin is a protein found exclusively in cerebrospinal fluid and perilymph. Levels can be assayed in suspected CSF leak yielding a diagnostic sensitivity and specificity approaching 100%, making it the gold standard investigation. The classic ‘rail track sign' is caused by the flow of CSF preventing blood clotting centrally bordered by ‘tracks' of clotted blood.\nLe Fort I fractures, the lowest level, pass through the nasal piriform aperture, the walls of the maxillary sinus and low through the pterygoid plates. Le Fort II fractures pass through the nasal bridge, infero-medial orbital floor, inferior orbital rim, through the maxillary sinus walls and to the superior part of the pterygoid plates. Le Fort III fractures, the highest level, separate the facial skeleton from the skull base. The fracture also passes through the nasal bridge but continues through the medial, inferior and lateral orbital walls, zygomatico-frontal suture, zygomatic arch and pterygoid plates superiorly.\nZygomatic arch fractures, by themselves, do not alter the dental occlusal relationship. Lateral excursion of the mandible can be restricted by impingement of the coronoid process and temporalis muscle. Le Fort fractures often displace posteriorly and inferiorly as they are forced along the downward sloping skull base. The posterior teeth will then come into contact first, giving the classic sign of an anterior open bite with intact mandible.\nNaso-ethmoidal fractures often comminute and are difficult to treat. The nasal bridge is depressed and nasal tip upturned. Telecanthus is seen when the anterior and posterior limbs of the medial canthal ligament are disrupted. Open reduction and fixation of the fractures, and reattachment of the ligament, are indicated."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "4. Which of the following are true in major maxillofacial trauma?",
+            "options": [
+                "A Airway obstruction may be delayed.",
+                "B Chin lift should not be attempted in bilateral mandibular condylar fractures.",
+                "C Mid facial haemorrhage may be life threatening.",
+                "D Cervical spine fracture is common.",
+                "E Patients transferred in the supine position are at increased risk of airway compromise."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "E"
+            ],
+            "explanation": "Maxillofacial fractures induce a marked inflammatory response and significant oedema may develop within 60–90 minutes; a cause of delayed airway obstruction. Patients should be observed closely and might need early intubation or a surgical definitive airway. Hypovolaemic shock from maxillofacial haemorrhage alone is uncommon, and other sources of bleeding should always be assessed. Mid-facial haemorrhage can be difficult to control, particularly with mobile fractures. In the supine position a patient may not be able to protect his or her own airway. Placed semi-prone, blood and saliva can drain out of the mouth and the tongue will fall forward. Whilst cervical spine fracture is uncommon, the cervical spine should always be protected until fracture is excluded.\nThere are four pairs of intrinsic tongue muscles. Genioglossus is attached to the superior genial tubercle on the lingual surface of the anterior part of the mandible, and contraction protrudes the tongue. Displaced bilateral mandibular fractures allow the tongue to fall back, which can obstruct the airway. Chin-lift and jaw-thrust are important basic airway management techniques and are not contraindicated."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "5. In managing a patient with an avulsed tooth, which of the following are true?",
+            "options": [
+                "A Alveolar fracture is a contraindication to replantation.",
+                "B Deciduous teeth should be replanted within 60 minutes.",
+                "C Milk is a good storage medium.",
+                "D Teeth with crown fractures should not be replanted.",
+                "E Traumatic avulsion occurs in up to 3% of all traumatised teeth."
+            ],
+            "answer": [
+                "C",
+                "E"
+            ],
+            "explanation": "The key to success in the management of avulsed teeth is early replantation. Tooth roots are formed of dentine, with a surface layer of cementum. Periodontal ligament fibres are inserted into this layer and attach the root to the alveolar bone of the tooth socket. They are very susceptible to drying, so if a tooth cannot be immediately replanted it should be placed in a physiological storage medium such as milk or physiological saline. After 60 minutes, few teeth will survive. Once replanted, the tooth is splinted in place for 7 to 14 days and the patient will need ongoing dental care. The upper central incisor teeth are the most readily traumatised, and the most commonly avulsed, with peak incidence in the 7–9-year-old age group. Tooth avulsion occurs in 0.5% to 3% of dento-alveolar trauma to permanent teeth.\nFractures of the alveolus should be reduced and are not a contraindication to tooth replantation, although tooth splinting may be required for longer. Deciduous teeth are not replanted to minimise risk to the ongoing development and eruption of the permanent dentition. Most crown fractures can be restored and should not delay replantation."
+        },
+        {
+            "id": 6,
+            "question_type": "emq",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "A A 27-year-old man is hit on his left chin with an elbow during a football game. Later he is unable to bring his teeth together on the right side. There is no fracture.",
+                    "B A 19-year-old woman fell from her bicycle onto a tarmac road surface. She had abrasions to her left cheek and forehead. The wounds were irrigated with normal saline and she was discharged. She returned 2 months later with several dark patches on her facial skin.",
+                    "C A 14-year-old boy falls from a swing and sustains a blow to his face. He is knocked out for 1 minute but makes a rapid and full neurological recovery. His upper central incisors are avulsed.",
+                    "D A 38-year-old man is punched in the face during a fight. He has marked left periorbital ecchymosis and oedema and left subconjunctival haemorrhage with no posterior limit. There is palpable movement at the left frontozygomatic suture.",
+                    "E A 24-year-old man is stabbed in the face and sustains a deep wound extending from his right medial lower eyelid to his mid cheek.",
+                    "F A 57-year-old woman is kicked by her horse. She has a large central forehead haematoma and CSF rhinorrhea.",
+                    "G A 12-year-old boy is hit in his left eye with a ball. There is minimal soft tissue injury and no palpable deformity. Eye movement is painful and restricted on upward gaze.",
+                    "H A 48-year-old man falls 2 meters from scaffolding onto a flat paved surface. He presents with significant right facial ecchymosis and oedema, loss of vision in his right eye, ptosis and ophthalmoplegia. CT scanning shows a comminuted fracture of the lateral orbital wall and sphenoid bone."
+                ],
+                "choices": [
+                    "1 Aspiration of foreign body",
+                    "2 Blow out fracture",
+                    "3 Epiphora",
+                    "4 Frontal sinus fracture",
+                    "5 Haemarthrosis",
+                    "6 Tattooing",
+                    "7 Orbital apex syndrome",
+                    "8 Zygomatic fracture"
+                ]
+            },
+            "answer": {
+                "A": "5",
+                "B": "6",
+                "C": "1",
+                "D": "8",
+                "E": "3",
+                "F": "4",
+                "G": "2",
+                "H": "7"
+            },
+            "explanation": "1. C Aspiration of foreign body\nAvulsed teeth can be aspirated, particularly in children or when there is loss of consciousness. The aspiration may cause an immediate threat to life with airway compromise or initially go unrecognised. Chest radiography is indicated if teeth are unaccounted for. The main bronchial angles show good symmetry up to the age of 15. It is only later that the right main bronchus becomes more vertical and hence the predominant side of aspiration. If left in situ, obstructive pneumonitis and abscess formation may develop so aspirated teeth should always be retrieved; this is often possible with a bronchoscope.\n2. G Blow out fracture\nThe orbital floor is formed by the orbital plates of three bones – maxilla, palatine and zygoma. It is the most commonly fractured wall. Most orbital floor fractures in adults can be managed electively, whereas in children they are a surgical emergency. Soft tissue herniating through the classic narrow trap door greenstick fracture becomes incarcerated, and ischaemia can rapidly progress to necrosis. Permanent ocular motility restriction can ensue, especially if extra ocular muscles are involved. Subconjunctival haemorrhage is often not seen, hence the ‘white eye', while the restricted upward gaze causes diplopia. The oculovagal reflex can be stimulated by traction on the extra ocular muscles or pressure on the globe. Afferent signals are transmitted via the ophthalmic division of the trigeminal nerve to the motor nucleus of the vagus nerve. Vagal cardiac stimulation leads to bradycardia and hypotension, which can, ultimately, lead to cardiac arrest. General malaise, nausea and vomiting are seen, and can be mistaken for signs of head injury, delaying diagnosis and treatment. A high index of clinical suspicion should prompt CT scanning of, or to include, the orbits and orthoptic assessment.\n3. E Epiphora\nThe drainage apparatus of the eye consists of the lacrimal puncta (which can be seen on the lid margin about 6 mm lateral to the medial angle of the eye), canaliculi, lacrimal sac and nasolacrimal duct, which opens into the inferior meatus of the nose. This intricate system can be disrupted by direct injury, such as the incised wound here, or indirectly by fracture displacement. Compromised drainage leads to epiphora, and it is important to recognise this as delayed repair is complex. Surgical management depends on the site of injury and includes stenting and dacryocystorhinostomy.\n4. F Frontal sinus fracture\nThe frontal sinus is related to the skull vault and skull base. The posterior wall separates the sinus from the anterior cranial fossa, and the floor is continuous with the naso-ethmoidal complex. The anterior wall is stronger than the posterior wall but resists direct impact poorly. If fractured in isolation the only indication for surgery is cosmesis. The key to managing posterior wall fractures is prevention of complications, which can be life threatening and delayed. These include sinusitis, mucocele, mucopyocele, osteomyelitis, meningitis and cerebral abscess. Dural tear causes CSF leak. Displaced posterior wall fractures are treated by cranialisation of the sinus and dural repair. Floor fractures can be left untreated, and repair of the frontonasal duct is no longer considered necessary.\n5. A Haemarthrosis\nAcute force transmitted through the mandible can cause temporomandibular joint soft tissue injury with internal derangement and haemarthrosis. The increased fluid volume widens the joint space and might cause ipsilateral lateral open bite. The inflammatory response can cause joint effusion, cartilage degeneration and, later, adhesion formation and hypomobility. Treatment with nonsteroidal anti-inflammatory drugs, soft diet and physiotherapy to increase range of movement is effective and reduces the risk of TMJ ankylosis, a serious late complication.\n6. B Tattooing\nContaminated facial wounds need careful assessment and thorough exploration, cleaning and debridement. General anaesthesia might be required to achieve this. Delay in treatment increases the risk of wound infection, and progressive oedema makes accurate apposition of tissue more difficult. Road grit and other contaminants cause soft tissue tattooing, which is very difficult to remove as a secondary procedure.\n7. H Orbital apex syndrome\nThe superior orbital fissure is bounded by the greater and lesser wings of the sphenoid bone and transmits the lacrimal, frontal, trochlear, nasociliary, oculomotor and abducent nerves and ophthalmic veins. Compression of all of these structures causes superior orbital fissure syndrome (SOFS) with ophthalmoplegia, cycloplegia, mydriasis, ptosis, exophthalmos (due to impaired venous drainage) and forehead and upper eyelid sensory deficit. Incomplete SOFS is more common. In orbital apex syndrome there is additionally involvement of the optic nerve, and this has a poor prognosis. If CT scanning shows a bone fragment compressing the optic nerve, surgical exploration might be indicated.\n8. D Zygomatic fracture\nSymptoms and signs of fracture of the zygomatic complex include pain, ecchymosis, oedema, flattening of the malar process, displacement of the frontozygomatic suture, step deformity, diplopia on upward gaze, paraesthesia or anaesthesia of the infraorbital nerve, subconjunctival haemorrhage without a posterior border and limitation of mandibular range of movement."
+        }
+    ]
+}

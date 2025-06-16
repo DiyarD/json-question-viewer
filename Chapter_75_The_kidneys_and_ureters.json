@@ -1,0 +1,579 @@
+{
+    "chapter_name": "The kidneys and ureters",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?",
+            "options": [
+                "A The incidence of horseshoe kidney is one in 1000.",
+                "B A horseshoe kidney is liable to pelviureteric junction obstruction.",
+                "C Once the diagnosis of a horseshoe kidney is made the isthmus should be divided.",
+                "D Polycystic kidneys can be transmitted by either parent as an autosomal dominant trait.",
+                "E Polycystic kidneys present in childhood as renal failure."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "The incidence of horseshoe kidney is 1:1000. The two kidneys are usually fused by its isthmus at the lower pole. The two ureters pass in front of the isthmus and are therefore angulated. Diagnosis is made on ultrasound or IVU, which shows the calyces pointing medially toward the vertebral bodies (Figure 75.1). This causes pelviureteric junction obstruction with resultant inefficient drainage of urine causing stasis, inevitably the outcome being infection and stone formation. Most of the time, however, they are an incidental finding and therefore best left alone. The isthmus does not need to be divided except when operating for an abdominal aortic aneurysm (AAA). If the AAA is being repaired by endovascular method, then the horseshoe kidney can be left alone.\nPolycystic kidneys are hereditary and transmitted by either parent as an autosomal dominant trait. The condition does not manifest itself clinically before the age of 30 years and therefore does not present in childhood as renal failure."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "2. The following statements are true except:",
+            "options": [
+                "A Duplication of the renal pelvis is found in 4% and ureter in 3% of patients.",
+                "B The previoiusly mentioned abnormalities are usually incidental findings.",
+                "C Retrocaval ureter cause bilateral hydronephrosis.",
+                "D Ureterocele is a cystic enlargement of the intramural ureter.",
+                "E All ureteroceles must be treated by endoscopic diathermy incision."
+            ],
+            "answer": [
+                "C",
+                "E"
+            ],
+            "explanation": "Retrocaval or postcaval ureter only causes right-sided hydronephrosis and hydroureter. This is because the abnormality lies in the development of the inferior vena cava (IVC). The latter develops from various sources. Persistence of the posterior cardinal vein with high confluence of the right and left iliac veins or a double inferior vena cava results in retrocaval ureter. This passes behind the IVC before it emerges in front of it to pass from medial to lateral. The incidence is 1:1500. It is often an incidental finding, rarely causing symptoms from right ureteric obstruction.\nThe majority of ureteroceles are incidental findings and hence do not need surgical treatment. An ureterocele is a cystic dilatation of the lower end of the ureter, the ureteric orifice being covered by a membrane that expands and deflates as it is filled with urine, a finding seen on cystoscopy. IVU shows the typical 'adder-head' appearance. Treatment, in the form of endoscopic diathermy incision, is carried out only if there is recurrent infection, obstruction, or stone formation.\nDuplication of a renal pelvis occurs in 4% of patients, whereas the ureter is duplicated in 3%. The latter join up in the lower third of their course so that they have a single orifice in the bladder. These are incidental findings."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. Which of the following statements are true?",
+            "options": [
+                "A Haematuria following trivial injury to the kidney indicates damage to a pathological kidney.",
+                "B Closed renal injury is usually extraperitoneal.",
+                "C In closed renal injury, surgical exploration is necessary in the majority.",
+                "D Intravenous urography or contrast-enhanced computed tomography (CECT) scan should be performed urgently in suspected renal injury.",
+                "E Hypertension might be a long-term complication of renal injury."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Haematuria following trivial blunt abdominal or loin trauma indicates a pathological kidney such as congenital hydronephrosis or calculus disease. The kidney tends to get injured from a fall, blow, or crushing from a road-traffic accident. Closed renal injury is usually extraperitoneal, particularly in adults. However, in children, because they have very little extraperitoneal fat, the peritoneum, which is closely adherent to the kidney, can tear with the renal capsule and cause urine and blood to leak into the peritoneum.\nAfter resuscitation according to the ATLS protocol, an urgent IVU and contrast-enhanced CT must be carried out; this is to make sure that the contralateral kidney is normal while ascertaining the extent of damage of the injured kidney. After recovery, in the long term, hypertension due to renal fibrosis, is a complication.\nThe mainstay of management of renal injury is conservative, surgical exploration being necessary in less than one-tenth of patients with closed renal injury."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. Which of the following statements are false?",
+            "options": [
+                "A Most ureteric injuries are due to surgical trauma during pelvic surgery.",
+                "B Preoperative ureteric catheterisation helps to protect them from injury during operation.",
+                "C When recognised during operation, an injured ureter should be repaired immediately.",
+                "D When ureteric injury is diagnosed postoperatively, delayed repair is undertaken.",
+                "E Urinary fistula through an abdominal or vaginal wound indicates a damaged ureter."
+            ],
+            "answer": "D",
+            "explanation": "When ureteric injury is diagnosed postoperatively, early repair should be undertaken as delayed repair can be difficult due to fibrosis. If diagnosed at the time of injury, immediate repair is carried out. The ureter is a well-protected deep retroperitoneal tube and hence most causes of injury are iatrogenic (Table 75.1). Preoperative ureteric stenting helps to protect or instantly recognise damage should it occur during operations such as retroperitoneal lymph node dissection in testicular tumours, excision of retroperitoneal liposarcoma, or open repair of inflammatory abdominal aortic aneurysm.\nDamaged ureter manifests itself as a urinary fistula through the abdominal or vaginal wound. Sometimes loin pain and fever might be a presenting feature of an unrecognised ureteric injury. There are various methods of repair that must be undertaken by the urologist. The procedure chosen will depend upon the type of injury, time of diagnosis, and whether a segment of ureter is missing. The choices are end-to-end anastomosis with spatulation, ureteric re-implantation, Boari operation, and ileal ureteric replacement."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "5. In pelviureteric junction (PUJ) obstruction (idiopathic or congenital hydronephrosis) the following statements are true except:",
+            "options": [
+                "A The condition might be asymptomatic.",
+                "B It can be diagnosed in utero.",
+                "C Ultrasound scanning is the least invasive method of imaging.",
+                "D An intravenous urogram (IVU) is the ideal imaging.",
+                "E The kidney should be preserved if it has more than 5% of renal function."
+            ],
+            "answer": [
+                "D",
+                "E"
+            ],
+            "explanation": "IVU is not the ideal imaging method. Isotope renography is the best test to establish that dilatation is caused by obstruction. It would also determine the percentage function of the kidney. DTPA labelled with technetium-99 is injected and its progress through the kidneys is monitored by a gamma camera. In hydronephrosis the isotope remains in the renal pelvis and does so in spite of frusemide. A procedure to preserve the kidney is carried out when a renogram shows that there is more than 20% (not 5%) of renal function.\nHydronephrosis is defined as an aseptic dilatation of the pelvi-calyceal system from an obstruction. The condition caused by PUJ obstruction (Figure 75.2), although congenital in origin, might remain relatively asymptomatic until adulthood. Clinically the condition might present as loin pain exacerbated by excessive fluid intake. It can be diagnosed in utero by ante-natal ultrasound.\nThe operation of choice is Anderson–Hynes pyeloplasty, a procedure that can be carried out laparoscopically. Minimal-access surgical techniques such as endoscopic pyelotomy with balloon dilatation and temporary stenting are the alternative procedures."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "6. Which of the following statements are true?",
+            "options": [
+                "A The common bacteria found as a nidus for urinary stones are staphylococci, streptococci and Proteus.",
+                "B Hyperparathyroidism is found in 5% or less of those presenting with radio-opaque calculi.",
+                "C If a parathyroid adenoma is found to be the cause of renal calculi, it should be removed before treatment of the calculus.",
+                "D Pure uric acid stones are radio-opaque.",
+                "E A staghorn calculus is composed of calcium-ammonium-magnesium phosphate."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Infected urine acts as a culture medium for urinary stones. Staphylococci, streptococci, and Proteus species have the ability to split urea, causing alkaline urine that is conducive to the formation of stones. Primary hyperparathyroidism causing hypercalcaemia and hypercalciuria is found in 5% of patients who present with radio-opaque calculi. This metabolic disturbance must be excluded in patients who present with recurrent urinary calculi (see Chapter 51, dealing with section on hyperparathyroidism). If a parathyroid adenoma is found in the presence of renal calculi, it must be removed first before treating the kidney stones.\nA staghorn calculus is composed of calcium ammonium magnesium phosphate. Because of its composition it is smooth and dirty white growing in alkaline urine, is radio-opaque, and grows to occupy the entire renal pelvis. It might be asymptomatic and found incidentally. When symptomatic it might cause haematuria, infection, and renal failure in bilateral calculi.\nPure uric acid stones (hard, smooth, multiple, multifaceted) are radiolucent and show up as a filling defect on an IVU, mimicking a transitional cell carcinoma of the renal pelvis. Some might cast a faint shadow on plain x-ray by virtue of containing some calcium. Confirmation is done by a CT scan."
+        },
+        {
+            "id": 7,
+            "question_type": "msq",
+            "question": "7. Which of the following statements are false?",
+            "options": [
+                "A Renal stones are usually visible on a plain x-ray.",
+                "B The severity of pain of ureteric colic is related to the size of stone.",
+                "C Hydronephrosis or pyonephrosis with a palpable loin swelling is a common clinical presentation",
+                "D Haematuria is common.",
+                "E There are very few physical signs."
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "explanation": "The severity of ureteric colic is not related to the size of the stone. The pain is agonising, typically passing from the loin to the groin and then to the genitalia with the patient writhing and unable to find a comfortable position. The pain from a renal stone is fixed in the renal angle and hypochondrium. Haematuria, macroscopic or microscopic, is common. Physical signs are few. Hydronephrosis or pyonephrosis as a palpable loin swelling is rare. Renal stones are usually visible on a plain abdominal x-ray."
+        },
+        {
+            "id": 8,
+            "question_type": "msq",
+            "question": "8. Which of the following imaging techniques are used for urinary calculus disease?",
+            "options": [
+                "A Plain kidney, ureter and bladder (KUB) x-ray",
+                "B Spiral CT scan",
+                "C IVU",
+                "D Ultrasound (US)",
+                "E Retrograde pyelography"
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Plain radiography has a limited place as opacities from calcified mesenteric lymph nodes, gallstones, foreign bodies, phleboliths and calcified adrenal gland might cause confusion. In suspected renal stone, a lateral view is helpful. A kidney stone will be seen superimposed on the vertebral body while the others would be in front.\nSpiral CT scan is the gold standard of investigation in acute ureteric colic. IVU has a role if CT is not available. It would show delayed excretion from the affected kidney; repeated pictures at delayed intervals might show the exact site of stone in the ureter. It would also help to confirm that the opposite kidney is normal. Ultrasound is essential for treatment with extracorporeal shock wave lithotripsy (ESWL). Retrograde pyelography has no role as the information obtained from it would be available from the above methods; moreover it can introduce infection."
+        },
+        {
+            "id": 9,
+            "question_type": "msq",
+            "question": "9. The following statements are true except:",
+            "options": [
+                "A Ureteric calculi smaller than 1 cm will pass spontaneously.",
+                "B Infection in the presence of upper urinary tract obstruction due to a stone requires surgical intervention.",
+                "C Most urinary calculi can be treated by minimal-access surgical techniques.",
+                "D In bilateral renal stones, the kidney with poorer function is treated first.",
+                "E Open operations for renal stones are performed through an extraperitoneal loin approach."
+            ],
+            "answer": [
+                "A",
+                "D"
+            ],
+            "explanation": "Ureteric calculi smaller than 0.5 cm will pass spontaneously, larger stones requiring surgical intervention (Figures 75.3a and b). Presence of infection in an obstructed upper urinary tract requires urgent surgical intervention under antibiotic cover. In bilateral renal stones, the kidney with better function is treated first. The exception is that the kidney with pain or pyonephrosis is treated first by decompression through a nephrostomy.\nThe vast majority of stones in the genito-urinary tract are treated by minimal access surgery. Stone in the renal pelvis is removed by percutaneous nephrolithotomy. A cannula is placed in the renal pelvis; a balloon catheter is passed to stop stone fragments migrating into the ureter. The stone is then fragmented by contact lithotripsy; the fragments are then removed by forceps or washed out. Finally a nephrostogram is done to make sure of the integrity of the renal pelvis.\nWhen extracorporeal shockwave lithotripsy (ESWL) is used, preliminary ureteric stent is placed to prevent ureteric obstruction from stone fragments (‘steinstrasse' = stone street). The patient is then given ESWL, the number of sessions depending upon the size of the stone. In the rare instance when an open procedure is to be done, the approach is extraperitoneal through the loin."
+        },
+        {
+            "id": 10,
+            "question_type": "msq",
+            "question": "10. Which of the following statements are true in ureteric stones?",
+            "options": [
+                "A The majority pass spontaneously.",
+                "B If a stone has not passed after 6 weeks, intervention is required.",
+                "C Stones are commonly arrested at the two sites of ureteric narrowing.",
+                "D Most stones are treated by ureteroscopic electrohydraulic fragmentation.",
+                "E Severe renal pain subsiding after a day or two suggests that the stone has passed."
+            ],
+            "answer": [
+                "A",
+                "D"
+            ],
+            "explanation": "The vast majority of ureteric stones pass spontaneously as they are <5 mm in diameter. Stones that require surgical intervention (those > 5mm or presence of infection) are treated by minimal access surgical methods in the vast majority. The most common method is electrohydraulic fragmentation, washout +/– stent insertion through an ureteroscope.\nIf obstruction from a ureteric stone persists after 1 or 2 weeks (Figure 75.4), the stone should be removed; one should never wait for 6 weeks because it might cause renal atrophy and loss of function. In the ureter, stones are commonly arrested at one of the folowing five (not two) anatomical sites of narrowing: pelviureteric junction, crossing of the iliac vessels, proximity of vas deferens or broad ligament, entrance to the bladder wall, and ureteric orifice. Severe renal pain subsiding after 1 day or so is a sinister symptom and denotes complete ureteric obstruction, a situation that requires immediate decompression by percutaneous nephrostomy followed by definitive treatment."
+        },
+        {
+            "id": 11,
+            "question_type": "msq",
+            "question": "11. The following statements are true except:",
+            "options": [
+                "A Ascending infection in the urinary tract is the most common route.",
+                "B E. coli and other Gram-negative organisms are most commonly responsible.",
+                "C Proteus and staphylococci thrive in acidic urine.",
+                "D Up to 50% of children with urinary infection have an underlying abnormality.",
+                "E All patients present electively with dysuria and frequency of micturition."
+            ],
+            "answer": [
+                "C",
+                "E"
+            ],
+            "explanation": "Proteus and staphylococci thrive in alkaline urine. They are urea-splitting organisms and form ammonia, which makes the urine alkaline, predisposing to stone formation. E. coli and other Gram-negative organisms are commonly responsible for kidney infections. In E. coli and streptococcal infections the urine is acidic.\nPatients might present either as an emergency with acute pyelonephritis or electively as chronic pyelonephritis. Acute pyelonephritis is more common in females at all ages and presents with lassitude, nausea and vomiting, loin pain with rigors and high temperature and scalding micturition. Septicaemia might occur. The elective patient with chronic pyelonephritis is usually a woman who presents with dull lumbar non-specific pain and generally feeling unwell over a period of time.\nThe most common route is ascending infection. When it occurs in children, 50% have an underlying abnormality such as vesicoureteric reflux or obstruction. In 35% of them vesicoureteric reflux is the cause and in extreme cases reflux nephropathy might result in end-stage renal failure."
+        },
+        {
+            "id": 12,
+            "question_type": "msq",
+            "question": "12. Which of the following statements are true?",
+            "options": [
+                "A Sterile pyuria should alert one to the possibility of renal tuberculosis.",
+                "B Chronic pyelonephritis is often associated with vesicoureteric reflux.",
+                "C Pyonephrosis is an infected hydronephrosis and is most commonly due to a stone-causing obstruction.",
+                "D Renal carbuncle is most commonly seen in the immunocompromised.",
+                "E Perinephric abscess might occur from extension of a retrocaecal appendix abscess."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Sterile pyuria, when there are abundant white cells in the urine without any growth of organisms, is typical in renal tuberculosis. Frequency of micturition is often the only symptom; suprapubic pain might be present with minimal loin ache. Haematuria might occur in a minority. The diagnosis should be suspected when symptoms of cystitis persist in spite of prolonged antibiotic therapy. Other clinical features of TB should be sought.\nVesico-ureteric reflux is often the cause of chronic pyelonephritis that results in renal scarring in the long term ultimately causing end-stage renal failure. Pyonephrosis is infected hydronephrosis and is caused by a stone obstructing the ureter. This is a surgical emergency. The patient should be resuscitated, started on antibiotics and the diagnosis confirmed by US. The renal pelvis is drained by a nephrostomy. Once the patient has recovered, the function of the kidney is determined and appropriate definitive treatment instituted.\nRenal carbuncle is an abscess within the renal parenchyma that results from blood-borne infection. It is commonly seen in the immunocompromised—diabetic, drug abusers, chronic debilitating diseases, and acquired immunodeficiency. The patient has an ill-defined tender loin swelling. Diagnosis is confirmed by US or CT scan. The abscess is drained by open surgery, as the pus is usually too thick for percutaneous aspiration.\nPerinephric abscess might result from a retrocaecal appendix abscess, extension from a cortical abscess or by haematogenous spread. The patient presents as a surgical emergency with swinging pyrexia and tender loin mass. The diagnosis is confirmed by US or CT scan. The patient is treated by open incision and drainage."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "13. Which of the following statements about Wilms' tumour is false?",
+            "options": [
+                "A It is a tumour of embryonic nephrogenic tissue occurring below the age of 5 years.",
+                "B Haematuria and fever are the most common presentations.",
+                "C Lymphatic spread is rare.",
+                "D Imaging modalities are US, CT and MRI.",
+                "E Treatment is by chemotherapy, surgery and radiotherapy."
+            ],
+            "answer": "B",
+            "explanation": "The most common presentation is an abdominal mass noticed by the mother when bathing the child. Haematuria is a late symptom and denotes extension of the tumour into the renal pelvis and therefore a poor prognosis. Pyrexia is another late presentation. Failure to thrive is often noticed by the parents. Besides a lump, on examination there might be hemi-hypertrophy of the body and absence of the iris.\nOnce suspected, the patient should be referred to the paediatric surgeon with special interest in oncology. An IVU should be done to make sure that the other kidney is normal. This is followed by staging of the tumour by US, CT scan, MRI, and CXR. Depending upon the staging the management is discussed in a multidisciplinary team meeting followed by treatment that would consist of a combination of surgery, chemotherapy, and radiotherapy. The exact order of the modalities of treatment depends upon the staging."
+        },
+        {
+            "id": 14,
+            "question_type": "msq",
+            "question": "14. Which of the following statements are true about hypernephroma?",
+            "options": [
+                "A In 25% of patients there are no local symptoms.",
+                "B A left-sided varicocele might be a presenting feature in a male.",
+                "C Haematuria and clot colic are the most common presentations.",
+                "D IVU, US and CECT are the imaging methods of choice.",
+                "E Following nephrectomy, chemotherapy and radiotherapy should be given."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "One in four patients presents with features of secondaries such as bone pain, pathological fracture, or haemoptysis. A left-sided varicocele of recent onset in the male patient might indicate a renal cell carcinoma. This is because growth has extended along the left renal vein obstructing the left testicular vein. Therefore, any middle-aged patient presenting with a recent left-sided varicocele should have the left renal area felt and investigated for a space-occupying lesion.\nHaematuria and clot colic are the most common clinical symptoms, the clots are often worm-like taking the shape of the ureter. The disease is staged by IVU, US, and CECT and management discussed in a multidisciplinary team meeting.\nChemotherapy and radiotherapy have no role in adjuvant treatment. The cytokine interleukin-2 has had some encouraging outcomes."
+        },
+        {
+            "id": 15,
+            "question_type": "emq",
+            "question": "A 40-year-old man has come to A&E complaining of a sudden onset of very severe pain in his left loin of 4 hours duration, radiating to the front of the lumbar area and groin and the left testis. He has vomited a couple of times and has urinary frequency. On examination he is writhing in pain and cannot find a comfortable position.",
+            "options": {
+                "items": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "choices": [
+                    "Carcinoma of kidney",
+                    "Carcinoma of ureter",
+                    "Congenital hydronephrosis",
+                    "Horse-shoe kidney",
+                    "Pyonephrosis",
+                    "Staghorn calculus",
+                    "Transitional cell carcinoma (TCC) of renal pelvis",
+                    "Trauma to kidney",
+                    "Ureteric calculus",
+                    "Wilm's tumour"
+                ]
+            },
+            "answer": "9",
+            "explanation": "9. A Ureteric calculus\nThis patient has typical ureteric colic, which is one of the most painful conditions ever. He needs immediate analgesia with intravenous morphine, which is subsequently supplemented with diclofenac and indomethacin suppositories. Confirmation of the diagnosis is made by spiral CT scan. If this is not readily available, a limited IVU with delayed films will give the exact site and size of the stone. In the vast majority expectant treatment with analgesia suffices. If the stone is >5 mm, then surgical intervention will be required. The overall management is shown in Figures 75.3a and b."
+        },
+        {
+            "id": 16,
+            "question_type": "emq",
+            "question": "A 60-year-old man complains of haematuria associated with pain in his left loin radiating to the lower abdomen for about 2 months. He passes clots that are ‘worm-like'. On examination he has an enlarged left kidney, and scrotal examination reveals a varicocele of which he was unaware.",
+            "options": {
+                "items": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "choices": [
+                    "Carcinoma of kidney",
+                    "Carcinoma of ureter",
+                    "Congenital hydronephrosis",
+                    "Horse-shoe kidney",
+                    "Pyonephrosis",
+                    "Staghorn calculus",
+                    "Transitional cell carcinoma (TCC) of renal pelvis",
+                    "Trauma to kidney",
+                    "Ureteric calculus",
+                    "Wilm's tumour"
+                ]
+            },
+            "answer": "1",
+            "explanation": "1. B Hypernephroma (Grawitz's tumour, clear cell, or adenocarcinoma of kidney)\nThis male patient has the classical presentation of a left hypernephroma: haematuria, loin pain and clot colic and an enlarged kidney. He also has a left varicocele caused by growth extending into the left renal vein, obstructing the entry of left testicular vein. The atypical presentations are the following: hypertension of recent onset, polycythaemia, pyrexia of unknown origin, and features of anaemia and nephrotic syndrome. Symptoms from secondaries might be the presenting features in 25% of patients, including haemoptysis from lung secondaries, bone pain, or pathological fracture from skeletal secondaries that are typically very vascular and cause a hot pulsatile swelling with throbbing pain in a long bone. He needs an IVU (Figure 75.5), which would show calyceal splaying, irregular excretion of contrast with soft-tissue shadow. Staging is done by CECT and a chest x-ray (CXR). The CT scan might show invasion of the renal vein and inferior vena cava with growth. Selective renal angiogram (Figure 75.6) is an investigation rarely done nowadays; however, it is carried out when embolisation is contemplated in very large growths and in small growths or in a solitary kidney where partial nephrectomy is considered. Macroscopically the cancer is yellowish in colour (because of lipid content), with cystic areas and lobules with haemorrhage and necrosis (Figure 75.7). Microscopically it is a clear cell carcinoma due to abundant lipid and glycogen. It spreads to the hilar lymph nodes and has a propensity to spread by bloodstream to lungs and bone."
+        },
+        {
+            "id": 17,
+            "question_type": "emq",
+            "question": "A 45-year-old female patient complains of nagging pain in her right loin and urinary frequency for several months. On examination she has tenderness in her loin over the kidney. Urine examination shows red blood cells and a growth of Proteus and staphylococci.",
+            "options": {
+                "items": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "choices": [
+                    "Carcinoma of kidney",
+                    "Carcinoma of ureter",
+                    "Congenital hydronephrosis",
+                    "Horse-shoe kidney",
+                    "Pyonephrosis",
+                    "Staghorn calculus",
+                    "Transitional cell carcinoma (TCC) of renal pelvis",
+                    "Trauma to kidney",
+                    "Ureteric calculus",
+                    "Wilm's tumour"
+                ]
+            },
+            "answer": "6",
+            "explanation": "6. C Staghorn calculus\nThis patient with nagging pain in her right loin and urinary frequency has symptoms suggestive of a kidney stone. The growth of urea-splitting organisms of Proteus and staphylococci indicate alkaline urine, which is conducive to the formation of phosphate calculi (Figure 75.11). An IVU is carried out to assess the function of the opposite kidney. An isotope renogram would be appropriate to see the amount of function in the affected kidney. If the function is good enough to preserve the kidney then the stone is treated by minimal access surgical techniques.\nAs the stone is quite large, this will need to be treated by a combination of percutaneous nephrolithotomy (PCNL) and extracorporeal shockwave lithotripsy (ESWL). Under general anaesthetic, a track is made under US guidance through the loin into the renal pelvis and the stone shattered by ultrasound. Stone fragments are removed by PCNL thereby de-bulking the stone. The parts of the stone that cannot be removed are then treated by ESWL in due course as an outpatient procedure. A ureteric stent is inserted prior to starting ESWL to prevent ureteric obstruction."
+        },
+        {
+            "id": 18,
+            "question_type": "emq",
+            "question": "A fit 20-year-old young man had a game of rugby, following which he passed frank blood in his urine in the changing room. He felt some discomfort in his left loin. After returning home, his haematuria became worse and he noticed some fullness in his left loin. He then came to A&E. His blood pressure was 110/60 mmHg, his pulse was 110/minute and he had fullness in his left loin.",
+            "options": {
+                "items": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "choices": [
+                    "Carcinoma of kidney",
+                    "Carcinoma of ureter",
+                    "Congenital hydronephrosis",
+                    "Horse-shoe kidney",
+                    "Pyonephrosis",
+                    "Staghorn calculus",
+                    "Transitional cell carcinoma (TCC) of renal pelvis",
+                    "Trauma to kidney",
+                    "Ureteric calculus",
+                    "Wilm's tumour"
+                ]
+            },
+            "answer": "3",
+            "explanation": "3. D Congenital hydronephrosis\nThis 20-year-old man developed haematuria following minor trauma while playing rugby. He was completely unaware of the trauma and surprised to have haematuria. He did notice some left loin discomfort. Haematuria following minor trauma occurs typically in a pathological kidney. In a fit young man this would be a congenital hydronephrosis (sometimes called idiopathic hydronephrosis) from a pelvi-ureteric junction (PUJ) obstruction that has ruptured with urinary extravasation, the cause of fullness in his left loin.\nThis patient needs resuscitation, although he is probably stable from the cardiovascular point of view but for his tachycardia. He needs an IVU to make sure that the other kidney is normal; it will also show urinary extravasation. A CECT is also done to accurately assess the damage. This should be followed by urgent exploration and possible Anderson–Hynes operation."
+        },
+        {
+            "id": 19,
+            "question_type": "emq",
+            "question": "A 60-year-old female patient was seen as an emergency with high temperature, rigors, and pain in her right loin. She had a blood pressure of 160/70 mmHg, bounding pulse of 90/minute, and extreme tenderness in her right loin.",
+            "options": {
+                "items": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "choices": [
+                    "Carcinoma of kidney",
+                    "Carcinoma of ureter",
+                    "Congenital hydronephrosis",
+                    "Horse-shoe kidney",
+                    "Pyonephrosis",
+                    "Staghorn calculus",
+                    "Transitional cell carcinoma (TCC) of renal pelvis",
+                    "Trauma to kidney",
+                    "Ureteric calculus",
+                    "Wilm's tumour"
+                ]
+            },
+            "answer": "5",
+            "explanation": "5. E Pyonephrosis\nThis woman has all the features of septicaemia, which include shock and hyperdynamic circulation (large pulse pressure) and bounding pulse. Marked loin tenderness points to a diagnosis of pyonephrosis. She needs urgent resuscitation with intravenous fluids, oxygen, and bloods sent for cultures, haematology, and biochemistry. The appropriate antibiotics are started and the diagnosis confirmed.\nAn urgent IVU is carried out to make sure that the other kidney is normal; the affected kidney will be seen to be non-functioning. Once stabilised, further imaging is done by US and CECT. During imaging, the interventional radiologist would insert a nephrostomy under image guidance. In a few days the patient would recover. An ante-grade pyelogram is done to find out the cause such as a stone. Once the cause is determined, the patient is appropriately treated.\nIf the kidney function is in doubt, an isotope renogram is performed to assess the exact amount of functioning renal tissue. If this found to be minimal, a subcapsular nephrectomy (Figure 75.10) is carried out as a definitive procedure."
+        },
+        {
+            "id": 20,
+            "question_type": "emq",
+            "question": "A 62-year-old man complains of left loin ache with intermittent painless haematuria in the form of clots, occasional high temperature and rigors, some dysuria, and frequency for 6 months. An IVU shows an irregular filling defect in the lower one-third of the left ureter. There is nothing to find on clinical examination. His Hb is 10.2 gm/dL.",
+            "options": {
+                "items": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "choices": [
+                    "Carcinoma of kidney",
+                    "Carcinoma of ureter",
+                    "Congenital hydronephrosis",
+                    "Horse-shoe kidney",
+                    "Pyonephrosis",
+                    "Staghorn calculus",
+                    "Transitional cell carcinoma (TCC) of renal pelvis",
+                    "Trauma to kidney",
+                    "Ureteric calculus",
+                    "Wilm's tumour"
+                ]
+            },
+            "answer": "2",
+            "explanation": "2. F Carcinoma of ureter\nThis patient has macroscopic haematuria with attacks of bacteraemia from UTI. The IVU (Figure 75.8) shows an irregular filling defect in the lower one-third of left ureter, producing back pressure accounting for his left loin ache. This is a transitional cell carcinoma (TCC) of the ureter.\nHe needs staging by CT scan and CXR. A cystoscopy should follow to exclude a TCC in the bladder. The treatment is nephrourterectomy with excision of a cuff of the urinary bladder. The patient should have regular check cystoscopies thereafter to look for recurrence within the urinary bladder."
+        },
+        {
+            "id": 21,
+            "question_type": "emq",
+            "question": "A 35-year-old woman presents with recurrent attacks of urinary tract infection. On every occasion this was successfully treated with antibiotics. In view of several such episodes in the past, she underwent an IVU, which showed the renal calyces to be pointing toward the vertebrae.",
+            "options": {
+                "items": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "choices": [
+                    "Carcinoma of kidney",
+                    "Carcinoma of ureter",
+                    "Congenital hydronephrosis",
+                    "Horse-shoe kidney",
+                    "Pyonephrosis",
+                    "Staghorn calculus",
+                    "Transitional cell carcinoma (TCC) of renal pelvis",
+                    "Trauma to kidney",
+                    "Ureteric calculus",
+                    "Wilm's tumour"
+                ]
+            },
+            "answer": "4",
+            "explanation": "4. G Horseshoe kidney\nThis young woman has had recurrent attacks of UTI successfully treated on each occasion with antibiotics. In view of recurrent attacks, an IVU was carried out that showed the typical features of a horseshoe kidney with the calyces facing medially toward the vertebrae, the appearance often likened to a ‘flower vase' (Figure 75.1).\nPatients with horseshoe kidney (incidence 1:1000) are often found incidentally when an ultrasound has been done for some other purpose. If they produce symptoms it is due to infections and stone formation. This is because the pelves and ureters have to travel over the isthmus as a result of which there is stasis. The condition very rarely needs an operation."
+        },
+        {
+            "id": 22,
+            "question_type": "emq",
+            "question": "A male child of 3 years has been brought by his mother, who noticed while bathing him that the right side of his abdomen felt larger than the left and was asymmetrical; she thought that there was probably a lump in his abdomen.",
+            "options": {
+                "items": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "choices": [
+                    "Carcinoma of kidney",
+                    "Carcinoma of ureter",
+                    "Congenital hydronephrosis",
+                    "Horse-shoe kidney",
+                    "Pyonephrosis",
+                    "Staghorn calculus",
+                    "Transitional cell carcinoma (TCC) of renal pelvis",
+                    "Trauma to kidney",
+                    "Ureteric calculus",
+                    "Wilm's tumour"
+                ]
+            },
+            "answer": "10",
+            "explanation": "10. H Wilms' tumour\nThis young boy has been brought by his parents with features of an abdominal mass. With a suspicion of a Wilms' tumour, one should look for absence of the iris (aniridia) and hemihypertrophy of the body – features that are sometimes associated with this condition. Haematuria is a sinister symptom as it denotes that the growth has invaded the renal pelvis.\nOccurring in 1 in 10,000 this is the most common solid tumour in children and 85% of paediatric renal neoplasms. The tumour resembles normal foetal renal tissue and consists of undifferentiated blastema, immature stroma, and immature epithelial elements (Figure 75.16).\nAn IVU will show irregular calyceal splaying within a soft tissue mass besides confirming a normal opposite kidney (Figures 75.17a and b). The tumour can be bilateral in 5%. It is staged by CT scan and MRI (Stages 1 to 5). Management consists of chemotherapy, radiotherapy, and surgery, and must be managed in a paediatric oncology unit."
+        },
+        {
+            "id": 23,
+            "question_type": "emq",
+            "question": "A 10-year-old boy has been brought in as an emergency by his parents as they noticed that he had bright red haematuria for the past 24 hours or so. About 6 hours prior to that he was climbing a tree and accidentally fell on his left side.",
+            "options": {
+                "items": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "choices": [
+                    "Carcinoma of kidney",
+                    "Carcinoma of ureter",
+                    "Congenital hydronephrosis",
+                    "Horse-shoe kidney",
+                    "Pyonephrosis",
+                    "Staghorn calculus",
+                    "Transitional cell carcinoma (TCC) of renal pelvis",
+                    "Trauma to kidney",
+                    "Ureteric calculus",
+                    "Wilm's tumour"
+                ]
+            },
+            "answer": "8",
+            "explanation": "8. I Trauma to kidney\nThis young boy has had a blunt injury to his left kidney, the cardinal feature of presentation being haematuria. He should be resuscitated with intravenous access and oxygen is administered through a mask, while his airway is expected to be normal. His kidney damage should be assessed by a limited IVU so as to minimise the radiation. The IVU (Figure 75.15) is primarily to make sure that the other kidney is normal while also showing the extent of damage and urinary extravasation. An US is done to see the size of the perirenal haematoma.\nTreatment is conservative and expectant. Every time the patient passes urine, a specimen is saved and the time noted. This serial inspection of urine passed will determine if the haematuria is getting less. The vast majority settle down. A repeat US is done before discharge to make sure that the haematoma, which is naturally contained in the retroperitoneum is receding in size."
+        },
+        {
+            "id": 24,
+            "question_type": "emq",
+            "question": "A 72-year-old woman complains of intermittent haematuria associated with a dull ache in her left loin. She has some dysuria and urine specimen showed E. coli infection. She has no physical findings. An IVU showed a persistent irregular filling defect in the left renal pelvis.",
+            "options": {
+                "items": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "choices": [
+                    "Carcinoma of kidney",
+                    "Carcinoma of ureter",
+                    "Congenital hydronephrosis",
+                    "Horse-shoe kidney",
+                    "Pyonephrosis",
+                    "Staghorn calculus",
+                    "Transitional cell carcinoma (TCC) of renal pelvis",
+                    "Trauma to kidney",
+                    "Ureteric calculus",
+                    "Wilm's tumour"
+                ]
+            },
+            "answer": "7",
+            "explanation": "7. J Transitional cell carcinoma (TCC) of the renal pelvis\nThis patient presents with haematuria and UTI with dull ache in her left loin – typical presenting features of a TCC. The presence of an irregular filling defect in the left renal pelvis on IVU (Figure 75.12) strongly supports the diagnosis, which is confirmed by a CT scan; urine is sent for cytology although a negative cytology has no significance. Further confirmation can be achieved by a retrograde pyelogram (Figure 75.13).\nThe treatment is cystoscopy followed by nephroureterectomy with excision of a cuff of the urinary bladder (Figure 75.14). The operation is done extraperitoneally with two separate incisions – one through the loin for approaching the kidney and another through a lower midline incision for the lower ureter. However, this can also be approached through an oblique abdominal extraperitoneal incision, the lower end being carried out through a transurethral resection ('pluck operation'). The procedure can also be done by laparoscopically."
+        }
+    ]
+}

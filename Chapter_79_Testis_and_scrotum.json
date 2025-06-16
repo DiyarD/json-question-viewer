@@ -1,0 +1,207 @@
+{
+    "chapter_name": "Testis and scrotum",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?",
+            "options": [
+                "A The processus vaginalis accompanies the testis as it descends.",
+                "B The testis is at the deep inguinal ring by the seventh month of fetal life.",
+                "C The testicular veins drain into the inferior vena cava.",
+                "D The lymphatics of the testes drain into the para-aortic lymph nodes.",
+                "E The testicular arteries arise from the abdominal aorta."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "The processus vaginalis is a sac of peritoneum that accompanies the testis as it proceeds down the inguinal canal. By the seventh month of fetal life the testis is at the level of the deep inguinal ring from where it progresses rapidly into the scrotum by the time of birth when it projects into the processus vaginalis which normally gets obliterated. Persistence of the processus vaginalis in whole or in part when continuous with the peritoneal cavity results in a hernia. Persistence of an intervening segment of the processus leads to an encysted hydrocele of the cord. Accumulation of serous fluid constitutes a hydrocele.\nThe lymphatics of the testes drain to the para-aortic nodes lying alongside the aorta at the origin of the testicular arteries, which arise from the abdominal aorta at the level of T10 vertebrae. Hence lymphatic spread from a testicular tumour will from a periumbilical mass.\nBoth testicular veins do not drain into the inferior vena cava (IVC); the right vein drains into the IVC at an acute angle whereas the left vein drains into the left renal vein at a right angle. This fact is clinically important because a recent varicocele in a middle-aged patient should arouse suspicion of a left renal carcinoma that has locally spread along the renal vein obstructing the testicular vein."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "2. The following statements are true except:",
+            "options": [
+                "A The incidence is 4%.",
+                "B A testis absent from the scrotum after 3 months is unlikely to descend.",
+                "C An incompletely descended testis tends to atrophy as puberty approaches.",
+                "D Retractile testis is best treated by orchidopexy.",
+                "E Orchidopexy reduces the chances of developing a testicular tumour."
+            ],
+            "answer": [
+                "D",
+                "E"
+            ],
+            "explanation": "Retractile testis require no treatment. An incompletely descended testis has a much greater chance of developing a tumour in later life. Correcting the abnormality by orchidopexy does not reduce the incidence of a tumour but greatly enhances the chances of early detection. This is because young men will notice changes in the size, weight and feel of a testis much more readily when it is in the scrotum.\nIncomplete descent, so called when it is arrested in its normal path to the scrotum, occurs in 4%. If an undescended testis (UDT) has not come down to the scrotum within 3 months of birth, it is unlikely to do so thereafter. As puberty approaches an UDT will atrophy. While early orchidopexy is regarded to help preserve function, evidence to show that this benefits fertility is lacking. However, in UDT from the age of 1 to 2 years, there is loss of Leydig cells, degeneration of Sertoli cells and reduced spermatogenesis."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. The hazards of incomplete descent of testis are the following:",
+            "options": [
+                "A Impaired fertility",
+                "B Hernia",
+                "C Torsion",
+                "D Increased liability to malignant change in later life",
+                "E Epididymo-orchitis"
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "There is no increased risk of epididymo-orchitis. However, should it occur in an incompletely descended testis on the right side, it can be confused with acute appendicitis. Impaired fertility is a recognised hazard of testicular maldescent. A hernia is present in 90% of cases, although most of them are not clinically apparent. There is a higher incidence of testicular torsion because of a congenital abnormality between the testis and its mesentery. The risk of testicular tumour is 5 to 10 times greater than normal, the most common tumour being a seminoma. Whether an orchidopexy in early childhood reduces the chance of developing a cancer is uncertain. However, a testis within the scrotum enhances the chances of early detection because any change in the size or weight of the testis (as happens in a testicular tumour) will be much more readily felt."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "4. Which of the following statements are true?",
+            "options": [
+                "A The typical symptom is sudden agonising pain in the scrotum.",
+                "B It is most common between 10 and 25 years of age.",
+                "C Inversion of the testis and a transverse lie are the most common causes.",
+                "D Doppler ultrasound (US) scan should be done to confirm the diagnosis",
+                "E The emergency operation of fixation of the testis to the tunica albuginea with non-absorbable sutures should be carried out on the affected side."
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "explanation": "The typical symptom in testicular torsion, most common in men between 10 and 25 years, is sudden agonising pain in the groin and suprapubic area and not the testis. The causes are anatomical abnormalities such as a rotated testis that lies transversely or upside down, high investment of the tunica vaginalis causing the testis to lie transversely like a clapper-bell and separation of the epididymis from the body of the testis and a pedicle that connects them.\nDoppler US might show lack of blood supply although false-positive results can occur. It should not be done routinely as precious time might be lost. In case of doubt, the scrotum should be explored. At operation the twisted and viable testis is untwisted and the tunica vaginalis is fixed to the tunica albugenia with interrupted unabsorbable sutures. The same procedure must be carried out in all cases on the other non-affected side, as the congenital anatomical abnormality that caused the condition in the first place is usually bilateral."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "5. Which of the following statements are false?",
+            "options": [
+                "A The usual cause is absence or incompetence of valves in the testicular vein.",
+                "B The vast majority occur on the right side.",
+                "C When it occurs on the left side it might indicate a left renal carcinoma.",
+                "D In a person with a varicocele and reduced sperm count, the latter can be improved by an operation on the varicocele.",
+                "E In symptomatic patients, the first line treatment should be embolisation."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "90% of varicoceles occur on the left side, perhaps because the left testicular vein drains at right angles into the renal vein (an orthogonal junction). There is no evidence that operating on a varicocele improves the semen quality or raises sperm count. The reason to operate on a varicocele is pain and discomfort and not subfertility.\nThe usual cause is absence or incompetence of the valves in the testicular vein. In a middle-aged man with a left-sided varicocele, particularly if it is of recent onset, his abdomen must be examined for the possibility of a left renal mass because a renal cell carcinoma might extend into the left renal vein blocking the ostium of the left testicular vein causing the varicocele. When intervention is considered for a symptomatic varicocele, the first-line treatment should be therapeutic embolisation."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. The following statements are true except:",
+            "options": [
+                "A A hydrocele is a collection of fluid within the tunica vaginalis.",
+                "B A congenital hydrocele causes an intermittent swelling.",
+                "C An acute hydrocele in a young man might be a sinister finding.",
+                "D Testicular pathology might cause a hydrocele.",
+                "E Aspiration is an effective treatment."
+            ],
+            "answer": "E",
+            "explanation": "Drainage is not an effective treatment for hydrocele. Following such treatment it recurs or might get infected. Refusal to have an operation is the indication for repeated aspiration. A congenital hydrocele is due to a patent processus vaginalis, within which is a collection of serous fluid, and usually does not need an operation. An acute hydrocele that appears within a short time might indicate an underlying testicular tumour, a sinister finding. Other testicular pathology such as acute or chronic epididymo-orchitis might cause a secondary hydrocele; it is also seen when the scrotum is explored for a testicular torsion."
+        },
+        {
+            "id": 7,
+            "question_type": "msq",
+            "question": "7. Which of the following statements are true?",
+            "options": [
+                "A The causes are Chlamydia and gonococci as sexually-transmitted infections.",
+                "B The initial symptoms are those of urinary tract infection (UTI).",
+                "C In mumps, 18% of men might develop this condition.",
+                "D It is a common postoperative complication after prostatectomy.",
+                "E Treatment is doxycycline for Chlamydia or a broad-spectrum antibiotic."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "The most common cause in sexually active young men is Chlamydia followed by gonococci. In older men the cause is UTI from BOO. As a result of outflow obstruction, infected urine from the prostatic urethra travels up the vas causing epididymitis. For those who have had a vasectomy, the infection would be blood-borne when the causative organisms are E. coli, Streptococcus, Staphylococcus and Proteus. Acute infection might occur following instrumentation such as catheterisation, cystoscopy, or urethral dilatation. The initial symptoms are dysuria and frequency followed by tender, red, swollen epididymis and testis. Ache in the groin and fever are the initial symptoms. Confirmation, if necessary, is done by ultrasound.\nTreatment is with doxacycline or a broad-spectrum antibiotic. Epididymo-orchitis is almost unknown nowadays following prostatectomy because of closed catheter drainage and prophylactic antibiotics."
+        },
+        {
+            "id": 8,
+            "question_type": "msq",
+            "question": "8. Which of the following statements are false?",
+            "options": [
+                "A A testicular lump that is inseparable from the testis is likely to be a tumour.",
+                "B Lymphatic spread is usually to the inguinal lymph nodes.",
+                "C Teratomas occur in the third decade and seminomas in the fourth decade.",
+                "D Seminomas usually spread via the lymphatics.",
+                "E Diagnosis is confirmed by US-guided fine-needle aspiration cytology (FNAC)."
+            ],
+            "answer": [
+                "B",
+                "E"
+            ],
+            "explanation": "The lymphatic drainage of the testis is alongside the blood vessels draining to the para-aortic group of lymph nodes. Metastasis to inguinal lymph nodes does not occur unless the scrotal skin is involved, which is rare. Diagnosis is confirmed by US where the homogenous tumour tissue produces multiple tumour reflections. FNAC should never be done, as it would disseminate tumour cells along the needle track. In case of any doubt about the diagnosis, frozen section during inguinal orchidectomy should be arranged.\nClinically a testicular lump that cannot be felt separately from the testis is a sinister finding and almost certainly a malignant tumour. Seminomas occur in the fourth decade of life whereas teratomas or non-seminomatous germ cell tumours (NSGCT) occur in the third decade. Seminomas predominantly spread via the lymphatics to the para-aortic nodes and hence clinically an irregular hard periumbilical mass might be felt."
+        },
+        {
+            "id": 9,
+            "question_type": "msq",
+            "question": "9. Which of the following statements are true with regard to the management of testicular tumours?",
+            "options": [
+                "A Tumour markers are measured and a chest x-ray carried out.",
+                "B Initial surgical treatment is orchidectomy through the groin.",
+                "C Staging is done by CT scan of the abdomen and chest.",
+                "D Seminomas are radiosensitive.",
+                "E Secondaries from teratoma are always treated by surgery, as they are radio-resistant."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Once a testicular tumour is diagnosed on clinical grounds, it is mandatory to measure tumour markers – beta-human chorionic gonadotrophin (B-HCG), alpha-fetoprotein (α-FP) and lactate dehydrogenase (LDH). In 30% of seminomas B-HCG is raised. In NSGCTs α-fetoprotein (AFP) is raised in 50%-70% and ẞ-HCG in 40%-60%. These tumour markers are used to reassess following orchidectomy as the half-lives of AFP and HCG are 5–7 days and 2-3 days, respectively. On confirmation by US and after a CT scan of chest, a high inguinal orchidectomy is performed through a groin incision.\nOnce orchidectomy has been performed, staging is carried out by CT scan of the abdomen and chest. Treatment is according to the stage, of which there are four (1 to 4). Early stages of seminoma (Stages 1 and 2) have excellent results following radiotherapy; later stages are treated by chemotherapy. Secondaries from NSGCT (teratoma) are not always treated by surgery. Stage 1 is monitored, whilst stages 2–4 are treated by chemotherapy. Surgery in the form of retroperitoneal lymph node dissection is only carried out if secondary lymph nodal masses are still present following chemotherapy."
+        },
+        {
+            "id": 10,
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "A A 22-year-old man complains of acute pain in the top of his left testis for 16 hours. On examination the scrotum looks normal and the testis can be felt with care without undue tenderness. There is a small, blue, pea-sized tender mass on top of the testis.",
+                    "B A 30-year-old man complains of a swollen scrotum for almost 1 year. This is not painful but recently has caused discomfort. On examination he has a tense fluctuant lump in his right scrotum where the testis cannot be felt separately. The swelling transilluminates.",
+                    "C A 45-year-old man complains of a painful left testis of 4 days' duration. This is associated with fever and rigors. He has painful micturition and considerable frequency. On examination he looks unwell, has pyrexia of 39°C and has a swollen, red, oedematous and shiny left hemiscrotum; the testis and epididymis feel indurated and tender.",
+                    "D An 18-year-old man complains of sudden onset of agonising pain in his right groin and suprapubic area of 6 hours' duration. He has no urinary symptoms. On examination he is in agony, the right testis is drawn up and the scrotum is red. The testis is impossible to feel because of pain.",
+                    "E A 25-year-old man complains of feeling heavy in his left scrotum where he noticed a lump while in the shower. A few days before, he felt a lump in the periumbilical region of his abdomen. At the same time he noticed another lump on the left side of his neck. The abdominal and neck lumps do not give him any symptoms. On questioning he admits to coughing up some blood in his sputum 1 month ago. On examination he has a 2 cm irregular lump over his left supraclavicular area and a 5-cm irregular firm lump in his umbilical region. Examination of the left testis reveals a large lump, which is hard and heavy.",
+                    "F A 50-year-old man complains of a lump in his right scrotum of 1 year's duration. This is gradually growing larger in size and gives him some discomfort. Examination of his scrotum reveals a cystic lump, about 7 cm in diameter, above and behind the left testis, which is minimally tender. Transillumination is positive and shows septa within the lump. There is a smaller similar lump on the other side of which he is unaware.",
+                    "G A 4-year-old boy has been brought by his parents to A&E with a red, swollen scrotum. On examination the child is not in any pain and there is redness and oedema around the penis and perineum.",
+                    "H A 40-year-old man presents with a swelling in his right scrotum, which he says feels like ‘a third testis'. He noticed it in the shower and is worried that he has got cancer. He has no symptoms. On examination he has a lax, cystic swelling on top of his right testis. It is not tender and transillumination is hazy.",
+                    "I A 30-year-old man presents with a swelling in his left hemiscrotum, which he discovered by chance in the bath. On examination the testis feel separate from the swelling, which is about 2 cm in diameter and above the testis. It transilluminates and comes down on traction to the testis.",
+                    "J A 45-year-old man complains of a dragging discomfort in the left side of his scrotum. He noticed an irregular lump in his scrotum separate from the testis. He thinks he has had this for many years but only recently he noticed discomfort in the lump. On examination he has a bunch of veins in the scrotum and the testis feels normal. On lying down the veins disappear. Abdominal examination in the left renal area does not show any abnormality."
+                ],
+                "choices": [
+                    "1 Acute epidydimo-orchitis",
+                    "2 Encysted hydrocele of the cord",
+                    "3 Epidydimal cyst",
+                    "4 Idiopathic oedema of the scrotum",
+                    "5 Spermatocele",
+                    "6 Testicular tumour",
+                    "7 Torsion of the hydatid of Morgagni",
+                    "8 Torsion of the testis",
+                    "9 Vaginal hydrocele",
+                    "10 Varicocele"
+                ]
+            },
+            "answer": {
+                "A": "7",
+                "B": "9",
+                "C": "1",
+                "D": "8",
+                "E": "6",
+                "F": "3",
+                "G": "4",
+                "H": "5",
+                "I": "2",
+                "J": "10"
+            },
+            "explanation": "1. C Acute epididymo-orchitis\nThis patient has acute epididymo-orchitis. In the young male it is usually the aftermath of genital infection from Chlamydia trachomatis and gonococcus. Clinically there is thickening, swelling and tenderness and swelling of the epididymis with red and shiny adherent scrotum. US will confirm the diagnosis. Urine is sent for culture and the patient is treated with doxycycline or a quinolone for 2 weeks. It can take up to 8 weeks to subside. Rarely an abscess might need draining.\n\n2. I Encysted hydrocele of the cord\nThis is a small cystic swelling felt well above the testis in line with the spermatic cord. It is the result of a part of the processus vaginalis not becoming completely obliterated where the proximal and distal parts become closed off and fibrotic and the middle part remains as a fluid-filled sac, i.e., persistence of an intervening part of the processus. It is a clinical diagnosis confirmed by the cyst moving downward and immobile when the testis is subjected to gentle traction. Usually they are small, and reassurance about their benign nature is enough. It is removed if the patient requests.\n\n3. F Epididymal cyst\nThis is a cystic degeneration of the epididymis, which is often bilateral. They are present above, behind and separate from the upper pole of the testis. Usually tense with several septa, they brilliantly transilluminate. This is a clinical diagnosis that can be confirmed by US. The treatment is excision, which might interfere with transmission of sperm from the testis on the affected side; this should be a part of informed consent.\n\n4. G Idiopathic oedema of the scrotum\nIdiopathic oedema of the scrotum, often confused for torsion, is distinguished by absence of pain or tenderness. The condition is usually bilateral affecting the perineal region and the genitalia. Allergy is regarded as the cause, which is supported by eosinophilia. No active treatment is necessary, as it subsides by itself. In case of doubt when a torsion cannot be excluded, a colour Doppler is useful to prevent an unnecessary operation in a child.\n\n5. H Spermatocele\nThis is a cystic swelling and hence exhibiting fluctuation (as all cystic swellings do). It is a retention cyst from a part of the epididymis. It lies above the epididymis behind the upper pole of the testis. Like other scrotal cystic swellings, it transilluminates but unlike them it is softer. It is not large and resembles and feels like a testis – hence, most patients complain of a 'third testicle'. On aspiration the fluid is barley-coloured because of the presence of dead spermatozoa. Confirmation, if necessary, like all scrotal swellings is by US. It is removed if the patient requests.\n\n6. E Testicular tumour\nThis young man has the hallmarks of a metastatic testicular teratoma – hard enlarged testis, abdominal and supraclavicular lumps from metastatic lymph nodes and haemoptysis from pulmonary secondaries. Testicular tumours constitute 1% to 2% of all male cancers. The vast majority (90%) complain of an enlarged testis, most of them being painless. Sometimes trauma at sport draws the attention of the patient to the presence of the lump. Heaviness of the testis and feeling a testicular lump while in the shower brings the patient to consultation. Rarely, unresolving epididymo-orchitis might be a presentation.\nExamination reveals a hard, heavy, non-tender lump. Once a tumour is suspected, repeated palpation of the lump should be desisted to prevent dissemination. It is said that testicular sensation is lost. However, eliciting such a physical finding is bad doctoring as it would encourage tumour spread. On similar grounds repeated clinical examination, for example, by medical students, should be discouraged.\nThis patient needs bloods to be sent for tumour markers, AFP (α-fetoprotein), B-HCG (B-human chorionic gonadotropin) and LDH (lactic dehydrogenase). A testicular and abdominal US and a CT scan of his chest is done. A high inguinal orchidectomy is then undertaken, followed by a repeat of the tumour markers and CT scanning of his abdomen and neck. The multidisciplinary team then discusses the patient and decides upon the treatment for his secondaries. This would be intensive chemotherapy. However, prior to starting chemotherapy, he should have sperm freezing for future. Once his chemotherapy is completed, further assessment of his secondaries is done after about 6 weeks. If they are still obvious, he is considered for retroperitoneal lymph node dissection (RPLND) and pulmonary metastasectomy.\nGerm cell tumours constitute 90%–95% of all testicular tumours. These are seminoma, teratoma (NSGCT), embryonal cell carcinoma, yolk-sac tumour and choriocarcinoma. Of these, the first two are most common. While TNM staging is the most commonly used to stage testicular tumours, the Royal Marsden staging of I to IV (Figure 79.1) is followed for treatment:\nStage I - Tumour confined to testis\nStage II - Sub-diaphragmatic involved nodes\nStage III - Supra-diaphragmatic involved nodes\nStage IV – Non-lymphatic metastatic disease (pulmonary)\nTesticular tumours are very sensitive to platinum-based chemotherapy, which has revolutionised the survival rates over the past couple of decades especially when management has been carried out in specialised cancer centres. The details of such treatment are beyond the scope of this book.\n\n7. A Torsion of the hydatid of Morgagni\nThis 22-year-old man complains of acute pain in his scrotum. On examination the testis is not tender, but there is tenderness over a small swelling at the top of the testis. The small lump, blue-black in colour, is the twisted hydatid of Morgagni, a remnant of the Mullerian duct. The symptoms, although similar to testicular torsion, is much less severe. Removal of the lump cures the condition.\n\n8. D Torsion of the testis\nThis 18-year-old male has testicular torsion. Pain, which is sudden and excruciating, starts typically in the groin and lower abdomen and the testis is pulled up. The diagnosis can be difficult to be certain. In case of doubt, immediate exploration should be carried out. It is better surgical practice to explore unnecessarily an epididymo-orchtis than to observe and miss testicular torsion resulting in a gangrenous testis.\nAlthough a colour Doppler might be helpful in excluding a torsion, the investigation is not infallible. The patient should be explored through a scrotal incision and the testis should be fixed on both sides to the tunica albuginea with non-absorbable sutures.\n\n9. B Vaginal hydrocele\nThis patient has a vaginal hydrocele (Figure 79.2) – a tense cystic swelling in his scrotum where the testis is not separately palpable and the swelling transilluminates. Typically the swelling lies in front of and surrounds the testis. It is a clinical diagnosis and can be confirmed by US if desired.\nRarely a small hydrocele might be secondary to epididymo-orchitis or a tumour. It can also occur from infestation with the filarial parasite. When treatment is asked for by the patient in primary hydroceles, the option is an operation or aspiration with injection of tetracycline as a scelrosant.\n\n10. J Varicocele\nThis patient has a left varicocele. As it is on the left side, it is important to exclude a left renal carcinoma. Rarely a tumour thrombus might spread along the left renal vein, blocking the left testicular vein causing the varicocele. Abdominal examination of the left lumbar area and loin is mandatory. In the vast majority the cause is not known and 90% occur on the left side, probably because of the termination of the left testicular vein into the left renal vein at right angles.\nThe association of a varicocele with subfertility or oligospermia is anything but proven and improvement of semen quality is not an indication for surgical intervention. Indication for intervention for a varicocele is significant discomfort. Under the circumstances embolisation of the testicular veins is the treatment of choice. If that fails, operation by an extraperitoneal route for surgical ligation of the testicular vein through an incision in the iliac fossa is undertaken. Recurrence does occur even after surgical ligation."
+        }
+    ]
+}

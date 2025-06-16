@@ -1,0 +1,112 @@
+{
+    "chapter_name": "19 Perioperative management of the high-risk surgical patient",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "msq",
+            "question": "1. Which of the following are risk factors in the revised cardiac risk index of Lee?",
+            "options": [
+                "A Morbid obesity",
+                "B Severe COPD",
+                "C Ischaemic heart disease",
+                "D Diabetes mellitus",
+                "E Renal insufficiency (creatinine >177 mmol/L)"
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Lee's risk factors are ischaemic heart disease, heart failure, cerebrovascular disease, diabetes and renal impairment. In general, if a patient is undergoing low-risk surgery or has an exercise tolerance of greater than four METS or has none of the previously mentioned risk factors, then surgery can proceed without further cardiac interventions. Patients outwith these criteria should be considered for initiation of beta blocker therapy prior to surgery and, if it would change management, invasive cardiac stress testing. These decisions should be discussed with an anaesthestist or cardiologist with an interest in preoperative care.\nWhile morbid obesity is not a risk factor in Lee's scoring system it is associated with respiratory, cardiac and metabolic disease. Patients with COPD are at risk of postoperative respiratory failure and often have cardiovascular comorbidities. Obese patients and patients with COPD often benefit from regional anaesthesia techniques."
+        },
+        {
+            "id": "2",
+            "question_type": "msq",
+            "question": "2. Regarding assessment of physical fitness, which of the following statements are true?",
+            "options": [
+                "A Patients who cannot exercise at four metabolic equivalents of task (METS) are at a significantly higher risk of mortality.",
+                "B Four METS is equivalent to climbing two flights of stairs.",
+                "C An anaerobic threshold of 15 is used as a cut-off for placing patients in a high-risk category.",
+                "D Cardiopulmonary exercise testing (CPET) involves measuring inspired and expired respiratory gases while undergoing incrementally more demanding exercise.",
+                "E CPET is quick and easy to perform."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "As discussed above, patients who cannot achieve four METS (two flights of stairs) without symptoms are significantly higher risk. A maximum exercise capacity of four METS corresponds roughly to a VO2 max of 15 mL/kg/minute. To put this in perspective an average untrained young male can exercise to around 12 METS or a VO2 max of 45 mL/kg/minute, which is equivalent to playing squash or running 8 miles per hour. World record VO2 max measurements of over 90 mL/kg/minute are generally obtained by cross-country skiers and long-distance cyclists.\nAn anaerobic threshold of 11 mL/kg/minute is generally used as an indicator of a high-risk patient. CPET testing is time consuming and requires a skilled clinician to interpret the test."
+        },
+        {
+            "id": "3",
+            "question_type": "msq",
+            "question": "3. Regarding goal-directed therapy, which of the following statements are true?",
+            "options": [
+                "A Goal-directed therapy requires estimation of the cardiac output.",
+                "B Goal-directed therapy has been shown to reduce postoperative morbidity.",
+                "C Sustained use of goal-directed therapy in patients with established critical illness is beneficial.",
+                "D Goal-directed therapy requires a pulmonary artery catheter.",
+                "E It is a term used to describe the perioperative administration of intravenous (IV) fluids and inotropic agents to achieve a predefined 'optimal' goal for oxygen delivery to the tissues."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "Tissue oxygen delivery = cardiac output (stroke volume x heart rate) x oxygen content of the blood (≈Hb g/dL x 1.34 x SpO2%).\nGoal-directed therapy relies on being able to measure cardiac output and see the response to fluid challenges and inotrope administration. Ensuring an adequate amount of well-saturated haemoglobin is also of paramount importance to allow maximum tissue oxygen delivery. Goal-directed therapy has been shown to improve outcomes in high-risk surgery, as fluid therapy can be optimally managed and inotropes started early when indicated.\nGoal-directed therapy does not require a pulmonary artery catheter; oesophageal Doppler and pulse contour analysis of the arterial pressure waveform (uncalibrated or calibrated) are less invasive options. Goal-directed therapy might be harmful to patients with established critical illness."
+        },
+        {
+            "id": "4",
+            "question_type": "msq",
+            "question": "4. Which of the following increases the risk of myocardial ischaemia?",
+            "options": [
+                "A Tachycardia",
+                "B Hypertension",
+                "C Pain",
+                "D Anaemia",
+                "E Beta blockers"
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Tachycardia, hypertension and therefore pain all increase myocardial oxygen demand and may precipitate ischaemia in patients with cardiovascular disease. Anaemia reduces myocardial oxygen delivery.\nBeta blockers reduce the heart rate and force of contraction, thus reducing myocardial oxygen demand, which is beneficial in patients with cardiac disease. They also reduce cardiac output, however, which may explain the increased mortality and stroke rate seen in the POISE trial."
+        },
+        {
+            "id": "5",
+            "question_type": "msq",
+            "question": "5. Which of the following statements about the management of high-risk patients are true?",
+            "options": [
+                "A All patients undergoing major surgery should be started on beta blockers on the day of surgery.",
+                "B Long-term beta blockers can be safely withheld on the day of surgery.",
+                "C The oesophageal Doppler accurately measures cardiac output.",
+                "D Better fluid management can reduce postoperative ileus after abdominal surgery.",
+                "E Early return to enteric feeding is associated with reduced hospital stay."
+            ],
+            "answer": [
+                "D",
+                "E"
+            ],
+            "explanation": "Excessive fluid administration has been shown to not only cause an increased incidence of ileus but also an increase in mortality. It can be challenging to judge whether a patient has received an optimal amount of fluid; CVP, urine output and MAP are of limited use. Minimally invasive cardiac monitoring has been shown to be an effective tool to guide fluid administration. Early NG or oral feeding has also been shown to improve outcomes.\nSingle measurements with the oesophageal Doppler are inaccurate, but trends and measured responses to interventions are useful. Beta blockers, where indicated, should be titrated to effect over the course of a few weeks prior to elective major surgery. Patients for emergency surgery with unstable angina, myocardial ischaemia, or pathological tachyarrythmias may require STAT IV beta blockade. Withholding long-term beta blockers increases mortality significantly."
+        },
+        {
+            "id": "6",
+            "question_type": "msq",
+            "question": "6. Regarding preoperative management of patients with severe respiratory disease, which of the following statements are true?",
+            "options": [
+                "A A course of antibiotics should always be given in patients with chronic sputum production.",
+                "B Stopping smoking prior to surgery is of little benefit.",
+                "C Regional anaesthesia should be considered where possible.",
+                "D A course of steroids prior to surgery may be necessary in patients with chronic obstructive airway diseases.",
+                "E Preoperative physiotherapy has no role."
+            ],
+            "answer": [
+                "C",
+                "D"
+            ],
+            "explanation": "Patients with severe respiratory disease benefit from regional anaesthesia, as the requirement for opiates is minimised and they can avoid the harmful effects of general anaesthesia on respiratory function. Patients with severe respiratory disease should have had their treatment reviewed by a respiratory physician prior to surgery. COPD patients may require a course of steroids to reduce airway inflammation.\nAntibiotics should be given only if there is evidence of infection, i.e., purulent sputum or consolidation on a CXR. Routine antibiotic therapy merely encourages resistant organisms. All patients must be encouraged to stop smoking. After 24 hours of cessation, the amount of carboxyhaemoglobin and the deleterious cardiovascular effects of nicotine are markedly reduced. Initially after stopping, patients may experience an increase in cough and airway reactivity, but this tends to reduce after a few weeks. Preoperative physiotherapy should be considered for patients with significant respiratory disease undergoing surgery."
+        }
+    ]
+}

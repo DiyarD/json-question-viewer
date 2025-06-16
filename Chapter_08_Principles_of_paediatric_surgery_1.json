@@ -1,0 +1,198 @@
+{
+    "chapter_name": "8 Principles of paediatric surgery",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "1. Which of the following statements are true?\nA For open surgery, vertical midline incisions give better access.\nB The ribs are more horizontal and flexible.\nC The liver and bladder are intra-abdominal.\nD The infant's head constitutes 20% of the surface area.\nE The infant has a large tongue, the epiglottis projects backwards and the larynx is high.",
+            "options": [
+                "A For open surgery, vertical midline incisions give better access.",
+                "B The ribs are more horizontal and flexible.",
+                "C The liver and bladder are intra-abdominal.",
+                "D The infant's head constitutes 20% of the surface area.",
+                "E The infant has a large tongue, the epiglottis projects backwards and the larynx is high."
+            ],
+            "answer": "D",
+            "explanation": "1. B, C, D, E\nIn infants and small children, the ribs are more horizontal and flexible. This means that ventilation needs greater diaphragmatic movement. The flexibility of the ribs means that rib fractures are rare and, therefore, should an infant have a fractured rib, non-accidental injury (NAI) should be suspected. The liver and urinary bladder are intra-abdominal structures and hence more liable to get damaged in blunt upper abdominal trauma.\nThe infant's head constitutes 20% of the body surface area (as opposed to 9% in the adult), an important fact in thermoregulation and when calculating the total body surface area in burns. A large tongue, backward projecting epiglottis and high larynx are important anatomical landmarks about the airway. This is significant, as the tongue can obstruct the airway and impede laryngoscopy in the unconscious. The anatomy of the epiglottis and larynx requires the use of a straight-bladed laryngoscope in those under 1 year of age. Uncuffed tubes should be used to prevent irritation and subglottic stenosis, as the cricoid is the narrowest part.\nFor open surgery, transverse abdominal incisions give better access than longitudinal incisions because children have a wide abdomen and a broad costal margin."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. Which of the following statements are false?\nA A neonate is a baby up to 4 weeks old.\nB The urinary bladder is an intra-abdominal organ in infants and children.\nC An infant's head accounts for 20% of the body surface area.\nD Gluconeogenesis in infants is as good as in adults.\nE The infant's immune system is immature.",
+            "options": [
+                "A A neonate is a baby up to 4 weeks old.",
+                "B The urinary bladder is an intra-abdominal organ in infants and children.",
+                "C An infant's head accounts for 20% of the body surface area.",
+                "D Gluconeogenesis in infants is as good as in adults.",
+                "E The infant's immune system is immature."
+            ],
+            "answer": "D",
+            "explanation": "2. D\nIn paediatric surgery, it is important to have a clear idea about the various age groups. A baby born before 37 weeks is called a preterm; a baby born between 37 and 42 weeks is full term. A baby is called a neonate up to four weeks in age; an infant up to 1 year; a pre-school child below 5 years; and a child and adolescent up to 16 years.\nBecause infants and small children have a shallow pelvis, the urinary bladder is intra-abdominal. The head in infants accounts for 20% of body surface, and this does not equal an adult proportion of 9% until the age of 14 years.\nThe ability for gluconeogenesis is much impaired in infants, which renders them hypoglycaemic very easily in the postoperative period. An immature immune system renders them more susceptible to infection, which may manifest with nonspecific features."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. Which of the following statements are true?\nA Children are regarded as small adults, and therefore their surgical management is adjusted according to their size.\nB Attention to thermoregulation is very important.\nC Postoperative management requires extreme care, because of inadequate stress response.\nD Postoperatively, children do not recover as quickly as adults.\nE Minimal access surgery (MAS) can be used at all ages.",
+            "options": [
+                "A Children are regarded as small adults, and therefore their surgical management is adjusted according to their size.",
+                "B Attention to thermoregulation is very important.",
+                "C Postoperative management requires extreme care, because of inadequate stress response.",
+                "D Postoperatively, children do not recover as quickly as adults.",
+                "E Minimal access surgery (MAS) can be used at all ages."
+            ],
+            "answer": "B",
+            "explanation": "3. B, C, E\nChildren should never be regarded as small adults. Conditions that afflict children by and large are different from those in adults. In children, the thermoregulatory system is immature. Children have little subcutaneous fat (hence no natural insulation) and an undeveloped vasomotor centre. Therefore, the theatre must be well heated, their head and neck well covered (the head is almost one-fifth of the body's surface area), infusions need to be warmed, a warm air blanket used and the core temperature closely monitored.\nThe metabolic response to stress is inadequate because of the immature neurohormonal and immune systems. The effects of clotting deficiencies need to be prevented with intramuscular vitamin K. Ability to concentrate urine and conserve sodium is impaired; therefore, fluid and sodium needs are high. Gastro-oesophageal reflux may result in aspiration, causing pulmonary problems.\nWith meticulous attention to detail along with good pain relief, children recover more quickly than adults under similar circumstances. Intravenous fluids – 0.45% saline with 2.5% dextrose or isotonic saline – help to maintain optimum fluid and electrolyte balance. Minimal access surgical techniques have all the advantages, as seen in the adults; obviously, the instruments and insufflation pressures have to be tailored."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. Which of the following statements regarding paediatric trauma are true?\nA Follow usual Advanced Trauma Life Support (ATLS) rules as in an adult.\nB The usual rules of resuscitation apply.\nC Blunt trauma is more common than penetrating trauma.\nD Splenic injury in the majority should be treated by splenectomy.\nE Consideration must be given to non-accidental injury (NAI).",
+            "options": [
+                "A Follow usual Advanced Trauma Life Support (ATLS) rules as in an adult.",
+                "B The usual rules of resuscitation apply.",
+                "C Blunt trauma is more common than penetrating trauma.",
+                "D Splenic injury in the majority should be treated by splenectomy.",
+                "E Consideration must be given to non-accidental injury (NAI)."
+            ],
+            "answer": "B",
+            "explanation": "4. B, C, E\nIn the western world, injury is the most common cause of death and disability in childhood; most of the deaths are avoidable. Adult ATLS guidelines cannot be followed because of the smaller body mass of children. Therefore, trauma results in a larger force applied per unit of body area. The effects are far more serious because the body has less fat, less elastic connective tissue, a poor thermoregulatory system and there is proximity of vital organs to the skin. Because of the elasticity of the child's skeleton, underlying solid organs can be damaged without overlying skeletal damage. Cardiac, pulmonary, hepatic, pancreatic and splenic injury can occur without any fractured ribs or sternum.\nBlunt, rather than penetrating, trauma is more common. If the child is stable, contrast-enhanced computed tomography (CECT) is the investigation of choice. Liver, pancreatic, splenic and renal injuries are usually managed conservatively with close clinical monitoring supplemented by serial CECT or ultrasound. The team must be prepared to anticipate the need for immediate operation, as the child who is being observed can suddenly deteriorate.\nA child's blood volume is 80 mL/kg. In shock (systolic blood pressure falls after loss of 25% of blood volume), 20 mL/kg Ringer's lactate solution is used as a bolus to be repeated judiciously. Interosseous access into the upper tibia may be necessary in infants.\nWhen the severity of trauma is at variance with the degree of injury, when there has been undue delay in seeking medical advice following trauma, or when there is repeated trauma and inconsistent history between family members, NAI should be strongly suspected and paediatricians should be involved forthwith."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "5. Which of the following statements about inguinoscrotal swellings are false?\nA A hydrocele is a patent processus vaginalis, as is a hernia.\nB Hernia is always indirect.\nC Hernia can be direct or indirect.\nD In incarcerated hernia, reduction should be attempted by taxis followed by operation 24 hours later.\nE A hydrocele always needs an operation.",
+            "options": [
+                "A A hydrocele is a patent processus vaginalis, as is a hernia.",
+                "B Hernia is always indirect.",
+                "C Hernia can be direct or indirect.",
+                "D In incarcerated hernia, reduction should be attempted by taxis followed by operation 24 hours later.",
+                "E A hydrocele always needs an operation."
+            ],
+            "answer": "C",
+            "explanation": "5. C, E\nAn inguinal hernia in a child is indirect as it occurs in a patent processus vaginalis. Sometimes it may be incarcerated, resulting in vomiting and irreducibility. In the early stages of obstruction, manual reduction under analgesia (taxis) can be attempted so that the operation can be done as an elective procedure 24 hours later to allow the oedema to settle down. However, if the infant is ill, dehydrated and toxic with a distended abdomen, strangulation is imminent or present. This requires IV fluid resuscitation followed by emergency operation.\nA congenital hydrocele is a patent processus vaginalis where the patency at the internal ring is too narrow to allow any bowel through; only normal peritoneal fluid comes into the scrotum, causing the hydrocele. This does not require any surgical treatment. If it is persistent after the age of 2 years, the persistent processus is ligated through a groin incision."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. Which if the following are true for undescended testis?\nA Orchidopexy in a subdartos pouch is the treatment of choice.\nB The operation is recommended at the age of 2 years.\nC When a testis is impalpable and therefore intra-abdominal, laparotomy should be done.\nD Laparoscopy is the gold standard procedure for an intra-abdominal testis.\nE Orchidopexy reduces the chance of malignancy.",
+            "options": [
+                "A Orchidopexy in a subdartos pouch is the treatment of choice.",
+                "B The operation is recommended at the age of 2 years.",
+                "C When a testis is impalpable and therefore intra-abdominal, laparotomy should be done.",
+                "D Laparoscopy is the gold standard procedure for an intra-abdominal testis.",
+                "E Orchidopexy reduces the chance of malignancy."
+            ],
+            "answer": "A",
+            "explanation": "6. A, B, D\nWhen a testis is arrested in the normal path of descent, it is called an undescended testis. On the other hand, when the testis is found at a site away from its normal path of descent, such as in the superficial inguinal pouch, root of the scrotum, or femoral triangle, it is then regarded as an ectopic testis.\nWhen the scrotum is empty but well developed, and the testis can be coaxed down into the scrotum, the infant has a retractile testis. This does not require any treatment except reassurance to the parents. When a testis is palpable in the line of descent and is not a retractile testis, the child requires an orchidopexy operation. This is ideally carried out before the age of 2 years, and the testis is fixed in a subdartos pouch.\nWhen the testis is not palpable, it means that the testis is intra-abdominal. Laparoscopy is the procedure of choice. The testis can then be localised and mobilised as a staged procedure for orchidopexy. A maldescended testis should be brought down to prevent torsion, trauma, and infertility, and to enable earlier diagnosis of a tumour when any abnormality of a scrotal testis is much more easily identifiable. Orchidopexy does not reduce the chance of malignancy but increases the chances of early detection."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "7. Which of the following statements are true with regard to acute scrotal pain?\nA Acute testicular pain can be from torsion of the testis, torsion of the hydatid of Morgagni, or acute epididymitis.\nB Pain of testicular torsion may originate in the groin or suprapubic area.\nC Doppler ultrasound should be done in suspected testicular torsion.\nD Incarcerated hernia may cause similar symptoms.\nE In case of any doubt, exploration of the scrotum must be carried out.",
+            "options": [
+                "A Acute testicular pain can be from torsion of the testis, torsion of the hydatid of Morgagni, or acute epididymitis.",
+                "B Pain of testicular torsion may originate in the groin or suprapubic area.",
+                "C Doppler ultrasound should be done in suspected testicular torsion.",
+                "D Incarcerated hernia may cause similar symptoms.",
+                "E In case of any doubt, exploration of the scrotum must be carried out."
+            ],
+            "answer": "A",
+            "explanation": "7. A, B, D, E\nTorsion of the testis can occur at any age. There may be a history of intermittent pain in the past. On clinical suspicion, the scrotum should be explored as an emergency forthwith. Colour Doppler ultrasound, an investigation not usually carried out, to show reduced blood flow may be used, provided it does not compromise promptness of treatment. Torsion of the testicular appendage occurs in prepubertal boys. Sometimes, the bluish appendage can be seen on top of the testis. It can be left alone if the diagnosis is certain. Excision is preferable because it results in early cure of the problem, while at the same time excluding the serious condition of testicular torsion. Incarcerated hernia will present with vomiting and abdominal distension from intestinal obstruction."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "8. What is the operation for congenital hypertrophic pyloric stenosis called?\nA Hartmann's\nB Whipple's\nC Heller's\nD Ramstedt's\nE Ivor-Lewis'",
+            "options": [
+                "A Hartmann's",
+                "B Whipple's",
+                "C Heller's",
+                "D Ramstedt's",
+                "E Ivor-Lewis'"
+            ],
+            "answer": "D",
+            "explanation": "8. D\nThe operation for congenital hypertrophic pyloric stenosis is called Ramstedt's operation. After full resuscitation for hypochloraemic, hypokalaemic alkalosis, the operation is carried out under general anaesthetic through a transverse right-upper-quadrant incision. The pyloric tumour is delivered out into the wound and held between the thumb and index finger, and the hypertrophied muscle incised to allow the mucosa to bulge. Great care is taken not to damage the mucosa, which is most vulnerable to inadvertent damage distally because the hypertrophy abruptly ends there, and at the duodenal end the mucosa doubles on itself to form a fornix (Figure 8.1) making it particularly prone to damage."
+        },
+        {
+            "id": 9,
+            "question_type": "emq",
+            "question": "Match the diagnoses with the clinical scenarios that follow:\nA A 2-year-old boy has been sent in as an emergency with vomiting for 24 hours. According to the parents, the vomitus was greenish to start with but over the past few hours has con- sisted of dirty brownish fluid. There has been no bowel action. On examination the child looks toxic and is dehydrated – sunken eyes, depressed fontanelles, loss of skin turgor. There is a tympanitic abdomen with a red, irreducible swelling in the left groin not noticed by the parents.\nB Jonathan, a 5-week-old boy, has been vomiting intermittently for 2 weeks. This has become incessant for the past 24 hours. The vomitus is clear fluid. The infant seems hungry and takes its feed only to bring it up within a short while. The mother noticed some twitching of muscles. The baby is dehydrated. The paediatrician felt a lump in the upper abdomen when Jonathan was being fed by his mother.\nC Mary-Ann, a 10-month-old girl, has been brought in with occasional vomiting for a couple of days. The parents noticed that the vomitus is sometimes green and at other times brownish. They feel that Mary-Ann is in pain intermittently, because she screams, flexing her knees and elbows, denoting spasms. They noticed that the nappy has bloodstained mucus. On examination she looks ill and dehydrated, and the right side of the abdomen feels empty.",
+            "options": {
+                "items": [
+                    "1 Congenital hypertrophic pyloric stenosis",
+                    "2 Incarcerated inguinal hernia",
+                    "3 Intussusception"
+                ],
+                "choices": [
+                    "A A 2-year-old boy has been sent in as an emergency with vomiting for 24 hours. According to the parents, the vomitus was greenish to start with but over the past few hours has con- sisted of dirty brownish fluid. There has been no bowel action. On examination the child looks toxic and is dehydrated – sunken eyes, depressed fontanelles, loss of skin turgor. There is a tympanitic abdomen with a red, irreducible swelling in the left groin not noticed by the parents.",
+                    "B Jonathan, a 5-week-old boy, has been vomiting intermittently for 2 weeks. This has become incessant for the past 24 hours. The vomitus is clear fluid. The infant seems hungry and takes its feed only to bring it up within a short while. The mother noticed some twitching of muscles. The baby is dehydrated. The paediatrician felt a lump in the upper abdomen when Jonathan was being fed by his mother.",
+                    "C Mary-Ann, a 10-month-old girl, has been brought in with occasional vomiting for a couple of days. The parents noticed that the vomitus is sometimes green and at other times brownish. They feel that Mary-Ann is in pain intermittently, because she screams, flexing her knees and elbows, denoting spasms. They noticed that the nappy has bloodstained mucus. On examination she looks ill and dehydrated, and the right side of the abdomen feels empty."
+                ]
+            },
+            "answer": {
+                "1": "B",
+                "2": "A",
+                "3": "C"
+            },
+            "explanation": "1. B Congenital hypertrophic pyloric stenosis\nJonathan suffers from congenital (idiopathic) hypertrophic pyloric stenosis. This occurs during the first 6 weeks of life, usually in a first-born male infant. Typically, the baby has non-bilious vomiting, is hungry and, in late cases, may have muscle spasms from alkalotic tetany. Examination shows a dehydrated baby with a hard mass ('pyloric tumour') felt in the epigastrium on test feed. Confirmation, if necessary, may be obtained on ultrasound or a gastrograffin swallow (Figure 8.2).\nThe biochemical abnormality of hypochloraemic, hypokalaemic, metabolic alkalosis is cor- rected. After optimum resuscitation, a Ramstedt's pyloromyotomy (an operation that German surgeon Wilhelm Conrad Ramstedt [1867–1963] first performed in 1911) is done through a transverse right-upper-quadrant incision. For operative details, please see the previous section.\n2. A Incarcerated inguinal hernia\nBilious vomiting in an infant is a sign of intestinal obstruction. An irreducible lump in the groin indicates as the cause as an incarcerated inguinal hernia. Incarceration indicates intraluminal obstruction, whereas strangulation means compromise of the blood supply to the bowel. As the child is toxic, incarceration may be proceeding to strangulation. Brownish or feculent vomitus is a sinister sign. The infant should be resuscitated with intravenous fluids, nasogastric suction and prophylactic antibiotics. Once optimised, an emergency operation should be carried out.\n3. C Intussusception\nMary-Ann suffers from intussusception. This is the invagination of a proximal part of the bowel into the adjacent distal part, resulting in strangulating intestinal obstruction. Usually, the ileum invaginates into the caecum and ascending colon. The outer bowel is called the intussuscepiens, while the part that invaginates is called the intussusceptum (Figure 8.3). There is bloodstained mucus from the anus (‘redcurrant jelly stools') and an empty right iliac fossa, and, sometimes, a sausage-shaped mass may be felt, which might migrate with concavity toward the umbilicus. Confirmation is by ultrasound or a gastrograffin enema, which shows a typical crab claw deformity (Figure 8.4).\nAfter full resuscitation, radiological reduction with air or contrast enema is undertaken. Successful reduction (occurs in more than 70%) is diagnosed when contrast is seen to reflux into the terminal ileum. If unsuccessful, laparotomy is undertaken and manual reduction by milking is carried out. If unsuccessful, or there is evidence of bowel infarction, limited ileocolic resection and end-to-end anastomosis is carried out."
+        },
+        {
+            "id": 10,
+            "question_type": "emq",
+            "question": "Choose and match the correct diagnosis with each of the scenarios that follow:\nA George, a 10-year-old boy has been brought in with abdominal pain, vomiting, pyrexia and diarrhoea for the past 24 hours or so. He has been off his food for a couple of days. He has pyrexia of 39°C, tachycardia, looks toxic and has marked lower abdominal tenderness, rigidity and rebound tenderness, and the abdominal wall does not move with respiration.\nB Kerry, a 5-year-old girl, has been brought in by her parents with generalised abdominal pain, which has been recurrent over 6 months or so. On this occasion she looks ill, out of sorts and anorexic, and she has been vomiting. She has marked urinary frequency. On examination she has a temperature of 100°C, looks toxic, listless and dehydrated and has generalised abdominal and bilateral loin tenderness.\nC Millie, a 10-year-old girl, has been admitted with generalised abdominal pain, vomiting and anorexia for 2 days. She has missed school a few times because of similar attacks of abdominal pain in the past, which has subsided on its own within 24 hours. On this occasion it has persisted. Examination revealed a well-looking introspective child with generalised abdominal tenderness without any rigidity or rebound tenderness, with the abdominal wall moving freely with respiration.",
+            "options": {
+                "items": [
+                    "1 Acute appendicitis",
+                    "2 Nonspecific abdominal pain",
+                    "3 Urinary tract infection"
+                ],
+                "choices": [
+                    "A George, a 10-year-old boy has been brought in with abdominal pain, vomiting, pyrexia and diarrhoea for the past 24 hours or so. He has been off his food for a couple of days. He has pyrexia of 39°C, tachycardia, looks toxic and has marked lower abdominal tenderness, rigidity and rebound tenderness, and the abdominal wall does not move with respiration.",
+                    "B Kerry, a 5-year-old girl, has been brought in by her parents with generalised abdominal pain, which has been recurrent over 6 months or so. On this occasion she looks ill, out of sorts and anorexic, and she has been vomiting. She has marked urinary frequency. On examination she has a temperature of 100°C, looks toxic, listless and dehydrated and has generalised abdominal and bilateral loin tenderness.",
+                    "C Millie, a 10-year-old girl, has been admitted with generalised abdominal pain, vomiting and anorexia for 2 days. She has missed school a few times because of similar attacks of abdominal pain in the past, which has subsided on its own within 24 hours. On this occasion it has persisted. Examination revealed a well-looking introspective child with generalised abdominal tenderness without any rigidity or rebound tenderness, with the abdominal wall moving freely with respiration."
+                ]
+            },
+            "answer": {
+                "1": "A",
+                "2": "C",
+                "3": "B"
+            },
+            "explanation": "1. A Acute appendicitis\nGeorge has acute appendicitis. In children, the history may be atypical. Diarrhoea denotes a pelvic position of the appendix. The abdominal signs are typical of peritonitis. Perforation in children is common because of their inability to localise intra-abdominal infection as a result of poorly developed omentum. Complete examination of the chest should be done in all cases of acute abdominal pain in children to exclude right lower-lobe pneumonia.\nAcute appendicitis is a clinical diagnosis. In doubtful cases, Alvarado's scoring system can be useful. The patient should undergo an emergency appendicectomy.\n2. C Nonspecific abdominal pain\nMillie has features suggestive of nonspecific abdominal pain – recurrent attacks, generalised abdominal symptoms, no signs of peritonism and missing school on more than one occasion, the latter denoting psychosocial problems. This is a diagnosis made in 30% to 50% of children admitted to hospital with acute abdomen. Sometimes constipation may be a cause.\n3. B Urinary tract infection\nKerry has urinary tract infection. Children usually have an underlying urinary tract abnormality, such as pelviureteric junction obstruction or vesicoureteric reflux. Such conditions should be diagnosed and treated promptly to prevent long-term deleterious effects of renal scarring from ascending pyelonephritis. Clinical examination usually does not reveal any abnormality. Urine examination and renal ultrasound are the initial investigations. This is followed by micturating cystogram or isotope renogram."
+        },
+        {
+            "id": 11,
+            "question_type": "emq",
+            "question": "Choose and match the correct diagnosis with each of the scenarios that follow.\nA A 2-month-old Down's syndrome baby has been brought in with gradual abdominal disten- sion and intermittent bilious vomiting with a history of delayed passage of meconium. The parents feel that the baby is unduly constipated. Examination shows a baby that has not been thriving normally, with a hugely distended abdomen and gross dehydration.\nB A prenatal ultrasound scan alerted the paediatricians to a congenital abnormality affecting the abdomen and chest. The premature neonate has been born with severe respiratory compromise and is on ventilatory support in the neonatal ICU.\nC A neonate is born with frothy saliva and episodes of cyanosis. Any attempt to feed makes the symptoms worse. A fine orogastric tube is arrested. A plain x-ray shows that the tube is curled up in the chest and there is gas in the abdomen. The condition was suspected on prenatal ultrasound.\nD A mother who suffered from polyhydramnios has given birth to a baby who has Down syndrome. The baby has bilious vomiting. The plain abdominal x-ray shows a ‘double-bubble' appearance, and the condition was suspected on prenatal ultrasound.\nE A neonate has bile-stained vomiting with passage of blood-stained stools. The baby is very sick, and a contrast meal shows the bowel mostly on the right side with a subhepatic caecum.\nF A 2-week-old neonate who was born with jaundice has exhibited increasing yellowish discoloration of skin and conjunctiva ever since birth. There are some superficial skin bruises.\nG A few days after birth, a neonate has developed abdominal distension, blood-stained stools and bilious vomiting. The baby is toxic with septic shock.",
+            "options": {
+                "items": [
+                    "1 Biliary atresia",
+                    "2 Congenital diaphragmatic hernia",
+                    "3 Duodenal atresia",
+                    "4 Hirschsprung's disease",
+                    "5 Intestinal malrotation",
+                    "6 Necrotising enterocolitis",
+                    "7 Tracheo-oesophageal fistula"
+                ],
+                "choices": [
+                    "A A 2-month-old Down's syndrome baby has been brought in with gradual abdominal disten- sion and intermittent bilious vomiting with a history of delayed passage of meconium. The parents feel that the baby is unduly constipated. Examination shows a baby that has not been thriving normally, with a hugely distended abdomen and gross dehydration.",
+                    "B A prenatal ultrasound scan alerted the paediatricians to a congenital abnormality affecting the abdomen and chest. The premature neonate has been born with severe respiratory compromise and is on ventilatory support in the neonatal ICU.",
+                    "C A neonate is born with frothy saliva and episodes of cyanosis. Any attempt to feed makes the symptoms worse. A fine orogastric tube is arrested. A plain x-ray shows that the tube is curled up in the chest and there is gas in the abdomen. The condition was suspected on prenatal ultrasound.",
+                    "D A mother who suffered from polyhydramnios has given birth to a baby who has Down syndrome. The baby has bilious vomiting. The plain abdominal x-ray shows a ‘double-bubble' appearance, and the condition was suspected on prenatal ultrasound.",
+                    "E A neonate has bile-stained vomiting with passage of blood-stained stools. The baby is very sick, and a contrast meal shows the bowel mostly on the right side with a subhepatic caecum.",
+                    "F A 2-week-old neonate who was born with jaundice has exhibited increasing yellowish discoloration of skin and conjunctiva ever since birth. There are some superficial skin bruises.",
+                    "G A few days after birth, a neonate has developed abdominal distension, blood-stained stools and bilious vomiting. The baby is toxic with septic shock."
+                ]
+            },
+            "answer": {
+                "1": "F",
+                "2": "B",
+                "3": "D",
+                "4": "A",
+                "5": "E",
+                "6": "G",
+                "7": "C"
+            },
+            "explanation": "1. F Biliary atresia\nCongenital biliary atresia should be suspected if the jaundice in the newborn does not subside within 2 weeks. The incidence is 1 in 17,000. In the presence of conjugated hyperbilirubinaemia, coagulopathy is a problem which needs to be combated with vitamin K. An ultrasound scan, radioisotope scan and liver biopsy are the investigations of choice.\n2. B Congenital diaphragmatic hernia\nThis is a congenital diaphragmatic hernia (Figure 8.5). Respiratory embarrassment is the key presentation with an empty feeling of the abdomen. The diagnosis is usually made prenatally; therefore, the team is ready to intervene soon after birth. Respiratory support is the keynote in the initial management. Repair is carried out only if adequate oxygenation is obtained on full ventilatory support. Almost one-third of cases succumb to respiratory failure due to severe pulmonary hypoplasia.\n3. D Duodenal atresia\nThis is duodenal atresia, which may be a part of intestinal atresia. The ‘double-bubble' appearance on simple x-ray is diagnostic (Figure 8.6). Bile-stained vomiting differentiates it from congenital hypertrophic pyloric stenosis. A complete membrane causes it. The operation is duodenoduodenostomy.\n4. A Hirschsprung's disease\nCongenital megacolon, first described by Harald Hirschsprung in 1911, occurs due to congenital absence of intramural ganglion cells causing large bowel obstruction. In three out of four patients, the abnormality is restricted to the rectum and colon. Enterocolitis is a dreaded complication. The diagnosis is established by a contrast enema, which shows the exact site and extent of the diseased segment; it is confirmed by biopsy.\n5. E Intestinal malrotation\nThe neonate has bile-stained vomiting, which is a sign of intestinal obstruction. A contrast meal shows a high caecum with the duodenojejunal flexure on the right side. The small bowel mesentery has a narrow base predisposing to a midgut volvulus.\n6. G Necrotising enterocolitis\nNecrotising enterocolitis is an inflammatory bowel disease occurring in the premature neonate. The baby presents with features of toxic shock, abdominal distension, bloodstained stools and bilious vomiting and aspirate. A variable length of the intestine is affected.\n7. C Tracheo-oesophageal fistula\nSoon after birth when a neonate presents with frothy saliva and cyanosis, oesophageal atresia is the diagnosis, the most common variety being a blind proximal pouch with a distal tracheo-oesophageal fistula. Associated anomalies affecting the heart, kidneys and skeletal system may be present. After confirmation of diagnosis, referral to a paediatric surgeon is made. Operation is carried out within a day or two of birth."
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "chapter_name": "Emergency neurosurgery",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "1. Which of the following is NOT a direct result of raised ICP?",
+            "options": [
+                "A Reduced perfusion pressure.",
+                "B Headache, vomiting and reduced conscious level.",
+                "C Tonsillar herniation.",
+                "D Loss of cerebral autoregulation.",
+                "E Displacement of CSF and venous blood from the cranium."
+            ],
+            "answer": "D",
+            "explanation": "Cerebral autoregulation is compromised in significant TBI, and this adds to the difficulty of achieving satisfactory perfusion in the context of raised ICP. However, injured brain can exhibit deranged autoregulation without raised ICP, for example, after decompressive craniectomy.\nCerebral perfusion pressure (CPP) is directly related to ICP according to the relationship CPP = Mean Arterial Pressure (MAP) – ICP.\nHeadache, vomiting and reduced consciousness level are cardinal indicators of raised ICP.\nDisplacement of venous blood and CSF resulting from small rises in ICP acts to limit the rise in pressure during the Monro-Kellie doctrine's compensatory phase. Herniation of the cingulate gyrus under the falx, of the uncus of the temporal lobe under the tentorium and of the cerebellar tonsils through the foramen magnum, can occur as this compensation fails."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "2. The primary survey for patients with severe traumatic brain injury does NOT include:",
+            "options": [
+                "A Management of respiratory and circula-tory compromise.",
+                "B Cervical spine clearance.",
+                "C Assessment of GCS.",
+                "D Assessment of pupil reactivity.",
+                "E Blood glucose measurement."
+            ],
+            "answer": "B",
+            "explanation": "Cervical spine injury cannot be excluded as part of the primary survey in a patient with reduced consciousness level (severe TBI implies a GCS of 8 or less at resuscitation). Cervical spine x-rays traditionally form part of the primary survey, but generally a CT trauma series incorporating head, neck and chest/abdomen/pelvis is likely to be most appropriate, depending on mechanism. Since there is a risk of ligamentous injury even where the CT is normal, cervical spine precautions are often maintained as far as possible pending clinical clearance of the neck.\nThe ATLS primary survey comprises airway management with cervical spine control, attention to breathing and circulation and a brief neurological assessment including GCS, pupil reactivity and blood glucose measurement (to exclude a possible contribution to conscious impairment)."
+        },
+        {
+            "id": "3",
+            "question_type": "mcq",
+            "question": "3. According to NICE criteria, CT is indicated after mild head injury for patients with which of the following:\nA An episode of vomiting.\nB Ongoing headache.\nC Loss of consciousness at the time of injury.\nD Age over 65.\nE GCS 13 or 14 at presentation.",
+            "options": [
+                "A An episode of vomiting.",
+                "B Ongoing headache.",
+                "C Loss of consciousness at the time of injury.",
+                "D Age over 65.",
+                "E GCS 13 or 14 at presentation."
+            ],
+            "answer": "D",
+            "explanation": "NICE criteria call for urgent CT scan of patients with mild head injury who are over the age of 65, or have a clotting disorder.\nOther indications for scanning include the following:\n• GCS <13 at any point, or GCS of 13 or 14 two hours after injury.\n• More than one episode of vomiting.\n• Anterograde amnesia >30 minutes.\n• Focal Neurological Deficit.\n• Suspected skull fracture.\n• High energy mechanism."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "4. Which of the following statements are true?",
+            "options": [
+                "A Severe traumatic brain injury (TBI) not requiring surgery is best managed in a local unit rather than by transfer to a neurosurgical centre.",
+                "B Anaesthetic escort is mandatory for transfer of all head-injured patients.",
+                "C Sedation of head-injured patients prevents assessment of the pupils.",
+                "D Early transfer is recommended to avoid primary brain injury.",
+                "E Secondary brain injury can be minimised by optimising ventilation, electrolyte balance, and sedation and by ensuring that the hard collar is loose so as not to occlude venous return."
+            ],
+            "answer": "E",
+            "explanation": "Minimising secondary brain injury depends on achieving satisfactory cerebral perfusion.\nVentilatory parameters, adequate sedation and avoidance of hyponatraemia are each important in limiting rises in ICP that lead to compromised perfusion. Sedation of head-injured patients prevents assessment of the GCS and focal neurological function, but it remains possible to assess the pupils. The collar can be loosened with care during transit to prevent venous obstruction.\nU.K. trauma and audit research network guidelines point to a better prognosis for patients with severe TBI who are treated in a neurosurgical centre. Primary brain injury refers to the damage caused to the brain at impact – the goal of early transfer is access to specialist management to minimise secondary brain injury. Anaesthetic assessment of head-injured patients prior to transfer is generally recommended, but for conscious patients without significant intracranial bleeding or mass effect, a nurse escort may be sufficient."
+        },
+        {
+            "id": "5",
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical presentations that follow:\n\nIntracranial bleeding\n1 Acute subdural haemorrhage\n2 Chronic subdural haemorrhage\n3 Diffuse axonal injury\n4 Extradural haemorrhage\n5 Traumatic subarachnoid haemorrhage",
+            "options": {
+                "items": [
+                    "1 Acute subdural haemorrhage",
+                    "2 Chronic subdural haemorrhage",
+                    "3 Diffuse axonal injury",
+                    "4 Extradural haemorrhage",
+                    "5 Traumatic subarachnoid haemorrhage"
+                ],
+                "choices": [
+                    "A A 62-year-old gentleman taking warfarin for atrial fibrillation presents with a two-week history of headaches and clumsiness of the dominant hand. He cannot recall any impact to the head.",
+                    "B A 36-year-old male driver is involved in a high-speed RTA, and is comatose at scene. Head CT is unremarkable save for several tiny foci of high density in the corpus callosum and brainstem.",
+                    "C A 24-year-old victim of a kite-surfing accident has a GCS E2 V2 M4, and a fixed dilated right pupil at admission. A lentiform focus of acute blood underlying a temporal bone fracture is evident on CT.",
+                    "D A 30-year-old victim of a road-traffic accident is GCS E1 V1 M4 with midsize reactive pupils at admission; the left fixes and dilates in the CT scanner. A diffuse concave extra-axial bleed is evident over the surface of the left hemisphere.",
+                    "E A 24-year-old male falls from a roof while intoxicated. He is admitted GCS E3V4M5, and CT demonstrates a thin layer of high density distributed diffusely over the brain surface."
+                ]
+            },
+            "answer": {
+                "1": "D",
+                "2": "A",
+                "3": "B",
+                "4": "C",
+                "5": "E"
+            },
+            "explanation": "1. D Acute subdural haemorrhage\nAcute subdural haematoma (ASDH) is typical of high-energy trauma in the young, and the patient may also have significant primary brain injury. The subdural blood encounters little resistance in dissecting dura from arachnoid, so spreads diffusely over the brain surface without regard to suture lines (Figure 25.1). Craniotomy and evacuation are the mainstay of management.\n2. A Chronic subdural haemorrhage\nChronic subdural haematoma (Figure 25.2) without a history of trauma is common in those with deranged clotting. The presentation is typically insidious and, after correcting the clotting, evacuation through burr holes under local anaesthetic will often be a satisfactory approach.\n3. B Diffuse axonal injury\nDiffuse axonal injury is a post-mortem diagnosis implying shearing of axons due to rapid acceleration of the brain. However, foci of petechial haemorrhage in deep brain structures in a patient comatose from the moment of high- energy impact are strongly suggestive.\n4. C Extradural haemorrhage\nThe classic presentation of extradural haematoma involves transient loss of consciousness, followed by recovery to normal (the lucid interval), then rapid deterioration to coma. More commonly, extradural haematoma can complicate a moderate or severe primary head injury as discussed in the context of ASDH previously, especially where a temporal bone fracture is associated with rupture of the underlying middle meningeal artery (Figure 25.3). Management entails immediate craniotomy and clot evacuation.\n5. E Traumatic subarachnoid haemorrhage\nTraumatic subarachnoid haemorrhage (Figure 25.4) is the result of venous bleeding into the subarachnoid space, rather than the arterial haemorrhage of aneurysmal SAH, and is not associated with significant vasospasm."
+        },
+        {
+            "id": "6",
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical presentations that follow:\n\n'Spontaneous' haemorrhage\n1 Arteriovenous malformation rupture\n2 Berry aneurysm rupture\n3 Dural AV fistula rupture\n4 Hypertensive intracerebral haemorrhage\n5 Pituitary apoplexy",
+            "options": {
+                "items": [
+                    "1 Arteriovenous malformation rupture",
+                    "2 Berry aneurysm rupture",
+                    "3 Dural AV fistula rupture",
+                    "4 Hypertensive intracerebral haemorrhage",
+                    "5 Pituitary apoplexy"
+                ],
+                "choices": [
+                    "A A 41-year-old woman is found collapsed in her bathroom. She is lucid in the emergency department but complains of severe headache. A right complete third nerve palsy is evident.",
+                    "B A 67-year-old gentleman presents with sudden right arm and leg weakness and dysphasia, and is markedly hypertensive at admission. CT scan, as a precursor to thrombolysis for acute stroke, demonstrates a bleed in the basal ganglia.",
+                    "C A 45-year-old man presents with thunderclap headache. He gives a history of longstanding right-side headaches and a rushing sound in the right ear in time with his pulse.",
+                    "D A previously well 35-year-old woman presents with sudden onset severe headache and loss of vision. Her acuity is 6/24 bilaterally on assessment in the emergency department.",
+                    "E A 43-year-old man presents with sudden right arm and leg weakness. He is normotensive. CT demonstrates a substantial haematoma in the left frontoparietal region."
+                ]
+            },
+            "answer": {
+                "1": "E",
+                "2": "A",
+                "3": "C",
+                "4": "B",
+                "5": "D"
+            },
+            "explanation": "1. E Arteriovenous malformation rupture\nAlthough AVM as a cause of ICH is relatively rare compared to ICH, it has important investigation and treatment implications and the possibility of underlying AVM is a major concern in the event of attempted clot evacuation. A young patient with an ICH outside the locations typical for hypertensive bleed (e.g., basal ganglia, cerebellum) will certainly require investigation for possible AVM.\n2. A Berry aneurysm rupture\nThird nerve palsy associated with thunderclap headache classically represents rupture of an aneurysm compressing the posterior communicating artery. CT scan performed early is highly sensitive for SAH, but where there is a strong history and no evidence of blood, delayed lumbar puncture is indicated, with samples sent for cell count and assay for levels of the haemoglobin breakdown products oxyhaemoglobin and bilirubin, whose presence suggest prior haemorrhage. Confirmed subarachnoid haemorrhage is generally investigated with catheter angiography, and an underlying ruptured aneurysm can be managed surgically ('clipping') or by radiological embolisation ('coiling').\n3. C Dural AV fistula rupture\nPulsatile tinnitus is pathonomic of dural arteriovenous fistula. Rupture of these lesions can manifest with subdural, subarachnoid, or intracerebral haemorrhage.\n4. B Hypertensive intracerebral haemorrhage\nHaemorrhagic stroke is common, particularly in undiagnosed and uncontrolled hypertensives. The basal ganglia are a typical site for these bleeds. Surgery may be considered to relieve mass effect, but management is generally medical. In younger patients and those with an atypical appearance, further imaging to rule out an underlying neoplasia or vascular malformation may be indicated.\n5. D Pituitary apoplexy\nPituitary apoplexy refers to the syndrome associated with acute haemorrhage or infarction of the pituitary gland (see Chapter 43). Headache, visual loss, ophthalmoplegia and variable consciousness impairment are typical. Endocrine resuscitation is the first management priority."
+        },
+        {
+            "id": "7",
+            "question_type": "matching",
+            "question": "The following are recognised complications of traumatic brain injury. Match a likely diagnosis to the descriptions that follow:\n\nComplications of traumatic brain injury\n1 Cerebral salt wasting\n2 Syndrome of inappropriate ADH secretion\n3 Diabetes Insipidus\n4 Panhypopituitarism\n5 Post-concussive syndrome",
+            "options": {
+                "items": [
+                    "1 Cerebral salt wasting",
+                    "2 Syndrome of inappropriate ADH secretion",
+                    "3 Diabetes Insipidus",
+                    "4 Panhypopituitarism",
+                    "5 Post-concussive syndrome"
+                ],
+                "choices": [
+                    "A A patient is intubated on ITU 48 hours after sustaining a severe TBI. Urine output has been 800 mL over 3 hours and the serum sodium level is 151 mEq/L.",
+                    "B Five days after sustaining a moderate TBI, a patient's routine bloods reveal a serum sodium of 124 mEq/L. Clinically, the patient is euvolaemic.",
+                    "C Several weeks after sustaining a severe traumatic brain injury managed medically, a 25 year old patient has been extubated but is failing to progress, with somnolence and failure to interact. Routine bloods are unremarkable.",
+                    "D One week after sustaining a severe TBI, the patient remains intubated. Fluid balance has been persistently negative over 72 hours, and the serum sodium has dropped from 130 mEq/L to 122 mEq/L on the day's routine blood tests. The patient is clinically dehydrated.",
+                    "E A young man who sustained a moderate TBI 3 months previously complains in clinic of persistent headaches and difficulty in concentrating on his studies. Routine bloods are unremarkable."
+                ]
+            },
+            "answer": {
+                "1": "D",
+                "2": "B",
+                "3": "A",
+                "4": "C",
+                "5": "E"
+            },
+            "explanation": "In each case, diagnosis and management should be discussed promptly with a neurointensivist or endocrinologist.\n1. D Cerebral salt wasting\nHyponatraemia after a brain insult should prompt consideration of cerebral salt wasting and syndrome of inappropriate ADH (SIADH). Each involves inappropriate excretion of a concentrated urine due to failure of normal pituitary control. Cerebral salt wasting leads to volume depletion, requiring prompt replacement.\n2. B Syndrome of inappropriate ADH secretion\nBy contrast, patients suffering SIADH are clinically euvolaemic or even somewhat overfilled, because of free water retention as a result of inappropriately high ADH levels. In this case, sodium replacement and occasionally blockade of ADH activity, using demeclocycline for instance, is usually appropriate. Fluid restriction is also used but may be dangerous in the context of compromised perfusion due to raised ICP (head injury) or vasospasm (subarachnoid haemorrhage).\n3. A Diabetes Insipidus\nExcretion of large volumes of dilute urine resulting in hypernatraemia is another frequent complication of head injury, and reflects failure of the pituitary to secrete ADH. Administration of boluses of desmopressin/DDAVP may be used to manage this.\n4. C Panhypopituitarism\nGeneralised pituitary dysfunction is a common sequel of TBI. It should be actively excluded in recovering patients, especially where progress is slow, by means of a pituitary function screen (9 am cortisol, free T3 and T4, oestradiol or testosterone, prolactin, IGF-1).\n5. E Post-concussive syndrome\nPost-concussive syndrome is a poorly defined constellation of symptoms that can interfere significantly with recovery. A head-injury rehabilitation specialist team is best placed to advise on managing these problems."
+        }
+    ]
+}

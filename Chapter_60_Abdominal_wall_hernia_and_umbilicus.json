@@ -1,0 +1,202 @@
+{
+    "chapter_name": "Abdominal wall, hernia and umbilicus",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Inguinal hernia is more common in men than in women.",
+                "B Femoral hernia is more common than inguinal hernia in women.",
+                "C Femoral hernia is felt below and medial to the pubic tubercle.",
+                "D The risk of bowel strangulation is greatest in femoral hernia, less in indirect inguinal hernia and least in direct inguinal hernia.",
+                "E A 'sliding' inguinal hernia can pass either medial or lateral to the inferior epigastric vessels."
+            ],
+            "answer": [
+                "A",
+                "D"
+            ],
+            "explanation": "Inguinal hernia is more common in men than in women due to the expansion of the deep inguinal ring to allow the testis and accompanying structures to pass. Other factors might be increased abdominal pressures due to prostatic symptoms, higher incidence of smoking and chest conditions. More than 50% of femoral hernia cases present as an emergency with high risk of strangulation, as the neck of the femoral canal is small and rigid. All cases of femoral hernia should be operated on as soon as possible. Inguinal hernia is less likely to present as an emergency. Indirect inguinal hernias often contain bowel, which may extend into the scrotum and become adherent to the sac. This may lead to bowel obstruction and strangulation. Direct inguinal hernias rarely present as an emergency with bowel involvement. Femoral hernia is more common in women than in men, but inguinal hernia is still common in women than femoral hernia. A femoral hernia is palpated below and lateral to the pubic tubercle. They are often non-reducible and misdiagnosed as an inguinal lymph gland or missed altogether if the groin is not examined, particular in elderly female patients presenting with symptoms of abdominal pain. A 'sliding' inguinal hernia is always of the indirect, lateral type passing through the deep inguinal ring. In a sliding hernia extra-peritoneal tissue initially passes through the deep inguinal ring pulling bowel with it, often the caecum on the right side, and sigmoid colon on the left."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Open repair of inguinal hernia should always involve placement of a mesh.",
+                "B The Lichtenstein Open Repair has the lowest recurrence rate of any type of repair.",
+                "C Laparoscopic repair has been shown to have less postoperative pain, less chronic pain, accelerated postoperative recovery and fewer wound complications.",
+                "D Approximately 5% of cases of inguinal hernia will be bilateral and 10% will be on patients with recurrent inguinal hernia after previous surgery.",
+                "E Chronic postoperative pain occurs in more than 20% of cases after surgery."
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Many trials compare laparoscopic and open repair for inguinal hernia and confirm that laparoscopic surgery accelerates postoperative recovery and reduces postoperative and chronic pain. There is a reduction in wound haematoma, seroma and wound infection. However, laparoscopic surgery is technically demanding and might take longer to perform. One in 20 patients present to the surgeon with bilateral herniae, but more detailed tests find that 20% of patients will have an occult contralateral hernia. One in three patients who undergo unilateral surgery will require repair of the opposite side in later life. 10% of patients undergoing surgery will have had a previous operation on the same side. Laparoscopic surgery is particularly beneficial in both recurrent and bilateral cases. Chronic postoperative pain is the most common complication of all forms of inguinal hernia surgery and occurs in more than 20% of cases but is more severe after open surgery compared with laparoscopic. Most surgeons use mesh routinely for inguinal hernia, the most popular operations being the open Lichtenstein repair and laparoscopic TEP repair. There are open suture repair techniques including the Shouldice repair, Moloney Darn and Desarda operation, which have reported excellent results, comparable to Lichtenstein repair. These operations do not use a mesh. Early studies of the Lichtenstein repair suggested that recurrence rates were less than with suture repairs, but more recent studies have shown comparable recurrence rates. Also trials of Lichtenstein repair versus laparoscopic repair have generally shown equal recurrence rates."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "Which of the following are true?",
+            "options": [
+                "A Mesh should not be used in the presence of infection.",
+                "B Mesh is mainly used to induce fibrosis, thus making a strong repair.",
+                "C Polypropylene mesh is hydrophobic and monofilament.",
+                "D Simple polypropylene is ideal for intra-peritoneal use.",
+                "E Synthetic, nonabsorbable meshes can contract in size by up to 50% over time."
+            ],
+            "answer": [
+                "C",
+                "E"
+            ],
+            "explanation": "Polypropylene is hydrophobic and monofilament, enhancing its antimicrobial properties. Polyethylene is hydrophilic and multifilament, which enhances its tissue incorporation. Synthetic meshes ‘shrink' up to 50% due to fibrous infiltration and later contraction of the collagen. Lighter-weight meshes with large pore sizes are less susceptible to shrinkage. It is important to use large meshes with sufficient overlap so that shrinkage will not re-expose the hernia defect and cause recurrence. Absorbable meshes can be used in the presence of infection. More recent reports have shown that large pore, non-absorbable meshes are more resistant to infection and can also be used. They have been used prophylactically to reduce the incidence of para-stomal hernia in the presence of faecal peritonitis. Synthetic meshes are stronger than the human abdominal wall, and fibrosis is not required to add further to strength. Too much fibrosis leads to chronic pain and excessive shrinkage. Minimal fibrosis holds the mesh in position and is all that is required. Polypropylene causes adhesions if placed within the peritoneal cavity. It should not be used in the peritoneal cavity unless coated with a ‘non-stick' layer."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "Which of the following are true?",
+            "options": [
+                "A There is no place for laparoscopic surgery in femoral hernia.",
+                "B Skin discolouration over the hernia suggests possible strangulation.",
+                "C There is a decreased risk of femoral hernia after open inguinal hernia repair.",
+                "D A high, abdominal, McEvedy approach is best in patients presenting with a strangulating femoral hernia.",
+                "E The femoral nerve is at risk due to its proximity to the neck of a femoral hernia."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "A reddish discolouration or bruising suggests that hernia contents are strangulating, leading to surrounding infection or seepage of blood-stained fluid into the tissue. Discolouration of the skin over any hernia is a warning sign and urgency of surgical management is indicated. When choosing between a low, inguinal, or high approach in femoral hernia the risk of bowel resection should be considered. In emergency cases, the risk of bowel infarction requiring resection is high and therefore a high approach, allowing easy access to the peritoneal cavity, is best. Laparoscopic approaches have been used in elective femoral hernia repair and the finding of an occult femoral hernia during inguinal hernia surgery is not unusual. The mesh is placed to cover the deep inguinal ring, Hasselbach's triangle and femoral canal, thus protecting against indirect inguinal, direct inguinal and femoral hernia. Studies have shown an increased risk of femoral hernia after open inguinal hernia repair, possibly due to widening of the femoral canal. In some cases, it might be that there was an error of diagnosis and an inguinal hernia repair was done when the patient actually had a femoral hernia. The femoral vein runs immediately lateral to the femoral canal and is at risk during surgery. The femoral artery is more lateral and the nerve more lateral still. They are unlikely to be damaged."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "Which of the following are not true?",
+            "options": [
+                "A Most incisional hernias will occur within 2 years of the surgery.",
+                "B Jenkins Rule states that in closing an abdominal incision the length of suture used should be four times the length of the incision. However, this has been disproved.",
+                "C Transverse abdominal incisions are less likely to herniate than vertical incisions.",
+                "D Non-absorbable meshes placed at initial surgery will reduce the risk of subsequent incisional herniation.",
+                "E Open mesh repair of incisional hernia has a higher wound infection rate but lower recurrence rate when compared with laparoscopic mesh repair."
+            ],
+            "answer": [
+                "A",
+                "B"
+            ],
+            "explanation": "Long-term follow-up studies have shown that whilst there is a increased rate of herniation in the first 18 months after surgery, the rate of failure then remains constant at least for the next 10 years and that this rate of late failure is similar for suture and mesh repair. Jenkins rule does state that the suture length should be four times the length of the abdominal wound and has been proved by more recent publications. It should be obeyed to reduce the risk of incisional hernia. Transverse incisions are less likely to result in incisional hernia than vertical incisions, but the difference is relatively small. Studies have shown that, in high-risk patients, e.g., bariatric surgery, the use of prophylactic meshes will reduce the rate of incisional hernia. Mesh placed around a bowel stoma also reduces the risk of para-stomal herniation. In comparative studies, open repair of incisional hernia is associated with a higher risk of infection but lower risk of recurrence compared with laparoscopic repair. Risk of complications should be discussed with the patient prior to surgery."
+        },
+        {
+            "id": 6,
+            "question_type": "emq",
+            "question": "Match the diagnoses with one of the scenarios that follows:",
+            "options": {
+                "items": [
+                    "1 Direct inguinal hernia",
+                    "2 Divarication of recti",
+                    "3 Epigastric hernia",
+                    "4 Femoral hernia",
+                    "5 Incisional hernia",
+                    "6 Indirect inguinal hernia",
+                    "7 Paraumbilical hernia",
+                    "8 Port-site hernia",
+                    "9 Spigelian hernia",
+                    "10 Umbilical hernia"
+                ],
+                "choices": [
+                    "A A 6-month-old infant has a history of lump over the belly-button that increases in size when the baby cries.",
+                    "B A 26-year-old presents with a lump over his left groin. Examination reveals cough impulse and a reducible hernia extending into the scrotum. Pressure over the internal ring controls the hernia.",
+                    "C A 60-year-old obese woman has a painful lump just above her umbilicus. Examination confirms a round smooth tender mass with no cough impulse.",
+                    "D A 78-year-old woman has a suspected enlarged left groin lymph node. Examination reveals a 2-cm hard, tender and irreducible lump below and lateral to the pubic tubercle with no cough impulse.",
+                    "E A 40-year-old woman describes a gradually increasing lump in the lower, right abdomen. She has had three caesarean sections. There is a Pfannenstiel scar with a reducible mass at its lateral end.",
+                    "F A 76-year-old man has a 2-year history of small swellings in both groins, causing no real discomfort. Examination confirms reducible hernias, which are not controlled by pressure over the deep inguinal ring.",
+                    "G A 50-year-old man presents with a lump below but well lateral to the umbilicus. You suspect an inguinal hernia but the mass seems to be slightly too high and too lateral for this diagnosis.",
+                    "H A 22-year-old fit male presents with tender, firm, 2-cm nodule in the midline just below the xiphisternum. There is no cough impulse. The patient believes that the lump increases in size on exercise.",
+                    "I A 62-year-old labourer is referred with an abdominal hernia. When lying down, no mass is visible but on raising his head from the bed, a broadly based swelling appears between the xiphisternum and umblilicus.",
+                    "J A 45-year-old woman has a 3-cm firm mass at the umbilicus. She had a laparoscopic cholecystectomy 2 years ago."
+                ]
+            },
+            "answer": {
+                "1": "F",
+                "2": "I",
+                "3": "H",
+                "4": "D",
+                "5": "E",
+                "6": "B",
+                "7": "C",
+                "8": "J",
+                "9": "G",
+                "10": "A"
+            },
+            "explanation": "1. F Direct inguinal hernia\nIn elderly men it is not uncommon to see bilateral groin bulges lying medial to the deep inguinal ring. These are early direct hernias. If truly asymptomatic, a wait and watch policy might be adopted (sometimes called watchful waiting) but surgery should be recommended if symptoms develop or the masses are clearly increasing in size.\n2. I Divarication of recti\nTo the patient, a divarification is like a hernia but in fact the linea alba has simply stretched to allow the bulging. They do not contain bowel and therefore cannot strangulate. The results of surgery are poor and therefore operation is not recommended. There may be an accompanying epigastric or paraumbilical hernia which might require surgery.\n3. H Epigastric hernia\nEpigastric hernias are often irreducible and have no cough impulse. On examination they feel like a lipoma, as they normally only contain extraperitoneal fat. There is no risk of bowel strangulation but an operation is advised to treat the pain.\n4. D Femoral hernia\nIt is easy to miss a small groin lump or for it to be misdiagnosed as a lymph node. Early exploration should be recommended. A low approach may be used in this case and local anaesthesia might be used in the unfit patient.\n5. E Incisional hernia\nAn incisional hernia is the most likely diagnosis in this case, indeed any hernia close to a surgical incision is likely to be an incisional hernia.\n6. B Indirect inguinal hernia\nAt this age, an early operation would be required as the hernia is likely to affect his work. There is also higher risk of complications in an indirect inguinal hernia, suggested by control with pressure at the deep inguinal ring.\n7. C Paraumbilical hernia\nParaumbilical hernia is common in adults. Small painless hernias might not require surgery, but the pain in this case and irreducibility suggest complications are likely and thus surgical invention is required.\n8. J Port-site hernia\nPort-site hernias occur in approximately 1% of cases after laparoscopic surgery, almost always at the site of 10-mm ports (or larger) and 75% at the umbilicus. They are treated like para-umbilical hernias.\n9. G Spigelian hernia\nThis is the most common site of a Spigelian hernia, most of which occur at the level of the arcuate line but in fact can occur at any site along the Spigelian line, which is the junction of muscle and aponeurosis of the transverses abdominis muscle. The hernia is described as interstitial because it expands in a plane between the three muscles. An ultrasound or CT scan is helpful in diagnosis. Operation is advised.\n10. A Umbilical hernia\nMost infantile umbilical hernias resolve spontaneously and no surgical treatment is indicated under the age of 2 years unless complications occur."
+        },
+        {
+            "id": 7,
+            "question_type": "emq",
+            "question": "Choose and match the most appropriate operation with each of the conditions that follow:",
+            "options": {
+                "items": [
+                    "1 Wait and watch",
+                    "2 Laparoscopic inguinal hernia repair (TEP or TAPP)",
+                    "3 Open Lichtenstein repair",
+                    "4 Open or laparoscopic mesh repair",
+                    "5 Non-surgical",
+                    "6 Open suture or plug repair",
+                    "7 Open suture or mesh repair"
+                ],
+                "choices": [
+                    "A Uncomplicated primary unilateral inguinal hernia",
+                    "B Recurrent inguinal hernia – post-open repair",
+                    "C Infantile umbilical hernia",
+                    "D Recurrent inguinal hernia – post-laparoscopic repair",
+                    "E Divarication of recti",
+                    "F Complex incisional hernia in patient known to have extensive adhesions",
+                    "G Small paraumbilical hernia"
+                ]
+            },
+            "answer": {
+                "1": "C",
+                "2": "B",
+                "3": "D",
+                "4": "A",
+                "5": "E",
+                "6": "G",
+                "7": "F"
+            },
+            "explanation": "1. C Wait and watch\nInfantile umbilical hernias will most often resolve and therefore surgery is delayed until beyond 2 years unless complications occur.\n2. B Laparoscopic inguinal hernia repair (TEP or TAPP)\nWhen an inguinal hernia recurs after open surgery, a laparoscopic repair should be recommended as the surgery is minimally affected by postoperative scarring. Laparoscopic repair is also recommended in bilateral hernias.\n3. D Open Lichtenstein repair\nRecurrent inguinal hernia after laparoscopic repair is best re-repaired using an open mesh technique, the most common being a Lichtenstein operation. It is extremely difficult to re-enter the extraperitoneal space laparoscopically due to the mesh causing dense fibrosis.\n4. A Open or laparoscopic mesh repair\nCurrent guidelines suggest that both open and laparoscopic mesh repairs can be recommended for primary inguinal hernia depending on the experience of the surgeon.\n5. E Non-surgical\nIt is better not to operate for simple divarification of the rectus as results are poor and complications of the divarification are unlikely.\n6. G Open suture or plug repair\nSmall paraumbilical hernias may be repaired by suturing or the use of a small plug or mesh. Laparoscopic repair is possible but expensive.\n7. F Open suture or mesh repair\nWhen a patient is known to have extensive adhesions, a laparoscopic approach is unlikely to be successful with a high risk of bowel injury. Open surgery is preferred by using suture or mesh."
+        },
+        {
+            "id": 8,
+            "question_type": "emq",
+            "question": "Match the operation to the description that follows:",
+            "options": {
+                "items": [
+                    "1 Desarda operation",
+                    "2 Lichtenstein operation",
+                    "3 Mayo repair",
+                    "4 Ramirez technique",
+                    "5 Shouldice operation",
+                    "6 Stoppa operation"
+                ],
+                "choices": [
+                    "A Suture repair of inguinal hernia with double breasting of posterior wall of inguinal canal.",
+                    "B Open pre-peritoneal mesh repair for complex inguinal hernia.",
+                    "C Suture repair of paraumbilical hernia with double breasting of anterior sheath.",
+                    "D Suture repair of inguinal hernia employing external oblique aponeurosis.",
+                    "E Open mesh repair of inguinal hernia.",
+                    "F Muscle release to aid abdominal wall closure in large incisional hernia."
+                ]
+            },
+            "answer": {
+                "1": "D",
+                "2": "E",
+                "3": "C",
+                "4": "F",
+                "5": "A",
+                "6": "B"
+            },
+            "explanation": "1. D Desarda operation\nThe Desarda technique for inguinal hernia isolates a strip of external oblique aponeurosis, which is still attached both medially and laterally and sutures this down between the inguinal ligament and conjoint tendon, thus reinforcing the posterior wall of the inguinal canal.\n2. E Lichtenstein operation\nThe Lichtenstein open mesh repair remains the most common technique for repair of inguinal hernia because of its relative simplicity and low recurrence rates. It can be performed under local anaesthesia.\n3. C Mayo repair\nThe Mayo repair is used in paraumbilical hernia, making a transverse incision in the anterior rectus sheath and then closing the defect in two layers. This operation is being replaced by the use of non-absorbable mesh.\n4. F Ramirez technique\nThe Ramirez muscle separation technique is used in large incisional hernias where the surgeon has difficulty in closing the abdomen. Lateral-releasing incisions allow the separation of the three muscle layers so that muscle mass can be moved medially to close a central defect.\n5. A Shouldice operation\nThe Shouldice repair for inguinal hernia is a modified Bassini operation where the posterior wall of the inguinal canal is opened from the deep inguinal ring to the pubic tubercle then closed in two overlapping layers.\n6. B Stoppa operation\nThe Stoppa operation is an open preperitoneal operation placing a large mesh over the posterior aspect of the inguino/femoral canal area, useful in complex, recurrent inguinal hernia."
+        }
+    ]
+}

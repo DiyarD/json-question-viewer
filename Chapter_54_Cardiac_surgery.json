@@ -1,0 +1,188 @@
+{
+    "chapter_name": "Cardiac surgery",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "All of the following statements are true except:",
+            "options": [
+                "A Cardiopulmonary bypass can be used in any procedure where the function of the heart and lungs need to be replaced temporarily.",
+                "B The cardiopulmonary bypass circuit consists of a venous reservoir, oxygenator, heat exchanger, filter and roller pump.",
+                "C Patients require full-dose heparin with the use of cardiopulmonary bypass.",
+                "D Cardiopulmonary bypass is used exclusively for cardiac surgery procedures.",
+                "E Cardiopulmonary bypass can cause serious systemic complications."
+            ],
+            "answer": "D",
+            "explanation": "Cardiopulmonary bypass provides cardiac and respiratory support when the function of the heart and lungs needs to be temporarily interrupted. Advances in cardiopulmonary bypass have resulted in miniaturised circuits with possible advantages of reduced systemic inflammatory response, and the related complications. Cardiac surgery remains its principal domain, but it can be used in the management of patients outside cardiac surgery. For example, it facilitates the resection of renal and hepatic tumours invading the inferior vena cava, highly vascular tumours, extensive arteriovenous malformations and rewarming of patients with severe hypothermia."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "Which of the following is NOT a potential complication of cardiopulmonary bypass?",
+            "options": [
+                "A Pulmonary embolism.",
+                "B Intestinal ischaemia or infarction.",
+                "C Post-cardiotomy syndrome.",
+                "D Neurological dysfunction.",
+                "E Bleeding disorders."
+            ],
+            "answer": "A",
+            "explanation": "Complications can occur at the commencement, during and end of cardiopulmonary bypass. Exposure of blood to the non-physiological surfaces of the cardiopulmonary bypass circuit evokes a systemic inflammatory response that can lead to multi-organ dysfunction. Whereas systemic embolic complications due to air and microemboli can occur with cardiopulmonary bypass, pulmonary embolism is not usually related to cardiopulmonary bypass. In fact, fully heparinising the patient should have a protective effect against pulmonary embolism in the early postoperative period. However, patients at risk for pulmonary embolism tend to develop this complication from about the seventh postoperative day especially if they are not commenced on deep vein thrombosis prophylaxis and mobilised early."
+        },
+        {
+            "id": "3",
+            "question_type": "mcq",
+            "question": "Which of these is not a risk factor for ischaemic heart disease?",
+            "options": [
+                "A Obesity.",
+                "B Female gender.",
+                "C Advancing age.",
+                "D Reduced physical activity.",
+                "E Smoking."
+            ],
+            "answer": "B",
+            "explanation": "Male gender is a risk factor for ischaemic heart disease. However, studies have shown that female gender is associated with a worse outcome after surgical revascularisation."
+        },
+        {
+            "id": "4",
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Coronary artery bypass surgery affords symptomatic and prognostic benefit for subsets of patients with ischaemic heart disease.",
+                "B Coronary artery bypass grafting can be performed with cardiopulmonary bypass, or off-pump, and by minimally invasive approach (MIDCAB).",
+                "C Selective coronary angiography is the 'gold standard' investigation and demonstrates coronary stenosis and coronary characteristics helpful in planning surgery.",
+                "D An estimate of the operative mortality can be calculated using risk-scoring systems.",
+                "E The left internal mammary (or thoracic) artery does not confer any advantage compared to long saphenous vein grafts."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Survival benefit of surgery over angioplasty and stenting has been demonstrated in patients with the following:\n• >50% stenosis of the left main stem\n• >70% stenosis of the proximal left anterior descending artery\n• >70% stenosis of all three major coronary arteries (right coronary, left anterior descending and circumflex)\n• Coronary artery stenosis with poor left ventricular function\nRecent studies have also shown similar outcomes for diabetic patients and patients with severe calcific coronary artery disease (high SYNTHAX score).\nCoronary artery bypass grafting is performed using cardiopulmonary bypass (on-pump) and without cardiopulmonary bypass (off-pump). The prospect of eliminating the systemic inflammatory response syndrome associated with cardiopulmonary pass led to an upsurge in the use of off-pump more than a decade ago, but this practice has introduced a different set of concerns related to poor long-term graft patency. Recent data have shown that while early operative outcomes were similar, a higher re-intervention rate was observed with off-pump. Nevertheless, off-pump seems to have good outcomes in subsets of patients with renal failure and neurological dysfunction. Minimally invasive coronary artery bypass (MIDCAB) is used for single vessel (left anterior descending artery) bypass and has been shown recently to have better outcome than stenting.\nSelective coronary angiography demonstrates coronary anatomy and enables the visualisation of coronary artery size, evaluation of the site, extent and complexity of stenosis and assessment of the distal coronary to help plan surgery. It also allows an estimation of left ventricular function. Rare lesions that can affect outcome of surgery, such as coronary artery aneurysm and fistula, are also revealed. Selective coronary angiography provides comprehensive information, not possible with other imaging techniques, that is useful in developing a strategy for surgery. There is a growing role for CT angiography, which is noninvasive and better demonstrates the degree of calcification of proximal parts of the coronary arteries. Its role in current practice is largely supplementary to coronary angiography.\nRisk-scoring systems, like the EuroSCORE (European system for cardiac operative risk evaluation) and STS (The Society of Thoracic Surgeons) risk score, allocate scores to each risk factor in a patient that are added up to calculate the predicted operative mortality. These risk calculators are available online and used routinely to provide an estimate of the operative mortality for patients' informed consent.\nVenous and arterial grafts are the major conduits used for coronary artery bypass surgery. The long saphenous vein is the most common vein conduit used and the left internal mammary artery is the most common arterial conduit, and the graft of choice for the left anterior descending artery. Venous grafts are susceptible to atherosclerosis, resulting in a 10-year patency rate of 50%–60% for the long saphenous vein. By comparison, arterial grafts are better protected against atherosclerosis. The left internal mammary artery has a 10-year patency rate of 90%. There is a growing trend to use the right internal mammary artery as emerging evidence supports its longer-term patency compared with vein grafts. The concept of total arterial revascularisation (the use of only arterial conduits) where appropriate, is promising and continues to be investigated."
+        },
+        {
+            "id": "5",
+            "question_type": "msq",
+            "question": "Which of these statements are true?",
+            "options": [
+                "A Biological valves are obtained from animals (xenograft or heterograft), dead humans (allograft or homograft) and the patient (autograft).",
+                "B Mechanical valves are more durable than biological valves.",
+                "C Lifelong anticoagulation is required for all prosthetic valves.",
+                "D Age is the only determinant of the choice of prosthetic valve.",
+                "E Biological valves are not at risk of prosthetic valve endocarditis."
+            ],
+            "answer": [
+                "A",
+                "B"
+            ],
+            "explanation": "Biological valves are made or obtained from animal or human tissue. While valves obtained from humans (homograft and autograft) are harvested and implanted without major alteration of the configuration, valves made from animal tissue (heterograft) are constructed to resemble human valves and are mounted on a frame (stented) or frameless (stentless). Among biological valves, heterografts are most commonly used; specifically, stented heterografts are the most frequently implanted. Biological valves are non-thrombogenic, so do not require lifelong anticoagulation.\nBiological valves, unlike mechanical valves, are subject to degenerative changes, which lead to structural failure, and hence their durability is limited. Younger patients are probably more vulnerable. The need to replace a prosthetic valve also arises if there is a paravalvular leak causing haemodynamic instability or haemolytic anaemia, thrombosis of the valve, thromboembolism related to the valve and infection of the valve (prosthetic valve endocarditis). Homografts and autografts (entirely human tissues) are less susceptible to thrombosis or thromboembolism and infection. Mechanical valves and the other biological valves have low risks of paravalvular leak, infection and thrombosis or thromboembolism.\nThe choice of the valve type to implant in a patient is influenced by age and other factors, including clinical considerations (like co-existing medical conditions such as bleeding disorders), patient lifestyle (heavy alcohol use) and patient choice."
+        },
+        {
+            "id": "6",
+            "question_type": "msq",
+            "question": "All of the following statements are true except:",
+            "options": [
+                "A Mitral stenosis causes left atrial enlargement, pulmonary hypertension, atrial fibrillation and haemoptysis.",
+                "B Severe symptoms, as assessed by the New York Heart Association (NYHA) functional classification, are the indication for surgery in mitral valve disease (regurgitation and stenosis).",
+                "C Acute and chronic mitral regurgitation have similar pathophysiology and clinical presentation.",
+                "D Mitral valve repair is preferable to mitral valve replacement but more technically demanding.",
+                "E Percutaneous mitral valve repair (MitraClip) can be used to treat subsets of high-risk patients with mitral valve regurgitation."
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "explanation": "Surgery is performed in mitral valve disease to relieve symptoms and improve survival (prognostic). Severe symptoms, however, are not the only indication for surgery. For mitral regurgitation, progressive left ventricular dilatation or dysfunction and severe onset of regurgitation are the other indications. With increasing numbers of mitral regurgitation being repaired rather than replaced, and the low mortality risk of repair in the early phase of the disease, there is a trend to advocate surgery even in asymptomatic patients with morphological changes (increase in cardiac dimensions) and functional changes (impaired left ventricular function) with or without new onset atrial fibrillation. For mitral stenosis, the other indications are the severity of stenosis (moderate and severe stenosis with valve area of ≤1.5 cm²) and systemic emboli.\nThe onset of mitral regurgitation has implications for changes in cardiac morphology and function, and consequently the strategy for surgical correction. In mitral regurgitation, retrograde ejection leads to an increase in left ventricular volume load. The amount of retrograde ejection increases slowly in chronic mitral regurgitation, allowing adaptive changes like progressive left ventricular dilatation and hypertrophy, and left atrial dilatation, to develop without substantial pressure increase. As a result the pulmonary circulation is protected from developing a sudden increase in pressure. Acute mitral regurgitation does not allow time for these compensatory changes. High-volume retrograde flow into a small left atrium causes a sudden surge in left atrial pressure and a back-pressure increase affecting the pulmonary venous circulation, leading to pulmonary congestion and oedema. Chronic mitral regurgitation, however, ultimately causes congestive cardiac failure when the compensatory mechanisms are overwhelmed.\nAcute mitral regurgitation presents with sudden onset and rapidly progressive dyspnoea with clinical and radiological evidence of pulmonary oedema. Chronic mitral regurgitation is usually asymptomatic until pulmonary congestion and left ventricular failure develop. Then symptoms like fatigue, dyspnoea on exertion, orthopnoea and atrial fibrillation (due to left atrial enlargement) occur, and left ventricular enlargement becomes apparent radiologically. A loud apical pansystolic murmur is audible in both acute and chronic mitral regurgitation."
+        },
+        {
+            "id": "7",
+            "question_type": "mcq",
+            "question": "Which of the following statements are false?",
+            "options": [
+                "A Aortic stenosis is associated with a risk of sudden death related to the severity of stenosis.",
+                "B Aortic stenosis and aortic regurgitation present with similar clinical features, which makes it difficult to distinguishing between both on clinical grounds alone.",
+                "C Rheumatic heart disease can cause aortic stenosis and aortic regurgitation.",
+                "D Aortic valve repair is not a common practice like mitral valve repair.",
+                "E Aortic stenosis can be managed by transcatheter aortic valve implantation (TAVI) is select patient groups."
+            ],
+            "answer": "B",
+            "explanation": "Aortic stenosis and chronic aortic regurgitation are usually asymptomatic until cardiac decompensation occurs. Compensatory mechanisms include ventricular hypertrophy (increase in wall thickness) to overcome the left ventricular outflow obstruction of aortic stenosis and left ventricular dilatation to accommodate the increased left ventricular volume load due to aortic regurgitation. With cardiac decompensation, and acute aortic regurgitation, patients develop exertional dyspnoea and angina. Syncope is also common with aortic stenosis.\nMarked differences exist with clinical findings. A harsh systolic ejection murmur, heard loudest in the aortic area and radiating to the carotids, is typical of aortic stenosis.\nThe distinctive features of aortic regurgitation are due largely to a wide pulse pressure and include the following:\n• Collapsing pulse (water-hammer pulse)\n• Visible capillary pulsation in the nail bed (Quincke's sign)\n• Pulsatile head bobbing (de Musset's sign)\n• Visible pulsation of neck arteries (Corrigan's sign)\n• ‘Pistol shot' sound on auscultation of the femoral artery (Traube's sign)\n• Uvular pulsation (Müller's sign).\nIn aortic regurgitation also, the apex beat is often visible and displaced laterally. The characteristic murmur of aortic regurgitation is high-pitched, mid-diastolic and best heard at the left sternal border. The electrocardiographic and radiological appearances are not usually distinctive."
+        },
+        {
+            "id": "8",
+            "question_type": "mcq",
+            "question": "All of the following statements are true except:",
+            "options": [
+                "A Cyanotic heart diseases are often more complex compared with acyanotic diseases, and result from a right-to-left shunt or a pulmonary circulation that runs in parallel with systemic circulation, or abnormal connection of blood vessels to the heart.",
+                "B Acyanotic heart diseases are more common than cyanotic heart diseases and usually cause heart failure in infancy.",
+                "C The coexistence of ventricular septal defect, overriding aorta, pulmonary stenosis and right ventricular hypertrophy is referred to as Fallot's tetralogy.",
+                "D Four types of atrial septal defects are perimembranous, muscular, atrioventricular and subarterial.",
+                "E In septal defects (atrial and ventricular) a left-to-right shunt causes an increase in pulmonary blood flow and pulmonary vascular resistance. Progressive changes occur if the defects are not closed, leading to Eisenmenger's syndrome."
+            ],
+            "answer": "D",
+            "explanation": "Three main types of atrial septal defect (defect in the septum between the right and left atria) described are the following: ostium secundum, ostium primum and sinus venosus.\nThe defects listed in D (perimembranous, muscular, atrioventricular and subarterial) are the four types of ventricular septal defects. In atrial and ventricular septal defects, a left-to-right shunt occurs and in the long term can cause Eisenmenger's syndrome from high-volume pulmonary blood flow, high pulmonary pressure and reversal of shunt."
+        },
+        {
+            "id": "9",
+            "question_type": "msq",
+            "question": "Which of these are not acyanotic heart diseases?",
+            "options": [
+                "A Patent ductus arteriosus.",
+                "B Total anomalous pulmonary venous drainage.",
+                "C Transposition of the great vessels.",
+                "D Patent foramen ovale.",
+                "E Coarctation of the aorta."
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "explanation": "In total anomalous pulmonary venous drainage, pulmonary venous return is into the systemic venous circulation usually through a communication with the inferior vena cava, superior vena cava, coronary sinus, or right atrium, instead of left atrium. The typical presentation is cyanosis after the first week of life. If there is a co-existent atrial septal defect, cyanosis is minimal even with high pulmonary flow.\nThe aorta arises from the right ventricle and the pulmonary artery from the left ventricle in transposition of the great vessels. This arrangement allows the pulmonary and systemic circulation to run in parallel rather than in series. As oxygenated blood is confined to the pulmonary circulation and deoxygenated blood to the systemic circulation, this condition is not compatible with life. Associated defects like foramen ovale and ventricular septal defect provide channels for mixing of blood. Transposition of the great vessels is the most common congenital heart disease, causing cyanosis in the newborn period, and, in general, the second-most common cyanotic congenital heart disease after tetralogy of Fallot."
+        },
+        {
+            "id": "10",
+            "question_type": "mcq",
+            "question": "Which one of these statements is false?",
+            "options": [
+                "A Common causes of thoracic aortic aneurysm are atherosclerosis and connective tissue disorders.",
+                "B Indication for surgery in thoracic aneurysm depends on the part of the thoracic aorta involved.",
+                "C Paraplegia, renal failure and ventricular dysfunction are some complications of descending aneurysm repair.",
+                "D Stanford types A and B aortic dissection require emergency repair.",
+                "E Pericardial effusion causes an increase in intrapericardial pressure and compression of the atria when this pressure exceeds the atrial pressure. This decreases venous return, cardiac output and blood pressure (cardiac tamponade)."
+            ],
+            "answer": "D",
+            "explanation": "Aortic dissection originating (defect or intimal flap) in the ascending aorta is type A, and one that originates in the descending aorta (beyond the origin of the left subclavian artery) is type B, according to the Stanford classification. Type A requires emergency surgical intervention, but type B is best managed conservatively initially. The indications for surgery in type B aortic dissection include the following:\n• Worsening chest pain indicating imminent rupture\n• Progressive expansion of lesion on serial chest imaging (radiograph or CT scan)\n• Malperfuson syndrome resulting in organ dysfunction, such as renal failure, or limb and neurological complications\nRecent advances in the management of aortic disease include the transluminal placement of stents across the site of aortic aneurysm and localised dissection of the descending aorta in select patients. Thoracic endovascular repair (TEVAR) is less invasive and is performed percutaneously."
+        },
+        {
+            "id": "11",
+            "question_type": "matching",
+            "question": "Choose and match the most appropriate diagnosis or management for the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "A A patient is informed during consent for a procedure for a cardiac disease that, in addition to a procedure-related mortality of about 2%, there is a risk of neurological dysfunction of less than 2%, cardiac arrhythmia up to 30% and significant bleeding up to 5%. What condition is this procedure for?",
+                    "B A patient who had undergone cardiac surgery through a median sternotomy suffers an asystolic cardiac arrest on the fourth postoperative day. Basic life support is commenced promptly, and initial measures fail to resolve the arrest. Suspecting cardiac tamponade, the next appropriate step should be to perform the following test(s) or intervention?",
+                    "C A patient with chronic stable angina presents with new-onset dyspnoea on mild exertion, bilateral basal crepitations and a new loud apical pansystolic murmur. Chest radiograph shows cardiomegaly and pulmonary congestion, but electrocardiography does not show evidence of recent myocardial infarction. What is the likely diagnosis?",
+                    "D Clinical examination of a Marfan's syndrome patient with aneurysmal dilatation of the ascending aorta reveals wide pulse pressure, water-hammer pulse and a mid-diastolic murmur. What procedure is appropriate at this stage in the management of this patient?",
+                    "E On routine chest radiography, a 78-year-old male is suspected of having an aneurysm of the descending thoracic aorta. What is the appropriate investigation?"
+                ],
+                "choices": [
+                    "1 Computed tomography (CT) scan of the chest",
+                    "2 Echocardiography",
+                    "3 Emergency resternotomy",
+                    "4 Ischaemic heart disease",
+                    "5 Mitral regurgitation"
+                ]
+            },
+            "answer": {
+                "A": "4",
+                "B": "3",
+                "C": "5",
+                "D": "2",
+                "E": "1"
+            },
+            "explanation": "1. E Computed Tomography (CT) scan of the chest\nThe diagnosis of thoracic aneurysm can be confirmed by CT of the chest. The site, size and presence of thrombi can be assessed. As descending thoracic aneurysm is often managed conservatively, CT is useful for serial assessment of the aneurysm to determine when surgery is indicated, due to acute enlargement or progressive increase in size to more than 6 cm.\n2. D Echocardiography\nMarfan's syndrome is associated with cystic medial necrosis of the vessel wall, causing weakness and dilatation of the vessel. The aortic root and ascending aorta are commonly affected. Aortic regurgitation due to aortic root dilatation is common. The presence of clinical features of aortic regurgitation in the setting of ascending aortic aneurysm warrants further investigation. Echocardiography assesses the severity of regurgitation, diameter of the aortic root, aortic valve morphology and left ventricular dimensions and function. The information provided by echocardiography is vital in deciding the optimal type of surgical repair.\n3. B Emergency resternotomy\nEmergency resternotomy contributes to the high survival rate reported for cardiac arrests following cardiac surgery. Early re-sternotomy is strongly recommended if a stable cardiac output is not achieved within 5 minutes of the onset of the cardiac arrest. Internal cardiac massage should be performed at a rate of 100 beats per minute, with an aim to achieve systolic arterial pressure of at least 60 mmHg. Emergency resternotomy should be considered until 10 days postoperatively. In some situations, it might be necessary to institute cardiopulmonary bypass.\n4. A Ischaemic heart disease\nSurgical revascularisation for ischaemic heart disease is achieved by coronary artery bypass grafting, one of the most investigated surgical procedures with well and consistently documented complications. An estimate of the operative mortality can be calculated using risk-stratification systems like the EuroSCORE or STS score. Surgery for mitral valve disease is associated with a higher operative risk, approximately 5%–6%, and greater risk for neurological complications.\n5. C Mitral regurgitation\nEven with stable symptoms due to adequate medical therapy, ischaemic heart disease can still cause morphological complications and remains a common cause of mitral regurgitation (ischaemic mitral regurgitation) as a result of its local or global effects. Regional myocardial ischaemia and myocardial infarction cause papillary muscle dysfunction or rupture. Global myocardial ischaemia causes left ventricular dysfunction and dilatation, which pull the mitral leaflets apart so that functional mitral regurgitation occurs in the presence of grossly normal mitral valve leaflets."
+        }
+    ]
+}

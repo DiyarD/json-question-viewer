@@ -1,0 +1,145 @@
+{
+    "chapter_name": "The breast",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "msq",
+            "question": "1. Which of these following statements are true?",
+            "options": [
+                "A Nipple retraction always indicates an underlying malignancy.",
+                "B Staphylococcus aureus is the most common cause for lactational mastitis.",
+                "C Fibroadenomas should always be offered excision, as they are associated with a high risk of malignancy.",
+                "D The histology of phyllodes tumour may be benign, intermediate or malignant.",
+                "E Blood-stained nipple discharge is usually due to a breast carcinoma."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "Nipple retraction might be noticed during puberty when the breasts develop and the etiology is unknown. This might cause difficulty in breastfeeding due to retained secretions. Recent retraction of nipple, particularly in older women, might be of considerable pathological significance. A slit-like retraction might be caused by duct ectasia and chronic periductal mastitis, whereas a circumferential nipple retraction is likely to be due to a malignancy. Staphylococcus aureus is the most common cause of lactational infections. Fifty percent of infants harbour staphylococci in the nasopharynx. A cracked nipple might initiate the mastitis and blocked lactiferous ducts with stagnant milk will allow organisms to multiply, leading to breast abscess. Early recognition and treatment with antibiotics, such as flucloxacillin or comoxiclav, can prevent an abscess formation. Once abscess is formed, then pus should be aspirated under ultrasound guidance. Some patients will require a mini incision and drainage. MRSA (methicillin-resistant Staphylococcus aureus) infections can sometimes occur, particularly if the infection is hospital-acquired. Fibrodenomas are not associated with a high risk of malignancy. They are offered excision if they are large or have a suspicious cytology or when a patient desires to have them removed. Phyllodes tumours are usually single, unilateral, painless palpable breast masses. On clinical examination the phyllodes tumours feel firm, well-circumscribed like fibroadenoma and might be slightly larger when first detected. It is impossible to differentiate smaller phyllodes tumour from fibroadenoma clinically. Features that alert a clinician to a phyllodes tumour include the following: 1. Older age of the patient 2. Larger tumour size 3. History of rapid growth Phyllodes tumor is classified as benign, intermediate and malignant. The degree of stromal cellular atypia, mitotic activity per 10 high-power field, presence or absence of stromal overgrowth (defined as single 40 times field of pure stroma devoid of epithelium), infiltrative or expansile margins are the criteria used to subclassify phyllodes as benign, borderline, or malignant. Blood-stained nipple discharge might be caused by duct ectasia, a duct papilloma, or carcinoma. When due to a duct papilloma or a carcinoma, it is often solitary and spontaneous. Cytology of nipple discharge might not yield any useful information. Mammogram is rarely useful to evaluate nipple discharge, but sometimes might show an underlying mass or calcifications. A high-resolution ultrasound scan might show a dilated duct with intraductal solid component. Ductogram and ductoscopy can be done to visualise the ductal system."
+        },
+        {
+            "id": "2",
+            "question_type": "msq",
+            "question": "2. Which one of the following statements are false?",
+            "options": [
+                "A Hormone replacement therapy (HRT) increases the risk of breast cancer.",
+                "B Inflammatory breast cancer is caused by infection in the breast.",
+                "C Medullary carcinoma in the breast is associated with a poor prognosis.",
+                "D Van Nuy's scoring system is used to decide further management after local excision in patients with ductal carcinoma in situ (DCIS).",
+                "E Oestrogen receptor negative tumours are treated with tamoxifen or aromatase inhibitors."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Long-term use of combined preparation of HRT does significantly increase the risk of developing breast cancer. The million women study has shown that the current use of HRT is associated with an increased risk of incidence of fatal breast cancer. The effect is substantially greater for oestrogen and progesterone combination than for other types of HRT. There has been a decrease in the incidence of breast cancer in the 50s to 60s cohort of women due to a decrease in the use of HRT in the United States and United Kingdom. Inflammatory breast cancer is not related to infection. It is a rare, aggressive type of breast cancer, presenting with swelling, redness, warmth and pain in the breast with oedema. It mimics a cellulitis or abscess, but the findings are due to blocked subdermal lymphatics with tumour cells. The presence of cancer cells in the subdermal lymphatics confirms the diagnosis of inflammatory breast cancer. They used to be rapidly fatal, but with recent advances in systemic therapy, the prognosis has improved considerably. Medullary carcinomas are rare breast cancers that have characteristic histopathological findings that show solid sheets of large cells with lymphoplasmacytic infiltration. They are often oestrogen receptor (ER) and progesterone receptor (PR) negative. Medullary cancers, despite having an aggressive histological picture and being triple negative, often have a better prognosis than infiltrating duct carcinoma not of an otherwise specified type. Ductal carcinoma in situ of the breast represents a broad spectrum of disease with a range of treatment options. The van Nuy's prognostic index is a tool that quantifies measurable prognostic factors like the tumour size, grade, margin width, necrosis and age. Scores 4,5, 6 – Excision alone Scores 7, 8, 9 – Radiotherapy after excision Scores 10, 11, 12 – Mastectomy should be considered Women with ER-negative breast cancers should not be offered hormone manipulation. Oestrogen receptor expression is the main indicator of potential response to endocrine therapy. Approximately 70% of breast cancers are ER positive and therefore hormone dependent. Premenopausal ER patients are treated with tamoxifen, which competes with oestrogen to block the oestrogen receptor selectively. The blockade prevents further downstream signaling for the tumour cells to divide and multiply. Postmenopausal ER-positive women are treated with tamoxifen or, more recently, aromatase inhibitors. Drugs like letrozole, anastrozole, or exemestane inhibit the aromatase enzyme, thereby preventing the peripheral conversion of androstenadione to oestradiol."
+        },
+        {
+            "id": "3",
+            "question_type": "msq",
+            "question": "3. Which one of the following statements are true?",
+            "options": [
+                "A Paget's disease of the breast is usually associated with an underlying invasive carcinoma.",
+                "B The survival outcome following breast-conserving treatment and mastectomy are equal.",
+                "C Positive resected margins are a significant predictor of recurrence after breast-conserving surgery.",
+                "D Sentinel lymph node biopsy should not be offered in clinically node-negative axilla.",
+                "E The pectoralis minor and major muscles are removed in Patey's mastectomy."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C"
+            ],
+            "explanation": "Paget's disease of the nipple is an eczema-like condition of the nipple and areola and usually is associated with an underlying invasive carcinoma. A punch biopsy of the nipple areola should be done if there is any doubt. Microscopically, Paget's disease is characterised by the presence of large ovoid cells with abundant clear pale-staining cytoplasm in the epidermis. Evidence from several randomized controlled trials has shown that long-term survival outcome is equal between breast-conservation surgery along with radiotherapy and mastectomy (Table 53.1). Breast-conservation therapy should be followed up with radiation. The local recurrence rates are high when radiotherapy is omitted following breast-conservation surgery. Younger age, positive resection margins, high-grade tumours, presence of extensive ductal carcinoma-in-situ (DCIS) and presence of lymphovascular invasion are all important determinants of risk of local recurrence. If resected margins are involved, re-excision should be done. If the new re-excised margins are also involved, then mastectomy should be considered. Radiotherapy does not compensate for involved margins to prevent local recurrence. Sentinel lymph nodes in the axilla are the first echelon of lymph nodes draining the breast. Subareolar injection of patent blue dye and radioactive tracer, locates the sentinel lymph node during surgery. The sentinel nodes are removed and evaluated for the presence of metastases from the primary tumour (Figure 53.1). If metastasis is not found, then axillary dissection is not required, thereby reducing the risk of lymphoedema. Pectoralis major muscle is preserved and the minor is removed in Patey's mastectomy. A modification of Patey's mastectomy, where the pectoralis minor muscle is just retracted to provide access to the level 2 and 3 axillary lymph nodes is more widely practiced now."
+        },
+        {
+            "id": "4",
+            "question_type": "msq",
+            "question": "4. Which of the following statements are false?",
+            "options": [
+                "A Adjuvant chemotherapy is not given to post-menopausal women with ER-positive breast cancer.",
+                "B Tamoxifen reduces the risk of contralateral breast cancer.",
+                "C Cyclophosphamide chemotherapy is as effective as anthracycline- and taxane-based chemotherapy.",
+                "D Neoadjuvant chemotherapy improves breast conservation rates in women with slightly larger primary tumour."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D"
+            ],
+            "explanation": "Adjuvant chemotherapy is increasingly being offered to high-risk post-menopausal women. Prognostic indices such as the Nottingham prognostic index and more recently computer-aided programs such as Adjuvant! Online or UK Predict have been used to counsel patients for risk and benefits of adjuvant systemic therapy. Gene signatures are increasingly used to tailor systemic therapy based on the recurrence scores. Tamoxifen has been used widely in the hormonal management of breast cancer for more than four decades. Along with its intended benefit to reduce recurrence rate and death from breast cancer, it also significantly reduces the risk of contralateral breast cancer. The results of various studies comparing CMF versus anthracyline-containing regimens suggest a modest advantage for anthracycline regimens. Inclusion of taxanes further improve the disease-free survival and overall survival. Hence, CMF is no longer considered adequate for adjuvant therapy. Neoadjuvant chemotherapy was initially used to downsize locally advanced tumours to facilitate surgery. It was then used in operable breast cancer to decrease the tumour size to facilitate breast conservation. However, neoadjuvant chemotherapy has no additional advantage over disease-free survival or overall survival when compared with standard adjuvant therapy."
+        },
+        {
+            "id": "5",
+            "question_type": "msq",
+            "question": "5. Which if the following statements are true?",
+            "options": [
+                "A Lymphoedema in the arm after treatment usually indicates a recurrence.",
+                "B Radiotherapy after implant reconstruction of the breast gives poor cosmetic results.",
+                "C Chemotherapy is safe in second and third trimester in women with pregnancy-associated breast cancer.",
+                "D Male breast cancer carries a poor prognosis when compared with female breast cancer."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Lymphoedema of the arm is a troublesome complication of breast cancer treatment that can occur anytime from months to years after treatment. The incidence of lymphoedema is significantly higher when axillary dissection is combined with axillary radiation. It is less seen now as axillary dissection and radiotherapy to the axilla are rarely combined. Besides, sentinel lymph node biopsy has been widely adopted as the standard of care in clinically node-negative axilla. Radiotherapy after implant-based reconstructions can lead to fibrosis and capsular contracture surrounding the implant, resulting in unacceptable results. Implant-based reconstruction after the chest wall has been treated with radiotherapy is also associated with several problems. Delayed or poor wound healing can occur due the effects of radiotherapy. Autologous reconstructions are a better option if radiotherapy to the chest wall is anticipated. Chemotherapy should be avoided in the first trimester, but it appears to be safe in the second and third trimester. Therefore, chemotherapy might be administered as neoadjuvant or adjuvant therapy in the second or third trimester. Stage for stage, the treatment and prognosis of male breast cancer is similar to female breast cancer. Male breast cancer accounts for <1% of all breast cancers. Mastectomy is more often required as the breast size in proportion to the lump is usually small."
+        },
+        {
+            "id": "6",
+            "question_type": "matching",
+            "question": "Choose and match the correct diagnosis or investigations with each of the case scenarios that follow:",
+            "options": {
+                "items": [
+                    "A A 26-year-old breast-feeding mother presents as an emergency with pain, swelling in the right breast and fever for 2 days.",
+                    "B A 58-year-old woman underwent a screening mammogram and was recalled for further assessment. She was found to have fine linear branching micro-calcifications.",
+                    "C A 49-year-old woman woke up to find a lump in the right breast with pain. She is very anxious.",
+                    "D A 35-year-old woman presents with breast pain and lumpiness in both breasts. It is particularly worse before her periods.",
+                    "E A 32-year-old woman attends the breast clinic with a strong family history of breast cancer. Two of her sisters, her mother and her maternal aunt's daughter had breast cancer at an early age. She wants to know her risk of getting breast cancer.",
+                    "F A 42-year-old woman presented with a painless mass in the right breast, which has been rapidly increasing in size. On examination she has a large mass in the right breast with skin stretched and shiny over it.",
+                    "G A 48-year-old woman feels a hard lump that is painless and gradually increasing in size over the past 4 months. Her mammogram shows a spiculated mass in the right breast.",
+                    "H A 26-year-old young woman presents with a painless mass in the left breast. She stopped breastfeeding 1 month ago, following which she noticed this lump.",
+                    "I A 14-year-old boy presents with enlarging breasts which are embarrassing him.",
+                    "J A 45-year-old woman has been diagnosed with a lobular carcinoma in the right breast.",
+                    "K A 52-year-old woman presented with a greenish black nipple discharge on both sides.",
+                    "L A 28-year-old woman presents with a discrete lump in the breast. The lump is painless and moves freely within the breast.",
+                    "M A 49-year-old man presents with a painless mass just under the nipple and areola on the right side of 3 months duration."
+                ],
+                "choices": [
+                    "1 ANDI (Aberration of normal development and involution)",
+                    "2 BRCA 1 and 2 tests",
+                    "3 Breast abscess",
+                    "4 Breast cyst",
+                    "5 Core needle biopsy",
+                    "6 Duct ectasia",
+                    "7 Fibroadenoma",
+                    "8 Galactocele",
+                    "9 Gynaecomastia",
+                    "10 Male breast cancer",
+                    "11 MRI scan of the breasts",
+                    "12 Phyllodes tumour",
+                    "13 Vacuum-assisted biopsy"
+                ]
+            },
+            "answer": {
+                "A": "3",
+                "B": "13",
+                "C": "4",
+                "D": "1",
+                "E": "2",
+                "F": "12",
+                "G": "5",
+                "H": "8",
+                "I": "9",
+                "J": "11",
+                "K": "6",
+                "L": "7",
+                "M": "10"
+            },
+            "explanation": "1. D ANDI There is sound clinical evidence that many benign breast conditions, especially cyclical pain, nodularity and cysts are likely to have their pathogenesis in hormonal events during reproductive life. ANDI is a term used to describe most benign breast diseases. It is based on the fact that most benign breast disorders are relatively minor aberrations of the normal processes of development, cyclical hormonal response and involution. Patients may give a history of cyclical mastalgia and nodularity. Persistent dominant nodules that are palpable clinically might require imaging evaluation and histopathological correlation.\n2. E BRCA1 and 2 tests Women who are thought to be gene carriers may be offered BRCA 1 and BRCA 2 tests. BRCA 1 gene is located in the long arm of chromosome 17 and BRCA2 in the short arm of chromosome 13. Genetic counseling should be offered before testing. Those who test positive have a 50%-80% risk of developing breast cancer and 15%-45% risk of developing ovarian cancer in their lifetime.\n3. A Breast abscess Lactation-associated infections are the most common infections in the breast. It occurs normally within 6 to 8 weeks following delivery. Patients often present with pain, swelling and redness along with fever and chills. There might be a tender, palpable lump with stretched, discolored, shiny skin. The abscess starts to point, and with skin necrosis the pus is discharged. Staphylococcus aureus is the most common organism. On ultrasound, abscess cavity appears as an ill-defined hypoechoic collection that can sometimes be multi-loculated. The wall of the abscess cavity is often thick, irregular and echogenic with increased vascular flow. Acoustic enhancement is present due to fluid content (Figure 53.2a and b). The majority of lactation-associated breast abscesses can be drained by ultrasound-guided aspiration, and this is the preferred method of treatment. Flucloxacillin or augmentin are usually the antibiotics of choice. In patients with penicillin sensitivity, erythromycin or clarithromycin can be given.\n4. C Breast cyst Symptomatic cysts present with a palpable breast mass or masses that might develop suddenly and be associated with pain and tenderness. Clinically detected breast mass cannot be characterised as a cyst on the basis of physical findings alone. Any breast mass in a woman above 40 years of age should be investigated with a mammogram and breast ultrasound after a clinical breast examination (triple assessment) (Figure 53.3). Cysts develop as a result differential of involution of breast acinar tissue and ductules. They might be small or large, single, or multiple. Large tension cyst might typically present with a painful lump in the breast and cause great anxiety to the patient. Mammogram may show single or multiple masses, and breast ultrasound clearly distinguishes cyst from a solid mass (Figures 53.4a, b and c). Guided aspiration provides instant relief. Cytology of the cyst aspirate is not done routinely.\n5. G Core needle biopsy Spiculated lesion on a mammogram (Figures 53.5a, b and c) is very suspicious of a malignancy. She requires a core needle biopsy of the lesion. Core needle biopsy allows a definitive diagnosis, with the possibility of differentiation between in situ and invasive disease (Figure 53.6). It is also possible to obtain estrogen and progesterone receptors and HER2 receptor status for treatment planning. It is particularly important to do a core biopsy before neoadjuvant chemotherapy. Although fine-needle aspiration (FNAC) is quick, easy and much more cost effective to do, it is associated with high false-negative results and inconclusive smears.\n6. K Duct ectasia Bilateral greenish black discharge in a premenopausal woman is likely to be due to duct ectasia. Duct ectasia is usually due to progressive involution of ducts. With increasing age, the myoepithelial layer of the major ducts loses its elasticity and contractility resulting in progressive duct dilatation and thickening of its walls. The stagnant secretions within the blocked duct gets thicker and inspissated. Most women with duct ectasia are asymptomatic, and it is often an incidental finding on ultrasound. Some describe a feeling of intense surge resembling the milk surge with breastfeeding. Some women present with multiple episodes of greenish-brown to black nipple discharge. There might also be associated nipple retraction because of shortening of ducts due to repeated inflammation. The retraction is slit-like (letterbox nipple) in contrast to retraction due to malignancy, where the entire nipple gets pulled in.\n7. L Fibroadenoma Fibroadenomas are firm, rubbery, elliptical, or gently lobulated in shape. They are freely mobile and often described as a ‘breast mouse.' They are encapsulated by a thin rim of compressed breast tissue. Histologically they are of two types—intracanalicular and pericanalicular. Pericanalicular fibroadenomas have stromal tissue surrounding the ducts and intracanalicular fibroadenomas have the ducts compressed into slits by the stroma (Figure 53.7). Breast ultrasound is a very useful tool in very young women with dense breasts in whom mammogram is very difficult to interpret. Ultrasound reliably distinguishes a solid from a cystic mass and is very useful in characterising masses. Well-delineated, transversely oriented, hypoechoic mass with edge shadows is likely to be a benign fibroadenoma (Figure 53.8).\n8. H Galactocoele A painless lump that occurs following cessation of lactation is likely to be a galactocele. Patients typically present with a painless breast lump occurring over weeks to months. It is essentially a milk-retention cyst. Ultrasound appearances show a cyst, sometimes with fat fluid levels (Figure 53.9). Aspiration yields milky fluid. It might become thick and inspissated if it has been present for a long duration. Galactoceles usually resolve with aspiration. Secondary infection may result in a breast abscess.\n9. I Gynaecomastia Gynaecomastia is a common benign condition that mainly affects teenage boys and older men, although it can affect men at any age. The causes are listed in Figure 53.10. The presentation varies from minor enlargement of breast tissue just behind the nipple to enlargement of the entire breast. Diagnosis is based on clinical breast examination and ultrasound of the breast or breasts. Most often, reassurance is all that is necessary. For some, removing the cause of gynaecomastia, such as changing medication and reducing alcohol intake, will reduce extra breast tissue. Occasionally, gynaecomastia might be treated by short-term hormonal therapy such as tamoxifen. Surgery is recommended if gynaecomastia has not improved with conservative measures and if it is affecting quality of life. The aim of surgery is to restore a normal- looking chest (Figure 53.11).\n10. M Male breast cancer About 1% of breast cancers occur in men. Men with Klinefelter's syndrome are at a high risk of developing male breast cancer. BRCA2 mutations in men are also associated with a higher risk of breast cancer. Typically a patient presents with a lump in the breast. The assessment and treatment for male breast cancer is the same as in female breast cancers. The prognosis for male breast cancer is similar to that of female breast cancer (Figures 53.12a,b and c).\n11. J MRI scan of breasts Lobular cancer accounts for about 10% of all invasive cancers and is often multicentric and bilateral. MRI is useful to assess multicentricity and also will evaluate the contralateral breast to rule our bilateral breast cancers (Figure 53.13). Histologically the duct lobular units are distended by tumour cells, which exhibit round nuclei and small nucleoli. The cancer cells form solid clusters that pack and distend lobular acini (Figure 53.14).\n12. F Phyllodes tumour Phyllodes should certainly be considered as a possibility in older woman presenting with a rapidly enlarging breast mass. The rapidity of growth by itself does not indicate malignant potential. Because of the rapidity of growth, the mass may produce visible bulging when it expands quickly, with shiny and stretched skin with dilated veins over the mass as it pushes against the skin. The skin may ulcerate secondary to ischemia due to pressure on the overlying skin. On a mammogram most phyllodes tumours appear as circumscribed lobulated, high-density masses (Figure 53.15a). On breast ultrasound (Figure 53.15b) they are seen as large, well-circumscribed, ovoid heterogeneous hypoechoic lesion with cystic cleft-like space. Phyllodes can be benign, intermediate, or malignant. Wide excision with good margins will be required. For more aggressive and very large lesions, mastectomy is recommended.\n13. B Vacuum-assisted biopsy (Figures 53.16a,b and c). Large core biopsy with a large core technique allows more extensive sampling of nonpalpable pleomorphic or fine linear branching calcifications, as these may represent ductal carcinoma in situ. Sampling error decreases and diagnostic accuracy improves with large biopsies with vacuum systems."
+        }
+    ]
+}

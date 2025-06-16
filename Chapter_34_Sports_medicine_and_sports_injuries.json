@@ -1,0 +1,361 @@
+{
+    "chapter_name": "Sports medicine and sports injuries",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "1. Regarding tendon injuries and repair, which of the following statements are true?",
+            "options": [
+                "A The strength of a damaged tendon returns to normal within 3 months following injury.",
+                "B Tendons heal by degeneration of the distal end followed by regrowth from the proximal end.",
+                "C Paratendinitis has a poor prognosis.",
+                "D Tendinosis can be painless.",
+                "E Tendons consist of type-2 collagen fibres."
+            ],
+            "answer": "D",
+            "explanation": "Tendons are made up of tightly packed type-1 collagen bundles or fascicles that are contained with endotenon and then in turn epitenon. Tendons heal by fibroblasts laying down new collagen. As a tendon heals following injury there is a period when it is significantly weaker, particularly for 7 to 10 days after injury, before the strength recovers over the first month, but does not approach near to normal until 6 months. Inflammation of the membrane surrounding the tendon (paratendinitis) routinely has a good prognosis following a period of analgesia and rest. Tendinosis (degeneration of the tendon itself) can be completely asymptomatic before it presents with failure."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. A patient who has a suspected anterior cruciate ligament (ACL) injury with pain around the knee and some laxity to the ACL but with a firm end-point on testing, has which grade of injury?",
+            "options": [
+                "A Grade 0",
+                "B Grade 1",
+                "C Grade 2",
+                "D Grade 3",
+                "E Not enough information"
+            ],
+            "answer": "E",
+            "explanation": "When classifying ligament injuries it is essential to compare the degree of laxity of the contralateral ligament, as this varies from patient to patient. Ligament injuries can be classified according to Table 34.1."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. Regarding bursae, which of the following statements are true?",
+            "options": [
+                "A They are normal structures designed to reduce friction.",
+                "B They do not contain synovium.",
+                "C They are unable to become inflamed and infected.",
+                "D They do not have a nerve supply.",
+                "E None of the above."
+            ],
+            "answer": "A",
+            "explanation": "Bursae are naturally occurring fluid-filled structures found under areas of load, aiming to reduce friction where possible. Bursae are lined with synovium but do not routinely connect with the joint beneath. They can become painful, inflamed and infected, e.g., olecranon bursitis (Figure 34.2), and so have a nerve supply."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. Regarding stress fractures, which of the following statements are true?",
+            "options": [
+                "A They most frequently present acutely following a high-intensity, high-load sport.",
+                "B Pain is very well localised.",
+                "C They are easy to diagnose with radiographs.",
+                "D MRI is a useful adjunct in the diagnosis.",
+                "E They heal at the same rate as acute fractures."
+            ],
+            "answer": "D",
+            "explanation": "Stress fractures are frequently associated with low-intensity, low-load sports that involve a large number of repetitions. The pain is often not well localised and particularly incomplete fractures are difficult to see on radiographs. However, MRI is a very useful adjunct in diagnosing a stress fracture. Healing rates are often slow."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "5. Regarding soft tissue injuries, which of the following statements are true?",
+            "options": [
+                "A Soft tissue haematomas do not resolve spontaneously.",
+                "B A cyst following a soft tissue haematoma never requires surgical excision.",
+                "C Quadriceps tears routinely affect the vastus lateralis muscle.",
+                "D Meniscal tears of the knee lead to a rapid onset effusion.",
+                "E Damaged muscle can be replaced with cartilage."
+            ],
+            "answer": "E",
+            "explanation": "Most soft tissue haematomas resolve spontaneously, but if they are very large they can become infected or a cyst may form, and in rare cases the cyst may need excising. This is, however, a last resort. The anterior compartment of the thigh includes the quadriceps muscles, along with psoas major, iliacus, sartorius and pectineus. All are innervated by the femoral nerve, except for psoas (lumbar plexus); pectineus occasionally gets a branch from the obturator nerve in addition. The quadriceps muscles are detailed in Table 34.2. Quadriceps tears in athletes commonly involve the rectus femoris muscle, particularly the aponeurosis. Complete quadriceps ruptures are less common. Injuries to the knee normally occur following either a direct blow or twisting mechanism to the knee. A rapid onset effusion is indicative of blood in knee (haemoarthrosis) and is associated with a cruciate rupture (e.g., anterior cruciate ligament), intra-articular fracture (e.g., tibial plateau), or patella dislocation. Isolated meniscal injuries frequently present with a slow onset effusion and possibly true locking of the knee. Damaged muscle can be replaced with cartilage and even bone (myositis ossificans)."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. Regarding the anatomic reduction of displaced unstable ankle fractures (Figure 34.1), which of the following statements are true?",
+            "options": [
+                "A It guarantees a full range of motion in the long term.",
+                "B It guarantees full strength in the ankle in the long term.",
+                "C It aims to avoid the premature onset of osteoarthritis.",
+                "D It aims to avoid the premature onset of osteoporosis.",
+                "E It aims to improve proprioception."
+            ],
+            "answer": "C",
+            "explanation": "Injuries to the ankle are common in sports, with ankle sprains one of the most common causes of morbidity. The Ottawa ankle rules can help to determine whether radiographs are required following an injury to the ankle. These include the following: • Bony tenderness over the lateral malleolus, distal 6-cm posterior margin • Bony tenderness over the medial malleolus, tip or distal 6-cm posterior margin • Inability to weight bear at time of injury or on presentation Fractures to the ankle are routinely classified according to the AO-Weber classification, which is based on AP and lateral x-rays of the ankle. This classification helps to guide management (Table 29.3). The anatomic reduction of an ankle fracture is crucial as it is an intra-articular injury. It is suggested that if the articular fragments heal more than 2 mm out of place, there will be such high peak loads on the articular cartilage that premature osteoarthritis will result. Following anatomic reduction of any fracture, there can be no guarantee regarding function or strength in the long term. Fracture reduction is not associated with the risk of osteoporosis."
+        },
+        {
+            "id": 7,
+            "question_type": "emq",
+            "question": "A A 38-year-old woman presents with pain over the lateral aspect of her right elbow. The pain is reproduced when her wrist is extended against resistance.",
+            "options": {
+                "items": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "choices": [
+                    "1 Ballet",
+                    "2 Football",
+                    "3 Golf",
+                    "4 Javelin Throwers",
+                    "5 Kayaking",
+                    "6 Marathon runners",
+                    "7 Rugby",
+                    "8 Swimming",
+                    "9 Tennis"
+                ]
+            },
+            "answer": "9",
+            "explanation": "Lateral epicondylitis, commonly known as tennis elbow, is common and affects up to 50% of tennis players. It is characterised by eccentric loading (repetitive supination-pronation with extended elbow), often from repetitive micro-trauma, of the common extensor origin (frequently ECRB), leading to tendinosis and inflammation. Degeneration, repair and rupture of the aponeurotic fibres can occur. Patients are tender over the lateral epicondyle of the humerus, with the pain reproduced on resisted wrist or long finger extension. Grip strength may be diminished, as this causes pain. Conservative measures are successful in the vast majority of cases and can include activity modification, nonsteroidal anti-inflammatory drugs (NSAIDS), physiotherapy, bracing and steroid injections. Surgery (common extensor origin debridement and release) is very rarely indicated and should only be considered after a prolonged trial of nonoperative measures. Medial epicondylitis, commonly known as golfer's elbow, is a similar but much less common condition that affects the common flexor origin (FCR and pronator teres frequently). It is often more difficult to manage."
+        },
+        {
+            "id": 8,
+            "question_type": "emq",
+            "question": "B A 24-year-old man falls heavily on his right wrist when diving and complains of pain over the anatomical snuffbox. Scaphoid radiographs are initially normal. Subsequent MRI reveals an undisplaced fracture of the waist of the scaphoid.",
+            "options": {
+                "items": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "choices": [
+                    "1 Ballet",
+                    "2 Football",
+                    "3 Golf",
+                    "4 Javelin Throwers",
+                    "5 Kayaking",
+                    "6 Marathon runners",
+                    "7 Rugby",
+                    "8 Swimming",
+                    "9 Tennis"
+                ]
+            },
+            "answer": "2",
+            "explanation": "Scaphoid fractures are the most common fracture of the carpus. Risk factors for a true scaphoid fracture have been found to be male gender and sports injuries, with goalkeepers most susceptible. Up to 30% to 40% of scaphoid fractures are not identified on routine primary four-view radiographs (see Chapter 29), with the clinical scaphoid fracture a diagnostic conundrum. Repeat assessment, including further imaging in the form or CT or MRI, might be required to diagnose the occult fracture. Patients are classically tender over the anatomical snuffbox, although this has very poor specificity. Treatment for undisplaced fractures routinely involves 6 to 12 weeks in a below-elbow cast. There is evidence to suggest that percutaneous screw fixation of undisplaced or minimally displaced fractures has a shorter time to return to work and sports."
+        },
+        {
+            "id": 9,
+            "question_type": "emq",
+            "question": "C An 18-year-old woman presents with a gradual worsening pain over the proximal forearm, with pain on resisted supination with 4+/5 weakness on extension of the metacarpals.",
+            "options": {
+                "items": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "choices": [
+                    "1 Ballet",
+                    "2 Football",
+                    "3 Golf",
+                    "4 Javelin Throwers",
+                    "5 Kayaking",
+                    "6 Marathon runners",
+                    "7 Rugby",
+                    "8 Swimming",
+                    "9 Tennis"
+                ]
+            },
+            "answer": "5",
+            "explanation": "Compression of the posterior interosseous nerve (PIN) is associated with kayaking, amongst other things. The radial nerve passes anterior to the humeral lateral epicondyle, crossing the antecubital fossa behind brachioradialis. Once it enters the forearm it divides into the following deep and superficial branches: • Deep branch → posterior interosseous nerve: passes between two heads of supinator, winds around the radial neck, supplies posterior forearm compartment travelling down the forearm posterior to the interosseous membrane. • Superficial branch → superficial branch of the radial nerve: travels distally posterior to brachioradialis and provides cutaneous supply to the lateral dorsum of the hand. Compression of the PIN is likely to be due to repetitive pronation-supination movements associated with paddling. The presentation depends on the chronicity of the problem, with weakness (or even atrophy) of the wrist and hand extensors possible. Nerve conduction studies can confirm the diagnosis and level of compression. Nonoperative treatment is first line and involves activity modification, NSAIDs, physiotherapy, splints and possibly steroid injections. Decompression of the nerve is considered after a prolonged trial of nonoperative management, with a variable outcome."
+        },
+        {
+            "id": 10,
+            "question_type": "emq",
+            "question": "D A 21-year-old man presents acutely with pain and tenderness over volar aspect of the distal interphalangeal joint (DIPJ) of the ring finger. On examination the ring finger has no active flexion of the DIPJ. Radiographs of the finger are normal.",
+            "options": {
+                "items": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "choices": [
+                    "1 Ballet",
+                    "2 Football",
+                    "3 Golf",
+                    "4 Javelin Throwers",
+                    "5 Kayaking",
+                    "6 Marathon runners",
+                    "7 Rugby",
+                    "8 Swimming",
+                    "9 Tennis"
+                ]
+            },
+            "answer": "7",
+            "explanation": "This patient presents with a classic jersey finger, which is an avulsion of the FDP insertion at the base of the distal phalanx. It commonly occurs when a rugby player attempts to grab an opposition player's jersey. According to the Verden zones, this is a Zone 1 (midpoint middle phalanx to fingertip) injury. The ring finger is commonly affected, and the severity of the injury can be classified according to the Leddy and Packer classification that takes into account how far back the tendon has retracted and whether there is a bony avulsion fragment. On clinical assessment, the history is one of inability to flex the DIPJ. Radiographs of the affected finger are required to exclude an associated bony avulsion. Treatment is with tendon repair +/- fixation of any osseous fragment."
+        },
+        {
+            "id": 11,
+            "question_type": "emq",
+            "question": "A A 24-year-old man sustains a twisting injury to his knee, with his body turning outwards (the tibia rotates inwards) as he falls while climbing a mountain. His binding fails to release and he feels a crack in his knee. Nothing seems to be out of place, but it swells immediately and he has to be brought down off the mountain on a stretcher. He has a positive Lachman's test.",
+            "options": {
+                "items": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F"
+                ],
+                "choices": [
+                    "1 Anterior cruciate ligament injury",
+                    "2 Chondromalacia patellae",
+                    "3 Hoffa's syndrome",
+                    "4 Lateral collateral ligament injury",
+                    "5 Medial collateral ligament injury",
+                    "6 Meniscal injury",
+                    "7 Patella dislocation",
+                    "8 Posterior cruciate ligament injury",
+                    "9 Tibial plateau fracture"
+                ]
+            },
+            "answer": "1",
+            "explanation": "A valgus twisting injury of the flexed knee when the foot is locked onto the ground routinely tears the anterior cruciate ligament (ACL). This is an acute intrinsic injury that is most commonly seen in males following a sports injury. Associated injuries include a tear the medial meniscus and the medial collateral ligament (triad of O'Donoghue). The ACL has a blood supply (unlike the meniscus) and so the knee swells immediately with blood (haemoarthrosis), and normally the person will not be able to continue. Patients can present chronically with a history of trauma and recurrent problems of instability when getting back to increasing levels of activity, e.g., knee giving way on changing direction. On clinical assessment the diagnosis of a disrupted ACL is made with a positive anterior draw test or positive Lachmann's test, both of which test for abnormal subluxation of the tibia forward on the femur. The pivot shift test is another test. Radiographs of the knee to exclude a bony injury, followed by MRI are routine (Figure 34.3). Treatment is with rest, analgesia and physiotherapy. If the patient has ongoing problems with instability, ligament reconstruction using a tendon graft, e.g., hamstring, can be performed."
+        },
+        {
+            "id": 12,
+            "question_type": "emq",
+            "question": "B An 18-year-old driver is involved in a high-energy motor vehicle accident. He sustains facial injuries from the windscreen and a fractured sternum from the steering wheel, and his right knee is painful and swollen. Radiographs are unremarkable.",
+            "options": {
+                "items": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F"
+                ],
+                "choices": [
+                    "1 Anterior cruciate ligament injury",
+                    "2 Chondromalacia patellae",
+                    "3 Hoffa's syndrome",
+                    "4 Lateral collateral ligament injury",
+                    "5 Medial collateral ligament injury",
+                    "6 Meniscal injury",
+                    "7 Patella dislocation",
+                    "8 Posterior cruciate ligament injury",
+                    "9 Tibial plateau fracture"
+                ]
+            },
+            "answer": "8",
+            "explanation": "Injuries to the posterior cruciate ligament (PCL) are less common (5%–20% knee ligament injuries) and commonly occur following a motor vehicle accident when the knee is driven back by impact with the dashboard. Missed diagnosis in the acute setting does occur. This posterior displacement of the flexed tibia on the femur ruptures the PCL. Multi-ligamentous injury can occur. Patients with a ruptured PCL have a positive anterior draw test (just like a patient with a ruptured anterior cruciate). However, the draw is forward from a posterior sag position. It is therefore the posterior sag which is diagnostic. Radiographs of the knee to exclude a bony injury followed by MRI are the investigations of choice. Surgery for athletes is often indicated."
+        },
+        {
+            "id": 13,
+            "question_type": "emq",
+            "question": "C A 32 year-old woman who plays football on weekends complains of pain over the medial aspect of the left knee and intermittent problems with an inability to straighten her leg. She has positive McMurray's test.",
+            "options": {
+                "items": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F"
+                ],
+                "choices": [
+                    "1 Anterior cruciate ligament injury",
+                    "2 Chondromalacia patellae",
+                    "3 Hoffa's syndrome",
+                    "4 Lateral collateral ligament injury",
+                    "5 Medial collateral ligament injury",
+                    "6 Meniscal injury",
+                    "7 Patella dislocation",
+                    "8 Posterior cruciate ligament injury",
+                    "9 Tibial plateau fracture"
+                ]
+            },
+            "answer": "6",
+            "explanation": "This woman presents with a history that is classical of true locking of the knee, most likely secondary to a meniscus tear. In this case, it is likely the medial meniscus given her area of discomfort. If the tear is bucket-handled in shape, then sometimes the bucket handle will fold over and lock in the knee joint. In the chronic setting, the patient then has to wiggle the knee to relocate the torn fragment before she can move the knee again. The patient may have a positive McMurray's test, but this is not highly sensitive or specific, and the injury is best diagnosed by MRI or arthroscopy. In the acute setting, a torn meniscus sometimes allows a sportsperson to play on and may not swell until some hours later. For a symptomatic patient, arthroscopy with menisectomy or repair can be performed. If the meniscal tear is peripheral and amenable to repair, this is likely to give the best outcome, as peripheral tears have a good vascular supply."
+        },
+        {
+            "id": 14,
+            "question_type": "emq",
+            "question": "D A 20-year-old footballer is involved in a heavy tackle where another player impacts with outside of his knee. He feels pain over the inner aspect of his knee, and he has a positive valgus stress test but with a firm end point.",
+            "options": {
+                "items": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F"
+                ],
+                "choices": [
+                    "1 Anterior cruciate ligament injury",
+                    "2 Chondromalacia patellae",
+                    "3 Hoffa's syndrome",
+                    "4 Lateral collateral ligament injury",
+                    "5 Medial collateral ligament injury",
+                    "6 Meniscal injury",
+                    "7 Patella dislocation",
+                    "8 Posterior cruciate ligament injury",
+                    "9 Tibial plateau fracture"
+                ]
+            },
+            "answer": "5",
+            "explanation": "This is a common acute intrinsic injury of the knee with damage to the medial collateral ligament following a valgus force. Concomitant injury to the ACL or medial meniscus can occur. The area of tenderness is over the insertion and origin of the MCL and not the joint line. Rest with physiotherapy usually provides a good outcome."
+        },
+        {
+            "id": 15,
+            "question_type": "emq",
+            "question": "E A 17-year-old long jumper injures her knee by landing with it hyperextended. She now has chronic knee pain, especially when she tries to straighten it. On examination she has tenderness to palpation over the anterior fat pad.",
+            "options": {
+                "items": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F"
+                ],
+                "choices": [
+                    "1 Anterior cruciate ligament injury",
+                    "2 Chondromalacia patellae",
+                    "3 Hoffa's syndrome",
+                    "4 Lateral collateral ligament injury",
+                    "5 Medial collateral ligament injury",
+                    "6 Meniscal injury",
+                    "7 Patella dislocation",
+                    "8 Posterior cruciate ligament injury",
+                    "9 Tibial plateau fracture"
+                ]
+            },
+            "answer": "3",
+            "explanation": "A hyperextension injury of the knee crushes the fat pad in the front of the knee. The fat pad then becomes swollen and painful. This is called Hoffa's syndrome and usually settles spontaneously but may require arthroscopic resection of the fat pad. Examination reveals tenderness of the fat pad."
+        },
+        {
+            "id": 16,
+            "question_type": "emq",
+            "question": "F A 16-year-old rugby player is tackled and feels severe pain in the knee. He notices something out of place in this knee. However, as he rolls over to try to stand up, whatever it was clicks back into place.",
+            "options": {
+                "items": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F"
+                ],
+                "choices": [
+                    "1 Anterior cruciate ligament injury",
+                    "2 Chondromalacia patellae",
+                    "3 Hoffa's syndrome",
+                    "4 Lateral collateral ligament injury",
+                    "5 Medial collateral ligament injury",
+                    "6 Meniscal injury",
+                    "7 Patella dislocation",
+                    "8 Posterior cruciate ligament injury",
+                    "9 Tibial plateau fracture"
+                ]
+            },
+            "answer": "7",
+            "explanation": "Patella dislocation is one of the more common acute intrinsic injuries to the knee. It is most frequent in the second and third decades. Risk factors can include trochlear dysplasia, ligamentous laxity and patella alta. The patella dislocates, but then spontaneous reduction occurs (as it so often does). The knee will be painful and swollen initially and so will be difficult to examine, but once the initial inflammation has settled the patient will be left with a patella apprehension sign. Any attempt to push the patella laterally as you passively flex the knee will be resisted by the patient, who will have a sense of discomfort and apprehension. Radiographs are important to rule out any bony injury, and there should be a low threshold for further imaging, particularly in younger patients, to determine whether there has been any damage to the articular cartilage. Conservative measures are the mainstay of treatment unless there is an acute bony pathology or recurrent problems with instability."
+        }
+    ]
+}

@@ -1,0 +1,353 @@
+{
+    "chapter_name": "The vermiform appendix",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "1. The following statements are true except:\nA The appendicular artery arises from the right colic artery.\nB The commonest position of the appendix is retrocaecal.\nC The position of the base of the appendix is constant.\nD. The submucosa is rich in lymphoid follicles.\nE Argentaffin cells are found in the base of the crypts.",
+            "options": [
+                "A The appendicular artery arises from the right colic artery.",
+                "B The commonest position of the appendix is retrocaecal.",
+                "C The position of the base of the appendix is constant.",
+                "D. The submucosa is rich in lymphoid follicles.",
+                "E Argentaffin cells are found in the base of the crypts."
+            ],
+            "answer": "A",
+            "explanation": "The appendicular artery arises from the lower branch of the ileo-colic artery and enters the mesoappendix behind the terminal ileum lying in its free border. The appendicular artery is an end artery so that when it is thrombosed in acute appendicitis gangrene and perforation are inevitable. The positions of the appendix are as follows: retrocaecal 74%, pelvic 21%, paracaecal 2%, subcaecal 1.5%, preileal 1% and postileal 0.5%.\nThe position of the base of the appendix is constant. It is found at the confluence of the three taeniae coli, an anatomical fact often used to find the appendix during an operation for acute appendicitis. Histologically the submucosa of the appendix is rich in lymphoid follicles. In the base of the appendicular crypts argentaffin (Kulschitsky) cells, the source of carcinoid tumours, are present."
+        },
+        {
+            "id": "2",
+            "question_type": "msq",
+            "question": "2. Which of the following statements are true?\nA The peak incidence of acute appendicitis is in the teens and early 20s.\nB The incidence of acute appendicitis is lowest in those who have a high intake of dietary fibre.\nC Obstruction of the appendix lumen by a caecal carcinoma might give rise to acute appendicitis.\nD Aerobic and anaerobic organisms are responsible for acute appendicitis.\nE A mucocele of the appendix is a clinical variation of acute appendicitis.",
+            "options": [
+                "A The peak incidence of acute appendicitis is in the teens and early 20s.",
+                "B The incidence of acute appendicitis is lowest in those who have a high intake of dietary fibre.",
+                "C Obstruction of the appendix lumen by a caecal carcinoma might give rise to acute appendicitis.",
+                "D Aerobic and anaerobic organisms are responsible for acute appendicitis.",
+                "E A mucocele of the appendix is a clinical variation of acute appendicitis."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "The peak incidence of acute appendicitis is in the teens and early twenties. The incidence is lowest in societies that have a high-residue diet similar to that of colonic diverticular disease. Obstruction of the lumen of the appendix might trigger the onset of acute inflammation. This obstruction in the older age group might be caused by a caecal carcinoma, which therefore in some cases presents as acute appendicitis. The cause is usually a mixture of aerobic and anaerobic organisms.\nWhen the appendicular lumen at the base is obstructed initiating infection and inflammation, rarely the pathology resolves. In due course the appendix distends over a period of time due to the lumen filling with mucus causing the formation of a mucocele. This is not a variation of acute appendicitis."
+        },
+        {
+            "id": "3",
+            "question_type": "mcq",
+            "question": "3. The following factors increase the chances of peritonitis and systemic sepsis except:\nA Obesity\nB Extremes of age\nC Immunosuppression\nD Pelvic position of appendix\nE Previous abdominal operation",
+            "options": [
+                "A Obesity",
+                "B Extremes of age",
+                "C Immunosuppression",
+                "D Pelvic position of appendix",
+                "E Previous abdominal operation"
+            ],
+            "answer": "A",
+            "explanation": "The obese patient who would be endowed with ample greater omentum will be protected from perforation and its sinister effects. Once there is an inflamed appendix, the greater omentum will help to localise the infection by enveloping the inflamed appendix preventing perforation and its ill effects.\nAt the extremes of age the amount of greater omentum is less; therefore there is less likelihood of the peritonitis being localised causing greater risk of perforation. The immunosuppressed patient and diabetics are more susceptible to perforation and its ill effects. Pelvic position of the appendix causing it to hang freely over the pelvic brim results in free perforation and spread of peritonitis without a chance of localisation. The situation is similar if the patient has had a previous abdominal operation; adhesions would limit the ability of the greater omentum to wall off the infection. In all these situations generalised peritonitis will occur quickly and if it is not diagnosed and treated promptly systemic inflammatory response syndrome would supervene."
+        },
+        {
+            "id": "4",
+            "question_type": "msq",
+            "question": "4. Which of the following are signs in acute appendicitis?\nA Rovsing's sign\nB Pointing sign\nC Obturator sign\nD Psoas sign\nE Troisier's sign",
+            "options": [
+                "A Rovsing's sign",
+                "B Pointing sign",
+                "C Obturator sign",
+                "D Psoas sign",
+                "E Troisier's sign"
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Rovsing's sign is pain in the right iliac fossa elicited on deep palpation of the left iliac fossa. Rovsing's original description was to distend the caecum by pushing the bowel contents (gas) in an anti-peristaltic manoeuvre toward the ileocaecal valve increasing pressure around the appendix. Others believe that the pain in the right iliac fossa is a mere reflection of local peritoneal irritation. ‘Pointing sign' is merely asking the patient to point with one finger where the pain began and where it settled. When an inflamed appendix lies against the psoas muscle, the patient finds that the pain eases on flexing the hip – the 'psoas sign'. If an inflamed appendix is in contact with the obturator internus, contracting it by flexing and internally rotating the hip will elicit pain in the suprapubic area – ‘obturator test' of Cope.\nTroisier's sign is a palpable left supraclavicular lymph node due to a metastasis from cancer stomach that has spread through the thoracic duct."
+        },
+        {
+            "id": "5",
+            "question_type": "mcq",
+            "question": "5. Which of the following statements is not true in acute appendicitis?\nA It carries a higher mortality in the elderly.\nB Acute appendicitis in pregnancy will result in foetal loss in 30%.\nC An Alvarado score of 7 or more is suggestive of the diagnosis.\nD A decision to operate based on clinical suspicion alone will result in removal of a normal appendix in 15%-30%\nE Cancer of the caecum might masquerade as acute appendicitis.",
+            "options": [
+                "A It carries a higher mortality in the elderly.",
+                "B Acute appendicitis in pregnancy will result in foetal loss in 30%.",
+                "C An Alvarado score of 7 or more is suggestive of the diagnosis.",
+                "D A decision to operate based on clinical suspicion alone will result in removal of a normal appendix in 15%-30%",
+                "E Cancer of the caecum might masquerade as acute appendicitis."
+            ],
+            "answer": "B",
+            "explanation": "Acute appendicitis is the most common extrauterine abdominal emergency in pregnancy. Foetal loss occurs in 3% to 5% of cases, increasing to 20% in perforated appendicitis. Diagnosis is sometimes delayed because early symptoms might be nonspecific and attributed to the pregnancy.\nThe condition carries a higher mortality in the elderly for the following reasons: They often have comorbidities; and they might harbour gangrenous appendicitis without obvious clinical features that might mimic subacute intestinal obstruction. Operating on clinical grounds alone results in the removal of a normal appendix in 15% to 30% of cases. Therefore scoring systems have been devised based on the clinical criteria and laboratory investigations to be certain as much as possible about the diagnosis. An Alvarado score of >7 strongly points to a diagnosis of acute appendicitis.\nIn the elderly, sometimes carcinoma of the caecum can present as acute appendicitis when the growth encroaches into the appendicular lumen. Any patient beyond middle age who is anaemic and presents with features of ‘acute appendicitis' has almost certainly a caecal carcinoma because anaemia is not a feature of genuine acute appendicitis."
+        },
+        {
+            "id": "6",
+            "question_type": "mcq",
+            "question": "6. In children the following could be confused with acute appendicitis except:\nA Gastroenteritis\nB Mesenteric adenitis\nC Henoch-Schönlein purpura\nD Urinary tract infection (UTI)\nE Lobar pneumonia",
+            "options": [
+                "A Gastroenteritis",
+                "B Mesenteric adenitis",
+                "C Henoch-Schönlein purpura",
+                "D Urinary tract infection (UTI)",
+                "E Lobar pneumonia"
+            ],
+            "answer": "D",
+            "explanation": "In children UTI is not commonly confused with acute appendicitis. UTI is a rare cause of acute abdominal pain; urinary symptoms, vomiting and fever are common features. Urinalysis and microscopy are helpful although sterile pyuria might be present in acute appendicitis. In acute gastroenteritis abdominal pain, diarrhoea and vomiting usually start at the same time and rebound is uncommon. In mesenteric adenitis, high fever and upper-respiratory symptoms predominate besides abdominal pain. Henoch-Schonlein purpura often starts with sore throat and is associated with ecchymosis of the limbs and buttocks. In right lobar pneumonia there is high temperature with minimal right upper quadrant tenderness. In spite of the awareness of these conditions, at times it might be impossible to exclude acute appendicitis in children and to be on the safe side, appendicectomy has to be carried out."
+        },
+        {
+            "id": "7",
+            "question_type": "msq",
+            "question": "7. In the adult male, which of the following conditions are differential diagnosis of acute appendicitis?\nA Mesenteric cyst\nB Right ureteric colic\nC Perforated peptic ulcer\nD Crohn's disease\nE Right testicular torsion",
+            "options": [
+                "A Mesenteric cyst",
+                "B Right ureteric colic",
+                "C Perforated peptic ulcer",
+                "D Crohn's disease",
+                "E Right testicular torsion"
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Right ureteric colic can be confused with acute appendicitis if the history is atypical. Presence of RBCs in urine should help in diagnosing ureteric calculus although a spiral CT should clinch the diagnosis. Perforated duodenal ulcer can be confused with acute appendicitis when the contents have tracked down the right paracolic gutter to produce signs in the right iliac fossa. A careful history with an erect CXR to look for gas under the right dome of the diaphragm should help. Previous history of altered bowel habit should suggest Crohn's disease. Pain starting in the suprapubic area radiating to the right groin with red and tender scrotum should alert one to the diagnosis of torsion of testis. In mesenteric cyst a lump should be palpable in the umbilical region with typical mobility."
+        },
+        {
+            "id": "8",
+            "question_type": "mcq",
+            "question": "8. In the adult female, which of the following is not part of the differential diagnosis of acute appendicitis?\nA Mittelschmerz\nB Pelvic inflammatory disease (PID)\nC Acute cholecystitis\nD Ruptured ectopic pregnancy or right tubal abortion\nE Torsion or ruptured ovarian cyst",
+            "options": [
+                "A Mittelschmerz",
+                "B Pelvic inflammatory disease (PID)",
+                "C Acute cholecystitis",
+                "D Ruptured ectopic pregnancy or right tubal abortion",
+                "E Torsion or ruptured ovarian cyst"
+            ],
+            "answer": "C",
+            "explanation": "Acute cholecystitis does not often cause diagnostic confusion if a good history is taken and Murphy's sign can be elicited. Mittelschmerz, midcycle pain from rupture of a follicular cyst, can easily be mistaken for acute appendicitis. A good history helps and there are no constitutional symptoms. PID can be confused, particularly as the term includes salpingitis, endometriosis and tubo-ovarian sepsis. Usually the pain is supra-pubic with bilateral signs and vaginal discharge. A ruptured ectopic pregnancy would be more obvious with features of hypovolaemic shock, but a right tubal abortion might be more difficult to differentiate. History is helpful as would be a pregnancy test. Torsion or rupture of an ovarian cyst might be difficult to diagnose from acute appendicitis. Fever and toxic features are uncommon. In the female whenever a doubt exists about the diagnosis, a pelvic ultrasound should be carried out. If that does not help then laparoscopy should be the ultimate investigation, which can also be therapeutic in treating the pathology by minimal- access surgery if the expertise is available."
+        },
+        {
+            "id": "9",
+            "question_type": "mcq",
+            "question": "9. In the elderly, which of the following is not part of the differential diagnosis of acute appendicitis?\nA Diverticulitis\nB Intestinal obstruction\nC Mesenteric infarction\nD Bladder calculus\nE Carcinoma of the caecum",
+            "options": [
+                "A Diverticulitis",
+                "B Intestinal obstruction",
+                "C Mesenteric infarction",
+                "D Bladder calculus",
+                "E Carcinoma of the caecum"
+            ],
+            "answer": "D",
+            "explanation": "A urinary bladder stone is unlikely to be confused with acute appendicitis as the patient usually has symptoms of dysuria with haematuria, the symptoms being present over a period of time. Acute diverticulitis might mimic acute appendicitis in a patient who has a redundant sigmoid colon the loop of which lies over to the right side. In case of doubt a CT scan will clinch the diagnosis. Intestinal obstruction might sometimes confuse the issue because acute appendicitis might mimic the condition. A trial period of conservative management might be helpful with close observation with an option for early laparotomy if there is no improvement. Mesenteric infarction would have signs of quite severe peritonitis with a toxic patient who might have cardiac irregularities. A laparotomy might be the safest option. Cancer caecum can masquerade as acute appendicitis when the cancer impinges into the appendicular lumen. However, if the patient is found to be anaemic with features of right iliac fossa peritonism, it is almost certainly a case of caecal carcinoma as anaemia is a classical feature of right colonic malignancy, whereas acute appendicitis does not produce anaemia."
+        },
+        {
+            "id": "10",
+            "question_type": "emq",
+            "question": "An 18-year-old male complains of generalised colicky abdominal pain for about 6 hours. He feels unwell, has vomited a couple of times and is anorexic. The pain has shifted to the right iliac fossa. On examination he has pyrexia of 38°C, is tender over the right iliac fossa with rigidity and rebound tenderness.",
+            "options": {
+                "items": [
+                    "An 18-year-old male complains of generalised colicky abdominal pain for about 6 hours. He feels unwell, has vomited a couple of times and is anorexic. The pain has shifted to the right iliac fossa. On examination he has pyrexia of 38°C, is tender over the right iliac fossa with rigidity and rebound tenderness."
+                ],
+                "choices": [
+                    "1 Acute appendicitis",
+                    "2 Carcinoid tumour",
+                    "3 Carcinoma of caecum",
+                    "4 Crohn's disease",
+                    "5 Mittelschmerz",
+                    "6 Perforated duodenal ulcer",
+                    "7 Pseudomyxoma peritonei",
+                    "8 Right ureteric colic",
+                    "9 Ruptured ectopic pregnancy"
+                ]
+            },
+            "answer": "1",
+            "explanation": "This 18-year-old boy has the classical features of acute appendicitis. The clinical examination is in keeping with his history of visceral-somatic sequence of pain. When asked to point to the site of his pain, he would almost certainly point to where the pain started (periumbilical) and where it subsequently moved (right iliac fossa) – 'pointing sign'. He does not need any investigations. In doubtful cases, an Alvarado scoring system can be used. He needs an emergency appendicectomy, which should be covered by antibiotics according to the hospital protocol."
+        },
+        {
+            "id": "11",
+            "question_type": "emq",
+            "question": "A 35-year-old woman underwent an emergency appendicectomy for suspected 'acute appendicitis'. At operation the appendix looked normal with a bulbous solid yellowish coloured mass at its tip.",
+            "options": {
+                "items": [
+                    "A 35-year-old woman underwent an emergency appendicectomy for suspected 'acute appendicitis'. At operation the appendix looked normal with a bulbous solid yellowish coloured mass at its tip."
+                ],
+                "choices": [
+                    "1 Acute appendicitis",
+                    "2 Carcinoid tumour",
+                    "3 Carcinoma of caecum",
+                    "4 Crohn's disease",
+                    "5 Mittelschmerz",
+                    "6 Perforated duodenal ulcer",
+                    "7 Pseudomyxoma peritonei",
+                    "8 Right ureteric colic",
+                    "9 Ruptured ectopic pregnancy"
+                ]
+            },
+            "answer": "2",
+            "explanation": "This patient has a carcinoid tumour of the appendix, the incidence of which is one in 300–400 histologically examined appendices. The tumour most commonly occurs in the distal third. Macroscopically the tumour is yellow and hard and lies between the intact mucosa and the peritoneum. Microscopically small tumour cells are arranged within the muscle as small nests. They hardly ever metastasise unless the tumour is larger than 1.5 cm. Appendicectomy as a treatment is all that is necessary. If the tumour involves the base of the appendix involving the caecum, right hemicolectomy should be carried out."
+        },
+        {
+            "id": "12",
+            "question_type": "emq",
+            "question": "A 60-year-old male patient complains of pain in his right iliac fossa of 24-hour duration. The pain has been constant in the right iliac fossa. He has felt unwell for a few months, being unduly short of breath during his normal activities. On examination he looks pale and is tender with rigidity and rebound tenderness in the right iliac fossa.",
+            "options": {
+                "items": [
+                    "A 60-year-old male patient complains of pain in his right iliac fossa of 24-hour duration. The pain has been constant in the right iliac fossa. He has felt unwell for a few months, being unduly short of breath during his normal activities. On examination he looks pale and is tender with rigidity and rebound tenderness in the right iliac fossa."
+                ],
+                "choices": [
+                    "1 Acute appendicitis",
+                    "2 Carcinoid tumour",
+                    "3 Carcinoma of caecum",
+                    "4 Crohn's disease",
+                    "5 Mittelschmerz",
+                    "6 Perforated duodenal ulcer",
+                    "7 Pseudomyxoma peritonei",
+                    "8 Right ureteric colic",
+                    "9 Ruptured ectopic pregnancy"
+                ]
+            },
+            "answer": "3",
+            "explanation": "This 60-year-old patient has pain and signs of an acute abdominal episode in the right iliac fossa. A diagnosis of acute appendicitis would naturally cross one's mind. After eliciting a good history it is apparent that he has felt short of breath in his daily routine and looks pale – features of anaemic hypoxia. He has signs in the right iliac fossa. The scenario of anaemia with signs in the right iliac fossa is very typical of a carcinoma of the caecum masquerading as acute appendicitis. It important to remember that true acute appendicitis will not cause anaemia. This patient should be given analgesia and investigated to confirm the diagnosis and stage the disease by a contrast CT scan and colonoscopy and biopsy. This should be followed by the definitive treatment of right hemicolectomy on an urgent basis at the same admission. While these investigations are being arranged, a close watch must be kept so as not miss an impending or definite perforation of the cancer. In such a situation, he will need an emergency right hemicolectomy."
+        },
+        {
+            "id": "13",
+            "question_type": "emq",
+            "question": "A 35-year-old male complains of colicky pain in the right iliac fossa for the last 6 hours. In between the attacks he is left with a dull ache. He has vomited a few times and feels feverish. In the past he has had diarrhoea on and off for almost 1 year. On examination he has a temperature of 38°C, is in discomfort from his pain and has tenderness, rigidity and minimal rebound tenderness in the right iliac fossa.",
+            "options": {
+                "items": [
+                    "A 35-year-old male complains of colicky pain in the right iliac fossa for the last 6 hours. In between the attacks he is left with a dull ache. He has vomited a few times and feels feverish. In the past he has had diarrhoea on and off for almost 1 year. On examination he has a temperature of 38°C, is in discomfort from his pain and has tenderness, rigidity and minimal rebound tenderness in the right iliac fossa."
+                ],
+                "choices": [
+                    "1 Acute appendicitis",
+                    "2 Carcinoid tumour",
+                    "3 Carcinoma of caecum",
+                    "4 Crohn's disease",
+                    "5 Mittelschmerz",
+                    "6 Perforated duodenal ulcer",
+                    "7 Pseudomyxoma peritonei",
+                    "8 Right ureteric colic",
+                    "9 Ruptured ectopic pregnancy"
+                ]
+            },
+            "answer": "4",
+            "explanation": "This male patient complains of colicky right-sided abdominal pain from the start, denoting an obstructive feature. His past history of diarrhoea should alert one to the possibility of primary bowel pathology. He is generally feeling unwell with acute signs in the right iliac fossa. These features should point to a diagnosis of acute terminal ileitis from Crohn's disease. His immediate treatment requires analgesia and supportive therapy in the form of intravenous fluids. He needs to be thoroughly investigated with routine haematological and biochemical investigations, including ESR and CRP. This should be followed by contrast CT scan to look for features of Crohn's disease in the form of small bowel strictures with skip lesions, 'string sign' in the terminal ileum, and cobblestone mucosa. A colonoscopy and biopsy should follow. Thereafter the patient should be under the combined care of the gastroenterologist and surgeon and treated medically. In the rare instance when a patient has been operated upon for a diagnosis of 'acute appendicitis' through a gridiron incision in the right iliac fossa and found to have acute terminal ileitis from Crohn's disease, the appendix should be removed. This would prevent any confusion in diagnosis if and when the patient returns with attacks of abdominal pain."
+        },
+        {
+            "id": "14",
+            "question_type": "emq",
+            "question": "A 22-year-old female patient complains of pain in the right iliac fossa. The pain started suddenly and has spread all over the lower abdomen. Her last menstrual period was 2 weeks ago. On examination she looks slightly pale and apyrexial and is tender with rigidity and rebound tenderness in the right iliac fossa.",
+            "options": {
+                "items": [
+                    "A 22-year-old female patient complains of pain in the right iliac fossa. The pain started suddenly and has spread all over the lower abdomen. Her last menstrual period was 2 weeks ago. On examination she looks slightly pale and apyrexial and is tender with rigidity and rebound tenderness in the right iliac fossa."
+                ],
+                "choices": [
+                    "1 Acute appendicitis",
+                    "2 Carcinoid tumour",
+                    "3 Carcinoma of caecum",
+                    "4 Crohn's disease",
+                    "5 Mittelschmerz",
+                    "6 Perforated duodenal ulcer",
+                    "7 Pseudomyxoma peritonei",
+                    "8 Right ureteric colic",
+                    "9 Ruptured ectopic pregnancy"
+                ]
+            },
+            "answer": "5",
+            "explanation": "This young woman has developed pain in the right iliac fossa halfway through her menstrual period. She has signs in her lower abdomen of bleeding from a ruptured lutein cyst. The diagnosis is Mittelschmerz. She is treated with analgesics. In case of doubt, a laparoscopy is carried out. Occasionally retrograde menstruation might present in a similar manner."
+        },
+        {
+            "id": "15",
+            "question_type": "emq",
+            "question": "A 40-year-old male complains of pain in his right iliac fossa over the past 2 days. His pain in the right iliac fossa was preceded by a bout of sudden onset of severe epigastric and right upper quadrant pain 3 days ago that lasted for a few hours. This initial pain subsided with some antacids, which he has been taking on and off for ‘indigestion' for almost 18 months. On examination he is pyrexial (39°C) and very tender and rigid over the right iliac fossa.",
+            "options": {
+                "items": [
+                    "A 40-year-old male complains of pain in his right iliac fossa over the past 2 days. His pain in the right iliac fossa was preceded by a bout of sudden onset of severe epigastric and right upper quadrant pain 3 days ago that lasted for a few hours. This initial pain subsided with some antacids, which he has been taking on and off for ‘indigestion' for almost 18 months. On examination he is pyrexial (39°C) and very tender and rigid over the right iliac fossa."
+                ],
+                "choices": [
+                    "1 Acute appendicitis",
+                    "2 Carcinoid tumour",
+                    "3 Carcinoma of caecum",
+                    "4 Crohn's disease",
+                    "5 Mittelschmerz",
+                    "6 Perforated duodenal ulcer",
+                    "7 Pseudomyxoma peritonei",
+                    "8 Right ureteric colic",
+                    "9 Ruptured ectopic pregnancy"
+                ]
+            },
+            "answer": "6",
+            "explanation": "This patient who has suffered from indigestion in the past, for which he has taken antacids, has had a sudden attack of epigastric and right hypochondrial pain from a leaking duodenal ulcer. This pain was thought by the patient to be an acute episode of his indigestion, for which he tried to get relief by taking some more antacids. However, he did not get better and has come in with signs of peritonitis in the right iliac fossa. This scenario is typical of a leaking duodenal ulcer that has been closed off by omentum and the leaked contents have gravitated to the right iliac fossa along the right paracolic gutter, mimicking acute appendicitis. The patient needs to be resuscitated with analgesia, intravenous fluids and antibiotics. A CXR might show gas under the right dome of the diaphragm. He needs a laparotomy, formal closure of the perforation, thorough peritoneal toilet and postoperative antibiotics. He is given a course of anti H. pylori medication."
+        },
+        {
+            "id": "16",
+            "question_type": "emq",
+            "question": "A 42-year-old woman complains of generalised lower abdominal pain, abdominal distension and generally feeling unwell and putting on weight. On examination she has a distended abdomen with a feeling of ascites without shifting dullness. She has been unsuccessfully trying for a baby for a few years.",
+            "options": {
+                "items": [
+                    "A 42-year-old woman complains of generalised lower abdominal pain, abdominal distension and generally feeling unwell and putting on weight. On examination she has a distended abdomen with a feeling of ascites without shifting dullness. She has been unsuccessfully trying for a baby for a few years."
+                ],
+                "choices": [
+                    "1 Acute appendicitis",
+                    "2 Carcinoid tumour",
+                    "3 Carcinoma of caecum",
+                    "4 Crohn's disease",
+                    "5 Mittelschmerz",
+                    "6 Perforated duodenal ulcer",
+                    "7 Pseudomyxoma peritonei",
+                    "8 Right ureteric colic",
+                    "9 Ruptured ectopic pregnancy"
+                ]
+            },
+            "answer": "7",
+            "explanation": "Awareness of this condition is one of the secrets of suspecting this diagnosis. The diagnosis is confirmed by CT scan or ultrasound. Sometimes the diagnosis is made at operation when the abdomen is found to be full of jelly-like material (hence the name ‘jelly belly'). Previously it was thought that the tumour was the result of spread from a mucinous adenocarcinoma of the ovaries; it is now understood that it is derived from mucus-producing adenocarcinoma of the appendix. When diagnosed, ideally it should be managed in a specialised unit. Treatment is in the form of radical resection of all involved parietal peritoneal surfaces and aggressive intraperitoneal chemotherapy. Recurrence is inevitable, but repeated laparotomies for further excision gives good palliation (see Chapter 61)."
+        },
+        {
+            "id": "17",
+            "question_type": "emq",
+            "question": "A 28-year-old male complains of sudden onset of severe right-sided abdominal pain, which started in his loin. He is in agony, writhing around and cannot find a comfortable position to get any relief from his pain, which is radiating to his groin. He has some strangury. On examination he is tender all over the right side of his abdomen with some rigidity but no rebound. On percussion there is a tympanic note.",
+            "options": {
+                "items": [
+                    "A 28-year-old male complains of sudden onset of severe right-sided abdominal pain, which started in his loin. He is in agony, writhing around and cannot find a comfortable position to get any relief from his pain, which is radiating to his groin. He has some strangury. On examination he is tender all over the right side of his abdomen with some rigidity but no rebound. On percussion there is a tympanic note."
+                ],
+                "choices": [
+                    "1 Acute appendicitis",
+                    "2 Carcinoid tumour",
+                    "3 Carcinoma of caecum",
+                    "4 Crohn's disease",
+                    "5 Mittelschmerz",
+                    "6 Perforated duodenal ulcer",
+                    "7 Pseudomyxoma peritonei",
+                    "8 Right ureteric colic",
+                    "9 Ruptured ectopic pregnancy"
+                ]
+            },
+            "answer": "8",
+            "explanation": "This young man has sudden onset of severe right-sided abdominal pain that started in his loin and radiated to the groin. The fact that he is in agony and writhing around in pain, unable to find a position of comfort, is typical of ureteric colic. Abdominal examination shows a tympanic abdomen, which is due to ileus, a common accompaniment of ureteric colic. He should be given intravenous morphine immediately. The diagnosis should be confirmed by a spiral CT scan, failing which an emergency IVU is done. On confirmation, analgesia is continued with diclofenac suppositories. If the stone is <5 mm in diameter, expectant treatment is continued and the patient imaged in about 6 weeks. If there is urinary infection or the stone is >5 mm, intervention by minimal-access surgery is carried out."
+        },
+        {
+            "id": "18",
+            "question_type": "emq",
+            "question": "A 25-year-old female complains of severe pain in her central lower abdomen of 4 hours duration. She feels faint, is very thirsty and is unsure about her last menstrual period. On examination she is in agony, looks pale and is cold, clammy and sweaty. She is apyrexial with marked tenderness, rigidity and rebound tenderness over her entire lower abdomen. She has a Cullen's sign.",
+            "options": {
+                "items": [
+                    "A 25-year-old female complains of severe pain in her central lower abdomen of 4 hours duration. She feels faint, is very thirsty and is unsure about her last menstrual period. On examination she is in agony, looks pale and is cold, clammy and sweaty. She is apyrexial with marked tenderness, rigidity and rebound tenderness over her entire lower abdomen. She has a Cullen's sign."
+                ],
+                "choices": [
+                    "1 Acute appendicitis",
+                    "2 Carcinoid tumour",
+                    "3 Carcinoma of caecum",
+                    "4 Crohn's disease",
+                    "5 Mittelschmerz",
+                    "6 Perforated duodenal ulcer",
+                    "7 Pseudomyxoma peritonei",
+                    "8 Right ureteric colic",
+                    "9 Ruptured ectopic pregnancy"
+                ]
+            },
+            "answer": "9",
+            "explanation": "This young woman who is unsure about her menstrual periods has had sudden onset of very severe lower abdominal pain and has presented with features of hypovolaemic shock and peritonism. The clinical picture is typical, particularly with Cullen's sign (blood-stained discoloration around the umbilicus), of a ruptured ectopic pregnancy. Pelvic ultrasound is carried out followed by referral to a gynaecologist as an emergency for definitive treatment."
+        }
+    ]
+}

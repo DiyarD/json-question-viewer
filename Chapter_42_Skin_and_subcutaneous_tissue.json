@@ -1,0 +1,387 @@
+{
+    "chapter_name": "Skin and subcutaneous tissue",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "Which of the following statements are true regarding layers of the skin?",
+            "options": [
+                "A The epidermis accounts for the major part of the skin.",
+                "B The lowermost layer of the epidermis contains the suprabasal keratinocytes.",
+                "C The stratum granulosum consists of keratohyalin granules.",
+                "D Stratum lucidum is present in glabrous skin of palms and soles.",
+                "E The stratum corneum is an effective barrier to most micro-organisms, chemicals and fluids."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The epidermis accounts for only 5% of the total skin, while the dermis accounts for the remaining 95%. The epidermis is composed of keratinised, stratified, squamous epithelium. The dermis consists of a superficial papillary layer and a deeper reticular layer.\nThe epidermis of the skin is composed of stratified squamous epithelium with several distinct layers. The lowermost layer is the stratum basale or stratum germinativum, which contains the suprabasal keratinocytes. The next layer of cells immediately above the basal layer is the stratum spinosum. Above this layer is the stratum granulosum (granular layer), which consists of one to three layers of flattened cells containing keratohyalin granules.\nStratum lucidum is a clear layer that is present in glabrous skin of palms and soles. The outermost layer of the epidermis is called the stratum corneum, which is composed of multiple layers of polyhedral cells. These cells are anucleated and keratin-rich, forming the tough outer protective layer of the skin. This layer is an effective barrier to most micro-organisms, chemicals and fluids, although it is permeable to some substances (hence, topical treatments). Keratinocytes are the principal cell type within the epidermis. The basal epidermis also contains melanocytes."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A The melanocytes originate from the neural crest.",
+                "B The skin colour of an individual is determined mainly by the number of melanocytes in the skin.",
+                "C Eccrine sweat glands secrete sweat in response to sympathetic activity.",
+                "D Apocrine sweat glands are found in the axilla and groin.",
+                "E Adnexal structures span the epidermis and dermis."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Melanocytes originate from the neural crest and are found in the basal epidermis. Each melanocyte synthesises the pigment melanin, which protects the cell nuclei from ultraviolet radiation. The keratinocytes in the strata granulosum and spinosum contain melanin. Differences in skin colour are determined by variations in the amount and distribution of melanin within the keratinocytes (not by the number of melanocytes).\nThe sweat glands, eccrine and apocrine, open into pores in the hair follicles. Eccrine glands are present throughout the entire body surface, except for the lips. They secrete sweat in response to sympathetic activity such as emotion and are responsible for thermoregulation. In hyperhidrosis, where there is excessive sweating (commonly seen in the palms, axilla and lower limbs), the condition can be cured by performing a sympathectomy. Apocrine glands are found in the axillary and groin areas and become active at puberty. Persistent infection of these glands causes hydradenitis suppurativa.\nAdnexal structures, such as hair follicles and sebaceous and sweat glands, span the epidermis and dermis. In injuries where the epidermis is lost, re-epithelialisation occurs from these structures."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "Which of the following descriptions of an ulcer edge denotes malignancy?",
+            "options": [
+                "A Sloping.",
+                "B Overhanging.",
+                "C Everted.",
+                "D Punched out.",
+                "E Rolled."
+            ],
+            "answer": [
+                "C",
+                "E"
+            ],
+            "explanation": "The edges of an ulcer provide a good indication of the type of ulcer. ‘Sloping edges' are classically seen with healing ulcers and such ulcers are usually shallow. Ulcers of venous origin that are progressing toward healing usually have sloping edges. ‘Punched-out' is a feature of arterial or neuropathic ulcers. Ulcers where the subcutaneous tissue is affected more than the skin will have 'undermined' edges, as in tuberculosis, pyoderma gangrenosum and some forms of pressure ulcers. ‘Rolled-out' edges (due to deep central crater) are classically seen in basal cell carcinomas, whilst ‘everted' edges (due to edge of the ulcer growing rapidly and spilling out of the edges) are a feature of squamous cell carcinomas. (Figure 42.1)"
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding Bowen's Disease are true?",
+            "options": [
+                "A It can affect the mucous membranes.",
+                "B It usually presents as solitary lesions.",
+                "C It may be associated with pruritus.",
+                "D It is commonly associated with internal malignancies.",
+                "E It can be treated with topical corticosteroid agents."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C"
+            ],
+            "explanation": "Bowen's disease represents an intra-epithelial squamous cell carcinoma (carcinoma in situ). It can involve the skin or mucous membranes in the mouth, anus, or genitalia. Bowen's disease usually appears as a solitary, erythematous, scaly plaque. It is associated with pruritus, superficial crusting and discharge. There is only about 7% increased incidence of internal malignancies such as cancers of the bladder, bronchus, breast and oesophagus. The common modalities of treatment include surgical excision or a combination of curettage and electrodessication. Adequate excision is essential, as these lesions may subsequently become invasive squamous cell carcinomas and metastasize. Topical therapy such as 5-fluorouracil might be effective if multiple lesions are present."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding actinic keratosis are true?",
+            "options": [
+                "A It is a premalignant skin lesion.",
+                "B It is usually diffuse and blends with the adjacent normal skin",
+                "C It is more common in the Afro-Caribbean race.",
+                "D It can be treated using topical 5-fluorouracil cream.",
+                "E If excised surgically, it requires 8–10-mm excision margins."
+            ],
+            "answer": [
+                "A",
+                "D"
+            ],
+            "explanation": "Actinic keratosis, also known as solar keratosis, is the most common premalignant lesion. This can progress to an invasive malignancy, and the resulting cancer is mostly a squamous cell carcinoma. The lesions are discrete, well circumscribed, erythematous and maculopapular. It is usually seen in older, light-complexioned individuals. They are rare in individuals with dark skin. Actinic keratosis lesions appear primarily on sun-damaged or exposed skin and are frequently multiple. Curettage, electrodessication, cryotherapy with liquid nitrogen and topical 5-fluorouracil are accepted forms of treatment. Squamous cell carcinomas that arise from actinic keratoses rarely metastasize, suggesting that surgical resection should be conservative with narrow margins (about 2 mm margin will suffice)."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding keratoacanthoma are true?",
+            "options": [
+                "A It is a form of rapidly growing solitary tumour.",
+                "B It has a predilection for sun-exposed areas.",
+                "C It is histologically similar to a squamous cell carcinoma.",
+                "D It might be associated with visceral malignant tumours.",
+                "E It might resolve spontaneously within about 4 to 6 months."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Keratoacanthoma (Figure 42.2), described by Hutchinson in 1889, is usually a rapidly growing solitary tumour with a predilection for sun-exposed areas. It usually grows rapidly over 4 to 8 weeks and can spontaneously involute, usually within 4 to 6 months. It is histologically similar to SCC (hence the term 'self-healing epitheliomas'). Patients with multiple keratoacanthomas or with sebaceous differentiation should be evaluated for Muir-Torre syndrome, which is associated with visceral malignant tumours."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding Marjolin's ulcer are true?",
+            "options": [
+                "A It is a premalignant skin condition.",
+                "B It is an aggressive ulcerating SCC.",
+                "C It is an ischaemic ulcer in patients with chronic arterial insufficiency.",
+                "D It commonly occurs in poorly controlled diabetic patients.",
+                "E Osteomyelitis may predispose to the development of a Marjolin's ulcer."
+            ],
+            "answer": [
+                "B",
+                "E"
+            ],
+            "explanation": "Jean Marjolin (1828) first described an indolent ulcer arising in a burn scar. However, this term currently encompasses SCCs arising from any form of long-standing chronic ulcers or scars. Other chronic conditions such as sinuses and chronic lymphoedema can give rise to Marjolin's ulcer. Osteomyelitis also predisposes to the development of a Marjolin's ulcer."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "Which of the following are types of malignant melanoma?",
+            "options": [
+                "A Superficial spreading",
+                "B Nodular",
+                "C Congenital melanocytic naevus",
+                "D Lentigo maligna",
+                "E Dysplastic naevus"
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "There are various types of melanomas, notably superficial spreading melanoma, nodular melanoma, lentigo maligna, acral lentiginous melanoma and amelanotic melanoma. Superficial spreading melanoma, nodular melanoma, and lentigo maligna melanomas constitute about 90% of all malignant melanomas. Acral lentiginous melanoma and other types together make up the remaining 10%. The congenital melanocytic nevus, a type of melanocytic nevus found in infants at birth, has a 1% incidence worldwide. They are usually circumscribed, light-brown to black-patch or plaque. It is not a type of melanoma, although the giant congenital melanocytic naevus variety has a higher risk for malignant degeneration into a melanoma. For this reason, it is acceptable to excise large congenital naevi electively. Dysplastic naevi are unusual benign moles that may resemble a melanoma. Individuals with a number of such naevi (about 10 or more) are at an increased risk of developing a melanoma. It can thus be considered as a premalignant condition (not a melanoma) that warrants regular examination and follow-up. If in doubt, an excision biopsy is warranted."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "Which of the following features indicate transformation of a mole into a malignant melanoma?",
+            "options": [
+                "A Diameter >4 mms",
+                "B Ulcer with everted edges",
+                "C Colour variegation",
+                "D Itch",
+                "E Bleeding"
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The following features (A, B, C, D, E) indicate a malignant transformation of a mole into a melanoma: Asymmetry; Bleeding; Colour variegation; Diameter expanding or greater than 6 mm; Elevation (nodular); halo; irregular borders and itching; ulceration; and satellite lesions. Ulcer with everted edges is a feature of squamous cell carcinoma."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "Which of the following regarding malignant melanomas are true?",
+            "options": [
+                "A Superficial spreading melanoma is the most common subtype.",
+                "B Nodular melanoma occurs in about 15%-30% of patients.",
+                "C Acral lentiginous melanoma accounts for the majority of melanomas in non-Caucasians.",
+                "D Clarke's level is more accurate and predicts the risk of metastatic disease more precisely than Breslow's thickness.",
+                "E Melanoma is most common in legs and trunk."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Superficial spreading melanoma is the most common subtype, accounting for about 70% of all cases. Nodular melanoma, the second most common subtype, occurs in 15%-30% of patients. As with superficial spreading melanomas, legs and trunk are the most frequent sites of occurrence. Acral lentiginous melanomas are the least common subtype, representing 2%-8% of melanoma in Caucasians, although they do account for about 50%-90% of melanoma in non-Caucasians. It typically occurs on the palms or soles, or beneath the nail plate (subungual variant). Breslow's method is more accurate than the Clarke's level and predicts the risk of metastatic disease more precisely. Breslow thickness avoids the confounding effect of the variable thickness of the reticular dermis."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "Which of the following are true regarding basal cell carcinoma?",
+            "options": [
+                "A Basal cell carcinoma is less common than squamous cell carcinoma.",
+                "B It is always an isolated, single, lesion.",
+                "C Pearly appearance is a recognised feature.",
+                "D The edges are usually everted.",
+                "E Fractionated radiotherapy is the first line of management."
+            ],
+            "answer": "C",
+            "explanation": "Basal cell carcinoma (BCC) is the most common cutaneous malignancy in humans. It may be single or multiple and commonly occurs in sun-exposed areas of the elderly. The pearly appearance is a well-recognised feature of BCC, and it is more apparent on lightly stretched skin. It may be covered with surface telangiectasia. As the tumour enlarges central ulceration occurs, resulting in the characteristic rolled-out edge. Surgical excision is the most appropriate treatment for BCC. Other recognised treatment modalities include surgical excision, fractionated radiotherapy, Mohs micrographic surgery, cryosurgery, electrodessication and curettage and topical chemotherapy with 5-flurouracil."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "Which of the following are true regarding squamous cell carcinoma?",
+            "options": [
+                "A Excessive exposure to solar radiation is a recognised risk factor.",
+                "B The slow-growing variety of squamous cell carcinoma is usually exophytic in appearance.",
+                "C Small isolated skin ulcerations suspicious of a malignancy might be treated conservatively for 3 to 4 weeks.",
+                "D The recommended excision margin for squamous cell carcinomas is 8–10 mm.",
+                "E Once fully excised, further follow-up is not required."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Squamous cell carcinoma, seen primarily in older patients, originates from the keratinizing or Malpighian cell layer of the epithelium. The prime etiologic factor is excessive exposure to solar radiation. In addition, chemicals, cytotoxic drugs, immunosuppressant drug treatment and chronic ulcers (e.g., Marjolin's ulcer) play a role in its development. There are two main types of SCC: (i) a slow-growing variety that is verrucous in nature and exophytic in appearance. This is locally invasive, penetrating deeper structures, and is more likely to metastasize; and (ii) a nodular and indurated type, with rapid growth and early ulceration combined with local invasiveness. Metastasis is late compared to the verrucous type. Small isolated skin ulcerations suspicious of a malignancy might be treated conservatively with a topical chemotherapeutic agent such as 5-flurouracil for 3 to 4 weeks. Any lesion that has not healed after this period must be considered as a skin cancer until proved otherwise. As a rule of thumb, an excision margin of 8–10 mm will suffice for most squamous cell carcinomas. Even if the lesion is completely excised, there is a chance for recurrence and thus patients require 3- to 4-monthly follow-up for a minimum of 2 years. The precise frequency and duration of follow-up depends on the age of the patient, site/size/type of lesion and presence or absence of metastasis."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding necrotising fasciitis are true?",
+            "options": [
+                "A It is usually monomicrobial in majority of the cases.",
+                "B It always occurs in individuals with underlying immunological compromise.",
+                "C An absence of soft-tissue gas in plain x-ray safely rules out this condition.",
+                "D Pain is the most important initial feature.",
+                "E Surgery is reserved only if the condition doesn't improve with intravenous antibiotics for 5 days."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "This condition is a polymicrobial synergistic infection in the majority of the cases caused by a variety of organisms such as coliforms, staphylococci, anaerobic streptococci and Bacteroides species. It occurs in patients who are immunocompromised, such as those with uncontrolled diabetes, on chemotherapy, or who have chronic renal failure or are malnourished. However, it can also occur in previous fit and healthy individuals. A plain x-ray or CT scan might show gas in the soft or subcutaneous tissue, but there are many false negatives such that absence of gas does not rule out the condition. The typical clinical feature is pain in the wound out of proportion with the original surgical insult, spreading inflammation with subcutaneous crepitus and a malodorous discharge. When it occurs in the abdomen it is called Meleney's synergistic hospital gangrene and when the scrotum is involved it is known as Fournier's gangrene. Treatment should be prompt and aggressive in the form of broad-spectrum antibiotics, full circulatory support along with extensive excision and debridement of all dead tissue; this procedure may have to be repeated. Once the patient has recovered, the patient may need reconstructive surgery to cover the defect. Untreated or inadequately treated, the patient may succumb to multi-system organ failure."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "Which of the following statements are true regarding neurofibromas?",
+            "options": [
+                "A They are solitary unencapsulated spindle cell tumours.",
+                "B Schwannomas are encapsulated by epineurium.",
+                "C von Recklinghausen's disease has an autosomal recessive inheritance.",
+                "D They never become malignant.",
+                "E Plexiform neurofibromata involve very small anatomical areas."
+            ],
+            "answer": [
+                "A",
+                "B"
+            ],
+            "explanation": "Neurofibromas are solitary unencapsulated spindle cell tumours arising from the neural sheath. Schwannomas or neurilemomas are distinct nerve sheath tumours that are encapsulated by epineurium. Multiple neurofibromatosis occurring in von Recklinghausen's disease have an autosomal dominant inheritance pattern with variable penetrance. They carry a risk of malignant transformation. Plexiform neurofibromata might involve large anatomical areas and can cause gross deformity of the underlying skeleton, in particular of the craniofacial region."
+        },
+        {
+            "id": 15,
+            "question_type": "matching",
+            "question": "Match the diagnoses with each of the following descriptions:",
+            "options": {
+                "items": [
+                    "1 Fistula",
+                    "2 Sinus",
+                    "3 Ulcer"
+                ],
+                "choices": [
+                    "A An abnormal communication between two epithelial-lined surfaces. The communication or tract may be lined by granulation tissue, but in chronic cases it might be epithelialised.",
+                    "B A blind-ending tract that connects a cavity lined with granulation tissue (usually an abscess) with an epithelial surface.",
+                    "C A discontinuity of an epithelial surface."
+                ]
+            },
+            "answer": {
+                "1": "A",
+                "2": "B",
+                "3": "C"
+            },
+            "explanation": "1. A Fistula\nA fistula is an abnormal communication lined by granulation tissue between two epithelial-lined surfaces. These may be congenital, as in tracheo-oesophageal or rectourethral fistulae, or acquired, as in enterocolic, colovesical, enteroenteric fistulae.\n2. B Sinus\nA sinus is a blind tract connecting a cavity with an epithelial surface. The cavity is usually an abscess. It might be classified as congenital, as in a remnant of a thyroglossal tract that becomes a cyst that gets infected and bursts, which, although called a ‘fistula', is strictly a sinus. Acquired causes are a retained foreign body, specific chronic infection, inflammation and malignancy.\n3. C Ulcer\nAn ulcer is a discontinuity of an epithelial surface characterised by gradual destruction with a base that may be necrotic, granulating, or malignant. These can be classified as specific, nonspecific and malignant."
+        },
+        {
+            "id": 16,
+            "question_type": "matching",
+            "question": "Match the diagnoses with each of the following descriptions:",
+            "options": {
+                "items": [
+                    "1 Cellulitis/Lymphangitis",
+                    "2 Erysipelas",
+                    "3 Impetigo",
+                    "4 Necrotising fasciitis",
+                    "5 Purpura fulminans"
+                ],
+                "choices": [
+                    "A A polymicrobial synergistic infection most often caused by group A beta-haemolytic Streptococcus.",
+                    "B In this lesion there is intravascular thrombosis producing haemorrhagic skin infarction.",
+                    "C This is a highly infectious skin lesion, usually affecting children, caused by Staphylococcus or Streptococcus.",
+                    "D This is a generalised bacterial infection of the skin and subcutaneous tissue, usually preceded by trauma or ulceration.",
+                    "E This produces a well-demarcated infection by streptococci, usually on the face."
+                ]
+            },
+            "answer": {
+                "1": "D",
+                "2": "E",
+                "3": "C",
+                "4": "A",
+                "5": "B"
+            },
+            "explanation": "1. D Cellulitis/Lymphangitis\nCellulitis/lymphangitis is a generalised bacterial infection of the skin and subcutaneous tissue associated with trauma or ulceration. The patient has fever with a red, swollen, tender area with overlying reddish streaks of lymphangitis; Streptococcus is the commonest causative organism. Treatment is the prompt administration of appropriate intravenous antibiotics with rest and elevation to the affected part.\n2. E Erysipelas\nErysipelas is a well-localised streptococcal infection of the superficial lymphatics, usually associated with trauma to the skin of the face. The area is red and oedematous, and the patient has fever with leucocytosis. The appropriate broad-spectrum antibiotic is the treatment of choice.\n3. C Impetigo\nImpetigo is a very infectious superficial skin lesion, usually affecting children. The infection produces blisters that rupture and join up and is covered by honey-coloured crust. Treatment is washing of the area and application of topical or broad-spectrum oral antibiotics.\n4. A Necrotising fasciitis\nNecrotising fasciitis used to be called synergistic gangrene. It results from polymicrobial infection, most commonly group A beta-haemolytic Streptococcus along with E. coli, Pseudomonas, Proteus, Bacteroides, or Clostridium. The majority occur following trauma or infection, particularly in a smoker or diabetic. The typical signs are oedema beyond the skin erythema, woody-hard induration of the subcutaneous tissue, inability to distinguish between fascial planes and muscle groups, soft-tissue crepitus and severe pain. This must be treated very promptly with resuscitation, antibiotics and surgical debridement; otherwise the patient may go into septic shock.\n5. B Purpura fulminans\nPurpura fulminans is a rare condition, usually occurring in children, where intravascular thrombosis produces haemorrhagic skin infarction. It can rapidly progress to septic shock. There are three types, and they are acute infectious purpura fulminans caused by both acute bacterial or viral infection and which may result in extensive tissue loss requiring limb amputation; neonatal purpura fulminans; and idiopathic purpura fulminans."
+        },
+        {
+            "id": 17,
+            "question_type": "matching",
+            "question": "Match the diagnoses with each of the following descriptions:",
+            "options": {
+                "items": [
+                    "1 Basal cell papilloma",
+                    "2 Compound naevus",
+                    "3 Junctional naevus",
+                    "4 Keratoacanthoma",
+                    "5 Papillary wart"
+                ],
+                "choices": [
+                    "A A maculopapular pigmented lesion that is most prominent at puberty. It is a junctional proliferation of naevus cells with nests and columns in the dermis.",
+                    "B A deeply pigmented macular or papular lesion commonly seen in childhood. It is caused by a dermo-epidermal proliferation of naevus cells and progresses in the older person to form a compound or intradermal naevus. It has no malignant potential.",
+                    "C A benign skin tumour caused by human papillomavirus (HPV), which also causes plantar warts and condylomata acuminata.",
+                    "D A soft, warty lesion that is often pigmented and arises from the basal layer of the epidermal cells containing melanocytes. This is one of the most common benign skin lesions in the elderly.",
+                    "E A lesion, usually found on the head, neck and face, shaped like a cup with the centre filled with a keratin plug. The lesion has a history in weeks. The aetiology is unclear but may be caused by infection of a hair follicle by a papilloma virus. Although it regresses spontaneously, it is better to excise it for a superior cosmetic outcome and also to differentiate it from squamous cell carcinoma."
+                ]
+            },
+            "answer": {
+                "1": "D",
+                "2": "A",
+                "3": "B",
+                "4": "E",
+                "5": "C"
+            },
+            "explanation": "1. D Basal cell papilloma\nBasal cell papillomas (also called seborrhoeic keratoses or senile warts) are benign lesions found in the elderly as part of the ageing process. Some individuals have an inherited tendency (in an autosomal dominant pattern) to develop a large number of these lesions. It is not generally caused by exposure to the sun, although they can follow sunburn or dermatitis. It looks as flat-topped or warty-looking lesions, with a ‘stuck on' appearance to the skin and having a well-circumscribed border. They are usually deeply pigmented although some may be paler in colour.\n2. A Compound naevus\nCompound nevus is a mixture of junctional and intradermal proliferation. They usually arise from a flat (junctional) naevus that exists earlier in life and might have a raised central portion of deeper pigmentation with surrounding tan-brown macular pigmentation. They are usually of a round or oval shape and roughly 2–7 mm in diameter. Compound naevi are considered to be benign neoplasms of melanocytes if they arise in later life. Their name is derived from the fact that they contain junctional melanocytes (responsible for their pigmentation) and intradermal melanocytes (responsible for the elevation of the lesion).\n3. B Junctional naevus\nJunctional naevus is a form of melanocytic naevus (or mole) where the accumulation of melanocytes is located predominantly at the dermo-epidermal junction. They are often quite darkly pigmented, macular, or very thinly popular and with minimal elevation above the level of the skin. They are most often uniform in colour and range <7 mm or so in diameter. With advancing age, they may progress to form a compound or intradermal naevus.\n4. E Keratoacanthoma\nKeratoacanthoma is a common low-grade skin tumour (in situ tumour) originating from the neck of a hair follicle. However, some pathologists label keratoacanthoma as a ‘well-differentiated squamous cell carcinoma, keratoacanthoma variant', because about 5%-6% of keratoacanthoma might manifest itself as squamous cell carcinoma if left untreated. It is commonly found on sun-exposed skin, and often is seen on the face, forearms and hands. The defining characteristic of a keratoacanthoma is its dome-shaped and symmetrical appearance, surrounded by a smooth wall of inflamed skin capped with keratin scales. It has a characteristic growth pattern: A period of rapid growth for 8 to 12 weeks, then a plateau i.e., phase for a few months, followed by regression over the next 12 to 16 weeks. If in doubt (i.e., if a distinction cannot be clinically made between a keratoacanthoma and an SCC), then a diagnostic or excision biopsy is indicated.\n5. C Papillary wart\nA papillary wart (benign papillomatous tumour), derived from the epithelium, appears as white or normal skin coloured cauliflower-like projection (pedunculated or sessile appearance). These benign proliferations in the skin and mucosa are usually caused by infection with human papilloma virus. It is particularly common in childhood but may arise at any age. They are spread by direct contact or autoinoculation with a latency of weeks to years."
+        },
+        {
+            "id": 18,
+            "question_type": "matching",
+            "question": "Match the diagnoses with each of the following descriptions:",
+            "options": {
+                "items": [
+                    "1 Basal cell carcinoma",
+                    "2 Bowen's disease",
+                    "3 Extramammary Paget's disease",
+                    "4 Malignant melanoma (MM)",
+                    "5 Squamous cell carcinoma (SCC)"
+                ],
+                "choices": [
+                    "A This is a slow-growing, locally invasive tumour (hence also called a rodent ulcer, as it behaves like a rodent burrowing into neighbouring tissue) of a few years' duration. The edges are typically raised and rolled and occur more often on the face, head and neck.",
+                    "B This occurs in the genital or perianal regions or in skin rich in apocrine glands, such as the axilla. It is a form of intraepidermal adenocarcinoma.",
+                    "C This is an ulcerated skin lesion of a few months' duration, with a raised, everted edge and an indurated inflamed surrounding area. A minority might have enlarged regional lymphadenopathy from metastasis.",
+                    "D There is a pigmented skin lesion on the scalp that has recently changed in colour and become itchy and started to bleed. There are a few small black spots irregularly scattered around the lesion.",
+                    "E There is a slowly enlarging erythematous scaly patch on the dorsum of the right hand of an elderly male."
+                ]
+            },
+            "answer": {
+                "1": "A",
+                "2": "E",
+                "3": "B",
+                "4": "D",
+                "5": "C"
+            },
+            "explanation": "1. A Basal cell carcinoma\nThe duration of this slow-growing lesion (rodent ulcer) is usually in years and caused by exposure to ultraviolet light. It most often occurs on the head, neck and face (Figure 42.3). It has a raised, rolled edge, which might look like a pearl. Although there are several clinical types, by far the most common is the nodular and nodulocystic type, which is localised. The generalised types are superficial spreading, multifocal, or infiltrative, sometimes called geographical type. Surgical excision and primary closure, if possible, or skin grafting or use of rotational flaps by a plastic surgeon comprises the optimum treatment. Although the condition is radiosensitive, this form of treatment is rarely used because the location of the tumour precludes the use of radiotherapy to prevent damage to neighbouring vital structures, such as the lens and cartilages of the ear or nose.\n2. E Bowen's disease\nThis is a squamous carcinoma in situ first described in 1912 by John Templeton Bowen, professor of dermatology at Harvard University. It is elevated from the skin surface, red and scaly and spreads locally (Figure 42.4). A minority of these lesions may progress to SCC. Chronic exposure to sun, HPV 16 and inorganic arsenic compounds have been thought to be possible causes. When the condition occurs on the glans penis, it is called Queyrat's erythroplasia (Parisian dermatologist Auguste Queyrat described the condition in 1911, although Paget described the same disease 50 years earlier). Treatment is by topical application of 5-fluorouracil or surgical excision.\n3. B Extramammary Paget's disease\nThis is an intraepidermal adenocarcinoma occurring in the genital or perianal regions or axilla (extramammary Paget's disease: Sir James Paget 1814–1899, surgeon, St Bartholomew's Hospital, London). About one-quarter of them are associated with an underlying invasive neoplasm. Surgical excision is the treatment.\n4. D Malignant melanoma\nThis is a malignant melanoma (MM) with satellite nodules (Figure 42.5). It is a malignant tumour arising from the melanocytes. Therefore it can arise from any organ where melanocytes are present, such as the choroid of the eye, leptomeninges and bowel mucosa. Although it accounts for less than 5% of skin malignancy, it is responsible for more than 75% of deaths caused by skin malignancy. MM accounts for 3% of all malignancies worldwide and is the most common cancer in 20- to 39-year-olds. Exposure to ultraviolet rays is the major cause whilst the risk factors are enhanced in xeroderma pigmentosum, family history, previous melanoma, large number of naevi, dysplastic naevi, red hair, giant congenital pigmented naevus and immunocompromised patients. The various types are superficial spreading (70%), nodular (15%), lentigo maligna melanoma (5%–10%) and acral lentiginous melanoma (2%–8%). The presenting features in a naevus suggesting MM are change in shape, size, colour, surface, itchiness and serosanguinous discharge. MM also occurs underneath the nail bed; these are usually a superficial spreading type and confirmation is by biopsy of the nail matrix. Amelanotic melanoma usually occurs in the gastrointestinal tract. In a suspected MM regional lymph node metastasis should be sought, besides evidence of distant spread. Confirmation is done by excision biopsy with a 2-mm margin of skin and subdermal fat. Histology is reported according to the Breslow thickness (Alexander Breslow, 1928–1980, American pathologist). This is a guide to further definitive treatment and indicates prognosis. Radical regional lymph node dissection is done when there is metastasis. Clinically, impalpable lymph nodes might have microscopic metastasis, particularly in those where the Breslow thickness is more than 1 mm. Therefore, in such patients, sentinel lymph node biopsy (SLNB) should be offered and in node-positive patients block dissection is carried out. Of those with SLNB-positive disease, 70%–80% will have no other involved regional nodes. In those with clinically involved nodes, 70%–85% will have occult distant metastases, such as in the lung or liver.\n5. C Squamous cell carcinoma\nSquamous cell carcinoma (SCC), the second most common form of skin cancer, arises from the keratinising cells of the epidermis or its appendages and usually affects the elderly (Figure 42.6). The usual causes are prolonged exposure to sun, chronic inflammation, scars or burns and immunosuppression. The duration is usually in months. The lesion is an ulcer with a raised everted edge with the surrounding area red and indurated. Regional lymphadenopathy is more often due to infection as only 2% metastasise. The histology of the excised lesion should include the pathological pattern, cellular morphology, Broders' grade (Albert Compton Broders, 1885–1964, American pathologist), depth of invasion, presence of any perineural or vascular invasion and vertical and circumferential excision margin clearance. Depending upon the size and the location, the surgical management should be a multidisciplinary team effort between the plastic surgeon, radiation oncologist and pathologist."
+        },
+        {
+            "id": 19,
+            "question_type": "matching",
+            "question": "Match the diagnoses with each of the following descriptions:",
+            "options": {
+                "items": [
+                    "1 Amelanotic melanoma",
+                    "2 Lentigo maligna melanoma",
+                    "3 Nodular melanoma"
+                ],
+                "choices": [
+                    "A A 68-year-old woman presents to the surgical clinic with a fleshy lump over the sole of her right foot that is rapidly increasing in size. It does not appear pigmented and there are palpable lymph nodes in her groin.",
+                    "B A 39-year-old woman presents to the outpatient clinic with a 4-month history of a raised, nodular, and dark pigmented lesion over her right knee. It is itchy and bleeds occasionally.",
+                    "C A 72-year-old farmer presents to the outpatient clinic with a 12- to 15-year history of a brown lesion over his right cheek. He states that it has recently got bigger. On examination, the lesion is irregular in shape and measures about 8 x 10 mm; there is a darker patch within the lesion."
+                ]
+            },
+            "answer": {
+                "1": "A",
+                "2": "C",
+                "3": "B"
+            },
+            "explanation": "1. A Amelanotic melanoma\nAmelanotic melanoma is a variant of melanoma in which the cells do not make melanin. Classically, the lesions are pink or red appearing as erythematous papules or nodules. Patients frequently present with advanced disease and lymph node involvement.\n2. B Nodular melanoma\nNodular melanomas form the second most common subtype of all melanomas. They might occur over any part of the body but are more common over the legs and trunk. They are raised and dark pigmented, and they bleed or ulcerate. Histologically, the cells are predominantly in the vertical growth phase. Lymphatic involvement occurs early.\n3. C Lentigo maligna\nLentigo maligna melanoma (Hutchinson's melanotic freckle) commonly arises over the sun-damaged skin of the face. It is the least malignant variety and presents as an irregular brown patch. The precursor in situ lesion, lentigo maligna, is usually present for many years before progressing to malignancy. Malignant degeneration is characterised by thickening and the development of a discrete tumour nodule within the lesion."
+        }
+    ]
+}

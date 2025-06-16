@@ -1,0 +1,175 @@
+{
+    "chapter_name": "Torso trauma",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?",
+            "options": [
+                "A Management of injury to a junctional zone is a surgical challenge.",
+                "B Injury to the mediastinum is extremely high risk.",
+                "C CT scan should be carried out in all patients.",
+                "D For abdominal trauma the best diagnostic modality is diagnostic peritoneal lavage (DPL).",
+                "E The retroperitoneum is subdivided into three zones."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "As trauma is always unpredictable and does not respect anatomical regions, injury to a junctional zone presents huge challenges requiring teamwork from different specialists. The key junctional zones are between neck and thorax, between thorax and abdomen and between abdomen and pelvis (including groin). Injuries affecting the lower neck usually extend down to the mediastinum. The latter with its major vessels and heart is a very high-risk area. Injuries in the area of the lower chest should arouse suspicion of diaphragmatic damage with potential injury to both the thoracic and abdominal cavities. Pelvic injury can be the cause of major haemorrhage because of the rich vascular plexus of arteries and veins. Retroperitoneal injury is often difficult to diagnose, because it is associated with other intra-abdominal injuries. For management purposes, it is divided into the following three zones: zone 1 – central involving major vessels requiring exploration; zone 2 – lateral involving kidneys usually managed conservatively; and zone 3 – pelvis-haematomas, which are best left undisturbed. The junctional zones therefore can be summarised as neck, mediastinum, diaphragm, groin and retroperitoneum. Much as spiral CT scan is the best diagnostic modality, it cannot be used in the unstable patient. Similarly for abdominal injuries, DPL is not the best method to make a diagnosis, as a negative result has no significance and it has a morbidity; moreover, DPL is considered when the patient is stable when the ideal investigation should be a CT scan."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "2. The following statements are true except:",
+            "options": [
+                "A Resuscitation should follow ATLS protocol.",
+                "B Bleeding and its effects are always obvious.",
+                "C Bleeding occurs from five major sites.",
+                "D Physiological parameters must be sought.",
+                "E A rising serum lactate is an indicator of ongoing bleeding."
+            ],
+            "answer": "B",
+            "explanation": "The physiological effects of bleeding are not always obvious. Clinically, one looks for tachycardia, tachypnoea and hypotension – the usual clinical effects. These will not be obvious, particularly in the young fit individual. In any patient with trauma, the initial management should be according to the Advanced Trauma Life Support (ATLS) principles of resuscitation, which consists of ABCDE: Airway, Breathing, Circulation, Disability, Environment and Exposure. One should look for bleeding from five major sites – external (which would be obvious), thoracic, abdominal, pelvic and extremity fractures. Biochemically there is increase in serum lactate, which is due to type A lactic acidosis arising from hypoperfusion and hypoxaemia from haemorrhage."
+        },
+        {
+            "id": "3",
+            "question_type": "msq",
+            "question": "3. Which of the following statements are correct?",
+            "options": [
+                "A Thoracic injury accounts for 25% of all severe injuries.",
+                "B An intercostal drain (ICD) is both diagnostic and therapeutic.",
+                "C CT scan is the most reliable investigation.",
+                "D 80% of chest injuries can be managed without an operation.",
+                "E In an open pneumothorax, close the pneumothorax and then insert ICD."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Thoracic trauma contributes to 25% of all severe injuries. In a further 25%, it contributes significantly to the cause of death because of chest-related complications that can be attributed directly to the thoracic trauma. A chest x-ray is the first investigation of choice. However, in certain situations, insertion of an ICD may not only be therapeutic but also diagnostic, for example, in a patient with haemothorax. This is because an inflated lung will float and hence sound normal on auscultation from the front. Contrast-enhanced CT scan with 3-D reconstruction will define fractures, show haematomas and pneumothoraces and lung contusion. In case of penetrating trauma the track can be seen. Once thoroughly resuscitated and accurately investigated, 80% of thoracic injuries can be managed conservatively. In the case of an open pneumothorax, an ICD should be inserted first before fully closing the sucking chest wound. However, the defect can be closed with a sterile occlusive plastic dressing taped on three sides to allow the dressing to act as a flutter-valve."
+        },
+        {
+            "id": "4",
+            "question_type": "msq",
+            "question": "4. Which of the following statement/s is/ are incorrect?",
+            "options": [
+                "A On suspicion of a tension pneumotho-rax an immediate chest x-ray must be taken.",
+                "B The differential diagnosis of a tension pneumothorax is pericardial tamponade.",
+                "C The CVP is always elevated in pericardial tamponade.",
+                "D The most common cause of bleeding in massive haemothorax is torn intercostal vessels.",
+                "E Hypoxia in flail chest is due to paradoxical respiration."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "E"
+            ],
+            "explanation": "Tension pneumothorax is a clinical diagnosis. On clinical suspicion, one should never wait for a chest x-ray. The patient requires an immediate needle thoracostomy. The differential diagnosis is pericardial tamponade. While a rise in central venous pressure is usual in pericardial tamponade, it is not always present because there may be coincidental hypotension from severe haemorrhage at other sites such as the abdomen and pelvis. When there is flail chest, hypoxia occurs. This is not due to paradoxical respiration but is the result of underlying lung contusion and splinting of the chest wall due to severe pain. The differential diagnosis of tension pneumothorax is pericardial tamponade, particularly in a shocked patient with distended neck veins. In pericardial tamponade the heart sounds will be muffled along with tachycardia and raised jugular venous pressure. However, it must be appreciated that in a busy A&E department normal heart sounds may be difficult to discern. In massive haemothorax the most common source of bleeding is torn intercostal artery or arteries; occasionally, damaged internal mammary artery may be the source."
+        },
+        {
+            "id": "5",
+            "question_type": "msq",
+            "question": "5. Which of the following statements are true?",
+            "options": [
+                "A Thoracic aortic disruption is a common cause of sudden death in a RTA.",
+                "B Severe and rapid subcutaneous emphysema suggests tracheobronchial injury.",
+                "C Blunt myocardial injury is diagnosed by ECG changes.",
+                "D Blunt diaphragmatic rupture can be easily missed.",
+                "E Oesophageal injury is usually due to penetrating trauma."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Instantaneous death in a road-traffic accident (RTA) is often from traumatic aortic rupture, resulting from shear forces due to sudden high-energy impact disrupting the walls of the aorta. In the rare instance when the adventitia is intact, a stable patient may arrive in the hospital. The condition is suspected when there is discrepancy in the systolic blood pressure between the upper and lower limbs, wide pulse pressure and thoracic wall contusion. A CT scan will confirm the diagnosis, and the patient needs to be treated in a cardiovascular unit. A patient who develops severe rapid and extensive surgical emphysema should be suspected to be having tracheobronchial injury. Chest drains are inserted, which would be both therapeutic and diagnostic. Bronchoscopy is diagnostic and is followed by intubation; subsequent management has to be in a thoracic unit. If after blunt chest injury, the patient's ECG is abnormal cardiac contusion should be excluded by echocardiography and warrants urgent referral to a cardiothoracic surgeon. Diaphragmatic rupture following blunt injury can be missed easily, as it is silent unless there is evidence of injury to neighbouring organs. If the patient has a nasogastric tube, the tip of which can be seen in the chest, diaphragmatic rupture should be strongly suspected. The best confirmatory investigation is video-assisted thoracoscopy (VATS) or laparoscopy. Oesophageal injuries are usually due to penetrating injuries and present with subcutaneous or mediastinal emphysema. The upper gastrointestinal or thoracic surgeon should be involved."
+        },
+        {
+            "id": "6",
+            "question_type": "mcq",
+            "question": "6. The following statements are true except:",
+            "options": [
+                "A Emergency department thoracotomy (EDT) should be performed for most cases that require control of haemor-rhage from the heart or lung.",
+                "B Definitive correction of a trauma problem should be carried out in the operating theatre.",
+                "C Left anterolateral thoracotomy is the approach for thoracic aorta, left lung and lower oesophagus.",
+                "D Right anterolateral thoracotomy is carried out to approach thoracic trachea, superior vena cava and upper oesophagus.",
+                "E 'Clamshell thoracotomy' is the preferred approach for the surgeon who enters the chest only occasionally."
+            ],
+            "answer": "A",
+            "explanation": "Emergency department thoracotomy (EDT) should hardly ever be performed. Most thoracotomies for trauma should be performed in the operating theatre. EDT should be reserved for those with penetrating injury in whom signs of life are still present. EDT in patients with penetrating trauma in whom the blood pressure (BP) is rapidly falling in spite of resuscitation have a survival rate of 60% if the BP is > 60 mmHg; if it is < 40 mmHg the survival rate is 3%. Emergency thoracotomy for a definitive correction of a trauma problem should be carried out in the operating theatre. The approach chosen will depend upon the organ injured. Approach to the thoracic aorta, left side of heart, left lung and lower oesophagus is best obtained by a left anterolateral thoracotomy. A right anterolateral thoracotomy should be the approach to the superior vena cava, azygos vein, right lung and thoracic trachea. A ‘clamshell incision' is a combined right- and left-sided thoracotomy, which gives good exposure for the surgeon who enters the chest very occasionally."
+        },
+        {
+            "id": "7",
+            "question_type": "msq",
+            "question": "7. Which of the following statements are true?",
+            "options": [
+                "A Patients with abdominal trauma can be categorised into three groups, depend-ing upon their physiological status after resuscitation.",
+                "B In torso trauma, the best investigation is contrast enhanced CT (CECT) scan.",
+                "C FAST (focused abdominal sonar for trauma) is used to assess presence of free blood.",
+                "D DPL (diagnostic peritoneal lavage) is used to assess presence of blood in the peritoneal cavity.",
+                "E DL (diagnostic laparoscopy) or thoracoscopy is useful in penetrating trauma."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "In abdominal injuries, after resuscitation, triaging them into the following groups helps in their management:\n• Haemodynamically normal patients whose treatment can await completion of investigations.\n• Haemodynamically ‘stable' patients in whom investigations are urgent and are needed to decide whether management will be nonsurgical or surgical.\n• Haemodynamically ‘unstable' patients who need to be taken to theatre immediately to arrest bleeding.\nThe 'gold standard' in torso trauma is CECT, provided the patient is stable, and belongs to the second category as detailed previously. Intravenous contrast is used. In suspected duodenal injury, oral contrast is used, and in suspected rectal injury, rectal contrast is used. FAST is a useful and readily available investigation ideal for diagnosing blood or fluid in the abdomen and pericardium. The great advantage is that it is portable and can be done while resuscitation is being carried out; the disadvantage is that it is highly operator dependent.\nDPL is a means of excluding intra-abdominal bleeding in the unstable patient with polytrauma. However, it has been superseded by FAST and CT scan. DL is a useful investigation. The stable patient with a penetrating injury is suitable for this invasive investigation, particularly to avoid exploratory laparotomy and to diagnose diaphragmatic injury. The procedure can be used therapeutically if suitable."
+        },
+        {
+            "id": "8",
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "A A 40-year-old van driver has been brought to the accident and emergency (A&E) department with severe shortness of breath. He was involved in a road-traffic accident (RTA) when there was a head-on collision while not wearing a seat belt. There is bruising over his sternum. His neck veins are distended, with a systolic pressure of 80 mmHg and pulse rate of 130/minute. The trachea is in the midline, but breath sounds are difficult to discern because there is a lot of noise in the A&E department. The pulse oximeter shows an oxygen saturation of 92%.",
+                    "B A 25-year-old motorcyclist has been brought to the A&E department in a panicky state, as he is unable to breathe properly and is intensely hypoxic (oxygen saturation of 90%). The trachea is shifted to the right, the left hemithorax does not move and there is hyper-resonance over the left chest wall. The noise in the A&E department makes listening to breath sounds difficult.",
+                    "C Following an injury at a building site where a piece of heavy masonry fell on his chest, a 35-year-old man has been sent to the A&E department with severe pain in his chest and marked bruising of the chest wall on the left. On examination his blood pressure is 80/50 mmHg, the left chest is dull on percussion and there is no air entry.",
+                    "D A 22-year-old rugby player has been brought to the A&E department with severe left-sided chest pain following blunt injury sustained in a match about 2 hours ago. He is very tachypnoeic and extremely tender over the central part of his left hemithorax. The skin over the ribs looks badly bruised, and the chest wall is unstable when he coughs or tries to take a deep breath.",
+                    "E A 15-year-old boy has been brought into the A&E department having been stabbed on the left side of his axilla. He is gasping for breath and his pulse oximeter shows a saturation of 90%. There is an open wound in the region of the fifth left interspace, through which a sucking sound can be heard.",
+                    "F A fit 35-year-old man who was working on a building site sustained severe blunt upper abdominal trauma. He had a splenectomy for ruptured spleen and partial hepatectomy for torn liver. On the third postoperative day, while still in the ITU, he became oliguric, had cardiorespiratory compromise, type 2 respiratory failure and gross abdominal distension.",
+                    "G A 30-year-old man sustained an injury at a building site when a heavy piece of masonry fell on his lower abdomen. He is tachypnoeic and in hypovolaemic shock, with a pulse of 130/minute and a blood pressure of 80/60 mmHg. He has been resuscitated by the ATLS protocol and is stable after 4 hours, has a pulse of 100/minute, blood pressure of 130/90 mmHg and CVP of 4 cm H2O. He continues to be short of breath, with an oxygen saturation of 92%. He has an indwelling catheter, two IV cannulae with crystalloids and blood and a nasogastric tube. A chest x-ray shows the tip of the nasogastric tube next to the heart in the left chest.",
+                    "H A 9-year-old boy sustained a kick in the left side of his abdomen and loin while playing rugby. After a brief period of rest, he finished his game. In the changing room when he passed urine, it was haematuria. He was brought to the A&E department. He was stable with a pulse of 90/minute and blood pressure of 110/80 mmHg. On examination he had bruising over the left lumbar region and left loin with some obliteration of the loin curve.",
+                    "I A 50-year-old man was brought to the A&E department having been viciously assaulted by being kicked in his upper abdomen and lower right chest. He is in very severe pain and short of breath with tachycardia. His pulse is 110/minute, blood pressure is 90/70 mmHg and clinically he has fracture of his right fifth to ninth ribs. Abdominal examination shows Cullen's sign with marked tenderness and bruising in the right upper quadrant. Following resuscitation by the ATLS protocol, his blood pressure is 120/90 mmHg and his pulse rate is 100/minute. His CVP is 5 cm H2O.",
+                    "J Following a severe RTA, a 35-year-old female passenger in the back seat of a car had to be extricated. She has been brought in with generalised abdominal pain across the site of the seat belt. She is breathless and complaining of pain in the left upper quadrant and left shoulder, which had impacted against the front seat. Her pulse is 110/minute and blood pressure is 100/60 mmHg. She is very tender over the left upper quadrant and clinically there is no shoulder injury. She has fracture of her left 9th, 10th and 11th ribs.",
+                    "K A 10-year-old girl has been brought to the A&E department complaining of upper abdominal pain of 10 days' duration. She has not been feeling well, with nausea and occasional vomiting and a feeling of listlessness and she has been off school. On examination she has a distended upper abdomen where there is a suggestion of a smooth firm mass in the epigastrium where the skin is bruised. When asked about the skin bruising, she said that it occurred 10 days ago when she fell off her bicycle and the handlebar struck her epigastrium."
+                ],
+                "choices": [
+                    "1 Abdominal compartment syndrome (ACS)",
+                    "2 Cardiac tamponade",
+                    "3 Diaphragmatic injury",
+                    "4 Flail chest",
+                    "5 Liver injury",
+                    "6 Massive haemothorax",
+                    "7 Open pneumothorax",
+                    "8 Pancreatic injury",
+                    "9 Renal injury",
+                    "10 Splenic injury",
+                    "11 Tension pneumothorax"
+                ]
+            },
+            "answer": {
+                "A": "2",
+                "B": "11",
+                "C": "6",
+                "D": "4",
+                "E": "7",
+                "F": "1",
+                "G": "3",
+                "H": "9",
+                "I": "5",
+                "J": "10",
+                "K": "8"
+            },
+            "explanation": "1. F Abdominal compartment syndrome (ACS) Patients who have undergone major surgery following trauma are prone to the complication of abdominal compartment syndrome (ACS). This is a major cause of mortality and morbidity in the patient with multiple injuries. Quite often it is not recognised. All the clinical features result from raised intra-abdominal pressure, which compresses the individual organs, thereby causing deterioration of their individual functions. Renal failure, decreased cardiac output from reduction in preload and increase in afterload, respiratory embarrassment from raising of the diaphragm and reduction in visceral perfusion account for this complication. Measurement of intra-abdominal pressure by measuring the intravesical pressure through the indwelling catheter will help in making a diagnosis. An intra-abdominal pressure of more than 25 mm Hg is sinister, and the patient requires immediate abdominal decompression. Some surgeons following major surgery after severe abdominal trauma leave the abdomen open, covered with a plastic mesh (Bogota bag). Definitive surgery is carried out later. The condition has a high mortality of about 60%.\n2. A Cardiac tamponade This van driver is a shocked patient with distended neck veins following direct blunt and penetrating chest injury. Any patient with a penetrating injury near the heart who is shocked is deemed to have pericardial tamponade unless otherwise proved. The classic triad consists of low systolic pressure, raised jugular venous pressure (JVP) and muffled heart sounds (Beck's triad). The last sign may not be reliable, as it may be difficult to interpret because of noise in the busy surroundings of an A&E department. If the patient has lost a large amount of blood elsewhere, the JVP and central venous pressure (CVP) may not be elevated. A chest x-ray, FAST, echocardiography and a rising CVP might help if the diagnosis is in doubt. Pericardiocentesis under ECG control is the emergency treatment. Withdrawal of 10–15 mL of blood will result in marked improvement and is a life-saving emergency measure before a formal thoracotomy is carried out by a cardiac surgeon. However, if the patient has lost a large amount of blood elsewhere, the JVP and CVP may not be elevated.\n3. G Diaphragmatic injury This patient has suffered a blunt injury to his abdomen and pelvis, resulting in a compression force. This nature of injury should alert one to the possibility of a diaphragmatic injury. On the chest x-ray, the tip of the nasogastric tube next to the heart confirms the injury. As the patient is stable, VATS is the investigation of choice. A DL is also useful if only to exclude intra-abdominal injury. Surgical repair is carried out in all cases. The abdominal route is preferred so that injury to abdominal organs is excluded and repaired if necessary.\n4. D Flail chest This rugby player, having sustained a blunt injury to the left side of his chest, has an unstable segment of chest wall on the left side. This is typical of a flail chest. A flail chest is defined as a segment of the chest wall that is discontinuous with the rest of the thoracic cage. It occurs when there are more than three ribs fractured at more than two sites. On inspiration the loose segment of chest wall moves inwards and on expiration it moves outwards – paradoxical respiration. This is a clinical diagnosis made on observation when the patient breathes or coughs. Hypoxia is primarily caused by the inevitable underlying lung contusion and lack of chest wall movement due to pain; paradoxical respiration contributes only a minor part to the hypoxia. Pneumothorax or haemothorax is a complication. The treatment is mechanical ventilation to help internally splint the flail segment. Intercostal nerve block to relieve pain is a good alternative to opiates. Some surgeons perform internal operative fixation in selected cases to stabilise the chest.\n5. I Liver injury This badly assaulted patient's injuries are mostly on the right lower chest and abdomen. He has Cullen's sign which is a telltale finding of liver injury, because blood from the torn liver tracks to the umbilicus through the ligamentum teres. Liver is damaged typically as a result of blunt trauma. This patient is resuscitated according to the ATLS protocol. He is now reasonably stable. A CECT scan is carried out to determine the exact degree of liver injury and exclude other solid organ damage. If the patient remains stable, he is treated conservatively, as most liver injuries are. If the patient becomes unstable, laparotomy is undertaken. Liver injury can be graded by various systems. The principles of surgery in liver injury can be summarised by the four Ps – push, Pringle's method, plug, pack. In very severe injuries, after packing the damaged liver, the patient should be transferred to a tertiary hepatobiliary unit.\n6. C Massive haemothorax This patient's type of injury typically will produce a massive haemothorax, the bleeding occurring from intercostal vessels or internal mammary artery. The patient suffers from haemorrhagic shock with collapsed neck veins, absence of breath sounds, hypoxia and dullness on percussion on the left side. Massive haemothorax is defined as an initial drainage of more than 1.5 L of blood or more than 200 mL of blood per hour over 3 to 4 hours. Urgent vigorous resuscitation for the haemorrhagic shock followed by insertion of an intercostal drain is carried out. This is followed by an urgent thoracotomy by a cardiothoracic surgeon.\n7. E Open pneumothorax This young boy has an open pneumothorax, or a sucking chest wound. The wound should be closed immediately with a plastic Opsite dressing taped only on three sides to create a valve so that the air can escape out and not cause a tension pneumothorax. A formal intercostal drain (using as large a drain as possible) is inserted. The drain may be attached to a low-pressure suction. An early referral to a cardiothoracic surgeon is mandatory, as a thoracotomy might be needed.\n8. K Pancreatic injury This 10-year-old girl has the classical manifestation of a traumatic pseudocyst of the pancreas. The most common cause of acute pancreatitis in a child is from blunt trauma to the abdomen from a cycle handlebar injury. This girl sustained such an injury 10 days ago. At the time she suffered from traumatic acute pancreatitis, which obviously was not clinically bad enough to seek hospital help. Over the ensuing 10 days, she has developed a mass in the epigastrium typical of a pseudocyst. This should be confirmed by ultrasound scan, which would show a cyst behind the stomach. Depending upon the size and the patient's symptoms, it should be managed accordingly. A cyst larger than 6 cm will need to be drained. A cystogastrostomy is performed by the endoscopic route.\n9. H Renal injury This young boy has right renal injury as a result of blunt abdominal and loin trauma. He is stable. After instituting ATLS resuscitation policy, an emergency intravenous urogram (IVU) is carried out (Figure 28.1). This is mainly done to ensure that the other kidney is normal. A renal ultrasound is done to gauge the size of the perirenal haematoma and repeated if necessary in a few days' time to make sure that it is reducing in size. Some may do a CECT scan. But as the same information can be obtained from a US scan, unnecessary radiation is avoided particularly because the patient is 9 years old. The vast majority of renal injuries are treated conservatively (Figure 28.2). Every time the patient passes urine, some of it is saved in a transparent jar and the time of passing urine is noted (Figure 28.3). This gives an idea if the haematuria is getting better. In selected cases, if the haematuria does not improve while the patient is still stable, there is a place for selective renal angiogram with a view to renal artery embolisation. Haematuria following minor trauma should alert the surgeon to the possibility of injury to a pathological kidney, such as a congenital hydronephrosis or horseshoe kidney.\n10. J Splenic injury This female back-seat passenger in a car has had blunt trauma over the left lower chest and abdomen. She has fractured left lower ribs and referred pain to her shoulder tip due to diaphragmatic irritation from blood under the left dome from a ruptured spleen. A CECT scan will confirm the diagnosis. The patient is observed if she continues to be stable. Otherwise, a laparotomy is done at which a splenectomy or splenorrhaphy or splenic preservation by placing it in a mesh bag is attempted. Postoperatively she will require prophylaxis against opportunist post-splenctomy infection (OPSI).\n11. B Tension pneumothorax This motorcyclist has a left tension pneumothorax. He has intense hypoxia, is tachypnoeic, has a deviated trachea, a hyper-resonant percussion note and probably no breath sounds, which may be difficult to hear in a busy A&E department. This is an absolute emergency, which needs to be dealt with immediately by inserting a large-bore needle into the second intercostal space in the midclavicular line. This allows one to buy time for some 20 minutes or so, during which the definitive procedure of insertion of an intercostal drain in the fifth intercostal space in the anterior axillary line is carried out. The usual causes are penetrating or blunt chest trauma with lung injury, causing air leak or iatrogenic lung puncture while inserting a CVP line through the subclavian route. This occurs when air leaks through a one-way valve from the lung. Air is forced into the chest cavity without any route of escape, causing complete lung collapse. There is a decrease in the venous return, causing engorgement of neck veins. The differential diagnosis is cardiac tamponade."
+        }
+    ]
+}

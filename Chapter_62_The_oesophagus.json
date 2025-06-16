@@ -1,0 +1,140 @@
+{
+    "chapter_name": "The oesophagus",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?",
+            "options": [
+                "A The oesophagus is 30 cm long.",
+                "B The oesophagus has five natural constrictions.",
+                "C The gastro-oesophageal junction is 40 cm from the incisors.",
+                "D. The oesophagus is lined by stratified squamous epithelium.",
+                "E The oesophageal opening in the diaphragm is at the level of T10 vertebra."
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The gastro-oesophageal junction is normally 40 cm from the incisors. The oesophagus is lined by non-keratinised stratified squamous epithelium. Should there be columnar epithelium, it is regarded as abnormal and occurs as a result of gastro-oesophageal reflux disease (GORD). The oesophageal opening is at the level of the tenth thoracic vertebra behind the left seventh costal cartilage, the surface marking being 2.5 cm to the left of the midline. The oesophagus is 25 cm long. It has three natural constrictions. The first at the cricopharyngeal junction which 15 cm from the incisors, the second at 25 cm from the incisors where it is crossed by the aortic arch and left main bronchus (although the latter is slightly lower) and finally the cardio-oesophageal junction, which is at 40 cm. The surgical importance is that foreign bodies are prone to arrest at these sites."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. The following statements are true except:",
+            "options": [
+                "A The lower oesophageal sphincter (LOS) is an area of high pressure.",
+                "B The normal length of the LOS is 3 to 4 cm.",
+                "C The three phases of swallowing, oral, pharyngeal and oesophageal, are involuntary.",
+                "D Pharyngeal diverticulum occurs because of the incoordination of the pharyngeal phase of deglutition.",
+                "E The pressure in the LOS is 10–25 mmHg."
+            ],
+            "answer": "C",
+            "explanation": "The three phases of swallowing are not all involuntary. The oral phase where the food is shifted from the mouth into the oropharynx is voluntary. Thereafter the pharyngeal and oesophageal phases are involuntary. The food bolus is propelled along the oesophagus through the LOS. Incoordination in swallowing in the pharyngeal phase where the cricopharyngeus muscle does not relax, causes a high pressure within the pharynx; this is the basis of a pharyngeal (Zenker's) diverticulum. The LOS, about 3 to 4 cm long, is an area of high pressure, the pressure being in the region of 10–25 mmHg. This helps to prevent gastro-oesophageal reflux."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. Which of the following statements are false?",
+            "options": [
+                "A Dysphagia (difficulty in swallowing) is a cardinal symptom of oesophageal carcinoma.",
+                "B Dysphagia associated with cough is a symptom of impending tracheo-oesophageal fistula.",
+                "C Dysphagia in the oral and pharyngeal phases of swallowing indicates a neurological rather than a mechanical problem.",
+                "D Odynophagia (painful swallowing) is always of cardiac origin.",
+                "E Regurgitation and reflux are the same and caused by dysphagia."
+            ],
+            "answer": [
+                "D",
+                "E"
+            ],
+            "explanation": "Odynophagia is painful swallowing. It is not always of cardiac origin although a cardiac cause must be excluded. It is a symptom of oesophageal motility disorders, particularly diffuse oesophageal spasm. Regurgitation and reflux are not the same and do not always result from dysphagia; patients might have difficulty distinguishing the two. Regurgitation, often the effect of a mechanical obstruction such as carcinoma, is the return of swallowed food contents that do not travel down. Reflux is the involuntary return of stomach contents such as acid into the oesophagus or pharynx. Dysphagia (difficulty in swallowing) is the first symptom of an oesophageal carcinoma. When associated with cough it is of much more sinister significance as it indicates an impending tracheo-oesophageal fistula. Dysphagia in the initial stages of swallowing (oral and pharyngeal) usually has a neurological cause."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "4. The following statements are true except:",
+            "options": [
+                "A Anginal pain can be confused with heartburn.",
+                "B Heartburn with weight loss is a ‘red flag' symptom.",
+                "C Barium swallow is the ideal investigation in a patient with heartburn.",
+                "D Dysphagia to liquids more than solids is typical of achalasia of cardia.",
+                "E Oesophagogastroduodenoscopy (OGD) is the first line investigation in suspected spontaneous rupture of oesophagus."
+            ],
+            "answer": [
+                "C",
+                "E"
+            ],
+            "explanation": "Barium swallow is not the ideal investigation in a patient with heartburn. The ideal investigation is oesophagogastroduodenoscopy (OGD). This enables the endoscopist to assess the type of reflux, quantity of reflux, state of the mucosa and site of the gastro-oesophageal junction, and to take biopsies. This investigation should not be carried out in suspected oesophageal rupture where the investigation should be a chest x-ray followed by contrast CT scan. Anginal pain can easily be confused with heartburn so much so patients with angina often complain of 'indigestion'. Heartburn with weight loss might indicate the onset of a peptic stricture or malignancy in a Barrett's oesophagus and hence a ‘red flag' symptom. Patients with achalasia often complain of dysphagia to liquids more than solids."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "5. Which of the following statements are true?",
+            "options": [
+                "A A barium meal should be the first line of investigation in a patient presenting with heartburn.",
+                "B 24-hour pH monitoring is the most accurate method to assess gastro-oesophageal reflux disease (GORD).",
+                "C Laparoscopy should be undertaken prior to oesophagectomy.",
+                "D Manometry is essential in the diagnosis of motility disorders.",
+                "E Raman spectroscopy detects early molecular changes in Barrett's mucosal neoplasia."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "GORD is best assessed by 24-hour pH monitoring. It is particularly useful in patients who are unresponsive to medical treatment and without significant oesophagitis on OGD. This might be combined with pH-impedence recording. In oesophageal carcinoma, when preliminary investigations suggest that a resection is possible, laparoscopy as a staging procedure is undertaken to exclude small peritoneal secondaries. Motility disorders always warrant manometry for confirmation. In high-grade dysplasia bordering on very early malignancy, a diagnosis can be achieved by Raman spectroscopy, which can detect early mucosal changes. Barium meal is not a good investigation for patients presenting with heartburn (see previously). It is an obsolete investigation for this symptom."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "6. Which of the following statements are false?",
+            "options": [
+                "A Injection of botulinum toxin is a modality of treatment in achalasia.",
+                "B The operation for resection of carcinoma of middle one-third of oesophagus is Heller's procedure.",
+                "C Endoscopic mucosal resection is a surgical option in very early mucosal neoplasia in Barrett's oesophagus.",
+                "D All patients with oesophageal perforation should be treated with surgical repair.",
+                "E The ideal surgical treatment for a Zenker's diverticulum is excision through an incision on the left side of the neck followed by cricopharyngeal myotomy."
+            ],
+            "answer": [
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "The operation for resection for carcinoma of middle one-third of oesophagus is called an Ivor-Lewis procedure. Heller's operation is done for achalasia of the cardia. All patients with oesophageal perforation do not require surgical repair. A contrast-enhanced CT scan will show the extent of the perforation. This should help to decide whether the patient needs an operation. Besides how early the patient is seen is another factor to be taken into consideration prior to surgery. A fair number of these patients will not require surgery. Zenker's diverticulum is ideally treated by minimal access surgery by endoscopic-stapling diverticulotomy and not open surgery. Botulinum toxin injection into the LOS is a treatment modality used particularly in the elderly with comorbidities. This acts by interfering with the cholinergic neural activity; the procedure might have to be repeated."
+        },
+        {
+            "id": 7,
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "A A 68-year-old woman complains of recurrent cough that is worse at night when she is woken up from her sleep. She is embarrassed by halitosis. Her general practitioner (GP) has treated her for chest infection several times with antibiotics. Examination shows some signs of basal penumonitis.",
+                    "B A 48-year-old man complains of intermittent dysphagia for almost 1 year. He has some postprandial discomfort, which is relieved by belching and occasional regurgitation of food. This is associated with retrosternal pain and pressure sensation. An ECG is normal. Chest x-ray shows a gas bubble behind the heart.",
+                    "C A 42-year-old man complains of dysphagia with retrosternal chest pain. This has been intermittent. On one occasion the pain was very severe with pain radiating along the arms. He was admitted as an emergency to the medical ward where his ECG and cardiac enzymes were normal.",
+                    "D A 72-year-old man, a long-standing smoker, complains of progressive dysphagia with food sticking behind his mid-sternum for 3 months. The problem started with solids, but now he has difficulty with liquids. He has lost 14 kg of weight during this time. On examination the weight loss is obvious from his loose, ill-fitting clothes.",
+                    "E A 35-year-old man complains of dysphagia of almost 2 years duration. Occasionally he has regurgitation of foul-smelling stale food and frothy sputum. He has been treated for chest infection a few times by his GP. He has lost some weight and looks slightly malnourished.",
+                    "F A 42-year-old woman complains of retrosternal burning pain, which she refers to as heartburn, epigastric discomfort and repeated regurgitation. Her symptoms are worse after fatty and spicy foods and by stooping. She has also experienced painful swallowing when she felt an acidic taste in her throat. On examination she is obese with signs of chest infection."
+                ],
+                "choices": [
+                    "1 Achalasia of cardia",
+                    "2 Carcinoma of oesophagus",
+                    "3 Diffuse oesophageal spasm",
+                    "4 Gastro-oesophageal reflux disease (GORD)",
+                    "5 Pharyngeal diverticulum",
+                    "6 Rolling hiatus hernia"
+                ]
+            },
+            "answer": {
+                "A": "5",
+                "B": "6",
+                "C": "3",
+                "D": "2",
+                "E": "1",
+                "F": "4"
+            },
+            "explanation": "5. A Pharyngeal (Zenker's) diverticulum\nThis is pulsion diverticulum that occurs through the two parts of the inferior constrictor muscle, the thyropharyngeus and circopharyngeus. It occurs because the cricopharyngeus muscle fails to relax during the pharyngeal phase of deglutition. When it reaches a significant size it presents with repeated attacks of chest infection due to spillage of food contents into the tracheobronchial tree. Rarely a large diverticulum might be felt as a soft lump on the left side of the neck. The diagnosis is made on barium swallow when a pouch is seen in the lower neck and upper chest (Figure 62.8). A small asymptomatic diverticulum found incidentally is left alone. When it produces symptoms it should be excised. This is best carried out by the head and neck surgeon by minimal access surgery. The open procedure of excision through an incision on the left side of the neck has now been superseded by Dholman's endoscopic stapling diverticulotomy and cricopharyngeal myotomy. Prior to excision, the pouch is emptied and inspected to make sure that there is no suspicion of a squamous carcinoma (a rare complication) in which case open excision should be carried out.\n\n6. B Rolling hiatus hernia\nAlso called paraoesophageal hernia, this is rare. Most of the rolling hernias are mixed where the cardio-oesophageal junction is displaced into the chest along with the greater curve of the stomach. As the stomach rolls up into the chest, it rotates, forming a volvulus, a potentially dangerous problem. Colon and small bowel might be in the hernial sac. Dysphagia and chest pain relieved by belching is a typical symptom. Rarely the hernia might present as an emergency with strangulation, gangrene and perforation. A chest x-ray might show a gas bubble and fluid level behind the heart. A barium meal (Figure 62.9) is the method to diagnose the condition, as OGD may be confusing. If a patient presents as an emergency and is not in extremis, nasogastric decompression of the stomach followed by elective surgery is carried out. The operation consists of reduction of the hernia, excision of the sac and narrowing the diaphragmatic crus followed by fundoplication, the latter being an effective method to retain the stomach in the abdomen and at the same time preventing gastro-oesophageal reflux.\n\n3. C Diffuse oesophageal spasm\nThe usual sufferer is a middle-aged patient who complains of intense odynophagia of short duration. After excluding cardiac causes of the pain, the diagnosis might be confirmed by a barium swallow when the appearance is likened to a ‘corkscrew' (Figure 62.5). OGD might show the increased peristalsis (Figure 62.6). Manometric pressures might be as high as 400–500 mmHg, the abnormal contractions being more common in the lower two-thirds. When pressures are persistently more than 180 mmHg in the presence of chest pain, the condition is referred to as nutcracker oesophagus. Once a cardiac cause has been excluded, reassurance helps. Calcium channel blockers, vasodilators and endoscopic dilatation have only temporary benefit. If symptoms are bad enough to cause malnutrition, surgery in the form of long myotomy up to the aortic arch might be tried. However, this procedure is more effective in alleviating dysphagia than chest pain. Therefore, it is better not carried out if chest pain happens to be the predominant symptom.\n\n2. D Carcinoma of oesophagus\nPatients, normally heavy smokers, complain of increasing dysphagia of short duration with chest symptoms and weight loss. A barium swallow shows an irregular stricture with typical shouldering (Figure 62.3). OGD confirms the diagnosis (Figure 62.4). Prior to taking biopsy, endoluminal ultrasound (EUS) is carried out which gives an accurate idea of the local extent and mediastinal lymph nodal metastasis. Biopsy would show a squamous carcinoma. CT scan is done to assess loco-regional staging. If after these investigations, resection is regarded as a possibility, laparoscopy with laparoscopic ultrasound (US) is carried out. If resection is considered, possible only in a minority, the procedure is Ivor-Lewis operation. In this the first stage is a midline laparotomy to mobilise the stomach and lower oesophagus, preserving the right gastric and gastro-epiploic vessels and performing a pyloroplasty. After closing the abdomen, a right posterolateral thoracotomy is carried out to mobilise and resect the oesophagus with part of the fundus. Gastro-oesophageal anastomosis is carried out just below the aortic arch. Sometimes it might be possible to give the patient adjuvant chemotherapy or radiotherapy to downstage the tumour and then proceed to the operation. The vast majority of patients are seen too late to be suitable for surgical resection. Radiotherapy and chemotherapy with the insertion of a self-expanding metallic stent are the methods of palliation. This might be supplemented by laser ablation, a procedure that might have to be repeated.\n\n1. E Achalasia of cardia\nPatients with achalasia of cardia (cardiospasm) complain of long-standing dysphagia, particularly for liquids while solids tend to go down better. This is associated with repeated chest infections from regurgitation of food into the tracheo-bronchial tree; halitosis is often present. On examination the only physical findings are evidence of weight loss and chest infection. A barium swallow is the investigation of choice to be followed by OGD. The contrast study shows a massively dilated oesophagus with food residue and smooth narrowing of the lower end, typically described as a ‘bird beak' appearance (Figure 62.1). On OGD, the endoscopist has a feeling of 'entering a cave' with a large amount of stale food (Figure 62.2). The gastro-oesophageal opening is eccentric in position. Biopsies are taken, the entire procedure being carried out with extra caution because of the risk of perforation. Depending upon the severity of the condition, at initial OGD, balloon dilatation may be tried. In the elderly, injection of botulinum toxin (see previously) is worthwhile although the procedure might have to be repeated. The definitive surgical procedure is Heller's cardiomyotomy where a longitudinal incision is made on the muscle of the lower oesophagus and cardia. Intraoperative OGD is carried out to ensure the efficacy of the myotomy. Because of the complication of gastro-oesophageal reflux, most surgeons add some form of anti-reflux procedure. The operation is carried out laparoscopically, the open transthoracic or transabdominal approaches now being almost obsolete.\n\n4. F Gastro-oesophageal reflux disease\nThe usual triad is heartburn, epigastric pain radiating to the back and regurgitation, the latter resulting in chest infections. OGD should be the initial investigation. This will show if there is shortening of the oesophagus indicating a sliding hiatus hernia, the type and content of reflux, competence of the LOS and degree of oesophagitis, which is graded (Figure 62.7). Biopsies are taken to assess the inflammation, exclude H. pylori and look for dysplasia. It is essential to exclude Barrett's oesophagus where the squamo-columnar junction is seen proximally. Biopsy might show metaplasia into specialised columnar epithelium, which has a propensity for adenocarcinoma. Presence of intestinal metaplasia is a sinister finding. Therefore these patients must be kept under strict endoscopic surveillance to detect increasing degree of dysplasia. During OGD, Raman spectroscopy can be carried out to detect very early carcinoma in situ, which may be suitable for endoscopic mucosal resection (EMR). The vast majority of patients are treated by the following conservative measures: lifestyle changes, medical treatment with proton pump inhibitors (PPI), H. pylori eradication and H2-receptor antagonist. When medical treatment is unsuccessful, the anti-reflux procedure of fundoplication is carried out by the laparoscopic route. In this operation an adequate length of intra-abdominal oesophagus (5 cm) is created and the mobilised gastric fundus is placed behind the intra-abdominal oesophagus and sutured to itself partially or completely. The diaphragmatic hiatus is narrowed behind the oesophagus."
+        }
+    ]
+}

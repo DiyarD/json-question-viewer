@@ -1,0 +1,77 @@
+{
+    "chapter_name": "Surgical ethics and the law",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?",
+            "options": [
+                "A Consent should be obtained by the person doing the operation.",
+                "B The written communication should always be in English.",
+                "C Consent is necessary before physical examination of a patient.",
+                "D Every possible hazard, however remote the possibility, should be explained in detail.",
+                "E Legally, a signed consent from a patient is proof that valid consent has been properly obtained."
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "explanation": "The surgeon who will carry out the operation should take the consent. The obtaining of consent should not be delegated to a junior member of the team who has not performed the procedure. Informed consent must be obtained before starting treatment. Informed consent denotes that patients understand the nature of the procedure to which they are consenting. Patients must be given information and choices so that they can make subsequent plans and decisions in future. They must be given appropriate and accurate information to agree to undergo surgical treatment and in a language they can understand. Information should consist of the condition and reason for the operation, type of operation, prognosis with anticipated side effects, unexpected complications, any alternative but successful treatment and the outcome of not having the treatment carried out. Patients should be given the chance to ask questions and voice any misgivings.\nThe communication need not always be in English, as the patient may not speak or understand English. Written and verbal communication in the patient's preferred language, by use of an interpreter, should be given with adequate time for patients to mull over the advice given to be able to make up their own minds.\nPrior to touching a patient for physical examination, consent must be obtained; otherwise it constitutes battery. However, this is unnecessary every time a patient is to be touched while under the care of the surgeon. Implied consent will have been given by the patient once an initial consent has been taken.\nIt is not necessary to inform patients of every possible hazard, however remote the possibility. Surgeons should inform patients of hazards that any reasonable person in their position would like to know. A signed consent form is no proof that a valid consent has been properly obtained. Patients can and do sometimes deny that they were given appropriate information. Surgeons should therefore record in the notes details of information given, particularly about complications."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "2. Which of the following statements are true?",
+            "options": [
+                "A There is no need to explain to children the procedures for which consent has already been given by their parent or guardian.",
+                "B Children can unconditionally refuse treatment.",
+                "C The child's views should be taken into account where possible.",
+                "D In patients who cannot give consent because of their illness, e.g., they are unconsciousness or there is psychiatric illness, their legal guardian can give consent.",
+                "E Therapy can proceed after consent from a carer in an unconscious patient irrespective of any previous wishes of the patient."
+            ],
+            "answer": [
+                "C",
+                "D"
+            ],
+            "explanation": "The surgeon must take care to explain to children in layperson's terms the proposed treatment, and, where possible, their views should be sought. This is in keeping with patient autonomy, for both adults and children. ‘Under English law, children can provide their own consent to surgical care, although they cannot unconditionally refuse it until they are 18 years old.' Notwithstanding this statement, the surgeon must respect the child's autonomy with regard to the surgical management.\nIn the presence of psychiatric illness or mental handicap, the legal guardian can give consent. In patients who are detained for compulsory psychiatric care, their competence to consent to surgical treatment should be assumed and hence consent sought. If they are incompetent to provide consent, then life-saving surgical treatment can proceed. If adult patients are permanently incompetent to give consent for surgery, treatment can proceed to save life or prevent disability. The exception to this rule is when the patient has already drawn up a legally valid document refusing specific intervention – ‘a living will'."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. For consent to be valid, which of the following statements are true?",
+            "options": [
+                "A The patient must be competent to give it.",
+                "B The patient must not be coerced into decision making.",
+                "C The patient must be given sufficient information.",
+                "D If competence is severely compromised, the patient's carer should assume responsibility.",
+                "E If a patient has a legally valid advanced directive refusing treatment, the decision must be honoured."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "In considering competence of a patient to give consent, the patient must be able to understand explanations given in lay terms and remember them. When choices of treatment are given, the patient should be able to deliberate them and make an informed choice. If a patient seems unsure about the choices, he or she should never be coerced into making a particular decision; instead, the patient should be given more time for deliberation. The patient may prefer more information and has the right to receive it to make a choice based on the understanding of the pros and cons of a particular type of treatment.\nIn instances where competence may be compromised, as in psychiatric patients needing essential surgical treatment, the legal carer must assume responsibility. After consultation with the carer, if it is concluded that the patient is incompetent to provide consent, then surgery to prevent death or serious disability can proceed without consent in the best interest of the patient. In a situation where a patient has made a legally advanced decision to decline treatment of a specific kind, that decision must be respected, provided it pertains to the current clinical situation."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "4. Which of the following statements are true?",
+            "options": [
+                "A The surgeon is always obliged to provide life-sustaining treatment.",
+                "B A decision to withhold treatment should be taken along with another senior clinician and recorded in detail.",
+                "C In palliation for pain in advanced malignancy, a potential lethal dose of analgesia is appropriate.",
+                "D Confidentiality is absolute.",
+                "E All research activity must be externally validated."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "The surgeon is not obliged to provide or continue life-sustaining treatment in the following cases: If doing so is futile; death is imminent and irreversible; or there is permanent brain damage. A decision to withhold treatment should be taken in consultation with a senior colleague. All details of decisions and conversations should be recorded.\nThere are circumstances when palliation for disseminated and inoperable cancer is becoming increasingly difficult. The management of pain under such circumstances may require analgesia in doses that may cause respiratory depression, thus hastening death. This is legally justifiable on the premise of ‘double effect' – pain relief and death might follow.\nA surgeon must not discuss a patient's clinical condition with anyone else without the patient's explicit consent; to do so would incur the wrath of the General Medical Council. Nevertheless, this is not absolute. Surgeons may communicate with other members of the multidisciplinary team should this information help in the patient's management. When patients consent to a treatment plan, they have given implied consent. Confidentiality cannot be strictly adhered to if doing so poses a serious threat to the health and safety of others or if there is a court order, or in an attempt to prevent serious crime or protect individuals who may be at risk.\nWhile it is accepted that the boundaries of surgical endeavour must be extended by research, certain protocols must be mandatory before undertaking research. These should include external regulation, approval of research ethics committees, full- informed patient consent and evidence that any known risk to patients is far outweighed by the potential benefits."
+        }
+    ]
+}

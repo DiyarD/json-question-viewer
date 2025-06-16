@@ -1,0 +1,136 @@
+{
+    "chapter_name": "Transplantation",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?",
+            "options": [
+                "A An allograft occurs between individuals of the same species.",
+                "B A xenograft is defined as a graft performed between humans of different sex.",
+                "C Renal transplantation is usually defined as an orthotopic graft.",
+                "D An alloantibody is formed in a recipient in response to transplantation of an organ.",
+                "E A heterotopic graft is placed in its normal anatomical location."
+            ],
+            "answer": [
+                "A",
+                "D"
+            ],
+            "explanation": "An allograft refers to organ transplantation between members of the same species, resulting in the formation of alloantibodies in the recipient as part of the strong immune response the allograft can induce.\nXenotransplantation (xenograft) occurs between members of different species. An orthotopic graft is placed in its usual anatomical location, as is generally the case with liver transplantation. A heterotopic graft is placed in a non-anatomical position, such as occurs with renal transplantation where the renal vessels are anastomosed to the iliac vessels."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. The following statements are true except:",
+            "options": [
+                "A In ABO blood grouping, a group A donor can donate to group A or AB recipients.",
+                "B Rhesus antigen compatibility is crucial to successful graft outcomes.",
+                "C HLA antigens are highly polymorphic and are the most common cause of rejection.",
+                "D HLA antigens activate T cells, which play a central role in graft rejection.",
+                "E CD4 and CD8 T cells are the main effector cells."
+            ],
+            "answer": "B",
+            "explanation": "Rhesus antigen compatibility is of little concern in organ transplantation, as rhesus factor is present on the surface of red blood cells rather than viscera.\nABO blood grouping is crucial for any allograft, and a mismatch will result in an immediate robust rejection response. Group A can donate to Group A or AB, Group B can donate to Group B or AB, Group AB only to AB and Group O can donate to any group. HLA antigens serve to aid recognition of foreign pathogens by T lymphocytes, are highly polymorphic and are the main target in allograft rejection. CD4 T cells drive many of the effector mechanisms in graft rejection, after activation by HLA antigens. CD8 T cells can lead to targeted cell death by releasing substances such as perforin and granzyme, which promote cell lysis."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. Which of the following statements are false?",
+            "options": [
+                "A Hyperacute rejection is powerful, immediate allograft rejection following transplantation.",
+                "B Acute rejection is defined as graft rejection occurring within the first month.",
+                "C Chronic rejection is the least common form of rejection.",
+                "D Acute rejection invariably leads to loss of the graft.",
+                "E Chronic rejection is readily reversible with appropriate treatment."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Acute rejection can generally occur up to 6 months following transplantation, but can occur later. Acute rejection is predominantly due to HLA mismatch and subsequent T-cell mediated graft injury. A mononuclear cell infiltrate is evident, including T cells, B cells, NK cells and activated macrophages. An acute rejection episode can generally be reversed by additional immunosuppression. Chronic rejection is a major cause of allograft loss, generally occurring after 6 months. Some of the main risk factors for chronic rejection include previous acute rejection, poor HLA matching and long cold ischemia time. Histological changes of chronic rejection are characterised by ischaemia and fibrosis.\nHyperacute rejection is generally due to ABO mismatch or presence of preformed anti-HLA antibodies. The graft can rapidly develop thrombotic occlusions, with haemorrhage of the graft vasculature within minutes to hours following perfusion."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. The following statements are true except:",
+            "options": [
+                "A Corticosteroids have broad-spectrum anti-inflammatory properties.",
+                "B Calcineurin inhibitors block transcription of the Il-2 gene.",
+                "C Azathioprine prevents proliferation of neutrophils.",
+                "D Mycophenolic acid preparations prevent proliferation of lymphocytes.",
+                "E mTOR inhibitors block signal transduction from the IL-2."
+            ],
+            "answer": "C",
+            "explanation": "Azathioprines (and mycophenolates) are termed antiproliferative agents and act against lymphocytes. Neutrophils are terminally differentiated cells and not capable of proliferation.\nCorticosteroids have wide-ranging effects, including the inhibition of proinflammatory cytokines and chemokines. They can be used for management of episodes of acute rejection as well as for induction and maintenance of immunosuppression. The calcineurin inhibitors ciclosporin and tacrolimus form the cornerstone of most immunosuppression protocols in organ transplantation. Both of these drugs block the activity of calcineurin within the T cell by binding to cyclophilin (cyclosporine) or FK-binding protein (tacrolimus). Calcineurin is involved with transcription of IL-2, which is the main T-cell growth factor."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "5. Which of the following statements are false?",
+            "options": [
+                "A Immunosupressive agents can aid wound healing and reduce risk of wound infection.",
+                "B mTOR inhibitors are a major cause of avascular necrosis.",
+                "C Nephrotoxicity can occur with tacrolimus.",
+                "D Corticosteroids can cause gingival hyperplasia.",
+                "E Cyclosporin typically results in a Cushingoid appearance."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "Inflammation is a central part of wound healing, in terms of tissue repair and minimising risk of infection. Immunosuppression impairs the inflammatory response and can lead to impaired wound healing and increased risk of infection. mTOR (mammalian target of rapamycin) inhibitors block IL-2 receptor signal transduction, which is a major T-cell growth factor. Side effects of mTOR inhibitors can include thrombocytopenia, dyslipidaemia and impaired wound healing. Corticosteroids are a well-recognised cause of avascular necrosis. Ciclosporin can lead to hirsuitism and gingival hyperplasia, while corticosteroids can lead to a Cushingoid appearance.\nTacrolimus use risks hypertension, diabetes, neurotoxicity and nephrotoxicity among others. Gingival hyperplasia (increase in gum size) can be caused by a number of immunosuppressants, typically corticosteroids, mycophenolic acid derivatives and ciclosporin."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "6. Which of the following statements are true?",
+            "options": [
+                "A Living donation provides the majority of liver grafts for transplantation.",
+                "B Deceased donors are by definition non-heart-beating donors.",
+                "C An adult liver can be split to provide a liver graft for two recipients.",
+                "D Warm ischaemia leads to more organ damage than cold ischaemia.",
+                "E Age of donor is the most important factor in predicting graft outcome."
+            ],
+            "answer": [
+                "C",
+                "D"
+            ],
+            "explanation": "A donated liver can be split to potentially provide a liver graft for both an adult (right lobe) and child (left lateral segment). Minimising ischaemic time is crucial for successful graft outcome. Warm ischaemia is the most damaging period, which is more of an issue with circulatory death donors given the practicalities of rapid cooling in this group.\nThe majority of liver grafts are performed from deceased donors, however, increasingly living donor liver transplantation is performed. Deceased donors can either be brainstem-dead heart-beating donors (DBD) or donation-after-circulatory death (DCD) donors. While age of the donor is important, underlying quality of the organ is one of the most important determinants of outcome."
+        },
+        {
+            "id": 7,
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Acute rejection",
+                    "2 Arterial stenosis",
+                    "3 Haemorrhage",
+                    "4 Malignancy",
+                    "5 Venous thrombosis",
+                    "6 Viral infection"
+                ],
+                "choices": [
+                    "A A 59-year-old woman presents with a 2-day history of intermittent fever, cough and lethargy. 6 weeks previously she had undergone renal transplantation. On examination she has is pyrexial and tachycardic with evidence of consolidation at the right lung base. The surgical wound is well healed and there is not tenderness at the site.",
+                    "B A 67-year-old man presents with a 2-week history of firm swellings in both groins, which have gradually increased in size. He complains of general fatigue but is otherwise well. The patient had undergone kidney pancreas transplantation 2 years previously and had required an aggressive immunosuppressive regimen over the first 18 months post-transplant. Examination confirms firm, rubbery swellings in both groins.",
+                    "C A 70-year-old man is found by his general practitioner to have persistent high blood pressure, which has proved refractory to antihypertensive therapy. He had undergone renal transplantation 3 years previously. Postoperatively he has progressed very well, and immunosuppressive regimen has been stable for a number of years.",
+                    "D A 58-year-old woman develops pain and swelling at the site of renal transplantation 2 days postoperatively. She otherwise appears well, haemodynamically stable and apyrexial. Blood tests show that renal function has deteriorated.",
+                    "E A 52-year-old woman has undergone liver transplantation 12 hours previously. She is being monitored closely in the intensive care unit when her blood pressure abruptly falls and heart rate rises rapidly. She appears pale, and her peripheries are cool and clammy to the touch.",
+                    "F A 58-year-old woman has undergone simultaneous kidney pancreas transplantation 1 week previously and has been progressing well on the surgical ward. However blood tests show that serum creatinine has increased rapidly over the past 48 hours, with both lipase and amylase also elevated."
+                ]
+            },
+            "answer": {
+                "A": "6",
+                "B": "4",
+                "C": "2",
+                "D": "5",
+                "E": "3",
+                "F": "1"
+            },
+            "explanation": "1. F Acute rejection\nRecognising acute rejection in simultaneous kidney pancreas transplantation involved tends to rely on monitoring parameters related to renal function. Bladder-drained pancreas transplantation enables monitoring of urinary amylase levels, a fall in which could indicate impaired function and rejection. However, most centres now prefer primary enteric drainage following SKP transplantation. Serum amylase and lipase levels can give an indication of pancreatic graft inflammation, which might be caused by acute rejection (among other causes of pancreatitis postoperatively). A rise in blood glucose level is generally a late feature of rejection, indicating a high likelihood of graft loss.\nAcute rejection can occur in 10%-20% of SPK transplants, but if identified early can be reversed with steroid treatment. Rejection generally involves both organs with renal functional parameters the most sensitive indicators of impaired function and possible rejection.\n2. C Arterial stenosis\nStenosis of the renal artery is generally a late complication, which can occur many years following renal transplantation. It can be recognised by rising blood pressure and reduction in renal function. Doppler ultrasonography and magnetic resonance angiography can provide a detailed assessment of vascular flow.\nThis is a readily reversible cause of graft dysfunction, which untreated can lead to progressive impairment and eventual graft loss. The treatment of choice is percutaneous transluminal angioplasty, which can restore graft function in the majority of cases. A stent can also be placed using the endovascular approach to maintain blood pressure. Surgery might be required if angioplasty fails or is not appropriate.\n3. E Haemorrhage\nThis patient shows clear signs of circulatory collapse. Any surgical procedure carries the risk of postoperative haemorrhage. Liver transplantation involves multiple anastomoses with major vessels in patients who might have coagulation abnormalities relating to impaired hepatic function. Meticulous surgical technique is central to minimising risks of bleeding from the site of vessel anastomosis or aberrant anatomy. Maximising haemostatic function by optimising fibrinolytic function, platelet function and coagulation factors also plays an important role in the prevention of postoperative haemorrhage.\nWhile hyperacute rejection can lead to circulatory instability, and graft destruction, this is usually apparent immediately. The liver is relatively resistant to hyperacute rejection although the reason for this is not clear. Acute rejection generally occurs within the first 6 months following transplantation and would not lead to the sudden deterioration seen in this patient.\n4. B Malignancy\nThis patient presents with a clear history of lymphadenopathy in both groins. Post-transplant lymphoproliferative disorder is characterised by widespread proliferation of lymphoid cells, in particular, B lymphocytes. Presentation can vary widely, from general, nonspecific symptoms such as weight loss and malaise to lymphadenopathy. The lymphadenopathy can lead to secondary effects related to increasing size, such as abdominal pain, respiratory difficulty and even seizures. Neurological features are associated with the worst prognosis, with the condition carrying an overall mortality rate up to 50%.\nIf diagnosed early enough reduction in immunosuppression can improve the condition. However, a multimodal treatment strategy might be required, involving surgery to reduce pressure effects, and radiotherapy and antiviral therapy.\nThere is a general increased risk of malignancy following transplantation, related to the strong immunosuppression required to prevent rejection. Skin cancer is a particular concern, including squamous cell carcinoma, basal cell carcinoma and malignant melanoma. Patients must be made aware of this risk and take appropriate precautions to protect themselves from excessive sunlight.\n5. D Venous thrombosis\nThe main venous complication following renal transplantation is renal vein thrombosis. This typically presents during the first week, particularly within the first 2 days following transplantation with pain and swelling at the graft site. Surgical exploration is indicated, although renal vein thrombosis usually leads to loss of the graft. Heparinisation and thrombectomy might be successful in selected cases.\nThe aetiology of venous thrombosis might relate to poor surgical technique, compression of the renal vein, coagulopathy, or hypovolaemia. This necessitates a multifactorial approach to minimise this complication.\n6. A Viral infection\nFollowing transplantation there is a risk of viral infection, which most frequently occurs within the first 6 months. Cytomegalovirus is the most common viral infection and can arise due to reactivation of latent infection or be transmitted via the organ of a CMV-positive donor. CMV is related to the herpes virus family and affects approximately 50% of all donors from the United Kingdom. The infection generally only becomes an issue when the immune system is compromised, such as with immunosuppressive therapies following transplantation. Matching negative donors and recipients is impractical, so routine prophylaxis involves the use of nucleoside analogues that inhibit DNA synthesis.\nWithout prophylaxis, patients most commonly present between 4 and 8 weeks with fever, fatigue and leukopenia. Organs affected can be variable, with consequences including pneumonia, hepatitis, retinitis or colitis."
+        }
+    ]
+}

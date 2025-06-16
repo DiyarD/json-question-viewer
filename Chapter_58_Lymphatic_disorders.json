@@ -1,0 +1,137 @@
+{
+    "chapter_name": "Lymphatic disorders",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?",
+            "options": [
+                "A Lymphatic trunks are lined by endothelial cells.",
+                "B Lymph from the lower limbs and abdomen drain through the cisterna chyli into the thoracic duct.",
+                "C The lymphatic system comprises of lymphatic channels, lymphoid organs and circulating elements.",
+                "D. The major part of lymph flow is from superficial to deep.",
+                "E Pressures of up to 30 to 50 mmHg have been recorded in normal lymph trunks."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "The lymphatic system consists of the lymphatic channels, the lymphoid organs which comprise the lymph nodes, spleen, Peyer's patches, thymus, and tonsils and circulating cells (lymphocytes and mononuclear immune cells). The mechanism of lymph transport is governed by Starling's forces. The distribution of fluid and protein between the vascular system and the interstitial fluid depends on the hydrostatic pressure and oncotic pressure (Starling's forces) (see Figures 56.1a and b). In normal lymph trunks pressures of up to 30 to 50 mmHg have been recorded. About 90% of lymph is transported against venous flow from the deep to the superficial in epifascial lymph trunks."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "2. Which of the following statements is not true?",
+            "options": [
+                "A The commonest organisms causing acute lymphangitis are Pseudomonas and Bacteroides.",
+                "B Erythematous streak is a typical early sign.",
+                "C It might result in septicaemia.",
+                "D It might go on to produce lymphoedema.",
+                "E Underlying systemic disease may be a cause."
+            ],
+            "answer": "A",
+            "explanation": "Streptococcus pyogenes and Staphylococcus aureus are the most common organisms that cause acute lymphangitis. A typical early sign is a red streak along the line of the lymphatic channel. This might extend along the limb up to the regional lymph nodes, which might show tender lymphadenopathy with a swollen limb. If the condition is not promptly treated it might progress on to bacteraemia and septicaemia.\nIn the long term, because of damage to the lymphatic channels, lymphoedema might result. Those with lymphoedema are prone to recurrent acute inflammatory episodes. The condition should be promptly treated with intravenous antibiotics and the part (usually a limb) rested and elevated. If the patient does not improve within 48 hours in spite of prompt and appropriate antibiotics, an underlying abscess should be suspected. Otherwise, it might be denote an undiagnosed malignancy or immunodeficiency."
+        },
+        {
+            "id": "3",
+            "question_type": "msq",
+            "question": "3. Which of the following statements are true?",
+            "options": [
+                "A Lymphoedema can be primary or secondary.",
+                "B Lymphoedema typically involves the foot.",
+                "C Malignancy can develop in long-standing lymphoedema.",
+                "D Primary lymphoedema is from an inherited abnormality.",
+                "E Lymphoedema developing late in life (after 50 years) usually is from an underlying malignancy."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Lymphoedema can be broadly classified as primary where a cause cannot be found or secondary where there is an underlying cause. Primary lymphoedema is from an inherited abnormality of the lymphatic system referred to as ‘congenital lymphatic dysplasia'. These may be familial (hereditary), such as Milroy's disease, or part of an inherited syndrome. The following types are described: lymphoedema congenita where the onset is within 2 years of birth and more common in males and usually bilateral; lymphoedema praecox where the onset can be anytime up to 35 years and is more common in females and more often unilateral; lymphoedema tarda develops after 35 years and is associated with obesity. In general, characteristically lymphoedema affects the foot and extends proximally usually stopping at the knee.\nWhen the condition has been going on for 20 years or more, lymphangiosarcoma can develop. Ulceration, nonhealing bruises and raised satellite lesions should arouse the suspicion of malignant transformation. The condition is also known to occur in oedema following mastectomy when it is called Stewart-Weber syndrome. Biopsy confirms the diagnosis and amputation is the only treatment.\nWhen the condition develops in any patient over the age of 50 years, an underlying pelvic malignancy should be suspected and appropriately investigated. Carcinoma of the urinary bladder, uterus, or rectum causing obstruction to the lymphatics causes lymphoedema, which typically starts proximally."
+        },
+        {
+            "id": "4",
+            "question_type": "msq",
+            "question": "4. The following statements are true except:",
+            "options": [
+                "A The causes can be traumatic, infective, neoplastic and inflammatory.",
+                "B The most common cause worldwide is filariasis.",
+                "C Lymphoedema can co-exist with chronic venous insufficiency.",
+                "D Lymphangiography as an investigation should be performed in all patients.",
+                "E Limb volume measurement is very helpful in the diagnosis."
+            ],
+            "answer": [
+                "D",
+                "E"
+            ],
+            "explanation": "Although regarded as 'gold standard' to show structural abnormalities, lymphangiography has become obsolete. As a procedure it can be technically difficult, unpleasant for the patient and cause injury to the lymphatics. Limb volume measurement is not helpful in the diagnosis. It is a useful tool, not often used, to find out the severity of the disease, guide management and assess response to treatment.\nCauses of secondary lymphoedema are best classified as the following: traumatic as following radiotherapy or lymph node dissection; infective as in filariasis; neoplastic as in infiltrative pelvic malignancy; and inflammatory as in rheumatoid arthritis and sarcoidosis.\nWorldwide, the most common cause is filariasis due to infection from the parasite Wuchereria bancrofti. It is particularly prevalent in Africa, India and South America.\nLymphoedema and chronic venous insufficiency often co-exist in the same patient, as both conditions are common. Superficial venous thrombophlebitis and DVT can both lead to lymphatic obstruction and secondary lymphoedema. Duplex ultrasound scan will help confirm venous disease. If there is superficial venous reflux, varicose vein surgery should not be undertaken as superficial venous reflux rarely causes limb swelling; surgery on the veins would make the patient worse."
+        },
+        {
+            "id": "5",
+            "question_type": "msq",
+            "question": "5. Which of the following statements are true?",
+            "options": [
+                "A All patients must be thoroughly investigated by imaging techniques available.",
+                "B Management aims to relieve pain, reduce swelling and prevent complications.",
+                "C Amoxycillin is the treatment of choice in acute inflammatory episode.",
+                "D Reduction of swelling is achieved by decongestive lymphoedema therapy (DLT).",
+                "E Surgery is indicated in a small minority of patients."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The three principles of management are relief of pain, reduction of swelling and prevention of complications, particularly relating to skin. The overall management has to be a multidisciplinary approach. If a cause is obvious, such as post-mastectomy lymphoedema, that needs to be addressed. Opioid or non-opioid analgesics, steroids, tricyclic antidepressants, nerve blocks and physiotherapy should all be considered. In the prevention of complications, skin care is of the utmost importance. Acute inflammatory episodes are due to infection from group A β-haemolytic streptococci or staphylococci, for which amoxycillin is the treatment of choice.\nThere are several approaches for reduction of swelling. The term used for this is decongestive lymphoedema therapy (DLT). Under the umbrella of DLT is manual lymphatic drainage (MLD) and multi-layer lymphoedema bandaging (MLLB). This is administered in the following two phases: the first phase is a therapist-led short intensive period followed by the second phase of maintenance self-care regimen professionally supervised at regular intervals. The details of these regimes are beyond the scope of this book. Surgery is indicated in a very small minority.\nInvestigations, such as any imaging, are hardly necessary unless secondary lymphoedema from a malignancy is strongly suspected. In the vast majority, it is possible to diagnose and manage lymphoedema in a holistic manner by good history and examination. Routine blood tests are all that is necessary."
+        },
+        {
+            "id": "6",
+            "question_type": "msq",
+            "question": "6. Which of the following statements are not true?",
+            "options": [
+                "A Vigorous anaerobic and isometric exercises have a beneficial effect.",
+                "B Diuretics have a beneficial effect in pure lymphoedema.",
+                "C Liposuction has some benefit in lymphoedema with non-pitting oedema.",
+                "D Limb reduction procedures are indicated when the condition interferes with mobility and livelihood.",
+                "E Lymphatic bypass procedures are disappointing."
+            ],
+            "answer": [
+                "A",
+                "B"
+            ],
+            "explanation": "Vigorous anaerobic and isometric exercises will tend to exacerbate lymphoedema. Patients should be advised to avoid prolonged static activities. Slow rhythmic isotonic movements as in swimming will increase venous and lymphatic return and are beneficial. Diuretics are of no value in pure lymphoedema. They will be harmful because of electrolyte disturbances.\nSurgery is of the following three types: liposuction, reduction procedures and bypass procedures. Liposuction, used in chronic lymphoedema, is reserved for patients with non-pitting oedema. Following a procedure, the success can be maintained by using compression hosiery for at least 1 year. There are several limb-reduction procedures, a sure indication of the unsatisfactory outcome of this group of procedures, which are indicated when the condition is interfering with mobility and livelihood. Cosmesis is not an indication, as all the procedures leave the patient with severe scarring. Bypass procedures, such as lyphaticovenular anastomosis by supermicrosurgical techniques, have disappointing results. The results are better when carried out in the upper limb for the complication of axillary clearance or radiotherapy."
+        },
+        {
+            "id": "7",
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:\n\nDiagnoses\n1 Acute lymphangitis\n2 Filariasis\n3 Primary lymphoedema\n4 Secondary lymphoedema\n\nClinical scenarios\nA A 58-year-old man complains of swelling of his right lower limb of 2 months duration. The swelling started in the region of his groin and spread distally. The limb feels very heavy and uncomfortable. On systemic questioning, he admits to having passed painless blood clots in his urine during this period.\nB A 48-year-old man complains of swelling of his entire lower limb for many years during which time he worked as a farmer in the African continent. He has presented because he developed pain, redness and some discharge from the skin of the affected swollen leg.\nC A 27-year-old woman presented with pain, swelling and redness in her right upper limb after working in her garden. She thinks she might have sustained an injury that she did not notice. On examination she has pyrexia, with a swollen right forearm and arm with red streaks up to her axilla where a tender lump can be felt.\nD A 30-year-old woman complains of swelling of her right leg for many years ever since her puberty. Recently, she has noticed some swelling in the other leg too. The limb feels heavy and uncomfortable, and she wishes to have some relief of her symptoms. Her 33-year-old sister also has a similar problem but not as bad.",
+            "options": {
+                "items": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "choices": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ]
+            },
+            "answer": {
+                "A": "4",
+                "B": "2",
+                "C": "1",
+                "D": "3"
+            },
+            "explanation": "1. C Acute lymphangitis\nThis young woman has acute lymphangitis from trauma sustained while gardening. It has spread to the axillary lymph nodes causing lymphadenitis. This must to be managed promptly to prevent the condition from progressing to bacteraemia or septicaemia. The patient should be given analgesia and blood sent for culture and full blood count, which will show polymorphonuclear leucocytosis. Blood cultures are often negative because the signs are the result of the release of toxins into the circulation that stimulate a cytokine-mediated systemic inflammatory response. The most likely organisms are Staphylococcus aureus, β-haemolytic streptococci, or clostridia.\nShe should be started on the ‘best guess' antibiotics intravenously. Benzylpenicillin and flucloxacillin should be the drugs of choice. The arm should be elevated to reduce swelling and rested to reduce lymph drainage. If the patient does not improve within 48 hours, the antibiotic regime should be reconsidered.\n\n2. B Filariasis\nThis patient has filariasis (see Chapter 6), the most common cause worldwide of lymphoedema. It is caused by the parasite Wucheria bancrofti, which is carried by the mosquito. Immature parasites (microfilariae) are inoculated by the mosquito. Having entered the bloodstream, the parasite travels along the lymphatics to reside in the lymph nodes. Here, due to direct damage and immune response from the host, fibrosis and obstruction to the lymphatic system causes the clinical presentation. Adult parasites lodge in the proximal lymphatics resulting in massive oedema in the long term, the clinical picture being termed elephantiasis (Figure 58.1).\nAs with all parasitic infestations, eosinophilia is present. Treatment is with diethylcarbamazine, which will kill the parasites but not reverse the pathological changes. These patients are prone to recurrent attacks of infection (as in this patient), which need to be promptly treated.\n\n3. D Primary lymphoedema\nThis patient has primary lymphoedema, the cause of which is an inherited abnormality of the lymphatic system referred to as ‘congenital lymphatic dysplasia'. The history is suggestive of Milroy's disease. The condition is estimated to occur in 1 in 6000 births and is inherited in an autosomal dominant manner. The disease causes brawny lymphoedema of both legs, which develops from birth or childhood. Lymphangiography shows aplasia or hypoplasia.\nDepending upon the age of onset, the following three types are recognised: lymphoedema congenita (onset at or within 2 years of birth) commoner in males and usually bilateral; lymphoedema praecox (onset from 2 to 35 years) more common in women and usually unilateral; and lymphoedema tarda (onset after 35 years) often associated with obesity.\nThis patient requires detailed history and examination. After full discussion in a multidisciplinary team meeting, the indication for a lymphangiogram is discussed. The patient is appraised of the entire gamut of choices of treatment and managed appropriately after full-informed consent.\n\n4. A Secondary lymphoedema\nAny patient who presents with lymphoedema after the age of 50 (as this patient) has secondary lymphoedema. This should arouse the strong suspicion of a pelvic malignancy blocking off the lymphatics. Typically in these patients, the swelling starts proximally in the thigh and spreads distally. With a history of haematuria, this patient has a urinary bladder cancer. He should be referred urgently to the urologist. An urgent cystoscopy and examination under anaesthesia, biopsy and CT scan for staging is carried out, followed by discussion in a multidisciplinary team meeting. The presentation indicates advanced disease, which is appropriately treated according to the staging."
+        }
+    ]
+}

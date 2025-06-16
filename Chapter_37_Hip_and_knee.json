@@ -1,0 +1,180 @@
+{
+    "chapter_name": "37 Hip and knee",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "1. Regarding the anatomy of the hip joint, which of the following statements are false?",
+            "options": [
+                "A The hip joint is a ball-and-socket joint.",
+                "B The static stabilisers of the hip include the capsule.",
+                "C The dynamic stabilisers are short external rotators, iliopsoas and hip abductors.",
+                "D The primary blood supply to the femoral head is the lateral circumflex femoral artery.",
+                "E The labrum contributes to joint stability."
+            ],
+            "answer": "D",
+            "explanation": "The blood supply to the femoral head is from the retinacular branches of the medial circumflex femoral artery, with minimal contribution from the ligamentum teres. This is an important point when considering femoral neck fracture, as these arteries are intimately related to the periosteum within the joint capsule and so are disrupted in an intra-capsular fracture. Proximal femoral fractures are often classified according to disruption of the capsular blood supply to the femoral head:\n• Intracapsular or sub-capital\n• Extracapsular: Intertrochanteric or sub-trochanteric\nThe anatomical shape of the hip (ball-and-socket joint) means that the stabilisers are essential. These include the following:\n1. Static stabilisers\na. Ligaments: Iliofemoral, pubofemoral, ischiofemoral\nb. Joint capsule\nc. Acetabular labrum: Fibro-cartilaginous triangular structure that surrounds the rim of the acetabulum, except at the inferior pole (transverse ligament)\n2. Dynamic stabilisers\na. Short external rotators\nb. Iliopsoas\nc. Hip abductors"
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "2. Regarding the biomechanics of the hip joint, which of the following statements are false?",
+            "options": [
+                "A The hip joint reaction force is influenced by the body weight.",
+                "B The abductor muscles play a vital role in supporting the pelvis.",
+                "C Standing on one leg results in a joint reaction force of ~3 to 5 times body weight.",
+                "D Running and jumping results in a joint reaction force of ~8 to 10 times body weight.",
+                "E A stick in the ipsilateral hand helps to reduce the joint reaction force on the hip."
+            ],
+            "answer": "E",
+            "explanation": "The hip joint reaction force is influenced by the patient's body weight and abductor muscle force. The abductor muscles provide the lever power that supports the pelvis against the fulcrum of the cup and socket of the hip joint. Both must be present and working normally for a patient to stand on one leg easily. For the following scenarios, the approximate joint reaction forces are:\n• Lifting leg from bed = 1.5 x body weight\n• Standing on one leg = 3-5 x body weight\n• Running and jumping = 10 x body weight\nJoint reaction force is reduced with a stick in the contralateral hand, as it reduces the abductor muscle force and the body weight moment arm."
+        },
+        {
+            "id": "3",
+            "question_type": "mcq",
+            "question": "3. Regarding avascular necrosis of the hip, which of the following is not a recognised cause?",
+            "options": [
+                "A Alcohol excess",
+                "B Caisson disease",
+                "C Chronic liver disease",
+                "D Sickle cell disease",
+                "E Smoking"
+            ],
+            "answer": "E",
+            "explanation": "Avascular necrosis (AVN), or osteonecrosis, of the femoral head is caused by disruption of the vascular supply leading to bone necrosis. Subsequent femoral head collapse and osteoarthritis occur. It is more common in males between the ages of 35 and 50 years. Bilateral occurrence is seen in 50%–80% of cases. Causes include the following:\n• Primary: Idiopathic e.g. Perthes disease\n• Secondary: Trauma or infection, drugs, e.g., steroids, alcohol excess, chronic liver disease, sickle cell disease, Caisson disease (the bends), radiotherapy, chemotherapy, SLE\nSmoking is not a recognised cause. Although some are initially asymptomatic, the onset of symptoms can be quite rapid, with groin pain, reduced range of movement (in particular, internal rotation) and reduced mobility. Primary investigation is with weight-bearing AP pelvis radiographs, with the classical findings being sclerosis, sub-chondral resorption or collapse (crescent sign), leading ultimately to head flattening, collapse and OA. The Steinberg modification of the Ficat classification is used, with MRI employed for early detection. In the pre-collapse stage, measures such as bisphosphonates or core decompression +/– bone grafting may be taken. When there is evidence of collapse, proximal femoral rotational osteotomy (<50% of head) or joint replacement are indicated."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "4. Regarding osteoarthritis of the hip joint, which of the following is not a recognised finding on plan radiographs?",
+            "options": [
+                "A Joint space narrowing",
+                "B Osteophytes",
+                "C Subchondral collapse",
+                "D Subchondral cysts",
+                "E Subchondral sclerosis"
+            ],
+            "answer": "C",
+            "explanation": "Causes for osteoarthritis include the following:\n• Primary: idiopathic\n• Secondary: Background of trauma, septic arthritis, obesity, childhood hip disorders, e.g., DDH or Perthes disease or SUFE, AVN\nThere are four characteristic features of idiopathic osteoarthritis of the hip on x-ray: subchondral sclerosis and cysts, joint space narrowing and osteophyte formation (Figure 37.1). Subchondral collapse is associated with avascular necrosis. Hip osteoarthritis is seen in 10%–25% of people over 65 years of age. The most classical presentation is of groin pain with radiation down the anterior thigh to the knee and reduced mobility. As the disease progresses, the pain goes from activity related to regular rest and night pain. A globally irritable hip with reduced range of movement is found on examination, with loss of internal rotation, leg length discrepancy (distinguish fixed flexion deformity with Thomas' test) and an antalgic gait. Blood tests are commonly normal. Treatment includes lifestyle modification such as regular exercise and weight loss, analgesics, e.g., NSAIDs, walking aids and joint replacement."
+        },
+        {
+            "id": "5",
+            "question_type": "mcq",
+            "question": "5. Regarding total hip replacement, which of the following is a recognised peri-operative complication?",
+            "options": [
+                "A Compartment syndrome risk of 2%.",
+                "B Dislocation rate of 2%–5%.",
+                "C Leg length inequality of more than 10 cm.",
+                "D Mortality from any cause of 2%–5%.",
+                "E Pulmonary embolus risk of 10%."
+            ],
+            "answer": "B",
+            "explanation": "Primary total hip replacement is one of the most successful operations in orthopaedics, with a patient satisfaction rate of 90%–95%. When obtaining consent from a patient, it is routine to discuss all severe complications and any other complications with a rate of more than 1%. Potential intra-operative complications include neurovascular injury (sciatic nerve <1%, femoral artery or vein <1%), femoral fracture (<1%), or retained cement. The postoperative complications of total hip replacement are found in Table 37.1. Death is a possibility for any major surgery, but the incidence is <1%. Leg-length discrepancy does occur, but is rarely more than 2 cm, and, certainly, 10 cm would be most unlikely. Compartment syndrome is not a routinely associated complication of total hip replacement, although a possible but rare complication of any major surgery."
+        },
+        {
+            "id": "6",
+            "question_type": "mcq",
+            "question": "6. Regarding surgical approaches to the hip, a Trendelenburg gait with abductor weakness could be caused by an injury to which nerve?",
+            "options": [
+                "A Inferior gluteal nerve",
+                "B Superior gluteal nerve",
+                "C Pudendal nerve",
+                "D Sciatic nerve",
+                "E Femoral nerve"
+            ],
+            "answer": "B",
+            "explanation": "During the anterolateral approach to the hip for total hip replacement, the fibres of gluteus medius are split; with excessive splitting there may be the potential of causing damage to the superior gluteal nerve (L4-S1) that innervates gluteus medius, gluteus minimus and tensor fascia lata. Resulting loss of abductor muscle power will lead to a Trendelenburg gait. The nerve exits from the anterior sacral foramina (sacral plexus) then leaves the pelvis through the greater sciatic foramen superior to piriformis. The nerve passes ~4–5cm above the greater trochanter where it is at most risk."
+        },
+        {
+            "id": "7",
+            "question_type": "mcq",
+            "question": "7. Regarding the anatomy of the knee joint, which of the following is not a dynamic stabiliser?",
+            "options": [
+                "A Anterior cruciate ligament.",
+                "B Biceps femoris.",
+                "C Rectus femoris.",
+                "D Semitendinosus.",
+                "E Sartorius."
+            ],
+            "answer": "A",
+            "explanation": "The knee is a synovial hinge joint with two articulations between the tibia and femur, and the femur and the patella. It is inherently unstable and relies heavily on the soft tissue stabilisers. These include the following:\n1. Static stabilisers\na. Ligaments\ni. Cruciates provide AP stability (ACL, PCL)\nii. Collaterals provide valgus or varus stability (MCL, LCL)\nb. Menisci: medial and lateral\nc. Joint capsule\n2. Dynamic stabilisers (muscles that cross the joint)\na. Quadriceps (rectus femoris, vastus lateralis, vastus medialis, vastus intermedius)\nb. Hamstrings (semitendinosus, semimembranosus, biceps femoris)\nc. Sartorius"
+        },
+        {
+            "id": "8",
+            "question_type": "mcq",
+            "question": "8. Regarding arthroscopy of the knee, which of the following is not an indication for surgery?",
+            "options": [
+                "A Anterior cruciate ligament reconstruction.",
+                "B Diagnose and treat meniscal tear.",
+                "C Loose body removal.",
+                "D Repair a ruptured patella tendon.",
+                "E Washout for septic arthritis."
+            ],
+            "answer": "D",
+            "explanation": "Extra-articular problems such as a ruptured patella tendon are best treated with open repair. Knee arthroscopy is used in the diagnosis and management of cartilage defects, as well as ligamentous and meniscal injuries. It can also be used in the acute washout of a septic joint. Common indications include the following:\n• Cruciate ligament reconstruction\n• Diagnosis and repair or resection of meniscal tears\n• Loose body removal\n• Cartilage repair techniques, e.g., microfracture\n• Acute washout for septic arthritis\n• Synovectomy, e.g., for inflammatory arthropathy"
+        },
+        {
+            "id": "9",
+            "question_type": "matching",
+            "question": "For each of the following cases of avascular necrosis, select the appropriate stage of Steinberg's classification from the options listed. Each option may be used once, more than once, or not at all.",
+            "options": {
+                "items": [
+                    "A An 82-year-old woman presents with a six-month history of progressive right groin pain. She has a background of polymyalgia rheumatic and is on regular steroids. Radiographs of the pelvis reveal complete obliteration of the right hip joint space and advanced osteoarthritis of the hip.",
+                    "B A 52-year-old man with a background of alcohol excess and subsequent radiographs of the pelvis demonstrates evidence of subchondral collapse (crescent sign) of the left hip.",
+                    "C A 28-year-old woman with a background of sickle cell disease presents with intermittent pain to the left hip. Radiographs of the pelvis are unremarkable, but there is some signal change in the left femoral head on MRI.",
+                    "D A 48-year-old woman with a background of lupus presents with pain in the right hip, and subsequent radiographs of the pelvis demonstrates evidence of flattening of the right femoral head."
+                ],
+                "choices": [
+                    "1 Steinberg Stage 0",
+                    "2 Steinberg Stage 1",
+                    "3 Steinberg Stage 2",
+                    "4 Steinberg Stage 3",
+                    "5 Steinberg Stage 4",
+                    "6 Steinberg Stage 5",
+                    "7 Steinberg Stage 6"
+                ]
+            },
+            "answer": {
+                "A": "7",
+                "B": "4",
+                "C": "2",
+                "D": "5"
+            },
+            "explanation": "The Steinberg modification of the Ficat classification is used for avascular necrosis of the hip (Table 37.2).\nTable 37.2 Steinberg's classification of femoral avascular necrosis\nStage Description\n0 No diagnostic evidence on radiographs or MRI\n1 Normal radiographs, but abnormal MRI\n2 Sclerosis and cysts\n3 Subchondral collapse (crescent sign)\n4 Femoral head flattening but normal acetabulum\n5 Acetabular changes and joint space narrowing\n6 Joint space obliteration and advanced degenerative changes"
+        },
+        {
+            "id": "10",
+            "question_type": "matching",
+            "question": "For each of the following cases, select the single best management choice from the options listed. Each option may be used once, more than once, or not at all.",
+            "options": {
+                "items": [
+                    "A An adolescent with Perthes' disease has a small area of collapse in the main load-bearing area of the femoral head.",
+                    "B A 34-year-old man has isolated medial compartment osteoarthritis following a previous complex tibial plateau fracture. He has severe pain, but with a reasonable range of movement, and a varus deformity.",
+                    "C A 49-year-old woman presents with advanced radiographic osteoarthritis of the knee, isolated to the medial compartment.",
+                    "D A 78-year-old man presents with severe right groin pain, regular night and rest pain and limiting his day-to-day activities. Radiographs of the hip demonstrate moderate to severe osteoarthritis of the right hip.",
+                    "E A 67-year-old woman presents with severe left knee pain affecting her mobility and quality of life. Radiographs of the knee demonstrate tricompartmental idiopathic osteoarthritis of the knee."
+                ],
+                "choices": [
+                    "1 Arthrodesis",
+                    "2 Core decompression",
+                    "3 Conservative management",
+                    "4 Hemi-arthroplasty",
+                    "5 High tibial osteotomy",
+                    "6 Hip resurfacing",
+                    "7 Proximal femoral osteotomy",
+                    "8 Total knee replacement",
+                    "9 Total hip replacement",
+                    "10 Unicompartmental knee replacement"
+                ]
+            },
+            "answer": {
+                "A": "7",
+                "B": "5",
+                "C": "10",
+                "D": "9",
+                "E": "8"
+            },
+            "explanation": "A. 7 Proximal femoral osteotomy\nA patient with a local area of collapse from Perthes' disease needs that damaged area to be moved out of the load-bearing area and replaced with healthy cartilage. The method of doing this is a rotation osteotomy. Osteotomies around the hip aim to redistribute the forces and load-bearing areas to avoid areas of high-point loading. This can be done through a combination of proximal femur and acetabular osteotomies.\nB. 5 High tibial osteotomy\nKnee osteoarthritis is associated with varus, or less commonly valgus, deformities of the knee leading to altered load bearing and worsening disease. Osteotomies aim to realign the joint mechanics for better distribution of the load through the joint. It can do this by changing the alignment of the knee so that the bulk of the load goes through the unaffected side. The most common osteotomy around the knee is a high tibial osteotomy (open or closing wedge) for varus knee osteoarthritis. In young and active patients, a knee replacement can be avoided or delayed. If there is good range of movement, then a high tibial osteotomy will retain that range of movement while unloading the arthritic side of the joint.\nC. 10 Unicompartmental knee replacement\nIn younger patients with intact ligaments (ACL essential), arthritis limited to the medial compartment and a varus or fixed flexion deformity of less than 15 degrees should be considered for a unicompartmental knee replacement.\nD. 9 Total hip replacement\nTotal hip replacement provides patient satisfaction in 90%–95% of cases, with good longevity. A variety of bearing surfaces (metal on polyethylene, ceramic on polyethylene, ceramic on ceramic) and fixation techniques (uncemented versus cemented) exist.\nE. 8 Total knee replacement\nFor conventional tricompartmental osteoarthritis of the knee, a standard total knee replacement (TKR) is the operation of choice. The aims of TKR include pain relief, mechanical realignment, balance of the collateral ligaments and normal patella-femoral tracking. Patient satisfaction is ~85%, with good longevity."
+        }
+    ]
+}

@@ -1,0 +1,693 @@
+{
+    "chapter_name": "44 The eye and orbit",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "How do tears produced in the lacrimal gland enter the conjunctival sac?",
+            "options": [
+                "A Through the nasolacrimal duct.",
+                "B Through the lacrimal duct.",
+                "C Through the 10–15 lacrimal gland ducts.",
+                "D Through the meibomian orifices.",
+                "E Through the ducts of Moll."
+            ],
+            "answer": "C",
+            "explanation": "The lacrimal gland lies under the upper, outer orbital rim and opens into the upper conjunctival fornix through 10–15 ducts. Trauma, surgery, or inflammatory scarring in this area can result in a dry eye."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "What is a potential route of spread of infection from the eyelid skin to the intracranial cavity?",
+            "options": [
+                "A Orbital lymphatics.",
+                "B Ophthalmic veins.",
+                "C Subperiosteal potential spaces.",
+                "D Facial artery.",
+                "E Perineura of branches of the trigeminal nerve."
+            ],
+            "answer": "C",
+            "explanation": "The orbit contains branches of the ophthalmic veins, which anastomose anteriorly with the face and posteriorly with the cranial cavity. These channels can provide a route for the spread of sepsis."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "What does a meibomian cyst consist of?",
+            "options": [
+                "A A meibomian eyelash follicle infection.",
+                "B A sebaceous ('meibomian') cyst of the eyelid margin skin.",
+                "C A meibomian sweat gland inclusion cyst.",
+                "D Chronic granulomatous inflammation of a meibomian gland.",
+                "E An epidermoid cyst of embryonic meibomian structures."
+            ],
+            "answer": "D",
+            "explanation": "The meibomian glands are situated within the tarsal plates and open at the eyelid margin. Retention cysts of the meibomian glands result in the accumulation of granulomatous reaction around meibomian lipid secretions. A meibomian cyst is a chronic granulomatous inflammation of a meibomian gland."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "How are persistent meibomian cysts treated?",
+            "options": [
+                "A Incision and curettage from the conjunctival surface.",
+                "B Incision and curettage from the eyelid margin surface.",
+                "C Incision and insertion of a small pack.",
+                "D Long-term oral antibiotic therapy.",
+                "E Excision biopsy."
+            ],
+            "answer": "A",
+            "explanation": "Meibomian cysts often resolve spontaneously over a period of months. However, persistent meibomian cysts can be treated by incision and curettage from the conjunctival surface. Atypical or recurrent cysts should be biopsied."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "How should a recent-onset suspected basal cell carcinoma of the eyelid skin be treated?",
+            "options": [
+                "A Photograph and clinical follow-up.",
+                "B Liquid nitrogen cryotherapy.",
+                "C Curettage.",
+                "D Excision biopsy.",
+                "E Radiotherapy."
+            ],
+            "answer": "D",
+            "explanation": "Recent-onset basal cell carcinoma may be treated by excision biopsy, with histological confirmation that the excision has been complete. More extensive lesions might require treatment with Mohs' micrographic surgical excision."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "What is the typical cause of acute infection of the tear sac (acute dacryocystitis)?",
+            "options": [
+                "A Spread of infection from the ethmoid sinus.",
+                "B Nasolacrimal duct obstruction.",
+                "C Spread of infection from the maxillary sinus.",
+                "D Spread of infection from the nasal mucosa.",
+                "E Viral infection of the lacrimal gland."
+            ],
+            "answer": "B",
+            "explanation": "Obstruction of the nasolacrimal duct might lead to formation of a mucocele within the tear sac. If this becomes infected, acute dacryocystitis occurs. Following initial antibiotic treatment, a dacryocystorhinostomy bypass operation should be performed."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "In acute dysthyroid exophthalmos, when should urgent orbital decompression surgery be considered?",
+            "options": [
+                "A Diplopia is present.",
+                "B Raised intraocular pressure is present.",
+                "C Fat prolapse into the eyelids is present.",
+                "D Eyelid oedema is present.",
+                "E Compressive optic neuropathy is present."
+            ],
+            "answer": "E",
+            "explanation": "Orbital decompression surgery might be needed when compression of the optic nerve results in reduced vision. Systemic glucocorticoid therapy might be used to provide temporary control, pending surgery."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "How does retinoblastoma, a malignant tumour of the retina, commonly present in young children?",
+            "options": [
+                "A Reduced vision.",
+                "B Pain.",
+                "C A swollen eye.",
+                "D A white pupil reflex.",
+                "E Regional lymphadenopathy."
+            ],
+            "answer": "D",
+            "explanation": "These tumours are often calcified and frequently present with the appearance of a white pupil reflex. They might also present with a squint, and all children with a squint should have a careful fundus examination performed."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "What is the most common ocular tumour in adults?",
+            "options": [
+                "A Lung carcinoma metastases to the retina.",
+                "B Choroidal malignant melanoma.",
+                "C Choroidal sarcoma.",
+                "D Retinal glioma.",
+                "E Choroidal epithelioma."
+            ],
+            "answer": "B",
+            "explanation": "Malignant melanoma of the uvea (iris, ciliary body, choroid) is the most common tumour in adults. It most often arises in the choroid, and the prognosis is less good for choroid lesions than for the iris. Treatment by brachytherapy or proton-beam irradiation can be performed to preserve the eye, but enucleation is needed in some cases. The most common site of metastasis is the liver."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "How is herpes simplex infection of the cornea typically diagnosed?",
+            "options": [
+                "A Viral culture of cases of conjunctivitis.",
+                "B The presence of typical herpetic vesicles on the eyelid skin.",
+                "C The presence of a branching pattern of epithelial fluorescein staining.",
+                "D The presence of a herpetic vesicle of the corneal epithelium on fluorescein staining.",
+                "E The presence of an inflamed ‘phlycten' lump at the junction of the cornea and sclera."
+            ],
+            "answer": "C",
+            "explanation": "Fluorescein staining of the corneal epithelium, viewed in blue light, demonstrates any epithelial disturbance. Herpes simplex infection causes a typical branching ('dendritic') pattern of staining."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "How is a 'blow-out' fracture of the orbit typically seen on radiography?",
+            "options": [
+                "A Fracture of the ethmoid lamina papyraceum.",
+                "B Blood in the ethmoid sinus.",
+                "C Blood in the maxillary antrum.",
+                "D Air in the orbit.",
+                "E Soft-tissue prolapse in the maxillary antrum."
+            ],
+            "answer": "E",
+            "explanation": "The floor of the orbit is the weakest point when the orbital pressure is acutely elevated by blunt trauma. This results in a ‘blow-out' fracture, with downward prolapse or the inferior orbital tissue. Reduced upward eye movement results."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "What does the finding of hyphaema following blunt trauma indicate?",
+            "options": [
+                "A That the anterior chamber should be washed out promptly to prevent corneal staining.",
+                "B That thrombolytic treatment should be given immediately to prevent the development of glaucoma.",
+                "C That strict bedrest, with bandaging of the affected eye, should be instituted immediately to prevent secondary haemorrhage.",
+                "D That associated intracranial haemorrhage is likely and that a cranial CT scan should be ordered immediately.",
+                "E That the eye should be carefully examined for associated injuries, especially of the retina."
+            ],
+            "answer": "E",
+            "explanation": "Hyphaema refers to blood in the anterior chamber following blunt trauma. Hyphaema can be followed by secondary haemorrhage, with related raised intraocular pressure. However, associated injuries to other structures of the eye, especially the retina, may be present."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "A front-seat passenger in a road-traffic accident presents with facial lacerations and an irregular pupil in one eye. What is the most likely cause of the irregular pupil?",
+            "options": [
+                "A A perforating injury of the globe, with some iris prolapse.",
+                "B Blunt trauma to the pupil sphincter.",
+                "C A partial third cranial nerve injury.",
+                "D Traumatic Horner's syndrome.",
+                "E Distortion of the anterior lens capsule due to traumatic cataract development."
+            ],
+            "answer": "A",
+            "explanation": "Perforating eye injuries are less common when seat belts are worn. Perforating injuries of the cornea and adjacent sclera result in areas of iris prolapse. The pupil becomes distorted, due to displacement of the iris. The eye should not be examined extensively, but should be protected with a shield, pending examination under anaesthetic and primary surgical repair."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "When an intraocular foreign body due to a hammer-and-chisel injury is suspected, which of the following imaging techniques should not be ordered?",
+            "options": [
+                "A Plain radiograph of the eye and orbit.",
+                "B Ultrasound examination of the eye.",
+                "C Magnetic resonance imaging (MRI) scan of the eye and orbit.",
+                "D Computed tomography (CT) scan of the eye and orbit.",
+                "E Optical tomography of the eye."
+            ],
+            "answer": "C",
+            "explanation": "Intraocular foreign bodies are often composed of ferrous metal in this situation. A magnetic field will result in movement of the foreign body within the eye, with resulting iatrogenic trauma."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "Which of the following are most likely to cause severe tissue burns with ischaemic necrosis?",
+            "options": [
+                "A Acid chemicals.",
+                "B Alkaline chemicals.",
+                "C Ultraviolet radiation.",
+                "D Thermal energy.",
+                "E Ionising radiation."
+            ],
+            "answer": "B",
+            "explanation": "Alkaline chemicals penetrate tissues quickly and can cause extensive ischaemia and necrosis. Immediate irrigation is required and should be continued until a neutral pH is obtained."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "Which of the following topical treatments are contraindicated for herpes simplex corneal infection?",
+            "options": [
+                "A Aciclovir ointment.",
+                "B Atropine eye drops.",
+                "C Steroid eye drops.",
+                "D Chloramphenicol eye drops.",
+                "E Nonsteroidal anti-inflammatory eye drops."
+            ],
+            "answer": "C",
+            "explanation": "Herpes simplex corneal infections show a characteristic branching ('dendritic') pattern when stained with fluorescein dye. They should be treated with topical antiviral preparations such as aciclovir ointment. Steroid eye drops cause marked worsening of the infection, which might result in severe corneal scarring."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "Which of the following may cause a painful red eye accompanied by vomiting?",
+            "options": [
+                "A Conjunctivitis.",
+                "B Iritis.",
+                "C Acute glaucoma.",
+                "D Episcleritis.",
+                "E Keratitis."
+            ],
+            "answer": "C",
+            "explanation": "Acute elevation of intraocular pressure results in an oedematous cornea and hard eye on palpation. The severe, visceral pain that accompanies acute glaucoma may cause vomiting, and the condition might be mistaken for an acute abdominal diagnosis."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "Which of the following suspected diagnoses requires immediate measurement of erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) level?",
+            "options": [
+                "A Retinal detachment.",
+                "B Central retinal vein occlusion.",
+                "C Posterior vitreous detachment.",
+                "D Cranial arteritis.",
+                "E Macular degeneration."
+            ],
+            "answer": "D",
+            "explanation": "The ESR and CRP are often very elevated in cranial arteritis. Prompt diagnosis, leading to prompt therapy with glucocorticoids, can prevent blindness due to bilateral arteritic anterior ischaemic optic neuropathy."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "What does LASIK refer to?",
+            "options": [
+                "A Laser in situ keratomileusis.",
+                "B Laser-assisted interstitial keratectomy.",
+                "C Long-acting stromal inhibition keratotomy.",
+                "D Laser epithelial keratomileusis.",
+                "E Lateral segment interstitial keratotomy."
+            ],
+            "answer": "A",
+            "explanation": "A superficial corneal flap is cut, and a layer of corneal stroma is ablated with an eximer laser. The flap is then repositioned."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "Following cataract surgery, how might thickened posterior lens capsule tissue be cut?",
+            "options": [
+                "A Ruby laser capsulotomy.",
+                "B Photodisruptive YAG (yttrium aluminium garnet) laser capsulotomy.",
+                "C Photoablative argon laser capsulotomy.",
+                "D Photodisruptive eximer laser capsulotomy.",
+                "E Diode laser capsulotomy."
+            ],
+            "answer": "B",
+            "explanation": "Short pulses of YAG laser energy produce photodisruption, with no thermal effect. Tissue such as the posterior lens capsule, iris and vitreous bands might be divided."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "What is removed in the operation of eyeball evisceration?",
+            "options": [
+                "A The intact eyeball, along with short portions of the extraocular muscles.",
+                "B The complete contents of the orbit, within the orbital periosteum.",
+                "C The vitreous body of the eye.",
+                "D The crystalline lens and the vitreous body of the eye.",
+                "E The cornea and contents of the eye within the sclera."
+            ],
+            "answer": "B",
+            "explanation": "Evisceration refers to removal of all tissue within the sclera. The cornea is excised, and all intraocular tissue is removed with a curette. All fragments of the uveal tract (iris, ciliary body and choroid) are removed."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "What is used in incision and curettage of a meibomian cyst?",
+            "options": [
+                "A A skin incision tangential to the lid margin.",
+                "B A skin incision radial to the lid margin.",
+                "C A tarsal conjunctiva incision tangential to the lid margin.",
+                "D A tarsal conjunctiva incision radial to the lid margin.",
+                "E An eyelid crease skin incision."
+            ],
+            "answer": "D",
+            "explanation": "The incision is made on the inner surface of the eyelid to avoid a visible scar. The incision is radial to the lid margin, in line with the affected meibomian gland, to avoid cicatricial shortening of the tarsal plate."
+        },
+        {
+            "id": 23,
+            "question_type": "emq",
+            "question": "An 83-year-old woman presents with sudden loss of vision on the right eye, and gives a 3-week history of scalp tenderness. On ophthalmoscopy the right optic disc is pale and oedematous. You suspect cranial arteritis. What initial investigation(s) would you arrange?",
+            "options": [
+                "A Arrange plain skull x-rays.",
+                "B Measure blood pressure, random blood glucose and full blood count.",
+                "C No investigations. Contact the duty ophthalmologist.",
+                "D Arrange urgent CT scan of the orbits.",
+                "E Send blood for ESR and CRP.",
+                "F Arrange urgent abdominal ultrasound.",
+                "G Send blood for connective tissue diseases screen.",
+                "H Discuss urgent MR angiogram with the duty neuroradiologist.",
+                "I Request urgent measurement of ophthalmic artery perfusion using Doppler ultrasound.",
+                "J Measure blood pressure, random blood glucose and request carotid duplex ultrasound."
+            ],
+            "answer": "E",
+            "explanation": "A high index of suspicion should be maintained for cranial arteritis. The ESR and CRP are usually elevated. Prompt treatment with glucocorticoids might prevent bilateral blindness."
+        },
+        {
+            "id": 24,
+            "question_type": "emq",
+            "question": "A 63-year-old male presents with an acute-onset, complete right third cranial nerve palsy and headache. You are concerned about a possible intracranial aneurysm. What initial investigation(s) would you arrange?",
+            "options": [
+                "A Arrange plain skull x-rays.",
+                "B Measure blood pressure, random blood glucose and full blood count.",
+                "C No investigations. Contact the duty ophthalmologist.",
+                "D Arrange urgent CT scan of the orbits.",
+                "E Send blood for ESR and CRP.",
+                "F Arrange urgent abdominal ultrasound.",
+                "G Send blood for connective tissue diseases screen.",
+                "H Discuss urgent MR angiogram with the duty neuroradiologist.",
+                "I Request urgent measurement of ophthalmic artery perfusion using Doppler ultrasound.",
+                "J Measure blood pressure, random blood glucose and request carotid duplex ultrasound."
+            ],
+            "answer": "H",
+            "explanation": "The combination of acute third cranial nerve palsy and pain is suggestive of an intracranial aneurysm. Prompt treatment might prevent catastrophic subarachnoid haemorrhage."
+        },
+        {
+            "id": 25,
+            "question_type": "emq",
+            "question": "A 67-year-old female presents with a painful left eye and vomiting. The symptoms have been present for 18 hours. The eye is red, the cornea is hazy, the pupil is large and does not react and the eye feels hard to palpation. What initial investigation(s) would you arrange?",
+            "options": [
+                "A Arrange plain skull x-rays.",
+                "B Measure blood pressure, random blood glucose and full blood count.",
+                "C No investigations. Contact the duty ophthalmologist.",
+                "D Arrange urgent CT scan of the orbits.",
+                "E Send blood for ESR and CRP.",
+                "F Arrange urgent abdominal ultrasound.",
+                "G Send blood for connective tissue diseases screen.",
+                "H Discuss urgent MR angiogram with the duty neuroradiologist.",
+                "I Request urgent measurement of ophthalmic artery perfusion using Doppler ultrasound.",
+                "J Measure blood pressure, random blood glucose and request carotid duplex ultrasound."
+            ],
+            "answer": "C",
+            "explanation": "Acute angle closure glaucoma causes severe pain, which may result in vomiting and be mistaken for an acute abdominal pathology."
+        },
+        {
+            "id": 26,
+            "question_type": "emq",
+            "question": "A 70-year-old female presents with acute loss of vision in the right eye. On ophthalmoscopy there are numerous retinal haemorrhages in the eye, and a central retinal vein occlusion is suspected. What initial investigation(s) would you arrange?",
+            "options": [
+                "A Arrange plain skull x-rays.",
+                "B Measure blood pressure, random blood glucose and full blood count.",
+                "C No investigations. Contact the duty ophthalmologist.",
+                "D Arrange urgent CT scan of the orbits.",
+                "E Send blood for ESR and CRP.",
+                "F Arrange urgent abdominal ultrasound.",
+                "G Send blood for connective tissue diseases screen.",
+                "H Discuss urgent MR angiogram with the duty neuroradiologist.",
+                "I Request urgent measurement of ophthalmic artery perfusion using Doppler ultrasound.",
+                "J Measure blood pressure, random blood glucose and request carotid duplex ultrasound."
+            ],
+            "answer": "B",
+            "explanation": "Underlying causes for central retinal vein occlusions include hypertension, diabetes and hyperviscosity syndromes (and glaucoma). These should be treated, if detected, and the patient should be referred for a ‘soon' ophthalmology outpatient appointment."
+        },
+        {
+            "id": 27,
+            "question_type": "emq",
+            "question": "A 70-year-old male presents with acute loss of vision in the left eye. On ophthalmoscopy the retina is pale, with a cherry red spot at the fovea. You suspect a central retinal artery occlusion. What initial investigation(s) would you arrange?",
+            "options": [
+                "A Arrange plain skull x-rays.",
+                "B Measure blood pressure, random blood glucose and full blood count.",
+                "C No investigations. Contact the duty ophthalmologist.",
+                "D Arrange urgent CT scan of the orbits.",
+                "E Send blood for ESR and CRP.",
+                "F Arrange urgent abdominal ultrasound.",
+                "G Send blood for connective tissue diseases screen.",
+                "H Discuss urgent MR angiogram with the duty neuroradiologist.",
+                "I Request urgent measurement of ophthalmic artery perfusion using Doppler ultrasound.",
+                "J Measure blood pressure, random blood glucose and request carotid duplex ultrasound."
+            ],
+            "answer": "J",
+            "explanation": "In addition to asking if the patient smokes, causes of arteriosclerosis should be sought. Therapy is based on reduction of cardiovascular risk factors, aspirin and assessment for possible carotid endarterectomy surgery."
+        },
+        {
+            "id": 28,
+            "question_type": "emq",
+            "question": "A 2-year-old child presents with acute swelling and redness of the eyelids of the left eye. The underlying eye and orbit appear normal.",
+            "options": [
+                "A Squamous cell carcinoma",
+                "B Lacrimal sac mucocele",
+                "C Molluscum contagiosum",
+                "D Lacrimal gland tumour",
+                "E Sebaceous cyst",
+                "F Dermoid cyst",
+                "G Preseptal cellulitis",
+                "H Meibomian cyst",
+                "I Cyst of Moll",
+                "J Basal cell carcinoma"
+            ],
+            "answer": "G",
+            "explanation": "Cellulitis of the eyelids is often due to underlying sinus disease. Aggressive antibiotic treatment is necessary."
+        },
+        {
+            "id": 29,
+            "question_type": "emq",
+            "question": "A 16-year-old male presents with a slightly red, firm lump deep to the skin of the left lower eyelid. It has been present for several months and remains unchanged in size. It is not painful.",
+            "options": [
+                "A Squamous cell carcinoma",
+                "B Lacrimal sac mucocele",
+                "C Molluscum contagiosum",
+                "D Lacrimal gland tumour",
+                "E Sebaceous cyst",
+                "F Dermoid cyst",
+                "G Preseptal cellulitis",
+                "H Meibomian cyst",
+                "I Cyst of Moll",
+                "J Basal cell carcinoma"
+            ],
+            "answer": "H",
+            "explanation": "Meibomian cysts are retention cysts of the meibomian glands and contain sebaceous material. They slowly resolve spontaneously but may be incised on the inner aspect of the eyelid and curetted, if desired."
+        },
+        {
+            "id": 30,
+            "question_type": "emq",
+            "question": "A 72-year-old female presents with a tense, fluctuant swelling just medial to the medial canthus of the left eye.",
+            "options": [
+                "A Squamous cell carcinoma",
+                "B Lacrimal sac mucocele",
+                "C Molluscum contagiosum",
+                "D Lacrimal gland tumour",
+                "E Sebaceous cyst",
+                "F Dermoid cyst",
+                "G Preseptal cellulitis",
+                "H Meibomian cyst",
+                "I Cyst of Moll",
+                "J Basal cell carcinoma"
+            ],
+            "answer": "B",
+            "explanation": "A mucocele of the lacrimal sac occurs when proximal and distal outflow from the sac are occluded. Recurrent infection may occur, and the definitive treatment consists of dacryocystorhinostomy surgery."
+        },
+        {
+            "id": 31,
+            "question_type": "emq",
+            "question": "A 9-year-old girl presents with a small firm lump at the margin of the left upper eyelid. The left eye has been intermittently red and irritable for 6 weeks.",
+            "options": [
+                "A Squamous cell carcinoma",
+                "B Lacrimal sac mucocele",
+                "C Molluscum contagiosum",
+                "D Lacrimal gland tumour",
+                "E Sebaceous cyst",
+                "F Dermoid cyst",
+                "G Preseptal cellulitis",
+                "H Meibomian cyst",
+                "I Cyst of Moll",
+                "J Basal cell carcinoma"
+            ],
+            "answer": "C",
+            "explanation": "Viruses shed from molluscum contagiosum lesions cause a recurring viral conjunctivitis. The lesion can be curetted, excised, or treated with cryotherapy."
+        },
+        {
+            "id": 32,
+            "question_type": "emq",
+            "question": "A 70-year-old male presents with a slowly enlarging pearl-coloured, firm, smooth lump on the skin of the right lower eyelid. The lump has a small central crater that tends to bleed at times.",
+            "options": [
+                "A Squamous cell carcinoma",
+                "B Lacrimal sac mucocele",
+                "C Molluscum contagiosum",
+                "D Lacrimal gland tumour",
+                "E Sebaceous cyst",
+                "F Dermoid cyst",
+                "G Preseptal cellulitis",
+                "H Meibomian cyst",
+                "I Cyst of Moll",
+                "J Basal cell carcinoma"
+            ],
+            "answer": "J",
+            "explanation": "Basal cell carcinomas are a common form of eyelid skin neoplasia. They are locally invasive and must be fully excised with a generous margin."
+        },
+        {
+            "id": 33,
+            "question_type": "emq",
+            "question": "A 23-year-old male presents with pain and photophobia of the right eye. On examination the vision is slightly reduced, there is pink coloration around the edge of the cornea and the pupil is small and irregular.",
+            "options": [
+                "A Acute angle closure glaucoma",
+                "B Allergic conjunctivitis",
+                "C Subconjunctival haemorrhage",
+                "D Uveitis",
+                "E Scleritis",
+                "F Bacterial conjunctivitis",
+                "G Adenovirus conjunctivitis",
+                "H Bacterial keratitis",
+                "I Scleritis",
+                "J Herpes simplex keratitis"
+            ],
+            "answer": "D",
+            "explanation": "Anterior uveitis, in which the iris is inflamed, results in spasm of the pupil sphincter muscle and adhesions between the iris and the lens. Deposits of inflammatory cells can be seen on the inner surface of the cornea. Treatment is with pupil-dilating eye drops and steroid eye drops."
+        },
+        {
+            "id": 34,
+            "question_type": "emq",
+            "question": "A 33-year-old female presents with an irritable right eye. The vision is slightly blurred and the eye is slightly red. When fluorescein dye is instilled, there is an area of branching-shaped staining of the corneal epithelium.",
+            "options": [
+                "A Acute angle closure glaucoma",
+                "B Allergic conjunctivitis",
+                "C Subconjunctival haemorrhage",
+                "D Uveitis",
+                "E Scleritis",
+                "F Bacterial conjunctivitis",
+                "G Adenovirus conjunctivitis",
+                "H Bacterial keratitis",
+                "I Scleritis",
+                "J Herpes simplex keratitis"
+            ],
+            "answer": "J",
+            "explanation": "Herpes simplex infection of the corneal epithelium typically causes a branching-patterned disturbance of the corneal epithelium. Treatment is with aciclovir ointment. Steroid treatment must be avoided, as this will cause severe worsening of the condition and permanent scarring."
+        },
+        {
+            "id": 35,
+            "question_type": "emq",
+            "question": "A 63-year-old female presents with a bright red discoloration of the temporal part of the sclera of the right eye. Her vision is normal and she has no discomfort.",
+            "options": [
+                "A Acute angle closure glaucoma",
+                "B Allergic conjunctivitis",
+                "C Subconjunctival haemorrhage",
+                "D Uveitis",
+                "E Scleritis",
+                "F Bacterial conjunctivitis",
+                "G Adenovirus conjunctivitis",
+                "H Bacterial keratitis",
+                "I Scleritis",
+                "J Herpes simplex keratitis"
+            ],
+            "answer": "C",
+            "explanation": "Subconjunctival haemorrhages look dramatic but are of no functional significance. They might occur following straining, coughing, sneezing, or minor trauma. They are said to be associated with hypertension. However, typically no underlying cause is evident."
+        },
+        {
+            "id": 36,
+            "question_type": "emq",
+            "question": "A 12-year-old girl presents with red, sticky eyes. On awakening in the morning, the eyelids are crusted and stuck together. Her vision remains normal.",
+            "options": [
+                "A Acute angle closure glaucoma",
+                "B Allergic conjunctivitis",
+                "C Subconjunctival haemorrhage",
+                "D Uveitis",
+                "E Scleritis",
+                "F Bacterial conjunctivitis",
+                "G Adenovirus conjunctivitis",
+                "H Bacterial keratitis",
+                "I Scleritis",
+                "J Herpes simplex keratitis"
+            ],
+            "answer": "F",
+            "explanation": "Bacterial conjunctivitis is a common, self-limiting condition. Typically, there is a purulent exudation. Antibiotic eye drops slightly shorten the duration of the infection, but are unnecessary, as the condition is self-limiting."
+        },
+        {
+            "id": 37,
+            "question_type": "emq",
+            "question": "A 55-year-old female presents with moderately severe pain in the right eye. On examination the temporal and superior sclera is a deep red colour, with some overlying oedema.",
+            "options": [
+                "A Acute angle closure glaucoma",
+                "B Allergic conjunctivitis",
+                "C Subconjunctival haemorrhage",
+                "D Uveitis",
+                "E Scleritis",
+                "F Bacterial conjunctivitis",
+                "G Adenovirus conjunctivitis",
+                "H Bacterial keratitis",
+                "I Scleritis",
+                "J Herpes simplex keratitis"
+            ],
+            "answer": "E",
+            "explanation": "Scleritis is a form of connective tissue inflammation frequently associated with rheumatoid arthritis. The inflammation may be controlled with nonsteroidal anti-inflammatory drugs, but in more severe cases, glucocorticoids are needed."
+        },
+        {
+            "id": 38,
+            "question_type": "emq",
+            "question": "A 23-year-old male was punched in the right eye. There is some bruising of the eyelids, but the eye is intact. However, he complains of double vision and has restricted eye movement on attempted upward gaze.",
+            "options": [
+                "A Instil antibiotic ointment and place an eyepad over the eye.",
+                "B Commence prophylactic intravenous antibiotics and perform a temporary tarsorrhaphy.",
+                "C Instil local anaesthetic and perform irrigation of the cornea and the conjunctival sac with saline.",
+                "D Arrange plain x-ray or CT scan of the eyes.",
+                "E Arrange ultrasound examination of the orbits.",
+                "F Arrange a CT scan of the facial and orbital bones, to include coronal views.",
+                "G Arrange an MRI scan of the eyes and orbits.",
+                "H Arrange examination under anaesthetic and surgical repair as required.",
+                "I Take a corneal scrape for bacterial culture.",
+                "J Irrigate the cornea and conjunctiva with weak acetic acid, until the pH is neutral."
+            ],
+            "answer": "F",
+            "explanation": "The clinical features are typical of ‘blow-out' fracture of the floor of the orbit, with entrapment of soft tissue attached to the inferior rectus muscle. The fracture, and soft tissue prolapsed into the maxillary antrum, will be demonstrated with coronal CT scan views of the orbital floor."
+        },
+        {
+            "id": 39,
+            "question_type": "emq",
+            "question": "A 48-year-old male was grinding metal and presents with a metal foreign body adherent to the cornea. You instil local anaesthetic, and remove the foreign body with a needle.",
+            "options": [
+                "A Instil antibiotic ointment and place an eyepad over the eye.",
+                "B Commence prophylactic intravenous antibiotics and perform a temporary tarsorrhaphy.",
+                "C Instil local anaesthetic and perform irrigation of the cornea and the conjunctival sac with saline.",
+                "D Arrange plain x-ray or CT scan of the eyes.",
+                "E Arrange ultrasound examination of the orbits.",
+                "F Arrange a CT scan of the facial and orbital bones, to include coronal views.",
+                "G Arrange an MRI scan of the eyes and orbits.",
+                "H Arrange examination under anaesthetic and surgical repair as required.",
+                "I Take a corneal scrape for bacterial culture.",
+                "J Irrigate the cornea and conjunctiva with weak acetic acid, until the pH is neutral."
+            ],
+            "answer": "A",
+            "explanation": "After removal of a corneal foreign body, there is risk of infection and the eye is painful. Antibiotic ointment and an eyepad are generally used in this circumstance. This treatment is also appropriate for a corneal abrasion."
+        },
+        {
+            "id": 40,
+            "question_type": "emq",
+            "question": "A 36-year-old male was hammering a metal block with a chisel. He was not wearing eye protection. His right eye suddenly became painful, with blurred vision. There is a small conjunctival laceration just lateral to the cornea, with associated subconjunctival haemorrhage.",
+            "options": [
+                "A Instil antibiotic ointment and place an eyepad over the eye.",
+                "B Commence prophylactic intravenous antibiotics and perform a temporary tarsorrhaphy.",
+                "C Instil local anaesthetic and perform irrigation of the cornea and the conjunctival sac with saline.",
+                "D Arrange plain x-ray or CT scan of the eyes.",
+                "E Arrange ultrasound examination of the orbits.",
+                "F Arrange a CT scan of the facial and orbital bones, to include coronal views.",
+                "G Arrange an MRI scan of the eyes and orbits.",
+                "H Arrange examination under anaesthetic and surgical repair as required.",
+                "I Take a corneal scrape for bacterial culture.",
+                "J Irrigate the cornea and conjunctiva with weak acetic acid, until the pH is neutral."
+            ],
+            "answer": "D",
+            "explanation": "There is a high likelihood of the presence of a metallic intraocular foreign body in this circumstance. Even very small radio-opaque foreign bodies might be demonstrated with a plain x-ray or CT scan. Ultrasound examination can be done very gently, but there is a risk of causing further injury by pressing on the eye. MRI scanning is absolutely contraindicated, as magnetic force will cause movement of an intraocular ferrous foreign body, with further injury."
+        },
+        {
+            "id": 41,
+            "question_type": "emq",
+            "question": "A 33-year-old male was washing out a glass container that contained alkaline liquid. Some of the liquid splashed into his right eye and the eye is now very painful.",
+            "options": [
+                "A Instil antibiotic ointment and place an eyepad over the eye.",
+                "B Commence prophylactic intravenous antibiotics and perform a temporary tarsorrhaphy.",
+                "C Instil local anaesthetic and perform irrigation of the cornea and the conjunctival sac with saline.",
+                "D Arrange plain x-ray or CT scan of the eyes.",
+                "E Arrange ultrasound examination of the orbits.",
+                "F Arrange a CT scan of the facial and orbital bones, to include coronal views.",
+                "G Arrange an MRI scan of the eyes and orbits.",
+                "H Arrange examination under anaesthetic and surgical repair as required.",
+                "I Take a corneal scrape for bacterial culture.",
+                "J Irrigate the cornea and conjunctiva with weak acetic acid, until the pH is neutral."
+            ],
+            "answer": "C",
+            "explanation": "A large volume of saline should be used to irrigate the eye, until all traces of alkaline chemical have been removed. Alkaline substances are much more damaging than other chemicals, as they denature proteins and penetrate deeply into the tissue."
+        },
+        {
+            "id": 42,
+            "question_type": "emq",
+            "question": "A 55-year-old man was punched in the right eye during a fight. The vision is reduced and there is a large volume of subconjunctival haemorrhage. The pupil is distorted, the anterior chamber is shallow and you think there might be some prolapsed iris tissue.",
+            "options": [
+                "A Instil antibiotic ointment and place an eyepad over the eye.",
+                "B Commence prophylactic intravenous antibiotics and perform a temporary tarsorrhaphy.",
+                "C Instil local anaesthetic and perform irrigation of the cornea and the conjunctival sac with saline.",
+                "D Arrange plain x-ray or CT scan of the eyes.",
+                "E Arrange ultrasound examination of the orbits.",
+                "F Arrange a CT scan of the facial and orbital bones, to include coronal views.",
+                "G Arrange an MRI scan of the eyes and orbits.",
+                "H Arrange examination under anaesthetic and surgical repair as required.",
+                "I Take a corneal scrape for bacterial culture.",
+                "J Irrigate the cornea and conjunctiva with weak acetic acid, until the pH is neutral."
+            ],
+            "answer": "H",
+            "explanation": "It is very likely that the eye has been ruptured. Attempts to examine the eye in further detail might result in further injury. A more complete examination should be performed under anaesthetic. The injury should be explored and a primary repair performed."
+        }
+    ]
+}

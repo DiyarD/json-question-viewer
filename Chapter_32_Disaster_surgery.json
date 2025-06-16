@@ -1,0 +1,217 @@
+{
+    "chapter_name": "Disaster surgery",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "Which of the following are true about man-induced disasters compared with natural disasters?",
+            "options": [
+                "A They are finite in size.",
+                "B Intrastructure such as communications are likely to be preserved.",
+                "C They cross national boundaries.",
+                "D Shelter is the first priority.",
+                "E Rioting and break down of civil structure is more likely."
+            ],
+            "answer": [
+                "A",
+                "B"
+            ],
+            "explanation": "All the increasing complexity of society and mane appeared purple and will to harm others is increasing; the sheer scale of natural disasters still outweighs by an order of magnitude the effects of accidents or deliberate damage by man.\nNatural disasters hit all aspects of society indiscriminately and so infrastructure tends to be more badly damaged in a natural disaster than a man-induced one.\nNatural disasters tend not to recognise national boundaries. Man-induced ones frequently do.\nBecause of the size and indiscriminate nature of natural disasters, it is likely that more people will be left without shelter in inclement conditions than after a man-induced disaster.\nRioting is more likely after a natural disaster because of its size. Also, damage to police and military structure as well as the prolonged delay in getting assistance due to breakdown of all civil structures all predispose to rioting."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "Which of the following statements are true regarding actions and their priorities after a natural disaster?",
+            "options": [
+                "A Work closely with the media.",
+                "B Rescue work should start before the extent and size of the disaster is fully established.",
+                "C The environment is usually hazardous but medical triage of injured is the first priority.",
+                "D Rescue teams should not clutter themselves with food supplies and shelter. They should be able to ‘live off the land'.",
+                "E First responders should be those who are most eager to go in first and do not need any special training or experience."
+            ],
+            "answer": [
+                "A",
+                "B"
+            ],
+            "explanation": "The media have the finances and communications to hire helicopters and provide vital information earlier than anyone else. They may be a nuisance at times, but they are much better used than fought.\nRescue work should not start before work has begun on defining the extent of the problem but certainly should not wait until the extent is fully established.\nSafety of rescued and rescuers is the first priority and so comes before triage.\nRescue teams must not be an added burden on already compromised people who may be struggling themselves to find food water and shelter. Rescue teams must only go in fully self-supporting in terms of shelter, clean water and food.\nThe most senior and experienced should go in as first responders, so that they can accurately assess what is needed, and have the authority to order things accordingly."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "Which of the following are true concerning triage?",
+            "options": [
+                "A Triage is the job of the less experienced members of the first responder team, while the experienced get on with treatment.",
+                "B Triage cannot be started until site safety is secured.",
+                "C Fast Triage is best performed by going quickly from patient to patient, just taking a quick look at them.",
+                "D Triage needs to be only performed once.",
+                "E Triage is performed as soon as possible after the sickest patients have been stabilised."
+            ],
+            "answer": "B",
+            "explanation": "Triage is the job of the most experienced member of the first-responder team. Correct triage makes a big difference to the efficacy of the team and is most effectively performed by an experienced team member, however much they may wish to get involved in treating individual patients.\nSafety of rescue staff and of disaster victims takes priority, so unsafe buildings should be cleared before triage is started.\nTriage cannot be reliably performed by just glancing at the patient safe buildings should be. A brief history and swift ABC(DE) examination will give much more reliable results.\nTriage needs repeating, as the condition of patients can both deteriorate and improve over a short period of time.\nTriage is performed while quickly stabilising the sickest patients. Treatment should not delay triage but if there are obvious simple tasks to be performed, such as turning a patient into the recovery position to open his or her airway, then this should be done."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "Which statements are false regarding the moving of casualties?",
+            "options": [
+                "A Casualties should be moved out of danger before triage.",
+                "B Transfer of triaged casualties should be made to the nearest medical facility.",
+                "C Transfer should be made by the fastest form to transport.",
+                "D Drips and chest drains should be removed before transfer.",
+                "E Trained staff must accompany major casualties during transfer."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Patients and rescue staff must move out of hazardous places as soon as possible, otherwise secondary injuries may occur. Triage is best performed with all the patients grouped together under shelter and where there is access to light, electricity and water, e.g., a school assembly area.\nCasualties should be transferred to facilities that have the skill and resources to deal with the injuries and are not already overloaded with patients.\nAs a general rule the fastest transport should be used this might be true, but transport should be chosen which will not further exacerbate injuries to the patient, and where appropriate monitoring can be continued. It is almost impossble to monitor a patient during helicopter flight, so, if the patient's condition cannot be stabilised slower transport might allow stops to be made to stabilise the situation when necessary.\nDrips and chest drains may be vital to the physiological stability of a patient during transfer. However, they are easily accidentally displaced so should be securely (doubly) fixed in place.\nStaff capable of monitoring the patient's condition and taking emergency action if necessary must accompany each severely injured patient. This temporarily removes skilled staff from the disaster site, but sick patients cannot be transferred without experienced staff."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding emergency care in the field hospital are true?",
+            "options": [
+                "A Definitive surgery should be performed in the field when necessary.",
+                "B Measures to control haemorrhage should be undertaken in the field.",
+                "C Amputation of devitalised limbs and for gas gangrene should be undertaken in the field.",
+                "D Open fractures should be cleaned in the field.",
+                "E Repair of damaged major vessels should be attempted, if this is necessary to save a limb."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Definitive surgery is best performed in an appropriately equipped centre by trained staff who do not have other emergency priorities.\nHaemorrhage control is one example of ‘damage control' surgery which should be undertaken in the field.\nAmputation of a devitalised limb or one that is gangrenous cannot wait for transfer to a definitive centre as they threaten the life of the patient (from re-perfusion rhabdomyolysis or infection).\nThe sooner that open fractures are cleaned, the better the chance of preventing local and systemic infection.\nAn anastomosis needed to salvage a limb may be appropriate if there is time and expertise available."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding debridement are true?",
+            "options": [
+                "A The term used to mean letting out pus.",
+                "B Tissue of questionable viability can be left and reviewed later.",
+                "C It frequently involves leaving the wound open.",
+                "D It might require repeated exploration.",
+                "E It does not involve definitive treatment."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Its meaning was the unbridling (release) of laudable pus, one of the few useful things that surgeons living in the pre-antibiotic era could do, once a wound was infected.\nIt is best to remove all dead tissue and any which is of doubtful viability, as this is unlikely to recover and once dead will act as a source of infection.\nWounds which have been cleaned (debrided) should be left open and packed.\nThey should then be reinspected and debrided again and again, until they are absolutely clean. Then and only then can delayed primary closure be contemplated.\nDefinitive treatment should be left until the patient reaches a centre geared to deal with this problem."
+        },
+        {
+            "id": 7,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding tetanus are true?",
+            "options": [
+                "A It is caused by an organism in the Clostridium group.",
+                "B Its route of transmission is by ingestion.",
+                "C It thrives in aerobic conditions.",
+                "D Its spores are found everywhere.",
+                "E Heavily contaminated wounds require anti-tetanus globulin as well as tetanus toxoid."
+            ],
+            "answer": [
+                "A",
+                "D",
+                "E"
+            ],
+            "explanation": "The organism is Clostridium tetani, a Gram-positive coccus belonging to the same group as gas gangrene (Clostridium perfringens).\nInfection is transmitted by the spores of the organism actually contaminating dead or dying tissue.\nIt can only thrive in anaerobic conditions, hence the need to debride wounds thoroughly.\nThe spores can be found everywhere but especially in soil contaminated with manure.\nIf a wound is heavily contaminated, then support needs to be given to the activated immune system of the body."
+        },
+        {
+            "id": 8,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding necrotising fasciitis are true?",
+            "options": [
+                "A It is primarily caused a Staphylococcus.",
+                "B It can also be caused by infection with several different organisms.",
+                "C Necrosis is caused by the release of toxins.",
+                "D It may appear in a location remote from the main site.",
+                "E Surgery should not be undertaken even if the patient's metabolic state is deranged."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "The primary organisms are usually a betalytic Streptococcus\nIt commonly involves more than one infective organism.\nExotoxins lead to microvascular thrombosis with tissue necrosis.\nAlthough there is rapid local spread, skip lesions can appear remote from the original site.\nSurgery must be undertaken without delay, as optimisation of the patient's condition will not be possible."
+        },
+        {
+            "id": 9,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding gas gangrene are true?",
+            "options": [
+                "A It may be caused by several different types of Clostridium.",
+                "B More than one toxin is produced.",
+                "C It thrives only in poorly perfused tissues.",
+                "D It is more likely to progress if wounds are left open to the air.",
+                "E The gas produced is oxygen from haemolysed red cells."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C"
+            ],
+            "explanation": "There are several different types of Clostridium which may cause gas gangrene. Normally it is C. Perfringens, but it can be C. bifermentans, septicum, or sporogens.\nSeveral toxins are involved Alpha toxin is a lecithinase and destroys red and white cells as well as muscle cells. Phi toxin is a myocardial suppressant. Kappa toxin destroys connective tissue.\nIt is an obligate anaerobe so it thrives in poorly perfused tissues. Spores can take one hour to 6 weeks to germinate but usually do so in 24 hours.\nClostridium cannot germinate or thrive in the presence of oxygen, so leaving a wound open protects the tissue from developing gangrene. Even so, regular inspection is needed to remove dead tissue.\nThe gas produced is hydrogen sulphide from the breakdown of proteins. It is toxic in its own right."
+        },
+        {
+            "id": 10,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding blast injuries are true?",
+            "options": [
+                "A Casualties hidden behind walls or other obstructions are protected from blast injury.",
+                "B Blasts mainly affect air-filled cavities in the body.",
+                "C Penetrating wounds from fragments are deep and their borders difficult to define.",
+                "D Contamination of a wound is not an issue, as the heat sterilises any fragments.",
+                "E Patients are usually deaf so communication is a problem."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Paradoxically, blast waves curl around solid objects, so even those apparently sheltered from the blast can be affected.\nIt is the interface between a closed air-filled cavity and other tissue in the body where the most damage is seen.\nSome of the most serious damage from blast is caused by fragments propelled by the blast. They may leave wide tracks of soft-tissue damage, as they are high-energy projectiles.\nThe fragments themselves may be hot and so are sterile, but they will push in with them pieces of clothing and will suck other material in behind them, all of which may be heavily contaminated.\nOne of the most common air-filled cavities to cause damage is the middle ear, which might rupture the eardrum and so cause temporary deafness."
+        },
+        {
+            "id": 11,
+            "question_type": "emq",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Compartment syndrome",
+                    "2 Crush syndrome",
+                    "3 Frost bite",
+                    "4 Gas gangrene",
+                    "5 Hypothermia",
+                    "6 Necrotising fasciitis",
+                    "7 Tetanus"
+                ],
+                "choices": [
+                    "A A 28-year-old man is trapped under a collapsed building for 18 hours. His right arm and leg were crushed under a beam. When he is finally freed, he is confused, his pulse is faint but regular and his right arm and leg are cold, pale and pulseless. He does not appear to be able to feel or move either of them.",
+                    "B Some 10 days ago, a 60-year-old rescue worker trod on a nail while climbing over wreckage. It passed through the sole of his shoe and into his foot. He did not seek treatment and the wound healed up well. Now he presents with fever, sweating and drooling, and he is unable to open his mouth properly. Each time there is a loud noise, his muscles go into spasm and he seems to be having some difficulty breathing.",
+                    "C During the clearance of a building, which had collapsed 48 hours before, a 10-year-old boy is found trapped in the remains of a room and unable to move. He had no problems with dehydration as he was soaked from head to foot with water from a ruptured pipe. A quick survey revealed no obvious injury, but even so, he was drowsy (unable to give his name or obey verbal commands) with a slow pulse and an unrecordable blood pressure.",
+                    "D A 16-year-old girl sustains a forearm fracture caused by a falling tree branch during a hurricane. The fracture is only slightly displaced, so a simple reduction is performed and the arm is put in plaster. Twelve hours later she returns to the emergency assessment centre, with terrible pain in the arm, which cannot be controlled with analgesia. The distal pulse is normal, so is sensation in the fingers, but as soon as the fingers are extended passively, she cries out with pain.",
+                    "E After an earthquake in midwinter, high in a valley in Chitral, survivors start appearing at the road head, having walked for 2 days through the snow. Some have no shoes. They have no feeling in their feet, which feel hard and wooden to touch. They are not in any pain.",
+                    "F A terrorist bomb blast has injured a large number of people in a market three days before your team arrives on site. Your patient had several cuts on her leg and torso. One on the thigh was deep and 5 cm long. It was sutured by the local first-aid team some five hours after the blast. It is now red or purple in colour and is oozing fluid. It smells (surprisingly the smell is sweet but a little sickly). When you palpate the swelling around the wound, there is a feeling of crackling in the tissue.",
+                    "G An elderly diabetic patient had a tetanus injection as part of her treatment for a wound sustained during evacuation after a flood. Some days later she presented with a red swollen thigh. She was generally unwell, and pyrexial. The thigh in which she had been given the injection was red and swollen with an area of fluctuance. When this area was opened surgically, there was some pus to be released but the muscle appeared purple and did not contract when stimulated. The wound was extended but the muscle throughout the compartment had an identical appearance."
+                ]
+            },
+            "answer": {
+                "1": "D",
+                "2": "A",
+                "3": "E",
+                "4": "F",
+                "5": "C",
+                "6": "G",
+                "7": "B"
+            },
+            "explanation": "1. D Compartment syndrome\nCompartment syndrome is a build-up of pressure in a soft tissue compartment, which unless released quickly, will lead to its death. It can only develop where muscles are enclosed in an in-elastic fascia. The most common sites are the forearm and the lower leg, but the intrinsic muscles of the hand or foot can also be affected. It develops most commonly after a closed injury, as open injuries are able to decompress themselves. Severe or prolonged crushing of the soft tissue may be adequate to start the condition, but it develops more frequently after a fracture. Swelling of the muscles or haemorrhage into the fascial compartment leads to a rise of pressure inside that compartment. The thin-walled veins draining the compartment collapse because of the raised external pressure on their walls, and so blood fails to drain from the compartment. However, the thicker-walled arteries continue to allow blood to be pumped in. As a result, pressure continues to rise in the compartment until it is the same as in the arteries pumping blood in (mean arterial pressure). Blood flow into the compartment then stops, although blood will continue to flow through the compartment to the limb beyond the compartment (so peripheral pulses may be preserved). Compartment syndrome is diagnosed clinically by a) pain out of all proportion to the injury and b) extreme pain on passive extension of the digits distal to the compartment. Treatment is by fasciotomy of the affected compartment(s) and is a surgical emergency.\n2. A Crush syndrome\nCrush syndrome is a systemic injury, which occurs to the kidneys when tissue that has been deprived of blood supply for a long period is re-perfused and releases tissue breakdown products (myoglobin and vasoactive substances) into the circulation. Myoglobin blocks the kidneys, while vasoactive substances cause fluid sequestration. Both cause renal failure. Patients who are trapped should have intravenous fluids started at high volume (1–1.5 L/ hour) even before they are released, and their urine output monitored to sustain a diuresis. It is equally important to try to avoid the release of the damaging molecules. Limbs that are clearly dead should be amputated rather than being allowed to reperfuse. Fasciotomy for compartment syndrome should not be undertaken when the compartment is obviously dead, because it will do more harm than good.\n3. E Frostbite\nFrostbite is the death of tissue which has been frozen. Normally this occurs in the extremities – toes, fingers, nose and ears. Initially the affected structure appears white and is wooden-hard to pressure. The patient and affected part should be warmed gently (to prevent heat damage) and pain relief given. Over the following days, some of the apparently dead tissue will recover while the worst affected parts will progress to dry gangrene. Provided infection does not set in, the demarcation between dead and viable tissue should be allowed to define itself without surgical interference. Only once clear and immovable demarcation has occurred should the dead tissue be excised.\n4. F Gas gangrene\nGas gangrene is infection of a wound with one of the Clostridium bacteria, usually C. perfringens. The spores are everywhere, including in the human bowel, but can only germinate and thrive in anaerobic conditions. Gangrene is therefore found in contaminated wounds, which have not been laid open and cleaned as quickly as possible (debridement), and especially in wounds which are closed when there is dead or contaminated tissue inside. The bacteria produces toxins which kill tissue and so provides an environment for its own spread. It is susceptible to Penicillin, but the antibiotic cannot penetrate dead tissue. Hyperbaric oxygen may also help, but it too cannot penetrate dead tissue. Early high amputation might be the only way to save the patient.\n5. C Hypothermia\nHypothermia is a decrease in body temperature below normal levels. Mild hypothermia down to 35 degrees is accompanied by shivering, but below that the patient stops shivering and becomes increasingly confused. Their periphery will be shut down and they may be bradycardic. Below 28 degrees cardiac arrhythmias may occur, and below 20 degrees cardiac arrest is likely. Hypothermia can be highly protective and so hypoxia or anoxia can be tolerated for longer periods than in a normal patient. Core temperature is difficult to measure and requires a special low-reading rectal thermometer. Rewarming should not be done too fast. A variety of methods are available, depending on facilities. These vary from blankets and buddy warming, through warm drinks (if they can swallow safely), humidified warmed oxygen, warm IV fluids and even peritoneal dialysis with warm dialysate.\n6. G Necrotising fasciitis\nNecrotising fasciitis is a rapidly spreading infection of fascial planes caused by a mixture of organisms, usually including ẞ-haemolytic Streptococci. Staphylococcus, Proteus, Pseudomonas and Clostridium, amongst others, can also be involved. It can produce skip lesions, spreads very rapidly and has a very high mortality of well over 50%. The cornerstone of management is aggressive surgical excision, but high doses of appropriate antibiotics will be necessary as well as respiratory and circulatory support if severe. So, the patient may need endotracheal intubation and nursing in an intensive care unit during the acute phase.\n7. B Tetanus\nTetanus or lockjaw is caused by Clostridium tetani, a Gram-positive coccus whose spores are found especially in manure-contaminated soil (farmyards) but can be found everywhere else too, including the human bowel. It thrives in a wound where there is anaerobic tissue and releases a toxin, tetanospasmin, which blocks the motor inhibition pathways to sensory stimuli. The first muscles affected are in the face and larynx, causing lockjaw and risus sardonicus (facial spasms producing what could be mistaken for a smile). It is perfectly possible to protect children from this condition by inoculation with tetanus toxoid. This needs repeating every 10 years. But in cases of heavily contaminated wounds, it is probably best to give immunoglobulin as well as appropriate prophylactic antibiotics. Of course, proper wound debridement with delayed primary closure is always required. Full-blown cases will need nursing away from any stimuli (to reduce spasms) and might require paralysis and ventilatory support."
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "chapter_name": "Infection of the bones and joints",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "Regarding bone and joint infection, which of the following is not a Gram-positive organism?",
+            "options": [
+                "A Staphylococcus aureus",
+                "B Coagulase-negative staphylococci",
+                "C Haemophilus influenzae",
+                "D Streptococci pneumonia",
+                "E Streptococci viridans"
+            ],
+            "answer": "C",
+            "explanation": "Gram-positive organisms, in particular Staphylococcus aureus, are the most common cause of bone and joint infection. Although common in prosthetic infection too, a wide range of organisms are seen, e.g., coagulase-negative staphylococci – a normal skin commensal. Table 40.1 lists the common organisms by type. Identification of the causative organism is a key aspect in the treatment of both native and prosthetic joint infection. In some cases, a combination of organisms may be responsible. If generic antibiotics are started prior to microbiological samples being collected, no growth from cultures might be the result (false negative) and the diagnosis is made on clinical grounds. This should be avoided where possible, although in the presence of septic shock empirical antibiotics should be started without delay. In these cases, blood cultures and local aspiration of pus may be possible prior to administration."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "Regarding acute bone and joint infections, which of the following is not routinely part of the investigative work up?",
+            "options": [
+                "A Bloods including CRP and ESR",
+                "B Radiographs of affected bone or joint",
+                "C Ultrasound",
+                "D MRI",
+                "E Bone scan"
+            ],
+            "answer": "E",
+            "explanation": "The diagnosis of infection is routinely made clinically, with bloods and imaging used to confirm the diagnosis. Blood tests, in particular inflammatory markers C-reactive protein (acute marker) and erythrocyte sedimentation rate (chronic marker), are nonspecific tests for infection. Radiographs of a native joint or bone will detect only significant bone destruction (Figure 40.2) and in the early stages will likely be normal. For prosthetic infection, however, progressive loosening around the implants can be a marker. Ultrasound can confirm whether there is a soft-tissue collection or joint effusion, with guided aspiration or biopsy possible. CT can confirm the presence of an infected nonunion following fracture and sequestra. MRI is highly sensitive and specific and is seen by some as the gold standard. Isotope bone scan is not part of the routine work for acute infection as it is very nonspecific. However, it can be used in the diagnosis of chronic prosthetic joint infections."
+        },
+        {
+            "id": "3",
+            "question_type": "mcq",
+            "question": "Regarding native joint septic arthritis, which of the following is not a recognised risk factor?",
+            "options": [
+                "A Bacteraemia",
+                "B Intravenous drug abuse",
+                "C Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+                "D Rheumatoid arthritis",
+                "E Steroids"
+            ],
+            "answer": "C",
+            "explanation": "Bacterial infection of a native joint is an orthopaedic emergency as it can result in life-threatening sepsis, as well as joint destruction. The estimated incidence is 4–10/100,000 population in Western Europe. Risk factors include the following:\n• Extremes of age\n• Socioeconomic deprivation\n• Co-existing joint disease, e.g., rheumatoid arthritis\n• IV drug abuse\n• Immunosuppression\n• Diabetes\n• HIV\n• Drugs, e.g., steroids\n• Bacteraemia: Can lead to haematogenous spread to native joints, particularly with a Staphylococcus aureus bacteraemia\nMost NSAIDs inhibit cyclooxygenase-1 and cyclooxygenase-2. COX-2 is primarily responsible for inflammation through the production of prostaglandins. Although NSAIDs have been implicated in delayed nonunion following fracture, they are not commonly associated with bone and joint infection."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "Regarding implant related infection, which of the following statements is false?",
+            "options": [
+                "A Loose implants require removal.",
+                "B In the presence of infection, well-fixed prostheses should still always be removed.",
+                "C Multiple microbiological samples are taken at the time of revision surgery.",
+                "D Revision can be a one-stage or two-stage procedure.",
+                "E Long-term antibiotics are sometimes required in patients unfit for revision surgery."
+            ],
+            "answer": "B",
+            "explanation": "Infection following primary hip and knee arthroplasty is now regularly quoted to be less than 1%. Risk factors are similar to those for native joint infection, but also include obesity, skin disease e.g., psoriasis, multiple comorbidities, revision surgery and peri-operative wound infections. In the presence of infection, well-fixed prostheses can be retained but loose implants require removal. Revision surgery can be either of the following:\n1 Single-stage revision: Thorough debridement of infected tissue and removal of infected or loose prosthesis, microbiological samples taken and re-implantation of prosthesis.\n2 Two-stage revision: Thorough debridement of infected tissue and removal of infected or loose prosthesis, microbiological samples taken and return at a later stage to re-implant prosthesis following a course of antibiotics to eradicate the infection.\nMultiple microbiological samples should always be taken (some say a minimum of six) to increase the chance of identifying the causative organism. For patients who are not medically fit or have infection refractory to attempts at eradication, long-term antibiotic therapy is an option."
+        },
+        {
+            "id": "5",
+            "question_type": "mcq",
+            "question": "Regarding acute osteomyelitis, which of the following statements is true?",
+            "options": [
+                "A In young children, refusal to weight bear alone is not consistent with osteomyelitis.",
+                "B Haemophilus influenzae is the most common causative organism in children.",
+                "C Inflammatory markers are routinely normal.",
+                "D Radiographic changes can take over 1 week to develop.",
+                "E In the acute phase, surgery is usually required."
+            ],
+            "answer": "D",
+            "explanation": "Acute osteomyelitis is infection of the bone and presents with a short history of limb pain, swelling, loss of function and possibly erythema, with associated systemic upset. In young children, where it is commonly located at the metaphysis adjacent to the epiphyseal plate, the only symptoms might be the inability to bear weight along with systemic upset including fever. Routine investigations will often demonstrate a raised WCC and CRP, although ESR may be normal in the acute phase. Blood cultures can aid in identifying the causative organism. Radiographic changes can take over 1 week to detect changes within the bone; MRI can be employed to detect early changes such as bone oedema and periosteal reaction or elevation. In young children who might require a general anaesthetic to undergo a MRI, USS may be used in the first instance. When detected early (2 to 3 days of onset), the primary treatment is with high-dose empirical intravenous antibiotics. This is based on the assumption that there is no dead bone and no concomitant septic arthritis. Rest and analgesia are often required in the initial stages. A delay in the diagnosis and management might require surgery to eradicate the infection."
+        },
+        {
+            "id": "6",
+            "question_type": "mcq",
+            "question": "Regarding chronic osteomyelitis, infection confined to the cortical bone is denoted by which stage of osteomyelitis according to the Cierny and Mader classification?",
+            "options": [
+                "A Stage 1",
+                "B Stage 2",
+                "C Stage 3",
+                "D Stage 4",
+                "E Stage 5"
+            ],
+            "answer": "B",
+            "explanation": "Chronic osteomyelitis is a persistent serious infection of the bone that can be long-standing and very difficult to eradicate. The pathological process involves inflammation and infection of the bone, resulting periosteum elevation, and eventual bone death due to cortex infarction (sequestrum). New bone formation (involucrum) is a consequence of this.\nThe Cierny and Mader classification has four stages (Table 40.2) and aims to define the nature and extent of the infection. It also categorises the general condition of the patient or host as follows:\nA Normal with no concurrent disease or compromise to immune status\nB Compromised host with a degree of reduced immunity\nC Severe comorbidity preventing adequate treatment of infection, e.g., complications of surgery could be worse than long-standing chronic infection\nThe combined classification has been found to be prognostic following surgery and a prolonged course of antibiotics to treat the infection."
+        },
+        {
+            "id": "7",
+            "question_type": "emq",
+            "question": "A 19-year-old man presents with a swollen and painful right knee. On examination he is pyrexial, and the knee has a large effusion and is red and hot to touch. The knee is held in the 'position of comfort' and is very painful to move. He also complains of pain on passing urine.",
+            "options": {
+                "items": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "choices": [
+                    "1 Charcot joint",
+                    "2 Diabetic ulcer",
+                    "3 Gout",
+                    "4 Marjolin's ulcer",
+                    "5 Osteomyelitis",
+                    "6 Perthes disease",
+                    "7 Pseudogout",
+                    "8 Re-fracture",
+                    "9 Septic arthritis",
+                    "10 Transient synovitis",
+                    "11 Tuberculosis"
+                ]
+            },
+            "answer": "9",
+            "explanation": "The history and examination are consistent with septic arthritis of a native joint. The likely causative organism in this patient is Neisseria gonorrhoeae, which is seen frequently in sexually active young adults. Associated symptoms include urogenital symptoms and signs, polyarthralgia, tenosynovitis and possibly a pustular-type rash."
+        },
+        {
+            "id": "8",
+            "question_type": "emq",
+            "question": "B A 64-year-old woman presents with increasing pain, swelling and redness to her left knee. On clinical assessment there is tenderness, swelling and erythema over the knee but with a moderate range of movement. The patient is apyrexial. Microscopy of the knee aspirate reveals positively birefringent rhomboid crystals.",
+            "options": {
+                "items": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "choices": [
+                    "1 Charcot joint",
+                    "2 Diabetic ulcer",
+                    "3 Gout",
+                    "4 Marjolin's ulcer",
+                    "5 Osteomyelitis",
+                    "6 Perthes disease",
+                    "7 Pseudogout",
+                    "8 Re-fracture",
+                    "9 Septic arthritis",
+                    "10 Transient synovitis",
+                    "11 Tuberculosis"
+                ]
+            },
+            "answer": "7",
+            "explanation": "Gout and pseudogout are characterised by crystal deposition in the joint. In the acute phase, the presentation can mimic septic arthritis. Gout is the deposition of urate crystals, whilst pseudogout produces calcium pyrophosphate crystals. The crystals can be distinguished microscopically by the fact that pyrophosphate crystals are positively birefringent, while urate crystals are negatively birefringent. The hallux MTPJ accounts for almost 50% of the presenting cases of gout. However, pseudogout predominantly affects the large joints, e.g., knee. Radiographs of the affected joint might reveal a background of osteoarthritis and calcium deposition within the joint."
+        },
+        {
+            "id": "9",
+            "question_type": "emq",
+            "question": "C A 38-year-old man originally from the Indian subcontinent presents with persistent back pain that wakes him at night, and he complains of night sweats. Magnetic resonance imaging (MRI) shows a fluid-filled lesion surrounding the L3 vertebra.",
+            "options": {
+                "items": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "choices": [
+                    "1 Charcot joint",
+                    "2 Diabetic ulcer",
+                    "3 Gout",
+                    "4 Marjolin's ulcer",
+                    "5 Osteomyelitis",
+                    "6 Perthes disease",
+                    "7 Pseudogout",
+                    "8 Re-fracture",
+                    "9 Septic arthritis",
+                    "10 Transient synovitis",
+                    "11 Tuberculosis"
+                ]
+            },
+            "answer": "11",
+            "explanation": "Tuberculous arthritis and osteomyelitis are rare in people from the United Kingdom, but are still problematic in developing areas of the world. It is also seen in immunocompromised patients. The thoracic spine is the most commonly affected osseous site and can be vertebral osteomyelitis, discitis, or a paraspinal abscess. Pain that wakes a patient at night and night sweats are caused by tumour or infection until proved otherwise. The fluid collection on MRI suggests infection (a cold abscess) and the patient's origin and location in the spine all support the possible diagnosis of tuberculosis. Diagnosis is through positive microbiology aspiration or biopsy. The common organism is Mycobacterium tuberculosis. Anti-tuberculosis drugs (e.g., rifampicin, isoniazid, pyrazanamide) are the primary treatment. Spinal orthotics can help to control pain and limit deformity. Surgery is a large undertaking and often involves thorough debridement and spinal stabilisation. Chronic infection is associated with sinus formation, kyphotic deformity and neurological deficits (Pott's paraplegia)."
+        },
+        {
+            "id": "10",
+            "question_type": "emq",
+            "question": "D A 50-year-old man has had chronic problems with a large discharging sinus over his leg following a complex fracture of his tibia several years ago (Figure 40.1). The sinus has recently changed in appearance and subsequent biopsy reveals a squamous cell carcinoma.",
+            "options": {
+                "items": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "choices": [
+                    "1 Charcot joint",
+                    "2 Diabetic ulcer",
+                    "3 Gout",
+                    "4 Marjolin's ulcer",
+                    "5 Osteomyelitis",
+                    "6 Perthes disease",
+                    "7 Pseudogout",
+                    "8 Re-fracture",
+                    "9 Septic arthritis",
+                    "10 Transient synovitis",
+                    "11 Tuberculosis"
+                ]
+            },
+            "answer": "4",
+            "explanation": "The history is consistent with a chronic osteomyelitis, likely following an open tibial fracture. A rare complication of a long-standing sinus is the development of a Marjolin's ulcer. This is an aggressive type of squamous cell carcinoma associated with chronic skin changes. Surgical wide excision is often required and even amputation, if indicated. Recurrence ranges from 20%–50%."
+        },
+        {
+            "id": "11",
+            "question_type": "emq",
+            "question": "E A 4-year-old girl presents with a limp and no prior history of trauma. On clinical assessment there is a mild decreased range of movement, with pain in the right hip. The patient has borderline pyrexia of 37.8. CRP is 15 and ESR is 10. Subsequent ultrasound reveals a moderate hip effusion, with microbiological analysis of the aspirate revealing no organisms.",
+            "options": {
+                "items": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "choices": [
+                    "1 Charcot joint",
+                    "2 Diabetic ulcer",
+                    "3 Gout",
+                    "4 Marjolin's ulcer",
+                    "5 Osteomyelitis",
+                    "6 Perthes disease",
+                    "7 Pseudogout",
+                    "8 Re-fracture",
+                    "9 Septic arthritis",
+                    "10 Transient synovitis",
+                    "11 Tuberculosis"
+                ]
+            },
+            "answer": "10",
+            "explanation": "The limping child with an irritable hip and systemic upset remains a diagnostic conundrum between septic arthritis and transient synovitis of the hip. Transient synovitis is self-limiting, with often no definitive cause identified. Patients sometimes have a history of recent trauma or viral illness. Mild pyrexia can occur and inflammatory markers may be marginally raised. However, a significant rise in WCC, CRP, or ESR mean a diagnosis of septic arthritis is more likely and must be excluded. Ultrasound may reveal an effusion, but no organism seen on aspirate is reassuring. Bed rest, analgesia (NSAIDs) and monitoring will result in most cases resolving within 2 to 3 weeks."
+        }
+    ]
+}

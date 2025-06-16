@@ -1,0 +1,485 @@
+{
+    "chapter_name": "Plastic and reconstructive surgery",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding wound healing are true?",
+            "options": [
+                "A Wound healing can proceed in the absence of polymorphonuclear leucocytes.",
+                "B Monocytes are essential for wound healing.",
+                "C Collagen is formed by two polypeptide chains.",
+                "D Type IV collagen is seen predominantly in the basement membrane.",
+                "E The normal ratio of Type I to Type III collagen in the skin is approximately 4:1."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Although polymorphonuclear leucocytes (PMNL) are important in the early stages of the wound-healing process, healing can nevertheless proceed in the absence of PMNL (and also lymphocytes). However, monocytes are essential for wound healing. Blood monocytes on arriving to the wound site undergo a phenotypic change to become tissue macrophages. Collagen is a rod-shaped molecule composed of three polypeptide chains that form a rigid triple helical structure. About 28 different types of collagen have been described in the human body but the five main types are I-V. Type I collagen is found mainly in bone, skin and tendon, whilst Type III collagen is found mainly in arteries, uterus and bowel wall. The skin nonetheless contains Type III collagen as well, and the normal ratio of Type I to Type III collagen in adult skin is approximately 4:1."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding types of wound healing are true?",
+            "options": [
+                "A Healing by primary intention happens when a wound is closed within 12-24 hours of its creation.",
+                "B Healing by secondary intention occurs by both wound contraction and epithelialisation.",
+                "C Delayed primary healing is recommended for human bite wounds.",
+                "D Myofibroblasts play a crucial role in primary wound healing.",
+                "E Split-skin graft donor sites heal by secondary intention."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C"
+            ],
+            "explanation": "Healing by primary (first) intention occurs when a wound is closed within 12–24 hours of its creation as in a clean surgical incision or a clean laceration. The wound edges may be approximated directly by sutures, tissue glue, tapes, or staples. Grossly contaminated wounds, wounds with extensive soft tissue loss, or wounds after some surgical procedures (e.g., laparostomy) are left to heal by secondary intention (secondary healing). In this type of healing, the wound closes by wound contraction and epithelialisation. Delayed primary healing is recommended for contaminated or poorly delineated wounds such as bites or abdominal wounds after peritoneal soiling. They are closed after a few days after being left open to prevent infection. The skin and subcutaneous tissue are left unapposed (sutures may be put in place but not tied) and closure is performed after the normal host defences are allowed to debride the wound. Myofibroblasts, having structural properties between those of a fibroblast and a smooth muscle cell, are thought to play a key role in wounds healing by secondary intention. Healing of split-thickness donor graft sites does not occur by secondary intention but by epithelialisation. In this type of injury, since the basal layer of cells remains uninjured, the epithelial cells within the dermal appendages, hair follicles and sebaceous glands replicate to cover the exposed dermis."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding keloid scars are true?",
+            "options": [
+                "A Keloid scars are predisposed by wound haematoma and infection.",
+                "B Keloid scars extend beyond the margins of the original scar.",
+                "C Keloid scars are more common in children and young adults.",
+                "D Keloid scars usually develop within weeks of initial injury.",
+                "E Keloid scars are characterised by increased collagen synthesis."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Keloids are dermo-proliferative disorders unique to humans. The aetiology of keloids is unclear, although various theories including familial tendency such as an autosomal dominant or recessive inheritance, hormonal influence, altered immunological response, enhanced role of TGB-β, abnormality of ketatinocyte control over fibroblasts and down-regulation of apoptosis related genes have been purported. Factors such as haematoma, infection and wound dehiscence predispose to hypertrophic scar formation (not keloids). Keloids extend beyond the original scar margins whilst hypertrophic scars are confined to the borders of the original wound. Keloids are more common in wounds that cross tension lines and in areas such as the earlobe, pre-sternal and deltoid regions. They commonly affect children and young adults, and such scars undergo rapid growth during puberty and increase in size during pregnancy. Hypertrophic scars generally develop within weeks of injury, whereas keloids can develop up to one year later. Collagen synthesis is three times higher in keloids than in hypertrophic scars and 20 times higher in keloids than in normal skin."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "Which of the following treatment options are useful in the management of keloid scars?",
+            "options": [
+                "A Topical silicone gel",
+                "B Intralesional steroid injections",
+                "C Radiotherapy",
+                "D Intralesional surgical excision",
+                "E Systemic steroids"
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "The management of keloid scars remains challenging. Various treatment options such as topical silicone gel application, intralesional excision (excision through the substance of the keloid), steroid injections and radiotherapy have been attempted and used widely but none has gained lasting or universal acceptance. However, combination of the previously mentioned treatment options is generally considered to give better results. Systemic steroids do not have any role in the treatment of keloid scars."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A The surface of the skin is an important biological layer for homeostasis.",
+                "B The epidermis regenerates from deeper follicular elements.",
+                "C Epidermal keratinocytes cannot be cultured and thus are of no value in wound management.",
+                "D The depth of skin varies in different parts of the body.",
+                "E In the absence of skin, a wound heals by secondary intention with fibrosis and contracture."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Skin is important for sensation and temperature control – it is an important homeostatic tissue. Its depth varies in different parts of the body and regenerates from follicular elements of the dermis. Keratinocytes can be cultured and used in wound care. If wounds have no dermis in their base, healing occurs by secondary intention from the sides."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding blood supply to skin grafts are true?",
+            "options": [
+                "A Skin blood supply comes from muscle and fascial perforating vessels.",
+                "B Direct cutaneous vessels can also contribute to the blood supply of the skin.",
+                "C A graft has a separate blood supply, which enables it to survive on an avascular wound.",
+                "D A full-thickness graft has the whole dermis attached with fat trimmed off.",
+                "E A composite graft is a full-thickness graft to which other structures such as hair may be added by suturing on."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "Skin blood supply comes from direct cutaneous vessels and perforators from underlying fascia and, where present, from underlying muscle. A skin graft consists of varying amounts of epidermis and dermis. It requires the bed or receiving area to be vascularised, so that ingress of capillaries into the graft can occur and revascularise it. A similar situation exists for successful take of a full-thickness graft or composite graft. The former consists of epidermis and the whole of the dermis from which fat has been removed; the latter is a full-thickness graft that contains hair follicles, cartilage, or other adnexal tissue deliberately taken as part of the complete graft and not secondarily sutured on, e.g., hair transplants or reconstruction of deficient nasal rim."
+        },
+        {
+            "id": 7,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding grafts are true?",
+            "options": [
+                "A Imbibition is not a process associated with survival of split-skin grafts in the first 48 hours.",
+                "B Gentle handling and the best postoperative care help to ensure the successful take of a full-thickness graft.",
+                "C Grafts will take on exposed tendons and cortical bone.",
+                "D Contraction occurs in all grafts used in tissue repair but is dependent on amount of dermis taken with the graft.",
+                "E The more dermis in the graft, the more is the contraction."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "Imbibition is the means whereby a split-skin graft is nourished during the first 48 hours of life in its recipient site. Gentle handling is important to create the best conditions for take of a full-thickness graft. Grafts do not take on bare tendon or cortical bone, because these do not produce granulations or vascular support. Graft contraction depends on the amount of dermis in the graft and is thus greatest in split-skin grafts and least in full-thickness grafts."
+        },
+        {
+            "id": 8,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding grafts are true?",
+            "options": [
+                "A Split-skin grafts are sometimes known as Thiersch grafts.",
+                "B Full-thickness grafts are useful in small areas such as fingers, eyelids, or on the face.",
+                "C John Wolfe, an Aberdeen orthopaedic surgeon, described a composite graft in 1902.",
+                "D Split-skin grafts produce a superior cosmetic result compared with full-thickness grafts.",
+                "E Scars placed in ‘the lines of election' or lines of minimal tension produce the best cosmetic results."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "Thiersch was a professor of surgery in Leipzig, Germany, who described free skin grafting in 1874. Full-thickness grafts were described by John Wolfe, a Glasgow ophthalmic surgeon, in 1875, to reconstruct an eyelid. Full-thickness grafts are useful in the repair of face and eyelids and produce a better cosmetic result than split-skin grafts. Incisions and resulting scars are best placed in lines of minimal tension to get the best cosmetic result but do not always correspond to Langer's lines."
+        },
+        {
+            "id": 9,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding full thickness skin grafts are true?",
+            "options": [
+                "A Full-thickness grafts require a well-vascularised recipient bed.",
+                "B Inosculation is the process of adherence of the graft to the recipient bed.",
+                "C Full-thickness skin grafts shrink less compared to split-thickness grafts.",
+                "D The texture and pigmentation of full-thickness grafts are usually quite similar to normal skin.",
+                "E The donor site of a full-thickness graft is usually left to heal by secondary intention."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D"
+            ],
+            "explanation": "Full-thickness skin grafts are fully detached from one part of the body (donor site) and placed on another part (recipient site). It relies solely on revascularisation from a healthy, well-vascularised wound bed. Full-thickness skin grafts initially adhere to the recipient bed by fibrin, which must be vascular enough to support the metabolism of the graft; this process is known as imbibition. Within 48 hours, capillaries grow from the underlying bed into the graft, and the graft becomes vascularised. This process is known as inosculation. Since full-thickness skin grafts contain the entire dermis, it shrinks less compared to split-thickness skin grafts. For the same reason (presence of the entire dermis), the texture and pigmentation of full-thickness skin grafts are usually quite similar to normal skin. The donor site of a full-thickness graft is usually closed primarily, whilst the donor site of a split-thickness graft is left to heal by epithelialisation."
+        },
+        {
+            "id": 10,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding split-skin grafts are true?",
+            "options": [
+                "A Split-skin grafts can be cut at varying thicknesses using handheld or electrical dermatomes.",
+                "B The best donor site for getting a split-skin graft in children or females is the thigh.",
+                "C Other useful donor sites for split-skin grafts are the buttocks and scalp.",
+                "D The size and number of bleeding points in the donor tissue for split-skin grafts do not identify the thickness of the graft.",
+                "E The take of a split-skin graft is affected by a number of factors, including the presence of group A beta-haemolytic Streptococcus."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "E"
+            ],
+            "explanation": "Split-skin grafts can be cut by using a handheld, hand-powered dermatome (batteries), or one powered by electricity. The best donor site for taking a split-skin graft in a child or female is the buttock, where any problems in healing and the risk of poor scars can be hidden. Other useful donor sites are the thighs and shaved scalp. It is possible to determine the depth of split skin taken from the bleeding nature of the donor site – larger-spaced punctate bleeding points indicate a thicker graft. Graft take depends on a number of factors, including presence of infection, notably group A beta-haemolytic streptococci, shearing forces and a good blood supply in the recipient area."
+        },
+        {
+            "id": 11,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding mesh grafts are true?",
+            "options": [
+                "A Mesh grafting enables expansion of a split-skin graft to be done.",
+                "B Mesh grafting prevents release of exudates from under a split-skin graft.",
+                "C The possible donor site for a full-thickness graft is from behind the ear.",
+                "D Conditions for take of a full-thickness graft are not as critical as for a split-skin graft.",
+                "E Large full-thickness grafts when used in the face and over good facial muscle do not produce a satisfactory cosmetic result."
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "explanation": "Mesh grafting of split-skin grafts is a useful technique to expand a smaller graft. The holes in the graft also enable escape of exudates. The retroauricular tissue provides a useful donor site for full-thickness grafts – other sites include the supraclavicular neck or hairless groin skin. The take of split-skin grafts is easier than for full-thickness grafts because there is less tissue depth needing to be vascularised. If the conditions are good, the cosmetic results are superior for a full-thickness graft and the presence of active muscle underneath a full-thickness graft of the face will improve, not worsen, the result."
+        },
+        {
+            "id": 12,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding soft tissue coverage are true?",
+            "options": [
+                "A Full-thickness skin grafts are preferred to flaps to cover exposed bone.",
+                "B Flaps depend on their own vascular pedicle for survival.",
+                "C Random-pattern flaps rely on random cutaneous vessels for their blood supply.",
+                "D Island flaps are more mobile and versatile than random flaps.",
+                "E Free flaps require a vascular pedicle of at least 5-mm in diameter."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Grafts will not 'take' on nonvascularised beds. Avascular wounds, such as bone without periosteal cover, tendon without paratenon, denuded cartilage, fracture sites and irradiated wounds, are incapable of nourishing a graft. In such instances, a flap is indicated to achieve wound coverage. A flap, by definition, remains attached to the body via a vascular pedicle and thus does not depend on the recipient site for blood or nutrients. Random-pattern flaps rely on random cutaneous vessels for their blood supply. Greater lengths of flap can be used by including the underling deep fascia, by including a perforating blood vessel in the base of the flap, and by ensuring axial blood vessels within the flap itself. Islanding a flap on its vascular pedicle allows even greater pedicle length and thus greater mobility and versatility. When there are no options for local wound cover, tissue in the form of free flap has to be imported from elsewhere in the body. Any tissue that can be isolated on a suitable vascular pedicle can be used, and a free flap might include nerve and bone. Arteries as small as 1 mm diameter can be successfully anastamosed in free-flap surgery."
+        },
+        {
+            "id": 13,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding flaps are true?",
+            "options": [
+                "A Flaps introduce blood supply into an area for reconstruction.",
+                "B Classification of flaps can be made on the basis of their blood supply.",
+                "C In a random-pattern flap, a length:breadth ratio of 3:1 is considered safe.",
+                "D Delay is a technique that can further lengthen a random flap.",
+                "E Axial flaps, based on known blood vessels, enable longer flaps to be moved over longer distances."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Flaps can be classified according to the types of blood supply and, in contrast to grafts, introduce their own blood supply to the recipient area. Flaps can thus be used to reconstruct areas with no, or poor, vascularity. For a random flap, the maximum safe breadth:length ratio is 1:1.5; extending more can be done if the extra portion is ‘delayed' or temporarily raised and replaced for a few weeks before the whole flap and delayed portion are used in the reconstruction. When the main vascular supply is confidently known, a longer flap can also be used at a greater distance. This is an example of an axial- pattern flap such as the groin flap."
+        },
+        {
+            "id": 14,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding flaps are true?",
+            "options": [
+                "A Islanding of a random flap can safely and usefully be done.",
+                "B Inclusion of fascial tissue in a skin flap does not make for greater safety.",
+                "C The design of a transposition flap demands knowledge of a pivot point.",
+                "D The transposition flap length equals the length of the defect to be covered – assuming the breadth:length ratio is no greater than permitted.",
+                "E Following the use of a transposition flap, skin grafting of the donor defect is a likely necessity though direct closure may be just possible."
+            ],
+            "answer": [
+                "C",
+                "E"
+            ],
+            "explanation": "A random flap cannot be islanded because the blood supply is not known precisely; this is not the case for an axial-pattern flap, which can be islanded. Inclusion of underlying muscle or fascia with a skin flap increases the flap blood supply if perforators are included. In the design of a transposition flap, it is important to take note of the pivot point as this determines the length of the flap to be used. This point is situated at the base of the flap on the side furthest away from the defect to be covered. The length of this type of flap will be longer than the length of the defect. Usually the donor defect will have to be grafted in part, though in some cases a direct closure might be possible if this is in a very lax area of skin."
+        },
+        {
+            "id": 15,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding flaps are true?",
+            "options": [
+                "A Z-plasties are triangular transposition flaps.",
+                "B Z-plasties are able to lengthen very broad contracture scars.",
+                "C A bilobed flap is useful to close a small convex defect in the nose tip.",
+                "D Rhomboid flaps are useful in the repair of defects of the fingertips.",
+                "E Rotation flaps are used for buttock or scalp defect repairs."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "E"
+            ],
+            "explanation": "Z-plasties are triangular transposition flaps that are useful in lengthening narrow, not broad, contracture bands. For tip-of-the-nose defects of about 1-cm diameter, a bilobed flap is a good alternative to a retroauricular full-thickness graft. The rhomboid flap is not a flap for use in fingertips but can be in the temple or back. Rotation flaps are mostly used in moderate-sized scalp defects or in the buttocks."
+        },
+        {
+            "id": 16,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding flaps are true?",
+            "options": [
+                "A Burrow's triangles are not of significance in the use of bipedicle flaps.",
+                "B Multiple Y to V releases are one of most effective means of managing moderate isolated burn scars over flexion creases.",
+                "C V to Y flaps are ineffective in the management of fingertip injuries.",
+                "D The key to successful random flap use is to pull available local spare lax skin into the defect, so that the closed scar lies in a good line of election.",
+                "E A disadvantage of using local flaps may be a poor cosmetic result."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "Burrow's triangles do not play any part in the design or use of bipedicle flaps. Multiple Y to V flaps are useful in treating burn scars over flexure creases, and V to Y flaps are useful in repair of fingertip defects. A good cosmetic result in random flaps can be obtained when attention in design is made to the lines of election in the located area. The cosmetic result of a flap is better than a graft because it is thicker, has a better blood supply and retains better colour and texture."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding local flaps are true?",
+            "options": [
+                "A Limberg's flap is a type of rotation flap.",
+                "B Dufourmentel flap is a variant of V-Y advancement flap.",
+                "C Rotation flaps are useful in scalp reconstruction.",
+                "D Bilobed flaps are commonly used in lip reconstruction.",
+                "E Langenbeck's palatoplasty is an example of a uni-pedicled advancement flap."
+            ],
+            "answer": "C",
+            "explanation": "Limberg's flap or Rhomboid flap is an example of a transposition flap. The defect is converted into a rhomboid with angles of 60° and 120°, and a flap of similar dimensions is designed and transposed into the defect. Dufourmentel flap is a variant of Limberg's flap but with narrower angles. Rotation flaps are commonly used in scalp reconstruction and can be combined with scoring of the galea to enhance utility of the flap. (Forehead flap is usually used as an interpolation flap). Bilobed flaps, described by Zimany, are useful in nasal reconstruction. Langenbeck's palatoplasty is an example of a bipedicled advancement flap."
+        },
+        {
+            "id": 18,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding myocutaneous and fasciocutaneous flaps are true?",
+            "options": [
+                "A Myocutaneous and fasciocutaneous flaps are unreliable in plastic surgery repairs.",
+                "B The above flaps require complex equipment to be available.",
+                "C Knowledge of blood supply in the area of use is essential when these flaps are used.",
+                "D These flaps can be used without skin if required.",
+                "E Survival of the skin when used in these flaps as skin-island flaps depends on small perforating vessels."
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Myocutaneous and fasciocutaneous flaps have very reliable blood supply, and complex equipment and highly trained surgeons are not required. However, it is important to have a good knowledge of anatomy and blood supply for these flaps. Skin survival depends on the perforators, especially if islanded, but the fascia and muscle can be used as flaps without the overlying skin."
+        },
+        {
+            "id": 19,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding free flaps are true?",
+            "options": [
+                "A Free flaps are the best way of recon-structing major composite loss of tissue.",
+                "B Surgical expertise and equipment in microsurgery are essential for the use of free flaps.",
+                "C Debridement of the area of reconstruction is necessary for the use of free flaps.",
+                "D Donor site morbidity is a possible disadvantage in free-flap surgery.",
+                "E Latissimus dorsi muscle is frequently used as a free flap to reconstruct the breast."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Free-flap reconstruction is the best method for composite tissue loss but requires expertise and microsurgical instruments. The operative time for microsurgical procedures is usually longer than for other types of reconstruction. Careful debridement of the area for reconstruction is essential for success. Donor site morbidity is a recognised disadvantage in free-flap surgery, although this can be minimised with careful pre-operative planning. In breast reconstruction, the latissimus dorsi muscle is usually used as a pedicled flap (blood supply not detached) rather than as a free flap. The commonly used free flap in breast reconstruction is the deep inferior epigastric artery perforator flap (DIEP). The other free flaps used in breast reconstruction include thoraco-dorsal artery perforator flap (T-DAP) and the superior and inferior gluteal artery perforator flaps (SGAP and IGAP). The transverse rectus abdominus muscle (TRAM) free-flap surgery that was in vogue about a decade ago has been now superseded by DIEP since it spares the muscle and thus minimises weakness of the anterior abdominal wall."
+        },
+        {
+            "id": 20,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding complications with flaps are true?",
+            "options": [
+                "A A pale and cold flap is a sign that the venous supply is compromised.",
+                "B Too much tension of flap inset can cause flap failure in every type of flap, including free flaps.",
+                "C Poor knowledge of anatomy and the blood supply to flap tissue will cause a flap to fail.",
+                "D Medicinal leeches can be useful as a last resort in flaps that have an arterial input problem.",
+                "E Well-controlled analgesia to reduce catecholamine output is good advice in the management of major tissue transfers."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "A pale, cold flap has arterial input problem while a blue distended flap has a venous problem. Tension can affect all types of flaps adversely, as can failure to know the anatomy and blood supply to the flap being used. Medicinal leeches are useful in situations where venous output has been compromised but are of no value if there is an arterial problem. Each leech can only be used once on an individual patient. It is important that appropriate analgesia is given in major tissue transfers so that catecholamine production is reduced."
+        },
+        {
+            "id": 21,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding flaps are true?",
+            "options": [
+                "A Burrow's triangles are associated with the use of Z-plasties.",
+                "B A defect of the lower eyelid may be repaired using a 'bucket handle' flap.",
+                "C An inner canthal defect can be repaired using a transposition flap from the glabellar area.",
+                "D A bilobed flap is an example of an axial-pattern flap.",
+                "E A disadvantage of the use of local flaps used in tumour surgery might be compromise to excision."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Z-plasties do not need to make use of Burrow's triangles. The bucket-handle flap is used in reconstruction of the lower eyelid. A glabellar transposition flap can be used to repair a defect of the inner canthus. The bilobed flap is not an axial-pattern flap, as it is not based on known vessels – if anything, it is a modified rotation or transposition flap. Compromising tumour excision to fit the design of a local flap should not be done but it is a risk. Excision of any tumour should always be the first priority, with the repair of the resulting defect by a flap designed to fit the defect created and not vice versa."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "The following statements about the 'Z-plasty' technique are true:",
+            "options": [
+                "A It is widely used to increase tissue bulk in a scarred area by using local flaps.",
+                "B It is useful in reorienting the direction of a scar.",
+                "C It is a very safe technique since the flap viability is always maintained.",
+                "D A 30° Z-plasty will provide an approximate 75% gain in length of the scar.",
+                "E The commonly used angle for a Z-plasty in surgical practice is 120°."
+            ],
+            "answer": "B",
+            "explanation": "Z-Plasty is a technique used widely by plastic surgeons to lengthen or reorient a scar by transposing two Z-shaped flaps or two triangular flaps. The technique, if not executed properly, may result in complications such as haematoma under the flaps, wound infection, 'trapdoor' effect and flap necrosis. They have several applications in plastic surgical reconstruction and the theoretical gain in length depends on the angles of the 'Z'. In theory the following will occur:\n• A 30° Z-plasty will provide a 25% gain in length.\n• A 45° Z-plasty will provide a 50% gain in length.\n• A 60° Z-plasty will provide a 75% gain in length.\n• A 75° Z-plasty will provide a 100% gain in length.\n• A 90° Z-plasty will provide a 120% gain in length.\nHowever, these figures are theoretical and the actual gain in length is determined by the amount of laxity of the skin laterally. The commonly used angle for a Z-plasty in surgical practice is 60°."
+        },
+        {
+            "id": 23,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A A large scalp defect – say as much as 75% in area and involving skull excision – can be best repaired using a rhomboid flap.",
+                "B A defect in the heel may be repaired using an islanded pedicled instep flap.",
+                "C The definitive repair covering for an Achilles tendon scar problem is a split-skin graft.",
+                "D Repair of an ankle defect involving the skin can be accomplished by using a fasciocutaneous flap.",
+                "E Position of perforating vessels can be identified using a Doppler apparatus."
+            ],
+            "answer": [
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "A large scalp defect with bone tissue removed cannot be repaired by a rhomboid flap but would require reconstruction with a free flap. Heel ulcers are difficult due to their site, but can be treated by employing a pedicled instep flap. Achilles tendon wounds are not permanently and properly repaired by using split-skin grafts because of durability, vascularity and mobility problems – a flap repair is better. Wounds of the ankle and lower third of the leg can be repaired using fasciocutaneous or free flaps. Doppler apparatus is an easy and good way to identify perforating vessels on the skin surface."
+        },
+        {
+            "id": 24,
+            "question_type": "msq",
+            "question": "Which of the following statements are true in major tissue reconstruction?",
+            "options": [
+                "A Nerves and tendons cannot be trans-ferred as free, nonvascularised grafts.",
+                "B The fibula can be used in jaw reconstruction as a free flap.",
+                "C The radial forearm flap is a random-pattern flap.",
+                "D The antero-lateral thigh flap is a type of perforator flap.",
+                "E The jejunum is a useful means of free-flap repair for oesophageal defects."
+            ],
+            "answer": [
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Nerve and tendons can be used as free grafts – the sural nerve and, when available, the palmaris longus tendons are useful sources of donor tissue. The fibula is a useful source of free flap for bone to reconstruct the jaw. The radial forearm flap is a good example of an axial-pattern flap as it is designed around well-known vessels. The antero-lateral thigh flap is a commonly used perforator flap (musculo-cutaneous or septo-cutaneous perforator), with the vessels arising from the descending branch of the lateral circumflex femoral artery. For oesophageal defects, free-jejunum grafts offer a good way for reconstruction."
+        },
+        {
+            "id": 25,
+            "question_type": "msq",
+            "question": "Which of the following statements are true in free flap surgery?",
+            "options": [
+                "A Success in repair of major tissue defects requires a team approach and meticu-lous planning.",
+                "B In the absence of trained staff or equipment, free-flap surgery can still be a good option.",
+                "C Free flap success is dependent on the availability of a suitable flap, good artery and venous connecting vessels in the recipient site, and no infection or local tissue induration.",
+                "D Microsurgery is best done using the increased magnification provided by loupes.",
+                "E The ischaemic time for safe transfer of free flaps is 10 hours."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D"
+            ],
+            "explanation": "For major tissue reconstructions, meticulous planning and teamwork is essential for success. If this is to be done using a microvascular procedure, the use of loupes is not satisfactory and the best results are obtained using proper staff and apparatus. Good vessels in donor flap and recipient area, the lack of tissue induration, lack of tension and lack of infection in the area of reconstruction are also important for successful repair. The ischaemic time is dependent on the presence or absence of muscle tissue in the free flap – it is less in the case of the former. A 1- to 2-hour period is safe for muscle-containing free flaps – longer times of up to 6 hours are permissible only in skin or fascia flaps."
+        },
+        {
+            "id": 26,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding Dupuytren's disease are true?",
+            "options": [
+                "A It is caused due to contraction of the palmar fascia.",
+                "B It is more common in Caucasians than in people of African origin.",
+                "C It most commonly affects the little finger.",
+                "D The ulnar side of the hand is more commonly affected.",
+                "E It may be associated with retroperitoneal fibrosis."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "Dupuytren's disease is a condition of unknown aetiology characterised by contraction of the palmar or digital fascia. It affects 1% to 3% of the population of North Europe and the United States. It is rare in the Far East and Africa. It is three times more common in males. Its incidence increases with age. It has a strong hereditary disposition. The ring finger is the most commonly affected finger; the little finger is the next most commonly affected digit. The ulnar side of the hand is more commonly affected than the radial side. The following conditions are associated with Dupuytren's disease: knuckle pads (Garrod's pads), penile fibrous plaques (Peyronie's disease) and plantar fibromatosis (Lederhosen's disease). Retroperitoneal fibrosis, however, is not associated with Dupuytren's disease."
+        },
+        {
+            "id": 27,
+            "question_type": "msq",
+            "question": "Which of the following surgical options in the management of lymphoedema are true?",
+            "options": [
+                "A Excision of subcutaneous tissue and dermal flap",
+                "B Circumferential excision of lymphoedematous tissue and skin grafting",
+                "C Lympholymphatic anastomosis",
+                "D Mesenteric transfer",
+                "E Lymphoarterial shunt"
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C"
+            ],
+            "explanation": "Surgical techniques for correcting lymphoedema may be excisional or physiological. Excisional techniques include circumferential excision of the lymphoedematous tissue followed by skin grafting (Charles technique), longitudinal removal of the affected segment of skin and subcutaneous tissue and primary closure (Homans technique), excision of subcutaneous tissue and tunneling of a dermal flap thorough the fascia into a muscular compartment of the leg (Thompson technique) and liposuction. Physiological techniques include lympholymphatic anastomosis (autologous lymphatic grafts to bridge obstructed lymphatic segments), lymphovenous shunt (anastomosis of lymphatic channels to veins), lymphangioplasty, enteromesenteric flap and omental transfer (pedicled portion of omentum transposed to the affected limb)."
+        }
+    ]
+}

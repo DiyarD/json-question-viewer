@@ -1,0 +1,196 @@
+{
+    "chapter_name": "Neck and spine",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "1. Which of the following statements regarding spine injury are true?",
+            "options": [
+                "A All three columns of the spinal column must be injured for the spine to be unstable.",
+                "B The cervico-thoracic junction is especially susceptible to injury because it is a transition zone from the mobile to the rigid segment of the spinal cord.",
+                "C The size of the spinal canal in the cervical region makes the spine at this level especially susceptible to injury.",
+                "D The spinal cord in the adult ends at L5/S1.",
+                "E The stability of the cervical spine is mainly provided by the bony anatomy."
+            ],
+            "answer": "B",
+            "explanation": "The spinal canal in the cervical region is very spacious, so relatively large displacements of the vertebrae of the cervical spine can occur without compromise to the spinal cord itself. The cervical spine is very mobile in several planes and so there is very little bony stability. Instead, the stability is provided by the ligaments connecting the motion segments. In contrast, the thoracic spine is relatively rigid. The transition between mobile and stiff segments in any mechanical structure is the area most vulnerable to extreme loads, and so the cervicothoracic junction (the area most difficult to visualise) is also the very area most likely to be fractured or dislocated. The anatomy of the spinal column provides stability through the following three columns: anterior (the front of the vertebral body and intervertebral discs), middle (the back of the vertebral body and the anterior longitudinal ligaments) and posterior (the spines with their interspinous ligaments and the facet joints with their pedicles). Disruption of one column does not produce instability, but disruption of all three does. Where there is disruption of two columns, the spine is usually stable but not always. At birth the spinal cord extends the length of the spinal canal, but by adulthood the conus medullaris (the end of the spinal cord) stops at T12/L1. From then on, the spinal roots (cauda equina) pass down to exit below their vertebral bodies."
+        },
+        {
+            "id": 2,
+            "question_type": "clinical_scenario",
+            "question": "A patient is admitted unconscious with a head injury following a 4-metre fall from the roof of a building. His blood pressure is 80/60 mmHg, his pulse 45 beats/minute and he has well-perfused extremities.\n(a) What is the likelihood of him having a significant spinal injury?",
+            "options": [
+                "A < 20%",
+                "B 20%-50%",
+                "C 50%-75%",
+                "D 75%-100%"
+            ],
+            "answer": "B",
+            "explanation": "The likelihood of a significant cervical injury accompanying a head or facial injury is around 30%."
+        },
+        {
+            "id": 3,
+            "question_type": "clinical_scenario",
+            "question": "(b) What is the safest and most reliable way to clear the cervical spine?",
+            "options": [
+                "A Cervical spine series of plain x-rays.",
+                "B Flexion and extension views.",
+                "C Keep him on a spine board until he recovers consciousness.",
+                "D Magnetic resonance imaging (MRI).",
+                "E There are more important things to worry about so this can be considered later."
+            ],
+            "answer": "B",
+            "explanation": "As the patient is unconscious, it can be difficult to ‘clear' the cervical spine. Plain x-rays will not be adequate, and flexion and extension views carry an unquantified risk of causing further damage. The patient should certainly not be left on a spine board any longer than absolutely necessary, because of the risk of bed sores. An MRI would be the safest and most reliable way of ruling out an unstable spine injury."
+        },
+        {
+            "id": 4,
+            "question_type": "clinical_scenario",
+            "question": "(c) What fluids need to be given and how?",
+            "options": [
+                "A A standard maintenance regimen should be started of 3 litres/24 hours, two salt, one sweet.",
+                "B Fluids can be given by naso-gastric tube at 40mL/hour.",
+                "C No fluids are needed at this stage.",
+                "D Put in a central venous pressure line and a urinary catheter. Fluids should be titrated against preload pressure and urine output.",
+                "E Two litres of saline should be given stat, and then further fluid until the systolic pressure comes above 110 mmHg."
+            ],
+            "answer": "D",
+            "explanation": "The vital signs are highly suggestive of neurogenic shock with low blood pressure, bradycardia and well-perfused periphery. Fluids should be administered with great care here because of the risk of flooding the patient. Using a CVP line to measure pre-load, and a urinary catheter to measure renal function, fluids can be titrated in to ensure adequate perfusion while minimising the risk of overloading the patient's circulation."
+        },
+        {
+            "id": 5,
+            "question_type": "clinical_scenario",
+            "question": "The patient wakes up and cannot move his legs. Palpation of the spine reveals a step between T10 and T11, which is painful.\n(d) Which of the following tests are good indicators of prognosis in spinal injury?",
+            "options": [
+                "A A loss of power proprioception on one side with loss of temperature and pain sensation on the other side.",
+                "B Bulbocavernosus reflex.",
+                "C Distal reflexes.",
+                "D Examination for a step in the spine.",
+                "E Perianal sensation."
+            ],
+            "answer": [
+                "A",
+                "E"
+            ],
+            "explanation": "The bulbocavernosus reflex returns in 24–48 hours after spinal transection. It is no indicator of prognosis. It merely indicates that the period of spinal shock has ended and that tests of prognosis can now be performed reliably. Return of perianal sensation indicates a good prognosis. A loss of power proprioception on one side with loss of temperature and pain sensation on the other side is the Brown-Sequard syndrome and also carries a good prognosis. Distal reflexes are no indicator of prognosis. A step in the spine merely indicates that there is a displaced fracture and gives no clue to the extent of neurological damage."
+        },
+        {
+            "id": 6,
+            "question_type": "clinical_scenario",
+            "question": "Examination of the lower limbs of the patient reveals sensation present in the lower limbs but no motor power.\n(e) What Frankel Grade is this patient?",
+            "options": [
+                "A A",
+                "B B",
+                "C C",
+                "D D",
+                "E E"
+            ],
+            "answer": "B",
+            "explanation": "The American Spinal Injury Association measures muscle power using the MRC grading system (0-5) and sensation in each dermatome. These are then combined into the Frankel grade. Grade A is absent sensory and motor. Grade B is sensory present, motor absent (this patient). Grade C is sensory present with motor function, which is not good enough to be useful (MRC grade less than 3). Grade D is sensory present with useful but not normal motor function. Grade E is normal function."
+        },
+        {
+            "id": 7,
+            "question_type": "msq",
+            "question": "3. Which of the following statements regarding visualisation are false?",
+            "options": [
+                "A Cervical spine injuries in children are easier to visualise than in adults.",
+                "B CT scan is best at demonstrating soft-tissue haematoma in the cord.",
+                "C MRI is best for reconstructions, as they help understand the nature of the bone injury.",
+                "D Provided that the cervicothoracic junction is visualised, plain x-rays are adequate to identify cervical instability.",
+                "E Special attention needs to be paid to the cervico/thoracic and the thoraco/lumbar junctions."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Plain x-rays will only diagnose 85% of significant spinal injuries, and even that is only true provided there is good visualisation of the cervicothoracic junction. If the cervicothoracic junction cannot be visualised with conventional films then a ‘swimmer's view' may need to be taken. CT is best for diagnosing bony injury in the spine and can also prove valuable in understanding the nature and extent of the bone injury using reconstructions. MRI is always much better for soft-tissue injuries, so will show up oedema and haematoma of the cord. However, MRI is trumped by CT for planning bone reconstruction. Spine fractures in children are difficult to visualise as bones are not fully ossified, so are not clearly visible. Ligaments are also more lax, so tolerances for displacement are greater. Special attention needs to be paid to both the junctions in the spine between flexible and rigid sections, as these are stress raisers."
+        },
+        {
+            "id": 8,
+            "question_type": "clinical_scenario",
+            "question": "4. A patient is found to have an unstable cervical spine injury, with bifacet dislocation. He has a partial neurological deficit (Frankel C).\n(a) What investigation is needed?",
+            "options": [
+                "A CT.",
+                "B EMGS.",
+                "C MRI.",
+                "D No further investigation is needed. The deformity is already known, as is the extent of neurological damage.",
+                "E Tomograms."
+            ],
+            "answer": "C",
+            "explanation": "A facet dislocation is effectively an unstable fracture and cannot be left untreated. It can be treated in traction using halo traction (until closed reduction is achieved) or, better still, by open reduction and internal fixation. Either way it is best to get an MRI to make sure that there is not a prolapsed intervertebral disc that might compress the cord when reduction is achieved. The best treatment is open reduction, as the patient can then be mobilised safely, minimising the risks of other complications, such as bed sores, developing. The indications for surgery are relative if the neurology is stable, but if the neurology is deteriorating then the indication for surgery is absolute – surgery offers the only option. If the neurology deteriorates then surgery must be considered urgently. Increasing traction would only be likely to make the neurology worse. Syrinx is a late complication of spinal injury, and even that requires surgical decompression."
+        },
+        {
+            "id": 9,
+            "question_type": "clinical_scenario",
+            "question": "(b) What is the optimum treatment?",
+            "options": [
+                "A Halo traction.",
+                "B Mobilise within the limits of pain.",
+                "C Open reduction and internal fixation with bone graft plates and screws.",
+                "D Physiotherapy with manipulation until the facets relocate spontaneously.",
+                "E Stiff collar."
+            ],
+            "answer": "C",
+            "explanation": "A facet dislocation is effectively an unstable fracture and cannot be left untreated. It can be treated in traction using halo traction (until closed reduction is achieved) or, better still, by open reduction and internal fixation. Either way it is best to get an MRI to make sure that there is not a prolapsed intervertebral disc that might compress the cord when reduction is achieved. The best treatment is open reduction, as the patient can then be mobilised safely, minimising the risks of other complications, such as bed sores, developing. The indications for surgery are relative if the neurology is stable, but if the neurology is deteriorating then the indication for surgery is absolute – surgery offers the only option. If the neurology deteriorates then surgery must be considered urgently. Increasing traction would only be likely to make the neurology worse. Syrinx is a late complication of spinal injury, and even that requires surgical decompression."
+        },
+        {
+            "id": 10,
+            "question_type": "clinical_scenario",
+            "question": "(c) The neurology now starts to deteriorate. What is your management plan now?",
+            "options": [
+                "A If traction is being used, increase the traction until symptoms resolve.",
+                "B Open reduction and internal fixation with bone-graft plates and screws.",
+                "C Start high-dose steroids.",
+                "D Stiff collar and log rolling.",
+                "E This is an unavoidable complication in some cases, and nothing can be done."
+            ],
+            "answer": "B",
+            "explanation": "A facet dislocation is effectively an unstable fracture and cannot be left untreated. It can be treated in traction using halo traction (until closed reduction is achieved) or, better still, by open reduction and internal fixation. Either way it is best to get an MRI to make sure that there is not a prolapsed intervertebral disc that might compress the cord when reduction is achieved. The best treatment is open reduction, as the patient can then be mobilised safely, minimising the risks of other complications, such as bed sores, developing. The indications for surgery are relative if the neurology is stable, but if the neurology is deteriorating then the indication for surgery is absolute – surgery offers the only option. If the neurology deteriorates then surgery must be considered urgently. Increasing traction would only be likely to make the neurology worse. Syrinx is a late complication of spinal injury, and even that requires surgical decompression."
+        },
+        {
+            "id": 11,
+            "question_type": "matching",
+            "question": "Choose and match the correct fracture/dislocation/subluxation for each of the scenarios that follow:",
+            "options": {
+                "items": [
+                    "A A child spontaneously develops a wry neck with a cock robin appearance.",
+                    "B A child sustains a high-speed flexion injury. There is a neurological deficit but no abnormality visible on x-ray.",
+                    "C A patient has a fracture, which is effectively a spondylolisthesis of C2 on C3.",
+                    "D A patient has a hyperextension injury. X-ray shows a small chip of bone off the front of a vertebral body next to the disc space.",
+                    "E A patient has a hyperflexion injury combined with axial loading. X-ray shows C3 subluxed forward on C4.",
+                    "F A patient has a hyperflexion injury. The x-ray shows that the vertical height of C4 vertebra is 50% less at the front than the back.",
+                    "G A patient is found to have a Power ratio of more than one.",
+                    "H A patient presents having fallen on his head from a height. The atlas is fractured and expanded.",
+                    "I A patient presents having fallen on his head from a height. The C4 vertebra is fractured and expanded.",
+                    "J A patient sustains a flexion distraction injury at the thoracolumbar junction following a high-speed road-traffic accident where he was wearing a seat belt."
+                ],
+                "choices": [
+                    "1 Anterior cranio-cervical dislocation",
+                    "2 Atlanto-axial instability",
+                    "3 Burst fracture",
+                    "4 Chance fracture",
+                    "5 Facet dislocation",
+                    "6 Hangman's fracture",
+                    "7 Jefferson's fracture",
+                    "8 Spinal cord injury without radiographic abnormality (SCIWORA)",
+                    "9 Teardrop fracture",
+                    "10 Wedge fracture"
+                ]
+            },
+            "answer": {
+                "A": "2",
+                "B": "8",
+                "C": "6",
+                "D": "9",
+                "E": "5",
+                "F": "10",
+                "G": "1",
+                "H": "7",
+                "I": "3",
+                "J": "4"
+            },
+            "explanation": "1. G Anterior cranio-cervical dislocation\nThe Power ratio measures the degree of subluxation of the occiput on the axis. A ratio of more than 1 indicates anterior translation, and a ratio of less than 0.75 indicates a posterior one. The ratio is the distance from the front of the foramen magnum (occiput edge) to the front edge of the back of the atlas over the distance between the back edge of the front of the axis (front of spinal canal) to the front of the back edge of the foramen magnum. Craniocervical dislocation is usually fatal.\n2. A Atlanto-axial instability\nA child with a cock robin neck may just have sternomastoid spasm but can also have a spontaneous onset of atlantoaxial instability. Halter traction should lead to reduction.\n3. I Burst fracture\nAt any other level C2, this fracture is simply known as a ‘burst' fracture. The fragments can be displaced into the spinal canal, causing cord damage. These fragments will need to be removed at open reduction and stabilisation.\n4. J Chance fracture\nThe thoracolumbar junction is especially susceptible to injury, and the introduction of seat belts has produced a characteristic flexion or distraction injury at this level, which is called the Chance fracture.\n5. E Facet dislocation\nIf hyperflexion is combined with axial compression then one (uni-) or both (bi-) facets may dislocate and lock over the front of the facet below, locking into position. There is often damage to the intervertebral disc and also neurological damage. Before reduction is undertaken, an MRI should be performed to make sure there is not a prolapsed intervertebral disc.\n6. C Hangman's fracture\nThe Hangman's fracture is effectively a spondylolisthesis of C2 on C3 caused by traumatic hyperextension.\n7. H Jefferson's fracture\nThe classic fracture from landing on the top of the head is the C1 burst fracture, otherwise known as a Jefferson's fracture, which can be stable or unstable.\n8. B SCIWORA\nSCIWORA is a spinal cord injury without objective radiological abnormality. This occurs in young children with a hyperelastic spine where the deformity at the time of trauma produces haematoma of the cord (visible on MRI) without any apparent musculoskeletal damage.\n9. D Teardrop fracture\nHyperextension pulls off a small fragment of bone on the front of the vertebral body. This is known as a teardrop fracture. Its mild appearance belies a severe and unstable fracture.\n10. F Wedge fracture\nOsteoporotic flexion wedge fractures are common in the elderly following minor trauma. They are usually stable, but the pain and deformity can be helped with vertebroplasty performed under image-intensifier control."
+        }
+    ]
+}

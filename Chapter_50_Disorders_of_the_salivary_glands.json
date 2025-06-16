@@ -1,0 +1,162 @@
+{
+    "chapter_name": "Disorders of the salivary glands",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?",
+            "options": [
+                "A There are three pairs of minor salivary glands.",
+                "B Minor salivary glands contribute 10% of overall saliva flow.",
+                "C Most minor salivary gland tumours are benign.",
+                "D Presumed benign tumours of the minor salivary glands >1 cm should be managed with excisional biopsy.",
+                "E Malignant minor salivary gland tumours are managed with primary surgical resection."
+            ],
+            "answer": [
+                "B",
+                "E"
+            ],
+            "explanation": "There are around 450 minor salivary glands in the upper aerodigestive tract. Although they are present in the nasal cavity, sinuses and larynx, the majority reside in the lip, tongue and palate. Overall, they contribute about 10% of salivary flow. The vast majority of minor salivary gland tumours are malignant. This is in contrast to lesions of the parotid gland. Although small tumours (<1 cm) may be excised to achieve a biopsy, larger lesions should be managed initially with an incisional biopsy. This confirms the diagnosis and guides appropriate therapy. Surgery is the preferred option for benign or malignant lesions, with reconstruction as dictated by the anatomical site and extent of disease."
+        },
+        {
+            "id": "2",
+            "question_type": "msq",
+            "question": "2. Which of the following statements are true?",
+            "options": [
+                "A The sublingual glands occupy the anterior floor of mouth.",
+                "B The sublingual glands drain both directly in to the mouth and in to the submandibular duct.",
+                "C Tumours of the sublingual glands are rarely malignant.",
+                "D The term ranula is applied to mucous retention cysts of the sublingual gland.",
+                "E A plunging ranula is the term used to describe a ranula that extends beyond the floor of mouth and in to the neck."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "The sublingual glands occupy the anatomical region deep to the mucosa of the floor of mouth. This area, which can be inspected by asking the patient to lift his or her tongue, is bounded by the muscles of the tongue and mandible medially and laterally then by the mylohyoid muscle on its deep aspect and the mucosa on its superficial aspect. The glands drain both into the submandibular duct and directly onto the mucosa. Tumours of the sublingual glands are rare. However, when present, tumours are most commonly malignant (>80%). Although mucous retention cysts do occur, from blocked minor salivary and sublingual glands in this region, the term ranula is reserved to describe an extravasation of saliva. Although this is considered like a cyst, there is no cyst wall. The saliva collects and can be seen through the mucosa of the floor of mouth. If it collects in sufficient volume, the saliva can pass into the neck through the mylohyoid muscle, at which point it is called a plunging ranula. Treatment requires excision of the affected sublingual gland."
+        },
+        {
+            "id": "3",
+            "question_type": "msq",
+            "question": "3. Which of the following statements are true?",
+            "options": [
+                "A The two lobes of the submandibular gland communicate around the posterior belly of the digastric muscle.",
+                "B 80% of salivary calculi occur in the submandibular duct.",
+                "C Calculi identified posterior to the point where the duct crosses the lingual nerve should be removed via a transoral approach.",
+                "D The marginal mandibular nerve is at risk during removal of the gland.",
+                "E The lingual nerve is divided during removal of the gland to facilitate dissection of the deep lobe of the gland."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "Around 80% of salivary calculi occur in the submandibular duct due to its viscous salvia production and the fact it drains against gravity. For this reason, the anatomy of the gland is important to the general surgeon. There are two lobes that communicate around the posterior edge of the mylohyoid muscle. From the deep lobe runs the duct, which drains into the floor of mouth. Calculi often arises around the region where the duct crosses the lingual nerve. Those anterior to this can be removed transorally; however, those behind the nerve should be approached by removing the gland and identifying the stone within the duct posteriorly to prevent lingual nerve damage. Some units with a special interest might approach even posterior stones transorally, but such an approach requires experience.\nDuring surgery on the gland, the marginal mandibular, lingual and hypoglossal nerve are all at risk and must be preserved. The marginal is preserved by incising straight down onto the gland and reflecting the fascia directly off it, knowing the marginal mandibular nerve will be superficial and therefore protected. The lingual nerve is attached to the gland by the submandibular ganglion, and the anatomy must be delineated prior to division of the ganglion, which allows the lingual nerve to pass up in to the floor of the mouth, out of danger. Some surgeons formally identify the hypoglossal nerve, which lies deep and medial to the gland, to prevent accidental damage."
+        },
+        {
+            "id": "4",
+            "question_type": "msq",
+            "question": "4. Which of the following statements are true?",
+            "options": [
+                "A 80% of submandibular gland tumours are benign.",
+                "B Submandibular gland masses can be differentiated from lymph nodes by bimanual palpation.",
+                "C Facial nerve weakness is a sign suggestive of malignancy.",
+                "D Open surgical biopsy is indicated to confirm malignant disease prior to surgery.",
+                "E Radiation is the primary modality of treatment for most submandibular gland malignancies."
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "explanation": "The frequency of malignancies within salivary glands is shown in Table 50.1. Due to the deep lobe of the gland, which is not present in lymph nodes, bimanual palpation through the mouth facilitates differentiation between these structures. Masses that rapidly increase in size, involve skin changes, facial nerve weakness, or regional lymphadenopathy should all be considered high risk for malignancy. Achieving a diagnostic biopsy in salivary tumours is controversial with many authors recommending no pre-op biopsy. This is because fine-needle aspiration (FNA) biopsy is notoriously inaccurate, particularly in units without a large experience of managing salivary tumours. As therapy for almost all lesions is surgery in the first instance, the impact on treatment approach is minimal whatever the biopsy result. However, most physicians would attempt an FNA, as a positive diagnosis of cancer allows more realistic preoperative counselling and might justify sacrifice of critical structures such as the facial nerve. All authors would agree that open biopsy is never indicated, as it leads to tumour seeding and might compromise the outcomes, whether the lesion is benign or malignant."
+        },
+        {
+            "id": "5",
+            "question_type": "msq",
+            "question": "5. Which of the following statements are true?",
+            "options": [
+                "A 80% of the parotid gland lies deep to the facial nerve.",
+                "B During parotidectomy, the greater auricular nerve should be included in the skin flap to preserve function.",
+                "C The facial nerve is identified using landmarks including the tragal pointer and the posterior belly of digastric.",
+                "D If a branch of the facial nerve must be sacrificed during dissection, immediate grafting should be performed.",
+                "E Frey's syndrome results from inappropriate innervation of sweat glands with parasympathetic fibres within the parotid bed."
+            ],
+            "answer": [
+                "C",
+                "E"
+            ],
+            "explanation": "The parotid gland occupies a space between the mastoid and mandible. It is in this region that the facial nerve leaves the stylomastoid foramen to pass to the muscles of facial expression. The substance of the gland envelops these fibres almost as if poured into the anatomical space. The vast majority (80%) of the gland lies superficial to the nerve, and, crucially, there is rarely if ever a lymph node in the deep lobe. The significance of this is that, unless the deep lobe is involved with tumour, no dissection deep to the nerve is required to remove potentially involved nodes. When raising the skin flap for parotid surgery, the great auricular nerve must be sacrificed. Occasionally the posterior branch might be spared, but patients should be warned that the earlobe will remain numb following surgery. When performing a parotidectomy, the surgeon should be familiar with the landmarks, which allow identification of the facial nerve (Figure 50.1). The tragal pointer and posterior belly of digastric are the most commonly used. A plane over the digastric is dissected, as is a plane over the tragal cartilage. Between the two lies the nerve, and it should be dissected out by gently and slowly dividing the fibres that attach the parotid gland to the mastoid bone. Often, a small vessel directly overlies the nerve. This can make identification of the nerve challenging, particularly if bleeding is encountered. The surgeon must resist the temptation to use bipolar diathermy indiscriminately at this point, as nerve injury will result. Frey's syndrome occurs as post-ganglionic parasympathetic nerve fibres are transected and regrow to innervate sweat glands in the skin flap. It might be prevented by placing a barrier of muscle or facia between the remaining parotid and skin, although this has not gained universal acceptance."
+        },
+        {
+            "id": "6",
+            "question_type": "msq",
+            "question": "6. Which of the following statements is true?",
+            "options": [
+                "A Viral infection of the parotid glands affects both glands symmetrically.",
+                "B Dehydrated patients are at risk from bacterial parotitis.",
+                "C Recurrent parotitis of childhood tends to result in abscess formation.",
+                "D HIV might present with multiple parotid cysts.",
+                "E Chronic trauma to the parotid duct may result in obstruction."
+            ],
+            "answer": [
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Mumps is a viral infection of the parotid glands, and although it can present with symmetrical involvement, unilateral atypical viral parotiditis does occur and should be considered when assessing a unilateral painful parotid swelling. Classical patients at risk from bacterial parotid infections include elderly dehydrated patients, and those who have undergone recent surgery. Dehydration promotes viscous saliva and salivary stasis. Ascending infection then results in parotitis. Recurrent parotitis of childhood has a typical history of swelling and pain that responds to antibiotics and rarely results in abscess. It can be seen on sialography with the snowstorm appearance (Figure 50.2). Patients with HIV can present with multiple cysts. These form a 'Swiss cheese' appearance on cross-sectional imaging, and although many will regress when antiretroviral therapy is commenced, some patients might require parotid surgery for cosmesis."
+        },
+        {
+            "id": "7",
+            "question_type": "msq",
+            "question": "7. Which of the following statements are true?",
+            "options": [
+                "A The most common tumour of the parotid gland is a pleomorphic adenoma.",
+                "B Tumour excision for benign disease involves enucleation of the lesion.",
+                "C Malignant tumours should be excised with a cuff of normal tissue including the facial nerve.",
+                "D Symmetrical swelling of the parotid glands may be due to excess alcohol intake.",
+                "E Sjogrens syndrome is associated with B cell lymphoma."
+            ],
+            "answer": [
+                "A",
+                "D",
+                "E"
+            ],
+            "explanation": "As stated previously, most parotid gland tumours are benign and the pleomorphic adenoma is the most common benign tumour. Even for benign tumours, enucleation should be avoided. Pleomorphic adenomas have incomplete capsules and so-called pseudopodia (small extensions of disease under the microscope), which lead to high rates of recurrence unless formal excision with a cuff of tissue is undertaken. Almost all tumours of the parotid abut at least one branch of the facial nerve. Even in malignant lesions, however, if the nerve can be dissected off the tumour, no survival advantage has been shown from nerve sacrifice. The majority of such tumours will be treated with postoperative radiation therapy to address microscopic residual disease. Sialosis, or a benign enlargement of the parotid glands, can be associated with malnutrition, drugs, or excess alcohol. Both Sjogrens syndrome and the 'benign lymphoepithelial lesion' of the parotid are associated with lymphoma. Surgery is often required to make a diagnosis in these patients."
+        },
+        {
+            "id": "8",
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Bacterial parotitis",
+                    "2 Minor salivary gland cancer",
+                    "3 Mucus retention cyst",
+                    "4 Mumps",
+                    "5 Parotid gland cancer",
+                    "6 Pleomorphic adenoma",
+                    "7 Salivary calculus"
+                ],
+                "choices": [
+                    "A A 64-year-old man presents with a unilateral swelling below the left ear lobe. It is 2 cm in size and stable with no skin changes, pain, or facial nerve involvement.",
+                    "B A 48-year-old presents with a mass at the junction of the hard and soft palate. It is 1.5 cm in size, painless and slowly enlarging.",
+                    "C A 45-year-old lady presents with unilateral pain under the jaw on mastication.",
+                    "D A 15-year-old presents with bilateral facial swelling, a raised temperature and CRP but normal white cell blood count.",
+                    "E A 78-year-old man presents with a rapidly enlarging mass in the right parotid. The skin overlying the mass is erythematous and the facial nerve function is affected.",
+                    "F A 19-year-old presents with a soft swelling of the lower lip which has increased in size over the past week following minor dental trauma to the area.",
+                    "G An 89-year-old is admitted from a nursing home with facial swelling and a raised temperature."
+                ]
+            },
+            "answer": {
+                "1": "G",
+                "2": "B",
+                "3": "F",
+                "4": "D",
+                "5": "E",
+                "6": "A",
+                "7": "C"
+            },
+            "explanation": "1. G Bacterial parotitis\nBacterial parotitis is classically seen in dehydrated patients (Figure 50.3). It is not uncommon for elderly patients in care homes to become dehydrated and present in this manner. It can also be seen following surgery. Dehydration promotes salivary stasis and viscous secretions. Ascending infections from the oral cavity can then produce parotitis. Treatment generally consists of rehydration, taking care in patients who might have cardiac compromise and antibiotics. Abscess formation can occur, although this is rare. Ultrasound or cross-sectional imaging will confirm the presence of pus. Incision and drainage might be complicated by facial nerve injury, so in most cases antibiotics are used with milking of secretions from the parotid duct. If the patient's condition requires intervention, a low posterior incision is made and blunt dissection through the parotid tissue with an artery forcep into the abscess cavity may be performed. A dependent drain is then placed for 24–48 hours.\n\n2. B Minor salivary gland cancer\nMany of the minor salivary glands are present at the junction of the hard and soft palate (Figure 50.4), and when removed surgically it often surprises the surgeon at the depth of the submucosa in this region (Figure 50.5). Most tumours of minor salivary glands are malignant, and if <1 cm they can be excised as both a diagnostic and therapeutic procedure. In lesions that are >1 cm however, incisional biopsy is indicated. Investigation of lesions in this area should delineate the locoregional extent of disease, with particular attention to destruction of the bone of the hard palate and presence of regional lymph nodes. Following diagnosis, excision and reconstruction will be required. Attempts should be made to prevent a through-and-through defect allowing communication between the mouth and nose. If this is required given the extent of disease, reconstructive options include rotation palata or temporalis flaps, vascularised free flaps and simple obturation with a dental appliance.\n\n3. F Mucus retention cyst\nMucus retention cysts are most commonly seen on the lower lip (Figure 50.6). Although aspiration will lead to temporary resolution, excision with the affected minor gland should be undertaken to prevent recurrence. Lesions such as this on the upper lip can be seen but are more suspicious for malignancy.\n\n4. D Mumps\nMumps tends to affect both sides symmetrically. There can also be involvement of the pancreas and testicles, so care must be taken to examine and investigate the patient appropriately. Although less common in the developed world following vaccination programmes, mumps is still seen and even in those considered vaccinated the condition can present. It might also present with unilateral symptoms; therefore, the clinician should be aware of the possibility. Management is expectant, although most clinicians do provide antibiotics to avoid secondary bacterial infection.\n\n5. E Parotid gland cancer\nWarning signs here include age, rapid increase in size and facial nerve involvement. Although most parotid gland masses are benign, parotid cancers are not uncommon due to the overall incidence of parotid masses. The first investigation should be a core biopsy or FNA. In addition, cross-sectional imaging will outline the extent of locoregional disease and screen for distant metastases. Primary therapy is surgical, and the clinician should assess the extent of disease for resectability. Particular attention should be paid to the relationship of the mass to the facial nerve. Involvement of the mastoid bone will require a lateral temporal bone resection with resection of the facial nerve to achieve macroscopically clear margins. In addition, adenoid cystic carcinoma has a propensity for perineural invasion, so postoperative therapy that will include radiation should be planned to include the skull base, to try and control microscopic disease extension.\n\n6. A Pleomorphic adenoma\nMost parotid masses are benign. FNA may yield a diagnostic sample, although in this case without any other worrying features, surgical resection with a cuff of normal tissue is indicated irrespective of the diagnosis. The majority of masses such as this will be adequately managed with superficial parotidectomy. Many clinicians now order cross-sectional imaging to confirm the position of the mass. The retromandibular vein can be seen on axial contrast-enhanced imaging and marks the junction of the superficial and deep lobes of the parotid. Although approaches are identical between total and superficial parotidectomy, the former puts the facial nerve at higher risk and the patient should be aware of this prior to surgery. Assuming surgery is successful and the mass is excised without rupture of the capsule, recurrence rates are low. In fact if recurrence occurs, it might not present for decades following surgery, so patients should be followed up over a long period. Controversy exists over the management of a ruptured pleomorphic adenoma. The rates of recurrence in this event are thought to be higher, although yet again clinical evidence of recurrence might not present for many years. Some authors advocate postoperative radiation to minimise the risk of recurrence, although side effects, including osteoradionecrosis of the temporal bone, are common. Many authors would consider close follow-up with revision surgery and postoperative radiation reserved only for those patient who do recur.\n\n7. C Salivary calculus\nSalivary calculi are most commonly seen in the submandibular duct. This is thought to be because the saliva is more viscous from this gland and that it drains against gravity. Also the duct crosses the lingual nerve, providing a potential area of compression, adding to salivary stasis. Most are radio opaque, and so can be seen without the need for specialist investigation (Figure 50.7). Those stones anterior to the nerve can often be palpated through the mouth. An intraoral incision with a suture placed behind the stone, around the duct to prevent posterior migration, is the classic description. Following removal, the duct should be marsuplialised to prevent stricture on healing. For stones more posterior than this, damage to the lingual nerve is a risk and many authors would advocate submandibulectomy with identification of the stone in the duct from behind and removal. There is growing interest in noninvasive approaches to the salivary ducts. Sialendoscopy and interventional radiology techniques have made previously inaccessible stones targets for procedures that prevent the need for surgical incisions. The equipment and expertise required to perform such procedures, however, has limited its widespread application."
+        }
+    ]
+}

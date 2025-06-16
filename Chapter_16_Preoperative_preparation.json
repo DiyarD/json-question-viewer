@@ -1,0 +1,188 @@
+{
+    "chapter_name": "Preoperative preparation",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following statements about preoperative fasting are true?",
+            "options": [
+                "A Clear fluids are allowed up to 2 hours before surgery.",
+                "B Cow and formula milk are allowed up to 3 hours before surgery.",
+                "C Pain, opiates and trauma increase gastric emptying time.",
+                "D Hiatus hernias increase the risk of aspiration.",
+                "E Routine medication can be given within 2 hours of surgery."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The aim of fasting a patient preoperatively is to reduce the gastric contents and thereby minimise the risk of aspiration during anaesthesia. Fasting guidelines are 6 hours for solids and cow's milk, 3 hours for breast milk and 2 hours for clear fluids. A normally functioning gastro-oesophageal sphincter is also required to prevent normal residual gastric secretions (~30-40 mLs) from being regurgitated. Factors that cause dysfunction of the gastro-oesophageal sphincter include reflux disease, hiatus hernia and pregnancy. Patients can take all their usual medications, with a small sip of water if required, unless withheld for a specific reason. These guidelines are less helpful in patients who have increased gastric emptying times secondary to factors such as opiates, trauma, acute abdomen, acute pain and alcohol intoxication.\nCow's milk is treated as a solid because it curdles when mixed with gastric secretions and forms a thick flocculate."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "2. Which of the following drugs will cause derangement of a standard coagulation screen?",
+            "options": [
+                "A Low-molecular-weight heparin",
+                "B Unfractionated heparin",
+                "C Clopidogrel",
+                "D Warfarin",
+                "E Aspirin"
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "Warfarin inhibits the vitamin K dependent clotting factors II, VII, IX and X, which are part of the extrinisic pathway in the coagulation cascade. This is measured by the prothrombin time. Unfractionated heparin exerts its effects on the coagulation cascade by binding to and potentiating the action of antithrombin 3 (AT3). AT3 inhibits factors IIa (thrombin), Xa, and XIa, and its effects are measured by the activated partial thromboplastin time, or APTT.\nLow-molecular-weight heparins selectively inhibit factor Xa, and their effect can be demonstrated by monitoring factor Xa levels. Antiplatelet agents do not affect the standard coagulation screen and require specialised tests."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. Which of the following statements are true regarding coronary artery disease?",
+            "options": [
+                "A Dual antiplatelet therapy can be safely stopped after 6 months in patients with a drug-eluting coronary stent.",
+                "B Aspirin should be stopped 7 days prior to surgery with a high risk from bleeding.",
+                "C The risk of stopping dual antiplatelet therapy in people with bare metal coronary stents is significantly reduced after 6 weeks.",
+                "D There is a significant mortality risk associated with coronary stent thrombosis.",
+                "E Elective surgery should be postponed for 1 year following a myocardial infarction."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Aspirin irreversibly inactivates platelets and, as the lifespan of a platelet is 7 days, would need to be stopped for 1 week prior to surgery. Coronary stent thrombosis carries a high risk of mortality; patients are therefore started on dual antiplatelet therapy following stent insertion. Bare metal stents are initially thrombogenic but become covered with vessel wall endothelium, and the risk of thrombosis after 6 weeks is therefore much reduced.\nIn some patients with bare metal stents, scar tissue can form leading to stent restenosis. Drug-eluting stents are coated with cytotoxics, which prevent this tissue growth. The period of thrombotic risk is therefore of a much longer duration, and dual antiplatelet therapy should be continued for at least 12 months. Surgery following a recent myocardial infarction carries a significantly increased risk of cardiovascular complications, and elective surgery should therefore be delayed for 3 to 6 months."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "4. Which of the following factors increases the likelihood of difficulty obtaining and securing the airway under anaesthesia?",
+            "options": [
+                "A Obesity",
+                "B Dentures",
+                "C Reduced neck movement",
+                "D Mallampati grade 1 and 2",
+                "E Previous radiotherapy to the neck"
+            ],
+            "answer": [
+                "A",
+                "C",
+                "E"
+            ],
+            "explanation": "Many different bedside measurements and scoring systems for predicting difficult airways have been described, but it remains an inexact science. One such tool, the Wilson score, aims to predict difficult intubations by assessing five factors associated with difficult intubation – obesity, reduced neck movements, reduced mouth opening, receding mandible and prominent front teeth. Previous radiotherapy to the neck has a high risk of difficult intubation as the anatomy may be distorted and the tissue can become hard and inflexible.\nDentures (particularly upper ones) can be removed to make intubation easier. The Mallampatti scores of 1 and 2 are associated with a low risk of difficult intubation."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "5. With regard to preoperative investigation prior to elective surgery, which of the following statements are true?",
+            "options": [
+                "A Preoperative chest x-rays are routinely required in patients with chronic obstructive pulmonary disease (COPD).",
+                "B A full blood count is routinely required in all patients.",
+                "C An ejection fraction of less than 30% on echocardiography is associated with an increased risk of perioperative mortality.",
+                "D Patients over the age of 60 should usually have an electrocardiogram (ECG) performed preoperatively.",
+                "E Cardiac stress testing has a high negative predictive value and a low positive predictive value."
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Poor left ventricular function is a significant risk factor for complications during the perioperative period. However, normal left ventricular function at rest does not preclude significant ischaemic heart disease (IHD). Stress echocardiograms have a high negative predictive value and a low positive predictive value when used as a diagnostic tool for IHD. Patients with a positive result should be considered for coronary angiography. ECGs are usually recommended for patients over age 60.\nHealthy patients with no or minor comorbidities do not require preoperative testing prior to day case surgery. When assessing respiratory function, a static test such as a CXR is of little use and should be reserved for patients where a problem such as a respiratory infection or concomitant heart failure is suspected. Determining how far a patient with COPD can walk before getting breathless is a better indicator of respiratory function and reserve."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "6. Which of the following is a problem associated with surgery in obese patients?",
+            "options": [
+                "A Deep vein thrombosis",
+                "B Pressure sores",
+                "C Postoperative respiratory failure",
+                "D Nerve injury",
+                "E Pain control"
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Obese patients pose many challenges to the theatre team. Obesity compromises lung function, which often leads to intra and postoperative hypoxia. Obstructive sleep apnoea is also a common problem. These issues are worsened by the prolonged sedative effects of anaesthetic agents in obese patients. Opiate analgesia suppresses respiratory function, so safe and effective pain control in morbidly obese patients can be more difficult to achieve. Regional anaesthesia techniques for suitable operations are therefore very useful. Positioning obese patients safely requires care, because they are more at risk of nerve injury and pressure sores. Obesity is also a risk factor for deep vein thrombosis, and the doses of prophylactic anticoagulants will need to be increased in relation to weight."
+        },
+        {
+            "id": 7,
+            "question_type": "msq",
+            "question": "7. Regarding consent for surgery which of the following statements are true?",
+            "options": [
+                "A Jehovah's Witnesses will never accept blood transfusions.",
+                "B It can be assumed that a patient with a mental illness will not have the capacity to give informed consent.",
+                "C All treatment options, including doing nothing, should be discussed.",
+                "D Children under the age of 16 can never give consent.",
+                "E All complications with an incidence of 1% or more should be discussed with the patient."
+            ],
+            "answer": [
+                "C",
+                "E"
+            ],
+            "explanation": "All complications with and incidence of 1% or more and all significant complications should be discussed with the patient. Benefits and risks of alternative treatment strategies, including the option of doing nothing, should also be discussed. When obtaining consent a useful acronym to remember is LED TO REASON, details of which can be found in Bailey and Love, p. 236.\nJehovah's Witnesses should not be assumed to refuse any particular blood products or cell salvage treatment. It is important to discuss and document exactly what the patient will and will not accept. The capacity to provide informed consent requires the patient to be able to understand, retain, assess the information given and communicate the decision. Mental illness does not automatically preclude a person from having this capacity. ‘Gillick competence' refers to a ruling in the House of Lords Gillick vs West Norfolk and Wisbech AHA, 1986. Children under the age of 16 have capacity to make decisions if they understand the nature and implications of the proposed treatment or intervention."
+        },
+        {
+            "id": 8,
+            "question_type": "msq",
+            "question": "8. Which of the following statements regarding preoperative preparation prior to elective surgery are true?",
+            "options": [
+                "A Hormone replacement therapy (HRT) should be stopped 6 weeks prior to surgery.",
+                "B Elective surgery should be postponed for 6 weeks following a respiratory tract infection.",
+                "C A patient taking 5 mg of prednisolone will require perioperative steroid supplementation.",
+                "D Patients with a body mass index (BMI) of less than 15 have a significantly increased risk of hospital mortality.",
+                "E Patients with a haemoglobin of 8 should be transfused prior to surgery."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "HRT is a risk factor for thrombosis and should be stopped prior to surgery. Patients with active respiratory tract infections should be postponed, as they are at higher risk of intra and postoperative respiratory complications. Malnutrition has deleterious effects on all the major organ systems and is associated with a significantly increased risk of morbidity and mortality. These include infection, poor wound healing, anastomotic breakdown, increased critical care and hospital stays.\nSteroid supplementation is required in patients who are taking more than 10 mg of prednisolone per day in the 3 months before an operation. Anaemic patients must have the cause of their anaemia diagnosed and treated, if possible, prior to surgery. The need for transfusion will depend on patient comorbidities and type of surgery. The transfusion triggers for patients in critical care are usually ~9 g/dL for patients with significant cardiovascular disease and ~7 g/dL for patients without such disease."
+        },
+        {
+            "id": 9,
+            "question_type": "msq",
+            "question": "9. Regarding patients with diabetes undergoing surgery, which of the following statements are true?",
+            "options": [
+                "A Tight glucose control is recommended to prevent infection.",
+                "B Diabetic patients should be prioritised on the theatre list.",
+                "C Diabetic patients have an increased risk of cardiac events.",
+                "D HbA1c reflects glucose control over the preceding 8 to 12 weeks.",
+                "E Poor wound healing is more common in diabetic patients."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Diabetic patients should be placed first on the theatre list, as this reduces the disruption to mealtimes and administration of antidiabetic medications. Cardiovascular, cerebrovascular and peripheral vascular disease is common in diabetic patients, and these conditions should be examined carefully as part of the preoperative assessment. Cardiac ischaemia may be ‘silent'. Diabetic patients are also at increased risk of poor wound healing, pressure sores, electrolyte imbalance and infection. When glucose binds to haemoglobin in red bloods cells, HbA1c (glycosylated haemoglobin) is formed, which lasts for the lifetime of a red cell (~8 to 12 weeks).\nDiabetic patients undergoing major surgery or requiring critical care should have their sugars controlled below 10 mmol/L, as uncontrolled hyperglycaemia is associated with increased morbidity and mortality, including increased rates of infection. Tight blood glucose control (4.4–6.1 mmol/L) is no longer recommended, as patients are thereby exposed to an increased risk of hypoglycaemia."
+        },
+        {
+            "id": 10,
+            "question_type": "msq",
+            "question": "10. Which of the following is a risk factor for thrombosis?",
+            "options": [
+                "A Pregnancy",
+                "B Young age",
+                "C Smoking",
+                "D Trauma",
+                "E Malignancy"
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The following are risk factors for venous thromboembolism (VTE):\n• Obesity\n• Trauma or surgery\n• Reduced mobility\n• Pregnancy/puerperium\n• Oestrogen contraceptive, hormone replacement therapy\n• Smoking\n• Active cancer or on treatment\n• Significant medical comorbidities\n• Critical illness\n• Family/personal history of thrombosis\nPreventable hospital-acquired VTE is a significant cause of mortality. In addition, many patients will suffer morbidity from VTE due to chronic venous insufficiency, which can cause venous ulceration, chronic pain and swelling. All patients admitted to hospital should have their VTE risk assessed and balanced against bleeding risk. VTE prophylaxis can be mechanical (anti-embolism stockings, foot-impulse devices, intermittent pneumatic compression devices) or pharmacological (unfractionated heparin, fondaparinux, low-molecular-weight heparin). Other important aspects of VTE prophylaxis include early mobilisation, avoidance of dehydration and use of regional anaesthesia, where appropriate."
+        }
+    ]
+}

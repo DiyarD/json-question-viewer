@@ -1,0 +1,640 @@
+{
+    "chapter_name": "30 Burns",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding burns in children in the United Kingdom are true?",
+            "options": [
+                "A The majority are electrical or chemical.",
+                "B Scalds are the most common type.",
+                "C Hot water thermostat setting at 60°C helps to improve safety in homes.",
+                "D Intravenous (IV) resuscitation in children is not required for burns up to 10% total body surface area (TBSA).",
+                "E Non-accidental injury is common in children's burns."
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "explanation": "The majority of burns in children are scalds with kettles, pans, hot drinks and bath water. Legislation, health promotion and appliance design, together with education of patients regarding smoke alarms and hot water thermostats kept at 60°C, have reduced the incidence of burns. IV fluids in children are required when the TBSA is 10% or more."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "Regarding burn injury in adults in the United Kingdom, which of the following statements are true?",
+            "options": [
+                "A Electrical and chemical burns are common.",
+                "B Scalds at home are more common than flame burns.",
+                "C Alcohol problems are rare in relation to burn injury.",
+                "D Effective care requires multidisciplinary input.",
+                "E Intravenous fluids are required for burns of 15% TBSA or more."
+            ],
+            "answer": [
+                "A",
+                "D",
+                "E"
+            ],
+            "explanation": "Most electrical and chemical burns occur in adults, while scalds are less common than flame burns. The presence of alcohol, drug abuse, epilepsy and mental disorder is common in those who have suffered burn injury. A multi-disciplined approach must be available for effective care. IV fluids in adults are required when 15% or more of TBSA is affected."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "Which of the following statements are true regarding epidermal burns?",
+            "options": [
+                "A Epidurmal burns are classified as superfi-cial burns.",
+                "B Epidurmal burns are red in colour.",
+                "C Epidurmal burns are painless.",
+                "D Epidurmal burns are associated with a normal capillary refill time.",
+                "E Epidurmal burns heal by primary intention."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "Epidermal burns include only the epidermis and are classified as superficial burns. Common causes of epidermal burns are sun exposure and minor flash injuries from explosions. Due to the production of inflammatory mediators, hyperaemia occurs; so these burns are red in colour and may be quite painful. The underlying vascular plexus is not affected and hence the capillary refill time is normal. The stratified layers of the epidermis are burnt away and healing occurs by regeneration of the epidermis (also known as epithelialisation) from the underlying intact basal layer."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "The criteria for transfer of a patient with burns to a specialised burns unit include the following:",
+            "options": [
+                "A Partial- and full-thickness burns ≥10% of the total body surface area in patients ≤10 years or ≥50 years of age.",
+                "B Full-thickness burns involving the genitalia.",
+                "C Full-thickness burns ≥5% body surface area in any age group.",
+                "D Chemical injury.",
+                "E Inhalation burn."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "According to the American Burn Association guidelines (also followed by the British Burn Association), the following patients require transfer to the specialised burn unit: (i) Partial-thickness and full-thickness burns >10% of the total body surface area (TBSA) in patients <10 years or >50 years of age; (ii) Partial-thickness and full-thickness burns >20% TBSA in other age groups; (iii) Partial-thickness and full-thickness burns involving the face, ears, hands, feet, genitalia, or perineum or those that involve skin overlying major joints; (iv) Full-thickness burns >5% TBSA in any age group; (v) Significant electrical burns, including lightning injury; (vi) Significant chemical burns; (vii) Inhalation injury; (viii) Burn injury in patients with pre-existing illnesses that could complicate management, prolong recovery, or affect mortality; (ix) Any burn-injury patient with concomitant trauma poses an increased risk of morbidity or mortality, and may be treated initially in a trauma centre until stable before transfer to a burn centre; (x) Children with burn injuries who are seen in hospitals without qualified personnel or equipment to manage their care should be transferred to a burn centre with these capabilities; and (xi) Burn injury in patients who will require special social and emotional or long-term rehabilitative support, including cases involving suspected child abuse and neglect."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding respiratory problems in burns are true?",
+            "options": [
+                "A Burn injury to the lungs can be fatal.",
+                "B Injury can be due to inhalation of hot or poisonous gases.",
+                "C Burn injury is more common in the supraglottic than in the lower airway.",
+                "D Haemoglobin combines with carbon monoxide less easily than with oxygen.",
+                "E Hydrogen cyanide interferes with mitochondrial respiration."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "Burns can damage the airway and lungs with life-threatening consequences. This can occur when the face or neck are burned, when the fire causing the burn is in an enclosed space, or when hot gases or poisonous vapours are inhaled. Burn injury is more common in the lower airway than in the supraglottic airway. Carbon monoxide has an affinity 240 times greater than oxygen for combining with haemoglobin and thus blocks the transport of oxygen. Blood gas measurement can be done to confirm the diagnosis. A concentration of carbon monoxide above 10% is dangerous; 60% is likely to be lethal. Hydrogen cyanide is a metabolic toxin produced in house fires, which interferes with mitochondrial respiration."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding smoke inhalation are true?",
+            "options": [
+                "A Inhaled smoke particles can cause a cause a chemical alveolitis and subsequent increased gaseous exchange.",
+                "B Inhaled smoke particles may be suspected with a specific situation in an enclosed space.",
+                "C Early elective intubation is contraindicated.",
+                "D Symptoms can take 24 hours or up to 5 days to develop.",
+                "E The result of carbon monoxide poisoning is a metabolic alkalosis best treated by low-inspired oxygen."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "Inhaled smoke particles can cause a chemical irritation or alveolitis. This results in interference with gaseous exchange. Early elective intubation is important and is definitely not contraindicated. Symptoms might not be immediately evident and can take up to 5 days to develop. Carbon monoxide poisoning causes a metabolic acidosis and is treated by inhalation of pure oxygen."
+        },
+        {
+            "id": 7,
+            "question_type": "msq",
+            "question": "Which of the following statements are true regarding carbon monoxide poisoning?",
+            "options": [
+                "A Carboxyhaemoglobin dissociates less readily than oxyhaemoglobin.",
+                "B The fall in PaO2 is directly proportional to a rise in carboxyhaemoglobin levels.",
+                "C The PaO2 levels are always reduced.",
+                "D Carbon monoxide binds with the intracellular cytochrome system and produces abnormal cellular function.",
+                "E Carboxyhaemoglobin levels of ≥20% is manifested by ataxia and convulsions."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "Carbon monoxide (CO) combines very readily with haemoglobin, forming carboxy-haemoglobin (COHb). Carboxyhaemoglobin dissociates less readily than oxyhaemoglobin, and so once formed reduces the oxygen-carrying capacity of the blood, leading to tissue anoxia. The dissolved oxygen in the plasma remains unaffected and hence the PaO2 remains normal. In addition to binding preferentially with haemoglobin, CO also binds with great affinity to other haem-containing compounds, most importantly the intracellular cytochrome system. This combination may produce abnormal cellular functioning, and in severe exposure produces a 'sick cell syndrome'. Carboxyhaemoglobin level has to reach about 50% for the patient to manifested symptoms such as hallucination, ataxia, syncope, convulsions and coma; a level of ≥60% could lead to death."
+        },
+        {
+            "id": 8,
+            "question_type": "msq",
+            "question": "Which of the following statements are true in relation to burns and total body surface area (TBSA)?",
+            "options": [
+                "A Epidermal destruction can occur when a surface temperature of 70°C is applied for 1 second.",
+                "B A child's head comprises a smaller percentage of TBSA than that of an adult.",
+                "C According to the Lund and Browder chart, an adult with burns involving both sides of one upper limb, as well as the hand, equates to about 15% TBSA burn.",
+                "D The 'rule of nines' is widely used in the burns unit to estimate burn size in a 10-year-old child.",
+                "E In small burns the patient's whole hand is 1% of TBSA and is a useful guide to assess a burn."
+            ],
+            "answer": [
+                "A",
+                "E"
+            ],
+            "explanation": "The first indication of burn depth comes from the history of temperature and time of application at that temperature. Burn area can be measured by a series of formulae plotted on a chart. It should be remembered that the size of a child's head is proportionally larger than in an adult. The ‘rule of nines' offers only a rough guide to estimate TBSA burn and is not very accurate in children <12 years of age. The Lund and Browder chart is widely used in U.K. burn units and measures a whole arm and hand (both sides) as about 8% of TBSA. In small burns it may be useful to use the patient's whole hand-palm as 1% of TBSA (Figure 30.1)."
+        },
+        {
+            "id": 9,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding burn depth are true?",
+            "options": [
+                "A The depth of a burn together with percentage of TBSA and smoke inhalation are key parameters in the assessment and management of a burn.",
+                "B Alkalis, including cement, usually result in superficial burns.",
+                "C Fat burns are deeper than electrical contact burns.",
+                "D Capillary filling is not present in superficial burns.",
+                "E Deep dermal burns take a maximum of two weeks to heal without surgery."
+            ],
+            "answer": [
+                "A"
+            ],
+            "explanation": "The key factors in the assessment and management of a burn are smoke inhalation, depth and percentage of TBSA affected. If oral fluids are to be used, salt must be added to counter salt loss in the stressed situation. The likely depth of any burn can be derived from the causative agent. Thus fat usually causes deep dermal burns, while full-thickness burns are more certain in electric contact injuries. The burns caused by alkalis such as cement usually produce deep dermal or full-thickness burns. Any burn that heals spontaneously within 3 weeks is superficial; deep dermal burns will take longer. Sensation and capillary filling are features of a superficial burn (Figure 30.2)."
+        },
+        {
+            "id": 10,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding the consequences of burns are true?",
+            "options": [
+                "A As a result of a burn, complement causes degranulation of mast cells and, subse-quently, neutrophils.",
+                "B Mast cells do not release primary cytokines.",
+                "C As a result of a burn, an increase in vascular permeability occurs.",
+                "D Following a burn, water only moves from the intravascular to extravascular space.",
+                "E In burns affecting >15% TBSA in an adult, fluid loss results in shock and the volume lost as fluids is directly proportional to the area of burn."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "E"
+            ],
+            "explanation": "As a result of a burn, complement is produced, which degranulates mast cells and leucocytes. Mast cells act on leucocytes and produce primary cytokines. There is a movement of water and salt from the intra to the extravascular compartment due to an increase in vascular permeability. The resulting shock is related to this fluid loss and in an adult becomes significant when TBSA affected is >15% (Figure 30.3)."
+        },
+        {
+            "id": 11,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding burn complications are true?",
+            "options": [
+                "A Cell-mediated immunity is increased in major burns.",
+                "B Infections with bacteria and fungi are rare in large burns.",
+                "C Malabsorption from gut damage is a known complication in a burned patient.",
+                "D Circumferential full-thickness burns of a limb can result in ischaemia.",
+                "E A change in voice is an important clinical sign in a burned patient."
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "In the burned patient there is a reduction in cellular immunity, and one should have a high index of suspicion for infections with bacteria and even fungi. Damage in the gut-lining tissue might cause malabsorption. Ischaemic changes are a definite risk for full-thickness circumferential burns of the limbs as a result of swelling and a tourniquet effect. For the same reason, circumferential full-thickness burns of the chest may cause respiratory impairment. Warning signs of burns to the respiratory system include stridor or change in voice."
+        },
+        {
+            "id": 12,
+            "question_type": "msq",
+            "question": "The systemic effects of ≥50% total body surface area burns in adults include the following:",
+            "options": [
+                "A Immunosuppression",
+                "B Increase in circulating catecholamines",
+                "C Hypoglycemia",
+                "D Hypervolaemia",
+                "E Adult response distress syndrome"
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "Virtually every organ system in the body is affected after a significant burn. This is due to alterations in the release of inflammatory mediators and neural stimulation. Immunosuppression is due to depression of many facets of the immune mechanism, both cellular and humoral. Burn injury results in a hypermetabolic state, caused by secretion of the stress hormones, including cortisol, catecholamines and glucagons. In addition, there is suppression of or resistance to anabolic hormones (growth hormone, insulin and anabolic steroids). Blood glucose is often elevated in major burns. Hypovolaemia is a characteristic feature of major burns, which is principally due to loss of protein and fluid into the interstitial space. The lungs frequently suffer from the changes of the post-burn systemic inflammatory response (adult acute respiratory distress syndrome) even in absence of inhalation injury."
+        },
+        {
+            "id": 13,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding the treatment of burns are true?",
+            "options": [
+                "A Cooling of a scald for 10 minutes is suf-ficient to reduce the effect of acute injury.",
+                "B Other non-burn injuries may coexist with a burn.",
+                "C Major determinants of burn outcome are percentage of TBSA, depth and presence of any inhalation injury.",
+                "D Criteria for acute admission to a burn unit does not exist or is unnecessary.",
+                "E Hand burns do not need to be referred to a burn unit and can be managed in A&E setting or GP practice."
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "explanation": "A fresh burn should be cooled for about 20 minutes. Lowering the temperature of the agent causing the burn and the local tissue will help to reduce burn injury – this may sometimes be done by using cold water but not for every burn. Non-burn injuries may coexist with burns and should not be overlooked. Criteria for admission to each burn unit exist and advice about this and any burn is readily available. Hand burns are significant injuries due to the potential for long-term morbidity and contractures, and thus have to be managed by a specialised burn unit."
+        },
+        {
+            "id": 14,
+            "question_type": "msq",
+            "question": "Which of the following statements are true in the management of a six-month old child with burns?",
+            "options": [
+                "A Each leg is about 18% of TBSA in this child.",
+                "B A dark, lobster red with slight mottling is indicative of deep partial or full-thickness burn.",
+                "C The child should be fully wrapped in damp dressings until he or she reaches the burn unit.",
+                "D A urine output of 0.5 mL/kg/hour is an indicator of adequate hydration.",
+                "E A blood lactate level of >4 mmol/L suggests inadequate intravascular fluid volume."
+            ],
+            "answer": [
+                "B",
+                "E"
+            ],
+            "explanation": "In a child up to 1 year of age the head and neck are 18% of the total body surface area, whereas each leg is approximately 14%. A dark, lobster red with slight mottling is indicative of deep partial or full-thickness burn. Hypothermia is a much greater risk in children than in adults. Children under 1 year of age do not have a shivering reflex. Cool water or damp dressing should only be applied to the burn surface, and the rest of the child should be kept warmly wrapped. Continuous assessment (every 30 minutes) until the child reaches the burn unit is essential. A urine output of 0.5 mL/kg/hour is adequate in adults; however, in children of this age group, a urine output of at least 1–2 mL/kg/hour is required. Blood lactate level is a useful indicator in the management of burns and rising lactate level associated with a fall in the pH may suggest poor perfusion of the tissue secondary to inadequate intravascular volume."
+        },
+        {
+            "id": 15,
+            "question_type": "msq",
+            "question": "Which of the following statements are true in the early management of adult burns?",
+            "options": [
+                "A Clothing should not be removed immedi-ately since it tears away burnt skin.",
+                "B Ice or cold water should be used for 20 minutes to cool the burn.",
+                "C Full-thickness burn of >5% total body surface area is an indication for transfer to the specialized burn unit.",
+                "D Application of silver sulphadiazine is recommended before the patient is transferred to the burn unit.",
+                "E Nasogastric tubes should be avoided in the early stages since they predisposes to gastric ulcers."
+            ],
+            "answer": [
+                "C"
+            ],
+            "explanation": "All clothing should be removed as soon as possible; any skin that is adherent and peels off with the clothing is 'dead,' and it is essential to remove all dead tissue. Those whose clothing is alight should ‘drop and roll'. The use of a wet blanket may facilitate extinguishing the burning clothing. The burn should be cooled with lukewarm running water for at least 20 minutes. Ice or very cold water should be avoided, as blood flow to the affected area will be reduced. This may lead to hypothermia, which is a particular risk in infants and the elderly. Among others, a full-thickness burn of >5% total body surface area is an indication for transfer to the specialised burn unit. Silver-based products render subsequent assessment difficult and therefore should not be applied without discussion with the burn team. Nasogastric (NG) tubes help to decompress the stomach and are recommended in burn patients, particularly those at risk of aspiration. NG tubes ensure mucosal integrity, thus minimising the risk of endogenous infection and bacterial translocation."
+        },
+        {
+            "id": 16,
+            "question_type": "msq",
+            "question": "Which of the following statements are true in the emergency management of a 33-year-old man with extensive burns to his abdomen, arms and legs?",
+            "options": [
+                "A Fluid resuscitation should be commenced only after accurate assessment of the total body surface area of burn.",
+                "B A urinary catheter is indicated if the burn is full-thickness covering ≥15% total body surface area.",
+                "C Leathery white appearance is suggestive of full-thickness burns.",
+                "D Intravenous access should not be secured through burned skin.",
+                "E Escharotomy should not be performed until the patient is assessed in the burn unit."
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "explanation": "It might be difficult to accurately estimate the total body surface area (TBSA) of burn in an emergency situation. If a quick, initial assessment reveals a partial- or full-thickness burn of ≥15%, fluid resuscitation should be commenced immediately. The resuscitation of burns of >15% TBSA in an adult or 10% TBSA in a child should be monitored by a urinary catheter. Leathery-white or charred-black appearance is suggestive of full-thickness burns. The coagulated tissue is called 'eschar'. It does not blanch with pressure and is typically insensate. Intravenous access should be secured by any means, even through burned skin. Intravenous cut-down in the cubital fossae or on the long saphenous vein may be required if percutaneous intravenous access cannot be obtained. In children <6 years old, if intravenous access is not obtained, access should be sought through an intraosseous approach (commonly in the tibia). Emergency escharotomy may be needed to save life and thus may be indicated before the patient is transferred to the burn unit."
+        },
+        {
+            "id": 17,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A The depth of a burn can be assessed initially from the temperature and nature of the causative agent and time of application.",
+                "B Electric contact burns are almost certainly full-thickness.",
+                "C Superficial partial-thickness burns involve destruction of the whole dermis.",
+                "D Sensation is totally absent in a full-thickness burn.",
+                "E Tangential shaving may be a useful diagnostic and management tool in partial-thickness burns."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Most burns can be assessed from the history, nature and temperature of the causative agent and time of application. Electrical contact usually results in full-thickness burns. In superficial and deep partial-thickness burns, some dermal tissue is intact. Sensation is absent in full-thickness burns, as all nerve endings are destroyed. Tangential shaving using a skin-grafting knife is a useful management and diagnostic operation in partial-thickness burns – the presence of punctate bleeding after one or two shaves confirms this type of injury."
+        },
+        {
+            "id": 18,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Oral fluids containing no salt are essential when given as fluid replacement in burns.",
+                "B Fluids required can be calculated from a standard formula.",
+                "C Hyponatraemia can be avoided in oral fluid management by rehydrating with a solution such as Dioralite.",
+                "D Urine output gives a major clue as to adequacy of fluid replacement.",
+                "E Three types of fluid are commonly used for IV fluid replacement in burns: Ringer's lactate, hypertonic saline and colloids."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "It is important to give salt and water in oral fluids provided for resuscitation instead of water alone, to account for salt loss. Dioralite is useful in the treatment of hyponatraemia. The output of urine gives a good indication of fluid requirements. Various formulae are available to calculate fluid requirements, which may be given as Ringer's lactate (Hartmann's solution), hypertonic saline or colloid."
+        },
+        {
+            "id": 19,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A The simplest and most commonly used crystalloid is Ringer's lactate.",
+                "B Hypertonic saline produces an excess of intracellular water shifting to the extracellular space.",
+                "C Human albumin solution is a colloid that reduces protein leak out of cells, thereby helping to reduce oedema.",
+                "D The Parkland formula is the most widely used formula in the United Kingdom and calculates the fluid replacement in the first 24 hours.",
+                "E Using the Parkland formula, the fluid requirement in the first 24 hours for a man of 70 kg with an 18% TBSA burn is about 2,800 mL."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D"
+            ],
+            "explanation": "Ringer's lactate is the most commonly used, and cheap, burn crystalloid fluid, while albumin is a colloid increases the intravascular oncotic pressure. Hypertonic saline also reduces oedema by producing hyperosmolarity and hypernatraemia – this reduces the shift of intracellular water to the extracellular space. The Parkland formula calculates the fluid to be replaced in the first 24 hours, with half of this volume to be given in the first 8 hours: TBSA percentage × weight (kg) × 4 = volume (mL). For a 70 kg patient with a 16% TBSA burn, the fluids required in the first 24 hours would be about 5040 mL (70 x 18 x 4)."
+        },
+        {
+            "id": 20,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A In resuscitation, a urine output of 0.5 mL/kg body weight per hour does not mean that the rate of infusion should be altered.",
+                "B In resuscitation, a urine output of 1 mL/kg body weight per hour indicates the fluid rate infusion is too low.",
+                "C In resuscitation, hypoperfusion is recognised by cool extremities.",
+                "D Urine output in excess of 2 mL/kg body weight per hour is associated with a low haematocrit.",
+                "E In large burns, monitoring tissue perfusion by a central line may be required even though there is increased infection risk."
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Adequacy of fluid replacement can be assessed from measuring urine output, haematocrit and clinical status. For adults, a urine output of 0.5–1.0 mL/kg body weight per hour is normal. If it is lower than this and the haematocrit is higher than normal, more fluid should be given – there may be signs of restlessness, tachycardia and cool extremities. It is important that patients are not overresuscitated, and a urine output in excess of 2 mL/kg per hour means the rate of infusion should be reduced. Care should be taken in patients with acute or chronic cardiac problems, and the use of a central line should be considered even though there might be an increased risk of introducing infection."
+        },
+        {
+            "id": 21,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Escharotomy is not indicated for circum-ferential burns to the chest.",
+                "B Significant blood loss is not a feature to be considered when escharotomy is contemplated.",
+                "C Damage to major nerves can result by placing incorrect escharotomy incisions.",
+                "D Escharotomy of the hand and fingers is best done outside of a main operating theatre.",
+                "E In the lower limb, for escharotomy, the incision should be anterior to the ankle medially."
+            ],
+            "answer": [
+                "C"
+            ],
+            "explanation": "Escharotomy is indicated for circumferential burns of limbs or trunk – deep dermal or greater. A tourniquet effect occurs due to the increasing pressure and swelling that result. This procedure should be done early to aid respiration and prevent limb ischaemia, and can be associated with a significant blood loss. Adequate blood should be available for transfusion. Care should be taken in performing an escharotomy to prevent damage to major structures, including nerves. In the lower limb, it is also important to make the incision posterior to the ankle to prevent damage to the saphenous vein."
+        },
+        {
+            "id": 22,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Superficial burns can be treated with simple dressings such as Vaseline gauze.",
+                "B Deep dermal burns should not be irrigated with saline since this will lead to burn contractures.",
+                "C Hydrocolloid dressings such as Duoderm can be left on for 14 days.",
+                "D Silver sulphadiazine (1%) can be used effectively as a broad spectrum-antibiotic but not for methicillin-resistant Staphylococcus aureus (MRSA).",
+                "E An optimal healing environment can make a difference to the outcome in borderline-depth burns."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "Superficial burns can be dressed or left exposed. Most heal irrespective of the dressing unless they are contaminated or become infected. All burns need to be irrigated with saline and debrided, if appropriate. Irrigation of a burn does not lead to burn contractures. Vaseline gauze is a commonly used dressing. Duoderm, a colloid dressing, is useful in mixed-depth burns but should be changed every 3 to 5 days. Silver sulphadiazine (1%) is effective in cases of MRSA. It is important to remember that the optimal healing environment will provide the best chance of healing quickly and well, especially when the depth is mixed or uncertain."
+        },
+        {
+            "id": 23,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Biological dressings and synthetic ones such as Biobrane do not need to be changed and are useful in deep- and mixed-depth burns.",
+                "B Amniotic membrane is an accepted treatment modality for superficial burns.",
+                "C Mepitel is a nonpermeable form of dressing.",
+                "D Honey or boiled potato peel are unusual dressings for superficial burns but can be effective.",
+                "E Pseudomonas aeruginosa is not treatable by 1% silver sulphadiazine cream."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "Biobrane and amnion can be used for dressings for superficial but not deep dermal or full-thickness burns. Honey or banana has also been used around the world. Mepitel is a permeable fenestrated silicone sheet that can also be used. Silver sulphadiazine 1% is effective against Pseudomonas infection."
+        },
+        {
+            "id": 24,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Paracetamol is useful in small, superficial burns.",
+                "B For large burns >10% TBSA, intramuscular (IM) injections of opiates are best.",
+                "C Removing the burn tissue and achieving healing reduce pain and are also effective in stopping the catabolic drive.",
+                "D In adults with >15% TBSA burns, extra feeding is indicated.",
+                "E The greatest nitrogen losses in burns occurs between days 14 and 21."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D"
+            ],
+            "explanation": "Analgesia is a vital part of burn management. Oral paracetamol is useful in small burns, especially if they are superficial. Intravenous opiates are indicated for larger burns – not IM as absorption is uncontrolled and dangerous. Administration of this and other agents, such as general anaesthesia, ketamine, or midazolam, might require an anaesthetist. There are catabolic changes as long as the burn wound remains unhealed, and rapid excision of the burn and stable wound coverage are the crucial factors in reversing this. Extra feeding must be given, and this should be by nasogastric tube in burns covering >15% TBSA; 20% of kilocalories should be provided by proteins. The greatest nitrogen losses occur between days 5 and 10 (Figure 30.4)."
+        },
+        {
+            "id": 25,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Infection control requires attention to hand washing and cross-contamination prevention.",
+                "B A rise or fall in white cell count is a sign of infection.",
+                "C Swabs taken from the burn wound normally do not grow any flora.",
+                "D Antibiotics given should be ideally based on cultures and following discussion with a microbiologist.",
+                "E Catheter tips are a possible source of an infection."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Control of infection begins with policies on hand washing and other cross-contamination prevention measures. A rise in white blood cell count, thrombocytosis and an increase in catabolism are warning signs in the development of infection. Swabs taken from the burn wound and sputum can help in establishing flora. The advice of a bacteriologist is of great importance in the decision on antibiotics. Catheter tips can be a source of infection."
+        },
+        {
+            "id": 26,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding allied therapy in burn patients are true?",
+            "options": [
+                "A Success or failure of physical and psychological care of the burn patient is dependent on intensive nursing and physiotherapy management.",
+                "B Physiotherapy can be best done after 2 to 3 weeks.",
+                "C Post-traumatic stress disorder can occur as a result of burns.",
+                "D Psychological help may be required for relatives of the burned patient.",
+                "E Elevation is of little use in hand burns."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D"
+            ],
+            "explanation": "Intensive nursing, physiotherapy and psychological management of a burned patient are of importance. Psychological support might help the relatives and prevent post-traumatic stress. Physiotherapy should be started early, and in the case of hand burns this should be on day 1 and reinforced daily. All burns of the hands cause swelling, and elevation and splintage will improve the outcome."
+        },
+        {
+            "id": 27,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Blisters should not be debrided.",
+                "B Initial cleaning of a burn wound with chlorhexidine solution is contraindicated.",
+                "C If a burn has not healed within 3 weeks, then skin grafting may be required.",
+                "D Burn of indeterminate depth should be dressed appropriately and reassessed after 2 weeks.",
+                "E Deep dermal burns may require burns tangential shaving and split-skin grafting."
+            ],
+            "answer": [
+                "C",
+                "E"
+            ],
+            "explanation": "Blisters can be debrided in a clean and controlled setting in a burn unit before application of an appropriate dressing. Initial cleaning of a burn wound can be undertaken with chlorhexidine, betadine, or saline. If a burn has not healed within 3 weeks, then further debridement and skin grafting may be indicated. All burns of indeterminate depth should be reassessed every 48–72 hours. Deep dermal or full-thickness burns may need tangential shaving and split-skin grafting."
+        },
+        {
+            "id": 28,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding surgical management of burns are true?",
+            "options": [
+                "A The anaesthetist is of great assistance and essential in the management of a major burn.",
+                "B Blood loss is not a feature of surgery in major burns.",
+                "C Blood loss may be reduced by application of a skin graft.",
+                "D A core temperature below 36°C may affect blood clotting.",
+                "E Synthetic dermis, including Integra or homografts, may provide temporary stable cover following excision of larger burns."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "An anaesthetist must be available for dressing or debridement of a major burn. As blood loss can be a feature of large burn debridement, facilities for blood transfusion and blood must be available. The application of limb tourniquet or topical or subcutaneous adrenaline solution – diluted 1:500,000 – will help to control or reduce bleeding. Blood-clotting irregularities can occur when the core temperature of the patient falls below 36°C; thus, the operating room must be kept warm. The use of Integra or homograft can be a useful temporary way of dressing a large burn that has been excised."
+        },
+        {
+            "id": 29,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Physiotherapy and splintage are important in maintaining range of movement and reducing joint contracture.",
+                "B It is not necessary to splint the hand after skin grafting.",
+                "C Supervised movement by physiotherapists under direct vision of any affected joints should begin after about two weeks.",
+                "D Escharotomy of the circumferential burn of the upper trunk should help respiratory function.",
+                "E Early care must be taken when eyelids are burned."
+            ],
+            "answer": [
+                "A",
+                "D",
+                "E"
+            ],
+            "explanation": "Physiotherapy and splintage both help considerably in preventing joint contractures. A hand splint is used in hands treated by split-skin grafts. Supervised physiotherapy for any affected joints should occur on day 1 so that early recovery can be aided. In full-thickness burns or deep dermal circumferential burns of the upper trunk, escharotomy will help to improve respiration. It is important to provide early care, including surgery if necessary, if eyelids are burned."
+        },
+        {
+            "id": 30,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Early surgery is indicated in the hands and axilla.",
+                "B Contractures are best treated with split-skin grafts.",
+                "C A Z-plasty is a useful technique for reconstruction of areas with burn scarring causing restricted movement.",
+                "D Tissue expansion is useful in treating alopecia caused by a burn.",
+                "E Local flap may be indicated if the recipient site has got poor blood supply."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Early excision and grafting are indicated in burns of the axilla and hands. Contractures are usually best treated by full-thickness skin grafts. If full-thickness skin grafting is not appropriate or possible, then a Z-plasty is a useful technique to treat scar contractures. Tissue expansion may be useful in treating alopecia of the scalp caused by burns. Full-thickness grafts are useful in situations where the blood supply is good in the recipient site; and local or free flaps are useful if the blood supply to the recipient site is poor or absent (since a flap brings its own blood supply)."
+        },
+        {
+            "id": 31,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding scar management of burns are true?",
+            "options": [
+                "A Hypertrophy of a burn scar can be treated by the use of pressure garments worn for a month.",
+                "B Intralesional steroid injection or silicon patches may be useful in small areas of burn scar hypertrophy.",
+                "C Pharmacological treatment of itchy burn scars is not important.",
+                "D Use of Integra to resurface a healed full-thickness burn scar can improve scar quality.",
+                "E Flamazine cream should not be used as a topical agent in pregnant women or nursing mothers."
+            ],
+            "answer": [
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Pressure garments may be effective in reducing burn scar hypertrophy but require to be fitted and worn for at least 6 months and would be ineffective if only used for 1 month. Intralesional injection of steroid or application of a silicon patch or sheet might be useful for smaller hypertrophic areas. It is important to treat any itchy areas with appropriate pharmacological agents, as a patient scratching the area may cause distress and increase the chance of introducing infection and delayed healing. The use of Integra may improve the quality of burn scars. Flamazine cream, although useful, should not be used in pregnant women or nursing mothers."
+        },
+        {
+            "id": 32,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Low-tension electrical burn injury is most likely to be found in accidents in the home.",
+                "B Underlying heart muscle damage is likely in low-tension injuries.",
+                "C Large amounts of damage to subcutaneous tissue and muscle are associated with high-tension electrical burns.",
+                "D Myoglobinuria is a serious complication of low-tension burns.",
+                "E Severe alkalosis is common in large electrical burns."
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "explanation": "Low-tension electrical burns are associated with electrical burns in the home due to the fact that appliances are ‘low tension'. Heart damage is not a feature of low-tension burns but can be in high-tension burns, which are associated with large amounts of subcutaneous and muscle damage, resulting in myoglobinuria and renal damage. Acidosis is more common in large electrical burns and may require treatment with boluses of bicarbonate."
+        },
+        {
+            "id": 33,
+            "question_type": "msq",
+            "question": "Which of the following statements are true concerning electrical burns:",
+            "options": [
+                "A Superficial burns are more common than deep burns in low-voltage electrical injuries.",
+                "B All patients with electrical burns require cardiac monitoring for at least 24 hours.",
+                "C Renal failure in electrical burns is due to rhabdomyolysis.",
+                "D A urinary output of 0.5 mL/kg/hour should be aimed for in adults with myoglobinuria secondary to electrical burns.",
+                "E Mannitol is contraindicated in electrical burns."
+            ],
+            "answer": [
+                "C"
+            ],
+            "explanation": "The energy imparted from low-voltage electrical injuries usually gives a small entry and exit wound but may cause deep dermal or full-thickness burns. Cardiac damage and myocardial arrhythmias can arise if the alternating current crosses the heart. Cardiac monitoring is indicated if cardiac injury is diagnosed; however, cardiac monitoring is not indicated if the echocardiography is normal and there was no history of loss of consciousness. Acute renal failure can arise from the myoglobin released due to rhabdomyolysis. A urinary catheter should be inserted in all patients with severe electrical burns, once the life-threatening injuries have been addressed and the patient adequately resuscitated. The presence of haemochromogens leads to a dark-coloured urine. Fluid administration should be increased to ensure a urinary output of at least 1–1.5 mL/kg/hour in an adult. If the pigment does not clear with increased fluid administration, 25 g of mannitol should be administered immediately and 12.5 g of mannitol should be added to subsequent litres of fluid to maintain diuresis."
+        },
+        {
+            "id": 34,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Copious water lavage is the best first-aid measure for phosphorus burns.",
+                "B Elemental sodium burns should not be treated by water lavage.",
+                "C Damage from alkalis is usually less than with acids.",
+                "D The onset of pain may be delayed in alkali burns.",
+                "E Local radiation burns causing ulceration need excision and split-skin graft repair."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "Chemical burns can be classified broadly into acids, alkalis and other specific agents including petroleum products, nitrates, phosphorous and elemental metals. With phosphorus and elemental sodium burns, washing with copious water is contraindicated. Alkali burns are generally deeper than acid burns and act for a longer time. Acid burns are generally more painful than alkali burns; however, in alkali burns, the onset of pain is delayed, which often postpones first aid and leads to more tissue damage. Radiation burns cause tissue damage associated with blood vessel necrosis – split-skin grafts will not take on avascular tissue, so vascularised flaps or free flap reconstructions are required."
+        },
+        {
+            "id": 35,
+            "question_type": "msq",
+            "question": "The following statements are true regarding chemical burns:",
+            "options": [
+                "A Acid burns require longer irrigation than alkali burns.",
+                "B Dry powder should be brushed away before irrigation with water.",
+                "C Neutralising agents should be the first line of treatment in cement burns.",
+                "D Hydrofluoric acid burns are associated with hypercalcaemia.",
+                "E Systemic sodium chloride may be required in the treatment of burns due to hydrofluoric acid."
+            ],
+            "answer": [
+                "B"
+            ],
+            "explanation": "The local and systemic effects of chemical burns are influenced by the duration of contact, concentration of the chemical and amount of the agent. Both acid and alkali burns should be flushed away immediately with large amounts of water for at least 20 to 30 minutes. Alkali burns require longer irritation than acid burns. If dry powder is still present on the skin, it should be brushed away before irrigation with water. In cement burns, neutralizing agents have no advantage over water lavage, because reaction with the neutralizing agent might itself produce heat and cause further tissue damage. Hydrofluoric acid burns are associated with hypocalcaemia and, following copious lavage with water, treatment with topical calcium gluconate gel (10%) is indicated. Hydrofluoric acid penetrates tissue deeply and even small burns can cause fatal systemic toxicity. Systemic calcium may be required in some patients, as hydrofluoric acid sequesters calcium with the burn."
+        },
+        {
+            "id": 36,
+            "question_type": "msq",
+            "question": "Which of the following statements are true regarding 'trench foot':",
+            "options": [
+                "A 'Trench foot' is caused by acute exposure to temperatures between 14°C and -8°C.",
+                "B 'Trench foot' is due to microvascular endothelial damage and vascular occlusion.",
+                "C 'Trench foot' appears black even in the absence of deeper tissue destruction.",
+                "D 'Trench foot' is characterized by pruritic, red/purple lesions.",
+                "E 'Trench foot' can lead to gangrene."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Trench foot or cold immersion foot (or hand) is caused due to a nonfreezing injury of the hands or feet. This is typically seen in soldiers, sailors, or fishermen, who are chronically exposed to wet conditions and temperatures just above freezing, i.e., 1.6°C to 10°C (35°F to 50°F). It occurs due to microvascular endothelial damage, stasis and vascular occlusion. Although the entire foot may appear black, deep tissue destruction may not be present. An alternating arterial vasospasm and vasodilatation occurs, with the affected tissue first cold and anaesthetic, progressing to hyperaemia in 24 to 48 hours. This leads to an intense painful burning and dysaesthesia, as well as tissue damage characterized by oedema, blistering, redness, ecchymosis and ulcerations. Pruritic, red-purple skin lesions (papules, macules, plaques, or nodules) are a feature of chilblain (also known as pernio) and not of trench foot. Complications of trench foot include local infection, cellulitis, lymphagitis and gangrene. Careful protection from further exposure and proper attention to foot hygiene can prevent the occurrence of most such injuries."
+        }
+    ]
+}

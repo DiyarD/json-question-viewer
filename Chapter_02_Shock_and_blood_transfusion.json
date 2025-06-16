@@ -1,0 +1,148 @@
+{
+    "chapter_name": "Shock and blood transfusion",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true in the pathophysiology of shock?",
+            "options": [
+                "A In shock, cells switch from aerobic to anaerobic metabolism.",
+                "B The product of anaerobic respiration is carbon dioxide, resulting in respiratory acidosis.",
+                "C Hypoxia and acidosis generate oxygen free radicals and cytokine release.",
+                "D Renal ischaemia leads to decreased glo-merular filtration (GFR), thus activating the renin-aldosterone-angiotensin system (RAAS).",
+                "E Once shock has been treated and circulation restored, the physiological disturbances return to normal."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D"
+            ],
+            "explanation": "Shock is a clinical state of inadequate tissue perfusion where there is reduced delivery of oxygen and glucose. The former leads to anaerobic metabolism. As glucose is reduced, anaerobic respiration stops with failure of the sodium/potassium pump in the cell membrane thus causing release of cell contents and potassium into the blood stream. Hypoxia and metabolic acidosis produces oxygen free radicals and cytokine release, causing damage to the capillary endothelium and resulting in tissue oedema, which worsens cellular hypoxia. At the same time the stress response is activated, causing renal ischaemia. This triggers the RAAS, helping sodium and water reabsorption by the kidney. The product of anaerobic respiration is lactic acid and not carbon dioxide. This causes lactic acidosis, resulting in metabolic and not respiratory acidosis. The metabolic acidosis and increased sympathetic activity results in tachypnoea and increased excretion of carbon dioxide, thus producing a compensatory respiratory alkalosis. Once circulation is restored, further injury can occur from the stagnant potassium and lactic acid being flushed back into the circulation. This leads to myocardial depression, vascular dilatation and endothelial injury to lungs and kidneys. The process is called ischaemia-reperfusion injury, a classical example being compartment syndrome."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "2. Which of the following statement/s are false?",
+            "options": [
+                "A In compensated shock, blood flow is main-tained to the brain, lungs and kidneys.",
+                "B Loss of 15% of circulating blood volume will overload the body's compensatory mechanisms.",
+                "C Capillary refill time is an accurate clinical parameter in all types of shock.",
+                "D Hypotension is an early sign of shock.",
+                "E Prolonged systemic ischaemia and reperfusion injury contribute to multi-organ failure."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "With loss of 15% of blood volume, the body will compensate with its normal mechanisms by reducing the blood flow to the skin (hence, cold skin in shock), muscles and gastrointestinal tract. Capillary refill time is not an accurate clinical finding in shock as this may not be affected in the early stages; moreover, in septic shock the peripheries are warm with a brisk capillary refill. Similarly, hypotension is the last sign to be affected in shock. Fit and young patients maintain their blood pressure by increasing the stroke volume and peripheral vasoconstriction. Elderly hypertensive patients may show a misleading 'normal blood pressure' in the presence of shock just as patients on beta blockers may fail to show tachycardia. In compensated shock, adequate preload is maintained to the vital organs such as the brain, lungs, heart and kidneys. This perfusion in the presence of adversity is also helped by the phenomenon of autoregulation in the brain, heart and kidneys. Prolonged ischaemia from profound shock leads to cell death, resulting in myocardial depression that is unresponsive to volume expansion or inotropes. This, coupled with reperfusion injury, contributes to multiple organ dysfunction syndrome, a condition defined by the failure of two or more organs."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. Which of the following statements are true?",
+            "options": [
+                "A In a patient who is shocked from a leaking abdominal aortic aneurysm or a bleeding peptic ulcer, time should not be wasted in instituting high-volume fluid resuscitation.",
+                "B In a patient with intestinal obstruction with hypovolaemic shock, time should be spent in optimising with adequate fluid resuscitation.",
+                "C In hypovolaemia, inotropes must be started as soon as possible as first-line therapy.",
+                "D The ideal fluid is colloid in hypovolaemia.",
+                "E The shock status is best determined by an initial fluid challenge."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "For a patient who is losing blood from a leaking abdominal aortic aneurysm (AAA) or upper gastrointestinal haemorrhage, trying to resuscitate with large amounts of fluid would be counterproductive and a waste of valuable time. Increasing the preload would make the patient lose all the infused fluid. Moreover, it would be dangerous, because it would cause hypothermia and dilute coagulation factors increasing the chances of disseminated intravascular coagulation (DIC). The 'leaking tap must be turned off' as soon as possible by surgery. On the other hand, a patient with intestinal obstruction will have lost a large amount of fluid as a result of sequestration into the third space. Time should be spent in optimising this patient with intravenous fluids, the adequacy of resuscitation being monitored by an indwelling urinary catheter and central venous pressure (CVP) line. A good method of assessing the shock status is a 'fluid challenge' where the response of the patient is gauged by infusing 300-500 ml of crystalloid over 15–30 minutes. The response is gauged by the patient's blood pressure, heart rate, CVP and urinary output. Inotrope administration is not the first-line treatment in hypovolaemia. It should never be used until confirming the presence of an adequate preload. An inotrope in the presence of inadequate preload will reduce diastolic filling and coronary perfusion with disastrous consequences. Although controversy continues with regard to the ideal intravenous fluid, it is customary to use crystalloids and not colloids. There is less benefit from the use of colloids, which are more expensive and have worse side effects."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "4. Which of the following statements are true?",
+            "options": [
+                "A CVP monitoring is a dynamic reflection on fluid challenge.",
+                "B Measurement of cardiac output (CO) helps in distinguishing the type of shock.",
+                "C Mixed venous oxygen saturation is an indicator of systemic perfusion.",
+                "D Pulmonary artery wedge pressure (PAWP) measurement should be insti-tuted in all shocked patients in the ICU.",
+                "E It is mandatory to perform Allen's test prior to insertion of an arterial line."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Monitoring is an integral part of resuscitation. With CVP, one reading should never be relied upon. It is a dynamic measurement that assesses response to fluid resuscitation. The normal response will be a rise in CVP of 2–5 cm H₂O, indicating a positive response to a fluid challenge. Absence of response indicates need for more fluid, whereas a sustained rise denotes fluid overload or cardiac failure. Measurement of CO helps in distinguishing hypovolaemic, cardiogenic and distributive shock, particularly when they co-exist. This information is obtained by real-time monitoring by Doppler ultrasound and pulse waveform analysis without resorting to PAWP. Mixed venous oxygen saturation is obtained from blood from the right atrium with an accurately placed CVP line. Normal levels are 50% to 70% and are an indicator of oxygen delivery and extraction by the tissues. Levels below 50% are a reflection of insufficient oxygen delivery or increased oxygen extraction by the cells – a situation that occurs in hypovolaemic or cardiogenic shock. High venous saturation is seen in distributive shock, as in sepsis. When aggressive invasive monitoring is necessary, an arterial line for continuous blood pressure monitoring is advisable. Before inserting such a line, Allen's test is mandatory to make sure that the collateral circulation in the palm between the radial and ulnar arteries is efficient. PAWP measurement need not be instituted in all shocked patients. It has largely been superseded by more sophisticated and less invasive methods (see previous section), because insertion of a Swan-Ganz catheter can produce serious complications. Besides the monitoring tools previously mentioned, use of routine clinical parameters of pulse, blood pressure, urine output and pulse oximetry should be routine."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "5. The following statements are true except:",
+            "options": [
+                "A Haemorrhage with hypovolaemic shock results in a state of coagulopathy.",
+                "B Haemoglobin level is an accurate indicator of the degree of haemorrhage.",
+                "C The acid-base disturbance is metabolic acidosis.",
+                "D Permissive hypotension is a strategy to be followed until haemorrhage is controlled.",
+                "E Haemorrhagic shock can be classified into three groups – mild, moderate and severe."
+            ],
+            "answer": [
+                "B",
+                "E"
+            ],
+            "explanation": "The level of haemoglobin is not an accurate indicator of the degree of haemorrhage, as it represents a concentration and not an absolute amount. Immediately after blood loss and in the presence of continued blood loss, the haemoglobin level is unchanged as whole blood is lost. The haemoglobin level will fall after some time when there is a fluid shift from the intracellular and interstitial spaces into the vascular compartment. Haemorrhagic shock is classified into four groups: 1 to 4 depending upon the estimated percentage of the total blood volume lost: 1 = <15%, 2 = 5%-30%, 3 = 30%-40% and 4 =>40%. Hypovolaemic shock from haemorrhage results in acute traumatic coagulopathy (ATC) along with acidosis and hypothermia. A quarter of the patients develop ATC, which is associated with a four-fold increase in mortality. A multitude of factors cause this problem, which is explained in Figure 2.1. The acid-base disturbance is metabolic acidosis. This is because ischaemia results in anaerobic metabolism with resultant lactic acidosis reflected in the base deficit. Patients who are actively bleeding, such as a leaking abdominal aortic aneurysm or acute upper or lower gastrointestinal tract haemorrhage, need immediate arrest of their haemorrhage and not fluid resuscitation and blood transfusion. Permissive hypotension is the key, as volume expansion will only result in further haemorrhage or dilutional coagulopathy, thus worsening the situation. Arrest of haemorrhage should be the immediate goal."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "6. Which of the following statements are true?",
+            "options": [
+                "A Blood group 'O' is regarded as universal donor.",
+                "B Blood group 'AB' is regarded as universal recipient.",
+                "C The vast majority of the population is Rhesus negative.",
+                "D In coagulopathy packed red blood cells should be transfused.",
+                "E Fresh frozen plasma (FFP) has a shelf life of 2 years."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "The red blood cells have agglutinogen (a sugar) on the outer coat. Blood group 'O' (46% of the population) is regarded as the universal donor because it has neither 'A' nor 'B' agglutinogen to provoke a reaction. Blood group A (42%) has agglutinogen A, group B (9%) has agglutinogen B and group AB (3%) has both agglutinogen A and B. Those belonging to blood group AB are universal recipients because they do not develop any agglutinins. The other sub-group in blood grouping is the Rhesus factor (rhesus D). The rhesus D is strongly antigenic and is present in 85% of the U.K. population, whilst the rest are rhesus negative. In coagulopathy, packed red blood cells have no role. Fresh frozen plasma (FFP) is used in prolonged prothrombin or partial thromboplastin time, cryoprecipitate is used when there is reduced fibrinogen and platelets are transfused in thrombocytopenia. The shelf life of FFP is 2 years."
+        },
+        {
+            "id": 7,
+            "question_type": "emq",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "A A 50-year-old man is undergoing partial hepatectomy for secondary metastasis. The operation proceeded smoothly for the first couple of hours, after which the surgical team noticed unusual bleeding in the form of oozing from all the wound sites. The patient has two intravenous cannula sites through one of which he is on his first unit of blood.",
+                    "B A fit 30-year-old woman while gardening suddenly became very short of breath, had intense itching with rash and complained of a painful red spot on her arm. She has been brought to the A&E department and is hypotensive, hypoxic with warm peripheries.",
+                    "C A fit 25-year-old man fell from a height of 40 feet at a building site. He has been brought in unconscious with a GCS of 13 and flaccid limbs. He has been immobilised in a spinal frame and has an intravenous line.",
+                    "D A 70-year-old man of ASA anaesthetic category 3, underwent an emergency closure of a perforated duodenal ulcer. The anaesthetic and operation were uneventful. On the first postoperative day, he complained of feeling very unwell with a systolic blood pressure of 80 mm Hg with no unusual signs in his abdomen; there was impaired conscious level and peripheral vasoconstriction.",
+                    "E A 60-year-old man of ASA 1 anaesthetic risk underwent a total gastrectomy for stomach cancer. While in the ITU, 12 hours postoperatively, his BP has fallen to 80 mm Hg systolic, he has not put out any urine over the past 3 hours and he is hypoxic with oxygen saturation of 92%.",
+                    "F A 60-year-old woman has been admitted as an emergency with a 4-day history of severe right upper quadrant pain, vomiting, jaundice and intense pruritus and is very toxic – high tempera-ture with rigors and hyperdynamic circulation.",
+                    "G A 35-year-old woman is due for a bilateral mastectomy. She has requested a bilateral breast reconstruction at the same time. However, she is a strict Jehovah's Witness and would under no circumstances have a heterologous blood transfusion."
+                ],
+                "choices": [
+                    "1 Anaphylactic shock",
+                    "2 Autologous blood transfusion",
+                    "3 Cardiogenic shock",
+                    "4 Hypovolaemic shock",
+                    "5 Mismatched blood transfusion",
+                    "6 Neurogenic shock",
+                    "7 Septic shock"
+                ]
+            },
+            "answer": {
+                "A": "5",
+                "B": "1",
+                "C": "6",
+                "D": "3",
+                "E": "4",
+                "F": "7",
+                "G": "2"
+            },
+            "explanation": "1. B Anaphylactic shock\nAnaphylactic shock, more common in patients with asthma and eczema, is an acute medical emergency that can follow insect bites, administration of drugs or vaccines and consumption of shellfish and many other foodstuffs (e.g., nuts). The patient presents with apprehension, urticaria, bronchospasm, respiratory distress, nausea, vomiting, diarrhea and signs such as laryngeal oedema, hypoxia, hypotension, shock and vasodilatation. In this type of shock the antigen combines with immunoglobulin E (Ig E) on the mast cells and basophils, releasing large amounts of histamine and SRS-A (slow-release-substance-anaphylaxis). These compounds cause the symptoms. The mortality is about 10%. In the acute stage, the patient should be made to lie down with elevation of the lower limbs. The airway should be free; the patient is given oxygen and venous access established with full monitoring; in severe hypoxia ventilation may be necessary. The patient is given the following: • 0.5 ml of 1 in 1000 adrenaline intramuscular (0.5 mg) to be repeated after 5 minutes if shock persists • Antihistamine (chlorphenamine/chlorpheniramine)10 mg by slow intravenous injection to be continued for 48 hours • Intravenous hydrocortisone 100 mg\n\n2. G Autologous blood transfusion\nAutologous blood transfusion in elective surgery is ideal for prevention of transfusion reactions and in those who refuse to receive heterologous transfusion. This can be achieved in one of the following three ways: • Preoperative Donation: A patient with a preoperative Hb of 11g/dL can donate once weekly for three weeks before operation; the patient is put on iron and recombinant human erythropoietin. • Acute Normovolaemic Haemodilution: In the anaesthetic room under anaesthesia, three to four units of blood are withdrawn and replaced with crystalloid or colloid. The whole blood is reinfused at the end of the operation. • Perioperative Blood Salvage: At the time of surgery lost blood is collected in a cell-saver that washes and collects red blood cells, which are then reinfused during or after the operation. Transfusion trigger: This is the threshold at which blood transfusion is indicated. A haemoglobin level of less than 10 g/dL used to be the reason for transfusion; this is no longer the case. A level of 6 to 7 g/dL is regarded as acceptable in patients who are not actively bleeding and in the absence of risk factors. In the young, healthy patient undergoing elective surgery, moderate haemodilution is tolerated. A balance has to be struck between the risks of transfusion, such as transmission of infection and immunosuppression against the lower oxygen-carrying capacity of the blood interfering with adequate tissue oxygenation. It is accepted when haemoglobin level (g/dL) is the following: • 8 or more, there is no indication for transfusion • 6–8, transfusion is unlikely to be beneficial in the absence of bleeding • < 6, will benefit from transfusion\n\n3. D Cardiogenic shock\nCardiogenic shock indicates a state of inadequate circulatory perfusion caused by cardiac dysfunction. The causes are the following: • Myocardial infarction (MI) • Cardiac arrhythmias • Tension pneumothorax • Cardiac tamponade • Vena caval obstruction • Dissecting aneurysm This patient will have ECG changes: ST elevation in precordial leads, new wide or deep Q waves and T wave inversion. Blood investigations such as creatine kinase (CK), alanine aminotransferase (ALT), aspartate aminotransferase (AST), lactic dehydrogenase and troponin T assay are carried out and the patient transferred to the coronary care unit (CCU). In the CCU, oxygen therapy will be started along with aspirin, nitrates, ACE inhibitors, opiates and intravenous beta blockers. Depending upon the unit's protocol, reperfusion strategy would be considered and the patient closely monitored with a CVP and sometimes with a pulmonary artery flotation catheter (PAFC). The complications are the following: • Cardiac arrest (ventricular fibrillation, VF) • Pump failure • Arrhythmias • Ventricular septal defect (VSD) • Cardiac rupture • Pericardial tamponade • Ventricular aneurysm • Mitral regurgitation The risk factors in postoperative myocardial infarction are the following: • Previous MI • Unstable angina • Disabling angina • Silent ischaemia • Hypertension The risk of perioperative MI in the general surgical population is 0.07%, whereas if surgery is performed within 3 months of a MI, the risk rises to 25%.\n\n4. E Hypovolaemic shock\nHypovolaemic shock arises from a reduction in the volume of circulating fluid. This can be due to inadequate preload or decreased contractility of the heart. Inadequate preload can be the result of the following: • Absolute reduction of fluid as in haemorrhage • Severe vomiting and diarrhoea where fluid lass has not been adequately replaced • Relative reduction of fluid from vasodilatation as in spinal shock • Mechanical interference as in tension pneumothorax and pulmonary embolism Decreased contractility can be the result of the following: • Ischaemia • Hypoxia • Acidosis • Sepsis • Electrolyte imbalance • Fluid overload • Cardiac tamponade In the management, careful monitoring is essential, particularly in the over-60s, to prevent overload. A close watch is maintained on the CVP, urinary output and clinical parameters such as oxygen saturation, capillary filling, blood pressure and heart rate. The pathophysiology of hypovolaemic shock is shown in Figure 2.2. In the immediate postoperative period, hypovolaemic shock should be presumed to be from postoperative bleeding unless otherwise proved. The treatment is surgical exploration to stop the bleeding. When the cause may be due to traumatic rupture of a solid intra-abdominal organ, such as the liver, kidney or spleen, and the patient is stable, a CT scan should be performed. If the diagnosis is confirmed, an angiogram may be carried out if arterial embolization is considered.\n\n5. A Mismatched blood transfusion\nAlthough rare, the complication of ABO-incompatibility is always due to human error. It arises from mistakes that can occur at various levels, such as in taking the blood, labelling the sample, collecting the wrong blood from the blood bank refrigerator and, finally, inadequate or hurried checking prior to transfusion. As soon as this serious error is suspected, transfusion should be stopped at once, all clerical checks made, the blood bank informed and surgery halted. Incompatible red blood cells react with the patient's own anti-A and anti-B antibodies. This results in complement activation, acute intravascular haemolysis and disseminated intravascular coagulation (DIC). Ultimately, acute renal failure will result. Therefore, preparation for renal support such as dialysis should be made as soon as possible. The complications of blood transfusion are in Table 2.1.\n\n6. C Neurogenic shock\nIn neurogenic shock (head or spinal injury) the cardiovascular response is sometimes referred to as distributive shock. Interruption of the thoracolumbar sympathetic outflow results in loss of the sympathetic drive to the heart. This causes hypotension from loss of vasomotor tone with warm extremities, bradycardia, flaccidity and loss of reflexes. The sympathetic tone takes 3 to 7 days to return to normal. Fractures of the atlas (C1) account for 5% of all cervical spine (c-spine) injuries, and 40% of these are associated with a concomitant injury of the axis (C2). Because of the nature of the vertebra, which is very thin (because it is devoid of a body that is incorporated into the axis as the odontoid process), the most common fracture is a burst fracture (Jefferson fracture) caused by axial loading. Fractures of the axis account for 18% of all C-spine injuries, and 60% of these involve the odontoid process. Fracture occurs in the posterior element called hangman's fracture and is the most dangerous, occurring in 20%. Confirmation is by open-mouth lateral x-ray followed by CT scan. The mechanism of injury is hyperextension. The treatment of C1 injury is a halo jacket for 3 months; in C2 injury the treatment is sterno-occipito-mandibular immobiliser (SOMI) with surgical fixation when indicated. The immediate management is to identify and exclude life-threatening problems. Whilst intravenous access is obtained, temptation for overzealous administration of intravenous fluids in view of hypotension should be resisted to prevent causing pulmonary oedema; vasopressors may be indicated. Methylprednisolone is administered for 24 hours. Once resuscitated and stabilised, the patient is referred to the spinal injuries centre.\n\n7. F Septic shock\nIn septic shock, a source of sepsis is the primary cause. This may be postoperative or from a septic focus in the body – gastrointestinal, biliary, or genitourinary tracts. This may follow on from systemic inflammatory response syndrome (SIRS). The systemic changes in SIRS are loss of microvascular integrity, increased vascular permeability, systemic vasodilatation, depressed myocardial contractility, poor oxygen delivery and increased microvascular clotting. This is also a distributive type of shock with vascular dilatation, hypotension, low systemic vascular resistance, inadequate afterload and a high cardiac output – hyperdynamic circulation. These features are the result of the release of endotoxins with activation of the cellular and humoral components of the immune system. If not promptly treated, the patient deteriorates due to hypovolaemia from fluid leaking into the interstitial spaces; this causes myocardial ischaemia. The management is resuscitation, identification of the source of sepsis and definitive treatment. The patient is given oxygen, intravenous access is obtained, blood samples are taken for culture, haematological and biochemical investigations are performed and the patient is started on broad-spectrum antibiotics. The distributive nature of shock requires a CVP line besides other methods of monitoring, and the patient is cared for in the high-dependency unit. A CT scan identifies the source of sepsis. The definitive treatment of removing the cause is carried out either surgically or by the interventional radiologist depending upon the cause."
+        }
+    ]
+}

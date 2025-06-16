@@ -1,0 +1,154 @@
+{
+    "chapter_name": "55 The thorax",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "All of the following statements are true except:",
+            "options": [
+                "A The lungs are derivatives of the primitive foregut.",
+                "B Lymphatic drainage of the lungs to numbered lymph node stations is important in lung cancer staging.",
+                "C Bronchial arteries arise directly from the thoracic aorta to provide systemic blood supply to the trachea and bronchi.",
+                "D Anatomical differences between the right and left main bronchi favour the inhalation of foreign bodies into the right.",
+                "E The left lung has more lobes and segments than the right lung."
+            ],
+            "answer": "E",
+            "explanation": "The left lung is divided into an upper lobe and lower lobe by the oblique fissure. There are five segments in the upper lobe and four in the lower lobe. Each segment is an anatomically defined unit with named bronchi, pulmonary artery branch and pulmonary vein tributary.\nThe right lung, on the other hand, has three lobes. An oblique fissure separates the upper and lower lobes. The upper lobe is further separated from a middle lobe by a horizontal fissure. The right lung also has the same number of segmental divisions distributed as follows: three in the upper, two in the middle and four in the lower lobe."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "Which of the following statements is false?",
+            "options": [
+                "A Pulmonary function tests assess the functional capacity and severity of pulmonary disease, and help to predict response to treatment.",
+                "B The peak expiratory flow rate is reliable and reproducible but is effort-dependent.",
+                "C Forced expiratory volume in 1 second (FEV1) might be normal in people with poor gas exchange.",
+                "D The gas transfer factor is a test of the integrity of the lung's alveolar-capillary surface area for gas exchange and not affected by haemoglobin level.",
+                "E Spirometry readings improve with bronchodilators for obstructive lung diseases, but no change is observed for restrictive lung diseases."
+            ],
+            "answer": "D",
+            "explanation": "The gas transfer factor, also called ‘diffusion capacity' (DLCO) is a measure of the overall ability of the lungs to transfer gases from the alveoli to blood. It is a test of the integrity of the alveolar-capillary surface area of the lungs for gas exchange and is affected by the patient's haemoglobin level. The test involves the inhalation of a test gas that contains a small amount of carbon monoxide. The uptake of carbon monoxide into blood is affected by the haemoglobin concentration. Low haemoglobin concentration as is seen in anaemia will reduce the uptake (transfer) of carbon monoxide, while high haemoglobin levels as occur in polycythaemia vera will increase the transfer factor."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "Which one of these is not an indication for surgical intervention in pneumothorax?",
+            "options": [
+                "A Bilateral spontaneous pneumothoraces.",
+                "B First ipsilateral spontaneous pneumothorax in a young, tall male.",
+                "C First contralateral spontaneous pneumothorax.",
+                "D Pneumothorax in professionals at risk like divers and pilots.",
+                "E Persistent air leak following drain insertion or failure of the lung to re-expand."
+            ],
+            "answer": "B",
+            "explanation": "The first episode of an ipsilateral spontaneous pneumothorax is not an indication for surgical intervention. Current management recommendation is the insertion of small-bore Seldinger-type chest drains, ideally under ultrasound guidance.\nOnly about one-third of these patients have a recurrence. However, patients who have a second episode of spontaneous pneumothorax should have a surgical intervention, as one-half will have a recurrence."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Tension pneumothorax can cause haemodynamic compromise.",
+                "B Pleural effusions due to cardiac failure, renal failure, hepatic disease, inflammatory disease and malignancy have different protein content.",
+                "C Infection of the pleural space (empyema) results from iatrogenic and noniatrogenic causes.",
+                "D Chest drains are no longer critical to the management of chest disease.",
+                "E Video-assisted thoracoscopic surgery (VATS) plays a major role in the management of pleural space diseases."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "In tension pneumothorax, positive pressure builds up in the hemithorax as air accumulates through a breach in the visceral pleura, which acts like a valve allowing a unidirectional flow of air out of the lung. The high intrapleural pressure results in compression of the ipsilateral lung, flattening of the hemidiaphragm, mediastinal distortion and shift and impairment of venous return to the heart and hence a reduction of cardiac output.\nPleural effusion results from interference with either the mechanisms of pleural fluid production by capillaries of parietal pleura or absorption by the capillaries of the visceral pleura. Depending on the protein concentration, pleural effusions are classified as transudates (less than 30 g/L) or exudates (30 g/L or more).\nIn cardiac failure, the pulmonary capillary pressure is elevated, leading to increased production of pleural effusion with low protein content.\nRenal and hepatic failures are associated with low plasma protein and intravascular oncotic pressure. The pleural effusion that results from reduced pleural fluid absorption is low in protein content. Inflammatory diseases increase pleural capillary permeability to cause the accumulation of fluid and protein. Malignancy obstructs the lymphatic system and causes a protein-rich pleural effusion.\nThe pleural cavity is sterile but the bronchial tree is not. A breech of the sterile barrier between the pleura and bronchial system on one hand (endogenous), and between the pleura and external environment (exogenous) on the other, increases the risk of empyema (infection within the pleural space). Iatrogenic introduction of bacteria into the pleural space can occur during aspiration of effusions, insertion of chest drains, thoracoscopy and thoracotomy. Traumatic haemothorax provides a favourable culture medium for infection. Endogenous spread can occur from pneumonia, bronchiectasis, tuberculosis, fungal infections and lung abscess.\nVideo-assisted thoracoscopic surgery (VATS) is a less invasive method for investigating and treating thoracic pathologies, including pleural diseases such as pneumothorax, pleural effusion and empyema. VAT plays a major role in the management of thoracic diseases.\nIntercostal chest drains are fundamental to the management of chest disease. The insertion of chest drains can be lifesaving, and they are used as sole therapeutic interventions or adjunctive to other thoracic procedures."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "All of the following are false except:",
+            "options": [
+                "A Repeated haemoptysis is always due to malignant lung tumour.",
+                "B Chest computed tomography (CT) scan is the most important investigation for repeated haemoptysis.",
+                "C Repeated haemoptysis should be investigated with chest x-ray and bronchoscopy.",
+                "D Patients with repeated haemoptysis should only be regular full blood count and be kept under close observation.",
+                "E Traumatic haemoptysis usually resolves spontaneously, so no investigation is necessary."
+            ],
+            "answer": "C",
+            "explanation": "Patients presenting with repeated haemoptysis should be investigated with a chest radiography and bronchoscopy, at the minimum. A detailed history is crucial to elucidate associated symptoms and signs of the underlying cause, which could be lung carcinoma, nonmalignant lung tumour or lung infections, or, indeed, disease conditions not affecting the lungs like mitral stenosis.\nThe findings of chest radiography and bronchoscopy will determine the need for and timing of a computed tomography scan of the chest."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "Which one of these statements is false?",
+            "options": [
+                "A Lifetime burden of cigarette smoking, quantified as 'pack-years', is the major risk factor for bronchial carcinoma.",
+                "B Compared with non-small cell cancer, small-cell lung cancer, formerly known as oat cell cancer, is less common, metastasises early and is less amenable to surgery.",
+                "C Finger clubbing and hypertrophic pulmonary osteoarthropathy are clinical features of advanced lung cancer and do not resolve after resection of primary lung cancer.",
+                "D The appropriate treatment strategy is dependent on tumour type, tumour stage and the general fitness and lung function of the patient.",
+                "E Haemorrhagic pleural effusion is a poor prognostic sign for primary lung cancer."
+            ],
+            "answer": "C",
+            "explanation": "Finger clubbing and hypertrophic pulmonary osteoarthropathy are clinical findings seen in some patients with primary lung cancer. The direct association with lung cancer is demonstrated by regression of these muscular and skeletal abnormalities when the cancer is resected."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "Which one of these statements is true?",
+            "options": [
+                "A Chest radiograph yields useful information about primary lung cancer.",
+                "B CT is only useful for guiding fine-needle aspiration (FNAC).",
+                "C Positron emission tomography (PET) has high specificity for bronchial carcinoma.",
+                "D Sputum cytology has a high sensitivity.",
+                "E Invasive procedures such as endobronchial ultrasound, endoscopic ultrasound, mediastinoscopy, mediastinotomy and thoracoscopy are not staging procedures."
+            ],
+            "answer": "A",
+            "explanation": "Most lung cancer lesions or their secondary effects are detected on chest radiograph. Pleural effusion, distal lung collapse or consolidation due to bronchial obstruction and raised hemidiaphragm due to invasion of phrenic nerve are some secondary effects of lung cancer seen on chest radiograph.\nCT is central to further characterisation of primary lung cancer with regard to site, tumour size (T stage), proximity to chest wall and mediastinal structures and mediastinal lymph node status (N stage). It also facilitates percutaneous biopsy for peripheral lesions.\nPositron emission tomography shows high uptake of fluorodeoxyglucose (FDG) by lesions with high metabolism, so in addition to cancer, infections and other inflammatory lesions show avid uptake of FDG. Therefore, it does not have a high specificity for lung cancer.\nSputum cytology has a high false-negative rate because it relies on the probability of obtaining a sample with exfoliated tumour cells, which can be low for peripheral lung cancers.\nEndobronchial ultrasound (EBUS), endoscopic ultrasound (EUS) mediastinoscopy, mediastinotomy and thoracoscopy are techniques for obtaining mediastinal lymph node biopsies, and are useful in assessing the extent of tumour spread (staging) and sometimes for establishing histological diagnosis."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "All of the following statements are true except:",
+            "options": [
+                "A Perihilar lymph node sampling or en bloc dissection is not necessary in patients undergoing surgery with a curative intent.",
+                "B Video-assisted thoracoscopic surgery prevents rib-spreading and might reduce postoperative pain and length of hospital stay.",
+                "C Surgery for early-stage non-small cell lung cancer (T1-3, N0-1) should be with curative intent.",
+                "D The choice of lung resection for lung cancer is influenced by the fitness of the patient.",
+                "E Posterolateral thoracotomy is the standard route into the thoracic cavity."
+            ],
+            "answer": "A",
+            "explanation": "The principle of surgery with curative intent for lung cancer is to excise all the cancer tissue in the lung and the lymph nodes, while conserving as much unaffected lung tissue as possible. Surgical excision of lung cancer can be achieved by anatomical resections such as segmentectomy, lobectomy, bilobectomy and pneumonectomy, and nonanatomical resection such as wedge resection. This should be combined with removal of mediastinal lymph nodes that are involved. This is accomplished by either excision of enlarged lymph nodes (sampling) or en bloc dissection of the mediastinal lymph nodes (systematic dissection)."
+        },
+        {
+            "id": 9,
+            "question_type": "matching",
+            "question": "Match the procedures with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Bronchoscopy",
+                    "2 Chest drain insertion",
+                    "3 CT scan of the chest",
+                    "4 Pulmonary function tests",
+                    "5 Thoracotomy",
+                    "6 VATS"
+                ],
+                "choices": [
+                    "A A middle-aged patient presents with spontaneous repeated haemoptysis, and clinical examination reveals no abnormal findings. Her chest radiograph is normal. What is the next procedure of choice?",
+                    "B After reading the information booklet about his proposed procedure, an anxious patient being consented for a procedure is worried about the post-procedural complications of pain and possible rib fractures. What procedure is planned for this patient?",
+                    "C Following a right pneumonectomy, the postoperative recovery of a patient is complicated by bronchopleural fistula, which presents with pyrexia, expectoration of large amounts of purulent sputum and a high fluid level on chest radiograph. In addition to positioning the patient to lie on the operated side, what procedure is urgently required?",
+                    "D A mediastinal mass is found incidentally on the chest radiograph of a 65-year-old nonsmoker who is otherwise healthy, with no significant past medical history. Which procedure would you recommend to this patient at this time?",
+                    "E A 75-year-old man who suffers from emphysema is referred for surgical resection of a left upper-lobe lung cancer. Which procedure is required to assess his fitness for lung resection?",
+                    "F An 69-year-old retired builder with suspected pleural mesothelioma and an indeterminate histological diagnosis from a CT-scan-guided biopsy is referred with recurrent right pleural effusion for surgical management. What is the most appropriate procedure?"
+                ]
+            },
+            "answer": {
+                "1": "A",
+                "2": "C",
+                "3": "D",
+                "4": "E",
+                "5": "B",
+                "6": "F"
+            },
+            "explanation": "1. A Bronchoscopy\nHaemoptysis is commonly caused by bronchopulmonary trauma, infection, or neoplastic (benign and malignant) lesions of pulmonary system. The underlying pathologies are usually in direct or indirect communication with the bronchial tree. Bronchoscopy affords the ability to visualise the lesion, the potential to obtain biopsies or treat, or the insight to plan further treatment. The flexible bronchoscope can be advanced into segmental bronchi and is useful for obtaining sputum and tissue biopsies. As the calibre is small and suction limited, flexible bronchoscopes might not have optimal diagnostic and therapeutic yield soon after an episode of haemoptysis because blood clots obscure visualisation. Rigid bronchoscopy overcomes these setbacks but requires general anaesthesia.\n\n2. C Chest drain insertion\nMorphological changes such as mediastinal shift, elevation of the hemidiaphragm and crowding of the ribs occur after pneumonectomy to contract the pneumonectomy space, which fills with tissue fluid. Dehiscence of the bronchial stump occurs in bronchopleural fistula to establish communication between colonised bronchial tree and sterile pneumonectomy space. Invariably, the pneumonectomy space and contained fluid get infected due to the bronchopleural fistula. Signs of systemic infection (pyrexia) with clinical (expectorating purulent sputum) and radiological (high fluid level) evidences of infected collection in the chest warrant immediate chest drain insertion, to control the source of sepsis. Further management of bronchopleural fistula is undertaken in specialised centres.\n\n3. D Computed tomographic (CT) scan of the chest\nA mediastinal mass on chest radiograph deserves further investigation with CT scan of the chest to define the site, size, nature and attachments of the mass and surrounding structures, and, where possible, to obtain a guided percutaneous biopsy for histological diagnosis. On the basis of the location in the mediastinum, the possible cause of the mass can be suspected. Common mediastinal masses in different parts of the mediastinum are the following:\n• Superior mediastinum – lymphoma, thyroid and parathyroid\n• Anterior mediastinum – thymoma, lymphoma and germ cell tumour\n• Middle mediastinum – cystic lesions, lymphoma and mesenchymal tumours\n• Posterior mediastinum – neurogenic tumours, cystic lesions and mesenchymal tumours.\n\n4. E Pulmonary function tests\nTo determine the fitness of patients for lung resection, and the extent of resection they can tolerate, pulmonary function tests are necessary. Peak expiratory flow rate, forced expiratory volume in 1 second (FEV₁), forced vital capacity (FVC), diffusion capacity (DLCO) and arterial blood gases provide useful information. Patients with borderline fitness based on pulmonary function test can be subjected to cardiopulmonary exercise testing or shuttle walk testing.\n\n5. B Thoracotomy\nThoracotomy involves muscle cutting, rib-spreading and parietal pleura breeching. Sometimes rib fractures occur, and the intercostal nerves are bruised during rib-spreading. In the early postoperative period, therefore, thoracotomy pain can be severe and difficult to control. The functional consequence of post-thoracotomy pain leads to other complications such as impairment of mobilisation and normal breathing and gas exchange. The strategies commonly used to manage early post-thoracotomy pain include oral analgesia with paracetamol, and intravenous opiates used as patient-controlled analgesia (PCA) or local anaesthesia delivered via catheters into the paravertebral or extrapleural space.\n\n6. F Video-assisted thoracoscopic surgery (VATS)\nVATS enables complete drainage of the pleural effusion and sampling the effusion for cytological assessment, direct visualisation of the pleural cavity and making a clinical judgement, guided multiple pleural biopsies for histological analyses and talc pleurodesis. The role of VATS in managing pleural disease is well established and clearly of advantage because of its less-invasive nature and faster postoperative recovery compared to thoracotomy."
+        }
+    ]
+}

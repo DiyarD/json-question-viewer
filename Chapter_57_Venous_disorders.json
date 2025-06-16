@@ -1,0 +1,163 @@
+{
+    "chapter_name": "Venous disorders",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?\nA The saphenofemoral junction is situated 2.5–3 cm below and lateral to the pubic tubercle.\nB The long saphenous vein (LSV) is accompanied by the saphenous nerve in front of and above the medial malleolus.\nC The short saphenous vein (SSV) lies behind the lateral malleolus with the sural nerve.\nD The basilic and cephalic veins unite to form the axillary vein.\nE Perforating veins (perforators) joining the superficial and deep veins of the calf have valves.",
+            "options": [
+                "A The saphenofemoral junction is situated 2.5–3 cm below and lateral to the pubic tubercle.",
+                "B The long saphenous vein (LSV) is accompanied by the saphenous nerve in front of and above the medial malleolus.",
+                "C The short saphenous vein (SSV) lies behind the lateral malleolus with the sural nerve.",
+                "D The basilic and cephalic veins unite to form the axillary vein.",
+                "E Perforating veins (perforators) joining the superficial and deep veins of the calf have valves."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "The saphenofemoral junction is situated 2.5–3 cm below and lateral to the pubic tubercle. This anatomical landmark is important when making an incision to perform groin dissection for varicose vein surgery. The LSV starts at the medial part of the dorsal venous arch of the foot and is accompanied by the saphenous nerve in front of and above the medial malleolus. This anatomical fact is important when performing a venous cut-down for open intravenous access and not to strip a varicose vein down to the ankle.\nThe SSV originates on the lateral aspect of the dorsal venous arch and lies behind the lateral malleolus with the sural nerve. It ascends along the lateral edge of the Achilles tendon in the subcutaneous fat covered by skin and superficial fascia. In its ascent, it passes between the two heads of the gastrocnemius to terminate in the popliteal vein above the knee joint. In the calf and thigh, there are several perforating veins with valves that join the superficial to the deep venous system.\nIn the upper limb, the axillary vein is not formed by the union of the basilic and cephalic veins. The basilic vein drains the medial side of the forearm and hand, piercing the deep fascia at the elbow where it joins the venous tributaries of the brachial artery to form the axillary vein. The cephalic vein ascends along the lateral aspect of the forearm and arm and empties into the axillary vein after piercing the deltopectoral fascia in the deltopectoral groove."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "2. The following statements are true except:\nA The capillaries have a pressure of 32 mmHg at the arterial end and 12 mmHg at the venular end.\nB The venous pressure in a foot vein when stationary is 100 mmHg.\nC Patent deep veins, perforators and superficial veins, all with competent valves, are necessary to keep the venous pressure down to normal.\nD Perforator incompetence is a potent cause of venous hypertension.\nE In post-thrombotic syndrome the drop in ambulatory venous pressure is big.",
+            "options": [
+                "A The capillaries have a pressure of 32 mmHg at the arterial end and 12 mmHg at the venular end.",
+                "B The venous pressure in a foot vein when stationary is 100 mmHg.",
+                "C Patent deep veins, perforators and superficial veins, all with competent valves, are necessary to keep the venous pressure down to normal.",
+                "D Perforator incompetence is a potent cause of venous hypertension.",
+                "E In post-thrombotic syndrome the drop in ambulatory venous pressure is big."
+            ],
+            "answer": "E",
+            "explanation": "In post-thrombotic syndrome there is venous hypertension and therefore the drop in ambulatory venous pressure is small. At the same time, the recovery period is short. In primary varicose veins the drop in pressure is the same as in a normal leg, but the recovery time is shorter than in the normal leg. At rest, the venous pressure in the foot is 100 mmHg. The blood passing through the arterioles into the capillaries has a pressure of 32 mmHg at the arteriolar end and 12 mmHg at the venular end. In a healthy limb, this pressure difference of 20 mmHg is maintained at a constant level to maintain a stable fluid balance without causing oedema or venous hypertension (Figures 57.1a and b).\nPatent superficial veins, perforator veins and deep veins with their competent valves account for reduction in the venous pressure at rest and during walking. However, when there is pathology in the veins or incompetence of the valves, there will be venous hypertension with all the accompanying clinical problems of post-thrombotic syndrome."
+        },
+        {
+            "id": "3",
+            "question_type": "msq",
+            "question": "3. Which of the following statements are true?\nA The CEAP classification for chronic venous disorders is widely used.\nB Tourniquet tests should be done in all patients prior to surgery.\nC Continuous wave handheld Doppler is very accurate in assessment.\nD Duplex ultrasound scanning is the mainstay of varicose vein imaging.\nE Varicography as an investigation might sometimes be necessary.",
+            "options": [
+                "A The CEAP classification for chronic venous disorders is widely used.",
+                "B Tourniquet tests should be done in all patients prior to surgery.",
+                "C Continuous wave handheld Doppler is very accurate in assessment.",
+                "D Duplex ultrasound scanning is the mainstay of varicose vein imaging.",
+                "E Varicography as an investigation might sometimes be necessary."
+            ],
+            "answer": [
+                "A",
+                "D",
+                "E"
+            ],
+            "explanation": "The CEAP classification for chronic venous disorders is used widely and acts as a form of a good scoring system to decide on the management. It is an acronym for Clinical, Etiology, Anatomy, Pathophysiology. The clinical class of the acronym has eight subsets, whilst the other three classes have four each. Each clinical class is further subdivided into ‘S' for symptomatic and 'A' for asymptomatic. For the details, the reader is asked to refer to a textbook.\nDuplex ultrasound imaging is the 'gold standard' for varicose vein imaging in recurrent varicose veins and particularly when intervention is planned. It will determine which saphenous junctions are incompetent and the site, extent of reflux, number, location and diameter of the incompetent perforators, competence of deep veins and whether there is any thrombosis. Varicography is an invasive investigation, occasionally performed in recurrent varicose veins with complex anatomy.\nThe tourniquet tests have been given up except as a teaching tool very occasionally.\nContinuous wave handheld Doppler combined with clinical evaluation will miss almost one-third of perforators and information on affected veins. It is to be used only as a substitute when duplex scan is not available."
+        },
+        {
+            "id": "4",
+            "question_type": "msq",
+            "question": "4. Which of the following statements is false?\nA Thigh length compression hosiery is more effective than knee length.\nB In ultrasound-guided foam sclerotherapy in a single session the maximum volume should be no more than 20 mLs.\nC Endovenous laser ablation (EVLA) is not suitable in severely tortuous veins.\nD Endovenous interventions may result in thromboembolic and phlebitic complications.\nE After traditional varicose vein surgery the complication rate is up to 20%.",
+            "options": [
+                "A Thigh length compression hosiery is more effective than knee length.",
+                "B In ultrasound-guided foam sclerotherapy in a single session the maximum volume should be no more than 20 mLs.",
+                "C Endovenous laser ablation (EVLA) is not suitable in severely tortuous veins.",
+                "D Endovenous interventions may result in thromboembolic and phlebitic complications.",
+                "E After traditional varicose vein surgery the complication rate is up to 20%."
+            ],
+            "answer": [
+                "A",
+                "B"
+            ],
+            "explanation": "The principle of using compression hosiery is that graduated external pressure improves deep venous return. There is no evidence that thigh length hosiery is more effective than knee length; hence keen-length stockings are more often prescribed, resulting in greater patient compliance. Compression hosiery is classed according to the pressure exerted and does improve symptoms. In ultrasound-guided foam sclerotherapy, sodium tetradecyl sulphate is used. In a single session the maximum permitted amount of foam is 10–12 mLs.\nEVLA, although suitable for the vast majority of patients, is not suitable for patients who have excessively tortuous varicosities; it is unsuitable also for those with thrombophlebitis and needle phobia. The other endovenous modality of treatment is radiofrequency ablation (RFA). This is a form of minimally invasive endovascular therapy that uses bipolar catheter to generate thermal energy to ablate the vein. These procedures might result in complications such as thrombophlebitis in about 5% and embolism in about 1%.\nFollowing open surgery of saphenofemoral ligation and long saphenous stripping or saphenopopliteal junction ligation and short saphenous vein stripping, complications occur in up to one in five patients, with wound infection being the most common. Following long saphenous vein stripping, injury to the saphenous nerve occurs in up to 7% whereas sural nerve neuropraxia occurs in 4% after short saphenous vein stripping."
+        },
+        {
+            "id": "5",
+            "question_type": "msq",
+            "question": "5. Which of the following statements are true?\nA The three factors in venous thrombosis are endothelial damage, stasis and thrombophilia\nB Deficiencies of antithrombin, activated protein C and protein S predispose to venous thrombosis.\nC Homan's sign is specific and clinically confirmatory of deep vein thrombosis (DVT).\nD A duplex compression ultrasound scan of the deep veins is confirmatory.\nE Radionucleotide imaging should be used in preference to CT pulmonary angiography (CTPA) for pulmonary embolism.",
+            "options": [
+                "A The three factors in venous thrombosis are endothelial damage, stasis and thrombophilia",
+                "B Deficiencies of antithrombin, activated protein C and protein S predispose to venous thrombosis.",
+                "C Homan's sign is specific and clinically confirmatory of deep vein thrombosis (DVT).",
+                "D A duplex compression ultrasound scan of the deep veins is confirmatory.",
+                "E Radionucleotide imaging should be used in preference to CT pulmonary angiography (CTPA) for pulmonary embolism."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "The three factors, first described by the German pathologist Rudolf Virchow – changes in the vessel wall in the form of endothelial damage, stasis and coagulability of the blood – contribute to the development of venous thrombosis. While there are multiple factors leading up to the formation of DVT, there are many predisposing causes, chief among which are major operation, musculo-skeletal injury, pregnancy, immobility, obesity and oral contraceptive pill. Deficiencies of antithrombin, activated protein C and protein S are predisposing factors in the young. Confirmation of the diagnosis on clinical suspicion is by duplex ultrasound examination of the deep veins, which should be located and compressed. Filling defects in the flow and lack of compressibility confirm thrombosis.\nClinically Homan's sign (resistance of the calf muscle to forcible dorsiflexion) is nonspecific and should not be elicited for fear of dislodging the thrombus producing a pulmonary embolism (PE). Other clinical features should be sought – pain, swelling and tenderness of calf, shiny skin, pyrexia. Radionucleotide imaging as a first-line investigation has largely been replaced by CT pulmonary angiography, which would show filling defects in the pulmonary arteries; moreover, the procedure can be used therapeutically for thrombolysis."
+        },
+        {
+            "id": "6",
+            "question_type": "msq",
+            "question": "6. Which of the following statements is not true?\nA Unfractionated heparin and warfarin are normally used in the prophylaxis of DVT.\nB All patients undergoing surgery should be considered for DVT prophylaxis.\nC Pharmacological methods are more effective than mechanical methods in the prophylaxis of DVT.\nD On confirmation of DVT, the patient should be treated with heparin and warfarin.\nE Patients at high risk of pulmonary embolism (PE) should have an inferior vena caval filter inserted.",
+            "options": [
+                "A Unfractionated heparin and warfarin are normally used in the prophylaxis of DVT.",
+                "B All patients undergoing surgery should be considered for DVT prophylaxis.",
+                "C Pharmacological methods are more effective than mechanical methods in the prophylaxis of DVT.",
+                "D On confirmation of DVT, the patient should be treated with heparin and warfarin.",
+                "E Patients at high risk of pulmonary embolism (PE) should have an inferior vena caval filter inserted."
+            ],
+            "answer": [
+                "A",
+                "B"
+            ],
+            "explanation": "Unfractionated heparin and warfarin are rarely used in the prophylaxis of DVT. Patients in need of prophylaxis are started on low-molecular-weight heparin subcutaneously once per day. All patients undergoing surgery do not need DVT prophylaxis. Patients undergoing surgery are categorised as low risk, moderate risk and high risk (Figure 57.2), the low-risk patient being exempted from prophylaxis.\nModerate- and high-risk patients are given prophylaxis in the form of pharmacological and mechanical methods, the latter consisting of graduated elastic compression stockings and external pneumatic calf compression. Used by itself, pharmacological methods are more effective than mechanical methods although the downside is the slight increased risk of bleeding. Established DVT is treated initially by heparin followed by warfarin, the latter continued as a maintenance dose monitored by regular blood tests. Thrombolytic therapy might be considered in iliac vein thrombosis when diagnosed early. Patients who are at high risk for developing PE should have an inferior venal caval filter inserted."
+        },
+        {
+            "id": "7",
+            "question_type": "msq",
+            "question": "7. Which of the following statements are true?\nA Venous disease is the cause in 60% to 70% of all ulcers in the lower leg.\nB Venous hypertension is a cause.\nC In a minority an arterial cause might also be present.\nD Squamous carcinoma can occur in a venous ulcer.\nE Look for a nonvenous cause if the ulcer is not on the gaiter area.",
+            "options": [
+                "A Venous disease is the cause in 60% to 70% of all ulcers in the lower leg.",
+                "B Venous hypertension is a cause.",
+                "C In a minority an arterial cause might also be present.",
+                "D Squamous carcinoma can occur in a venous ulcer.",
+                "E Look for a nonvenous cause if the ulcer is not on the gaiter area."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Venous disease is the cause for up to 70% of all leg ulcers particularly when they occur in the lower leg. Nonvenous causes are ischaemia, rheumatoid arthritis, inflammatory bowel disease, trauma, diabetic neuropathy, neoplasm and infections (in developing countries). Venous hypertension that occurs as a result of long-term DVT is the underlying cause, which is compounded by incompetent valves and perforators. The hypertension leads to leakage of fibrin and red cells, the former causing the formation of a pericapillary fibrin cuff while the latter causes haemosiderin deposition and pigmentation. This results in anoxia, lipodermatosclerosis and ulceration (Figure 57.3).\nIn about one-fifth of the patients, ischaemia may be a contributory factor. Pedal pulses might not be palpable because of the indurated skin; therefore, ankle-brachial pressure index should be assessed by Doppler studies. In long-standing nonhealing ulcers, squamous cell carcinoma (Marjolin's ulcer) should be excluded by biopsy especially when the edge looks raised and everted. Typically venous ulcer occurs in the gaiter area. Therefore if the ulcer is seen on the foot or high up in the calf the diagnosis of a venous ulcer must be reconsidered."
+        },
+        {
+            "id": "8",
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Axillary vein thrombosis",
+                    "2 Deep vein thrombosis (DVT)",
+                    "3 Klippel-Trenaunay syndrome",
+                    "4 Superficial thrombophlebitis",
+                    "5 Varicose veins",
+                    "6 Venous malformation",
+                    "7 Venous ulcer"
+                ],
+                "choices": [
+                    "A A 33-year-old woman complains of aching and heaviness of her left lower limb, which is much worse at the end of the day after working as a shop assistant. On examination she has large varicosities along the medial side of her entire left lower limb.",
+                    "B A 14-year-old boy complains of an unsightly lump occupying most of his lower lip. This has been there almost all his life, is painless and feels soft and compressible.",
+                    "C A 74-year-old man complains of a tender cord-like structure along the medial side of his entire right lower limb of two months duration. He was investigated for abdominal and back pain and weight loss. US and CT scans of the abdomen showed a solid mass in the body of the pancreas.",
+                    "D A 65-year-old man who underwent an anterior resection for rectal cancer complains of pain in his left calf on the first postoperative day. On examination he has low-grade pyrexia and the calf looks swollen with shiny skin and is tender.",
+                    "E A 72-year-old woman complains of an ulcer on the medial side of her left leg over 5 months. This started as a small ulcer and has gradually become larger. Many years ago she suffered from recurrent swollen legs following the birth of her three children, who are now in their forties.",
+                    "F A 38-year-old man complains of marked swelling of his entire right upper limb of 24 hours duration. He woke up with it, having worked very hard as a bricklayer the day before. On examination there is marked uniform swelling of his right upper limb, extending from the supraclavicular region.",
+                    "G A 28-year-old man complains of extensive varicose veins on the outer side of his entire left lower limb, where he has had a prominent big vein over the whole leg. Since he was a teenager, his left lower limb has felt larger than the right and has a large capillary naevus."
+                ]
+            },
+            "answer": {
+                "1": "F",
+                "2": "D",
+                "3": "G",
+                "4": "C",
+                "5": "A",
+                "6": "B",
+                "7": "E"
+            },
+            "explanation": "1. F Axillary vein thrombosis\nThis patient has axillary vein thrombosis, which is typically seen in a young muscular man after heavy use of the arm. This should be confirmed by a Duplex ultrasound scan. At the same time, an x-ray of the thoracic inlet is done to exclude a cervical rib that might have precipitated the thrombosis by compression of the vein.\nThe condition is of short duration. Hence, an attempt should be made to cannulate the vein and treat by thrombolysis using tissue plasminogen activator. After treatment, further imaging must be done to see the outcome. If a cervical rib is confirmed, causing thoracic inlet syndrome, then it is removed in due course.\n\n2. D Deep vein thrombosis (DVT)\nThis patient has deep vein thrombosis. A D-dimer measurement is carried out, followed by Wells score. If the score is more than 4, DVT is diagnosed. However, a duplex compression ultrasound examination should be performed. This would show up the filling defects in flow and lack of compressibility, which indicates the presence of thrombosis.\nTreatment should be commenced immediately on low-molecular-weight heparin and anticoagulated with warfarin according to the local protocol. Usually it is 10 mg, 10 mg and 5 mg, on three consecutive days monitored by daily prothrombin time. The dose is adjusted such that the reading of INR (international normalised ratio) is about 3. The patient is maintained on warfarin for at least 6 months.\n\n3. G Klippel-Trenaunay (K-T) syndrome (Figure 57.4)\nThis syndrome is a rare mesodermal abnormality often associated with lymphatic and other congenital abnormalities where there is venous and lymphatic hypoplasia and aplasia. It consists of cutaneous naevus, varicose veins and bone and soft tissue deformity. These patients have an increased incidence of DVT and PE.\nTreatment is mainly conservative, with elastic support stockings. Superficial veins are removed if symptoms are not relieved by stockings after making sure the deep veins are normal. Laser ablation of the naevus might be considered. Excessive limb growth might have to be controlled by epiphyseal stapling or heel raise of the opposite limb.\n\n4. C Superficial thrombophlebitis\nThis patient suffers from superficial thrombophlebitis. In spite of its name, inflammation is rare. Common causes are trauma, intravenous infusion of hyperosmolar solutions or drugs and visceral malignancy (as in this patient). In patients with visceral malignancy different veins might be affected at different times; hence the term thrombophlebitis migrans. Coagulation disorders such as polycythaemia, thrombocytosis and sickle cell disease might predispose to this condition.\nFull blood count, coagulation screen and a duplex scan are carried out. Treatment is with nonsteroidal anti-inflammatory drugs, and the condition usually resolves spontaneously. Some authorities advocate saphenofemoral ligation if ultrasound shows the thrombus to have extended to the saphenofemoral junction.\n\n5. A Varicose veins (VV)\nThis patient with symptomatic VVs would be classified in CEAP as C3S. In a surgical examination such a patient would be a common clinical case. The clinical signs to be demonstrated are the cough impulse, percussion or tap sign and Trendelenburg test without using the tourniquet (Figure 57.5). Sometimes at the groin a saphena varix may be seen (Figure 57.6).\nYoung patients with primary symptomatic VVs would require treatment. A duplex ultrasound imaging is carried out to map the exact sites of valvular incompetence; extent of reflux; number, location and diameter of incompetent perforators; and state of the deep venous system. Having confirmed the extent of the patient's pathology, the choices are given to the patient include conservative management by the use of compression hosiery, ultrasound-guided foam sclerotherapy, endovenous laser or radiofrequency ablation and surgery involving saphenofemoral ligation and stripping of LSV.\nWhen intervention is carried out, the short-to-medium-term results are similar between endovenous and open surgery. However, in the immediate postoperative period, endovenous methods are superior in that recovery is quicker with earlier return to work and normal activities.\n\n6. B Venous malformation\nA venous malformation is almost always congenital in origin. It is soft, compressible and painless (Figures 57.7a and b). The main problem is cosmetic and embarrassment and bullying in children. The malformation consists of veins, lymphatics, arterioles, muscles and skin; rarely it might involve the bone.\nThe extent can be delineated by contrast CT or MRI. Treatment is unsatisfactory. Excision is not curative. Embolisation and sclerotherapy can be tried but might be dangerous if the malformation is near the central nervous system.\n\n7. E Venous ulcer\nIn the majority of patients a venous ulcer is the long-term complication of DVT causing venous hypertension (Figure 57.8). Ischaemia as a contributory factor must always be excluded by doing arterial Doppler measurements because pedal pulses, even when present, might not be felt in the presence of pericapillary fibrin cuff and lipodermatosclerosis, which is normally predisposing factors in a venous ulcer. In an ulcer of long duration, biopsy from the edge should be taken to exclude malignant transformation. Diabetes must be excluded.\nInvestigations to be carried out are full blood count, blood glucose, ESR, C-reactive protein, rheumatoid factor, sickle cell test if appropriate and duplex scan. Once a diagnosis of venous ulcer has been made, most often by a process of exclusion, ideally these patients are managed in a specialised ulcer clinic as this is a long-term undertaking. Patients are treated by a compression bandaging regimen, of which there are three types. In suitable patients excision and mesh grafting have shown healing in 50% at 5 years. Preventing recurrence can be a challenge. Patients who have saphenous and perforator reflux should be offered an operation to cure this problem only after confirming that the deep veins are patent."
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "chapter_name": "13 Diagnostic imaging",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?",
+            "options": [
+                "A Low-osmolality contrast media (LOCM) are safer than their higher-osmolality counterparts.",
+                "B Routine steroid prophylaxis is recommended before use of contrast in the high-risk patient.",
+                "C In the diabetic, metformin should be stopped before using contrast.",
+                "D The majority of ionising radiation comes from medical exposure from investigations.",
+                "E Portable x-ray machines use much more radiation to achieve the same result."
+            ],
+            "answer": [
+                "A",
+                "E"
+            ],
+            "explanation": "For contrast-enhanced computed tomography (CECT) scan, LOCM are much safer than the higher-osmolality agents. The Royal College of Radiologists (RCR) in the United Kingdom does not recommend routine steroid prophylaxis for high-risk patients. The use of LOCM and close observation of the patient for 30 minutes after injection is recommended with the cannula still in situ. Most reactions occur shortly after injection.\nThe RCR recommend that metformin can be continued and no more than 100 mL of LOCM can be given in the presence of normal renal function. A recent serum creatinine should be performed, as all contrast media are nephrotoxic. In patients with a history of iodine allergy, gadolinium diethyltriaminepentacetic acid (DTPA) can be used. Mild reactions can occur in 1:200 and severe reactions in 1:10,000 patients.\nThe majority of ionising radiation in the human comes from natural sources, with medical exposure accounting for only 12%. Portable x-ray machines should be avoided as much as possible. Along with fluoroscopy, such imaging equipment uses much more radiation to obtain the same result."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. Which of the following statements is false?",
+            "options": [
+                "A Conventional x-rays will delineate different soft tissue reliably.",
+                "B Conventional x-rays can be manipulated.",
+                "C Dedicated transducers can help in endocavitary ultrasound (US).",
+                "D Change in the frequency of an US wave can be caused by red blood cells.",
+                "E The higher the frequency of the US wave, the greater the resolution of the image."
+            ],
+            "answer": "A",
+            "explanation": "Different soft tissue cannot be reliably distinguished, as all soft tissue contains the same quantity of water. In certain circumstances, however, such as mammography, by manipulating the x-ray systems and x-ray energies, differentiation between the different types of soft tissue can be obtained.\nUltrasound is the second most common method of imaging. Special transducers have been developed for intracavitary imaging, such as transvaginal, transrectal and endoscopic (of oesophagus and stomach). The latter not only allows imaging of the wall of the viscus but also of the adjacent structures, such as mediastinal lymph nodes in oesophageal US and the pancreas in gastric US. The higher the frequency of the US wave, the greater is the resolution of the image.\nA change in the frequency of the US wave can be caused by moving objects, such as red blood cells. This change in frequency helps to measure the speed and direction of movement – the principle of Doppler US (Christian Johann Doppler, a Viennese professor of experimental physics, articulated this principle in 1842), which can record the speed of blood flow through a vessel or a solid organ – thus diagnosing stenosis within a vessel wall."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. Which of the following statements are true?",
+            "options": [
+                "A US has no disadvantages.",
+                "B Computed tomography (CT) scan has a higher resolution than plain radiographs.",
+                "C Magnetic resonance imaging (MRI) scans give excellent contrast resolution.",
+                "D MRI scan has no disadvantages.",
+                "E Radionuclide imaging allows function to be studied."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Ultrasound has its drawbacks. It is very operator-dependent; the information is mostly useful during the actual scanning process so that images cannot be reliably reviewed by looking at static pictures; it does not go through air and bone; resolution depends upon the machine used; and the process has a long learning curve.\nCT scan has a high-contrast resolution, allowing the assessment of tissue with similar attenuation characteristics. The injection of contrast allows images at various phases of the blood supply, the early arterial phase, for example, in vascular liver lesions and the delayed pictures for solid renal lesions.\nMagnetic resonance imaging gives excellent contrast resolution without any radiation hazard. It lends itself to imaging particularly of tissue with relatively little natural contrast.\nMRI does have some downsides, however. There is limited availability because of expense; it is time consuming; and the patient needs to be motionless, making it difficult in those with pain. Patients with metallic implants cannot be examined, because the investigation entails the use of high-strength magnetic fields.\nThe use of a radionuclide allows the study of function. The chosen radionuclide – technetium, gallium, thallium, iodine – is coupled with other compounds and administered intravenously for it to be tracked by a gamma camera, thus forming a functional image.\nPositron emission tomography (PET) is a similar imaging method, which is useful in detecting recurrent cancer, particularly when combined with CT (PET/CT)."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "4. The following statements are true except:",
+            "options": [
+                "A The clinician referring the patient must balance risk against benefit.",
+                "B The clinician must give as much information as possible.",
+                "C Use portable machines and fluoroscopy wherever possible.",
+                "D Take all precautions when using an image intensifier.",
+                "E The lungs, heart and pancreas are especially vulnerable to irradiation."
+            ],
+            "answer": [
+                "C",
+                "E"
+            ],
+            "explanation": "Portable machines and fluoroscopy units should be avoided whenever possible. Such equipment uses much more radiation to achieve the same result. Besides staff, patients in the next bed are at risk. Moreover, the results from portable x-ray machines are of poor quality. The organs particularly vulnerable to irradiation are the gonads, eyes and thyroid. Hence, whilst using the image intensifier, the use of lead aprons, thyroid shields, lead glasses and radiation badges is mandatory.\nRequests for diagnostic imaging by the clinician must be done after carefully considering the risks against the benefits. The request form must have as much information as possible, while at the same time a discussion with the radiologist as to the correct imaging technique to be used can be most helpful."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "5. Which of the following statements is false?",
+            "options": [
+                "A Synovitis can be detected by plain x-ray.",
+                "B MR arthrography is the ideal imaging for articular cartilage damage.",
+                "C MRI is the ideal method for local staging of a malignant bone tumour.",
+                "D X-ray is the first investigation in destructive bone lesions.",
+                "E US is used to examine mass lesions of soft tissues."
+            ],
+            "answer": "A",
+            "explanation": "Plain x-ray is not the choice of imaging to confirm synovitis. This is best detected by gadolinium DTPA-enhanced MRI, which will show up synovial thickening. MRI is the best way to detect articular damage. MR arthrography, where a scan is performed after gadolinium DTPA is injected into the joint, is ‘the gold standard'. MRI is the best investigation for staging of bone or soft-tissue malignant tumours. Image-guided (US, CT, or MRI) needle biopsy in consultation with the surgeon is then carried out. Bone scan or whole-body MRI is particularly necessary when multiple lesions are suspected.\nA plain x-ray is the first imaging technique when a destructive bone lesion is suspected. It also shows up soft-tissue calcification in muscle, tendon and fat. Careful interpretation is essential to distinguish malignant from benign lesions. When malignancy is suspected, further investigations are mandatory to establish a firm diagnosis.\nUltrasound is diagnostic in the majority of mass lesions of soft tissue. When the lesion is cystic, it obviates the need for further imaging. However, if the lesion has a solid element to it, then MRI is performed. In soft-tissue lesions, the routine should be US on all palpable lesions; when there is an unidentifiable mass or the mass is partly solid, then MRI is used."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. Which of the following statements are false?",
+            "options": [
+                "A In a multiply injured patient, CT of head and spine should be the first line of imaging.",
+                "B Focused assessment with sonography for trauma (FAST) helps in detecting intraperitoneal fluid and cardiac tamponade.",
+                "C CT should not be used when a patient is unstable.",
+                "D US is useful for diagnosing occult pneumothorax.",
+                "E CT is the main imaging method for intracranial, intra-abdominal and vertebral injuries."
+            ],
+            "answer": "A",
+            "explanation": "Initially, plain x-rays and not CT will give a rapid assessment of major injuries. Although the areas to be x-rayed will depend upon the mechanism of injury and the condition of the patient (intubated or not), the initial radiographs are x-rays of the chest, an antero-posterior view of the pelvis and the cervical spine (C/S).\nFAST, although operator-dependent, is extremely efficient in detecting intraperitoneal fluid and cardiac tamponade. It may not be helpful in the presence of bowel gas or extensive surgical emphysema. A repeat FAST may be used when the initial test has been negative.\nThe unstable patient needs to be treated forthwith according to the clinical needs and no time should be lost in arranging a CT, which should only be considered in a patient who is stable after adequate resuscitation.\nPneumothorax in a supine chest x-ray can be difficult to see. An US using a high-resolution probe will detect the pleura as an echogenic stripe and its movement can be assessed; the sliding motion of the pleura is lost in a pneumothorax; haemothorax can also be diagnosed.\nCT is the ideal method of imaging intracranial and intra-abdominal injuries and vertebral fractures. Using a multidetector scanner, a comprehensive examination of the entire body can be completed in 5 minutes – in far less time than it takes to organise the investigation. Hence, this imaging modality should be reserved only for the stable patient."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "7. The following statements are true except:",
+            "options": [
+                "A US is a good first-line investigation.",
+                "B CT is the best investigation for acute diverticulitis.",
+                "C Plain x-ray of KUB (kidney, ureter, bladder) is the best imaging for suspected ureteric colic.",
+                "D US and CT can diagnose the cause and site of intestinal obstruction.",
+                "E Plain x-ray is the first-line investigation for suspected perforation or obstruction."
+            ],
+            "answer": "C",
+            "explanation": "Ultrasound is a good initial imaging for most acute abdominal conditions – biliary colic, acute cholecystitis, acute appendicitis, acute pancreatitis and pelvic diseases.\nWhen patients present with left iliac fossa pain and a diagnosis of acute diverticulitis is made, CT is the investigation of choice – showing thickening of the bowel wall, paracolic collection, or abscess. CT-guided drainage of an abscess can also be done.\nIn suspected ureteric colic (wrongly called renal colic because one cannot get colic in a solid organ), plain x-ray of the KUB area is of limited value. Faecoliths cannot be distinguished from ureteric stones. Unenhanced helical CT is the most sensitive imaging procedure for ureteric colic.\nIn intestinal obstruction, US and CT are useful in showing dilated fluid-filled loops and can often identify the site and cause of obstruction. CT colonography is increasingly being used in the confirmation of acute large-bowel closed-loop obstruction from carcinoma.\nClinical suspicion of perforation of a hollow viscus is best confirmed by an erect chest x-ray or abdominal x-ray to include the diaphragmatic domes or lateral decubitus film (if the patient is too ill)."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "8. Which of the following statements is false?",
+            "options": [
+                "A Early disease is best staged by endoscopic US (EUS).",
+                "B Accurate preoperative nodal involvement is possible by EUS.",
+                "C Liver and lung metastases are best detected by US and CT.",
+                "D Intraoperative US is used in liver resection.",
+                "E PET/CT is an important tool in oncological staging."
+            ],
+            "answer": "B",
+            "explanation": "Accurate preoperative nodal staging cannot be obtained by EUS. While the size of nodes (pararectal in rectal cancer or mediastinal in oesophageal cancer) gives an idea of nodal involvement, one cannot be absolutely certain, as the enlargement can be due to metastasis or reactive hyperplasia.\nIn the staging of early carcinoma (T1 and T2) of distal large bowel, endoluminal ultrasound (EUS) is the imaging of choice. The same is true of early oesophageal cancer. Biopsy is carried out at the same time; however, this should be done only after US so as not to distort the US images.\nUltrasound (US) and CT are the ideal imaging methods to detect haematogenous spread to the lungs and liver. CT is the most sensitive technique for pulmonary deposits. However, occult lesions may be overlooked in 10% to 30% of patients.\nIntraoperative US is a routine during liver resection for metastasis. Deep-seated impalpable secondaries may be missed by the conventional preoperative US and CT, particularly if they are smaller than 1 cm. Good high-resolution imaging will detect secondaries as small as 0.5 cm – a finding that will influence the definitive management.\nPositron emission tomography (PET)/CT is a technique increasingly used as a functional and anatomical imaging tool. The procedure reflects tumour metabolism and detects occult metastases. It is particularly used in lymphoma, non-small cell lung cancer and potential resectable liver metastases."
+        },
+        {
+            "id": 9,
+            "question_type": "emq",
+            "question": "Match the imaging techniques with the clinical scenarios that follow as the most appropriate initial imaging to be used:",
+            "options": {
+                "items": [
+                    "A A 68-year-old man complains of increasing dysphagia of 3 months duration. He is unable to swallow any solids, and liquids go down with difficulty. He has lost 25 kilogrammes in weight during this period. What should be the first investigation?",
+                    "B A 78-year-old man complains of gnawing backache associated with urinary frequency and poor stream for 4 months. Transrectal ultrasound (TRUS) biopsy showed a carcinoma of prostate.",
+                    "C A 32-year-old man while skiing sustained an injury to this right ankle following which it became very painful and grossly deformed.",
+                    "D A 45-year-old woman sustained a blunt injury to her lower chest and upper abdomen while horse riding. She was brought in with hypovolaemic shock. Having been resuscitated according to the ATLS protocol, she is now stable.",
+                    "E A 70-year-old man is undergoing a laparotomy for liver resection for metastases from colorectal carcinoma.",
+                    "F A 55-year-old woman presented with a lymph nodal lump over her right supraclavicular area. Excision biopsy showed a non-Hodgkin's lymphoma.",
+                    "G A 35-year-old woman has been admitted as an emergency with right upper quadrant pain, pyrexia and vomiting. On examination she is toxic, with a positive Murphy's sign.",
+                    "H A 62-year-old man presented with a large soft-tissue mass on the medial aspect of his left femoral triangle of 4 months duration. The mass is hard, immobile and tender (Figure 13.1)."
+                ],
+                "choices": [
+                    "1 Contrast enhanced computerised tomographic scan (CECT scan)",
+                    "2 Endoluminal (endoscopic) ultrasound (EUS)",
+                    "3 Intraoperative ultrasound (IOS)",
+                    "4 Magnetic resonance imaging scan (MRI scan)",
+                    "5 Plain x-ray",
+                    "6 Positron emission tomography scan/CT (PET/CT scan)",
+                    "7 Radionuclide imaging",
+                    "8 Ultrasound (US)"
+                ]
+            },
+            "answer": {
+                "A": "2",
+                "B": "7",
+                "C": "5",
+                "D": "1",
+                "E": "3",
+                "F": "6",
+                "G": "8",
+                "H": "4"
+            },
+            "explanation": "Please note that in the following answers, only the most appropriate initial imaging technique is discussed and not the whole gamut of investigations for the particular diagnosis. To learn about the investigations in detail for the particular diagnosis, the reader should refer to the relevant chapter.\n1. D Contrast enhanced computerised tomographic scan (CECT scan)\nCT scanning is the investigation to be carried out in this patient who is stable following resuscitation for upper abdominal and lower thoracic injury. With multidetector scanners a comprehensive examination of the head, spine, chest, abdomen and pelvis can be done in 5 minutes. However, to organise this investigation it would easily take half an hour or more. Hence, this investigation should only be contemplated in the stable patient.\n2. A Endoluminal (endoscopic) ultrasound (EUS)\nEUS is the investigation to be done for an oesophageal carcinoma. The first investigation is oesophagogastroduodenoscopy (OGD) when carcinoma of oesophagus is suspected. When the lesion is seen, initially an EUS is done, which gives an accurate idea about the local spread while at the same time diagnoses enlarged mediastinal lymph nodes. Biopsy should only be taken after EUS, so as not to distort the US images.\n3. E Intraoperative ultrasound (IOS)\nIOS is carried out during planned liver resection for liver metastasis. It provides high-resolution imaging for detection of small liver secondaries (5 mm) in the depths of the liver parenchyma that will not be picked up by the usual imaging techniques.\n4. H Magnetic resonance imaging scan (MRI scan)\nThis patient has a suspected soft tissue sarcoma. MRI is the gold standard for diagnosing soft tissue sarcoma and local staging.\n5. C Plain x-ray\nThis is clinically a fracture-dislocation of the ankle. The investigation of choice is a plain x-ray of the ankle. However, this should only be carried out after the fracture-dislocation has been reduced under sedation and a back slab applied. Nothing is gained by doing the x-rays before reduction, because precious time may be lost during which neurovascular compromise may occur and the patient may develop skin blisters.\n6. F Positron emission tomography scan/CT (PET/CT scan)\nThis patient has a histologically proven non-Hodgkin's lymphoma. A PET/CT shows active disease and detects occult disease.\n7. B Radionuclide imaging\nThis patient has proven prostate carcinoma. His symptoms are from bone metastases. Therefore, a whole-body bone scintigraphy is highly sensitive and allows functional imaging of the whole body (Figure 13.2).\n8. G Ultrasound (US)\nThis patient clinically is suffering from acute cholecystitis. US of the abdomen is the first investigation of choice to confirm the diagnosis. It will show a thickened gallbladder with pericholecystic fluid and gallstones. It may also show whether there is any dilatation of the common bile duct."
+        }
+    ]
+}

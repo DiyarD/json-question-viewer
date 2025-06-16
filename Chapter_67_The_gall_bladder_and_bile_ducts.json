@@ -1,0 +1,279 @@
+{
+    "chapter_name": "The gall bladder and bile ducts",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?",
+            "options": [
+                "A The common bile duct (CBD) is traditionally divided into three parts.",
+                "B The cystic duct opens into the supraduodenal part of the common hepatic duct (CHD) in 80% of cases.",
+                "C The cystic duct junction with the CHD might vary.",
+                "D The cystic artery arise from the common hepatic artery.",
+                "E The cystic artery runs across the Calot's triangle."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "The cystic duct, about 3 cm long, opens into the CHD in 80% of cases. In the other 20% there are several variations of which the surgeon should be aware. The cystic duct might open into the CHD much lower down into the retro or infra-duodenal part while occasionally it might join the right hepatic duct. The surgeon should be aware of these variations so as not to cause inadvertent damage to the CBD during cholecystectomy. The cystic artery arises from the right hepatic artery (not common hepatic artery) and runs across the Calot's triangle where it should be identified. There are variations of the blood supply too and the surgeon must be aware of them.\nThe CBD, about 7.5 cm long, is divided into four parts according to its relationship to the duodenum – supraduodenal, retroduodenal, infraduodenal and intraduodenal. The infraduodenal part is intimately related to the posterior surface of the pancreas lying in a groove but sometimes in a tunnel. Cancers arising in this region in the head of the pancreas obstructs the CBD here causing obstructive jaundice.\nThe Calot's triangle. Readers should note that there is a distinct difference of opinion regarding this anatomical fact. Anatomy books (Gray's Anatomy and Last's Anatomy) describe the Calot's triangle as bounded by the cystic duct laterally, the CHD medially and above by the lower border of segment V of the liver. This has been traditionally taught as the Calot's ∆ (also called the cystohepatic ∆ in some quarters). Jean-Francois Calot, a French surgeon, described his ∆ in 1891, the three sides consisting of the cystic duct, CHD and upper margin of the cystic artery, the same description as given in Bailey and Love and some other surgical books. This ∆ is sometimes referred to as the hepatobiliary Δ. To compound the confusion further, certain quarters use the terms cystohepatic and hepatobiliary triangles synonymously. The reader is asked to make up his or her own mind from this morass of confusion. However, there is one certainty. The surgeon must be aware of the various anatomical variations and must meticulously look for the cystic artery in this region before clipping and dividing the cystic duct."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "2. Which of the following statements are true regarding lymphatic drainage?",
+            "options": [
+                "A The sentinel lymph node is the cystic lymph node of Lund.",
+                "B The cystic lymph node lies in the fork created by the cystic duct and the right hepatic duct.",
+                "C Efferent vessels from the cystic lymph node go to the superior mesenteric nodes.",
+                "D The lymphatics of the gall bladder also connect directly with the lymphatics of the liver.",
+                "E The lymphatic vessels are mainly in the sub-mucosal and sub-serosal layers of the wall."
+            ],
+            "answer": [
+                "A",
+                "D",
+                "E"
+            ],
+            "explanation": "The sentinel lymph node lies in the fork created by the junction of the cystic and common hepatic ducts. It is an important landmark at lap cholecystectomy as the cystic duct is dissected at this level. The efferent vessels go to the hilum of the liver and then to the coeliac nodes. The direct connections between the lymph vessels of the gall bladder and liver can lead to early and direct spread of gall bladder cancer."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. Which of the following statements are true?",
+            "options": [
+                "A Bile consists of 97% water.",
+                "B About 95% of bile salts are reabsorbed.",
+                "C During fasting bile is diverted into the gall bladder.",
+                "D Gall bladder concentrates the bile.",
+                "E Gall bladder secretes mucus."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The liver produces 500–1000 mL of bile in 24 hours; 97% of bile is water, whilst the remainder consists of bile salts (cholic, chenodeoxycholic, dexoxycholic and lithocholic acids). Almost 95% of bile salts are reabsorbed in the terminal ileum through the enterohepatic circulation. Therefore, when the terminal ileum is diseased (Crohn's disease) or removed (right hemicolectomy) there is a disturbance in the enterohepatic circulation promoting the formation of gallstones.\nIn fasting, there is resistance of the flow of bile through the sphincter of Oddi, thus diverting bile to be stored in the gall bladder. After the ingestion of food, the sphincter relaxes and the gall bladder contracts, allowing bile to flow into the duodenum; this process is facilitated by cholecystokinin. The gall bladder has the ability to concentrate bile by absorbing water, sodium chloride and bicarbonate. It also secretes mucus, which it continues to do when a stone obstructs the cystic duct – the basis of a mucocoele."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. The following statements are true except:",
+            "options": [
+                "A Ultrasound (US) examination shows up stones and CBD dilatation.",
+                "B A HIDA scan is useful in diagnosing bile leak.",
+                "C Plain x-ray is useful to look for calcification, which is seen in 80% of gallstones.",
+                "D Endoscopic retrograde cholangiopancreatography (ERCP) is useful in showing up anatomy, stones and strictures.",
+                "E Percutaneous transhepatic cholangiogram (PTC) is ideal in high strictures."
+            ],
+            "answer": "C",
+            "explanation": "Plain x-ray in biliary imaging is an obsolete investigation, as only 10% of gallstones are radio-opaque. US is the first imaging modality in suspected gall bladder disease. Besides being readily available, it is quick to perform, produces no ill effects such as radiation, inexpensive and can be repeated and accurate. It will show up stones and the diameter of the CBD. However, it is operator dependent, which is its only limitation. HIDA scan, which is radioisotope scanning, visualises the gall bladder and biliary tree. Technetium-99m (99mTc)-labelled derivative of iminodiacetic acid when injected intravenously is excreted in the bile. It is useful in diagnosing bile leak and hence useful in suspected iatrogenic biliary obstruction.\nERCP will show up the anatomy of the CBD and pancreatic ducts; it will show up strictures and stones will be seen as filling defects. US and MRCP have reduced the diagnostic use of ERCP, which can produce acute pancreatitis. However, it has the added advantage of bile aspirates, endoluminal brushings and endoscopic papillotomy, procedures which have made ERCP into much more a therapeutic technique. PTC is particularly useful when US has shown a high stricture such as a hilar cholangiocarcinoma (Klatskin tumour). This also has the added therapeutic advantage of external biliary drainage and insertion of a stent. This procedure, as it is mostly carried out in the jaundiced patient, will require prophylactic vitamin K and antibiotics; haemorrhage and bile peritonitis are rare complications."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "5. Which of the following statements are true?",
+            "options": [
+                "A Liver function tests should be routinely carried out.",
+                "B Magnetic resonance cholangiopancreatography (MRCP) images are comparable to images by ERCP and PTC.",
+                "C Peroperative cholangiography is routinely done in cholecystectomy.",
+                "D Choledochoscopy should be done in the appropriate patient to ensure complete removal of stones from CBD.",
+                "E Endoscopic and laparoscopic US are accurate techniques in staging cancers."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "In suspected biliary tract disease liver function tests (LFTs) should be the first investigations to be carried out. This should include prothrombin time and serum amylase. In obstructive jaundice MRCP gives excellent images to determine the cause of obstruction and is fast superseding ERCP and PTC as diagnostic procedures in view of their potential complications. Once the CBD is explored for stones, laparoscopically or by open method, operative biliary endoscopy in the form of choledochoscopy should be carried out to ensure all stones have been removed.\nAnother technique of visualising the biliary tree and pancreas is to perform endoluminal ultrasound (EUS) using a specially designed endoscope with an ultrasound transducer at its tip. While showing stones in the CBD, it is particularly sensitive in staging pancreatic head and periampullary cancers. Laparoscopic US is another imaging technique to look at the extrahepatic biliary tree. Besides it is a very useful diagnostic procedure for pancreatic endocrine tumours and staging in oesophageal, gastric and pancreatic head cancers.\nPeroperative cholangiogram (on table cholangiogram) (Figure 67.1a and b) is not routinely done in cholecystectomy. Those who routinely do it, do so to delineate the anatomy of the biliary tree as in almost 20% there is an anatomical variation. It is also done to exclude unsuspected stones in the CBD. The advisability of doing this routinely is a highly contentious issue and discussion on the topic is beyond the scope of this book."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "6. Which of the following statements are true?",
+            "options": [
+                "A Associated anomalies include situs inversus.",
+                "B Jaundice is a late feature.",
+                "C Type 1 anomaly involves the common hepatic duct.",
+                "D Kasai procedure is best done 3 to 6 months after birth.",
+                "E 70%-80% patients are alive 2 to 5 years after liver transplant."
+            ],
+            "answer": [
+                "A",
+                "E"
+            ],
+            "explanation": "Atresia is present in approximately 1 per 12,000 live births and affects both genders equally. About one-third of patients are jaundiced at birth, and by the end of 1st week all affected babies will have jaundice. If untreated, cirrhosis and portal hypertension will follow with eventual liver failure. Associated anomalies are seen in 20% of these patients and this includes cardiac lesions, situs inversus, absent IVC, polysplenia and preduodenal portal vein. The type 1 anomaly affects the common bile duct, the type 2 involves the common hepatic duct and the type 3 is limited to the left and right hepatic ducts. The results of Kasai procedure (porto-enterostomy) are best when done within 8 weeks after birth. Liver transplantation should be considered if Kasai procedure is unsuccessful."
+        },
+        {
+            "id": 7,
+            "question_type": "msq",
+            "question": "7. Which of the following statements are true?",
+            "options": [
+                "A It involves the intra-hepatic ducts.",
+                "B It is a hereditary condition.",
+                "C The peri-portal fibrosis type presents later in life.",
+                "D It can be associated with cholangiocarcinoma.",
+                "E The mainstay of treatments is antibiotics and removal of calculi."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "The periportal fibrotic type presents early whereas the ‘simple' type presents later. Biliary stasis leading to sepsis and stone formation is the typical course. Associated conditions include congenital hepatic fibrosis, polycystic liver and rarely cholangiocarcinoma. The mainstay of treatment is antibiotics and removal of the stones. If the condition is limited to one lobe, lobectomy may be a surgical option."
+        },
+        {
+            "id": 8,
+            "question_type": "msq",
+            "question": "8. Which of the following statements are true?",
+            "options": [
+                "A This only involves the extra-hepatic duct.",
+                "B 60% of cases are diagnosed before the age of 10 years.",
+                "C There is an increasing risk of developing cholangiocarcinoma.",
+                "D MRCP is useful in the definition of the anatomy.",
+                "E Cholecystectomy should be a part of the surgical treatment."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "It is a congenital dilatation of the bile ducts and affects the intra and extra hepatic biliary system. Jaundice, abdominal pain, fever and abdominal mass are typical symptoms. Ultrasound, MRCP and CT scan are all helpful in evaluation. Excision of the choledochal cyst and hepatico-jejunostomy to a Roux loop is the treatment of choice. Cholecystectomy is carried out at the same time because there is a high risk of development of carcinoma."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "9. The following statements are true except:",
+            "options": [
+                "A Cholecystectomy should be performed whenever gallstones are found.",
+                "B Types of gallstones are cholesterol, pigment and mixed.",
+                "C Gallstones can cause various complications including intestinal obstruction.",
+                "D Acute cholecystitis can occur without stones.",
+                "E In emergency presentation from biliary colic or acute cholecystitis, cholecystectomy can be performed at the index admission."
+            ],
+            "answer": "A",
+            "explanation": "Cholecystectomy is not indicated in all cases of gallstones, the majority of which are asymptomatic. Patients with asymptomatic gallstones should only undergo a cholecystectomy in the following situations:\n• They have a porcelain gall bladder, which has a high incidence of turning malignant in the long term\n• If they are type 1 diabetics because they are prone to complications\n• If they have a choledochal cyst (see previously)\nThe types of gallstones are cholesterol, pigment (black or brown) and mixed. The formation of a gallstone is explained in Figure 67.2. Gallstones can cause several complications as described in Figure 67.3. When the complication is intestinal obstruction, it is due to gallstone ileus. Acute cholecystitis can occur without stones when it is referred to as acalculous cholecystitis. Acute acalculous cholecystitis is seen in critically ill patients and those recovering from major surgery, trauma, or burns. Some of the sufferers may have one of the forms of cholecystoses (see the following).\nWhen patients present as an emergency with acute cholecystitis or biliary colic, after full resuscitation and confirmation of the diagnosis, a cholecystectomy at the index admission has much to recommend it. But the ultimate definitive management depends upon the policy of the individual surgical unit. The management is described in Figure 67.4."
+        },
+        {
+            "id": 10,
+            "question_type": "msq",
+            "question": "10. Which of the following statements are true?",
+            "options": [
+                "A Complications can occur in 10%–15% of cases.",
+                "B Bile duct injury is usually recognised at the time of the operation.",
+                "C Post-cholecystectomy syndrome occurs in 15% of patients.",
+                "D Stones in the bile ducts are less often associated with infected bile than are stones in the gall bladder.",
+                "E Jaundice in the postoperative period is usually self-limiting and needs investigating only if it persists for more than 1 week."
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "explanation": "The operative mortality for cholecystectomy is less than 1%. Complications can occur in 10%–15% of cases. The serious complications of laparoscopic cholecystectomy fall into two areas – access-related complications and bile-duct injuries. Bile-duct injuries occur in about 0.5% of cases, 15% of these being recognised at the time of operation whilst in the remainder postoperative problems point to the mishap.\nPoor dissection and failure to identify the anatomy might contribute to this. Patients who develop jaundice should promptly undergo the full gamut of investigations – blood and imaging. Once damage to the CBD is suspected, the patient should be immediately referred to a tertiary hepatobiliary unit (see the following). The principles of management of iatrogenic damage to the CBD can be summarised as the following 4Rs:\n• Recognise\n• Refer\n• Re-operate\n• Review\nPost-cholecystectomy syndrome can be defined as persistence of the same symptoms that the patient had preoperatively, which can happen in up to 15% of patients undergoing cholecystectomy. This is primarily due to performing the operation for the wrong reasons such as peptic ulcer disease, gastro-oesophageal reflux disease (GORD), or irritable bowel syndrome. Sometimes it can be due to a residual stone; 80% of stones in the CBD are due to infected bile."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "11. Which of the following statements are true?",
+            "options": [
+                "A It is more common in females.",
+                "B It involves both intra and extra biliary ducts.",
+                "C It usually starts in childhood.",
+                "D Liver biopsy is not useful.",
+                "E Liver transplantation is an option if cirrhosis is not present."
+            ],
+            "answer": "B",
+            "explanation": "It is an idiopathic fibrosing inflammatory condition. The majority of the patients are between 30 and 60 years, and there is a male predominance. Imaging studies and liver biopsies are all helpful in the diagnosis and in excluding cirrhosis. For patients with associated cirrhosis, liver transplantation would be the best option with 5-year survival rates in excess of 80%. There are two types – primary and secondary. (Figure 67.5)"
+        },
+        {
+            "id": 12,
+            "question_type": "msq",
+            "question": "12. Which of the following statements are true?",
+            "options": [
+                "A The round worm (Ascaris Lumbricoides) enters the biliary tact through the bloodstream.",
+                "B Clonorchiasis is endemic in Africa.",
+                "C Obstructive jaundice and cholangitis are common presentations of hydatid disease.",
+                "D Complications include bile duct carcinoma.",
+                "E Recurrent stones can be a problem."
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The roundworm is commonly seen in Asia, Africa and Central America. Once it has become resident in the intestine, it enters the biliary tree through the ampulla of Vater and causes similar complications to gallstones – ascending cholangitis, biliary colic and acute pancreatitis. Hydatid disease can cause the same problems. Clonorchis sinensis is a fluke that is endemic in the Far East and occurs from eating infected fish. It can cause the same problems as described previously but with the added sinister complication of cholangiocarcinoma in the long term."
+        },
+        {
+            "id": 13,
+            "question_type": "emq",
+            "question": "Match the previously listed diagnoses with the clinical features of the various conditions that follow:",
+            "options": {
+                "items": [
+                    "A A 72-year-old woman has had dull right upper quadrant pain interspersed with occasional acute attacks for almost a year; she has lost weight. An ultrasound of the gall bladder showed uniform calcification of the gall bladder with gallstones – a porcelain gall bladder. She has raised inflammatory markers, transaminases and white cell count and is anaemic.",
+                    "B A 38-year-old woman is seen as an emergency complaining of severe right upper quadrant pain radiating to the back and epigastrium of 24 hours duration. She has vomited a few times and is feverish. On examination she is febrile, and slightly jaundiced; palpation of the right upper quadrant elicits extreme tenderness, which is exacerbated by taking a deep breath (positive Murphy's sign).",
+                    "C A 52-year-old woman, on the waiting list for laparoscopic cholecystectomy, has been admitted as an emergency with increasing right upper quadrant pain, swinging pyrexia and extreme tenderness over the gall bladder. She is toxic and has leucocytosis with raised inflammatory markers; ultrasound of the gall bladder shows thickened gall bladder enveloped by omentum with peri-cholecystic fluid.",
+                    "D A 40-year-old woman, on the waiting list for a laparoscopic cholecystectomy, complains of recurrent right upper quadrant discomfort which is not too bad for hospital admission but bad enough to see her general practitioner (GP). The GP found that the patient has a smooth globular mass in the right upper quadrant moving with respiration and slightly tender.",
+                    "E A 32-year-old woman presents as an emergency with sudden onset of severe colicky epigastric pain radiating to the right subcostal region, back and right shoulder tip. The pain makes her feel nauseated and in between attacks she is left with a dull ache on the right side where she is tender. This has been going on for 48 hours.",
+                    "F A 74-year-old woman complains of intermittent generalised abdominal pain, distension and vomiting for almost 1 week. Over the past couple of days she has become much worse and has been admitted as a surgical emergency. On examination she is grossly dehydrated. Abdominal examination shows generalised distension and tenderness without any lumps or scars."
+                ],
+                "choices": [
+                    "1 Acute cholecystitis",
+                    "2 Biliary colic",
+                    "3 Carcinoma of the gall bladder",
+                    "4 Empyema of the gall bladder",
+                    "5 Gallstone ileus",
+                    "6 Mucocoele of the gall bladder"
+                ]
+            },
+            "answer": {
+                "A": "3",
+                "B": "1",
+                "C": "4",
+                "D": "6",
+                "E": "2",
+                "F": "5"
+            },
+            "explanation": "1. B Acute cholecystitis\nThis patient has typical features of acute cholecystitis. However other intra-abdominal conditions must be excluded such as acute pancreatitis, retrocaecal acute appendicitis, perforated peptic ulcer, acute pyelonephritis and Curtis-Fitz-Hugh syndrome. Acute pancreatitis may co-exist when the patient is much more ill with features of shock. A serum amylase will clinch the diagnosis, although acute pancreatitis may exist in the presence of a normal amylase (see Chapter 68, The pancreas). Abdominal ultrasound (US) should exclude the other diagnoses; an erect chest x-ray (CXR) might show gas under the right dome of the diaphragm (although not infallible) to exclude perforated peptic ulcer. Curtiz-Fitz-Hugh syndrome is a condition that occurs in 15% to 30% of women with pelvic inflammatory disease (PID) with gonorrhoea or Chlamydia, producing flimsy adhesions (like ‘violin-string') between the liver and right anterior abdominal wall causing the tenderness to simulate acute cholecystitis. US should exclude the condition or laparoscopy would confirm it (see Chapter 65, The liver)\nThe management consists of resuscitation, confirmation of diagnosis and institution of definitive treatment. Resuscitation should consist of analgesia (100 mg of pethidine), intravenous fluids and haematological and biochemical investigations including serum amylase and blood culture. This would show leucocytosis with raised liver functions tests (LFTs). Broad-spectrum antibiotics – a cephalosporin or gentamicin – are started.\nWithin the next 24 hours an abdominal US is done to confirm the diagnosis. If the US shows gallstones with a CBD less than 7 mm in diameter, the patient should undergo a laparoscopic cholecystectomy (LC) on the next urgent operating list at the same admission. If the CBD is not seen or dilated on US, a magnetic resonance cholangiogpancreatography (MRCP) is done to visualise the CBD; if the CBD is normal, a LC is done. If, however, the CBD contains stones, an endoscopic retrograde cholangiopancreatography (ERCP) is done with endoscopic papillotomy to remove the stones followed by LC, once again at the same admission. Endoscopic papillotomy to rid the CBD of the stones prior to LC is not universally accepted, particularly in the young patient because of long-term problems such as recurrent cholangitis from biliary-pancreatic reflux and the unproved possibility of cholangiocarcinoma. Therefore if the expertise of laparoscopic exploration of CBD is available, the procedure should be used in preference to endoscopic papillotomy (see algorithm in Figure 67.4).\nShould the patient not be operated upon at the index admission, she would settle down (this would happen in the majority) and discharged home to return for an interval cholecystectomy later. This management happens in some centres. This choice is unsatisfactory, as the patient would require two admissions, thus increasing the suffering; moreover, while the patient waits, she might develop another acute attack and worse still, the subsequent attack might be associated with acute pancreatitis.\n2. E Biliary colic\nBiliary colic occurs in up to one-quarter of patients with gallstones who present as an emergency. It is essentially an obstructive problem, whilst acute cholecystitis is an obstructive problem with superimposed infection. In biliary colic, the gall bladder contracts in trying to expel the stone into the cystic duct and CBD. It causes severe acute pain that waxes and wanes and which might last from a few minutes to hours. As it is a mechanical problem with no infection, the patient is in acute pain but not toxic. The stone drops back into the gall bladder and the patient is much better – feels almost as normal as prior to the attack. The underlying pathology in acute cholecystitis shows a red, inflamed gall bladder of varying thickness wrapped up in omentum forming an inflammatory mass. On the other hand in biliary colic, the gall bladder wall will be blue and thin-walled with minimal pericystic fluid.\nThe management is the same as in acute cholecystitis (Figure 67.4), although the patient need not be put on antibiotics (if there is no leucocytosis and raised inflammatory markers) although some may put the patient on a short course. Technically the operation of LC is much easier because of the lack of adhesions.\n3. A Carcinoma of the gall bladder (Figure 67.6)\nThis is a rare condition – 600 cases are diagnosed in the United Kingdom annually. Carcinoma is found as an incidental finding in 2% of patients undergoing cholecystectomy. Long-standing gallstones are regarded as a cause. However, the risk of developing cancer in those with galltones is regarded as no more than1%; hence cholecystectomy in symptomless gallstones is not recommended. However, patients with a porcelain gall bladder have a one-in-four chance of developing cancer; hence prophylactic cholecystectomy is advised in asymptomatic patients with porcelain gall bladder. Gall bladder polyp as a cause is debatable although the presence of carcinoma in adenomatous polyps larger than 1 cm has prompted some authorities to recommend prophylactic cholecystectomy in cholecystoses (see the following). The histology is adenocarcinoma. By the time the diagnosis is made it has already spread by contiguity to the liver bed (segments IV and V), the regional lymph nodes and transperitoneally; hence the poor prognosis, the 5-year survival being about 3% to 5%. Tumour markers such as CA 19-9 and CEA are elevated in the majority.\nIn very early disease where the cancer is diagnosed as an incidental finding and has not infiltrated beyond the muscle (T1), no further treatment is recommended. Radical surgery is considered in transmural spread without distant metastasis (T2 disease). This consists of en bloc resection of the gall bladder bed, including segments IV and V along with regional lymph nodes.\nThe term cholecystoses comprises a group of conditions that affect the gall bladder and which are often found on histological examination after LC: cholesterolosis (‘strawberry' gallbladder) (Figure 67.7), polyposis, cholecystitis glandularis proliferans and diverticulosis. In cholesterolosis there is accumulation of cholesterol crystals resulting from supersaturation of bile with cholesterol. All these conditions might clinically present with gallstones, which are usually pigment stones that occupy diverticula within the gall bladder wall.\n4. C Empyema of the gall bladder (Figure 67.8)\nIf not promptly diagnosed and treated an empyema can perforate. Perforation, usually at the fundus, is the outcome of gangrene. The site might get walled off by omentum, forming a pericholecystic abscess. The gangrenous site might result in free perforation causing biliary or purulent peritonitis when the patient is extremely ill and toxic. Rarely the pericholecystic abscess might get adherent to the duodenum and erode into it, forming a cholecystoduodenal fistula in due course.\nThis patient needs to be resuscitated with intravenous fluids, analgesics and broad-spectrum antibiotics. While the patient is being optimised, under US guidance percutaneous drainage of the pus is carried out and a catheter is left within the gall bladder. Once the patient has recovered, the catheter is removed and elective cholecystectomy carried out later. In this situation a ‘fundus-first' approach should be done. On occasions, the gall bladder may be so densely embedded within the liver bed that a partial cholecystectomy might have to be undertaken. In this the anterior wall of the gall bladder and Hartmann's pouch are removed, leaving the posterior gall bladder wall within the liver bed; the mucosa is destroyed by diathermy leaving a drain.\n5. F Gallstone ileus\nGallstone ileus accounts for almost one-fifth of all causes of acute small bowel obstruction after excluding external hernia and adhesions. Usually the diagnosis is made at laparotomy. The plain x-ray of abdomen and CT scan showing the classical radiological triad of small intestinal obstruction with a radio-opaque gallstone in the pelvis and gas in the biliary tree is an exception rather than the rule (Figure 67.9a and b).\nA cholecystoduodenal fistula forms from long-standing chronic cholecystitis, resulting in a gallstone fistulating through into the duodenum. The stone gradually works its way down the small bowel and gets impacted in the narrow terminal ileum causing distal small bowel obstruction. The patient needs to be resuscitated with analgesics, intravenous fluids and nasogastric suction, following which a laparotomy is carried out. At operation the bowel is decompressed, the stone is removed through an enterotomy that is closed transversely, and the abdomen is closed without disturbing the site of the fistula and gall bladder.\n6. D Mucocoele of the gall bladder (Figure 67.10)\nAfter an attack of biliary colic, the gallstone remains impacted at the cystic duct, obstructing the egress of bile from the gall bladder into the CBD. This causes the bile and bile salts within the gall bladder to be reabsorbed; the gall bladder continues to secrete mucus thus becoming enlarged, tense and slightly tender, forming a mucocoele. Left untreated, infection might supervene causing an empyema with its attendant complications (see previously). The treatment is cholecystectomy. At cholecystectomy prior to starting dissection, aspiration of the gall bladder will make the procedure technically easier."
+        },
+        {
+            "id": 14,
+            "question_type": "emq",
+            "question": "Match the diagnoses with the clinical features of the various conditions that follow:",
+            "options": {
+                "items": [
+                    "A A 36-year-old woman underwent a laparoscopic cholecystectomy. The procedure was straightforward. The following day before discharge she complained of severe itching and jaundice with generalised upper abdominal pain.",
+                    "B A 60-year-old woman has been admitted as an emergency with a 4-day history of severe right upper quadrant pain, vomiting, jaundice and intense pruritis and is very toxic – high temperature with rigors and hyperdynamic circulation. She has not had any operations in the past.",
+                    "C A 55-year-old woman has been admitted with jaundice, itching, right upper quadrant discomfort and a temperature of 39°C. She had similar episodes in the past that subsided with antibiotic treatment from her GP. This time the episode has lasted for more than 1 week. She is under the gastroenterologist for ulcerative colitis for which she is on regular colonoscopic surveillance.",
+                    "D A 62-year-old man underwent a cholecystectomy 18 months ago, following which he remained well until 1 month ago when he developed colicky upper abdominal pain radiating to the back reminiscent of his attacks prior to his cholecystectomy. Recently he has been passing dark urine and is bothered by itching. On examination there is nothing to find except for scars of LC ports and a few scratch marks over his body.",
+                    "E A 48-year-old woman underwent a cholecystectomy 4 months ago for biliary colic. She was well immediately after the operation. However, 6 weeks ago she had a recurrence of her abdominal pain, which is very similar to the pain she had prior to the removal of her gall bladder. Except for the pain she feels and looks well.",
+                    "F A 45-year-old woman complains of right upper quadrant pain, jaundice with pruritis and swinging pyrexia, which at its height is 41°C. Her LFTs are deranged, with an alkaline phosphatase of 790 units. An US showed dilated common hepatic and intrahepatic ducts and an inflammatory mass in the region of the Calot's triangle.",
+                    "G A 72-year-old man complains of severe itching all over his body of 6 weeks duration. He has been passing high-coloured urine and pale stools. His family noticed that he was becoming increasingly yellow in colour. On examination, besides scratch marks all over his body, he has a smooth globular nontender mass in his right upper quadrant."
+                ],
+                "choices": [
+                    "1 Carcinoma of lower end of common bile duct",
+                    "2 Iatrogenic damage to CBD",
+                    "3 Mirrizi's syndrome",
+                    "4 Post-cholecystectomy syndrome",
+                    "5 Residual stone in CBD",
+                    "6 Sclerosing cholangitis",
+                    "7 Stone in CBD"
+                ]
+            },
+            "answer": {
+                "A": "2",
+                "B": "7",
+                "C": "6",
+                "D": "5",
+                "E": "4",
+                "F": "3",
+                "G": "1"
+            },
+            "explanation": "1. G Carcinoma of lower end of common bile duct\nThis clinical picture of obstructive jaundice and an enlarged gall bladder could be from a carcinoma of the lower end of the CBD, carcinoma of the head of the pancreas or a periampullary carcinoma. However, the latter has a presentation which is slightly different in that the jaundice waxes and wanes. This is because the periampullary carcinoma in time outgrows its blood supply, which results in necrosis and sloughing of the growth allowing the egress of bile through the ampulla of Vater. This will alleviate the jaundice slightly only for the process to repeat itself as the cancer re-grows. At the same time the size of the gall bladder will also enlarge and get smaller.\nThis patient should have all the blood tests; LFTs will show the obstructive nature of the jaundice with possible liver derangement. Imaging should consist of US, which will show dilated intra and extra-hepatic ducts with a solid mass at the lower end of the CBD. Confirmation is done by ERCP and brush cytology of the growth; a biopsy may sometimes be possible. This is followed by CT scan of the abdomen and chest to assess local and distant spread. If there is no evidence of spread and radical resection is contemplated, laparoscopy +/– US is performed as a further staging procedure. If this is clear, a Whipple's pancreatoduodenectomy is performed. If curative resection is not possible, the patient should be palliated for the distressing symptom of pruritis by inserting a metallic stent endoscopically.\n2. A Iatrogenic damage to CBD\nThis patient almost certainly has iatrogenic damage to the CBD. This happens most commonly in 'the easy cholecystectomy' where the CBD is mistaken for the cystic duct, which is then clipped and divided. The management should consist of excellent honest communication with the patient and family. All investigations – blood and imaging should be performed. US followed by the most appropriate imaging – ERCP (Figure 67.11), PTC, MRCP – should be done. Once the pathology has been delineated, the patient should be referred to the tertiary hepatobiliary centre for definitive management.\nThe operative treatment would depend upon the classification of injury. There are several classifications, which follow:\n• Bismuth 1982 Types 1 to 5\n• Strasberg 1995 Types A to E – Type E re-classified according to Bismuth E1 to E5\n• Bismuth and Majno 2001\nDiscussion of all the previously listed types of injuries is beyond the scope of this book. The lower the injury, the easier the repair. Choledochoduodenostomy (for low CBD injury), hepatico-jejunostomy to a Roux loop (CHD injury) and side-to-side left hepatico-jenunostomy to a Roux loop (for hilar injury) are the broad choices of operative repair.\nThe causes of CBD strictures are classified in Figure 67.12.\n3. F Mirrizi's syndrome (Figure 67.13a and b)\nThis condition occurs in less than 0.5% of patients with gallstones. It results in the following situations:\ni. The cystic duct at the neck of the gall bladder runs parallel to the common hepatic duct (CHD)\nii. A stone is impacted at the cystic duct or neck of the gall bladder\niii. Mechanical obstruction of the CHD by the stone or an inflammatory mass\niv. Intermittent or progressive obstructive jaundice with recurrent ascending cholangitis\nRegarding the types of this syndrome, there are 2 classifications – McSherry and Csendes. The reader is asked to look up other sources for details of this classification.\nThe diagnosis is suspected and confirmed by ERCP. As the patients are ill with features of septic shock, initial resuscitation (intravenous fluids, vitamin K, antibiotics) is followed by insertion of a stent into the CBD; this will relieve the patient's jaundice and improve the general condition. Once optimised, 2 to 3 weeks later, definitive surgery in the form of open cholecystectomy is carried out. Other complicated procedures might be necessary depending upon the type of the syndrome. Ideally, Mirrizi's syndrome is managed in a tertiary hepatobiliary centre.\n4. E Post-cholecystectomy syndrome\nPost-cholecystectomy syndrome is defined as persistence or recurrence of the same symptoms that the patient had prior to cholecystectomy. It is estimated that 5% to 40% of patients might suffer from this condition although a more realistic incidence is probably 15%. The causes can be classified as the following: (i) of biliary origin and (ii) of non-biliary origin. The incidence is about equal in both groups.\nThe causes of biliary origin are the following:\na. Residual stone in CBD (see the following)\nb. Iatrogenic stricture of CBD (see previously)\nc. Biliary dyskinesia (dysfunction of sphincter of Oddi)\nThe causes of non-biliary origin are the following:\nd. Cholecystectomy done for the wrong reason, e.g., patient suffering from irritable bowel syndrome (IBS) and had incidental gallstones; cause of patient's abdominal pain was not properly investigated in the first instance\ne. Gastro-oesophageal reflux disease (GORD)\nf. Peptic ulcer disease\ng. Chronic pancreatitis\nThe entire gamut of investigations is carried out: OGD, US, CT scan, MRCP and ERCP (Figure 67.14). After thorough reinvestigation, this patient might continue to have typical biliary pain in the absence of gallstones and pancreatic pathology. Biliary dyskinesia would be the diagnosis in such a patient (a diagnosis by exclusion), especially in the presence of abnormal LFTs. Such a patient should be considered for endoscopic papillotomy or transduodenal sphincterotomy and sphincteroplasty (open operation). Prior to such a procedure, some surgeons might consider dynamic biliary scintigraphy and sphincter of Oddi manometry. After such operations, more than half of such patients are pain-free.\n5. D Residual stone in CBD\nThis patient has typical features of a retained stone in the CBD. All the routine haematological and biochemical investigations, including LFTs and prothrombin time, should be done, followed by US and ERCP (Figure 67.15). If ERCP is not possible, PTC is carried out (Figure 67.16) after taking the usual precautions (making sure that prothrombin time is normal and giving vitamin K if necessary). The patient is treated by endoscopic papillotomy. If the stone is larger than 1 cm, then extracorporeal shock wave lithotripsy (ESWL) through the endoscope to fragment the stone followed by extraction is carried out.\n6. C Sclerosing cholangitis\nSclerosing cholangitis can be primary or secondary (Figure 67.5). Primary sclerosing cholangitis is regarded as an autoimmune condition, as evidenced by elevated IgM, perinuclear anti-neutrophil cytoplasmic antibody and anti-smooth muscle antibodies. It is seen in association with ulcerative colitis in 50% to 70% of patients. The condition, when long-standing, can result in cholangiocarcinoma.\nSecondary is usually due to infestation with clonorchis sinensis prevalent in the Far East, gallstones and in those who have undergone repair of CBD stricture for iatrogenic damage, particularly those having had multiple operations. The majority of patients have intra and extrahepatic ducts involvement. Delineating the anatomy of the entire biliary tree is the keystone in diagnosis. ERCP is most sensitive in showing the typical changes – irregular, beaded appearance of bile ducts with multifocal stricturing; liver biopsy shows periductal and focal fibrosis.\nIt is a condition that is a challenge for the hepatologist. Supportive treatment for symptoms of cholangitis, pruritis, jaundice and abdominal discomfort is the mainstay of management. In selected cases repeated ductal balloon dilatations, endoscopic stenting and hepatico-jeunostomy have been worthwhile palliative procedures. Liver transplantation, when feasible, gives good results.\n7. B Stone in the CBD\nThis is a typical presentation called ‘Charcot's intermittent hepatic triad'. The triad consists of high temperature with rigors from ascending cholangitis, biliary colic due to the stone going up and down the CBD and jaundice from obstruction to the flow of bile; in addition pruritis is a distressing symptom with the patient having scratch marks all over her body and shiny fingernails being the outcome of incessant scratching.\nHer symptoms suggest that she is suffering from the effects of septic shock – toxicity with hyperdynamic circulation. She is resuscitated with analgesia, intravenous fluids, vitamin K and broad-spectrum antibiotics. All blood tests are carried out, including blood culture. An US is done to confirm the diagnosis, which will show dilated CBD with a stone and inflamed gall bladder. ERCP is next performed (Figure 67.17). Once stone in the CBD is seen, an endoscopic papillotomy and stone extraction is carried out (see previously). The patient would now improve after the acute biliary obstruction has been relieved. At the same admission a laparoscopic cholecystectomy is carried out as a definitive procedure."
+        }
+    ]
+}

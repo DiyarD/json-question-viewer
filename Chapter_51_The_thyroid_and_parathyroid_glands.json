@@ -1,0 +1,645 @@
+{
+    "chapter_name": "The thyroid and parathyroid glands",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "Which lymph nodes represent the primary echelon of drainage for the thyroid gland?",
+            "options": [
+                "A Retropharyngeal nodes.",
+                "B Jugulodigastric nodes.",
+                "C Central compartment nodes.",
+                "D Parapharyngeal nodes.",
+                "E Mediastinal nodes."
+            ],
+            "answer": "C",
+            "explanation": "The thyroid gland has a rich lymphatic supply and drains primarily to the central compartment or level VI nodes. These can be further subdivided in to prelaryngeal (Delphian nodes), pretracheal and paratracheal regions. Although most lesions of the thyroid drain to these regions, occasionally drainage from the upper poles can be to the parapharyngeal region. Papillary thyroid cancer (the most common malignancy of the thyroid) metastasises often and early, so many nodes in central and lateral compartments of the neck may be involved, although this is not always obvious on clinical examination or even imaging. Interestingly, even though micrometastases are present in up to 40% of patients considered free of disease, micrometastases rarely progress to cause clinical recurrence and therefore elective neck dissection is not routinely advocated."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "Which of the following conditions is usually present with hyperthyroidism?",
+            "options": [
+                "A Graves' disease.",
+                "B Toxic nodule.",
+                "C Thyroid malignancy.",
+                "D De Quervain's thyroiditis.",
+                "E Toxic multinodular goitre."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Graves' disease is a common autoimmune condition that usually occurs in young women and is associated with eye signs. Abnormal TSH receptor antibodies produce a disproportionate and prolonged effect. It can be associated with other autoimmune conditions such as Addison's disease, type 1 diabetes, pernicious anaemia and coeliac disease. Toxic nodular goitre is often seen in middle age or in the elderly and is rarely associated with eye signs. A solitary toxic nodule is often autonomous and its hypertrophy or hyperplasia is not associated with TSH receptor antibodies. Thyroid cancer very rarely presents as hyperthyroidism. Thyroid inflammation, especially postpartum, can cause hyperthyroidism."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "What are the manifestations of thyrotoxicosis?",
+            "options": [
+                "A Irritability.",
+                "B Hair loss.",
+                "C Muscle weakness and wasting.",
+                "D Hyperkinesias.",
+                "E Heart failure."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Thyrotoxicosis is characterised by the clinical, physiological and biochemical changes that result when tissue is exposed to excess thyroid hormone. It can present with symptoms of hyperactivity, insomnia and heat intolerance, weight loss with increased appetite, palpitations and fatigue. The signs often are fine tremor, warm moist skin, proptosis palmar erythema, onycholysis, hair loss, high output heart failure and, rarely, periodic paralysis, which is associated with hypokalaemia."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "Which of the following are associated with Graves' disease?",
+            "options": [
+                "A Pretibial myxoedema.",
+                "B Exposure keratitis.",
+                "C Optic neuropathy.",
+                "D Chemosis.",
+                "E Lymphoid hyperplasia."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The exophthalmos in thyroid eye disease is due to retrobulbar infiltration of tissue with fluid and round cells. Oedema of the eyelids and conjunctival injection might be worsened by compression of ophthalmic veins. Urgent action (orbital decompression) is necessary in the case of corneal ulceration, congestive ophthalmopathy, or optic neuropathy. Treatment with steroids and orbital radiotherapy is sometimes necessary. Thyroid dermopathy is caused by deposition of hyaluronidase in the dermis and cutis."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "Which of the following are true regarding medical therapy for thyrotoxicosis?",
+            "options": [
+                "A Propranolol and nadolol reduce free T3 (fT3) and free T4 (fT4) levels.",
+                "B Antithyroid drugs most often cure thyrotoxicosis due to a toxic nodule.",
+                "C Carbimazole can be safely given in pregnancy and lactation.",
+                "D Agranulocytosis is an uncommon problem with antithyroid drugs.",
+                "E Patients with ophthalmopathy respond best to medical management."
+            ],
+            "answer": "D",
+            "explanation": "Carbimazole (first drug of choice) and propylthiouracil (given during pregnancy and lactation) are the common antithyroid drugs used; 30%-40% of patients remain euthyroid 10 years after discontinuation of therapy. However, rarely, relapses are corrected with medication. Large goitres, younger patients and very elevated fT3 and fT4 rarely benefit from medical management. A toxic nodule is autonomous in nature and will relapse if medications are stopped. Agranulocytosis occurs in only 0.1%-0.5% of patients on antithyroid drugs. Beta-blockers reduce the adrenergic effects of thyroxine in peripheral tissue."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "Surgery is the preferred option of treatment in which of the following cases of thyrotoxicosis?",
+            "options": [
+                "A A diffuse toxic goitre.",
+                "B Severe manifestations of Graves' ophthalmopathy.",
+                "C Pregnant mothers not adequately controlled with medications.",
+                "D Relapse of Graves'.",
+                "E Presence of local compressive symptoms."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Cure can be offered by surgery, reducing the mass of overactive tissue. However, there is a risk of permanent hypothyroidism in total thyroidectomy and recurrence of toxicity in subtotal resections. Recurrence can also occur in 5% of cases if less than a total thyroidectomy has been performed. Parathyroid insufficiency occurs in <5% of cases undergoing surgery.The following are also indications for surgery: presence of suspicious thyroid nodule by FNAC, pregnant women inadequately controlled on medications and large thyroid glands with relatively low radioiodine uptake."
+        },
+        {
+            "id": 7,
+            "question_type": "msq",
+            "question": "Which of the following are indications for radioiodine treatment?",
+            "options": [
+                "A Relapsed Graves' disease.",
+                "B Thyrotoxicosis in young children.",
+                "C Multinodular goitre.",
+                "D Severe ophthalmopathy.",
+                "E Pregnancy and lactation."
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "explanation": "Radioiodine treatment requires the administration of enough radioiodine to achieve normal thyroid status. Hypothyroidism occurs in 15%-20% at 2 years. It is contraindicated in young children and pregnant and lactating mothers. It is the definitive choice of treatment in cases of relapsed Graves' disease and in multinodular goitre and adenomas."
+        },
+        {
+            "id": 8,
+            "question_type": "msq",
+            "question": "Which of the following are true in neonatal hypothyroidism?",
+            "options": [
+                "A Endemic cretinism is due to iodine deficiency.",
+                "B Macroglossia is a clinical feature.",
+                "C Biochemical screening for hypothyroidism is carried out on all neonates in the United Kingdom.",
+                "D Radioactive iodine treatment is safe after the first trimester of pregnancy.",
+                "E Women on antithyroid drugs may give birth to a hypothyroid baby."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Cretinism is a consequence of inadequate thyroid hormone production during the foetal and early neonatal periods. Endemic cretinism is due to dietary deficiency, whereas sporadic cases are due to inborn error of thyroid metabolism or complete or partial agenesis of the gland. Immediate diagnosis and treatment are essential to prevent long-term physical and mental developmental delay. In hyperthyroid pregnant women, drugs such as propylthiouracil are preferred as they limit ability to induce hypothyroidism in the foetus."
+        },
+        {
+            "id": 9,
+            "question_type": "msq",
+            "question": "Myxoedema can present as the following:",
+            "options": [
+                "A Complete heart block.",
+                "B Ventricular tachycardia.",
+                "C Mania.",
+                "D Shortness of breath.",
+                "E Sepsis."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Myxoedema is associated with accentuated signs and symptoms of hypothyroidism. There is often a malar flush, yellow tinge to the skin and altered mental state. It can present as bradycardia and hypothermia with its associated tachy- and bradyarrhythmias. Heart failure and infections are associated with increased mortality."
+        },
+        {
+            "id": 10,
+            "question_type": "msq",
+            "question": "Biochemically hypothyroidism can be associated with the following:",
+            "options": [
+                "A Hyponatraemia.",
+                "B Hyperlipidaemia.",
+                "C Thyroid peroxidase (TPO) autoantibodies.",
+                "D Raised TSH.",
+                "E Low fT3 and fT4."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Biochemically, hypothyroidism is characterised by low free t3 and free t4 hormones. As a compensatory attempt, the pituitary secretes TSH, which is elevated. It can present as hyponatraemia and raised total cholesterol and LDL cholesterol."
+        },
+        {
+            "id": 11,
+            "question_type": "msq",
+            "question": "Hypothyroidism could be a presenting feature in which of the following conditions?",
+            "options": [
+                "A Sarcoidosis.",
+                "B Pituitary lesions.",
+                "C Benzodiazepine treatment.",
+                "D Thyroiditis.",
+                "E Iodine deficiency."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Hypothyroidism can be classified as the following: goitrous (iodine deficiency, Hashimoto's thyroiditis, or drugs such as lithium, amiodarone, iodides and aminosalicylic acid); nongoitrous (atrophic thyroiditis, post-radiation); pituitary-related (panhypopituitarism); neoplastic; infiltrative (sarcoidosis); or infective (rare)."
+        },
+        {
+            "id": 12,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding thyroid neoplasms are true?",
+            "options": [
+                "A Papillary carcinoma is the most common.",
+                "B Men and women are equally affected.",
+                "C Thyroid cancer is most common after the age of 70 years.",
+                "D Medullary carcinoma originates from the C-cells.",
+                "E Anaplastic carcinoma is the least common."
+            ],
+            "answer": [
+                "A",
+                "D",
+                "E"
+            ],
+            "explanation": "Depending on the cells of origin, thyroid cancers can be classified as originating from: • Follicular cells (papillary/follicular/Hurthle cell/anaplastic carcinomas) • Lymphocytes – lymphoma • C-cells – medullary carcinoma. • Mesenchymal cells (sarcoma which is very rare) The relative incidence of primary malignant tumour of the thyroid cancer is as follows: papillary cancer, 80%; follicular or Hurthle cell carcinoma, 10%; the remainder are medullary cancers and other malignancies including lymphoma. The annual incidence of thyroid cancer is increasing rapidly. This is thought to be due to rising use of imaging rather than a true increase in incidence of disease. The female:male sex ratio of differentiated thyroid cancer is 3:1. It is most common in adults ages 40–50. Anaplastic carcinoma presents in older patients and might be due to de-differentiation of prior differentiated thyroid cancer. Medullary carcinoma may present at any age, with familial cases (around 25% overall) sometimes presenting in childhood and being prevented with prophylactic thyroidectomy."
+        },
+        {
+            "id": 13,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding thyroglobulin are true?",
+            "options": [
+                "A It is part of normal thyroid function tests.",
+                "B It is secreted only by cancerous cells.",
+                "C Autoantibodies may interfere with its levels.",
+                "D It is a sensitive marker of recurrence of differentiated thyroid cancer.",
+                "E Radioiodine treatment affects its concentration."
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Thyroglobulin is secreted by normal thyroid tissue and differentiated thyroid cancer cells. It can be a sensitive marker of recurrence of differentiated thyroid cancer. The aim of therapy for high-risk differentiated thyroid cancer is to render the patient without detectable thyroglobulin. To achieve this, total thyroidectomy and appropriate neck dissection should be performed. Postoperative radioactive iodine therapy will then be used to destroy microscopic deposits of normal and malignant thyroid tissue. Thyroglobulin can then be used as an effective tumour marker, particularly in the absence of autoantibodies, which can interfere. For lower-risk patients, lobectomy alone will be appropriate. In this setting thyroglobulin never becomes undetectable, but trends can be followed to indicate possible recurrence."
+        },
+        {
+            "id": 14,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Lymph node metastasis is more common in follicular cancer than in papillary cancer.",
+                "B In papillary cancer, central lymph node metastases are associated with decreased survival.",
+                "C Distant metastasis is more common in the follicular variety.",
+                "D Hurthle cell carcinoma is a type of follicular cancer.",
+                "E Papillary carcinoma is usually slow-growing."
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Compared with most cancers, the prognosis in differentiated thyroid cancers is excellent. Papillary cancers are encapsulated and slow-growing but do spread to regional nodes often and early. They are confined to the neck in >95% of cases. Despite the rates of metastasis, this does not predict survival. Indeed, early studies suggested that regional metastases might actually be protective. Experience, however, has shown that this was due to the fact that young patients tend to present with neck nodes, and age is the strongest predictor of all. Central neck metastases do not predict survival. Lateral neck metastases, however, particularly in older patients, are more predictive. Follicular cancer and the associated Hurthle cell carcinoma arise from thyroid epithelium. They more commonly spread via the haematogenous route than papillary cancers."
+        },
+        {
+            "id": 15,
+            "question_type": "msq",
+            "question": "Which of the following statements are true when a preoperative diagnosis of a differentiated thyroid cancer is made?",
+            "options": [
+                "A Whole-body MRI or CT imaging is essential.",
+                "B Lobectomy is recommended for tumours less than 1 cm.",
+                "C Elective lateral nodal dissection should be performed.",
+                "D Routine central compartment node clearance is not essential for small tumours.",
+                "E The absence of a rising thyroglobulin excludes recurrence."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "This is a controversial subject. When a preoperative diagnosis has been made, the patient should have ultrasound screening of the neck at least. If there is widespread nodal metastases, cross-sectional imaging is encouraged to visualise the extent of disease and in particular the mediastinum, which is poorly seen on ultrasound. Small, low-risk tumours (<1 cm) are well treated by lobectomy alone. Most international guidelines recommend total thyroidectomy if tumours are >1 cm or have any risk factors such as nodal metastases. Although papillary cancers routinely metastasise to the central and lateral neck, if these metastases are occult, both the central and lateral neck can be observed safely. Some authors recommend elective central neck dissection for larger or more aggressive tumours; however, few support elective lateral neck dissection due to the high rates of morbidity. Although a rising thyroglobulin indicates disease recurrence, if a tumour de-differentiates, it will stop producing thyroglobulin, so an absence of a rise does not exclude recurrent disease."
+        },
+        {
+            "id": 16,
+            "question_type": "msq",
+            "question": "Which of the following statements regarding medullary thyroid cancers are true?",
+            "options": [
+                "A It can present as multiple endocrine neoplasia.",
+                "B It is not TSH-dependent.",
+                "C It is associated with a poor prognosis.",
+                "D Diarrhoea is a common feature.",
+                "E High levels of calcitonin and carcinoembryonic antigen (CEA) are typical."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Medullary carcinoma refers to tumours of the parafollicular C cells and as such is not TSH-dependent. Surgery is the only primary therapy, as the tumour cells do not concentrate iodine. Instead of thyroglobulin, it is characterised by high levels of serum calcitonin and CEA. Diarrhoea is present in 30% of cases and might be due to 5-hydroxytryptamine produced by tumour cells. This is a particular problem in end-stage disease. Like many endocrine neoplasms, the progression of disease may be slow. It can occur with phaechromocytoma and hyperparathyroidism in a syndrome called multiple endocrine neoplasia type 2A (MEN 2A)."
+        },
+        {
+            "id": 17,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Primary hyperparathyroidism is usually sporadic.",
+                "B Hypercalcaemia triggers the release of parathyroid hormone (PTH).",
+                "C Familial hyperparathyroidism commonly presents as an adenoma.",
+                "D Familial hyperparathyroidism is mostly sporadic.",
+                "E Hyperparathyroidism can be associated with a pituitary adenoma."
+            ],
+            "answer": [
+                "A",
+                "E"
+            ],
+            "explanation": "The prevalence of primary hyperparathyroidism increases with advancing age. Most cases are sporadic. Nearly 85% of these patients have an adenoma; 13% have hyperplasia of the glands; and a very small proportion have multiple adenomas or cancer. Familial hyperparathyroidism is genetically determined and associated with MEN-1 (primary hyperparathyroidism, pituitary adenoma and pancreatic tumours such as insulinoma, gastrinoma and VIPoma) and MEN 2 (primary hyperparathyroidism, medullary carcinoma of thyroid and phaeochromocytoma). The familial variety can also exist as isolated hyperparathyroidism and as hyperplasia."
+        },
+        {
+            "id": 18,
+            "question_type": "msq",
+            "question": "Which of the following suggest a biochemical diagnosis of primary hyperparathyroidism?",
+            "options": [
+                "A Raised ionised calcium and suppressed PTH levels.",
+                "B Raised total calcium and elevated PTH levels.",
+                "C Low serum phosphate levels.",
+                "D Low urine calcium level.",
+                "E Raised ionised calcium and elevated PTH levels."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Hypercalcaemia normally suppresses the release of PTH by the parathyroid gland. Calcium circulates in the plasma mostly bound to albumin; however, it is the ionised or free calcium that is biologically active. Measurement of ionised calcium is tedious and albumin-adjusted (corrected) calcium is just as good. Hyperparathyroidism is associated with raised serum calcium, low serum phosphate and hypercalciuria."
+        },
+        {
+            "id": 19,
+            "question_type": "msq",
+            "question": "Which of the following are associated with hypercalcaemia?",
+            "options": [
+                "A Thyrotoxicosis.",
+                "B Chronic renal failure (CRF).",
+                "C Familial hypocalciuric hypercalcaemia (FHH).",
+                "D Sarcoidosis.",
+                "E Milk alkali syndrome."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Chronic renal failure is associated with vitamin D deficiency and hypocalcaemia initially; these result in stimulation of the parathyroid gland and release of PTH, causing secondary hyperparathyroidism. However, long-standing stimulation of the parathyroid results in autonomous secretion of PTH by the gland, causing tertiary hyperparathyroidism. Granulomatous conditions such as tuberculosis and sarcoidosis cause hypercalcaemia."
+        },
+        {
+            "id": 20,
+            "question_type": "msq",
+            "question": "Which of the following are operative indications for primary hyperparathyroidism?",
+            "options": [
+                "A Renal stones.",
+                "B Low bone density.",
+                "C Renal impairment.",
+                "D Serum calcium of 2.75.",
+                "E Young age."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Surgery is the only curative option for this condition. Medical therapy such as calcium receptor agonists and bisphosphonate therapy are helpful along with eradication of drugs that induce hypercalcaemia (diuretics, lithium). Surgery is indicated in the presence of hypercalcaemia with serum calcium over 2.9 mmol/L (especially in the presence of symptoms), presence of falling bone density, or presence of osteoporosis and renal stone disease or renal impairment."
+        },
+        {
+            "id": 21,
+            "question_type": "msq",
+            "question": "Regarding operation for primary hyperparathyroidism, which of the following statements are correct?",
+            "options": [
+                "A Permanent hypoparathyroidism is likely.",
+                "B PTH can be measured intraoperatively.",
+                "C Recurrent laryngeal nerve damage can occur in about 5%-7% of cases.",
+                "D Endoscopic technique is the most favoured operative mode.",
+                "E Gamma probes can be used for exploratory purposes."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "Preoperative discussion for a parathyroidectomy must include the possibility of recurrent laryngeal nerve injury (1%), postoperative haemorrhage (1%) and recurrent and permanent hypoparathyroidism. PTH has a very short half-life and will disappear within a few minutes of excision of the gland. High levels, despite excision, suggest residual gland. PTH levels are measured in an operative setting to guide the surgeon if the gland has been completely removed. A conventional thyroidectomy incision is most frequently used. A gamma probe can be used to guide exploration following preoperative injection of MIBI."
+        },
+        {
+            "id": 22,
+            "question_type": "msq",
+            "question": "A 60-year-old retired nurse presents with weight loss, fainting episodes and tiredness. A blood glucose performed is 2.5 mmol/L. An insulinoma is suspected. What are the appropriate tests?",
+            "options": [
+                "A A short synacthen test.",
+                "B Insulin levels.",
+                "C C-peptide levels.",
+                "D A 24-hour fast.",
+                "E All of the above."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "An insulinoma is a tumour that originates from the pancreas; it is biochemically confirmed by demonstrating hyperinsulinaemia despite hypoglycaemia with elevated levels of proinsulin and C-peptide. It is often very difficult to diagnose, as imaging with MRI may not always pick up these small lesions (<4 mm). A supervised 24 h fast may be necessary. Insulinoma can be a part of MEN associated with hyperparathyroidism and pituitary adenoma (type 1) and medullary carcinoma (type 2). Assessment of bone profile, PTH levels, and genetic testing are other tests required."
+        },
+        {
+            "id": 23,
+            "question_type": "msq",
+            "question": "Which of the following statements are true regarding imaging of the parathyroid gland?",
+            "options": [
+                "A High-frequency ultrasound can identify nearly 75% of enlarged glands.",
+                "B Technetium-99m-labelled sestamibi isotope (MIBI) scan identifies around 90% of enlarged glands.",
+                "C Single photon emission computed tomography (SPECT) scan can influence surgical approach."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "E"
+            ],
+            "explanation": "High-frequency ultrasound is noninvasive and can identify 75% of enlarged glands. However, despite good resolution it has poor penetrance and cannot visualise the mediastinum. Technetium-99m-labelled sestamibi isotope scans can identify 75% of glands and the area scanned must include the mediastinum to detect ectopic glands. SPECT scan gives a three-dimensional approach and can influence surgical approach."
+        },
+        {
+            "id": 24,
+            "question_type": "msq",
+            "question": "Which of the following statements are true regarding operative strategies for the parathyroid?",
+            "options": [
+                "A In a conventional approach, a transverse collar incision is made.",
+                "B In a targeted approach, a 2–3-cm incision is made over the site of the adenoma.",
+                "C In patients with four-gland disease, transcervical thymectomy is not recommended.",
+                "D In multiple endocrine neoplasia type 1 (MEN-1), total parathyroidectomy reduces the risk of recurrence.",
+                "E Preoperative imaging can identify nearly 10% of patients with mediastinal adenoma."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "Confident preoperative localisation permits a 2–3-cm incision located over the site of the adenoma. This is placed to permit extension to a formal bilateral exploration incision if the imaging is suboptimal. In a conventional approach, the patient is positioned in reverse Trendelenburg and a transverse incision is made, the subplatysmal plane is developed superiorly and inferiorly and the deep cervical fascia incised. In four-gland disease, a transcervical thymectomy is considered to reduce the risk of recurrence or recurrent primary hyperparathyroidism. Preoperative imaging identifies around 1% of patients with a mediastinal adenoma."
+        },
+        {
+            "id": 25,
+            "question_type": "msq",
+            "question": "Which of the following statements are correct?",
+            "options": [
+                "A Serum calcium must be checked within 24 hours of total thyroidectomy.",
+                "B Serum calcium levels below 1.9 mmol/L can pose a medical emergency.",
+                "C Chvostek's sign is suggestive of hypercalcaemia.",
+                "D DiGeorge syndrome is a medical cause of hypoparathyroidism.",
+                "E Cardiac arrhythmias can occur during an episode of hypocalcaemia."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Signs and symptoms of hypocalcaemia are related to the duration and level of hypocalcaemia. It could range from mild circumoral and digital numbness to tetany with carpopedal spasm, neuromuscular excitability, cardiac arrhythmias and seizures. Serum calcium below 1.90 must be treated as an emergency and 10-mL or 10% calcium gluconate must be given IVI slowly; 10% magnesium infusion is also considered. In milder cases, 1 g of oral calcium can be given three or four times daily."
+        },
+        {
+            "id": 26,
+            "question_type": "msq",
+            "question": "Which of the following statements are true regarding medical management of primary hyperparathyroidism?",
+            "options": [
+                "A Use of diuretics could reduce serum calcium levels by increasing their excretion via the kidneys.",
+                "B Cinacalcet is a bisphosphonate used to reduce calcium levels.",
+                "C Palmidronate is a bisphosphonate used to reduce calcium levels.",
+                "D Intravenous saline is the first line of management in hypercalcaemia.",
+                "E Serum calcium over 3.5 mmol/L is a medical emergency."
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Intravenous saline is first-line therapy to correct dehydration. Medical management of primary hyperparathyroidism involves a low-calcium diet and withdrawal of drugs that aggravate hypercalcaemia, such as diuretics and lithium. Cinacalcet is a calcium receptor agonist and reduces calcium levels. Bisphosphonates such as palmidronate are also useful."
+        },
+        {
+            "id": 27,
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "A A 70-year-old man presents with constipation and confusion. His serum calcium is 3.7 mmol/L and his phosphate is 0.5 mmol/L.",
+                    "B A 40-year-old banker attends a well-man clinic. His serum calcium is 2.9 mmol/L and his phosphate is 0.8 mmol/L. His PTH levels are 9 pmol/L. The urine calcium creatinine ratio is very low.",
+                    "C An elderly man is recovering from a hernia repair. His bloods are as follows: urea 10.7 mmol/L, creatinine 84 µmol/L and calcium 3.20 mmol/L.",
+                    "D A young woman underwent a thyroidectomy for a large multinodular goitre. 8 hours after the operation, she developed tingling and numbness around her mouth.",
+                    "E An elderly woman who is mostly housebound was admitted following a hip fracture. Her serum calcium is 1.8 mmol/L, phosphate is 0.7 mmol/L and serum alkaline phosphatase is 640 IU/L."
+                ],
+                "choices": [
+                    "1 Dehydration",
+                    "2 FHH",
+                    "3 Hypoparathyroidism",
+                    "4 Primary hyperparathyroidism",
+                    "5 Vitamin D deficiency"
+                ]
+            },
+            "answer": {
+                "A": "4",
+                "B": "2",
+                "C": "1",
+                "D": "3",
+                "E": "5"
+            },
+            "explanation": "1. C Dehydration\nDehydration is a very common cause for mild hypercalcaemia.\n2. B Familial hypocalciuric hypocalcaemia\nFamilial hypocalciuric hypocalcaemia is another differential for primary hyperparathyroidism. It causes the same biochemical features as primary hyperparathyroidism apart from low urinary calcium excretion. Most patients are asymptomatic and the problem is in the calcium-sensing receptors in the parathyroid gland.\n3. D Hypoparathyroidism\nSerum calcium levels can come down when the parathyroid glands are inadvertently removed. Levels must always be checked within 24 hours of any thyroid surgery.\n4. A Primary hyperparathyroidism\nPrimary hyperparathyroidism is associated with raised serum calcium and low phosphate levels. The PTH levels are not suppressed despite the hypercalcaemia.\n5. E Vitamin D deficiency\nVitamin D deficiency is common in housebound and institutionalised individuals. It causes hypocalcaemia and hypophosphataemia in severe cases. Alkaline phosphatase is elevated in osteomalacia. However, recent fracture could also raise the ALP levels."
+        },
+        {
+            "id": 28,
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "A An elderly woman presents with sweating and confusion. Her biochemistry is as follows: TSH < 0.1 mIU/L; fT3, 15.8 pmol/L; and fT4, 1.0 pmol/L.",
+                    "B A 10-week pregnant woman has severe vomiting. Her TFTs are as follows: TSH, 0.02 mIU/L; T3, 5.2 pmol/L; and T4, 11 pmol/L.",
+                    "C A middle-aged man is in ITU following emergency laparotomy for a bleeding ulcer. His TFTs are as follows: TSH < 0.01 mIU/L; T3, 2.0 pmol/L; T4, 0.5 pml/L.",
+                    "D A 22-year-old woman with a smooth goitre presents with sweating and weight loss. Her TFTs are as follows: TSH, 0.01 mIU/L; T3, 8.0 pmol/L; and T4, 41 pmol/L."
+                ],
+                "choices": [
+                    "1 Graves' disease",
+                    "2 Human chorionic gonadotrophin (HCG) effect",
+                    "3 Sick euthyroid disease",
+                    "4 Thyrotoxicosis",
+                    "5 Toxic nodule"
+                ]
+            },
+            "answer": {
+                "A": "4",
+                "B": "2",
+                "C": "3",
+                "D": "1"
+            },
+            "explanation": "1. D Graves' disease\nGraves' disease is an autoimmune condition characterised by a smooth goitre, strong family history and female preponderance.\n2. B Human chorionic gonadotrophin (HCG) effect\nPregnancy can be associated with hyperthyroidism. Beta-HCG increases exponentially in early pregnancy. This causes suppression of TSH. The thyroid-binding globulin levels are altered as well.\n3. C Sick euthyroid disease\nThyroid functions are not helpful in the immediate period after an acute illness or stress. Sick euthyroid disease causes suppression of TSH and free thyroid hormones.\n4. A Thyrotoxicosis\nThyrotoxicosis can present with all features of thyroid excess. Due to rapid conversion of T4 to T3, T4 levels are often low."
+        },
+        {
+            "id": 29,
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "A An elderly woman presets to A&E with third-degree heart block. She is overweight and has dry skin and slow reflexes.",
+                    "B A 44-year-old man underwent chemical cardioversion for atrial fibrillation (AF). His baseline TFTs were normal. He is now hypothyroid.",
+                    "C A general practitioner (GP) is having difficulty trying to treat a 62-year-old woman for hypothyroidism. Despite thyroxine dosage of 200 µg, her thyroid functions are suggestive of hypothyroidism.",
+                    "D A young woman with rheumatoid arthritis has discordant TFTs, with TSH, fT3 and fT4 all elevated.",
+                    "E A 40-year-old woman presents with hypothyroidism and elevated TPO antibodies."
+                ],
+                "choices": [
+                    "1 Amiodarone-induced thyroid disease",
+                    "2 Autoimmune thyroiditis",
+                    "3 Heterophil antibodies interference",
+                    "4 Myxoedema",
+                    "5 TSH-secreting adenomas (TSHoma)"
+                ]
+            },
+            "answer": {
+                "A": "4",
+                "B": "1",
+                "C": "5",
+                "D": "3",
+                "E": "2"
+            },
+            "explanation": "1. B Amiodarone-induced thyroid disease\nAmiodarone is a popular antiarrhythmic. It contains a very high iodine load, however, and can cause both overactivation and understimulation of the thyroid gland.\n2. E Autoimmune thyroiditis\nThyroid peroxidase antibodies (TPO) are associated with autoimmune hypothyroidism.\n3. D Heterophil antibodies interference\nAutoantibodies, especially found in rheumatoid arthritis, can interfere in the fT4 levels and cause discordant TFTs. They can be corrected by performing tests on another analyser or the use of heterophil-blocking antibodies.\n4. A Myxoedema\nMyxoedema can present with heart block, hypothermia and sometimes coma.\n5. C TSH-secreting adenomas (TSHoma)\nTSHoma is a rare tumour from the anterior pituitary secreting TSH. Thyroid hormone resistance is another cause of elevated TSH levels, despite adequate thyroxine replacement."
+        },
+        {
+            "id": 30,
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "A A middle-aged woman presents with a long-standing goitre. She is clinically euthyroid.",
+                    "B A young woman presents with a firm enlarged goitre with bruit. She complains of symptoms suggestive of hyperthyroidism.",
+                    "C A 60-year-old presents with a firm thyroid nodule that is hot on isotope scanning.",
+                    "D A 55-year-old presents with thyroid nodule and haemoptysis."
+                ],
+                "choices": [
+                    "1 Follicular carcinoma of the thyroid",
+                    "2 Graves' disease.",
+                    "3 Multinodular goitre",
+                    "4 Toxic nodule"
+                ]
+            },
+            "answer": {
+                "A": "3",
+                "B": "2",
+                "C": "4",
+                "D": "1"
+            },
+            "explanation": "1. D Follicular carcinoma of the thyroid\nFollicular carcinoma of the thyroid is the second most common after papillary carcinoma. It arises later in life and is prone to bloodborne metastasis. Secondaries to the lung are the most common cause of death.\n2. B Graves' disease\nGraves' disease is an autoimmune disease due to the presence of TSH receptor antibodies. Exophthalmos, diffuse goitre with a bruit with clinical and biochemical hyperthyroidism, is characteristic.\n3. A Multinodular goitre\nMultinodular goitre is due to relative iodine deficiency. It is long-standing. FNAC should be undertaken if there is a doubt about the diagnosis.\n4. C Toxic nodule\nSolitary toxic nodule could represent a single active nodule in a multimodal goitre, thyroid adenoma (scan shows normal or decreased uptake), or toxic adenoma (increased uptake with hyperthyroid features)."
+        },
+        {
+            "id": 31,
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "A An 82-year-old woman presents with a thyroid nodule, weight loss, backache and hypercalcaemia.",
+                    "B An elderly woman with previous history of Hashimoto's thyroiditis presents with an irregular, hard nodule in her right thyroid lobe.",
+                    "C A 12-year-old boy presents with a nodule and regional lymph node enlargement.",
+                    "D A 28-year-old has a parathyroid adenoma and elevated levels of calcitonin."
+                ],
+                "choices": [
+                    "A Anaplastic carcinoma",
+                    "B Lymphoma",
+                    "C Medullary Carcinoma",
+                    "D Papillary Carcinoma"
+                ]
+            },
+            "answer": {
+                "A": "A",
+                "B": "B",
+                "C": "D",
+                "D": "C"
+            },
+            "explanation": "1. A Anaplastic carcinoma\nAnaplastic carcinoma tends to occur in the elderly and is poorly differentiated and one of the most aggressive tumours in humans.\n2. B Lymphoma\nLymphoma can arise in a gland affected by Hashimoto's thyroiditis.\n3. D Medullary carcinoma\nMedullary carcinoma of the thyroid can form part of the MEN syndrome. It occurs in young adults and carries a good prognosis. These carcinomas secrete calcitonin from the parafollicular cells.\n4. C Papillary carcinoma\nPapillary thyroid cancers are the most common thyroid cancer in children and adults. They are well differentiated and commonly associated with metastasis to the regional lymph nodes."
+        },
+        {
+            "id": 32,
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "A A 35-year-old man complains of vague abdominal pains associated with bone pains and periodical nausea. He was on dialysis since the age of 22 for 10 years, after which he received a renal transplant which has been successful so far. On examination he has a fistula in his forearm and a transverse lower abdominal scar.",
+                    "B A 46-year-old woman has been readmitted to the surgical unit complaining of numbness around her mouth with paraesthesia and numbness in her fingers. She has had a few episodes of muscle spasms in her forearms. One week ago she underwent total thyroidectomy with bilateral lymph node dissection for papillary thyroid carcinoma.",
+                    "C A 58-year-old man complains of a general feeling of ill health for several months for which he did not bother to seek medical advice. Recently, however, he has developed abdominal pain radiating to the back. Three years ago he had a proved attack of right ureteric colic for which no further treatment was necessary after the stone passed spontaneously. His GP performed routine blood tests, which were as follows: Hb 13.2 g/dL Na 140 mmol/L MCV 86 fl K 4.8 mmol/L MCH 30 pg Cl 102 mmol/L MCHC 35 g/dL HCO3 26 mmol/L calcium 2.9 mmol/L Phos 0.5 mmol/L",
+                    "D A 52-year-old woman complains of pain in the bones of her hands and feet, pruritis and muscle weakness resulting in reduced mobility. This has become worse recently. She has suffered from chronic renal failure for which she has been on haemodialysis for 5 years.",
+                    "E A 55-year-old man with a long history of duodenal ulcer presents with intermittent projectile vomiting for 4 weeks. The vomitus contains stale food and is nonbilious. He is dehydrated, with a visible gastric peristalsis and succussion splash. His blood results are the following: Hb 16 g/dL WCC 9 x 109/L Na 130 mmol/L K 2.8 mmol/L Cl 92 mmol/L Urea 14 mmol/L Cr 155 µmol/L PH 7.5 PCO2 6.8 kPa PO2 10.2 kPa HCO3 34 mmol/L"
+                ],
+                "choices": [
+                    "1 Hypopararthyroidism",
+                    "2 Primary hypoparathyroidism",
+                    "3 Secondary hyperparathyroidism",
+                    "4 Tertiary hyperparathyroidism",
+                    "5 Tetany"
+                ]
+            },
+            "answer": {
+                "A": "4",
+                "B": "1",
+                "C": "2",
+                "D": "3",
+                "E": "5"
+            },
+            "explanation": "1. B Hypoparathyroidism\nThis patient's early symptoms of tetany are from hypocalcaemia caused by hypoparathyroidism from inadvertent damage to the parathyroid glands. This may be due to injury, removal, or ischaemia during major neck surgery. The level of calcium at which symptoms of tetany develop can vary and is unpredictable. This is a medical emergency, particularly if the level is less than 1.9 mmol/IL An intravenous drip of 10% calcium gluconate might be necessary. This is supplemented by oral calcium and Vitamin D; magnesium supplements may also be required. If the hypocalcaemic symptoms are minimal with the serum level in the region of 2.0 mmol/L, oral calcium supplements of 1 g in divided doses is given. Less than 1% of patients undergoing such surgery will have such a complication permanently. The normal serum calcium is 2.2 to 2.6 mmol/L. Of the total calcium in the body, 50% is free ionised; of the rest 40% is bound to plasma proteins, whilst the remainder is bound with anions – citrate, phosphate and sulphate. When an abnormal serum calcium level is obtained from the laboratory, it is important to estimate the corrected serum calcium level, particularly in the presence of hypoalbuminaemia where the corrected serum calcium will be higher. The regulation of calcium homeostasis is the result of an interplay between parathormone (PTH) secreted by the parathyroids, the kidneys, the absorption of Vitamin D and calcitonin secreted by the parafollicular ‘C' cells of the thyroid. This is explained in Figure 51.1. When there is a drop in serum calcium, there is increased secretion of PTH acting in the form of a feedback mechanism as shown in Figure 51.2. PTH acts in concert with 1,25- dihydroxycholecalciferol (1,25-DHCC, 1,25 vitamin D) and calcitonin on kidney and gut to maintain a constant blood-ionised calcium, which is necessary for nerve and muscle excitability and blood coagulation. PTH has a greater role in the regulation of serum calcium than calcitonin. The control of serum calcium by PTH is explained in Figure 51.3. The role of calcitonin is to cause a reduction in serum calcium and is explained in Figure 51.4. Serum calcium regulation is also linked to plasma phosphate (PO) levels. The normal PO level is 0.8 to 1.4 mmol/L; PTH increases the excretion of PO while increasing renal tubular reabsorption of calcium. Variations in plasma PO levels affect serum calcium. In renal failure, there is increase in plasma PO that stimulates the parathyroids causing secondary hyperparathyroidism.\n2. C Primary hyperparathyroidism\nPrimary hyperparathyroidism, a condition resulting from an excessive secretion of PTH, is caused by a solitary parathyroid adenoma in 85% of patients; in 13%-14%, the cause might be multiglandular hyperplasia, whilst the remainder might be due to a carcinoma or multiple adenomas. The most common presentation of primary hyperparathyroidism from an adenoma is when it is discovered in an ʻasymptomatic' patient who undergoes a routine biochemical screening. When hypercalcaemia is found routinely and the cause is an adenoma and it is removed, patients admit to a huge sense of well being. In the past they had ascribed their insidious symptoms to ageing. Thus, strictly speaking, in retrospect the patient was not ‘asymptomatic' but had symptoms that could be pinpointed. Women are more often affected. It is said that 1% of the adult population is found to have hypercalcaemia on routine biochemical screening. The condition may be familial when it is a part of multiple endocrine neoplasia (MEN) syndrome. When symptomatic, the clinical features reflect hypercalcaemia and hypophosphataemia: bone pain with x-ray changes in the hands (osteitis fibrosa cystica), skull (pepper-pot skull) and abdominal pain from peptic ulcer, recurrent pancreatitis and constipation. In almost one-third of patients there might be psychiatric symptoms. Renal disease in the form of nephrocalcinosis (Figure 51.5) and recurrent ureteric colic may be a presentation when a raised serum calcium alerts one to the diagnosis. These protean manifestations (Figure 51.6) have been traditionally summarised as 'stones, bones, psychic moans and abdominal groans', although such a florid presentation is rarely seen. Rarely, patients might present as a metabolic emergency due to acute hyperparathyroid hypercalcaemic crisis. The patient's corrected serum calcium should be carried out. For this the serum albumin is done (see previous section). The next step is to do the serum PTH. Elevated levels of PTH with hypercalcaemia and hypophosphataemia and increased excretion of calcium in the urine confirms a diagnosis of primary hyperparathyroidism. The next step is to localise the site of the adenoma. This is done by technetium-99 m labelled sestamibi scan and ultrasound to include the mediastinum to exclude an adenoma in an ectopic gland. In primary hyperparathyroidism, systematic bilateral neck exploration is done in cases of parathyroid hyperplasia where removal of three-and-a half glands is carried out with the remaining gland being marked with a metal clip or nonabsorbable suture or transplanted into the forearm. However, targeted parathyriodectomy through a small unilateral incision for an adenoma is the procedure of choice in the vast majority as solitary adenoma is the most common cause of primary hyperparathyroidism.\n3. D Secondary hyperparathyroidism\nThe main cause for secondary hyperparathyroidism is chronic renal failure (CRF), which is the cause in this patient. The other causes are chronic hypocalcaemia from vitamin D deficiency and malabsorption. The following can occur as a result of CRF: • Vitamin D is not converted into 1,25 Dihydroxycholecalciferol, which in turn inhibits absorption of calcium in the gut. • Reduced intestinal calcium absorption results in low-serum calcium and increased-serum PO due to failure of the kidney to excreste PO. • Hyperphosphtaemia and hypocalcaemia is present causing increased PTH secretion, thus producing secondary hyperparathyroidism. Such patients present with bone pain, muscle weakness and ectopic calcification in muscles of limbs or chest wall. This patient's serum calcium will be low or at the lower limit of normal. The management is medical initially with phosphate restriction and calcium and vitamin D supplementation. Hyperparathyroidism is usually due to multiple gland disease, which requires total parathyroidectomy. The causes of hypercalcaemia are shown in Figure 51.7.\n4. A Tertiary hyperparathyroidism\nTertiary hyperparathyroidism occurs after long-standing secondary hyperparathyroidism, which in turn has resulted from prolonged chronic renal failure. Even after the renal failure has been successfully treated with a transplant, after a long period of parathyroid hyperplasia of all four glands, one of them becomes autonomous and turns into a dominant adenoma.The patient is investigated on the same lines as in primary hyperparathyroidism. These patients have hypercalcaemia and a dominant adenoma is found in the midst of hyperplastic glands. The treatment is total or subtotal parathyroidectomy, depending upon the scan findings. If subtotal parathyroidectomy is carried out, about 50 mg of one gland is autotransplanted into the forearm The summary of hyperparathyroidism is shown in Figure 51.8.\n5. E Tetany from gastric outlet obstruction.\nA long-standing healed duodenal ulcer produces cicatrisation with scarring and complete stenosis of the duodenum wrongly called ‘pyloric stenosis' – a misnomer because it is actually duodenal stenosis. A barium meal (Figure 51.9) would show smooth cut-off at pyloroduodenal junction where there is total obstruction with massive gastric dilatation with a large amount of food residue. Prolonged vomiting causes loss of H+, K+ and Cl¯ with increase in HCO3¯ resulting in hypcholraemic, hypokalaemic metabolic alkalosis. Fluid loss causes extreme dehydration seen clinically as sunken eyes, dry tongue and loss of skin turgor. The patient has carpo-pedal spasm because of tetany. Tetany is liable to occur in any form of alkalosis, in this case metabolic. This is because loss of H+ (normally bound to albumin) releases a place that is taken up by free ionised Ca++, which is now bound to albumin thus reducing ionised Ca++, resulting in tetany. The patient should be resuscitated by intravenous normal saline with added potassium chloride, indwelling catheter and CVP line; a large-bore stomach tube is inserted to wash out the stomach to empty semisolid stale food. Confirmation of the diagnosis is made by OGD. During OGD an attempt might be made to do balloon dilatation of the stenosis as a form of treatment that may only be temporary. The definitive surgical procedure is gastrojejunostomy – posterior, retro-colic, iso-peristaltic, short loop. Some surgeons might consider adding a truncal vagotomy to prevent a future anastomotic ulcer."
+        }
+    ]
+}

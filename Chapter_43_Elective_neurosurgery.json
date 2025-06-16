@@ -1,0 +1,191 @@
+{
+    "chapter_name": "Elective neurosurgery",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "Select the correct statement from the following list. CSF is produced in adults:",
+            "options": [
+                "A at a rate of ~20 mL/hour by the choroid plexus.",
+                "B at a rate of ~20 mL/hour by the arachnoid villi.",
+                "C at a rate of ~150 mL/hour from the walls of the ventricle.",
+                "D at a rate of ~150 mL/hour by the arachnoid villi.",
+                "E at a rate of ~150 mL/hour by the choroid plexus."
+            ],
+            "answer": "A",
+            "explanation": "CSF is produced in adults at a rate of ~20 mL/hour by the choroid plexus, so that the total CSF volume of 150 mL is replaced three times per day."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "Select the correct statement from the following list. In the normal human brain, CSF flows:",
+            "options": [
+                "A from the lateral ventricles through the foramen of Monro to the third ventricle, then through the cerebral aqueduct to the fourth ventricle.",
+                "B from the lateral ventricles via the foramina of Magendie and Luschka to the third ventricle, then through the cerebral aqueduct to the fourth ventricle.",
+                "C from the subarachnoid space via the cerebral aqueduct to the lateral ventricles, and then via the foramen of Monro to the third ventricle.",
+                "D from the lateral ventricles through the foramen of Monro to the third ventricle, then via the interpeduncular cistern to the subarachnoid space.",
+                "E from the third ventricle to the fourth ventricle via the foramen of Monro, then to the subarachnoid space through the foramina of Magendie and Luschka."
+            ],
+            "answer": "A",
+            "explanation": "CSF is generated in the choroid plexus, and flows from the lateral ventricles through the foramen of Monro to the third ventricle, then through the cerebral aqueduct to the fourth ventricle. It exits the ventricular system to the subarachnoid space through the midline foramen of Magendie and paired lateral foramina of Luschka (Figure 43.1)."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "Which of the following disorders is not associated with increased incidence of primary brain tumour?",
+            "options": [
+                "A Neurofibromatosis Type I (NFI mutation).",
+                "B Li-Fraumeni syndrome (p53 mutation).",
+                "C Multiple endocrine neoplasia Type II.",
+                "D Cowden's disease (PTEN mutation).",
+                "E Hereditary non-polyposis colon cancer."
+            ],
+            "answer": "C",
+            "explanation": "MEN Type II. The mutations listed each affect a tumor suppressor gene. Somatic mutations in P53, PTEN and NF1 are frequent in gliomas in general, and syndromes involving germline mutation in these genes predispose to these and other tumours. HNPCC is associated with a number of distinct gene mutations affecting DNA mismatch repair, and collectively these mutations also confer increased risk of glioma. Certain menin gene mutations confer risk of risk of pituitary adenoma (MEN Type I- pituitary, parathyroid, pancreas). MEN Type II is associated with medullary thyroid cancer, phaeochromocytoma and parathyroid tumours."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "Which of the following is a commonly encountered complication of cranial neurosurgery?",
+            "options": [
+                "A Cryptococcal brain abscess",
+                "B N. meningitides meningitis",
+                "C H. influenzae meningitis",
+                "D Tuberculous abscess",
+                "E Staphylococcal subdural empyema"
+            ],
+            "answer": "E",
+            "explanation": "Fluid in the subdural space is a typical finding after craniotomy. Infection by the spectrum of organisms implicated in postsurgical meningitis, including Staphylococcus aureus, Enterobacteriaceae, Pseudomonas and Pneumococci, is a recognized complication, and these organisms are also typical in postsurgical abscess. N. meningitides and H. influenzae are found in spontaneous bacterial meningitis, and cryptococcal and tuberculous abscesses are the result of haematogenous spread."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "Which of the following conditions is generally managed by operative neurosurgery at diagnosis?",
+            "options": [
+                "A Pituitary prolactinoma",
+                "B Multiple cerebral metastases",
+                "C Trigeminal neuralgia",
+                "D Myelomeningocoele",
+                "E Arachnoid cyst"
+            ],
+            "answer": "D",
+            "explanation": "Myelomeningocoele is a neural tube defect comprising herniating meninges, often containing neural elements. There is a high risk of meningitis, especially if the sac has ruptured, and early surgery is preferred to close the defect prior to surface bacterial colonization. Prolactinomas (Figure 43.2a) are typically managed medically using dopamine antagonists, except in cases of rapid visual deterioration. Surgical resection of metastases is generally limited to solitary lesions in patients with well-controlled systemic disease and good functional status. Trigeminal neuralgia is managed pharmacologically in the first instance; surgical microvascular decompression is the gold standard for treatment of refractory primary neuralgia. Arachnoid cysts (Figure 43.2b) are usually an incidental finding, so that often follow-up imaging only to exclude enlargement is required."
+        },
+        {
+            "id": 6,
+            "question_type": "matching",
+            "question": "Match to the clinical descriptions the following problems arising in patients with ventriculoperitoneal shunts in situ:",
+            "options": {
+                "items": [
+                    "1 Acute shunt blockage",
+                    "2 Low pressure headache",
+                    "3 Pathology unrelated to the shunt",
+                    "4 Shunt infection",
+                    "5 Subdural haematoma"
+                ],
+                "choices": [
+                    "A Recurrent unilateral headache heralded by a localised flickering visual disturbance and associated with nausea and photophobia.",
+                    "B Progression over hours of headache, worse on coughing or lying down, then vomiting and lethargy. No evidence of papilloedema.",
+                    "C Persistent headache since shunt insertion, worse on standing.",
+                    "D Worsening headaches since alteration of programmable shunt setttings 3 weeks previously. Progressive right arm and leg weakness.",
+                    "E Fever, headache and vomiting, with neck stiffness and photophobia on examination."
+                ]
+            },
+            "answer": {
+                "1": "B",
+                "2": "C",
+                "3": "A",
+                "4": "E",
+                "5": "D"
+            },
+            "explanation": "1. B Acute shunt blockage\nHeadache, nausea and lethargy point to raised intracranial pressure. Papilloedema is slow to develop and might be altogether absent in acute shunt blockage. Shunt infection or the combination of infection and blockage should also be considered.\n2. C Low pressure headache\nShunt overdrainage accounts for significant morbidity, with postural headaches reflecting the siphon effect of the distal peritoneal shunt catheter when the patient is standing. ICP monitoring might be useful to confirm a correlation between low pressure and headache.\n3. A Pathology unrelated to the shunt\nHeadaches are common, irrespective of the presence of a VP shunt; in this case, the unilateral pain and aura are suggestive of migraine.\n4. E Shunt infection\nFever and meningism imply shunt infection unless the CSF provides evidence to the contrary.\n5. D Subdural haematoma\nSubdural haematoma is a potential complication of shunt overdrainage especially in the elderly (Figure 43.3)."
+        },
+        {
+            "id": 7,
+            "question_type": "matching",
+            "question": "Match the following presentations with a likely clinical diagnosis from the list:",
+            "options": {
+                "items": [
+                    "1 Bacterial meningitis",
+                    "2 Brain abscess",
+                    "3 Brain tumour",
+                    "4 Intracerebral haemorrhage",
+                    "5 Subarachnoid haemorrhage"
+                ],
+                "choices": [
+                    "A 30-year-old female – sudden onset severe headache during intercourse. Fever and meningism on examination.",
+                    "B 25-year-old male – chronic otitis media; progressive headache and malaise, then confusion and right arm weakness.",
+                    "C 55-year-old male – sudden onset headache with right arm and leg weakness, then deteriorating consciousness level.",
+                    "D 65-year-old male – headaches worse in the morning for some weeks, presents with right arm weakness.",
+                    "E 18-year-old male – progressive headache with fever, meningism and reduced consciousness level."
+                ]
+            },
+            "answer": {
+                "1": "E",
+                "2": "B",
+                "3": "D",
+                "4": "C",
+                "5": "A"
+            },
+            "explanation": "1. E Bacterial meningitis\nThis is a typical presentation for a spontaneous bacterial meningitis, typically caused by S. pneumonia, H. influenzae, or N. meningitides.\n2. B Brain abscess\nBrain abscess can present with fever, focal neurological deficit and raised ICP. This presentation should prompt urgent investigation (Figure 43.4). Local spread from an infected middle ear is common.\n3. D Brain tumour\nFocal neurological deficit, seizure and raised ICP are the classic triad of presenting features. Headache is not typically the main complaint at presentation.\n4. C Intracerebral haemorrhage\nICH typically presents with progressive focal deficit as the accumulating blood dissects and impinges on eloquent tissue. Larger volume bleeds can then lead to raised ICP as compensation is exhausted.\n5. A Subarachnoid haemorrhage\nThunderclap headache with an onset that can be pinpointed in time is classical for subarachnoid haemorrhage. Ongoing fever and meningism stemming from meningeal irritation by blood are very compatible with this diagnosis."
+        },
+        {
+            "id": 8,
+            "question_type": "matching",
+            "question": "The following conditions are causes of disordered of CSF flow:",
+            "options": {
+                "items": [
+                    "1 Communicating hydrocephalus",
+                    "2 Hydrocephalus ex vacuo",
+                    "3 Idiopathic intracranial hypertension",
+                    "4 Normal pressure hydrocephalus",
+                    "5 Obstructive hydrocephalus"
+                ],
+                "choices": [
+                    "A An obese young woman complains of headache and blurred vision, with florid papilloedema evident on examination. Head imaging is unremarkable.",
+                    "B During treatment for bacterial meningitis, an infant is noted to have a rapidly enlarging head circumference and bulging fontanelle.",
+                    "C A 78-year old gentleman, presenting with progressive cognitive decline and reduced mobility, has large ventricles on CT. CSF drainage results in no improvement in his walking.",
+                    "D A 75-year old gentleman has early dementia with associated incontinence. Lumbar infusion testing demonstrates reduced brain compliance, and his gait is markedly improved 24 hours after CSF drainage.",
+                    "E A patient presents obtunded with a short history of headache, vomiting and blurred vision. CT demonstrates a large pineal region tumour."
+                ]
+            },
+            "answer": {
+                "1": "B",
+                "2": "C",
+                "3": "A",
+                "4": "D",
+                "5": "E"
+            },
+            "explanation": "1. B Communicating hydrocephalus\nAcute bacterial meningitis causes accumulation of protein and cellular debris in the CSF, and this can compromise reabsorption at the arachnoid villi. Obstruction of CSF flow by accumulation of these constituents is also seen occasionally.\n2. C Hydrocephalus ex vacuo\nVentriculomegaly in the context of cognitive decline is most commonly secondary to brain atrophy, 'hydrocephalus ex vacuo.' Lumbar infusion and lumbar drainage testing can be helpful where there is clinical doubt. Failure to improve after CSF drainage makes normal pressure hydrocephalus (NPH) unlikely.\n3. A Idiopathic intracranial hypertension\nProgressive headache and visual disturbance over months in a young obese female is strongly suggestive of IIH. The condition is also known as pseudotumuor cerebri, and head imaging by MRI to exclude a space-occupying lesion is mandatory prior to lumbar puncture to confirm the diagnosis.\n4. D Normal pressure hydrocephalus\nThe classic triad of cognitive decline, urine incontinence and gait disturbance, together with a good response to CSF drainage, suggests a diagnosis of NPH and predicts a good response to long-term CSF diversion using a shunt.\n5. E Obstructive hydrocephalus\nSpace-occupying lesions, especially within the ventricles or in proximity to the cerebral aqueduct, can produce mass effect resulting in an obstructive hydrocephalus."
+        },
+        {
+            "id": 9,
+            "question_type": "matching",
+            "question": "Match the clinical scenarios that follow to the most likely underlying brain tumour pathology:",
+            "options": {
+                "items": [
+                    "1 Frontal meningioma",
+                    "2 Medulloblastoma",
+                    "3 Parietal lobe metastasis",
+                    "4 Pituitary adenoma",
+                    "5 Temporal lobe low-grade glioma"
+                ],
+                "choices": [
+                    "A A 30-year-old man with no medical history presents with two episodes of focal seizure.",
+                    "B An 8-year-old boy presents with some weeks of poor balance and clumsiness, followed by acute deterioration with headache, vomiting and drowsiness.",
+                    "C A 40-year-old woman presents with sudden severe headache and blurred vision, and has a right VIth nerve palsy on examination.",
+                    "D A 50-year-old woman is admitted after suffering a minor road-traffic accident. She is found to have a right-sided inattention.",
+                    "E A 60-year-old man lives alone and has become increasingly reclusive over several years. He is unsteady on his feet and expresses paranoid ideation."
+                ]
+            },
+            "answer": {
+                "1": "E",
+                "2": "B",
+                "3": "D",
+                "4": "C",
+                "5": "A"
+            },
+            "explanation": "1. E Frontal meningioma\nFrontal lesions are associated with personality change, cognitive deficit and disturbance of gait and sphincter control. The insidious nature of the presentation is suggestive of a low-grade lesion such as meningioma (Figure 43.5).\n2. B Medulloblastoma\nThe boy's presentation is suggestive of posterior fossa pathology, with cerebellar dysfunction progressing to evidence of acute hydrocephalus, which is likely to require immediate CSF diversion. Medulloblastoma, a posterior fossa tumour, is among the most common solid organ tumours in this age group (Figure 43.6).\n3. D Parietal lobe metastasis\nParietal lobe lesions can produce subtle deficits including sensory attention. Dominant lobe lesions can result in Gerstmann's syndrome (acalculia, agraphia, left-right disorientation and finger agnosia).\n4. C Pituitary adenoma\nThe patient's presentation is suggestive of pituitary apoplexy, the clinical manifestation of acute haemorrhage or infarction within a pituitary tumour.\n5. A Temporal lobe low-grade glioma\nSeizure activity is a common presentation of low-grade glioma, especially in the temporal lobe. The patient's age and absence of comorbidity are less suggestive of metastasis or meningioma."
+        }
+    ]
+}

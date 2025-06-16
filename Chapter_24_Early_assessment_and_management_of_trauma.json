@@ -1,0 +1,118 @@
+{
+    "chapter_name": "24 Early assessment and management of trauma",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "1. Regarding mechanisms of trauma, which of the following statements are false?",
+            "options": [
+                "A The most common cause of blunt trauma is a motor vehicle accident (MVA).",
+                "B A 10% increase in impact speed equates to a ~40% increase in pedestrian fatality.",
+                "C Seat belts reduce the risk of death or serious injury for front-seat occupants by ~20%.",
+                "D For head-on collisions, airbags reduce the risk of fatality by ~30%.",
+                "E Motorcyclists have a higher rate of mortality than car occupants involved in a MVA."
+            ],
+            "answer": "C",
+            "explanation": "Mechanisms of trauma include blunt, penetrating, blast, crush and thermal. The most common cause of blunt trauma is a motor vehicle accident (MVA), with speed of impact an important factor in determining the outcome; a 10% increase in impact speed equates to a ~40% increase in pedestrian fatality. Seat belts reduce the risk of serious injury or death for front-seat drivers or passengers by approximately 45%. Seat belt marks are associated with an increased rate of thoracic and abdominal trauma. For head-on MVA collisions, airbags do reduce the risk of fatality by almost one-third, although the airbag can be associated with injuries and children under 12 years of age should be in the rear seat with a belt on. Rear-facing infants under 1 year of age should never be in the front seat with a collision-activated airbag. Motorcyclists have a significantly higher rate of mortality and lower-extremity injuries than car occupants involved in a MVA."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. Regarding airway assessment, which of the following statements are false?",
+            "options": [
+                "A If the patient is talking, he or she does not have an imminently compromised airway.",
+                "B Suction of the airway may be required.",
+                "C Nasopharyngeal and Guedal airways are useful adjuncts.",
+                "D A GCS of 7 is not an indication for a definitive airway.",
+                "E Cervical spine control is required throughout airway assessment and management."
+            ],
+            "answer": "D",
+            "explanation": "The primary survey in ATLS includes:\nA Airway with cervical spine control.\nB Breathing and ventilation.\nC Circulation with haemorrhage control.\nD Disability and neurological status.\nE Exposure (completely expose patient and assess for injuries).\nA patient who is talking by definition has a patent airway. This does not mean it could become compromised and reassessment is paramount. Suctioning and removal of foreign bodies is an essential next step, ensuring not to push objects further down the airway. Useful airway adjuncts, if they can be tolerated by the patient, include a nasopharyngeal or Guedal airway. A patient with GCS of ≤8 is an indication for attaining a definitive airway, e.g., endotracheal tube. Cervical spine immobilisation is essential. It is often done manually initially and then collar, sand bags and tape are used until the C-spine can be cleared."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. Regarding assessing disability, which of the following can be responsible for a reduced consciousness level?",
+            "options": [
+                "A Head injury",
+                "B Hypovolaemia",
+                "C Hypoglycaemia",
+                "D Alcohol",
+                "E All of the above"
+            ],
+            "answer": "E",
+            "explanation": "A prompt and thorough neurological assessment of all trauma patients is essential. This includes assessment and regular reassessment of the patient's Glasgow Come Scale (GCS), along with pupil size and reactivity. Important causes of a reduced GCS in the trauma patient include head injury, hypoperfusion secondary to hypovolaemia, hypoglycaemia and alcohol or drug abuse."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. Which of the following are not routine adjuncts to the primary survey?",
+            "options": [
+                "A Pulse oximetry.",
+                "B Urinary catheter.",
+                "C Bloods including FBC, U&Es, clotting screen and glucose.",
+                "D Radiographs of the C-spine, chest and pelvis.",
+                "E CT with or without angiography."
+            ],
+            "answer": "E",
+            "explanation": "Monitoring during the primary survey should include pulse oximetry, blood pressure measurement and pulse rate. A urinary catheter is used to assess urine output, which is a useful indicator of perfusion and degree of shock. During the primary assessment, two large-bore cannulae are placed to gain intravenous access and bloods (FBC, UEs, clotting screen, glucose) and a cross match can be taken at this time. A toxicology screen should be requested at this stage if indicated. An arterial blood gas is a useful and quick adjunct that provides information on perfusion, oxygenation, haemoglobin level and electrolyte disturbance. Trauma series imaging includes primarily radiographs of the cervical spine, chest and pelvis. CT with or without angiography would routinely be part of the secondary survey once initial assessment and resuscitation has been carried out."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "5. Regarding the secondary survey, which of the following is not part of the AMPLE assessment?",
+            "options": [
+                "A Allergies",
+                "B Medication",
+                "C Pain assessment",
+                "D Last meal",
+                "E Events of the incident"
+            ],
+            "answer": "C",
+            "explanation": "Once the primary survey is complete, and a thorough assessment, resuscitation and reassessment of the patient has been carried out, the secondary survey can begin. In some cases, this can be days after the patient presents due to time in theatre, reduced consciousness level and time in the intensive care unit. The aim of the secondary survey is to define all the injuries sustained by the patient through a head-to-toe inspection and examination. The AMPLE mnemonic is used to review the patient's history and includes Allergies, Medication and tetanus status, Past medical history, Last meal and Events of the incident."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. Regarding paediatric trauma, which of the following combination of observations are optimal for a preschool child (< 5 years of age)?",
+            "options": [
+                "A Pulse 160 bpm, systolic blood pressure 90, respiratory rate 40, urine output 1.5 tmL/kg/hour.",
+                "B Pulse 160 bpm, systolic blood pressure 90, respiratory rate 40, urine output 1 mL/kg/hour.",
+                "C Pulse 140 bpm, systolic blood pressure 80, respiratory rate 30, urine output 1 mL/kg/hour.",
+                "D Pulse 140 bpm, systolic blood pressure 90, respiratory rate 40, urine output 1.5 mL/kg/hour.",
+                "E Pulse 140 bpm, systolic blood pressure 90, respiratory rate 30, urine output 1.5 mL/kg/hour."
+            ],
+            "answer": "E",
+            "explanation": "Paediatric trauma assessment follows the same ABCDE pathway as adult trauma. However, one of the major differences is that the normal ranges for vital signs in the paediatric patient are different than adults and change with age (Table 24.1)."
+        },
+        {
+            "id": 7,
+            "question_type": "emq",
+            "question": "Extended matching questions\nPrimary survey and resuscitation\nFor each of the following cases, select the single most appropriate diagnosis from the options listed. Each option may be used once, more than once, or not at all.",
+            "options": {
+                "items": [
+                    "1 Cardiac tamponade",
+                    "2 Haemothorax",
+                    "3 Hypoglycaemia",
+                    "4 Major vessel injury",
+                    "5 Myocardial infarction",
+                    "6 Pneumonia",
+                    "7 Pneumothorax",
+                    "8 Severe head injury",
+                    "9 Tension pneumothorax"
+                ],
+                "choices": [
+                    "A A patient presents following a fall from a third-story window and on primary survey is not maintaining adequate oxygen saturation on high-flow oxygen, is hypotensive, has a raised JVP with left tracheal deviation and the right hemi-thorax is hyper-resonant with no air entry.",
+                    "B A patient with a background of known alcohol excess presents with minor abrasions to the arms but no evidence of head injury. Chest is clear and heart sounds are normal. There is a reduced GCS 9/15 (E3, V2, M4) but no evidence of haemodynamic instability. Pupils are equal and reactive.",
+                    "C A patient presents with evidence of significant deep penetrating trauma at the level of the fifth/sixth inetercostal space in left hemi-thorax. The patient has a raised JVP and muffled heart sounds, and is haemodynamically unstable with a tachycardia and hypotension."
+                ]
+            },
+            "answer": {
+                "A": "9",
+                "B": "3",
+                "C": "1"
+            },
+            "explanation": "A. 9 Tension pneumothorax\nA tension pneumothorax is caused when air enters the chest through a ‘one-way valve', with air being sucked into the cavity on inspiration, but the valve is closed on expiration so no air can get out. It is a life-threatening injury. Clinical signs include cardiovascular instability with tachycardia, hypotension, increased respiratory rate and hypoxia. A raised JVP is often seen. In this case, there is a right tension pneumothorax with reduced air entry on that side, along with hyper-resonance and reduced expansion. The trachea deviates away from the side affected. CXR will confirm the diagnosis. Management is with urgent needle decompression using a large-bore cannula in the affected hemi-thorax at the level of the second intercostal space mid-clavicular line. A chest drain should then be placed.\nB. 3 Hypoglycaemia\nThis patient should be assessed as per ATLS protocols with C-spine control. This patient has a reduced GCS with no signs of haemodynamic instability or head injury. The most likely cause for a reduced GCS in this patient with alcohol excess is hypoglycaemia. Other important reversible causes to consider in patients with a reduced GCS are hypoperfusion and alcohol or drug abuse.\nC. 1 Cardiac tamponade\nThis patient most likely has a cardiac tamponade following a penetrating injury to the left hemi-thorax. Haemodynamic instability with evidence of muffled heart sounds are the key clinical findings in this scenarios. The classic triad (Beck's) of signs is hypotension, raised JVP and muffled heart sounds. Along with tachycardia, increased respiratory rate and a rapidly reducing GCS, other findings include pulsus paradoxus and Kussmaul's sign. Urgent pericardiocentesis is indicated."
+        }
+    ]
+}

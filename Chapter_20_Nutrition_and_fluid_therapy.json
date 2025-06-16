@@ -1,0 +1,159 @@
+{
+    "chapter_name": "20 Nutrition and fluid therapy",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Following a 12-hour fast, plasma insulin rises.",
+                "B The liver stores all of the glycogen in the body.",
+                "C Proteins and fats are broken down when starvation is prolonged.",
+                "D Except in trauma and sepsis, breakdown of protein can be prevented by administration of glucose.",
+                "E Energy expenditure is higher in starvation."
+            ],
+            "answer": [
+                "C",
+                "D"
+            ],
+            "explanation": "When fasting exceeds 24 hours, gluconeogenesis takes place in the liver. Amino acids such as glutamine and alanine are broken down in skeletal muscles followed by breakdown of fat to generate ketone bodies, which the brain begins to adapt and use as an energy fuel. Fats provide 10 kcal/g, while proteins and carbohydrates provide 4 kcal/g. In simple starvation, muscle breakdown can be reduced by providing calories in the form of glucose. The typical responses to starvation are low plasma insulin, hepatic glycogenolysis, protein catabolism, hepatic gluconeogenesis, protein catabolism and adaptive ketogenesis. In contrast, stress and trauma cause increases in adrenaline, growth hormone, cortisol and more, and associated insulin resistance and glucose intolerance.\nThe liver stores nearly 200 g of glycogen. When this runs out and starvation continues, muscle glycogen is broken down to lactate, which in turn is converted to glucose in the liver (Cori's cycle). Muscles contain about 500 g of glycogen. Starvation brings about reduced resting energy expenditure from 25–30 kcal/kg per day to 15–20 kcal/kg per day."
+        },
+        {
+            "id": "2",
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Serum albumin is not a measure of nutritional status.",
+                "B Unintentional weight loss of > 20% in the preceding 6 months is indicative of a poor outcome.",
+                "C Body mass index (BMI) is a better indicator than weight in critically ill patients.",
+                "D Anthropometry is an indirect measure of energy and protein stores.",
+                "E A Malnutrition universal screening tool (MUST) score of 1 suggests a high risk of malnutrition."
+            ],
+            "answer": [
+                "A",
+                "D",
+                "E"
+            ],
+            "explanation": "While low serum albumin levels can reflect poor dietary intake, its levels are affected by liver disease, fluid balance and renal loss. Further, its half-life is long (1 month). Proteins with shorter half-lives, such as transthyretin and retinol-binding proteins, are likely to be better markers of poor intake or absorption. Measurement of mid-arm circumference gives an indication of tissue bulk, and skin-fold thickness gives an indication of fat stores. Serially and appropriately measured, they are good markers of nutritional status.\nMUST is a five-step screening tool to identify adults who are malnourished or at risk of malnutrition (Table 20.1).\nSteps 1 and 2: Gather nutritional measurements (height, weight, BMI and recent unintentional weight loss).\nStep 3: Consider the effect of acute disease.\nStep 4: Determine the overall risk score or category of malnutrition.\nStep 5: Form an appropriate care plan using management guidelines.\nUnintentional weight loss of 10% in the preceding 6 months is indicative of a poor outcome and is a tool used in MUST. A BMI <18.5 suggests nutritional impairment, whereas a BMI of <15 is associated with hospital mortality. However, it is affected by changes in fluid balance, post op, dialysis and critical illness, making it unreliable in these circumstances."
+        },
+        {
+            "id": "3",
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Bilious secretions have electrolyte contents similar to normal serum.",
+                "B Gastric outlet obstruction can cause hypochloraemic metabolic alkalosis.",
+                "C An infusion of 5% dextrose provide an electrolyte content similar to plasma.",
+                "D Albumin infusions are helpful when the haematocrit is < 30%.",
+                "E A normal adult requires 50 mmol/day of potassium."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "Bile and ileal secretions are similar to serum electrolyte concentration and contain approximately 140 mmol/L of sodium, 5 mmol/L of potassium and 100 mmol/L of chloride. Pancreatic fluid is rich in bicarbonate secretions. Anion gap is the difference between anion and cation in plasma: (Na + K) – (HCO3 – Cl). It is normally <16 mmol/L. In gastric outlet obstruction, vomiting causes a loss in chloride and the kidneys conserve HCO3 to maintain the anion gap. Gastric secretions are rich in potassium. A normal adult requires 50 mmol of potassium per day and an estimated 30–40 ml/kg of maintenance fluids.\nAn infusion of 5% dextrose is a source of water replacement with modest calorie supplement (1L of 5% dextrose contains 400 kcal), hence the need to supplement with potassium. If the haematocrit is <21% then blood transfusion is required. There is no role for albumin infusion."
+        },
+        {
+            "id": "4",
+            "question_type": "msq",
+            "question": "Which of the following statements are false?",
+            "options": [
+                "A Most stable patients in hospital require 20-30 kcal/kg per day.",
+                "B The physiological maximum for glucose oxidation is 4 mg/kg per day.",
+                "C Essential fatty acids are made by the body.",
+                "D Providing energy as a mixture of glucose and fat is preferred.",
+                "E Protein requirements decline during periods of metabolic stress."
+            ],
+            "answer": [
+                "C",
+                "E"
+            ],
+            "explanation": "Essential fatty acids such as linoleic and linolenic acid cannot be synthesized in vivo and have to be provided. Protein and hence nitrogen requirements increase during metabolic stress to 0.20-0.25 g/kg per day (normal is 0.10–0.15 g/kg per day). However, provision of nitrogen in excess of 14 g per day is unlikely to be beneficial.\nPatients with normal or moderately increased needs require 20–30 kcal/kg per day. Total calorie intake in excess of 2000 kcal per day is rarely required. Up to 1500 kcal per day (4mg/kg/minute) of glucose can be oxidised. Non-oxidised glucose is converted to fat. Avoidance of hyperglycaemia is essential and a mixture of glucose and fat 'dual energy' is provided in all types of feeds. This minimizes fluid retention and metabolic complication related to nutrition."
+        },
+        {
+            "id": "5",
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Normally bowel motility is significantly lower in the ileum than in the jejunum.",
+                "B Resection of 50% of the proximal jejunum causes fluid, electrolyte and nutritional imbalances.",
+                "C Short bowel syndrome occurs when > 200 cm of short bowel is resected with a colectomy.",
+                "D Patients with a jejunostomy must be encouraged to drink plain water to overcome losses.",
+                "E Renal stones may occur in short bowel syndrome."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "E"
+            ],
+            "explanation": "The ileocaecal valve slows transit through the ileum, and gut motility is three times longer here than the jejunum. Loss of even 100 cm of ileum causes increased gastric motility, peptic ulceration, increased intestinal transit and steatorrhoea, as the colon receives bile salts (further reducing its ability to reabsorb water). Patients with short bowel syndrome and jejunostomy are divided into the following: Net absorbers, which have >100 cm of residual jejunum and conserve water and sodium better; Net secretors, which have <100 cm of residual jejunum and conserve water and sodium poorly. Renal complications of short bowel syndrome include hyperoxalurea and renal stones as a result of increased intestinal absorption of oxalate.\nIn health, if the jejunal cellular junctions are leaky fluid absorption is inefficient. Resection of the proximal jejunum results in no alteration in fluid and electrolyte levels, as the ileum and colon perform this function more efficiently. Jejunostomy losses can exceed 4L/day. If hypotonic fluids (tea, water) are consumed, there is net efflux of sodium from plasma into the bowel lumen, worsening outputs from the bowel. Patients are encouraged to take glucose and saline replacement solutions, which contain at least 90 mmol/L of sodium.\nUnintentional weight loss of 10% in the preceding 6 months is indicative of a poor outcome and is a tool used in MUST. A BMI <18.5 suggests nutritional impairment, whereas a BMI of <15 is associated with hospital mortality. However, it is affected by changes in fluid balance, post op, dialysis and critical illness, making it unreliable in these circumstances."
+        },
+        {
+            "id": "6",
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Any patient who has inadequate intake for 5 to 7 days must be considered for nutritional support.",
+                "B Polymeric feeds contain intact protein.",
+                "C If the requirement for enteral feeding exceeds 1 week, then percutaneous endoscopic gastrostomy (PEG) is preferred to the nasogastric (NG) route.",
+                "D Jejunostomy feeding is associated with reduced aspiration.",
+                "E Diarrhoea occurs in more than 30% of patients receiving enteral nutrition."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Patients with sustained inadequate intake for 5 to 7 days or lesser period in persons with pre-existing malnutrition must be considered for artificial nutritional support. Nutritional support by enteral means through oral supplementation (sip feeding) or NG/PEG or feeding via the duodenum or jejunum is considered. All feeds vary with respect to their energy content, osmolality, fat, nitrogen content and nutrient composition. Polymeric feeds contain intact protein and hence require digestion. Monomeric or elemental feeds contain nitrogen in the form of peptides or free amino acids.\nWhen enteral feeding is required for prolonged periods (4 to 6 weeks) then a PEG is considered because it minimises complications related to NG feeding. Rarely necrotising fasciitis, intra-abdominal abscess formation and persistent gastric fistula are the potential problems associated with PEG. Jejunostomy enables post-pyloric feeding and may be associated with reduced aspiration and enhanced tolerance to enteral nutrition."
+        },
+        {
+            "id": "7",
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Total parenteral nutrition (TPN) should be offered to malnourished who have an inappropriate or disrupted gastrointestinal tract.",
+                "B TPN is best delivered via a dedicated central venous catheter.",
+                "C Patients on TPN have lower hospital length of stay when compared to enteral nutrition.",
+                "D A weight gain of more than 3 kg per day suggests fluid retention.",
+                "E Abnormalities in liver function tests are common with TPN usage."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "Patients with an inaccessible or nonfunctional gastrointestinal tract require TPN. For short-term feeding (e.g., < 30 days) a non-tunnelled subclavian line and for long-term feeding a tunnelled line is used. Intrahepatic cholestasis, hepatic steatosis and hepatomegaly are commonly reported with TPN usage. Reducing the fat content of TPN may help. If a patient continues to deteriorate, temporary discontinuation works. Other metabolic complications with TPN are overfeeding, hyperglycaemia and peripheral insulin resistance.\nPatients on TPN are at risk of complications related to the central line, sepsis, overfeeding and nutrient deficiencies. Parenteral nutrition is associated with longer length of hospital stay. A weight gain of > 1 kg per day suggests fluid retention."
+        },
+        {
+            "id": "8",
+            "question_type": "matching",
+            "question": "Match the options of nutritional requirements with the following scenarios:",
+            "options": {
+                "items": [
+                    "A A 47-year-old male is admitted with acute renal failure. He is HIV positive and is on antiretroviral medications. He was recently recruited into a clinical trial and started on trial medication. He has been unwell since and has noticed blood in his urine and low urine output. His BMI is 20. He has been unable to eat properly for 1 week because of a poor appetite.",
+                    "B A 79-year-old female suffers from depression and long-standing arthritis. She used to weigh 66 kg 6 months ago and is now 62 kg. Her BMI is 22.",
+                    "C A young man has undergone extensive bowel resection for Crohn's disease 2 days ago. He is in intensive care and his BMI is 25. Blood test shows Na 142 mmol/L, K 3.7 mmol/L, urea 8.9 mmol/L and creatinine 98 µmol/L.",
+                    "D An 18-year-old girl presents to A&E having collapsed at home. She is very slim and has a BMI of 15. She is weak, thin and has poor dentition, nails and hair. Systemic examination is normal. Blood tests show Na 142 mmol/L, K 2.2 mmol/L, urea 6 mmol/L, creatinine 50 µmol/L and glucose 6.7 mmol/L.",
+                    "E A 70-year-old female with a past history of large bowel cancer has recently moved to a care home and staff is concerned that she may be malnourished. Her BMI is 25. Her appetite is normal and there is no history of weight loss."
+                ],
+                "choices": [
+                    "1 Consider parenteral nutrition.",
+                    "2 High risk of refeeding syndrome and requires slow calorie replacement.",
+                    "3 Increase oral/enteral nutrition.",
+                    "4 MUST score is low and the patient can be observed.",
+                    "5 MUST score is medium and repeat screen on a monthly basis."
+                ]
+            },
+            "answer": {
+                "1": "C",
+                "2": "D",
+                "3": "A",
+                "4": "B",
+                "5": "E"
+            },
+            "explanation": "1.C Consider parenteral nutrition: TPN is the provision of nutrition by means of the intravenous route without the use of the gastrointestinal tract. The most common indication is nutritional support for patients who have undergone massive resection of the small intestine, who have intestinal fistula or prolonged intestinal failure.\nComplications of TPN are related to the following:\nNutrient deficiencies – Hypoglycaemia, hypocalcaemia, hypophosphataemia, or refeeding syndrome, mineral and trace element deficiencies.\nOverfeeding – Excess glucose in feeds cause hyperglycaemia, hyperosmolar dehydration, hepatic steatosis, fluid retention and electrolyte abnormalities. Excess fat can cause hypercholesterolemia and raised triglycerides. Excess amino acids are associated with acidosis and uraemia.\nSepsis – Catheter-related sepsis and an increased predisposition to systemic sepsis are well-recognised complications.\nCentral venous catheter – At the time of central line insertion, there is an increased risk of pneumothorax, air embolism, thoracic duct damage, pleural effusion and cardiac tamponade. Long-term usage could predispose to occlusion and venous thromboembolism.\n\n2.D High risk of refeeding syndrome and requires slow calorie replacement: Refeeding syndrome occurs when the body switches from a catabolic state to an anabolic state, resulting in transcellular shifts of electrolytes and nutrients. The following conditions predispose to the development of refeeding syndrome.\nPatient has one or more of the following:\n• BMI less than 16 kg/m².\n• Unintentional weight loss greater than 15% within the last 3 to 6 months.\n• Little or no nutritional intake for more than 10 days.\n• Low levels of potassium, phosphate or magnesium prior to feeding.\nOr\nPatient has two or more of the following:\n• BMI less than 18.5 kg/m².\n• Unintentional weight loss greater than 10% within the last 3 to 6 months.\n• Little or no nutritional intake for more than 5 days.\n• A history of alcohol abuse or drugs including insulin, chemotherapy, antacids, or diuretics.\nhttp://www.nice.org.uk/CG032NICEguideline\nPatients at high risk of refeeding syndrome must be identified and prescribed 10 kcal/kg per day, increasing calories slowly to meet full nutritional requirements in four to seven days. Using half the calories suggested may be required in extreme cases. Oral thiamine is always replaced before and during the first 10 days of feeding to prevent the onset of Wernicke's encephalopathy, related to Vitamin B1 deficiency.\n\n3.A Increase oral/enteral nutrition: Generally a patient with a MUST score of < 2 can be observed, whereas those with a score > 2 should be treated, preferably by the enteral route.\nAcute disease effect such as following elective procedures, sepsis, pancreatitis, acute renal failure and major surgery are all additional stress factors that increase the risk of malnutrition. Poor oral intake due to depression, polypharmacy, nausea and inadequate or poor quality of foods are additional risk factors.\n\n4.B MUST score is low and the patient can be observed: The patient has lost around 6% of her body weight but her BMI is normal and she does not have any acute illness. Hence her MUST score is 1 and she has medium risk of malnutrition.\n\n5.E MUST score is medium and repeat screen on a monthly basis: MUST is a rapid, simple and general procedure that can be used by medical, nursing, or other health professional staff who come in contact with a patient. Screening may need to be repeated as a subject's clinical and nutritional problems change, especially as they move though care settings."
+        }
+    ]
+}

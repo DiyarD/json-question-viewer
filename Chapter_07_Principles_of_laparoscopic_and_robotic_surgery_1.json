@@ -1,0 +1,280 @@
+{
+    "chapter_name": "Principles of laparoscopic and robotic surgery",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?",
+            "options": [
+                "A Decrease in wound size.",
+                "B Decreased postoperative pain.",
+                "C Reduced operating time.",
+                "D Improved vision.",
+                "E Reduced operating theatre costs."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "The other advantages are reduced wound pain and wound-related complications such as infection, bleeding, hernias and nerve entrapment. In the long-term there is possibility of decreased adhesions and incisional hernia. MAS is complimentary to enhanced recovery programme (ERP) in reducing postoperative hospital stay and improving patient experience."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "2. Which of the following statements are true?",
+            "options": [
+                "A Technically more demanding.",
+                "B Loss of tactile feedback.",
+                "C Extraction of large specimens.",
+                "D Difficulty with haemostasis.",
+                "E Surgery following previous multiple operations."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "The other limitations are reliance on remote vision and operating and dependence on hand-eye coordination. The set-up costs and operating theatre costs can be high. However, the overall hospital costs are less."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. Which of the following statements are true?",
+            "options": [
+                "A It should be a supporter of combustion.",
+                "B It should be highly soluble in blood.",
+                "C It should be rapidly excreted by the body.",
+                "D There should be low risk of embolism.",
+                "E It should have low diffusion co-efficient."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "The gas used for pneumoperitoneum should not be combustible or supportive of combustion, because this can cause fire with the use of diathermy. It should have a high diffusion coefficient to minimise the risk of embolism."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "4. Which of the following statements are true?",
+            "options": [
+                "A Hyperthermia.",
+                "B Acidosis.",
+                "C Cardiac arrhythmias.",
+                "D Gas embolism.",
+                "E Compromised cardiac return."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The other complications include hypothermia and referred shoulder-tip pain."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "5. Which of the following statements are true regarding complications associated with creating pneumoperitoneum?",
+            "options": [
+                "A Bleeding.",
+                "B Visceral injuries.",
+                "C Gas dissection in the abdominal wall.",
+                "D Injury to the blood vessels.",
+                "E Omental tears."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "The procedure to create pneumoperitoneum can be associated with major risks, hence utmost care needs to be employed. Risks can be reduced by avoiding a blunt puncture and taking extra care in difficult cases, such as with those who have had previous operations. Gas dissection within the abdominal wall can be avoided by confirming, without doubt, placement of trocars in the peritoneal cavity before starting insufflation and correlating pressures generated with the volume of gas insufflated. Injury to major vessels is life threatening and should be promptly recognised. Laparotomy performed without delay and expert help, if needed and damage repaired."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "6. Which of the following energy sources are used in minimal access surgery?",
+            "options": [
+                "A Monopolar diathermy.",
+                "B Bipolar diathermy.",
+                "C Laser.",
+                "D Ultrasound energy.",
+                "E Vapour plasma coagulation (VPC)."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Monopolar diathermy is the common energy source used. This has potential risks, thus needs to be used with caution. Argon plasma coagulation (APC) is used to augment the coagulation effect of the diathermy, but there is a potential for lateral spread and care should be exercised in its use. Biploar energy devices are safer to use. A modern energy device commonly used is ultrasound, which can generate heat and thus must be used with caution."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "7. The following are the advantages of robotic surgery except:",
+            "options": [
+                "A 3-D vision.",
+                "B Articulated instruments allowing precise dissection.",
+                "C Cost effectiveness.",
+                "D Steep learning curve.",
+                "E Surgery can be performed in a confined space."
+            ],
+            "answer": "C",
+            "explanation": "In robotic surgery, the robot is used as a tool to perform the MAS. The advantages are the magnified 3-D vision with articulated instruments, which provide precise dissection. The fixed traction is also of benefit, however, the current robot technology does not allow procedures to be performed in multiple quadrants easily and in dealing with mobile structures."
+        },
+        {
+            "id": 8,
+            "question_type": "msq",
+            "question": "8. What are the benefits of robotic surgery over laparoscopic surgery?",
+            "options": [
+                "A Better ergonomics.",
+                "B Reduces the need for assistants.",
+                "C Precise dissection and motion scaling.",
+                "D Shorter operating time.",
+                "E Shorter learning curve."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Robotic surgery has shorter learning curve for those already practising laparoscopic surgery and allows open surgeons to take up minimal access surgery."
+        },
+        {
+            "id": 9,
+            "question_type": "msq",
+            "question": "9. What are the current drawbacks of robotic surgery?",
+            "options": [
+                "A Increased costs.",
+                "B Prolonged learning curve.",
+                "C Increased operating time.",
+                "D Socioeconomic implications.",
+                "E Loss of tactile feedback."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Despite these drawbacks, robotic surgery has a role in single-quadrant disease such as in the pelvis. Currently robotic surgery is mainly used for prostatectomy and hysterectomy, as well as in the surgery for rectal cancer. Robotic surgery is also used in cardiothoracic surgery in performing anastomosis and valve replacement."
+        },
+        {
+            "id": 10,
+            "question_type": "msq",
+            "question": "10. How can bleeding from the trocar site be controlled?",
+            "options": [
+                "A By applying upward and lateral pressure with the trocar.",
+                "B By using a percutaneous monofilament suture loop.",
+                "C Suturing.",
+                "D Application of Foley catheter balloon.",
+                "E Diathermy."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "This recognised complication can be reduced by inserting and removing trocars under direct vision and avoiding the path of the epigastric vessels."
+        },
+        {
+            "id": 11,
+            "question_type": "msq",
+            "question": "11. Which of the following statements are true in relation to the risks of electrosurgery in minimal access surgery?",
+            "options": [
+                "A Majority of injuries occur following the use of monopolar diathermy.",
+                "B The incidence is about one to two cases per 1000 procedures.",
+                "C All the injuries are recognised at the time of surgery.",
+                "D The injuries are minor.",
+                "E Bipolar diathermy is equally dangerous."
+            ],
+            "answer": [
+                "A",
+                "B"
+            ],
+            "explanation": "These injuries can be potentially serious. They are often not recognised at the time of operation and patients may present 3 to 7 days after injury with pyrexia and nonspecific abdominal pain. Bipolar diathermy is safer than monopolar diathermy, as there is no lateral spread of current."
+        },
+        {
+            "id": 12,
+            "question_type": "msq",
+            "question": "12. What are the main causes of electrosurgical injuries in laparoscopic surgery?",
+            "options": [
+                "A Inadvertent touching or grasping of tissue during application.",
+                "B Direct coupling.",
+                "C Insulation breaks.",
+                "D Indirect coupling.",
+                "E Passage of electricity from recently coagulated tissue."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Awareness of electrosurgical injuries is essential in minimal access surgery. Injuries can be avoided by having an optimal visual image, employing safer surgical technique by avoiding excessive diathermy use and using alternative energy sources."
+        },
+        {
+            "id": 13,
+            "question_type": "msq",
+            "question": "13. Which of the following are used as access points for natural orifice transluminal surgery (NOTES)?",
+            "options": [
+                "A Mouth.",
+                "B Vagina.",
+                "C Umbliicus.",
+                "D Anus.",
+                "E Retroperitoneum."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "This is also called scarless or incisionless surgery. In this technique, the peritoneal cavity is entered via a natural orifice and surgery is carried out with specialised instruments. This technology is still in its developmental stage not used as a recognised technique."
+        },
+        {
+            "id": 14,
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Bowel injury",
+                    "2 Major vessel injury",
+                    "3 Port-site bleeding",
+                    "4 Port-site hernia",
+                    "5 Port-site metastasis",
+                    "6 Referred pain",
+                    "7 Thromboembolic complications"
+                ],
+                "choices": [
+                    "A A 64-year-old male who had laparoscopic colectomy for cancer presents with a lump at the port site. The lump is painless and hard. There is no cough impulse and it is not reducible.",
+                    "B A 36-year-old female who had laparoscopic cholecystectomy two days ago is brought to A&E with increasing abdominal pain and distension. On examination she is very unwell and shows signs of peritonitis.",
+                    "C A 32-year-old female had an uneventful laparoscopy 4 hours previously. The nurses observe that the dressings are soaked with blood despite repeated changing. The woman has tachycardia but is otherwise well. The abdomen is soft and not distended.",
+                    "D A 40-year-old female who underwent laparoscopic cholecystectomy the previous day complains of pain over the right shoulder. She is otherwise stable and her abdomen is soft and non-tender.",
+                    "E A 55-year-old male who had laparoscopic cholecystectomy two years ago presents with a slowly increasing lump over the substernal scar. This gets more prominent on sitting and coughing. It is causing local discomfort. Clinical examination reveals a 2 cm soft lump over the area. It is reducible and has cough impulse.",
+                    "F A 70-year-old obese female who had a laparoscopic cholecystectomy 1 week ago is admitted with chest pain and shortness of breath. A CT pulmonary angiogram confirms the diagnosis.",
+                    "G A 34-year-old thin female undergoes a diagnostic laparoscopy for unexplained pelvic pain. The woman collapses after the introduction of the first trocar. The surgeon could not visualise any structures in the peritoneal cavity, as the view is ‘red out', The abdomen is distended with free blood in the peritoneal cavity."
+                ]
+            },
+            "answer": {
+                "1": "B",
+                "2": "G",
+                "3": "C",
+                "4": "E",
+                "5": "A",
+                "6": "D",
+                "7": "F"
+            },
+            "explanation": "Bowel injury is a recognised complication after laparoscopic surgery. This can be due to bowel handling or diathermy injury. Only bowel graspers should be used to handle bowels and all graspers should be kept under vision. This complication is suspected if a patient presents with signs of peritonitis a few days after surgery. Major vessel injury: This is a major life-threatening complication and requires immediate recognition and laparotomy. This complication can be caused by both verres needle and the trocars. Trocars should be inserted cautiously. Port-site bleeding: Port-site bleeding can present with overt wound bleeding or signs of shock due to internal bleeding. The bleeding from epigastric vessels or vessels in the falciform ligament can cause significant bleeding, and this complication can be identified by removing the ports under direct vision. Port-site hernia: Port-site hernia has a 1% to 2% incidence. It is important all the ports of 1 cm and above are closed. Lateral ports made using bladeless trocars are associated with lower incidence of hernia formation. Port-site metastasis: Port-site recurrences are a potential complication following laparoscopic surgery for cancer. In colorectal cancer this is reported as 1%, which is similar to open procedures. This incidence can be reduced by using wound protectors and endobag for specimen retrieval, and by allowing the gas to escape through the ports, avoiding chimney effect, and cleaning the port sites prior to closure. Referred pain: Referred pain to the shoulder is not uncommon after laparoscopic surgery. This is referred from the diaphragm, should subside within a couple of days and can be reduced by ensuring that all the CO₂ is removed from the peritoneal cavity prior to waking the patient up. Sometimes administration of local anaesthetic in the peritoneal cavity can decrease the referred pain. Thromboembolism: Deep vein thrombosis (DVT) and pulmonary embolism are potential complications following minimal access abdominal surgery. All patients should receive appropriate DVT prophylaxis based on the current NICE (England) or SIGN (Scotland) guidelines."
+        }
+    ]
+}

@@ -1,0 +1,269 @@
+{
+    "chapter_name": "Intestinal obstruction",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?",
+            "options": [
+                "A In dynamic intestinal obstruction 40%\nare due to adhesions.",
+                "B Proximal to an obstruction the gas is\nmade up of 90% nitrogen and hydrogen\nsulphide.",
+                "C Dehydration in intestinal obstruction is\nsolely due to vomiting.",
+                "D In dynamic obstruction the bowel distal\nto the obstruction initially functions\nnormally.",
+                "E In adynamic obstruction peristalsis is\nabsent or inadequate."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Intestinal obstruction can be dynamic where there is a mechanical obstruction or adynamic where there is no mechanical obstruction and is due to absent or diminished peristalsis. There are several causes of dynamic intestinal obstruction, 40% of which are due to adhesions; carcinoma and inflammatory conditions account for 15% each whereas obstructed hernia is a cause in 12%. Proximal to an obstruction there is distension, which is made up of gases and fluid. Overgrowth of aerobic and anaerobic organisms result in gas production, 90% of which is made up of nitrogen and hydrogen sulphide.\nIn dynamic obstruction, initially the bowel proximally functions normally, but if the obstruction is not relieved, peristalsis reduces and ceases resulting in paralysis. In adynamic obstruction the underlying pathology is paralysis of the Auerbach's and Meissner's plexuses resulting in stasis (see the following). Dehydration is a cardinal feature of intestinal obstruction clinically apparent by sunken eyes, dry tongue and loss of skin turgor. Vomiting is only one of the factors that cause dehydration, the others being lack of absorption, fluid sequestration within the bowel lumen (loss into third space) and transudation into the peritoneal cavity."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "2. The following statements are true\nexcept:",
+            "options": [
+                "A Strangulation in intestinal obstruction is\nlife threatening.",
+                "B In strangulation venous return is\ncompromised before arterial supply.",
+                "C If the segment of strangulated segment\nof bowel is short the systemic effects\nwill not be significant.",
+                "D Closed-loop obstruction will cause\nstrangulation.",
+                "E The caecum might rupture in closed-\nloop obstruction."
+            ],
+            "answer": "C",
+            "explanation": "Strangulation denotes loss of blood supply to an obstructed bowel. The effects of strangulation do not depend upon the length of strangulated bowel. In a strangulated external hernia where the length of bowel that loses its blood supply might be short, or in a Richter's hernia where only a knuckle of bowel is strangulated, the deleterious systemic effects will still be very significant due to sepsis and proximal obstruction.\nStrangulation in intestinal obstruction is life-threatening because of the loss of blood supply and the effects of ischaemia. Venous return is the first to be compromised followed by arterial supply. Strangulation can also be the outcome of a closed-loop obstruction when a loop of bowel is closed off at both ends such as a distal colonic carcinoma with a competent ileocaecal valve (which is present in a third of patients). This results in ballooning of the caecum, which distends to such an extent that it becomes gangrenous and perforates."
+        },
+        {
+            "id": "3",
+            "question_type": "msq",
+            "question": "3. Which of the following statements are\ntrue?",
+            "options": [
+                "A Internal hernia is a rare cause, the\ndiagnosis usually being made at\noperation.",
+                "B In the majority of internal hernia,\ndivision of the constricting agent should\nnot be undertaken.",
+                "C Enteric strictures causing obstruction\nmust always be resected.",
+                "D Bolus obstruction in the small bowel can\nbe caused by stones and worms.",
+                "E Obstruction from postoperative\nadhesions almost never involves the\nlarge bowel."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Internal hernia is a rare cause of intestinal obstruction, almost always involving the small bowel, the diagnosis being made at laparotomy when a patient is being operated upon for unexplained intestinal obstruction. There are several potential sites of internal herniation – normal anatomical foramen such as the foramen of Winslow, paraduodenal fossae, or mesenteric defects. At operation division of the constricting agent should not be undertaken as important vessels/structures run on the edge of the constricting ring, e.g., portal vein, hepatic artery and bile duct on the edge of the epiploic foramen (of Winslow).\nA gallstone can cause distal small bowel obstruction, once again the diagnosis usually made at laparotomy (see details in Chapter 67: The gall bladder and bile ducts). The other cause of bolus obstruction is round worms, not uncommon in developing countries (see Chapter 6 Surgery in the tropics). Postoperative adhesive obstruction almost never involves the large bowel; it is the distal small bowel that is usually affected. When an enteric stricture is the cause, resection and end-to-end anastomosis is not always necessary such as in Crohn's disease when a strictureplasty can be done."
+        },
+        {
+            "id": "4",
+            "question_type": "msq",
+            "question": "4. Which of the following statements are\ntrue?",
+            "options": [
+                "A The condition occurs equally in children\nand adults.",
+                "B Intussusception in all age groups is\nileocolic.",
+                "C All cases of intussusception will require\nan operation.",
+                "D In children the abdomen is not initially\ndistended.",
+                "E US of abdomen has a high diagnostic\nsensitivity in children."
+            ],
+            "answer": [
+                "D",
+                "E"
+            ],
+            "explanation": "Acute intussusception, although a mechanical intestinal obstruction, when it occurs in children does not cause abdominal distension in the initial stages. There is emptiness in the right iliac fossa with a lump that is felt to be hardening in real time in 60% of cases.\nIn children, abdominal US has a high diagnostic sensitivity showing typical doughnut appearance of concentric rings. CT scan is the most sensitive imaging showing the ‘target' or 'sausage' shaped soft-tissue mass; but in view of the radiation it might not be an advisable investigation for children.\nThe condition mostly occurs in children between five and 10 months when 90% of cases are idiopathic. The remainder might have an underlying pathology such as a polyp, Meckel's diverticulum or Henoch-Schönlein purpura when the child is usually beyond 2 years. In children the type is ileocolic whilst in adults it is colo-colic because, in the latter group, almost always the underlying cause is a polypoid carcinoma that can be seen on barium enema as a claw-shaped deformity (Figure 70.1). The condition, when it occurs in children, does not always need an operation as it can be reduced by hydrostatic decompression, the procedure being particularly successful if treated within 12 hours of onset."
+        },
+        {
+            "id": "5",
+            "question_type": "msq",
+            "question": "5. Which of the following statements are\ntrue?",
+            "options": [
+                "A The commonest type in the adult is\nsigmoid volvulus.",
+                "B Sigmoid volvulus can be treated by non-\nsurgical means.",
+                "C The longer the duration of symptoms\nthe worse the prognosis.",
+                "D Untreated the condition will result in\nischaemia.",
+                "E A secondary volvulus occurs around an\nacquired adhesion."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Volvulus of the sigmoid colon is the commonest type that occurs in the adult. It can be primary when it occurs due to abnormal mesenteric attachments or congenital bands. When diagnosed, if the patient is not ill without any signs of ischaemia, non-surgical treatment in the form of endoscopic decompression can be successful; a flatus tube is then inserted to make sure the decompression continues and the volvulus does not recur.\nIf conservative measures are not successful and the patient is not promptly treated, the mechanical twisting causes the mesenteric veins to get obstructed resulting in thrombosis and ischaemia. A volvulus can be primary or secondary. The primary type is the result of congenital malrotation, abnormal mesenteric attachments, or congenital bands, for example, volvulus neonatorum, caecal and sigmoid volvulus. A secondary volvulus which is rotation of a bowel segment around an acquired adhesion is much more common. The prognosis of a volvulus is much better when the condition takes a slow, progressive course and is of gradual onset. On the other hand when the onset is sudden and of short duration the condition is of a fulminant variety and carries a poor prognosis."
+        },
+        {
+            "id": "6",
+            "question_type": "msq",
+            "question": "6. Which of the following statements\nare true?",
+            "options": [
+                "A Vomiting is early and distension minimal\nin high small bowel obstruction.",
+                "B The vomitus is faeculent in distal small\nbowel obstruction.",
+                "C The more distal the obstruction in\nthe small bowel, the greater is the\nabdominal distension.",
+                "D Absolute constipation is present in all cases.",
+                "E The administration of enemas can result\nin misleading findings."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "The clinical features depend upon the site of obstruction. In high small bowel obstruction vomiting occurs early; as the obstruction is high, the distal bowel is collapsed hardly causing any abdominal distension. It therefore follows that the more distal the obstruction in the ileum, the greater will be the abdominal distension. For the same reason the vomitus will be faeculent in content, which follows to bilious vomiting that occurs at the outset.\nAs an initial management, enemas used to be administered in days gone by. This practice gives misleading results, as there will be evacuation of faecal contents that are already present distal to the obstruction prior to the onset of the acute episode thus confusing the issue. Absolute constipation (lack of faeces and flatus), although a feature in the majority, is not always present. Diarrhoea might be present in Richter's hernia, mesenteric vascular occlusion and partial obstruction."
+        },
+        {
+            "id": "7",
+            "question_type": "mcq",
+            "question": "7. The following statements are true\nexcept:",
+            "options": [
+                "A Continuous severe pain is suggestive of\nstrangulation.",
+                "B Tenderness over the right iliac fossa is a\nsinister sign.",
+                "C Fever indicates strangulation.",
+                "D Secondary polycythaemia might be a\nfeature of dehydration.",
+                "E Normal bowel sounds excludes\nintestinal obstruction."
+            ],
+            "answer": "E",
+            "explanation": "Normal bowel sounds do not exclude intestinal obstruction. Bowel sounds might be scanty or absent in long-standing obstruction. This is not a reliable clinical feature. Continuous severe pain is suggestive of strangulation. Pain of small bowel origin is centred on the umbilicus while pain from large bowel obstruction is in the lower abdomen. Tenderness in the right iliac fossa is a sinister sign as it signifies ischaemia and impending rupture of the caecum; this would be from a closed-loop large bowel obstruction due to a competent ileocaecal valve. Fever is a sign of toxicity and hence might indicate ischaemia from strangulation or perforation. Long-standing dehydration will result in haemoconcentration causing secondary polycythaemia."
+        },
+        {
+            "id": "8",
+            "question_type": "msq",
+            "question": "8. Which of the following statements are\ncorrect?",
+            "options": [
+                "A The mainstay of diagnosis of\nstrangulation is clinical.",
+                "B Shock suggests ischaemia.",
+                "C Pain is incessant in established or\nimpending strangulation.",
+                "D Tenderness, absence of cough impulse\nand discoloration in an external hernia\nindicates strangulation.",
+                "E Generalised tenderness and rigidity\nrequires immediate laparotomy."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "It is essential to be able to recognise strangulation in a case of intestinal obstruction. Once strangulation (compromise of blood supply) supervenes, the mortality and morbidity rises. The mainstay of diagnosis of strangulation is clinical. The pain is incessant and severe. When an irreducible hernia (inguinal or femoral) is palpated in a case of intestinal obstruction, gentle palpation of the lump is important. If the lump is tender with no cough impulse, feels hard and looks discoloured, the picture is one of strangulation. When strangulation has been going on for some time, the patient might show features of endotoxic shock – pyrexia, hyperdynamic circulation, high pulse pressure and bounding pulse. Abdomen would show generalised tenderness, rigidity with rebound tenderness. It is time to do an urgent operation."
+        },
+        {
+            "id": "9",
+            "question_type": "mcq",
+            "question": "9. The following statements are correct\nexcept:",
+            "options": [
+                "A Erect abdominal films should be\nroutinely carried out.",
+                "B In distal small bowel obstruction\ndistended small bowel loops lie\ntransversely and central in position.",
+                "C The jejunum has typical features of\nvalvulae conniventes and the ileum is\nfeatureless.",
+                "D In colonic obstruction a water-soluble\nenema should be undertaken.",
+                "E Fluid levels might be seen in non-\nobstructive conditions."
+            ],
+            "answer": "A",
+            "explanation": "Traditionally, x-ray requests for intestinal obstruction always said ‘Erect and supine'. An erect x-ray is no longer asked for because it does not give as much information as a supine film. Erect film shows only fluid levels whereas a supine film will show the pattern of abdominal distension thereby revealing the site of obstruction. Moreover, fluid levels take longer to show up because it takes longer for gas and fluid to separate; hence it is a late sign. In colonic obstruction, fluids levels are not seen when the ileocaecal valve is competent. On the other hand fluid levels might show up when there is no obstruction such as in gastroenteritis, acute pancreatitis and intra-abdominal sepsis.\nIn small bowel distension, the bowel loops lie centrally and are transversely placed (Figure 70.2) with hardly any gas in the colon. Distended jejunum has typical features – straight lines at regular intervals passing across the entire width of the dilated bowel giving the appearance of a ladder lying on its side. These are called ‘valvulae conniventes'. The ileum looks like a distended tube without any features described as ‘characteristically characterless'. In colonic obstruction haustrations are seen. When large bowel obstruction is suspected, a limited water-soluble enema is done to ascertain the site and cause of obstruction, particularly to exclude pseudo-obstruction. A CT colonography is the usual investigation of choice."
+        },
+        {
+            "id": "10",
+            "question_type": "msq",
+            "question": "10. Which of the following statements are\nnot true?",
+            "options": [
+                "A The patient must have an immediate\noperation.",
+                "B Antibiotic therapy is mandatory when\nsurgery is carried out.",
+                "C In very ill patients at operation\nexteriorisation should be considered.",
+                "D After operation for intestinal ischaemia,\nreperfusion injury might occur.",
+                "E Dextrose-saline should be the fluid of\nchoice for resuscitation."
+            ],
+            "answer": [
+                "A",
+                "E"
+            ],
+            "explanation": "Patients should not be operated upon immediately. Every patient, even the patient with suspected ischaemic bowel, needs thorough resuscitation and anaesthetic assessment. Resuscitation must consist of nasogastric suction to decompress the distended bowel, intravenous fluids to treat dehydration and analgesia to relieve pain. Fluid used for resuscitation should be Hartmann's solution or normal saline with added potassium (depending upon the patient's urea and electrolytes) monitored by indwelling urinary catheter and a CVP line.\nProphylactic broad-spectrum antibiotics are given before the patient is taken to theatre. The very-ill patient might require planning of ICU treatment and the possible use of inotropes. Such patients undergoing bowel resection should be considered for exteriorisation of proximal and distal ends of bowel rather than primary end-to-end anastomosis. When bowel resection is done for intestinal ischaemia, one must be aware of reperfusion injury of the lung from release of inflammatory mediators. This can be prevented or the chances minimised at operation by clamping the blood vessels supplying ischaemic bowel before handling the bowel itself."
+        },
+        {
+            "id": "11",
+            "question_type": "msq",
+            "question": "11. Which of the following statements\nare true?",
+            "options": [
+                "A Obstructed external hernia needs early\noperation.",
+                "B Conservative management should\nbe considered in obstruction due to\nadhesions.",
+                "C On opening the abdomen, once the site\nof obstruction is determined, the initial\nstep is to remove it.",
+                "D A second-look operation might\nsometimes be necessary.",
+                "E In obstruction without ischaemia\nsurgery can be deferred."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "An external hernia, femoral, inguinal or incisional, that is obstructed as diagnosed by the clinical findings of irreducibility, lack of cough impulse and pain, needs early operation before it goes on to lose its blood supply, i.e., strangulation sets in. After adequate resuscitation, the patient is taken to theatre. When obstruction is suspected to be due to adhesions and there are no signs of compromise of blood supply, a period of conservative management – analgesia, nasogastric suction and intravenous fluids – should be tried. This might help relieve the obstruction. Moreover, further operation creates more adhesions.\nIn mesenteric vascular occlusion with multiple ischaemic areas a second-look laparotomy is often required after 24 to 48 hours. This is to reassess the gut and perform the appropriate procedure. When intestinal obstruction is present without ischaemia, surgery can be deferred until thorough resuscitation and assessment to find the cause and site of obstruction has been made.\nAt operation for intestinal obstruction, once the abdomen is opened, the immediate step is not to remove the obstruction but to decompress the proximal distended bowel. This is to create room for the operation to proceed and assess the fluid loss into the third space so that it can be promptly replaced intraoperatively. To achieve this, the anaesthetist is requested to pass a large bore orogastric tube; the distended bowel contents are then milked retrogradely back into the stomach from where it is aspirated. The amount removed is replaced intravenously."
+        },
+        {
+            "id": "12",
+            "question_type": "msq",
+            "question": "12. Which of the following statements\nare true?",
+            "options": [
+                "A Congenital atresia and stenosis are the\nmost common causes.",
+                "B Bilious vomiting is a feature of jejunal\natresia.",
+                "C Perforation is never a problem."
+            ],
+            "answer": [
+                "A",
+                "B"
+            ],
+            "explanation": "While congenital atresia and stenosis are the most common causes of neonatal intestinal obstruction, the other causes are intestinal malrotation with midgut volvulus, meconium ileus, Hirschsprung's disease, imperforate anus, necrotising enterocolitis and an incarcerated inguinal hernia. There are four main types of jejunal or ileal atresia.\nAbdominal distension is more prominent in ileal atresia and a small amount of meconium might be passed despite the atresia. The possibility of multiple atresias makes intraoperative assessment of the whole small and large bowel mandatory. Congenital anomalies and associated malformations are common and should be excluded. This is the domain of the specialist paediatric surgeon rather than the general surgeon with interest in paediatric surgery. Therefore the reader interested in this topic is asked to refer to a textbook for more details."
+        },
+        {
+            "id": "13",
+            "question_type": "mcq",
+            "question": "13. The following statements are true\nexcept:",
+            "options": [
+                "A In paralytic ileus colicky pain is a\nprominent feature.",
+                "B Metabolic abnormalities can give rise to\nparalytic ileus.",
+                "C CT scan should be carried out in a case\nthat does not settle.",
+                "D Pseudo-obstruction usually affects the\ncolon.",
+                "E Caecal perforation is a serious\ncomplication."
+            ],
+            "answer": "A",
+            "explanation": "Colicky abdominal pain is not a feature of paralytic ileus. Pain is usually from the scar, the pain getting worse with abdominal distension. The condition is the result of lack of peristalsis from paralysis of the myenteric and submucous plexus of nerves. Although most commonly it occurs after an abdominal operation, intra-abdominal sepsis, fractures of spine or retroperitoneal haemorrhage might cause paralytic ileus; uraemia and hypokalaemia might cause or exacerbate and already existing ileus. When prolonged, CT scan to exclude intra-abdominal sepsis or a mechanical obstruction is the investigation of choice.\nPseudo-obstruction is the other cause of adynamic obstruction. Usually it affects the colon. When acute, it is called Ogilvie's syndrome. It can occur in a chronic form. It needs to be distinguished from mechanical obstruction for example from a carcinoma by a water-soluble contrast enema or CT colonography. If untreated it can give rise to caecal perforation, which is likely when the caecal diameter is 14 cm or more."
+        },
+        {
+            "id": "14",
+            "question_type": "emq",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Acute ileocolic intussusception",
+                    "2 Caecal volvulus",
+                    "3 Carcinoma of caecum with acute distal small bowel obstruction",
+                    "4 Carcinoma of sigmoid colon with acute closed-loop obstruction",
+                    "5 Colonic pseudo-obstruction",
+                    "6 Faecal impaction",
+                    "7 Paralytic ileus",
+                    "8 Sigmoid volvulus",
+                    "9 Strangulated femoral hernia",
+                    "10 Strangulated umbilical hernia"
+                ],
+                "choices": [
+                    "A A 45-year-old woman with a long history of intermittent right abdominal pain presents with\nacute onset of severe abdominal pain and distension. Examination reveals a tense tympanic\nlump in the left upper abdomen.",
+                    "B A 62-year-old woman underwent a transperitoneal right nephrectomy for carcinoma through\na transverse incision 5 days ago. She has not had a bowel action since her operation.\nExamination reveals a slightly tense distended abdomen with no bowel sounds. Her serum\npotassium is 2.4 mEq/L.",
+                    "C A 74-year-old woman with a BMI of 36 presents with a painful lump around her umbilicus.\nShe has had it for several years and it has increased in size recently. Examination reveals a\nlarge, tender, hard, lump over the umbilicus with bluish discolouration and no cough impulse.",
+                    "D A 78-year-old man with chronic obstructive pulmonary disease (COPD) is an inpatient\nunder the chest physicians. A surgical review has been requested, as he has not opened his\nbowels for 5 days. The abdomen is distended, which is making his chest problems worse.\nExamination reveals a massively distended abdomen, which is tympanic. Abdominal CT\nshows distended large bowel with no cut-off sign.",
+                    "E A 65-year-old woman has been admitted through the Accident and Emergency Department\n(A&E) with abdominal pain, abdominal distension, faeculent vomiting and constipation. She\nhas lost 20 kg in weight in 4 months. Examination reveals a patient with features of acute\ndistal small bowel obstruction and Hb of 8 g/dL. She has never had an operation in the past.",
+                    "F A 90-year-old man from the local care home was referred to A&E with abdominal pain\nand persistent diarrhoea. Abdominal examination reveals multiple ‘masses', and rectal\nexamination revealed a loaded rectum.",
+                    "G A 78-year-old man with history of chronic constipation is brought to the A&E with a sudden\nonset of abdominal pain and distension. Examination reveals a distended tympanic abdomen\nwith a 'mass' arising from the pelvis.",
+                    "H A 9-month-old baby boy has been admitted to the paediatric unit with intermittent colicky\nabdominal with blood-stained stools and mucus in his nappy. On examination he looks unwell.\nAbdominal examination shows an empty right iliac fossa with a lump in the epigastrium.",
+                    "I A 68-year-old man has been admitted as an emergency with colicky abdominal pain with\nconstipation for 3 days. In between the colics he is left with a dull ache. On abdominal\nexamination he is in some discomfort with tenderness and distension particularly in the\nperipheral part. Over the past 4 months he has been increasingly constipated having to take\nlarge amounts of laxatives to open his bowels.",
+                    "J An 84-year-old woman has been admitted with a 12-hour history of colicky abdominal pain,\ndistension, vomiting and constipation; the vomitus, bilious to start with, became faeculent.\nClinical examination shows a small erythematous tender lump below the inguinal ligament\nand lateral to the pubic tubercle."
+                ]
+            },
+            "answer": {
+                "A": "2",
+                "B": "7",
+                "C": "10",
+                "D": "5",
+                "E": "3",
+                "F": "6",
+                "G": "8",
+                "H": "1",
+                "I": "4",
+                "J": "9"
+            },
+            "explanation": "1. H Acute ileocolic intussusception\nThe typical presentation is that of a little boy about to reach his first birthday who has episodes of screaming because of colicky abdominal pain. Associated with the screams the toddler pulls up his arms and legs as a reflex action to his abdominal colics. The parents might notice blood and mucus in the nappies often referred to as ‘red currant jelly stools'. Vomiting is a late feature. In between the attacks the child looks unwell. Abdominal palpation when the child is pain-free, would reveal and empty right iliac fossa with the possibility of a mass in the epigastrium; the mass is sausage-shaped with the concavity towards the umbilicus. Rectal examination confirms blood-stained mucus.\nThe diagnosis is confirmed by an US demonstrating the typical doughnut appearance in concentric rings; a barium enema (Figure 70.3a and b) shows the classical crab-claw deformity. While CT scan is regarded as the most sensitive imaging modality which shows a 'target' or 'sausage-shaped' soft-tissue mass, exposure to the amount of radiation in a child might preclude its use. Once confirmed, reduction should be attempted using air or contrast enema under image intensifier. This is successful in 7 out of 10 patients, success being gauged by the free reflux of the contrast into the terminal ileum. Non-operative reduction should not be attempted in the presence of peritonitis. Unsuccessful reduction or peritonitis requires an urgent operation. At operation, when the bowel is viable, reduction is attempted by milking the intussusceptum out of the intussuscepiens. In the case of ischaemic bowel, limited ileocolic resection and end-to-end anastomosis is done.\n2. A Caecal volvulus\nThis condition occurs because the caecum along with the lower part of ascending colon hangs loosely on a congenital mesentery, which is attached to the retroperitoneum in the right iliac fossa. This is called Jackson's membrane or veil and is responsible for the excessive mobility of the caecum and ascending colon making them susceptible to volvulus. Most often it is a volvulus of the caecum and ascending colon. This presents as a surgical emergency with acute abdominal pain and constipation although to start with the obstruction is partial.\nExamination reveals a palpable tympanic swelling in the epigastrium or left upper quadrant. Plain abdominal x-ray might show caecal dilatation with a single air-fluid level with proximal small bowel dilatation. While ischaemia occurs early, if there are no signs of ischaemia, a barium enema or a CT scan can be done to confirm the diagnosis. The treatment is operation. At operation if the bowel is viable, the caecum and ascending colon are untwisted and the caecum is fixed by doing a caecostomy with a Foley catheter. When the bowel is gangrenous, right hemicolectomy is the treatment.\n3. E Carcinoma of caecum with acute distal small bowel obstruction\nAcute distal small bowel obstruction is one of the typical emergency presentations of carcinoma of the caecum. This occurs because the cancer obstructs the ileocaecal junction. The patient would complain of gradual abdominal distension associated with colicky generalised abdominal pain and vomiting. The vomitus will be bilious to start with and later it is faeculent. Examination would show an ill, dehydrated patient with sunken eyes, dry tongue and loss of skin turgor. Abdominal distension might not allow a caecal mass to be palpable.\nThis patient needs immediate resuscitation in the form of analgesia, nasogastric decompression and intravenous fluids. The patient is anaemic with a haemoglobin of 8 gm/dL. This might be adequate and after consultation with the anaesthetist, the patient is taken to theatre for emergency laparotomy. If time permits, a CT colonography can be carried out to confirm obstruction at the ileocaecal junction from a filling defect in the caecum – a carcinoma.\nAt laparotomy through a midline incision, on opening the abdomen there would be a transudate of free peritoneal fluid, which is sucked out. The distended small bowel is decompressed by milking the contents proximally into the stomach and having it aspirated by an orogastric tube. Once the bowel is decompressed, the carcinoma will be felt and assessed fully along with palpation of the liver for secondaries. A right hemicolectomy is carried out with ileotransverse anastomosis. Even if secondaries are found in the liver, the operation is still a right hemicolectomy. In the very rare instance when the growth is so far locally advanced that it cannot be resected, then a side-to-side ileotransverse anastomosis is carried out as a palliative procedure to overcome the acute bowel obstruction.\n4. I Carcinoma of sigmoid colon with acute closed-loop obstruction\nThe typical emergency presentation is one of acute closed-loop obstruction with abdominal distention and absolute constipation. There might be nausea and vomiting depending on the patency of the ileocaecal valve. On examination, the patient is dry and dehydrated with abdominal distension and tinkling bowel sounds. A clinical diagnosis of acute closed-loop large bowel obstruction is made.\nThe patient is resuscitated by analgesics, maintaining airway with oxygenation, fluid resuscitation with monitoring by an indwelling urinary catheter and CVP line. Simultaneously arrangements should be made for confirmation of the diagnosis and definitive management. For confirmation plain abdominal x-ray (Figure 70.4) followed by CT colonography is carried out, which will show the exact site of obstruction; this will also exclude pseudo-obstruction (see the following). Some might do a flexible sigmoidoscopy, which might not be very comfortable for the patient in acute obstruction. A CXR is done.\nThe most common cause is left-sided carcinoma, usually the sigmoid colon; diverticular stricture and sigmoid volvulus (see the following) are other causes. In sigmoid carcinoma, after optimum resuscitation, facilities and expertise being available, colonic stenting should be considered. Stenting is an option for all left-sided malignant obstructing lesions up to 10 cm proximal to the anorectal junction. Sometimes more proximal lesions can be stented depending upon the expertise of the surgeon or radiologist or gastroenterologist. Successful stenting converts an emergency to a semi-elective situation. The patient can be prepared for anterior resection within the next week.\nIf the patient happens to be very tender over the caecum, it denotes impending caecal rupture; then stenting should not be considered. The patient should be prepared for a subtotal colectomy and ileorectal anastomosis. If the obstruction is in the region of the splenic flexure (Figure 70.5), a one-stage extended right hemicolectomy is the best treatment option. In the absence of the aforementioned facilities and expertise, the next best option is resection of the obstructing lesion followed by proximal stoma (Hartmann's procedure). If the expertise is available and the patient is a good anaesthetic risk, one-stage resection and end-to-end anastomosis with on-table colonic irrigation can be considered.\n5. D Colonic pseudo-obstruction\nThis is due to obstruction of the large bowel without any mechanical cause. In the acute stage it is known as Ogilvie's syndrome and occurs in 10% of large bowel obstructions. While the patient has all the features of acute close-loop large bowel obstruction, imaging is essential as it is a diagnosis of exclusion. In this regard a CT colonography is carried out. Once a mechanical obstruction has been excluded, the cause has been identified and the patient treated while at the same time keeping a close watch on the patient as caecal perforation can occur.\nThere are several factors associated with Ogilvie's syndrome – metabolic, pelvic trauma, shock, retroperitoneal irritation or certain drugs. This particular patient who has COPD would be on various drugs, which might be the cause. After consultation with the physician colleagues, intravenous neostigmine (1 mg, repeated if needed) is given. If unsuccessful, colonoscopic decompression should be performed all the time bearing in mind the danger of impending caecal perforation. This would be suspected clinically if the patient is very tender on the right iliac fossa or if the caecum is seen to be >14 cm in diameter on the plain abdominal x-ray. Surgery is then indicated.\n6. F Faecal impaction\nAn elderly patient, with a history of chronic constipation and long-term habitual use of laxatives, presents with abdominal pain, distension and faecal leakage (often referred to as 'diarrhoea'). The abdomen can be massively distended but is soft. Stools are usually palpable abdominally in sigmoid colon. Faecal impaction is often a cause of acute urinary retention. On rectal examination the rectum will be found to be loaded. Abdominal x-ray will confirm gross faecal loading.\nThe first priority is to get the stools disimpacted and rectum cleared. This is achieved by a combination of suppositories, enemas and manual evacuation under general anaesthetic. Laxatives are continued to avoid recurrence. The patient should be kept under close observation for the very serious complication of stercoral perforation.\n7. B Paralytic ileus\nIn surgical practice this occurs most commonly postoperatively. It is due to absence of peristalsis brought on by temporary cessation of the function of the myenteric and submucous nerve plexuses. Abdominal distension without pain is the predominant clinical feature.\nOther causes of paralytic ileus are recognised. This might be summarised by the acronym ‘ILEUS': Infection. Intra-abdominal sepsis giving rise to localised or generalised ileus; Local (reflex) causes, such as fractures of the spine or ribs, retroperitoneal haemorrhage; Electrolyte abnormalities, such as hypokalaemia and hypoproteinaemia; Uraemia and metabolic causes; Surgery.\nThe management is nasogastric decompression with close attention to fluid and electrolyte balance. Nowadays with the use of enhanced recovery programme, routine use of nasogastric tubes after abdominal surgery has been abandoned. Ileus in the postoperative period usually lasts up to a maximum of 72 hours. Beyond that period one should consider looking for a cause such as intra-abdominal sepsis or unexpected mechanical obstruction. This becomes more important when a patient relapses into ileus after a period of initial recovery in the immediate postoperative period. The ideal way of doing so is a CT scan. If no cause is found, as a last resort, gastric prokinetic agent such as domperidone or erythromycin can be tried.\n8. G Sigmoid volvulus\nThe patient, usually elderly, presents with massively distended abdomen which might have happened over a period of several hours. There is usually a history of chronic constipation and similar previous episodes. The abdominal distension is asymmetric with a 'mass' arising from the pelvis on the left side. The abdomen is tympanic and the rectum is usually empty. The abdominal x-ray is diagnostic (Figure 70.6) and shows the massively dilated sigmoid loop variously described as ‘coffee-bean' sign and ‘bent inner-tube ‘sign. Left untreated, ischaemia and perforation can occur.\nAfter resuscitation, in the absence of signs of peritonism, conservative management in the form of endoscopic deflation should be attempted by performing a flexible sigmoidoscopy. Success in deflation is gauged by the sudden expulsion of a huge amount of gas and liquid faeces with the abdomen obviously becoming flatter and softer. A flatus tube is left in place for a few days. When there are signs of peritonism, laparotomy must be performed. Viable bowel is untwisted, a manoeuvre facilitated by the passage of a flatus tube from the anus and guided through the obstruction into the proximal colon. Once deflated, the sigmoid is fixed.\nOnce the patient has recovered consideration should be given to elective resection to prevent recurrence. In the younger patient this is carried out whilst in the elderly comorbidities might prevent this procedure. When ischaemic sigmoid colon is found at operation, sigmoid resection is carried out with both ends being brought out in the left iliac fossa (Paul-Mickulicz operation) (Figure 70.7) with bowel continuity being restored at a later date. A Hartmann's operation is the other alternative, the procedure being reversed when convenient.\n9. J Strangulated femoral hernia\nThis woman, admitted as an emergency, will be very unwell because of her distal small bowel obstruction causing dehydration, which might be compounded by toxicity if the obstructed bowel is strangulated. In such patients it can be easy to miss a small femoral hernia amidst the abdominal distension in an obese abdomen. The presence of a hernia should be sought for diligently.\nThe patient needs to be resuscitated with intravenous fluids, nasogastric suction and an indwelling catheter. Once fluid and electrolyte depletion has been corrected according to the blood parameters, the patient is taken to theatre. Although this is an obstructed (incarcerated) femoral hernia with the potential for strangulation, the first incision should be in the groin as for a low approach. This is because the vast majority of patients do not require a bowel resection. Should a bowel resection be necessary (and that would be necessary in a minority), it should then be carried out through a separate lower mid-line laparotomy. With this approach, the patient without an abdominal incision recovers much more quickly because of less pain from a groin incision and no paralytic ileus.\nA low groin crease incision is made followed by identification and dissection of the hernial sac below the inguinal ligament. The sac is then opened and the obstructed bowel is released by incising the neck of the sac, which is the usual constricting agent. The bowel, which is usually a loop of ileum, is delivered into the wound and wrapped in hot towels with the patient being given 100% oxygen. This should make the sheen of the bowel to return with pulsations in the mesenteric arteries. The bowel is then put back into the abdomen. In some cases where the bowel was pinched by the constricting ring, there might be small dark patches. These are best invaginated with interrupted seromuscular sutures. The redundant sac is excised, the femoral ring and canal are obliterated by approximating the inguinal ligament to the pectineal ligament with interrupted prolene sutures, and the wound is closed.\nIn the rare instance when bowel resection has to be carried out due to gangrene, the ileal loop is held in a Babcock forceps in the groin wound. A lower midline incision is made, the ileal loop is now delivered into the laparotomy wound and resection and end-to-end anastomosis is carried out with closure of the wound. The groin wound is now dealt with as described previously after repairing the femoral ring and obliterating the canal.\n10. C Strangulated umbilical hernia\nStrangulation is one of the most serious consequences of intestinal obstruction and hence has to be considered when dealing with all cases of irreducible external hernia.\nShock, refractory to fluid resuscitation, especially when associated with toxicity is almost always due to impending or established strangulation. Pain is never completely absent. When strangulation occurs in an external hernia, the lump is tense, tender, hard and irreducible without a cough impulse. Skin changes such as erythema or purplish discoloration might be seen. Such a patient needs an immediate operation.\nResuscitation is carried out as previously described. A transverse incision is made below the hernia. The hernial sac is opened at the neck (not the fundus because of adhesions). Blood-stained fluid will be sucked out. The irreducible bowel is carefully held to prevent it from slipping into the peritoneal cavity, and the neck of the sac (the strangulating agent) is incised to release the bowel into the wound. The bowel is made to recover with warm moist packs and 100% oxygen. On recovery, the bowel is returned into the peritoneal cavity. The neck is now closed with interrupted non-absorbable sutures and the wound closed. It is prudent not to use any artificial mesh to reinforce the hernia in view of the infected field."
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "chapter_name": "Surgical audit and clinical research",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?\nA It addresses clearly defined questions, aims and objectives.\nB It measures against a standard.\nC It may involve randomization.\nD Re-audit is not necessary.\nE There is no allocation to intervention group.",
+            "options": [
+                "A It addresses clearly defined questions, aims and objectives.",
+                "B It measures against a standard.",
+                "C It may involve randomization.",
+                "D Re-audit is not necessary.",
+                "E There is no allocation to intervention group."
+            ],
+            "answer": [
+                "B",
+                "E"
+            ],
+            "explanation": "Clinical audit is a process used by the clinicians who seek to improve patient care. The process involves comparing aspects of care (structure, process and outcome) against explicit criteria. An audit study is designed and conducted to produce information to inform the delivery of best care. This is designed to answer the question 'Does the service reach a pre-determined standard?' This does not involve randomisation or allocation to intervention group, which is seen in a research study. It usually involves analysis of existing data but may include administration of simple interviews or questionnaires. Re-audit is an important part to close the loop."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "2. Which of the following statements are true?\nA Designed and conducted to define the current standard of care.\nB Measures current service without reference to a standard.\nC Involves an intervention only.\nD Involves analysis of already collected data, but may include simple interviews or questionnaires.\nE Involves allocation to intervention and randomization.",
+            "options": [
+                "A Designed and conducted to define the current standard of care.",
+                "B Measures current service without reference to a standard.",
+                "C Involves an intervention only.",
+                "D Involves analysis of already collected data, but may include simple interviews or questionnaires.",
+                "E Involves allocation to intervention and randomization."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Service evaluation is done to assess the quality of care provided without reference to a standard. Here, a retrospective analysis of the service provided is performed. This, in future, can be used to set a standard."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. Which of the following statements are true?\nA A cross-sectional study is one where a series of patients with a particular disease or condition are compared with matched control patients.\nB Type 1 error is when benefit is perceived when really there is none (false positive).\nC Randomised trials are essential for testing new drugs.\nD It is a common practice to set the level of power for the study at 80% with a 5% significance level.\nE A single blind study is when the clinician is unaware of the treatment allocation.",
+            "options": [
+                "A A cross-sectional study is one where a series of patients with a particular disease or condition are compared with matched control patients.",
+                "B Type 1 error is when benefit is perceived when really there is none (false positive).",
+                "C Randomised trials are essential for testing new drugs.",
+                "D It is a common practice to set the level of power for the study at 80% with a 5% significance level.",
+                "E A single blind study is when the clinician is unaware of the treatment allocation."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Research is designed to generate new knowledge and might involve testing a new treatment or regimen. A research study addresses clearly defined questions, aims and objectives. It is of two broad types, quantitative and qualitative. Quantitative research is designed to test a hypothesis, which may involve evaluating or comparing interventions, particularly new ones. The study design may involve allocating patients to intervention groups. Qualitative research identities or explores themes following established methodology and usually involves the way in which interventions and relationships are experienced. This uses a clearly defined sampling framework underpinned by conceptual or theoretical justifications.\nA single blind study is when the patient is unaware of the treatment allocation. A case-control study is one in which a series of patients with a particular disease or condition are compared with matched control patients. A cross-sectional study is one in which measurements are made on a single occasion, not looking at the whole population but selecting a small similar group and expanding results."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "4. Which of the following statements are true?\nA Range is the value with the highest frequency observed.\nB Unpaired t test is used to compare two groups, which are numerical and normally distributed.\nC A confidence interval that includes zero usually implies lack of statistical significance.\nD A p-value of <0.5 is commonly taken to imply true difference.\nE Chi-square tests are useful in comparing two groups that are categorical.",
+            "options": [
+                "A Range is the value with the highest frequency observed.",
+                "B Unpaired t test is used to compare two groups, which are numerical and normally distributed.",
+                "C A confidence interval that includes zero usually implies lack of statistical significance.",
+                "D A p-value of <0.5 is commonly taken to imply true difference.",
+                "E Chi-square tests are useful in comparing two groups that are categorical."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "E"
+            ],
+            "explanation": "Mean (average) is the result of dividing the total by the number of observations. Median is the middle value with an equal number of observations above and below – used for numerical or ranked data. Mode is the value with the highest frequency observed – used for nominal data collection. Range is the largest to the smallest value.\nThe most important difference between analysis is whether the distribution of results is normal, i.e., parametric or non-parametric. Normally distributed results have a symmetrical bell-shaped curve. The mean, median and mode all lie at the same value.\nWhen analysing numerical or normally distributed data (e.g., blood pressure), a t-test is used to compare two groups and a paired t-test to assess if a variable has changed between two time points. When analysing numerical but not normally distributed data (e.g., tumour size), a Mann-Whitney U-test is used to compare two groups and Wilcoxon's signed rank test to assess if a variable has changed between two time points.\nWhen dealing with categorical data (e.g., admission to ITU), a chi-square test is used to compare two groups.\nA p value <0.05 is commonly taken to imply a true difference. This simply means that there is only one in 20 chance that the difference between the variables would have happened by chance when there was no real difference."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "5. Which of the following questions should be answered before undertaking research?\nA Why do the study?\nB Will it answer a useful question?\nC Will there be any financial incentives?\nD Is it practical?\nE What impact will it have?",
+            "options": [
+                "A Why do the study?",
+                "B Will it answer a useful question?",
+                "C Will there be any financial incentives?",
+                "D Is it practical?",
+                "E What impact will it have?"
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "The other questions to be asked are, 'Can it be accomplished in the available time and with the available resources? What are the expected findings?'"
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. Which of the following acronyms are not associated with publications in surgery?\nA CONSORT\nB PRISMA\nC IMRAD\nD TREND\nE TNM",
+            "options": [
+                "A CONSORT",
+                "B PRISMA",
+                "C IMRAD",
+                "D TREND",
+                "E TNM"
+            ],
+            "answer": "E",
+            "explanation": "In scientific publications, IMRAD (Introduction, Methods, Results and Discussion) is an accepted format for presenting a research or audit.\nThe CONSORT statement (Consolidated Standards of Reporting Trials) is a checklist for reporting randomised controlled trials. This assists with improving the quality of reporting; similarly, PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) is an evidence-based minimum set of items (27 point checklist and four flow diagrams) for reporting systematic reviews and meta-analysis.\nThe TREND (Transparent Reporting of Evaluation with Nonrandomised Designs) statement is a 22-item checklist specifically designed to guide in standardising the reporting of non-randomised controlled trials.\nTNM (Tumour, Node and Metastasis) is a pathological classification used for staging malignant tumours and is not relevant to scientific publishing.\nIn scientific publications, one of the important concepts is impact factor. This is the average number of citations of recent articles in a particular journal. For example, an impact factor of year 3 will be the number of times the published articles in a journal in year 1 and 2 were cited in peer-reviewed journals in year 3 divided by the number of published articles in the journal in year 1 and 2. This is one of the quality measures of the journals."
+        },
+        {
+            "id": 7,
+            "question_type": "matching",
+            "question": "Match the correct study with each of the descriptions that follow:",
+            "options": {
+                "items": [
+                    "1 Case-control",
+                    "2 Cross-sectional",
+                    "3 Longitudinal",
+                    "4 Observational",
+                    "5 Randomised",
+                    "6 Randomised controlled double-blind"
+                ],
+                "choices": [
+                    "A Two randomly allocated treatments are compared.",
+                    "B Series of patients with a particular disease or condition are compared with matched control patients.",
+                    "C A condition or treatment is evaluated in a defined population. This study can be prospective or retrospective.",
+                    "D This study involves a control group that receives standard treatment.",
+                    "E Measurements are made on a single occasion, not looking at the whole population but selecting a small similar group and expanding results.",
+                    "F Measurements are taken over a period of time, not looking at the whole population but selecting a small similar group and expanding results."
+                ]
+            },
+            "answer": {
+                "1": "E",
+                "2": "A",
+                "3": "D",
+                "4": "F",
+                "5": "B",
+                "6": "C"
+            },
+            "explanation": "1. E Case control: This is a retrospective research study in which the investigators compare the exposure between subjects with particular condition (cases) to those without the condition (control) to investigate the effect of particular exposure to developing a certain condition. The study is reported using odds ratio, risk ratio and rate ratios.\n2. A Cross-sectional: In this type of research study the investigators assess all individuals in a sample at the same time point to examine the prevalence of exposure or risk factors or disease. The studies may be analysed similar to cohort or like case-control study.\n3. D Longitudinal: These are otherwise called cohort studies in which subjects are followed prospectively. The aim is to compare subjects who are unexposed with those who are exposed or to compare individuals or groups with different categories of exposure to determine whether exposure predisposes to developing certain conditions.\n4. F Observational: These include the cohort, case-controlled and cross-sectional studies. These make up the large proportion of medical literature. These study designs are often used to answer important questions about the cause of disease, benefits and harms of medical interventions and rate of late adverse effects of treatment.\n5. B Randomised: These are study designs used to assess the effect of an intervention. The aim is to minimise selection bias and allocation bias. These studies allow valid inferences of cause and effect. There are several methods used for randomisation, including computer-generated random numbers for allocation of patients into the study.\n6. C Randomised controlled double-blind: In these studies there is a control group where, apart from the intervention, the subject characteristics are similar between both groups being compared. This means the results of the study can be attributed to the intervention.\nIn evidence-based surgery, the evidence is categorised into four levels.\nLevel 1a, which includes meta-analysis of RCTs and 1b, which includes single RCT.\nLevel 2a has a well-designed non-randomised study, whereas 2b includes well-designed cohort study.\nLevel 3 includes descriptive studies such as case-controlled studies, whereas level 4 includes case reports and expert opinion.\nBased on these levels there are four grades of recommendations."
+        },
+        {
+            "id": 8,
+            "question_type": "matching",
+            "question": "Choose and match the correct test with each of the scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Chi-square test",
+                    "2 Mann-Whitney U-test",
+                    "3 Paired t-test",
+                    "4 Unpaired t-test",
+                    "5 Wilcoxon's signed-rank test"
+                ],
+                "choices": [
+                    "A To compare two groups, which are numerical but not normally distributed?",
+                    "B To compare two groups, which are categorical?",
+                    "C To assess whether a variable has changed between two time points in numerical and normally distributed data.",
+                    "D To assess whether a variable has changed between two time points in numerical but not normally distributed data.",
+                    "E To compare two groups, which are numerical and normally distributed?"
+                ]
+            },
+            "answer": {
+                "1": "B",
+                "2": "A",
+                "3": "C",
+                "4": "E",
+                "5": "D"
+            },
+            "explanation": "1. B Chi-square test: This test is used to compare large group of nominal data. If the groups are small, Fisher's exact test is preferred.\n2. A Mann-Whitney U-test: This test is used to compare unpaired, two sample where ordinal data is used, e.g. ordered or ranked data such as ASA, tumour grade.\n3. C Paired T-test: In a study if the subjects are studied at two different occasions, the two samples of measurements are then considered to be paired. Alternatively, when we have two different groups of subjects who have been individually matched then we should treat the data as paired.\n4. E Unpaired t-test: In normally distributed data, if there is no pairing, a two-sample t-test or unpaired t-test is used.\n5. D Wilcoxon's signed-rank test: This test is used to compare paired two samples where ordinal data is used, e.g. ordered or ranked data such as ASA, tumour grade.\nStatistical tests are used to deal with the chances that the observations between populations are different and should be dealt with with caution. Clinical results should show the difference, and this can be further augmented by statistics. Caution should be exercised if the statistical significance is shown when clinically the results are not clear, and various statistical tests are used based on the study design and data collected."
+        }
+    ]
+}

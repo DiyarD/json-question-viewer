@@ -1,0 +1,266 @@
+{
+    "chapter_name": "History and examination of the abdomen",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?",
+            "options": [
+                "A Observing the patient prior to taking a history is important.",
+                "B It is best to ask leading questions right from the start.",
+                "C History of presenting complaint should give an idea of the system involved.",
+                "D Relevant past history is essential.",
+                "E System review and family history is to be done followed by summary given to the patient."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "A major amount of information can be gleaned by observing the patient even before the first question is asked. Initial observations obtained by direct eye contact are important. Looking at the patient while he or she is giving the history will help the clinician to realise whether the patient is any pain. Patients who do not make eye contact might be shy or are not giving the correct history. General appearance of the patient, gait, position in bed, facial expression and tone of speech, provide preliminary information.\nThe patient's presenting complaint gives an idea of the system involved. For example, upper abdominal pain related to food might be connected with pathology in the stomach or gallbladder; altered bowel habit would indicate something wrong with the small and large bowel. Taking past history is very important, particularly if the patient has had an operation before. This might have bearing on the present problem – a recurrence if the operation was for cancer or adhesive obstruction. Toward the end it is essential to do a system review to exclude comorbid disease. Then, summarising the history given by the patient is useful to help the patient recollect anything in the history that he or she might have forgotten.\nRight at the start, it is not a good idea to ask leading questions. This gives the impression to the patient that the surgeon is impatient and interested in only a ‘box-ticking exercise'. The best way to start a clinical interview is to say at the outset ‘Tell me in your own words how it all started' and then look intensely interested with eye contact. The patient realises that the surgeon is a 'listening doctor' and will open up with very useful information. In an emergency, however, if the patient is in severe pain, the clinician might have to resort to leading questions, because the patient might be in far too much pain to volunteer a good history."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "2. The following statements are true except:",
+            "options": [
+                "A Abdominal pain might be a symptom from non-surgical conditions.",
+                "B Altered bowel habit usually indicates obstructive and inflammatory pathology.",
+                "C A hernia causing abdominal symptoms will always be obvious.",
+                "D An inebriated person with abdominal pain should be diagnosed as alcoholic gastritis.",
+                "E Abdominal pain related to food habits and associated with other symptoms usually denote pathology in the biliary tract or stomach and duodenum."
+            ],
+            "answer": [
+                "C",
+                "D"
+            ],
+            "explanation": "A hernia causing abdominal symptoms will not always be clinically obvious. This is particularly true when an elderly obese lady presents with features of distal small bowel obstruction from an obstructed femoral hernia, which can easily be missed unless the groins are examined meticulously. When an inebriated patient presents as an emergency with abdominal pain, the diagnosis of alcoholic gastritis should never be made automatically. Although the history might be straightforward in view of his mental status, thorough examination and investigations must be carried out to exclude acute pancreatitis, perforated duodenal ulcer, or acute exacerbation of the same.\nAbdominal pain can well be a clinical manifestation of medical conditions such as right lower lobe pneumonia, angina, porphyria and diabetic ketoacidosis. A history of altered bowel habit with abdominal symptoms indicates an inflammatory (inflammatory bowel disease), infective (parasitic or tuberculosis depending upon the geographical area), or obstructive (large bowel carcinoma) pathology. Upper abdominal pain points to hepatobiliary, pancreatic, or upper gastrointestinal pathology. Painless weight loss associated with anorexia might point to a gastric carcinoma."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. Which of the following statements is not true?",
+            "options": [
+                "A Abdominal wall and parietal peritoneum are supplied by the somatic nervous system.",
+                "B Abdominal organs and the visceral peritoneum are innervated by the autonomic nervous system.",
+                "C Pain arising from pathology in the midgut is localised to the epigastrium.",
+                "D Colicky abdominal pain indicates underlying obstructive pathology.",
+                "E Pain away from the site of abdominal pathology denotes referred pain."
+            ],
+            "answer": "C",
+            "explanation": "Pain that arises from pathology in the midgut such as small bowel, appendix and right colon is localised in the periumbilical region. Pain in the epigastrium denotes pathology in the foregut such as the stomach and duodenum. The abdominal wall and parietal peritoneum are supplied by somatic nerves, while the autonomic nervous system innervates the abdominal organs and visceral peritoneum. That is the reason for the migration of pain from the periumbilical area in appendicular colic to the right iliac fossa where the pain settles as an ache when the parietal peritoneum is affected.\nPain of autonomic origin is deep and poorly localised. When the pain is transmitted to the appropriate somatic distribution (from T1 to L2), the pain is localised to the surface of the abdominal wall. Such an example is seen in Murphy's sign. Here the pain of acute cholecystitis from the inflamed gallbladder, as it comes into contact with the parietal peritoneum on taking a deep breath, is felt in the right upper quadrant and scapular region in the back.\nColicky abdominal pain is a classical symptom of obstruction of a hollow tube such as the intestines, ureter and common bile duct. In small bowel, because the origin of pain is from pathology in a midgut structure, the colic is central abdominal. The pain comes on as the peristaltic wave tries to overcome the obstruction. Disappearance of the peristaltic wave coincides with the relief of colicky pain that is replaced by a dull ache.\nPain might often be felt at a site well away from the pathology. A perforated hollow viscus such as a duodenal ulcer will cause collection of fluid and air underneath the right dome of diaphragm. This irritates the visceral surface of the diaphragm, which is supplied by the phrenic nerve (principally C4). Hence pain is felt in the right shoulder tip, which has the same segmental nerve supply. This phenomenon is called referred pain."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "4. Which of the following statements are true?",
+            "options": [
+                "A Abdominal examination must always be preceded by general examination.",
+                "B Abdominal discoloration at specific sites denotes underlying serious pathology.",
+                "C Free movement of abdominal wall on respiration excludes peritonitis.",
+                "D Rebound tenderness is best tested by gentle percussion.",
+                "E An intra-abdominal lump becomes prominent when the patient tenses the abdomen or lifts the head from the bed."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "General examination of the patient is absolutely essential before abdominal examination, both in the emergency and elective situation. In the emergency, looking at the patient gives the following very important information: apprehensive patient lying motionless is in pain, sweaty patient (in normal room temperature) is in shock, thoracic respiration and immobility of the abdomen denotes peritonitis. In the elective situation the clinician should be aware of the following: weight loss which is apparent if a patient has loose-fitting clothes with holes in the belt having gone up a couple of notches; anaemia when the patient looks pale; and jaundice when there is yellowish discoloration of the skin and conjunctiva. The three features of weight loss, anaemia and jaundice might turn out to be a manifestation of the same condition – disseminated malignancy.\nDiscoloration of the abdominal wall, particularly in an emergency, is very significant – Cullen's and Grey-Turner's signs indicate intra-abdominal bleeding from acute haemorrhagic pancreatitis, leaking abdominal aortic aneurysm, ruptured ectopic pregnancy, or ruptured liver or spleen. Cullen's sign is haemorrhagic discoloration around the umbilicus while Grey-Turner's sign is the same in the right flank (Figure 59.1). One must be aware that in an elective patient hyperpigmentation of the skin may indicate adrenal insufficiency – Addison's disease.\nIn an emergency, a good clinician would ask the patient to take deep breaths in and out before feeling the abdomen. Lack of movement of the abdominal wall on breathing will show that the patient has thoracic respirations, a clear sign of peritonitis; this means that abdominal palpation should be done with the utmost gentleness. To follow on, when it comes to testing for rebound tenderness, a sign of peritonitis, gentle percussion shows finesse on the part of the clinician. Even before this, asking the patient to cough would indicate peritonitis when the patient winces or experiences severe pain.\nExamination of a child with acute abdominal pain (for ease of reading, the male gender is used generically in this paragraph):\nExamining a child with an acute abdomen can be quite a challenge for a clinician not trained in paediatrics. The following technique can be quite useful. After detailed observation of the child, ask the child to put his hand over the sore area. The clinician should then place his hand over the child's hand and continue the palpation using the child's hand with his own. To look for rebound tenderness, coughing is the best way to start. A child with peritonism will not cough. Also to look for rebound, ask the child to press his abdomen and then suddenly ‘let go'. In peritonitis he will wince with pain. The aim should be to elicit rebound tenderness without even feeling the abdomen, or, at the most, very gentle percussion.\nIn the elective patient with an obvious abdominal lump, when the patient tenses the abdomen by the Valsalva manoeuvre or raising the head off the bed, an intra-abdominal lump will become less prominent or disappear depending upon the size. If it becomes prominent, it means that the lump is in the abdominal wall or is a hernia. Palpation of the nine quadrants of the abdomen is carried out in a systematic manner."
+        },
+        {
+            "id": 5,
+            "question_type": "emq",
+            "question": "A A 58-year-old man complains of a lump in his abdomen deep to an incision for 2 years. This started 3 months after he had an emergency operation for intestinal obstruction when he underwent a right hemicolectomy. The lump is increasing in size and becomes prominent when he coughs and sits up.",
+            "options": {
+                "items": [
+                    "A"
+                ],
+                "choices": [
+                    "1 Abdominal aortic aneurysm",
+                    "2 Acute pancreatitis",
+                    "3 Biliary colic",
+                    "4 Carcinoma of caecum",
+                    "5 Distal small bowel obstruction",
+                    "6 Incisional hernia",
+                    "7 Perforated duodenal ulcer",
+                    "8 Secondary metastases in liver"
+                ]
+            },
+            "answer": {
+                "A": "6"
+            },
+            "explanation": "This patient has an incisional hernia. Typically the lump becomes prominent when the intra-abdominal pressure is raised. The lump is deep to an abdominal scar and has a cough impulse. Lumps that arise from the abdominal wall musculature also become prominent on raising the intra-abdominal pressure (see Chapter 60)."
+        },
+        {
+            "id": 6,
+            "question_type": "emq",
+            "question": "B A 72-year-old man complains of throbbing backache and a feeling of his heartbeat in his 'stomach'. On examination a pulsatile mass can be seen in his epigastrium, which looks full.",
+            "options": {
+                "items": [
+                    "B"
+                ],
+                "choices": [
+                    "1 Abdominal aortic aneurysm",
+                    "2 Acute pancreatitis",
+                    "3 Biliary colic",
+                    "4 Carcinoma of caecum",
+                    "5 Distal small bowel obstruction",
+                    "6 Incisional hernia",
+                    "7 Perforated duodenal ulcer",
+                    "8 Secondary metastases in liver"
+                ]
+            },
+            "answer": {
+                "B": "1"
+            },
+            "explanation": "This man complains of throbbing backache with a pulsatile sensation in his abdomen. He has a pulsatile abdominal epigastric mass. The backache is from the AAA eroding into the lumbar vertebral bodies. Typically an AAA is best seen when observed from the side by the clinician squatting by the bedside so as to keep the eyes at the same level as the anterior abdominal wall. The suspicion is confirmed by demonstrating an expansile pulsatile mass on palpation (see Chapter 56)."
+        },
+        {
+            "id": 7,
+            "question_type": "emq",
+            "question": "C A 35-year-old woman complains of severe colicky abdominal pain of 6 hours duration. It is in the epigastrium and right upper quadrant and radiates to the back. The pain comes and goes, and in between the attacks she is left with a dull ache in the right subcostal region.",
+            "options": {
+                "items": [
+                    "C"
+                ],
+                "choices": [
+                    "1 Abdominal aortic aneurysm",
+                    "2 Acute pancreatitis",
+                    "3 Biliary colic",
+                    "4 Carcinoma of caecum",
+                    "5 Distal small bowel obstruction",
+                    "6 Incisional hernia",
+                    "7 Perforated duodenal ulcer",
+                    "8 Secondary metastases in liver"
+                ]
+            },
+            "answer": {
+                "C": "3"
+            },
+            "explanation": "This young woman has all the characteristics of biliary colic. As opposed to acute cholecystitis, she does not have features of infection such as fever and generally feeling unwell with a positive Murphy's sign. Here the pathology is mainly obstructive, whereas in acute cholecystitis it is obstructive and infective. In biliary colic the patient feels relatively well in between attacks (see Chapter 67)."
+        },
+        {
+            "id": 8,
+            "question_type": "emq",
+            "question": "D A 74-year-old woman complains of generalised abdominal pain and distension for 36 hours. This started with greenish vomiting, which has now been replaced with brownish faeculent material. She is dehydrated with a distended abdomen and a small tender lump in her right groin of which she is unaware.",
+            "options": {
+                "items": [
+                    "D"
+                ],
+                "choices": [
+                    "1 Abdominal aortic aneurysm",
+                    "2 Acute pancreatitis",
+                    "3 Biliary colic",
+                    "4 Carcinoma of caecum",
+                    "5 Distal small bowel obstruction",
+                    "6 Incisional hernia",
+                    "7 Perforated duodenal ulcer",
+                    "8 Secondary metastases in liver"
+                ]
+            },
+            "answer": {
+                "D": "5"
+            },
+            "explanation": "This elderly woman has distal small bowel obstruction with clinical features of abdominal distension, vomiting and abdominal pain. Faeculent vomiting is classical of distal small bowel obstruction. This would be associated with signs of dehydration such as sunken eyes, dry tongue and loss of skin turgor. The finding of a tender lump in her right groin indicates an incarcerated femoral hernia as the cause of intestinal obstruction (see Chapter 60)."
+        },
+        {
+            "id": 9,
+            "question_type": "emq",
+            "question": "E A 62-year-old woman complains of undue shortness of breath while going about her daily activities. On examination she looks very pale with an irregular non-tender lump in her right iliac fossa.",
+            "options": {
+                "items": [
+                    "E"
+                ],
+                "choices": [
+                    "1 Abdominal aortic aneurysm",
+                    "2 Acute pancreatitis",
+                    "3 Biliary colic",
+                    "4 Carcinoma of caecum",
+                    "5 Distal small bowel obstruction",
+                    "6 Incisional hernia",
+                    "7 Perforated duodenal ulcer",
+                    "8 Secondary metastases in liver"
+                ]
+            },
+            "answer": {
+                "E": "4"
+            },
+            "explanation": "Clinical features of chronic anaemia, such as undue tiredness or shortness of breath on routine daily activities is typical of anaemia, the classical elective presentation of a right-sided colonic carcinoma such as the one arising from the caecum. This is confirmed on clinical examination by the presence of a mass in the right iliac fossa (Figure 59.2a and b) (see Chapter 69)."
+        },
+        {
+            "id": 10,
+            "question_type": "emq",
+            "question": "F A 45-year-old man, who admits to being a chronic alcoholic, complains of severe pain in his epigastrium radiating to the back of 8 hours duration. He is sweaty, with a pulse rate of 122 beats per minute, blood pressure (BP) of 110/80 mmHg and with a tense, tender abdomen with rigidity.",
+            "options": {
+                "items": [
+                    "F"
+                ],
+                "choices": [
+                    "1 Abdominal aortic aneurysm",
+                    "2 Acute pancreatitis",
+                    "3 Biliary colic",
+                    "4 Carcinoma of caecum",
+                    "5 Distal small bowel obstruction",
+                    "6 Incisional hernia",
+                    "7 Perforated duodenal ulcer",
+                    "8 Secondary metastases in liver"
+                ]
+            },
+            "answer": {
+                "F": "2"
+            },
+            "explanation": "The history of alcohol abuse in this patient with acute abdominal pain should arouse the suspicion of acute pancreatitis. He has the clinical features of an acute abdominal emergency with features of shock. A working diagnosis of acute pancreatitis should be made unless otherwise proved and investigations carried out accordingly (see Chapter 68)."
+        },
+        {
+            "id": 11,
+            "question_type": "emq",
+            "question": "G A 70-year-old woman presents with jaundice and vague abdominal pain of 6 weeks duration. On examination she is jaundiced with a long midline scar and an enlarged hard nodular liver. The midline scar is from a left hemicolectomy for carcinoma of the splenic flexure.",
+            "options": {
+                "items": [
+                    "G"
+                ],
+                "choices": [
+                    "1 Abdominal aortic aneurysm",
+                    "2 Acute pancreatitis",
+                    "3 Biliary colic",
+                    "4 Carcinoma of caecum",
+                    "5 Distal small bowel obstruction",
+                    "6 Incisional hernia",
+                    "7 Perforated duodenal ulcer",
+                    "8 Secondary metastases in liver"
+                ]
+            },
+            "answer": {
+                "G": "8"
+            },
+            "explanation": "This patient who has jaundice and an enlarged hard liver has the hallmarks of pathology in the liver (Figure 59.3). The fact that she has had a left hemicolectomy for a left colonic carcinoma points to secondary liver metastasis causing her jaundice and hepatomegaly (see Chapter 65)."
+        },
+        {
+            "id": 12,
+            "question_type": "emq",
+            "question": "H A 55-year-old man complains of sudden onset of very severe pain in his epigastrium, radiating to the back, of 6 hours duration. On examination his BP is 130/90 mmHg, pulse rate is 90 beats per minute, the abdominal wall does not move with respiration and he has thoracic respiration. Over the past hour he has been having pain in his right shoulder tip. In the past he has suffered from ‘indigestion' for a long time.",
+            "options": {
+                "items": [
+                    "H"
+                ],
+                "choices": [
+                    "1 Abdominal aortic aneurysm",
+                    "2 Acute pancreatitis",
+                    "3 Biliary colic",
+                    "4 Carcinoma of caecum",
+                    "5 Distal small bowel obstruction",
+                    "6 Incisional hernia",
+                    "7 Perforated duodenal ulcer",
+                    "8 Secondary metastases in liver"
+                ]
+            },
+            "answer": {
+                "H": "7"
+            },
+            "explanation": "This patient has the typical presentation of a perforated hollow viscus. With features of peritonitis as seen from a rigid abdomen and thoracic respiration, he complains of pain in his right shoulder tip, which is from irritation of the diaphragm. History of long-standing indigestion points to a duodenal ulcer perforation (see Chapter 63)."
+        }
+    ]
+}

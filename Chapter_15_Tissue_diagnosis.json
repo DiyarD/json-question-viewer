@@ -1,0 +1,110 @@
+{
+    "chapter_name": "15 Tissue diagnosis",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "msq",
+            "question": "1. The following statements are true except:\nA Specimens must always be sent fixed in formalin.\nB Specimens can be obtained by fine-needle aspiration cytology (FNAC).\nC Specimens are classified as biopsies and resections.\nD Frozen section histology has many disadvantages.\nE Both macroscopic and microscopic findings are reported.",
+            "options": [
+                "A Specimens must always be sent fixed in formalin.",
+                "B Specimens can be obtained by fine-needle aspiration cytology (FNAC).",
+                "C Specimens are classified as biopsies and resections.",
+                "D Frozen section histology has many disadvantages.",
+                "E Both macroscopic and microscopic findings are reported."
+            ],
+            "answer": [
+                "A",
+                "B"
+            ],
+            "explanation": "All specimens need not be sent fixed in formalin (10% formaldehyde). Samples for routine histology are sent fixed. Fresh tissue samples are sent for frozen section, and when microbiological assessment is necessary as in suspected tuberculosis. In such a situation, a part of an excised lymph node is sent fresh and the remainder is fixed in formalin.\nFine-needle aspiration cytology only gives cytology; compared with histology, FNAC has a limited value. Cytology gives an idea about the cell type. FNAC is an invasive method and is helpful in breast and thyroid lumps and in lymphadenopathy. In certain situations, FNAC needs to be carried out under CT or ultrasound guidance.\nWhile biopsy means any tissue sample, histology specimens are classified as biopsies and resections. Types of biopsy include punch biopsy, as in skin lesions, and core biopsy, as in Tru-Cut of breast lump or a prostatic nodule. Biopsy following a resection is usually also therapeutic as in small, ulcerated skin lesions.\nThe speed of a diagnosis after frozen section is outweighed by many disadvantages. The patient will not have a preoperative diagnosis and so cannot make an informed choice with regard to the definitive treatment; the tissue is not fixed and so there is a risk of infection to laboratory staff; the quality is inferior, thereby compromising diagnostic accuracy; and the procedure is time consuming.\nAny specimen sent for histology is first sliced up into parts depending upon the size and fixed in formalin. After about 24 hours, a description of the macroscopic appearance is reported. Slices for microscopic examination are then reported. Report from a malignant specimen will include resection margins, tumour, lymph nodal status and neighbouring non-neoplastic tissue."
+        },
+        {
+            "id": "2",
+            "question_type": "msq",
+            "question": "2. Which of the following statements are true?\nA It gives as much information as histology.\nB In some instances, an invasive method has to be used to obtain material.\nC Fluids may be useful in establishing diagnosis.\nD A negative cytology has no value.\nE There is risk to laboratory personnel associated with cytology and histology.",
+            "options": [
+                "A It gives as much information as histology.",
+                "B In some instances, an invasive method has to be used to obtain material.",
+                "C Fluids may be useful in establishing diagnosis.",
+                "D A negative cytology has no value.",
+                "E There is risk to laboratory personnel associated with cytology and histology."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Cytology does not give as much information as histology. It is a study of cells and gives an idea about the presence of malignancy. Therefore, in a breast lump, cancer can be established by FNAC. A Tru-Cut biopsy gives histological tissue, which helps to grade the tumour, may show the presence of perivascular and lymphovascular invasion, and gives an idea of the oestrogen receptor status. Fluids may be sent for cytological assessment; for example, urine may be sent when transitional cell carcinoma of bladder is suspected or sputum for bronchogenic carcinoma. However, a report of absence of cancer cells does not have any value.\nIn some instances, cells for cytology can be obtained only by invasive techniques, e.g., CT guidance for mediastinal lymph nodes, transbronchial fine-needle aspiration for mediastinal masses, or fine-needle aspiration of liver, pancreas and kidney. A negative cytology has no value. Absence of cancer cells from FNAC may mean that the incorrect tissue has been needled. There is always a risk for transmissible infection, such as hepatitis B or tuberculosis, particularly when fresh tissue is being sent."
+        },
+        {
+            "id": "3",
+            "question_type": "msq",
+            "question": "3. Which of the following statements are true?\nA Malignancy is diagnosed histologically by invasion, architectural changes and cytological features.\nB Dysplasia indicates microscopic features of cancer.\nC False-positive diagnosis can occur.\nD Tissue assessment helps in prognosis.\nE Hyperplasia indicates an increase in cell size.",
+            "options": [
+                "A Malignancy is diagnosed histologically by invasion, architectural changes and cytological features.",
+                "B Dysplasia indicates microscopic features of cancer.",
+                "C False-positive diagnosis can occur.",
+                "D Tissue assessment helps in prognosis.",
+                "E Hyperplasia indicates an increase in cell size."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Features confirming a histological diagnosis of malignancy are invasion of neighbouring tissue, blood vessels and lymphatics; architectural changes; atypical mitotic figures; and nuclear abnormalities of hyperchromatism and pleomorphism.\nDysplasia is a term used to indicate microscopic features of cancer without invasion. It is graded as mild, moderate and severe. Severe dysplasia is regarded as most as indicating carcinoma in situ, e.g., colorectal carcinoma in inflammatory bowel disease, oesophageal carcinoma in Barrett's oesophagus, or cervical intraepithelial neoplasia.\nFalse-positive diagnoses can occur from contamination or interchanging of tissue, pitfalls in interpretation that are best avoided by good clinical details. A history of previous radiotherapy must be disclosed to the pathologist, as radiotherapy changes may mimic cancer.\nPrognosis can be determined by tissue assessment. Stage is the important prognostic factor according to the UICC (Union Internationale Contre le Cancer). Grade is determined microscopically: Low-grade, well-differentiated tumours have a good prognosis as opposed to poorly differentiated, high-grade tumours. Vascular and perineural invasion with positive resection margins carry a poor prognosis.\nHyperplasia indicates an increase in cell number while an increase in cell size is referred to as hypertrophy. Examples of the former are seen in the breast (epithelial hyperplasia) and the prostate (benign prostatic hyperplasia). Examples of hypertrophy can be due to physiological causes, such as hypertrophied muscles as seen in bodybuilders, or pathological, such as occurs in the colon proximal to an annular obstructing carcinoma."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "4. Which of the following statements is false?\nA Inflammatory conditions are characterised by the predominant cell type.\nB Cytology has some advantages over histology.\nC In an ulcerated tissue, ideally cytology and biopsy should be taken from the centre of the lesion.\nD Additional techniques may be necessary to elucidate the diagnosis.\nE Special stains may sometimes be necessary.",
+            "options": [
+                "A Inflammatory conditions are characterised by the predominant cell type.",
+                "B Cytology has some advantages over histology.",
+                "C In an ulcerated tissue, ideally cytology and biopsy should be taken from the centre of the lesion.",
+                "D Additional techniques may be necessary to elucidate the diagnosis.",
+                "E Special stains may sometimes be necessary."
+            ],
+            "answer": "C",
+            "explanation": "A sample from the centre of an ulcer may only show necrosis and nonviable tissue. Therefore, when taking a piece of tissue for biopsy (incision biopsy), it should be taken from the periphery with some apparently normal tissue. This enables interpretation of invasiveness and architectural changes. Superficial biopsies may fail to distinguish dysplasia.\nThe type of cell does determine the type of inflammation. Polymorphonuclear leucocytosis indicates acute inflammation. Presence of lymphocytes and plasma cells are seen in chronic inflammation. Eosinophilia indicates parasitic infestation or allergy. Granulomas, a collection of epithelioid histiocytes, are seen in mycobacterial infection (tuberculosis and leprosy), fungal infection and as a foreign body reaction.\nCytology does have some advantages over histology. Cytology allows a wider area to be sampled; it is less invasive, fast and cheap; and non-medical staff can be trained in its interpretation.\nIn a minority of difficult situations, further specimens may need to be obtained from deeper levels with extra blocks, as in linitis plastica. Special stains and immunohistochemistry are additional techniques available.\nSpecial stains are used when routine stains do not provide the answer. For example, the periodic acid-Schiff (PAS) stain demonstrates glycogen and mucin; a diastase PAS (D-PAS) stain shows up mucin in adenocarcinoma. Iron accumulation, as in haemochromatosis, is demonstrated by Perls' Prussian blue stain. Fibrosis is shown up by reticulin stain, while Congo red shows up amyloidosis."
+        },
+        {
+            "id": "5",
+            "question_type": "msq",
+            "question": "5. Which of the following statements are true?\nA This is a special staining method.\nB It relies on the use of a specific antibody to detect a specific antigen.\nC It helps to determine cell type and differentiation.\nD It has a role in the determination of treatment and prognosis.\nE This process has no role in other than neoplasms.",
+            "options": [
+                "A This is a special staining method.",
+                "B It relies on the use of a specific antibody to detect a specific antigen.",
+                "C It helps to determine cell type and differentiation.",
+                "D It has a role in the determination of treatment and prognosis.",
+                "E This process has no role in other than neoplasms."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "This technique is a special staining method. It detects a specific antigen using a specific antibody, which is labelled with a dye and, when bound to its target antigen, is seen as a coloured stain. It determines confirmation of neoplasia, site of origin, cell type and differentiation. This method can be applied to fixed and frozen tissue and cytological preparations.\nThe method has a role in the selection of treatment and in prediction of prognosis. Examples of this are seen in breast carcinoma where assessment for oestrogen, progesterone and HER-2 status is routine. Lymphomas are subjected to a panel of markers, while the management of endocrine tumours is enhanced by the assessment of Ki67 proliferative index.\nIt also has a role in infections. There are antibodies to many infective agents such as cytomegalovirus (CMV), Epstein-Barr virus (EBV), herpes virus, Helicobacter pylori and hepatitis B."
+        },
+        {
+            "id": "6",
+            "question_type": "msq",
+            "question": "6. Which of the following statements is false?\nA Electron microscopy is routinely used in histology.\nB Polymerase chain reaction (PCR) is a useful investigation to detect microorganisms.\nC PCR is a method that can be used to detect gene mutations.\nD Study of chromosomes (cytogenetics) can be done using fluorescence in situ hybridisation (FISH).\nE Autopsy can only be done with the coroner's permission.",
+            "options": [
+                "A Electron microscopy is routinely used in histology.",
+                "B Polymerase chain reaction (PCR) is a useful investigation to detect microorganisms.",
+                "C PCR is a method that can be used to detect gene mutations.",
+                "D Study of chromosomes (cytogenetics) can be done using fluorescence in situ hybridisation (FISH).",
+                "E Autopsy can only be done with the coroner's permission."
+            ],
+            "answer": [
+                "A",
+                "E"
+            ],
+            "explanation": "Electron microscopy is time consuming, labour intensive and expensive, and is used only selectively. Polymerase chain reaction (PCR) amplifies DNA, yielding innumerable copies from a single copy of a selected target. The amplified DNA is detected using techniques such as electrophoresis. The technique, which is highly sensitive, fast and safe, is used to detect chromosomal abnormalities and microorganisms. Several different tumours have been tested for mutation of the APC gene, which can reside in colorectal carcinoma.\nIn cytogenetics, the analysis of chromosomal changes is done using the fluorescent in site hybridisation (FISH) technique. For example, along with immunohistochemistry, FISH will detect HER2 amplification in breast cancer. Autopsy does not always require coroner's permission; it can be done for the purpose of medical education and audit with the consent of the next of kin."
+        }
+    ]
+}

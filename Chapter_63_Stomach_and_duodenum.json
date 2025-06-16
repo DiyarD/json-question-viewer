@@ -1,0 +1,217 @@
+{
+    "chapter_name": "Stomach and duodenum",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "Which of the following statements are true regarding blood supply?",
+            "options": [
+                "A The stomach has an arterial supply on both lesser and greater curves.",
+                "B The right gastric artery arises from the common hepatic artery.",
+                "C The gastroduodenal artery passes behind the second part of duodenum.",
+                "D The short gastric arteries are branches of the left gastric artery.",
+                "E The right gastroepiploic artery runs along the greater curvature of the stomach."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "The stomach has a very rich blood supply with vascular arcades along the greater and lesser curves. The left gastric artery is a short stout vessel arising from the coeliac axis and anastomoses with the right gastric artery, a branch of the common hepatic artery, along the lesser curvature. The branches of the left gastric artery also pass toward the cardia. The gastroduodenal artery, which is a branch of the hepatic artery, passes behind the first part of the duodenum; a penetrating duodenal ulcer will erode into the gastroduodenal artery, causing torrential haemorrhage. Here it divides into the superior pancreaticoduodenal artery and the right gastroepiploic artery. The superior pancreaticoduodenal artery anastomoses within the C-loop of the duodenum with the inferior pancreaticoduodenal artery, which arises from the superior mesenteric artery (anastomosis between the arteries of the foregut and the midgut). The right gastroepiploic artery runs along the greater curvature of the stomach anastomosing with the left gastroepiploic artery, a branch of the splenic artery. The short gastric arteries (vasa brevia) are branches of the splenic artery and supply the fundus of the stomach. The right gastric and the right gastroepiploic arteries form the vascular pedicle, which feeds the stomach tube that is formed during the abdominal procedure of an Ivor-Lewis oesophagectomy for cancer."
+        },
+        {
+            "id": 2,
+            "question_type": "msq",
+            "question": "Which of the following statements are true regarding the nerve supply?",
+            "options": [
+                "A The intrinsic nerves exist principally in two plexuses, the myenteric plexus of Auerbach and the submucosal plexus of Meissner.",
+                "B There are fewer ganglia in the sub-mucosal plexus of the antrum of the stomach.",
+                "C The extrinsic supply is mainly derived from the vagus nerves.",
+                "D The vagal fibres are only efferent.",
+                "E The sympathetic fibres are derived from the thoracic ganglia."
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "explanation": "The stomach and duodenum possess both intrinsic and extrinsic nerve supplies. The intrinsic nerves are contributed by two plexuses – the myenteric plexus of Auerbach and submucosal plexus of Meissner. The extrinsic supply is derived from the 10th cranial nerve, vagus nerve, the larger of which is the right which lies on the posterior surface of the oesophagus and the left plastered on the anterior surface. In the antrum, the ganglia of the myenteric plexus are well developed; they are fewer in the fundal area. Vagal fibres are both afferent (sensory) and efferent (motor). The efferent fibres are involved in the receptive relaxation of the stomach, stimulation of gastric motility and secretory function. It was to abolish the secretory function that was utilised in the procedure of vagotomy for the surgical treatment of duodenal ulcer in days gone by. The sympathetic supply is derived mainly from the coeliac ganglia."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "The following statements are true except:",
+            "options": [
+                "A The parietal cells are in the body of the stomach.",
+                "B The chief cells produce pepsinogen.",
+                "C The endocrine cells are in the antrum and produce gastrin.",
+                "D The endocrine cells in the duodenum produce secretin and cholecystokinin.",
+                "E Histologically the chief cells are found at the mucosal surface."
+            ],
+            "answer": "E",
+            "explanation": "In a gastric gland, histologically, the parietal and chief cells are found in the gastric crypts. The basophilic chief cells are in the deepest layer. The mucus-secreting cells are at the mucosal surface, and the eosinophilic parietal cells lie superficially in the glands. The parietal cells are in the body of the stomach (acid-secreting portion). They produce the hydrogen ions actively secreted by the proton pump to form hydrochloric acid. The chief cells lie proximally in the gastric crypts to produce pepsinogen I and pepsinogen II, the former produced only in the stomach. Pepsinogen is activated in the stomach to produce pepsin. The stomach has endocrine cells. In the antrum there are G cells that produce gastrin. All over the body of the stomach there are enterochromaffin-like cells, which produce histamine, the driving factor in gastric acid secretion. There are also somatostatin-producing D cells throughout the stomach, the hormone somatostatin having a negative regulatory role. The duodenal endocrine cells produce secretin and cholecystokinin, the latter regulating the contraction of the gall bladder."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "Which of the following statements are true regarding gastric acid secretion?",
+            "options": [
+                "A Hydrogen ions are produced in the parietal cells by the proton pump.",
+                "B The most important factor acting on the chief cell is histamine.",
+                "C Vagus nerve is responsible for the gastric phase of acid secretion.",
+                "D Secretin stimulates acid secretion.",
+                "E Somatostatin inhibits acid secretion."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "Hydrogen ions are produced in the parietal cell by the proton pump. Although numerous factors can act on the parietal cell, the most important of these is histamine, which acts via the H2-receptor. Enterochromaffin-like (ECL) cell produces histamine in response to a number of stimuli that include the vagus nerve and gastrin. Gastrin is released by the G cells in response to the presence of food in the stomach. There are three phases of gastric secretion. The cephalic phase is mediated by vagal activity, secondary to sensory arousal. The gastric phase is a response to food within the stomach, which is mediated principally by gastrin and not influenced by the vagus. In the intestinal phase, the presence of chyme in the duodenum and small bowel inhibits gastric emptying, and the acidification of the duodenum leads to the production of secretin, which inhibits gastric acid secretion. Somatostatin is released by D cells in response to a number of factors including acidification. This peptide acts on the G cell, ECL cell and parietal cell itself to inhibit the production of acid."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "Which of the following are functions of the stomach?",
+            "options": [
+                "A Reservoir for ingested food.",
+                "B Mechanically breaks down ingested food.",
+                "C Starts the process of digestion.",
+                "D Produces mucus.",
+                "E Proximal stomach exhibits peristaltic activity."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "The stomach acts as a reservoir for ingested food that is mechanically broken down with the actions of acid and pepsin, thus converting into chyme and starting the process of digestion. The acid chyme on entering the duodenum is neutralised by the alkaline environment caused by the bicarbonate from the pancreas and duodenum. Mucus is produced by the mucus-producing cells of the stomach and the pyloric glands. This produces a viscid layer of mucopolysaccharides, which is an important physiological barrier preventing the gastric mucosa from mechanical damage and the effects of acid and pepsin; bicarbonate ions in the mucus also help as a buffer. Following a meal proximal stomach exhibits relaxation, thus acting as a reservoir. Most of the gastric peristaltic activity is found in the distal stomach, which is referred to as the ‘antral mill'. The antral contraction against the closed pyloric sphincter helps in the milling activity of the stomach."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Flexible endoscopy is the primary investigation of choice.",
+                "B Endoscopic ultrasound is useful in determining the 'T' status of tumours.",
+                "C CT scan is useful in the staging of gastric cancer.",
+                "D PET/CT scan can help avoid radical surgery in approximately 10% of patients with gastric cancer.",
+                "E Laparoscopy is helpful in evaluating posterior extension of tumours."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Flexible endoscopy (oesophagogastroduodenoscopy, OGD) is the best first-line investigation in suspected upper gastrointestinal (stomach and duodenum) pathology. It is generally a safe investigation; however, those undertaking these procedures should be adequately trained and resuscitation facilities always available. The dose of the sedation should be decided upon according to the age and comorbidities of the patient, being increased in small amounts under careful monitoring. Complications might occur from the sedation such as bradycardia, cardiac arrest, respiratory arrest and allergic reactions whilst perforation is a complication of the procedure. Endoscopic ultrasound is the most sensitive technique in the evaluation of the 'T' stage of gastric cancer, this being assessed with 90% accuracy. Identification of enlarged lymph nodes is possible with 80% accuracy. As a staging process in gastric cancer, axial multislice imaging on CT scan is useful in detecting gastric wall thickening as in linitis plastica (Figure 63.1). Positron emission tomography (PET) is a form of functional imaging that depends on the uptake of a tracer by metabolically active tumour tissue. When combined with CT (CT/PET), one obtains functional and anatomical information and demonstrates occult metastases thus preventing unnecessary major surgical resection; it is estimated that in 10% of gastro-oesophageal cancers CT/PET would help to avoid a futile major resection. Laparoscopy, much as it is a very useful staging procedure, does not help in delineating posterior extension of the tumour. It is useful in detecting peritoneal secondaries and when combined with US detects lymph nodal and hepatic metastases."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "The following statements are true except:",
+            "options": [
+                "A Type A gastritis is an autoimmune condition.",
+                "B Type A gastritis produces hypochlorhydria and achlorhydria.",
+                "C Type B gastritis is associated with Helicobacter pylori.",
+                "D Type B gastritis most often affects the body and fundus of the stomach.",
+                "E Both type A and B gastritis predispose to gastric cancer."
+            ],
+            "answer": "D",
+            "explanation": "Type B gastritis mainly affects the antrum; hence these patients are mostly affected by peptic ulcer. Sometimes there is pangastritis. Type B gastritis is associated with Helicobacter pylori infection and hence is the cause of peptic ulcer disease. Type A gastritis is an autoimmune disease caused by antibodies against the parietal cell. This causes atrophy of the parietal cell mass resulting in hypochlorhydria going on to achlorhydria. As parietal cells also produce intrinsic factor, this is also depleted causing malabsorption of vitamin B12, which, if not treated, will cause pernicious anaemia, the precursor of gastric cancer. Type B gastritis, which can produce pangastritis, results in intestinal metaplasia; when this is associated with dysplasia, there is a high chance of the development of cancer. Therefore, cancer stomach might be the outcome of type A and type B gastritis although the mechanism is different in the two types. Under the circumstances, regular OGD surveillance is appropriate for patients with both types of gastritis."
+        },
+        {
+            "id": 8,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A It is caused by increased production of acid.",
+                "B It is associated with the inhibition of COX-1 receptor enzyme.",
+                "C The production of cytoprotective prostaglandins is reduced in this condition.",
+                "D Long-term use of selective COX-2 inhibitors may cause cardio-vascular side effects.",
+                "E The beneficial anti-inflammatory effects of NSAIDS are mediated via COX-2 receptors."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Erosive gastritis is caused by agents such as NSAIDs and alcohol, which disturb the gastric mucosal barrier. The NSAID-induced gastric lesion is associated with inhibition of the cyclo-oxygenase type 1 (COX-1) receptor enzyme, thus reducing the production of gastric cytoprotective prostaglandins. The beneficial anti-inflammatory activities of NSAIDs are mediated by COX-2, and the use of specific COX-2 inhibitors reduces the incidence of these side effects. However, cardiovascular complications can occur if this is used in the long term."
+        },
+        {
+            "id": 9,
+            "question_type": "msq",
+            "question": "The following statements are true except:",
+            "options": [
+                "A Menetrier's disease is characterised by gross hypertrophy of the gastric mucosal folds.",
+                "B Hyperchlorhydria is an associated finding of Menetrier's disease.",
+                "C Menetrier's disease is caused by the reduced expression of transforming growth factor alpha (TGF-α).",
+                "D Menetrier's disease might present with hypoproteinaemia and anaemia.",
+                "E The treatment for Menetrier's disease is gastrectomy."
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "explanation": "Hypochlorhydria is the typical feature. The disease is a result of the overexpression of the transforming growth factor alpha (TGF-∝). It presents with hypoproteinaemia and anaemia. On OGD there is gross hypertrophy of the gastric mucosal folds. The condition is premalignant and hence gastrectomy is recommended."
+        },
+        {
+            "id": 10,
+            "question_type": "msq",
+            "question": "Which of the following statements are true?",
+            "options": [
+                "A Usually it occurs in patients who are in the intensive care unit (ICU).",
+                "B It is due to avascularity of the gastric mucosa.",
+                "C The usual presentation is perforation of an ulcer.",
+                "D Prevention is the keystone in management.",
+                "E H. pylori has no role in its aetiology."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "This typically occurs in seriously ill patients who are being treated in the intensive care unit or recovering from major surgery, trauma, illness, or burns. Much as the stomach is an extremely vascular organ, it is most sensitive to ischaemia as a result of hypovolaemia as shown by gastrointestinal tonometry. This measures intramucosal pH and PCO₂ as an indicator of mucosal ischaemia and hence ICU mortality and morbidity. Ischaemia causes breakdown in the gastric mucosal barrier, resulting in gastritis going on to ulceration. H. pylori has no role in the aetiology. The classical presentation is sudden, severe haemorrhage. It is much easier to prevent than treat this condition. Hence the routine use of prophylaxis in these patients with H₂-antagonists and barrier agents such as sucralfate given orally or by the nasogastric route. Effective prevention has reduced the incidence."
+        },
+        {
+            "id": 11,
+            "question_type": "matching",
+            "question": "Match the previously listed diagnoses with the clinical scenarios of the various conditions that follow.",
+            "options": {
+                "items": [
+                    "1 Benign gastric ulcer",
+                    "2 Carcinoma of stomach",
+                    "3 Gastric lymphoma",
+                    "4 Gastric outlet obstruction",
+                    "5 Gastritis",
+                    "6 Leiomyoma of stomach",
+                    "7 Perforated duodenal ulcer",
+                    "8 Periampullary carcinoma"
+                ],
+                "choices": [
+                    "A A 48-year-old man, a heavy smoker, has been admitted with sudden onset of very severe pain in the epigastrium radiating to the back and right shoulder tip of 3 hours duration. His pulse is 88 beats per minute and his blood pressure (BP) is 120/70 mmHg; his abdomen has board-like rigidity and does not move with respiration, which is mainly thoracic.",
+                    "B A 55-year old man complains of epigastric pain for 6 months, the pain not related to food. His appetite has been poor and he has lost 10 kg of weight during this period. There was nothing to find in his abdomen except for evidence of weight loss. An OGD showed diffuse mucosal thickening of the entire pylorus with some ulceration. Histology showed lymphoid hyerplasia with lymphoid cells expanding the lamina propria.",
+                    "C An 80-year-old woman presents with severe itching and her relatives noticed that she was becoming yellow over the last couple of months. Recently she has had vomiting, the vomitus not being bile stained. On examination she has lost a considerable amount of weight and has scratch marks all over her body and a smooth globular mass in the right upper quadrant of her abdomen.",
+                    "D A 69-year-old man presents with acute haematemesis. He has been well until his presentation, except that recently he has had a feeling of early satiety after small amounts of food. An urgent OGD showed a large submucosal mass with an ulcerated area, which was the site of bleeding.",
+                    "E A 52-year-old woman complains of epigastric pain on and off for 3 years for which she took medicines from across the counter. Almost 6 months ago she underwent a repeat OGD and biopsy that showed H. pylori infection in a gastric ulcer for which she was treated. She was well after that, but recently the pain has returned. Her haemoglobin is 11.9. Repeat OGD shows a 2-cm diameter punched- out ulcer on the lesser curve with overhanging edges.",
+                    "F A 65-year-old man complains of anorexia and weight loss for 3 months. He has intermittent vomiting associated with malaise. On examination he looks anaemic and has a firm mobile mass in the epigastrium and right hypochondrium.",
+                    "G A 35-year-old man, a bus driver, complains of epigastric pain radiating to the back on and off for several months. He has some backache, for which he took some NSAIDs, and occasionally consumes alcohol. Following a bout of drinking, he vomited and the vomitus was streaked with blood.",
+                    "H A 60-year-old man complains of incessant vomiting for 2 weeks. The vomitus contains stale food ingested a few days ago. There is no abdominal pain, although many years ago he suffered from prolonged ‘indigestion' for which he took antacids from across the counter on and off for years. On examination he has sunken eyes, dry tongue and loss of skin turgor, and his epigastrium looks full. While being examined he had an attack of carpo-pedal spasm."
+                ]
+            },
+            "answer": {
+                "1": "E",
+                "2": "F",
+                "3": "B",
+                "4": "H",
+                "5": "G",
+                "6": "D",
+                "7": "A",
+                "8": "C"
+            },
+            "explanation": "1. E Benign gastric ulcer Chronic gastric ulcer, more common in the developing world and in the lower socioeconomic groups, presents with abdominal pain coming on within a few minutes of eating. H. pylori and long-term use of NSAIDs are the causative factors. Ulcers on the lesser curvature are associated with chronic gastritis, whilst those on the greater curve are the result of ingestion of NSAIDs. OGD and biopsy is essential to exclude carcinoma. The complications are perforation, bleeding and gastric outlet obstruction. Rarely a benign gastric ulcer turns malignant; probably less than 1% of gastric cancers originate in a benign gastric ulcer. When perforation occurs anteriorly into the peritoneal cavity, the patient presents with features of generalised peritonitis. Sometimes the perforation might occur posteriorly into the lesser sac. In such a case, the peritonitis is contained with a resultant perigastric abscess. Perforation requires resuscitation followed by operation – biopsy and closure of the perforation. Bleeding might occur slowly when the patient presents with anaemia and faecal occult blood (FOB) is positive. Acute haematemesis and melaena is the emergency presentation of a bleed. This happens when the ulcer penetrates into the anastomosis between the left and right gastric arteries along the lesser curve or when the ulcer is in the middle of the body on the posterior wall and penetrates into the splenic artery causing torrential haemorrhage and hypovolaemic shock. The management of acute upper gastrointestinal haemorrhage is summarised in Figures 63.2 and 63.3. A chronic prepyloric gastric ulcer might cicatrise, resulting in pyloric stenosis causing gastric outlet obstruction. This will produce vomiting resulting in acid-base disturbances (for details see the following in 4H). The treatment in general is medical consisting of modification of lifestyle, eradication of H. pylori and proton pump inhibitors. If in the rare instance healing does not occur or relapse occurs, partial gastrectomy should be done (Figure 63.4). The same procedure might rarely have to be carried out when severe haemorrhage cannot be controlled by minimal access surgical means (Figure 63.5).\n2. F Carcinoma of stomach Traditionally gastric cancer has been described as presenting with the three A's – anaemia, asthenia and anorexia. It is said that any male over the age of 45 years who complains of anorexia for no known reason of more than 4 weeks duration should undergo an OGD to exclude cancer. This is to prevent late diagnosis as usually by the time diagnosis is made, the disease is advanced and hence has a poor outlook. Patients complain of early satiety, bloating, abdominal distension, vomiting from gastric outlet obstruction and malaise from iron deficiency anaemia. A palpable mass usually denotes a late stage of the disease. The proximal stomach is the most common site of gastric cancer in the West. As many adenocarcinomas arise in the lower oesophagus, it is estimated that 60% of cancers in this region occur in the oesophagogastric junction. Once suspected, the diagnosis is confirmed by OGD and biopsy. Histologically, the following two broad types are recognised: intestinal gastric cancer and diffuse gastric cancer. In the former it takes the form of an ulcerative (Figure 63.6) or polypoid lesion, which carries a better prognosis than the diffuse variety that infiltrates into the entire stomach wall often called a linitis plastica (Figure 63.7), which has a dismal prognosis. Thereafter, accurate staging is carried out by CT scan, CT/PET and US. If curative resection is on the cards, then laparoscopy +/- US is the final staging procedure before discussion in MDT prior to surgery. Gastric cancer spreads directly, by lymphatics, bloodstream and by the transcoelomic route. The staging is by the TNM staging of UICC. Distant spread usually does not occur in the absence of lymphatic secondaries. After staging, if curative operation is envisaged, neoadjuvant chemotherapy is given prior to surgery. Surgery can be in the form of total or subtotal radical gastrectomy depending upon the exact site of the cancer. The most common type of operation is D2 type of gastrectomy, which involves clearing lymph nodes at the major arterial trunks. For growths that cannot be cured, if resectable, palliative partial gastrectomy should be considered. Further details of operation for gastric cancer are beyond the scope of this book.\n3. B Gastric lymphoma Gastric lymphoma can occur as a separate entity or might be a part of generalised lymphoma. The stomach is the most common site, accounting for 20% of extranodal non-Hodgkin's lymphomas. The tumour arises from Mucosa-Associated Lymphoid Tissue, hence the acronym MALToma. These are low-grade ẞ-cell tumours that arise in untreated H. pylori gastritis with lymphoid hyperplasia. These tumours account for 5% of all gastric malignancies. Involvement of lymph nodes is late. On OGD the findings are very similar to those in linitis plastica – small, contracted, non-distensible stomach with diffuse mucosal thickening and loss of detail within the gastric mucosa, which is infiltrated by the lymphomatous process over a large area. Biopsy confirms the diagnosis. The management initially requires thorough staging to make sure that the tumour is a primary gastric lymphoma and not a part of a generalised lymphomatous process. This is done by full haematological investigations, CT scan of the chest and abdomen and bone marrow biopsy. The treatment in localised disease is gastrectomy. The use of postoperative chemotherapy is contentious; some oncologists believe that the condition can be treated by chemotherapy alone. In very early cases when H. pylori is isolated, eradication of the organism has been known to cause regression of the tumour.\n4. H Gastric outlet obstruction (GOO) Gastric outlet obstruction in the adult is from long-standing duodenal ulcer or a carcinoma of the pylorus. A rare condition called adult hypertrophic pyloric stenosis also causes GOO. It might occur in a 4-week old infant, usually a male, from congenital hypertrophic pyloric stenosis. The history in this patient indicates the cause to be a long-standing healed duodenal ulcer, which has produced cicatrisation with scarring and complete stenosis of the duodenum. Clinical presentation is prolonged vomiting with loss of H+, K+ and Cl- with increase in HCO3 resulting in hypcholraemic, hypokalaemic metabolic alkalosis. Fluid loss causes extreme dehydration seen clinically as sunken eyes, dry tongue and loss of skin turgor. As a result of dehydration the patient will also have haemoconcentration causing high haemoglobin. Clinically abdominal examination might show visible gastric peristalsis and succussion splash. In extreme cases of alkalosis, the patient might develop tetany because of reduction in ionised Ca++. The management consists of resuscitation, confirmation of the diagnosis and definitive treatment. Resuscitation should consist of haematological and biochemical blood investigations, intravenous normal saline with added potassium chloride, indwelling catheter and CVP line; a large bore stomach tube is inserted to wash out the stomach to empty semi-solid stale food material – several wash-outs might be necessary. The diagnosis is confirmed by OGD; during OGD an attempt might be made at balloon dilatation of the stenosis as a form of treatment, which might only have a temporary effect. The definitive operation is gastrojejunostomy – posterior, retro-colic, iso-peristaltic, short loop. Some surgeons might consider adding a truncal vagotomy to prevent a future anastomotic ulcer. When the GOO is from a pyloric cancer, the management should be on the lines described previously as for cancer of stomach.\n5. G Gastritis For summary, please see Figure 63.8. Type A autoimmune gastritis is an atrophic gastritis related to pernicious anaemia. It is diffuse, occurs in the body and fundus and might develop dysplasia followed by carcinoma. Regular endoscopic screening is advocated. Type B gastritis results from H. pylori infection usually involving the antrum. This causes intestinal metaplasia going on to produce pangastritis, which might result in cancer. Eradication of H. pylori infection is essential. Reflux gastritis occurs after gastric surgery where there is a gastro-jejunal anastomosis; this results from bile reflux. Symptomatic treatment is the mainstay; very rarely in intractable cases revisional surgery in the form of a Roux-en-Y procedure is undertaken. It might rarely occur without previous gastric surgery. Erosive gastritis is caused by alcohol and NSAIDs, which disturb the gastric mucosal barrier causing minimal inflammation. Prevention by excluding the causative agent is the treatment. Stress gastritis occurs in patients in the intensive care unit (ICU); they tend to develop ischaemia of the gastric mucosa causing ulceration, which presents as acute haematemesis. This is best prevented by putting all patients in the ICU on routine prophylactic H₂ receptor antagonist. Menetrier's disease is a precancerous condition (see previously). Lymphocytic gastritis, might be associated with coeliac disease. The gastric mucosa is infiltrated by T cells and may have H. pylori infection, which, if present, is eradicated. It is rare. Miscellaneous types of gastritis are granulomatous due to Crohn's disease, AIDS-related due to infection with Cryptosporidium and eosinophilic, which might be due to food allergies. Treatment is directed toward the cause.\n6. D Leiomyoma of stomach This is a form of gastrointestinal stromal tumour (GIST). The stomach harbours 50% of such tumours, which are of mesenchymal origin. The cut surface of the tumour is whorled, consisting of spindle-shaped cells embedded in a collagenous stroma. The presence of this tumour is detected when the patient has haematemesis due to ulceration of the tumour through the mucosa. Therefore most often diagnosis is made on OGD. Rarely if a barium meal is carried out, the appearance is very typical – smooth filling defect within the body of the stomach with a speck of barium stuck in the middle where the tumour has ulcerated through (Figure 63.9). Once the diagnosis is established on OGD, the patient is operated upon urgently on the next operating list, although an emergency procedure might be necessary if the patient re-bleeds while waiting. At operation local resection is the treatment of choice. Depending upon the exact site of the tumour in the stomach, a partial gastrectomy may be necessary.\n7. A Perforated duodenal ulcer These patients present as an emergency with sudden onset of severe upper abdominal pain radiating to the back and rest of the upper abdomen. Soon the patient might complain of pain in the right shoulder tip – pain referred from diaphragmatic irritation. The patient likes to lie still with an abdominal wall that does not move with respiration which is mainly thoracic. Abdominal palpation reveals typical ‘board-like' rigidity with obliteration of the liver dullness due to subdiaphragmatic air. Confirmation is by CXR showing gas under the right dome of the diaphragm (Figure 63.10), which might not always be present. Should there be any doubt about the diagnosis when there is no gas under the right dome of the diaphragm, a diagnostic laparoscopy is performed. If perforation is confirmed, it is closed laparoscopically if the expertise is available. If not, the procedure described below is carried out. As a surgical emergency, the patient needs to be resuscitated immediately followed by his definitive treatment. Resuscitation should be in the form of analgesia of 100 mg of pethidine, intravenous access with crystalloids, naso-gastric suction and intravenous antibiotics. After anaesthetic assessment, the patient is taken to theatre. The abdomen is opened through an upper midline incision. On entering the peritoneal cavity, the sound of free gas is heard. In perforated duodenal ulcer there will be free turbid, odourless, greenish fluid from the right upper quadrant. A perforation will be seen on the anterior wall of the first part of the duodenum. The free fluid is sucked clear. The perforation is isolated; at least three vicryl sutures (depending upon the size) are inserted through the perforation, which is now closed. The sutures are left long with haemostats at the ends. A patch of omentum is then put in between the sutures, covering the closure. The same sutures are now used to tie over the omentum. Thorough peritoneal lavage with warm normal saline is performed. The abdomen is closed.\n8. C Periampullary carcinoma Adenocarcinoma of the duodenum, although rare, arises in the periampullary region. The other conditions that give rise to a similar clinical picture are carcinoma of head of pancreas and carcinoma of lower end of common bile duct (CBD), although the latter does not produce gastric outlet obstruction. However, there is a subtle difference in the presentation of periampullary cancer where the jaundice is not progressive but waxes and wanes. This is because the periampullary carcinoma outgrows its blood supply; as a result the growth obstructing the ampulla sloughs off allowing bile to drain causing the jaundice to lessen. At the same time the size of the distended gall bladder gets smaller only for the whole process to repeat itself as the growth enlarges again. In the presence of jaundice if there is a distended gall bladder, the underlying pathology is a malignancy and not gall stones because the latter would result in a thick and contracted gall bladder (Courvoisier's law). The initial management is to confirm the diagnosis and stage the disease. Confirmation is done by OGD and biopsy. Staging is next carried out by CT scan and chest x-ray. Should these staging procedures give an indication that a radical resection is possible, a laparoscopy (+/- ultrasound) is then done to exclude any peritoneal secondaries. If the patient is deemed suitable for curative resection by a MDT, then radical resection is carried out. At the time of presentation 70% are deemed to be resectable. A Whipple's pancreatoduodenectomy is the procedure carried out, following which the 5-year survival rate is 20%. When the condition is unresectable, itching, which is very distressing for the patient, requires palliation. Insertion of a stent into the CBD alleviates itching whilst a stent in the pyloro-duodenal junction would achieve the same for gastric outlet obstruction. If for any reason a stent cannot be inserted into the CBD (such as previous gastric surgery or a duodenal diverticulum), an open procedure has to be done. This would consist of cholecystojejunostomy, jejuno-jenostomy (sometimes not done) and an anterior gastrojejunostomy (triple anastomosis)."
+        }
+    ]
+}

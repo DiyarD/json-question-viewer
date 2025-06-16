@@ -1,0 +1,316 @@
+{
+    "chapter_name": "36 Upper limb",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "1. Regarding anatomy of the shoulder, which of the following is not a muscle of the rotator cuff?",
+            "options": [
+                "A Infraspinatus",
+                "B Subscapularis",
+                "C Supraspinatus",
+                "D Teres major",
+                "E Teres minor"
+            ],
+            "answer": "D",
+            "explanation": "The rotator cuff includes four muscles (Table 36.1) that control movement and aid with stability of the glenohumeral joint. It includes the following:\n• Subscapularis: Internal/medial rotation\n• Supraspinatus: Abduction\n• Infraspinatus: External/lateral rotation\n• Teres minor: External/lateral rotation"
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. Regarding anatomy of the hand, which of the following muscles would you find within the first extensor compartment?",
+            "options": [
+                "A Extensor pollicis brevis",
+                "B Extensor carpi radialis brevis",
+                "C Extensor pollicis longus",
+                "D Extensor carpi ulnaris",
+                "E Extensor digiti minimi"
+            ],
+            "answer": "A",
+            "explanation": "The six extensor compartments of the wrist are as follows, from radial/lateral to ulnar/medial:\n1. Abductor pollicis longus and extensor pollicis brevis\n2. Extensor carpi radialis longus and extensor carpi radialis brevis\n3. Extensor pollicis longus\n4. Extensor indicis and Extensor digitorum communis\n5. Extensor digiti minimi\n6. Extensor carpi ulnaris"
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. Regarding adhesive capsulitis of the shoulder, the loss of which of the following shoulder movements is pathognomonic?",
+            "options": [
+                "A Abduction",
+                "B Flexion",
+                "C Extension",
+                "D Internal rotation",
+                "E External rotation"
+            ],
+            "answer": "E",
+            "explanation": "Adhesive capsulitis (frozen shoulder) is an idiopathic condition that is characterised by the spontaneous onset of a stiff and painful (severe initially) shoulder. It commonly affects women in the sixth decade and is associated with minor trauma or previous surgery, comorbidities (diabetes, ischaemic heart disease, thyroid disease) and prolonged immobilisation of the shoulder. There is often an initial global reduction in passive and active shoulder movement, but loss of external rotation is pathognomonic. Imaging is routinely normal, although MRI may demonstrate contracture of the joint capsule. The mainstays of treatment are conservative measures including analgesia, steroid injections, distension arthrogram and physiotherapy. Most cases resolve within 1 to 3 years following onset. MUA or arthroscopic surgical release may be used in refractory cases."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. Regarding shoulder replacement surgery, which of the following are recognised benefits or options of the procedure?",
+            "options": [
+                "A Pain relief is always guaranteed.",
+                "B Range of movement will improve dramatically.",
+                "C Deficiency to the rotator cuff is not important.",
+                "D Shoulder arthrodesis gives a much inferior range of movement.",
+                "E A partial shoulder replacement can be an option."
+            ],
+            "answer": "E",
+            "explanation": "Total shoulder arthroplasty (Figure 36.1) routinely provides good pain relief postoperatively; however, pain relief cannot be guaranteed with any surgery. Replacement does not routinely significantly increase the range of movement in the shoulder. Pain relief provided by a glenohumeral arthrodesis may result in a comparable or even better range of movements than a replacement, as the full range of movements available in the scapulothoracic joint can be utilised.\nPrerequisites for total shoulder replacement are an intact rotator cuff and good glenoid bone stock. Rotator cuff deficiency (proximal migration of humerus, diagnosed on further imaging) makes total shoulder arthroplasty much less reliable unless the cuff can be repaired at the same time (rare), in which case hemi-arthroplasty or a reverse shoulder replacement is recommended. If the glenoid is well preserved, a hemi-arthroplasty can give good results, although pain relief is less predictable."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "5. Regarding compression of nerves around the elbow, which nerve is associated with weakness of finger abduction?",
+            "options": [
+                "A Anterior interossoues nerve",
+                "B Median nerve",
+                "C Ulnar nerve",
+                "D Posterior interosseous nerve",
+                "E Musculocutaneous nerve"
+            ],
+            "answer": "C",
+            "explanation": "The ulnar nerve arises from the brachial plexus medial cord (C8-T1). After median neuropathy, ulnar nerve compression (cubital tunnel syndrome) is the next most common compressive neuropathy of the upper limb, with the common compression sites around the elbow being the following:\n• Arcade of Struthers\n• Two heads of flexor carpi ulnaris (aponeurosis)\n• Medial epicondyle\n• Medial intermuscular septum\nThere may be a background of previous elbow trauma leading to a cubitus varus or valgus deformity. Patients often present with paraesthesia in the little and ring fingers, with possibly a positive Tinel's sign over the compression site. A classic claw hand may be seen when compression of the ulnar nerve occurs at the wrist (e.g., at Guyon's canal), whereas with compression at the elbow, paradoxically (ulnar paradox) the claw is less pronounced due to the loss of innervation to the medial two digits flexor digitorum profundus. Motor findings include the following examples of wasting and weakness of the hand intrinsics:\n• Hypothenar (abductor digiti minimi, flexor digiti minimi opponens digiti minimi)\n• Adductor pollicis: Positive Froment's sign (see Chapter 33)\n• Interossei: Abduction (dorsal) and adduction (palmar) of the fingers\n• 3rd and 4th lumbricals\nAP and lateral radiographs of the elbow will exclude potential bony causes, e.g., osteophytes or previous trauma (supracondylar fracture leading to cubitus varus or valgus). Diagnosis is through clinical assessment and nerve-conduction studies. Conservative measures (e.g., analgesia and activity modification) are the primary lines of treatment, with surgery involving decompression +/– transposition."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. Regarding the general principles of managing hand pathology, which of the following is false?",
+            "options": [
+                "A Avoid swelling and stiffness.",
+                "B Edinburgh position of safety is MCPJ extension, PIPJ and DIPJ flexion at 90°.",
+                "C Elevation aids with swelling.",
+                "D Movement prevents stiffness.",
+                "E Splints aim to prevent contractures."
+            ],
+            "answer": "B",
+            "explanation": "Prevention and management of hand swelling and stiffness is essential to prevent permanent fibrosis and contracture leading to a loss of function. This can occur following trauma, infection, or surgery. Elevation is used to reduce swelling, particularly in the acute period. Splintage in a safe position aims to prevent contractures. The Edinburgh position of safety involves MCPJ flexion at 90°, with PIPJ and DIPJ in full extension. Early movement reduces swelling and prevents permanent stiffness."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "7. Regarding rheumatoid arthritis of the hand, which of the following is not a recognised manifestation of the disease?",
+            "options": [
+                "A Boutonnière deformity",
+                "B Extensor tendon rupture",
+                "C Prominent ulnar head",
+                "D Radial deviation of the metacarpopha-langeal (MCP) joints",
+                "E Swan neck deformity"
+            ],
+            "answer": "D",
+            "explanation": "There are a large number of deformities associated with rheumatoid arthritis (Figure 36.2). However, the deviation of the MCP joints is ulnar, not radial, whereas in the wrist the deviation is radial. Deformities are associated with synovial inflammation and attrition trauma, with potential abnormalities being the following:\n• Extensor and flexor tendon ruptures\n• MCPJ deformity: ulnar +/– volar deviation with associated subluxation/dislocation\n• Wrist deformities: radial deviation, carpal supination, prominent ulna head\n• Boutonnière deformity (DIPJ hyperextension and PIPJ flexion)\n• Swan neck deformity (PIPJ hyperextension and MCPJ + DIPJ flexion)\n• Z-thumb deformity (FPL rupture)\nPotential surgical management options include the following:\n• Synovectomy: Gives good pain relief, improves function and potentially prevents tendon rupture or nerve compression.\n• Ulna head excision: Reduces pain and risk of extensor tendon rupture but wrist instability can be a problem in younger patients, so replacement may be necessary.\n• Wrist and small joint arthrodesis: Provides good pain relief and improves function.\n• Prosthetic replacement of MCPJs.\n• Tendon transfer is preferred to repair."
+        },
+        {
+            "id": 8,
+            "question_type": "emq",
+            "question": "A A 38-year-old painter and decorator presents with gradual onset of pain in both shoulders, left worse than right. This is especially severe when he is trying to paint ceilings. On examination, pain is experienced at between 60 and 100 degrees of abduction. Shoulder radiographs are normal.",
+            "options": [
+                "1 Acute rotator cuff tear",
+                "2 Calcific tendinitis",
+                "3 Chronic rotator cuff tear",
+                "4 Frozen shoulder",
+                "5 Osteoarthritis",
+                "6 Rheumatoid arthritis",
+                "7 Rotator cuff impingement"
+            ],
+            "answer": "7",
+            "explanation": "This case is characteristic of rotator cuff impingement, which commonly occurs as the cuff travels inferior to the acromion. The 'painful arc' is pain on active shoulder abduction, commonly between 40 and 120 degrees. Special tests include Neer, Hawkins and Jobe test (see Chapter 33). This condition can be diagnosed with an injection of local anaesthetic into the impinging area, and some patients' symptoms can settle with this in combination with physiotherapy. Subacromial decompression is the surgical option."
+        },
+        {
+            "id": 9,
+            "question_type": "emq",
+            "question": "B A 68-year-old woman presents with a painless but progressively weak shoulder. She can only abduct it with a trick movement hunching her shoulder. Otherwise, there seems to be very little power of abduction.",
+            "options": [
+                "1 Acute rotator cuff tear",
+                "2 Calcific tendinitis",
+                "3 Chronic rotator cuff tear",
+                "4 Frozen shoulder",
+                "5 Osteoarthritis",
+                "6 Rheumatoid arthritis",
+                "7 Rotator cuff impingement"
+            ],
+            "answer": "3",
+            "explanation": "This patient presents with a painless but weak shoulder where the problem has developed over the years. This case is characteristic of a tear of the rotator cuff. These commonly occur in an older age group, with 20%–45% of 40- to 50-year-olds having asymptomatic tears, with that number rising to over 50% in the eighth decade. On examination, the characteristic finding is weakness of the affected tendons, with pain being an uncommon symptom. Radiographs might demonstrate proximal migration of the humerus or calcific tendinitis, with ultrasound or MRI being diagnostic. Management is determined by the patient and tear characteristics, with options including physiotherapy, activity modification, steroid injections and cuff repair in selected cases."
+        },
+        {
+            "id": 10,
+            "question_type": "emq",
+            "question": "C A 52-year-old man who sustained a severe intra-articular fracture of the right shoulder as a young man now presents with increasing pain, stiffness and weakness of the shoulder.",
+            "options": [
+                "1 Acute rotator cuff tear",
+                "2 Calcific tendinitis",
+                "3 Chronic rotator cuff tear",
+                "4 Frozen shoulder",
+                "5 Osteoarthritis",
+                "6 Rheumatoid arthritis",
+                "7 Rotator cuff impingement"
+            ],
+            "answer": "5",
+            "explanation": "Glenohumeral osteoarthritis can be either primary or secondary traumatic osteoarthritis following fracture or end-stage rotator cuff disease. As with other joints, this will present with a gradual onset of pain, stiffness and weakness of the shoulder with a global reduction in the range of movement. Radiographs confirm the diagnosis, with CT used to determine the extent of any bone loss and MRI to detect any rotator cuff pathology. When conservative measures are no longer controlling symptoms, hemi/total/reverse shoulder replacements are the options. Please also see multiple choice question Answer 4."
+        },
+        {
+            "id": 11,
+            "question_type": "emq",
+            "question": "D A 42-year-old woman presents with pain in her left shoulder, but with no history of trauma. She is tender anterolaterally and the pain is so severe that she cannot sleep. She is able to rotate the shoulder externally without much pain, but other movements are painful, especially active ones. Radiographs demonstrate a calcification between the acromion and humeral head.",
+            "options": [
+                "1 Acute rotator cuff tear",
+                "2 Calcific tendinitis",
+                "3 Chronic rotator cuff tear",
+                "4 Frozen shoulder",
+                "5 Osteoarthritis",
+                "6 Rheumatoid arthritis",
+                "7 Rotator cuff impingement"
+            ],
+            "answer": "2",
+            "explanation": "Calcific tendintis is thought to be associated with degenerative changes of rotator cuff pathology. It is seen between 20 and 50 years of age and is associated with diabetes. Severe pain and stiffness developing rapidly without any trauma can be either a frozen shoulder or calcifying tendinitis of the supraspinatus tendon. Frozen shoulder produces global pain and loss of movement, in particular external rotation. Calcific tendinitis usually does not affect external rotation to that degree but is associated with a painful arc and might have signs of impingement. Radiographs confirm the finding of a calcific deposit within the supraspinatus tendon between the acromion and the humeral head.\nConservative measures include analgesia, steroid injection, physiotherapy, or ultrasound-guided decompression of the deposit. Surgery involves arthroscopic removal of the calcific deposit +/– decompression."
+        },
+        {
+            "id": 12,
+            "question_type": "emq",
+            "question": "A A 48-year-old woman attends with pain over the lateral side of the elbow following a weekend redecorating the house.",
+            "options": [
+                "1 Golfer's elbow",
+                "2 Loose body",
+                "3 Median nerve compression",
+                "4 Olecranon bursitis",
+                "5 Osteoarthritis",
+                "6 Radial nerve compression",
+                "7 Septic arthritis",
+                "8 Tennis elbow",
+                "9 Ulnar nerve compression"
+            ],
+            "answer": "8",
+            "explanation": "Tennis elbow (lateral epicondylitis) does not only develop after playing tennis but can start after any heavy activity where there is repetitive eccentric forced palmar flexion with pronation, which puts a specific load on to the common extensor origin. Clinical examination often reveals an area of tenderness over the humeral lateral epicondyle (common extensor origin), with pain reproduced on resisted wrist and finger extension. Nonoperative interventions are commonly successful and involve activity modification, nonsteroidal anti-inflammatory drugs (NSAIDs), physiotherapy, bracing, or steroid injections. Surgery (common extensor origin debridement and release) is very rarely indicated for prolonged failed conservative treatment. (See Chapter 34, extended matching questions, Answer A)."
+        },
+        {
+            "id": 13,
+            "question_type": "emq",
+            "question": "B A 28-year-old man who sustained a fracture to his elbow many years ago presents with pain and numbness down the medial side of the forearm into the little finger.",
+            "options": [
+                "1 Golfer's elbow",
+                "2 Loose body",
+                "3 Median nerve compression",
+                "4 Olecranon bursitis",
+                "5 Osteoarthritis",
+                "6 Radial nerve compression",
+                "7 Septic arthritis",
+                "8 Tennis elbow",
+                "9 Ulnar nerve compression"
+            ],
+            "answer": "9",
+            "explanation": "Please see multiple choice question Answer 5. Arthritis of the elbow can lead to irritation and compression of the ulnar nerve as it passes posterior to the elbow joint. Nerve-conduction studies should confirm the diagnosis, with decompression +/– transposition of the nerve being the definitive management."
+        },
+        {
+            "id": 14,
+            "question_type": "emq",
+            "question": "C A 36-year-old man presents with a red and hot lump over the posterior part of the elbow. He is systemically well, apyrexial, has a flexion arc of 100 degrees and radiographs are unremarkable.",
+            "options": [
+                "1 Golfer's elbow",
+                "2 Loose body",
+                "3 Median nerve compression",
+                "4 Olecranon bursitis",
+                "5 Osteoarthritis",
+                "6 Radial nerve compression",
+                "7 Septic arthritis",
+                "8 Tennis elbow",
+                "9 Ulnar nerve compression"
+            ],
+            "answer": "4",
+            "explanation": "Olecranon bursitis (Figure 34.2 in Chapter 34) is relatively common and can be diagnosed by good clinical examination. It can be associated with previous trauma or repeated minor trauma, localised infection, or comorbidities, e.g., gout. Patients present with a swelling over the extensor surface of the elbow, which can be painful, erythematous and warm (indicative of infected bursitis). Septic arthritis of the elbow is more commonly associated with hot and painful elbow joint, low-grade pyrexia and a reduced range of movement. Olecranon bursitis routinely settles with a combination of activity modification, analgesia (NSAIDs), aspiration and antibiotics if there is evidence of infection. Formal surgical drainage is occasionally warranted for a purulent collection +/– bursa excision. Chronic olecranon bursitis can be associated with calcific deposits, and bursa excision may be indicated."
+        },
+        {
+            "id": 15,
+            "question_type": "emq",
+            "question": "A A 46-year-old woman has a PIPJ flexion and a DIPJ hyperextension deformity of the left ring finger.",
+            "options": [
+                "1 Boutonnière deformity",
+                "2 Carpal tunnel syndrome",
+                "3 Cubital tunnel syndrome",
+                "4 Dupuytren's disease",
+                "5 de Quervain's tenosynovitis",
+                "6 Mallet thumb",
+                "7 Pronator teres syndrome",
+                "8 Swan neck deformity",
+                "9 Trigger finger",
+                "10 Ulnar collateral ligament injury"
+            ],
+            "answer": "1",
+            "explanation": "Boutonnière deformity is associated with rheumatoid hand (but can be associated with isolated trauma, e.g., Zone 3 extensor tendon injury) and characterised by PIPJ flexion and DIPJ hyperextension (Figure 36.3). There is primary disruption of the extensor tendon central slip, resulting in separation and volar subluxation of the lateral bands. This ultimately results in dorsal subluxation of the head of the proximal phalanx. The resulting deformity is exacerbated and maintained through contracture of the collateral ligaments, volar plate and oblique retinacular ligament."
+        },
+        {
+            "id": 16,
+            "question_type": "emq",
+            "question": "B A 52-year-old woman complains of discomfort over the lateral aspect of her right wrist and thumb. There is a positive Finkelstein's test.",
+            "options": [
+                "1 Boutonnière deformity",
+                "2 Carpal tunnel syndrome",
+                "3 Cubital tunnel syndrome",
+                "4 Dupuytren's disease",
+                "5 de Quervain's tenosynovitis",
+                "6 Mallet thumb",
+                "7 Pronator teres syndrome",
+                "8 Swan neck deformity",
+                "9 Trigger finger",
+                "10 Ulnar collateral ligament injury"
+            ],
+            "answer": "5",
+            "explanation": "In 1895 Swiss surgeon Fritz de Quervain originally described de Quervain's tenosynovitis – first extensor tendon compartment sheath inflammation and stenosis. Patients are commonly female and the age of onset is usually between 30 and 50 years. Some suggest an association with pregnancy, repetitive micro trauma, e.g., golf, as well as inflammatory arthropathies.\nClinical presentation is pain, tenderness and swelling over the lateral aspect of the thumb or wrist, with crepitus sometimes felt. Finkelstein's test can be positive (flex affected thumb into palm, first made around thumb, wrist ulnar deviation). Radiographs can be used to exclude other differentials, e.g., base of thumb osteoarthritis. Management includes the following:\n• Conservative: Activity modification, analgesia, e.g., NSAIDs, splints, or corticosteroid injection\n• Surgery: Release of first dorsal compartment"
+        },
+        {
+            "id": 17,
+            "question_type": "emq",
+            "question": "C A 48-year-old man complains of being intermittently unable to extend his right ring finger, with a clicking sensation sometimes felt. There is a tender swollen nodule over the palmar aspect of the affected finger.",
+            "options": [
+                "1 Boutonnière deformity",
+                "2 Carpal tunnel syndrome",
+                "3 Cubital tunnel syndrome",
+                "4 Dupuytren's disease",
+                "5 de Quervain's tenosynovitis",
+                "6 Mallet thumb",
+                "7 Pronator teres syndrome",
+                "8 Swan neck deformity",
+                "9 Trigger finger",
+                "10 Ulnar collateral ligament injury"
+            ],
+            "answer": "9",
+            "explanation": "Triggering of the fingers or thumb is due to tendon sheath inflammation and fibrotic thickening, ultimately leading to a tendon-sheath size mismatch (stenosis). This causes restricted movement of the flexor tendon and the tendon becoming entrapped within the retinacular pulley, usually at the first annular (A1) pulley of the ring or middle fingers. Patients, usually females, are often between 40 and 60 years of age. Associated conditions include diabetes, rheumatoid arthritis, amyloidosis and gout. On examination, a tender nodule can be found on the flexor aspect of the affected finger or thumb, with the digit locked in flexion when passive extension is attempted. The digit usually becomes 'unlocked' with passive force, with a trigger-like pop felt (Green classification). If initial treatment with conservative measures fails (e.g., physiotherapy, steroid injection), surgery to release +/– debride the pulley can be performed."
+        },
+        {
+            "id": 18,
+            "question_type": "emq",
+            "question": "D A 58-year-old man with a history of chronic liver disease attends with a bilateral fixed flexion deformity of the ring and little fingers, left worse than right.",
+            "options": [
+                "1 Boutonnière deformity",
+                "2 Carpal tunnel syndrome",
+                "3 Cubital tunnel syndrome",
+                "4 Dupuytren's disease",
+                "5 de Quervain's tenosynovitis",
+                "6 Mallet thumb",
+                "7 Pronator teres syndrome",
+                "8 Swan neck deformity",
+                "9 Trigger finger",
+                "10 Ulnar collateral ligament injury"
+            ],
+            "answer": "4",
+            "explanation": "Dupuytren's contracture is an autosomal dominant condition characterised by palmar fascial nodules and cords, skin puckering with progressive fibrotic hyperplasia of the palmar and digital fascia, resulting in fixed flexion deformities of the affected fingers. It is seen commonly in people of northern European descent, males and in those who are between 40 and 60 years of age. Risk factors include smoking, trauma/postsurgery, epilepsy medication, AIDS/ HIV, diabetes mellitus, hypothyroidism and alcohol cirrhosis.\nThe disease can be bilateral, pain is not common and the ring or little fingers are most commonly involved. Associated presentations include the following:\n• Ledderhose disease: Plantar fibromatosis leading to thickening\n• Peyronie's disease: Penile fibromatosis leading to curvature\n• Garrod's knuckle pads: Thickened skin dorsum PIPJ\nThe Hueston tabletop test (unable to place open palm on table) can be used as indication for surgery, along with PIPJ flexion contracture. Management includes the following:\n• Nonoperative: Collagenase therapy\n• Surgery: Fasciotomy, fasciectomy, dermofasciectomy, or amputation"
+        },
+        {
+            "id": 19,
+            "question_type": "emq",
+            "question": "E A 47-year-old woman has a 12-week history of tingling and numbness in the hand, which is worse at night. On examination, there is wasting of the thenar eminence.",
+            "options": [
+                "1 Boutonnière deformity",
+                "2 Carpal tunnel syndrome",
+                "3 Cubital tunnel syndrome",
+                "4 Dupuytren's disease",
+                "5 de Quervain's tenosynovitis",
+                "6 Mallet thumb",
+                "7 Pronator teres syndrome",
+                "8 Swan neck deformity",
+                "9 Trigger finger",
+                "10 Ulnar collateral ligament injury"
+            ],
+            "answer": "2",
+            "explanation": "Carpal tunnel syndrome (CTS) is the most frequent upper limb compressive neuropathy. It is characterised by compression and ischaemia of the nerve as it passes underneath the flexor retinaculum at the wrist. It is commonly seen in middle-aged females. Risk factors include obesity, smoking, alcohol excess, diabetes, hypothyroidism, rheumatoid, amyloidosis, pregnancy, trauma and possibly occupation.\nPatients commonly present with tingling and numbness of the radial three and half digits, which is often worse at night and relieved by shaking the hand (the 'Flick sign'). Although commonly quoted, pain is not classical. Reduced sensation over the radial three and half digits, thenar muscle atrophy and abductor pollicis brevis weakness can be found. Provocation tests include the following:\n• Phalen's test (flexion of wrist until symptoms come on)\n• Tinel's test\nThe diagnosis is made either clinically, with nerve-conduction studies, or with a combination of the two. Management includes the following:\n• Nonoperative: Activity modification, night splints, steroid injections\n• Operative: Open or endoscopic carpal tunnel decompression"
+        }
+    ]
+}

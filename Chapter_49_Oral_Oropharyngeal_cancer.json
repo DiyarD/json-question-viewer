@@ -1,0 +1,218 @@
+{
+    "chapter_name": "Oral/oropharyngeal cancer",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "1. Which of the following statements are true?\nA Oral and oropharyngeal cancers account for 2%-4% of all human malignancies.\nB The worldwide incidence of oral/ oropharyngeal cancers is falling.\nC Epstiein-Barr virus associated cancers are becoming more prevalent.\nD. The incidence in females is greater than that in males.\nE Tobacco and alcohol exert a synergistic carcinogenic effect.",
+            "options": [
+                "A Oral and oropharyngeal cancers account for 2%-4% of all human malignancies.",
+                "B The worldwide incidence of oral/ oropharyngeal cancers is falling.",
+                "C Epstiein-Barr virus associated cancers are becoming more prevalent.",
+                "D. The incidence in females is greater than that in males.",
+                "E Tobacco and alcohol exert a synergistic carcinogenic effect."
+            ],
+            "answer": [
+                "A",
+                "E"
+            ],
+            "explanation": "Oropharyngeal and oral cancers account for 2%-4% of human malignancies. The incidence is rising, however, particularly in the developing world. Tobacco and alcohol are recognised carcinogens that have a synergistic effect. HPV-related cancers are also rising, which seems to be associated with the rising incidence seen in the Western world. Males are more commonly affected than females. Interestingly, HPV-related lesions respond more favourably to therapy, although reasons for this are unclear. Indeed, HPV-related oropharyngeal cancers do so well that the traditional staging system seems outdated in this evolving disease."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. Which of the following statements are true?\nA The oral cavity extends from the lower teeth to the soft palate.\nB The oropharynx extends from the oral surface of the soft palate to the level of the hyoid bone.\nC. The base of tongue is included in the oropharynx.\nD The hard palate is part of the oral cavity.\nE The retromolar trigone is the most anterior subsite of the oropharynx.",
+            "options": [
+                "A The oral cavity extends from the lower teeth to the soft palate.",
+                "B The oropharynx extends from the oral surface of the soft palate to the level of the hyoid bone.",
+                "C. The base of tongue is included in the oropharynx.",
+                "D The hard palate is part of the oral cavity.",
+                "E The retromolar trigone is the most anterior subsite of the oropharynx."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "The anatomy of the oral cavity and oropharynx can be confusing. The oral cavity includes all structures from the vermillion border of the lip back to the junction of the soft palate and hard palate. The oropharynx then extends from this level posteriorly. The roof of the oropharynx should be considered during oral respiration, when the soft palate is horizontal at the level of the hard palate. When this is true the oropharynx can be seen to include the base of tongue (region behind the cirumvallate papillae), which leads to the vallecula, which inserts onto the hyoid bone. The lateral walls include the palatine tonsils and lateral pharyngeal wall. Posteriorly, the posterior pharyngeal wall is also included, although rarely involved in cancers. The retromolar trigone is another difficult place to visualise. This area lies posterior to the molar teeth and is the most posterior anatomical site of the oral cavity."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. Which of the following statements are true?\nA Squamous cell carcinoma is the most common cancer of the oral cavity.\nB High-risk premalignant lesions include lichen planus and speckled leukoplakia.\nC The concept of field change is related to widespread exposure of the upper aero- digestive tract to carcinogens.\nD The potential for malignant transformation increases with the age of the patient and the lesion.\nE Oral submucous fibrosis is related to chronic cigarette use.",
+            "options": [
+                "A Squamous cell carcinoma is the most common cancer of the oral cavity.",
+                "B High-risk premalignant lesions include lichen planus and speckled leukoplakia.",
+                "C The concept of field change is related to widespread exposure of the upper aero- digestive tract to carcinogens.",
+                "D The potential for malignant transformation increases with the age of the patient and the lesion.",
+                "E Oral submucous fibrosis is related to chronic cigarette use."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D"
+            ],
+            "explanation": "Although minor salivary gland cancers and lymphomas do occur in the oral and oropharyngeal cavity, the majority of lesions are squamous cell cancers. Most arise denovo, but some will develop from existing premalignant conditions. Although red patches, (erythroplakia), speckled leukoplakia and chronic hyperplastic candidiasis are considered high risk for malignant transformation, lichen planus is not. Increased patient and lesional age are risk factors for malignant transformation, as are further exposure to cigarettes and alcohol. Because the whole upper airway is exposed to carcinogens in smokers and drinkers, it is common for cancers to arise in significantly damaged mucosa. This presents treatment challenges, as the adjacent mucosa might already be dysplastic, which is the concept of field cancerisation or field change. Oral submucous fibrosis is thought to be associated with the use of pan masala areca nut, not cigarettes."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. Which of the following statements are true?\nA The upper lip is affected by cancer more commonly than the lower lip.\nB A nonhealing ulcer of over 4 weeks duration should be investigated.\nC Neck mass is a common presenting feature of oropharyngeal cancer.\nD Ipsliateral otalgia suggests advanced disease.\nE Trisumus is commonly present in the early stages of oropharyngeal cancer.",
+            "options": [
+                "A The upper lip is affected by cancer more commonly than the lower lip.",
+                "B A nonhealing ulcer of over 4 weeks duration should be investigated.",
+                "C Neck mass is a common presenting feature of oropharyngeal cancer.",
+                "D Ipsliateral otalgia suggests advanced disease.",
+                "E Trisumus is commonly present in the early stages of oropharyngeal cancer."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "The lower lip is far more commonly involved with cancer than the upper lip. Any nonhealing oral ulcer should be investigated further. The mucosa of the oropharynx is folded and might hide early cancers. It is therefore common for such cancers to first present with neck metastases. Otalgia is referred from the cranial nerves (IX and X) and therefore represents advanced disease, which has involved these structures either from the primary site or regional metastases. Trismus is normally due to invasion of the pterygoid muscles. This is a feature of advanced, often surgically unresectable, disease."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "5. Which of the following statements are true?\nA Early malignancies are generally managed without the need for formal investigations.\nB CT or MRI should be performed to assess the extent of loco-regional disease.\nC Bone scans are important to identify sites of involvement of the facial skeleton.\nD Fine-needle aspiration cytology should be used to assess neck masses.\nE Plain radiology of the mandible and maxilla is now outdated and has no role in preoperative investigation.",
+            "options": [
+                "A Early malignancies are generally managed without the need for formal investigations.",
+                "B CT or MRI should be performed to assess the extent of loco-regional disease.",
+                "C Bone scans are important to identify sites of involvement of the facial skeleton.",
+                "D Fine-needle aspiration cytology should be used to assess neck masses.",
+                "E Plain radiology of the mandible and maxilla is now outdated and has no role in preoperative investigation."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "All cancers of the upper aerodigestive tract will require investigation. This allows for a pretreatment assessment of the extent of locoregional disease. Cross-sectional imaging with CT or MRI is preferred, and MRI has the benefit of not being affected by dental amalgam artefact. Bone scans tend to overestimate involvement of the facial skeleton and are not in routine use. In contrast, fine-needle aspiration (FNA) is an important investigation and is best performed under ultrasound guidance. One weakness of FNA is the small number of cells obtained, which can make immunohistochemical staining difficult. Core biopsies provide more tissue and can be used to test for HPV status. Although plain radiology (orthopantogram) is a basic investigation it allows an estimation of bony destruction in advanced lesions, which can be useful in the operating room. Although three-dimensional reconstructions of advanced cases are increasingly used, they have not become routine in most centres. A diagnostic algorithm is provided in Figure 49.1."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. Which of the following statements is true?\nA Oropharyngeal cancer is more commonly treated with surgery and oral cancer with radiation as primary therapy.\nB Previous radiation to the oropharynx is usually a contraindication to further radiotherapy.\nC Factors considered in therapy include site, stage, histology and comorbidities.\nD Grade of differentiation of squamous cell carcinoma is an important factor in selecting mode of therapy.\nE Advanced age is a contraindication to curative therapy.",
+            "options": [
+                "A Oropharyngeal cancer is more commonly treated with surgery and oral cancer with radiation as primary therapy.",
+                "B Previous radiation to the oropharynx is usually a contraindication to further radiotherapy.",
+                "C Factors considered in therapy include site, stage, histology and comorbidities.",
+                "D Grade of differentiation of squamous cell carcinoma is an important factor in selecting mode of therapy.",
+                "E Advanced age is a contraindication to curative therapy."
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "explanation": "Primary therapy for oral cancer tends to be surgical and radiation for oropharyngeal cancer. The reasons are complex. Oral cancers are more easily accessed transorally and are partially shielded from radiation by the mandible. In contrast, access to the oropharynx is limited via the transoral route, and these cancers respond well to radiation therapy. Many advanced cancers will be offered combined therapy. Previous radiation is considered a contraindication to further radiotherapy, although in extreme circumstances and unresectable disease, further radiation may be offered. Although grade of differentiation might affect prognosis, it is not usually considered in terms of therapy. Physiological age is more important than chronological age, and some young head and neck cancer patients present with significant comorbidities while older patients might be physiologically more fit. Therefore, age itself is not a contraindication to curative therapy."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "7. Which of the following statements are true?\nA Cancers that require resection of less than one-third of the lip can be excised with a wedge.\nB Only 10% of patients with tongue cancer will have nodal metastases at presentation.\nC Wound closure following excision of a floor of mouth cancer should approximate the ventral tongue to the labial mucosa.\nD Reconstruction is ideal following excision of buccal carcinoma.\nE Delayed reconstruction of mandibular defects is preferred to ensure clear margins.",
+            "options": [
+                "A Cancers that require resection of less than one-third of the lip can be excised with a wedge.",
+                "B Only 10% of patients with tongue cancer will have nodal metastases at presentation.",
+                "C Wound closure following excision of a floor of mouth cancer should approximate the ventral tongue to the labial mucosa.",
+                "D Reconstruction is ideal following excision of buccal carcinoma.",
+                "E Delayed reconstruction of mandibular defects is preferred to ensure clear margins."
+            ],
+            "answer": [
+                "A",
+                "D"
+            ],
+            "explanation": "Cancers of the lip should be assessed to consider the extent of resection. Less than one-third can be closed with a wedge, greater than one-third will require rotation or free flaps. Remember that radiation therapy is also very effective for lip cancers. Tongue cancer is the most common oral cancer, and around 30% present with nodal metastases. For this reason, even in clinically negative necks, all but the smallest (<3 mm depth) cancers should be treated with an elective neck dissection. Following excision of a floor-of-mouth or buccal carcinoma, reconstruction is with a vascularised flap. If this is not performed for floor-of-mouth cancers, adhesion between the tongue and lip compromises oral function. Contracture at the site of a buccal cancer resection leads to significant trismus. Cosmetic outcomes are superior with immediate recomstruction of mandibular defects. Ideally they are reconstructed using like for like tissue (e.g.. fibular osseus free flap for mandibular resection)."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "8. Which of the following statements are true?\nA Surgical access to the base of tongue may require total glossectomy.\nB Chemotherapy is combined with radiotherapy for improved results in many cases.\nC High rates of occult regional metastases mandate elective treatment of the clinically uninvolved neck.\nD Patients treated surgically for multiple neck metastases should undergo selective 'supraomohyoid' neck dissection.\nE Swallowing tends to be unaffected by appropriate therapy for oropharyngeal cancer.",
+            "options": [
+                "A Surgical access to the base of tongue may require total glossectomy.",
+                "B Chemotherapy is combined with radiotherapy for improved results in many cases.",
+                "C High rates of occult regional metastases mandate elective treatment of the clinically uninvolved neck.",
+                "D Patients treated surgically for multiple neck metastases should undergo selective 'supraomohyoid' neck dissection.",
+                "E Swallowing tends to be unaffected by appropriate therapy for oropharyngeal cancer."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "C"
+            ],
+            "explanation": "The oropharynx is difficult to access surgically. Particularly for base-of-tongue tumours, wide resections, which might include resection of the tongue (glossectomy), are required to achieve clear surgical margins. This is one of reason why combination chemoradiotherapy has been favoured in recent years. The increasing interest in robotic surgery might provide a surgical solution for accessing this difficult area, and surgical trials are ongoing. The addition of chemotherapy to radiation has been shown to improve outcomes. At least 30% of patients with oropharyngeal cancers have nodal metastases at presentation and therefore even if considered free of disease, the regional lymph nodes should be included in treatment. For those patients with advanced neck disease, surgical treatment should include resection of all lymph nodes in the ipsilateral neck (modified radical or radical neck dissection) rather than selective neck dissection to maximise the chance of controlling neck disease. Even successful treatment of oropharyngeal cancer inevitably results in changes to swallowing and speech functions. The location of the oropharynx means that the structures around are intimately involved in all functions of the pharynx."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "9. Which of the following statements are true?\nA Patients successfully treated for oral/ oropharyngeal cancer do not require follow-up.\nB The majority of recurrences occur after 5 years.\nC Survival is related to the stage of disease at presentation.\nD Cessation of smoking and alcohol should be promoted.\nE Extra capsular nodal spread is an important predictor of outcome.",
+            "options": [
+                "A Patients successfully treated for oral/ oropharyngeal cancer do not require follow-up.",
+                "B The majority of recurrences occur after 5 years.",
+                "C Survival is related to the stage of disease at presentation.",
+                "D Cessation of smoking and alcohol should be promoted.",
+                "E Extra capsular nodal spread is an important predictor of outcome."
+            ],
+            "answer": [
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Patients successfully treated will require regular follow-up to monitor them for recurrent disease and other primary cancers, and to provide support for the side effects of therapy. The majority of disease recurrences happen within 3 years. By 5 years, most patients will be oncologically fit for discharge. Survival is related to the stage of disease at presentation, although for HPV-related cancers, the accuracy of this staging has been questioned. It is increasingly clear that the presence of extra capsular spread of nodal metastases is an important predictor of outcome. Despite this, it has not been formally recognised within the staging system at this point. Alcohol and cigarette use should be ceased in these patients who are at risk of recurrence, second head and neck cancers and other smoking- and alcohol-related diseases. As well as the oncological outcomes, clinicians should be aware that there is a significant pschyco-social element to head and neck cancer. Alteration in speech and swallowing might require adjuncts such as feeding tubes. Patients often need support from many members of the multidisciplinary team involved in managing head and neck cancers for years after the cancer itself has been successfully cured. A standard U.K. follow-up protocol is provided in Table 49.1."
+        },
+        {
+            "id": 10,
+            "question_type": "emq",
+            "question": "1. Staging of oral/oropharyngeal cancer\nMatch the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Stage I",
+                    "2 Stage II",
+                    "3 Stage III",
+                    "4 Stage IV"
+                ],
+                "choices": [
+                    "A A 56-year-old man presents with a lateral tongue cancer, which measures 3 cm with no associated nodal or distant disease.",
+                    "B A 68-year-old presents with a 1-cm cancer of the tonsil with a single ipsilateral enlarged lymph node and no distant disease.",
+                    "C A 76-year-old man presents with a 2-cm floor-of-mouth cancer, palpable low cervical nodes and evidence of metastases in the lung.",
+                    "D A 55-year-old lady presents with a 1.5-cm cancer on the hard palate with no evidence of regional or distant disease."
+                ]
+            },
+            "answer": {
+                "1": "D",
+                "2": "A",
+                "3": "B",
+                "4": "C"
+            },
+            "explanation": "1. D Stage I\nStage I head and neck cancer must be T1 (<2 cm) N0, M0. This diagnosis can be confirmed for surgical cases where lymph nodes are excised but must be assumed in cases with no evidence of nodal disease who are treated with radiation therapy, as no pathology specimen is obtained.\n2. A Stage II\nStage II disease is also limited to the primary site. T2 (2–4 cm), N0, M0 disease. Many of these patients will in fact have occult disease in the neck, but this is only proved if neck dissection is performed. The prefix ‘c' refers to clinical staging (cT2N0M0) versus radiological (r) or pathological (p) staging.\n3. B Stage III\nNeck metastases are considered the strongest prognostic factor in head and neck cancer, halving the chance of survival. A single node increases T1/2 primary cancer to stage III disease. A single node >3 cm in size would be N2a. Multiple nodes on the same side as the primary cancer are called N2b, contralateral nodes are N2c. Any node >6 cm is considered N3. In fact, extra capsular spread is now considered an important prognostic factor but is yet to be formally recognised in the staging systems. Despite this, its presence is used to identify patients who will benefit from postoperative chemotherapy as well as radiation.\n4. C Stage IV\nPatients with advanced nodal or distant disease are considered stage IVa/b, and those with distant metastases are stage IVc (Table 49.2)."
+        },
+        {
+            "id": 11,
+            "question_type": "emq",
+            "question": "2. Reconstruction following surgical resection\nMatch the reconstructive approaches with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Advancement of labial mucosa",
+                    "2 Fibular osseo-cutaneous free flap",
+                    "3 Pectoralis major rotation flap",
+                    "4 Primary closure",
+                    "5 Radial artery forearm free flap"
+                ],
+                "choices": [
+                    "A A 77-year-old man presents with a squamous cell carcinoma invading the posterior mandible who has peripheral vascular disease preventing free flap reconstruction.",
+                    "B A 52-year-old man presents with a less than one-third lower lip squamous cell carcinoma.",
+                    "C A 63-year-old presents with a submandibular gland cancer that has invaded the mandible and requires segmental mandibulectomy.",
+                    "D A 68-year-old woman presents with a 2-cm floor-of-mouth cancer that has invaded the sublingual gland but does not require bony resection.",
+                    "E A 48-year-old presents with premalignant change affecting the exposed mucosa of the entire lower lip."
+                ]
+            },
+            "answer": {
+                "1": "E",
+                "2": "C",
+                "3": "A",
+                "4": "B",
+                "5": "D"
+            },
+            "explanation": "1. E Advancement of labial mucosa\nIn patients who have extensive lower lip changes but who require resection of mucosa only, sufficient mobilisation of the mucosa of the inner lip allows for resurfacing. This provides excellent cosmesis, and the mucosa should be re-approximated along the vermillion border.\n2. C Fibular osseo-cutaneous free flap\nIn patents with adequate peripheral circulation, the fibula provides an excellent reconstructive option following mandibular resection. The flap is reliable and provides sufficient length to reconstruct almost any mandibular defect. In addition, the bone is thick enough to support dental implants once healing has occurred. Skin paddles can be designed to provide oral reconstruction and external reconstruction of skin defects at the same time, if required. Reconstruction with bone prevents the cosmetic deformity seen after soft tissue reconstruction. The projection of the mandible is maintained as is symmetry around the midline. This should be the aim for most mandibular reconstructions.\n3. A Pectoralis major rotation flap\nAlthough bony reconstruction for most mandibular defects is ideal, some patients will lack adequate peripheral vasculature to provide free tissue transfer. There are alternatives to the fibula in provision of vascularised bone, including iliac crest, radius and scapula. However, free tissue transfer adds significant anaesthetic time to the procedure and some patients will be deemed unfit for such a long procedure. Posterior mandibular defects suffer less cosmetic deformity if soft tissue reconstruction is used, and in this case a pectorlais major flap is suitable. This flap, previously the workhorse flap in head and neck surgery, is reliable and can be fashioned to provide a large or small tissue volume for reconstruction.\n4. B Primary closure\nPrimary closure is of course the simplest method of reconstruction. IT should be used only when it will not compromise function. Small lip cancers (<1/3) can be closed primarily. Larger tumours will require local flaps. When closing a lip primarily, most attention should be paid to approximation of the vermillion border. This is cosmetically important as the eye is drawn to this region. The lip should be closed in three layers, which are mucosa, muscle and skin. Wounds closed in this manner have an excellent cosmetic and functional outcome, as the orbicularis oris function remains intact.\n5. D Radial artery forearm free flap\nFollowing resection of a floor-of-mouth cancer, a few factors should be considered. Assuming that a neck dissection is also performed, there may be continuity between the mouth and neck. If this is so, saliva can drain directly in to the neck and create a salivary fistula. Not only does this compromise healing, but prolonged exposure of the great vessels to the digestive enzymes in saliva can lead to catastrophic bleeding. In addition, functional concerns are important. It is not uncommon that primary closure will be feasible. However, if such an approach tethers the tongue to the lower alveolus this will comprise oral function significantly. Not only will tongue movement be limited, but obliteration of the sulcus on the internal aspect of the mandible prevents denture fitting, which further compromises both cosmesis and function.\nIn this setting the ideal reconstruction will isolate the mouth and neck, and at the same time provide sufficient tissue to maintain space for a subsequent dental appliance. The radial artery free flap provides thin, pliable and reliable vascularised tissue with which to reconstruct intra-oral defects."
+        }
+    ]
+}

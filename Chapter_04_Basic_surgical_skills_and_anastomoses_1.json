@@ -1,0 +1,92 @@
+{
+    "chapter_name": "Basic surgical skills and anastomoses",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true about skin incisions?",
+            "options": [
+                "A Skin incisions are best made along tension lines.",
+                "B Incisions should avoid bony prominences and skin creases.",
+                "C The 22-blade scalpel is ideal for all incisions.",
+                "D Incisions should be made bearing in mind cosmesis.",
+                "E Transverse abdominal incisions have fewer respiratory complications."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Skin incisions are best made along Langers' lines (tension lines), which represent the direction of dermal collagen fibres. Therefore, incisions made parallel to these lines result in a good scar, the surgeon's signature, which is the only part of the operation the patient actually sees. They should avoid bony prominences and skin creases and should take into account the final cosmetic result. The latter factor should not however be of paramount importance, as any incision should provide adequate access to make the operation safe and functionally effective. Transverse abdominal incisions cut through fewer dermatomes and hence produce less postoperative pain. Therefore, the patient coughs much better producing less respiratory complications. The 22-blade scalpel is not ideal for all incisions. It is best reserved for making an abdominal incision; the 15-blade is for minor procedures and an 11-blade is for arteriotomy."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. The following statements are true except:",
+            "options": [
+                "A Mass closure technique is the usual method used for abdominal wall.",
+                "B Sutures lose 50% of their tensile strength at the knot.",
+                "C Non-absorbable suture material should be used in the biliary and urinary tract.",
+                "D Synthetic suture materials elicit minimal tissue reaction.",
+                "E Round-bodies needles are used in intestinal surgery."
+            ],
+            "answer": "C",
+            "explanation": "Non-absorbable suture material should not be used in the biliary tract and urinary tract, as they would act as a nidus for a stone. Absorbable sutures should always be used when closing the common bile duct or placing sutures anywhere from the renal pelvis down to the urinary bladder. In closure of the abdominal wall, mass closure technique is the usual method. In this large bites are taken in short steps using nylon or polypropylene (non-absorbable) or polydiaxanone (PDS, slowly absorbable) sutures. The length of suture material used should be at least four times the length of the incision to be closed; this is to minimise the risk of wound dehiscence or incisional hernia. Knot tying, one of the most basic of surgical techniques, should be thoroughly mastered as sutures lose 50% of their strength at the knot. Suture materials are generally classified as synthetic (non-absorbable) and natural (absorbable). Synthetic suture materials produce minimal tissue reaction. Sutures from biological or natural material elicit tissue reaction and hence are unpredictable in their behaviour. The bodies of needles are round, triangular, or flat. Round-bodied needles gradually taper to a point and are designed to separate tissue fibres, as in intestinal and cardiovascular surgery. Triangular needles have cutting edges and are used when tough or dense tissue such as skin and fascia are to be sutured."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. Which of the following statements are true?",
+            "options": [
+                "A The current favoured technique of bowel anastomosis is the one-layer extramucosal interrupted method.",
+                "B The bowel must be prepared prior to any anastomosis.",
+                "C It is essential that in end-to-end anastomosis the bowel ends should match the diameter.",
+                "D In vascular anastomosis, polypropylene is the suture material to be used.",
+                "E A transverse arteriotomy should always be used to prevent stenosis after closure."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D"
+            ],
+            "explanation": "The current favoured technique of bowel anastomosis is one-layer extramucosal closure, because it causes the least tissue necrosis and luminal narrowing. The suture must include the submucosa, which, by virtue of its high collagen content, is the most stable suture layer. Several studies have shown that there are very little differences between the single-layer and two-layer anastomoses as long as the basic surgical principles are followed, which include ensuring a good blood supply, tension-free anastomosis and use of atraumatic bowel clamps to minimise contamination. In end-to-end anastomosis, the bowel ends must be of similar diameter. Following resection for intestinal obstruction when the bowel ends to be anastomosed are unequal, a side-to-side or end-to-side anastomosis is done. In case the discrepancy is minimal, end-to-end anastomosis can be carried out by making a cut into the anti-mesenteric border (Cheatle split) of the distal collapsed lumen to bring the diameter into line with that of the proximal bowel. In vascular anastomosis when prosthetic material or graft is used, the anastomosis will never be integrated into the graft tissues. Therefore, the suture line needs to be permanent. Hence, polypropylene, as it is not biodegradable, is the ideal suture to be used. When making an arteriotomy, particularly for a femoral embolectomy, a transverse arteriotomy, although it will not stenose on closure, is not suitable as it may not give adequate access. A longitudinal arteriotomy is preferable and is closed with a vein patch. In arterial anastomosis the needle should always go from within to without on the downstream edge of the vessel to prevent creating a dissection and fix any plaque. Bowel preparation prior to anastomosis is a principle of the past. Conventional bowel preparation provides little benefit and may be harmful. However, meticulous prevention of spillage of bowel contents must be followed."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "4. Which of the following statements are false?",
+            "options": [
+                "A A drain is best inserted through the end of a wound so as not to have another scar.",
+                "B 'When in doubt drain' should be the motto.",
+                "C Drains are mandatory after a thoracotomy.",
+                "D Drains are usually used following exploration of the common bile duct.",
+                "E During removal of a chest drain, the patient should be asked to do a Valsalva manoeuvre."
+            ],
+            "answer": [
+                "A",
+                "B"
+            ],
+            "explanation": "Drains are best placed through a separate incision. They should not be brought out through the end of an incision, because this leads to an increased chance of wound infection. It was Lawson Tait in 1887 who said ‘When in doubt drain'. This dictum, however, is no longer true. The use of drains depends upon a surgeon's individual preference and type of surgery. Again, after the same operation one surgeon might drain whilst another might not. Protagonists believe that drains remove collections within a wound or peritoneal cavity and might indicate postoperative haemorrhage; those not in favour of drains claim that they increase the incidence of wound infections, abdominal pain and hospital stays, and that they reduce pulmonary function. Following a thoracotomy, drains are always inserted to remove air and blood; they are connected to an underwater seal to which sometimes a suction pressure of 10 to 20 mm Hg is applied. After exploration of the common bile duct most surgeons insert a T-tube to remain in place for 10 days. This is to allow free postoperative bile drainage whilst there is spasm at the sphincter of Oddi; additionally, when a postoperative T-tube cholangiogram is done after 10 days, it helps to show up any residual stones that might have been left inadvertently. T-tubes are left for 10 days to prevent intraperitoneal bile leakage after removal. When removing a chest drain, the patient is always asked to take a deep breath and hold it (Valsalva manoeuvre) to prevent air being sucked into the pleural cavity during removal of the tube."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "5. Which of the following statements are true?",
+            "options": [
+                "A The two types of diathermy in use are monopolar and bipolar.",
+                "B Monopolar diathermy is ideal for microsurgery and delicate procedures.",
+                "C Bipolar diathermy is ideal for patients who have pacemakers.",
+                "D Accidental burns are more common when monopolar diathermy is used.",
+                "E Capacitance coupling can occur when a metal port is used in laparoscopic surgery."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "There are two types of diathermy, monopolar and bipolar. The principle is used to coagulate, cut and fulgurate. The most common type is monopolar diathermy where normal electric current is converted into high-frequency alternating current (HFAC). In this, HFAC is passed through the patient's body tissues and returned to the machine by a large surface plate (70 cm²) called the indifferent electrode. The surface area of contact of the active electrode is small compared with the indifferent electrode; this concentrated powerful current produces heat at the operation site, thus exercising the desired effect. In bipolar diathermy, the HFAC passes from the diathermy machine down one prong of the forceps through to the tissue being held and returned to the machine via the second prong thus concentrating the desired effect on the small piece of tissue held by the forceps. Therefore, bipolar diathermy is ideal for patients who have a pacemaker because current does not flow through other tissues of the body. Accidental burns is more common in monopolar diathermy for the following reasons: the indifferent electrode may be incorrectly applied with inadequate contact, the patient being earthed by metal contact on the operating table, there may be faulty insulation of the diathermy leads and accidental contact of the active electrode may occur with other metal instruments in use. Capacitance coupling is the cause of an accidental burn injury to intraperitoneal structures during laparoscopic surgery. For example, when an insulated diathermy hook is passed through a metal laparoscopic port, HFAC is transferred from the insulated instrument to the metal port, which, if in contact with an intra-abdominal organ, results in burning the organ, say a part of the bowel. This danger is avoided by using entirely plastic ports. Monopolar diathermy is never to be used for microsurgery and delicate procedures. Bipolar diathermy should be the choice."
+        }
+    ]
+}

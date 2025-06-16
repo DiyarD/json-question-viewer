@@ -1,0 +1,131 @@
+{
+    "chapter_name": "The nose and paranasal sinuses",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?\nA Kiesselbach's plexus is located on the posterior nasal septum.\nB The nose and paranasal sinuses receive blood supply from both the external and internal carotid artery.\nC The upper and lower lateral cartilages form the cartilaginous nasal septum.\nD The sphenoid sinus ostium opens onto the lateral nasal wall.\nE Intracranial complications may result from spread of nasal sepsis via the ophthalmic vein.",
+            "options": [
+                "A Kiesselbach's plexus is located on the posterior nasal septum.",
+                "B The nose and paranasal sinuses receive blood supply from both the external and internal carotid artery.",
+                "C The upper and lower lateral cartilages form the cartilaginous nasal septum.",
+                "D The sphenoid sinus ostium opens onto the lateral nasal wall.",
+                "E Intracranial complications may result from spread of nasal sepsis via the ophthalmic vein."
+            ],
+            "answer": [
+                "B",
+                "E"
+            ],
+            "explanation": "The nasal cavity and sinuses receive their blood supply via both the external and internal carotid arteries. The external carotid artery supplies the interior of the nose via the maxillary and sphenopalatine arteries. Any of these arteries may be ligated in the surgical management of epistaxis, although the endoscopic approach to the nose now facilitates a minimally invasive approach to the sphenopalatine artery as first-line therapy. The greater palatine artery (terminal branch of the maxillary artery) supplies the anterior inferior septum. The anterior and posterior ethmoidal arteries are branches of the internal carotid artery. Together, this complex arterial supply forms Kiesselbach's plexus on the anterior part of the nasal septum. Venous drainage is via the ophthalmic and facial veins. Intracranial sepsis might result from spread of infection in the nose via the ophthalmic veins and communication with the cavernous sinus.\nThe septum consists of the anterior quadrilateral cartilage, bony perpendicular plate of the ethmoid and vomer. The upper and lower lateral cartilages form the outer nasal skeleton, together with the nasal bones and frontal process of the maxilla. All of the ostea of the nasal sinuses open onto the lateral nasal wall except the sphenoid sinus, which is situated posterosuperiorly within the nose (Figure 46.1)."
+        },
+        {
+            "id": "2",
+            "question_type": "msq",
+            "question": "2. Which of the following statements are true?\nA The reduction of a nasal fracture should be performed within the first week of injury.\nB Septal haematomas do not require drainage.\nC Septal deviation following trauma requires a formal septoplasty.\nD Clear rhinorrhoea following violent frontal nasal trauma should raise concerns of a CFS leak.\nE Catastrophic haemorrhage following nasal trauma is usually due to trauma to the posterior ethmoidal artery.",
+            "options": [
+                "A The reduction of a nasal fracture should be performed within the first week of injury.",
+                "B Septal haematomas do not require drainage.",
+                "C Septal deviation following trauma requires a formal septoplasty.",
+                "D Clear rhinorrhoea following violent frontal nasal trauma should raise concerns of a CFS leak.",
+                "E Catastrophic haemorrhage following nasal trauma is usually due to trauma to the posterior ethmoidal artery."
+            ],
+            "answer": [
+                "C",
+                "D"
+            ],
+            "explanation": "Blunt trauma to the front of the nose may result in fractures of the nasal bones and cartilages. Catastrophic haemorrhage tends to result from a tear in the anterior ethmoidal artery. Violent trauma to the frontal area of the nose can result in fracture of the frontal and ethmoidal sinus, which might extend into the anterior cranial fossa resulting in dural tears and cerebrospinal fluid (CSF) leak. Clear rhinorrhoea should raise suspicion of a CSF leak. Suspected nasal fractures should be reviewed at 4 to 5 days when the soft-tissue swelling has reduced. Significant nasal bony deformity can be corrected by manipulation under local or general anaesthetic. This should be carried out within 3 weeks of injury, whilst the bony fragments are still mobile and soft-tissue swelling has subsided. Blunt trauma may lead to lateral deviation of the nasal septum and consequent nasal obstruction, which requires a formal septoplasty to correct. This is usually performed at least 6 months following the injury. A septal haematoma, due to haemorrhage into the sub-mucoperichondrial plane, requires urgent incision and drainage to prevent septal abscess formation with the potential for intra-cranial sepsis. In addition, the resulting cartilage necrosis leads to nasal collapse."
+        },
+        {
+            "id": "3",
+            "question_type": "msq",
+            "question": "3. Which of the following statements are true?\nA A septal button prosthesis is used in the management of perforations.\nB Septal perforations are usually treated successfully with surgical closure.\nC Septal perforations usually heal spontaneously.\nD Septal perforations may be associated with autoimmune conditions.\nE Nasal obstruction is not a symptom associated with a septal perforation.",
+            "options": [
+                "A A septal button prosthesis is used in the management of perforations.",
+                "B Septal perforations are usually treated successfully with surgical closure.",
+                "C Septal perforations usually heal spontaneously.",
+                "D Septal perforations may be associated with autoimmune conditions.",
+                "E Nasal obstruction is not a symptom associated with a septal perforation."
+            ],
+            "answer": [
+                "A",
+                "D"
+            ],
+            "explanation": "A septal perforation (Figure 46.2) results in turbulent nasal airflow, resulting in a sensation of nasal obstruction, crust formation and epistaxis. These symptoms generally occur with larger perforations (>1 cm). Patients may report whistling on breathing with smaller perforations. Large perforations can reduce support of the nasal dorsum, resulting in a saddle-nose deformity and collapse of the middle third of the nose (Figure 46.3). Septal perforations may result from iatrogenic injury (following submucosal resection [SMR] or septoplasty) or autoimmune conditions, e.g., Wegner's granulomatosis. Septal perforations rarely heal spontaneously. Surgical repair with sliding mucoperichondrial flaps or grafts utilising ear cartilage have been described, although success rates are low. Conservative treatment in the form of custom-made silastic button prosthesis can be inserted to occlude the perforation in particular for perforations larger than 1 cm diameter."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "4. Which of the following statements are true?\nA Nasal polyps are a sign of cystic fibrosis in 10% of children with nasal polyps.\nB Nasal polyps arising from the ethmoid sinuses are of the antrochoanal type.\nC Nasal polyps rarely present with nasal obstruction.\nD Nasal polyps are characteristically painful when palpated with a probe.\nE Oral steroids are never used in the treatment of simple nasal polyps.",
+            "options": [
+                "A Nasal polyps are a sign of cystic fibrosis in 10% of children with nasal polyps.",
+                "B Nasal polyps arising from the ethmoid sinuses are of the antrochoanal type.",
+                "C Nasal polyps rarely present with nasal obstruction.",
+                "D Nasal polyps are characteristically painful when palpated with a probe.",
+                "E Oral steroids are never used in the treatment of simple nasal polyps."
+            ],
+            "answer": "A",
+            "explanation": "Patients with nasal polyps usually present with nasal obstruction, watery rhinorrhoea and anosmia. Nasal polyps are insensate and mobile, which aids distinction form a hypertrophied inferior turbinates on clinical examination. Antrochoanal polyps are large single polyps arising from the maxillary sinus. Nasal polyps are rare in children and should raise the suspicion of cystic fibrosis occurring in 10% of cases. The use of a short course of systemic steroids is advocated in medical treatment of nasal polyps, reducing the size of the polyps and improving symptoms of nasal obstruction. Surgery may be required in cases of extensive nasal polyps or those refractory to medical treatment (Figure 46.4)."
+        },
+        {
+            "id": "5",
+            "question_type": "msq",
+            "question": "5. Which of the following statements is true?\nA Nose picking is one of the most common causes of epistaxis.\nB Juvenile angiofibroma affects adolescent girls.\nC Elderly people bleed from the posterior part of the nose.\nD Oestrogen is used in the management of epistaxis due to Osler's disease.\nE Ligation of the common carotid artery is used to secure haemostasis in uncontrolled life threatening epistaxis.",
+            "options": [
+                "A Nose picking is one of the most common causes of epistaxis.",
+                "B Juvenile angiofibroma affects adolescent girls.",
+                "C Elderly people bleed from the posterior part of the nose.",
+                "D Oestrogen is used in the management of epistaxis due to Osler's disease.",
+                "E Ligation of the common carotid artery is used to secure haemostasis in uncontrolled life threatening epistaxis."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D"
+            ],
+            "explanation": "Nose picking is a common cause of anterior epistaxis in children and the elderly. The causes of epistaxis can be divided into local and systemic (see Table 46.1) In the elderly, arteriosclerosis and hypertension are the underlying causes of arterial bleeding from the posterior part of the nose.\nJuvenille nasaopharyngeal angiofibroma is a benign tumour arising from the base of the medial pterygoid plate and the region of the sphenopalatine artery foramen. It is a benign vascular tumour consisting of fibrous tissue and is most common in adolescent males.\nOsler Weber Rendu disease (hereditary haemorrhagic telangectsia) is an autosomal dominant disorder that leads to multifocal bleeding from thin-walled vessels deficient in muscle and elastic tissue (Figure 46.5). The diagnostic criteria for HHT are as follows:\n1 Recurrent and spontaneous epistaxis, which may be mild to severe.\n2 Multiple telangectasias on the skin of the hands, lips, or face, or inside of the nose or mouth.\n3 Arteriovenous malformations or telangiectasias in the internal organs, including the lungs, brain, liver, intestines, stomach and spinal cord.\n4 A family history (i.e., first-degree relative such as brother, sister, parent or child who meets these same criteria for definite HHT or has been genetically diagnosed).\nEpistaxis should be managed in a stepwise manner. Initial first aid measures (sitting forward, pinching the soft part of the nose and ice packs) and resuscitation as required, cauterization of bleeding points or prominent vessels may stop the bleeding. Anterior and posterior nasal packing may be required if bleeding continues. Surgical intervention may be required if conservative measures fail to control the bleeding. Arterial ligation of: anterior and posterior ethmoid arteries, sphenopalatine artery, maxillary artery via the maxillary antrum and in severe life threatening epistaxis ligation of the external carotid may be required."
+        },
+        {
+            "id": "6",
+            "question_type": "mcq",
+            "question": "6. Which of the following statements are true?\nA Aerobic infection is more commonly due to dental sepsis.\nB MRI is the imaging modality of choice for frontoethmoiditis.\nC Antral lavage is a useful diagnostic procedure performed via the inferior meatus.\nD The most common causative pathogen in acute sinusitis is Staphylococcus aureus.\nE Cavernous sinus thrombosis is not a complication of frontoethmoidal sinusitis.",
+            "options": [
+                "A Aerobic infection is more commonly due to dental sepsis.",
+                "B MRI is the imaging modality of choice for frontoethmoiditis.",
+                "C Antral lavage is a useful diagnostic procedure performed via the inferior meatus.",
+                "D The most common causative pathogen in acute sinusitis is Staphylococcus aureus.",
+                "E Cavernous sinus thrombosis is not a complication of frontoethmoidal sinusitis."
+            ],
+            "answer": "C",
+            "explanation": "Lavage of the maxillary antrum may be performed under general or local anaesthesia. It is a useful diagnostic procedure in both confirming the presence of pus and obtaining samples for microbiology. The procedure involves inserting a trocar and cannula into the maxillary antrum via the inferior meatus. The most common causative organisms in maxillary sinusitis are Streptococcus pneumonia and Haemophilis influenza. Dental sepsis more commonly results in anaerobic infection. Computer tomography scanning is the modality of choice to investigate sinus disease. Coronals, axials and saggital views should be evaluated in particular fro frontoethmoidal disese. Complications from acute ethmoidal sinusitis include periorbital cellulitis and cavernous sinus thrombosis. In such acute cases, contrast enhanced imaging including the sinuses, orbit and cranial cavity should be performed to assess the extent of disease and identify associated complications."
+        },
+        {
+            "id": "7",
+            "question_type": "matching",
+            "question": "Match the diagnoses with the clinical scenarios that follow:",
+            "options": {
+                "items": [
+                    "1 Adenocarcinoma ethmoid sinus",
+                    "2 Inflammatory nasal polyps",
+                    "3 Juvenile angiofibroma",
+                    "4 Maxillary sinusitis",
+                    "5 Periorbital cellulitis"
+                ],
+                "choices": [
+                    "A A 53-year-old man presents with long-standing bilateral nasal obstruction, poor sense of smell and clear nasal discharge.",
+                    "B A 16-year-old boy presents with left-sided nasal obstruction and recurrent sided epistaxis. A CT scan reveals a mass causing anterior bowing of the posterior maxillary wall.",
+                    "C A 3-year-old presents with raised temperature and right eye swelling following an URTI.",
+                    "D A 35-year-old woman presents with recent onset headache, nasal obstruction and unilateral upper dental pain.",
+                    "E A 68-year-old retired wood worker presents with epistaxis, right-sided nasal obstruction."
+                ]
+            },
+            "answer": {
+                "1": "E",
+                "2": "A",
+                "3": "B",
+                "4": "D",
+                "5": "C"
+            },
+            "explanation": "1. E Adenocarcinoma ethmoid sinus\nAdneocarcinoma has an association with hardwood dust involved in furniture manufacture. Ethmoidal tumours often present late, as their early symptoms mimic those of chronic rhinosinusitis. Sino-nasal malignancies can cause nasal obstruction and epistaxis, progressing to diplopia and proptosis in advanced disease. CT scanning of the paranasal sinuses, neck and chest to delineate the extent of the lesion, bone erosion and for staging. MRI of the sinuses, orbit and brain is also helpful for determining invasion of the soft tissue and base of skull. Biopsy is required to confirm the diagnosis. In resectable disease, optimal treatment is surgery followed by radiation. Proximity to critical structures such as the orbital apex, carotid artery and brain result in a significant proportion of cases being considered unresectable.\n\n2. A Inflammatory nasal polyps\nSymptoms due to nasal polyps tend to present gradually over years. Nasal obstruction is the predominant symptom, however, the patient may experience anosmia, rhinorrhoea and postnasal drip. Long-standing gross nasal polyposis may eventually cause widening of the nasal bridge (hypertelorism).\nNasal polyps most commonly occur in the ethmoid sinuses and tend to be bilateral. Patients may have an underlying allergy, e.g., house dust mite or genetic predisposition, e.g., late-onset asthma, aspirin intolerance and nasal polyps known as ‘Samter's triad.' The nasal polyposis in these patients tends to be extensive and a low-salicylate diet might be helpful. Treatment of nasal polyps depends on the severity of symptoms and extent of disease. Medical treatment should be trialled initially and varies from topical steroid drops or spray to a short course of oral steroids for severe symptoms. Doxycycline has also been shown to reduce polyp size and postnasal drip symptoms. For large polyps filling the nasal cavity or patients who fail medical therapy, surgical treatment with functional endoscopic sinus surgery and polypectomy should be considered. Surgery is not a cure for polyps and the aim should be to improve the nasal airway to allow instillation of topical medical therapy. Preoperative CT scanning should be performed to the relevant anatomy for surgical planning. Preoperative preparation with oral steroids has been shown to reduce intra-operative bleeding and potential surgical complications.\n\n3. B Juvenile angiofibroma\nJuvenille nasaopharyngeal angiofibroma is a benign tumour arising from the base of the medial pterygoid plate and region of the sphenopalatine artery foramen. It is a benign vascular tumour consisting of fibrous tissue. It tends to occur in adolescent males.\nSymptoms include progressive nasal obstruction, recurrent severe epistaxis, hyponasal speech and unilateral glue ear, secondary to obstruction of the Eustachian tube orifice. Extension of the tumour into the ethmoidal region can cause bowing of the medial orbital wall. Investigation of such a mass will involve both CT and MRI but not biopsy, given the potential for bleeding. Preoperative embolisation of feeding vessels is used to minimise perioperative blood loss. Recurrence might recur following surgery if not completely excised.\n\n4. D Maxillary sinusitis\nAcute rhinosinusitis is defined as acute inflammation of the lining of the nose and paranasal sinuses lasting for up to 4 weeks. It is usually due to a secondary bacterial infection following a viral upper-respiratory tract infection. Maxillary sinus infection is occasionally due to dental sepsis. Clinical features include nasal congestion, mucopurulent nasal discharge and facial pain. Treatment is with oral broad-spectrum antibiotics nasal decongestants for 2 weeks. Underlying dental disease should also be treated. Patients who fail to respond to medical therapy should be considered for maxillary antral lavage, or functional endoscopic sinus surgery, to facilitate decompression of the sinus.\n\n5. C Periorbital cellulitis\nOrbital cellulitis is a sight-threatening condition and therefore a medical emergency. It is usually seen in children who present with upper-respiratory tract symptoms, pyrexia and both chemosis and erythema of the preseptal orbital tissues. Progression of infection leads to involvement of the post-septal tissues, which raises the intraorbital pressure resulting in proptosis and reduced eye movements. As the infection progresses, abscess formation might occur. A collection within the orbit increases the intraorbital pressure and might result in ischaemia of the optic nerve, leading to blindness. An urgent contrast-enhanced CT scan of the paranasal sinuses and orbits and brain should be performed. Early identification and prompt treatment is vital. Intravenous broad-spectrum antibiotics should be commenced together with nasal decongestants. If an abscess is present on CT scanning it should be drained urgently, usually via an external approach."
+        }
+    ]
+}

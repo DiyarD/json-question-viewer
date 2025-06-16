@@ -1,0 +1,93 @@
+{
+    "chapter_name": "Metabolic response to trauma",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "1. Which one of the following statements about homeostasis is false?",
+            "options": [
+                "A It is defined as a stable state of the normal body.",
+                "B The central nervous system, heart, lungs, kidneys and spleen are the essential organs that maintain normal homeostasis.",
+                "C Elective surgery should cause little disturbance to homeostasis.",
+                "D Emergency surgery should cause little disturbance to homeostasis.",
+                "E Return to normal homeostasis after an insult (operation, injury, infection) would depend upon the presence of comorbid conditions."
+            ],
+            "answer": "D",
+            "explanation": "Emergency surgery causes a marked disturbance in homeostasis. This disturbance is directly proportional to the degree of injury and inversely proportional to the fitness of the patient prior to the event. The greater the injury the more pronounced is the physiological, metabolic and immunological changes, all of which are graded according to the magnitude of the initial insult. Elective surgery causes minimal disturbance because the patient is optimised and precautions taken against comorbid conditions prior to an operation.\nHomeostasis is the normal physiological state of the human body – the milieu intérieur, a term coined by Claude Bernard. The vital organs – the brain, heart, lungs and kidneys, and, to a lesser extent, the spleen – play an essential part in its maintenance. The brain, heart and kidneys by their specific ability of autoregulation play an added role in response to trauma. Fluid and electrolyte conservation is the vital first stage (Figure 1.1). A return to normal physiology is always affected by the presence of ongoing complications or secondary insults, such as ischaemia from hypotension, inadequate oxygenation from hypoxia, or infection and complications such as compartment syndrome or deep venous thrombosis (see Figure 1.2)."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. Neuroendocrine pathways of the stress response consist of the follow-ing except:",
+            "options": [
+                "A Spinal cord",
+                "B Thalamus",
+                "C Hypothalamus",
+                "D Pituitary",
+                "E Thyroid"
+            ],
+            "answer": "E",
+            "explanation": "The thyroid does not form a part of the neuroendocrine pathway to the stress response. Following any form of injury, the afferent nociceptive pathways consist of the spinal cord, thalamus, hypothalamus and the pituitary. The hypothalamus secretes corticotrophin-releasing factor (CRF), which acts on the anterior pituitary to secrete adrenocorticotrophic hormone (ACTH), which, in turn, acts on the adrenal glands to release cortisol (Figure 1.3). Classically it has been described as the ‘fight or flight' response. This occurs as a result of a concerted interplay between neural, endocrine and inflammatory factors (Figure 1.4).\nThe stress response is graded. For instance, a 30-year-old fit woman undergoing an elective laparoscopic cholecystectomy will elicit a minor transient stress response compared to a 70-year-old involved in a road traffic accident who has to undergo major orthopaedic surgery. In the latter case, there is increase in metabolism and nitrogen excretion with immunological and metabolic changes reflected in the altered physiology – pyrexia, tachycardia and tachypnoea. In such a patient, the stress response can be modified by anticipating and preventing complications by management in an intensive care unit (ICU) and by attention to nutrition and organ support."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. Changes in body metabolism that occur in response to trauma are the following except:",
+            "options": [
+                "A Lipolysis",
+                "B Gluconeogenesis",
+                "C Protein breakdown",
+                "D Hypoglycaemia",
+                "E Hypermetabolism"
+            ],
+            "answer": "D",
+            "explanation": "It is hypergylcaemia and not hypolglycaemia that occurs in stress response. There is an increase in glucagon and reduction of insulin producing the ‘diabetes of stress'. Marked changes occur in the body metabolism – lipolysis, hepatic gluconeogenesis, skeletal muscle protein breakdown, hypergylcaemia and hypermetabolism.\nThe changes that occur in body metabolism in the stress response have been divided into the 'ebb and flow' phases, a term that Sir David Cuthbertson first used in 1932. The initial ebb phase (a holding pattern), which lasts for a few hours, is characterized by the classical features of shock – hypovolaemia, hypothermia, reduced cardiac output and lactic acidosis (Figure 1.5a and 1.5b). The hormones responsible for the ebb phase are catecholamines, cortisol and aldosterone, the latter activated by the renin–angiotensin–aldosterone system (RAAS) (Figure 1.6).\nThe ebb phase, following resuscitation, gives way to the flow phase (Figure 1.7). This phase concentrates on recovery and repair. There is increased basal metabolic rate, increased cardiac output, increased body temperature, leukocytosis and gluconeogenesis. The flow phase initially consists of the catabolic phase, which lasts up to 10 days, followed by the anabolic phase, which lasts for weeks. Obviously the duration of these phases will depend upon the severity of injury, effectiveness of management, presence of any comorbidities and any complications that might occur."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. Which of the following statements about mediators are true?",
+            "options": [
+                "A They consist of neural, endocrine and inflammatory.",
+                "B Every endocrine gland plays a part.",
+                "C They play an important role in the flow phase.",
+                "D These mediators are released over several days.",
+                "E They play an important role in the recovery process."
+            ],
+            "answer": "D",
+            "explanation": "The mediators are released immediately within the first few hours. The two immune systems are the innate (mainly macrophages) and the adaptive (T cells and B cells) systems. These produce the mediators – interleukin -1(IL-1), IL-6, IL-8 and tumour necrosis factor alpha (TNFα) (Figure 1.8). They act on the hypothalamus to cause pyrexia. The pituitary, adrenal and pancreas play an integral role in this response; the thyroid and gonads play a minor role. Proinflammatory cytokines thus released result in systemic inflammatory response syndrome (SIRS). At this stage, endogenous cytokine antagonists appear to control the proinflammatory cytokines, thus keeping in check the SIRS. If the response to SIRS is inadequate, multiple organ dysfunction syndrome (MODS) occurs, which is a step away from death."
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "5. Which of the following statements are true of optimal perioperative care?",
+            "options": [
+                "A Surgery should be carried out by the use of adequate large incisions to give good exposure.",
+                "B Adequate pain relief is essential.",
+                "C Early mobilisation.",
+                "D Avoid ongoing insults and secondary trauma.",
+                "E Maintain good fluid load with several litres of normal saline."
+            ],
+            "answer": [
+                "B",
+                "C",
+                "D"
+            ],
+            "explanation": "Adequate pain relief is essential to reduce the stress response following surgical trauma. Blocking afferent painful stimuli by epidural analgesia is an efficient method of postoperative pain relief after major abdominal and thoracic surgery. It has the advantage of continuous analgesia by infusion (or with patient-controlled analgesia, PCA) through a catheter in the epidural space. A weak local anaesthetic with opioids (e.g., fentanyl) is used. This allows early mobilisation, thus reducing the incidence of deep vein thrombosis and chest complications.\nMinimal access surgery instead of open surgical incisions is well known to reduce the stress response and return the patient to an early postoperative normal homeostasis. Steps should be taken to prevent any postoperative ongoing insults such as infection, ischaemia, inadequate oxygenation and secondary trauma such as acute compartment syndromes (limb and abdominal). It is important to avoid excessive administration of intravenous fluids (saline) and prolonged preoperative starvation to hasten recovery."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. The following statements are true regarding Enhanced Recovery After Surgery (ERAS) programmes except:",
+            "options": [
+                "A It optimises rehabilitation following major surgery.",
+                "B It reduces hospital stay.",
+                "C Patient engagement is an integral part.",
+                "D It is only used in colorectal surgery.",
+                "E Blocking afferent painful stimuli is important in reducing stress response."
+            ],
+            "answer": "D",
+            "explanation": "Although the concept of ERAS was originally started in colorectal surgery it is now used across all surgical specialties. Enhanced recovery, also known as Rapid or Accelerated Recovery or Fast Track surgery, is an evidence-based innovative approach to the preoperative, intraoperative and postoperative care of patients undergoing elective surgery. It improves patient outcomes by speeding postoperative recovery, thus reducing the stress response following surgery.\nFirst developed in Copenhagen by Professor Henrik Kehlet in 1997, it has been used in the United Kingdom since 2002. The concept optimises rehabilitation following major surgery with better outcomes and reduced hospital stay enabling faster postoperative recovery. This is achieved through patient engagement by shared decision making. This results in improved clinical outcomes and a better patient experience from a shorter hospital stay. As a final outcome, more patients are treated in the system, which is thus more streamlined."
+        }
+    ]
+}

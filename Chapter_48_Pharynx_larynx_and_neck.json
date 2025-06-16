@@ -1,0 +1,272 @@
+{
+    "chapter_name": "Pharynx, larynx and neck",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "1. Which of the following statements is\nfalse?\nA The nasopharynx contains the fossa of\nRosenmüller.\nB The oropharynx contains the adenoids.\nC The oropharynx contains the palatine\ntonsils.\nD The oropharynx is bounded inferiorly by\nthe superior border of the epiglottis.\nE The hypopharynx is bounded inferiorly\nby the cricoid cartilage.",
+            "options": [
+                "A The nasopharynx contains the fossa of Rosenmüller.",
+                "B The oropharynx contains the adenoids.",
+                "C The oropharynx contains the palatine tonsils.",
+                "D The oropharynx is bounded inferiorly by the superior border of the epiglottis.",
+                "E The hypopharynx is bounded inferiorly by the cricoid cartilage."
+            ],
+            "answer": "B",
+            "explanation": "The nasopharynx lies anterior to the first cervical vertebra and has the openings of the Eustachian tubes in its lateral wall, behind which lie the pharyngeal recesses, the fossae of Rosenmüller. The adenoids are situated submucosally at the junction of the roof and posterior wall of the nasopharynx.\nThe oropharynx extends from the anterior tonsillar pillar to the posterior pharyngeal wall from the level of the hard palate to the level of the hyoid. The oropharynx contains the palatine tonsils, base of tongue, soft palate and posterior pharyngeal wall. The palatine tonsils are part of Waldeyer's ring, a complete ring of lymphoid tissue, together with the adenoids and lingual tonsils on the posterior third of the tongue.\nThe laryngeal inlet forms the superior boundary of the hypopharynx. Its inferior border is the lower border of the cricoid cartilage where it continues into the oesophagus. The hypopharynx is commonly divided into three areas – the paired pyriform fossae, posterior pharyngeal wall and post-cricoid area. The mucosa of these areas is, however, continuous so disease processes, such as squamous carcinoma, can easily involve more than one area and might also spread submucosally."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. The parapharyngeal space contains all\nof the following except:\nA Cervical sympathetic trunk.\nB Internal jugular vein.\nC Carotid vessels.\nD Cranial nerve VII.\nE Cranial nerve XII.",
+            "options": [
+                "A Cervical sympathetic trunk.",
+                "B Internal jugular vein.",
+                "C Carotid vessels.",
+                "D Cranial nerve VII.",
+                "E Cranial nerve XII."
+            ],
+            "answer": "D",
+            "explanation": "The parapharyngeal space is a cone-shaped potential space, which lies one on either side, lateral to the pharynx. The base is situated at the skull base and the apex is at the greater cornu of the hyoid bone. The medial wall is formed by the visceral layer of the deep layer of deep cervical fascia, which overlies the lateral pharyngeal wall. The lateral wall is the superficial layer of deep cervical fascia, and fascia overlying the mandible, the medial pterygoid muscle and parotid gland. It contains the carotid vessels, internal jugular vein, deep cervical lymph nodes, the last four cranial nerves and the cervical sympathetic trunk. Dental and tonsil infections might track through this space to the superior mediastinum. Patients with parapharyngeal space infection present with trismus due to inflammation and spasm of the medial pterygoid muscle and drooling and hold their head in a slightly flexed position."
+        },
+        {
+            "id": 3,
+            "question_type": "msq",
+            "question": "3. Which of the following statements\nabout the larynx are true?\nA The cricoid cartilage is the only complete\nring of cartilage in the airway.\nB The sensory nerve supply to the larynx\nis from branches of the vagus nerve (X).\nC The main motor nerve supply to the\nlarynx is from the superior laryngeal\nnerve.\nD Posterior cricoarytenoid is the only\nadductor of the vocal cords.\nE Serves to protect the lower respiratory\ntract.",
+            "options": [
+                "A The cricoid cartilage is the only complete ring of cartilage in the airway.",
+                "B The sensory nerve supply to the larynx is from branches of the vagus nerve (X).",
+                "C The main motor nerve supply to the larynx is from the superior laryngeal nerve.",
+                "D Posterior cricoarytenoid is the only adductor of the vocal cords.",
+                "E Serves to protect the lower respiratory tract."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "The cricoid cartilage is the only complete ring in the entire airway and bounds the subglottis. This is the most common site for stenosis from prolonged endotracheal tube intubation.\nThe sensory nerve supply to the larynx above the vocal folds is from the superior laryngeal nerve and below the vocal folds is from the recurrent laryngeal nerve. Both these nerves are branches of the vagus nerve (X). The motor nerve supply to the larynx is from the recurrent laryngeal nerve, which is a branch of the vagus nerve and supplies all intrinsic muscles. The posterior cricoarytenoid is the only abductor the vocal folds. All other intrinsic muscles adduct the cords. As the recurrent laryngeal nerve supplies all of the intrinsic muscles of the larynx, damage to this nerve or to the vagus nerve will cause paralysis of the vocal fold resulting in hoarseness. Damage to the superior laryngeal nerve, which runs close to the superior pole of the thyroid, will cause a change in voice, which may only be detectable whilst singing.\nThe primary function of the larynx is to protect the lower respiratory tract. The larynx is well developed for phonation in the human and also helps control pressure during the respiratory cycle."
+        },
+        {
+            "id": 4,
+            "question_type": "msq",
+            "question": "4. Which of the following statements\nabout adenoidectomy are true?\nA Adenoid tissue forms part of\nWaldeyer's ring and is located in the\noropharynx.\nB Adenoid tissue hypertrophies with\nincreasing age.\nC Adenoidectomy may be indicated in\nobstructive sleep apnoea.\nD Size of adenoid tissue alone is an\nindication for adenoidectomy.\nE Adenoidectomy is indicated in some\ncases of persistent otitis media with\neffusion (OME).",
+            "options": [
+                "A Adenoid tissue forms part of Waldeyer's ring and is located in the oropharynx.",
+                "B Adenoid tissue hypertrophies with increasing age.",
+                "C Adenoidectomy may be indicated in obstructive sleep apnoea.",
+                "D Size of adenoid tissue alone is an indication for adenoidectomy.",
+                "E Adenoidectomy is indicated in some cases of persistent otitis media with effusion (OME)."
+            ],
+            "answer": [
+                "C",
+                "E"
+            ],
+            "explanation": "The most common cause of an enlarged adenoid is physiological hypertrophy. The size of the adenoid alone is not an indication for removal. It is often associated with hypertrophy of the other lymphoid tissues of Waldeyer's ring. If excessive hypertrophy causes blockage of the nasopharynx in association with tonsil hypertrophy, the upper airway might become compromised during sleep causing obstructive sleep apnoea. Adenoid tissue can be removed alone or in conjunction with a tonsillectomy.\nThe indications for adenoidectomy are the following:\n• Obstructive sleep apnoea associated with post-nasal obstruction\n• Post-nasal discharge\n• Recurrent acute otitis media or prolonged serous otitis media, usually longer than\n3 months' duration\n• Recurrent rhinosinusitis"
+        },
+        {
+            "id": 5,
+            "question_type": "msq",
+            "question": "5. Which of the following statements are\ntrue?\nA Aetiological factors include the herpes\nsimplex virus.\nB Are usually adenocarcinomas.\nC Has a bimodal distribution.\nD Presents with unilateral otitis media in\napproximately 20%.\nE Primary treatment is surgery.",
+            "options": [
+                "A Aetiological factors include the herpes simplex virus.",
+                "B Are usually adenocarcinomas.",
+                "C Has a bimodal distribution.",
+                "D Presents with unilateral otitis media in approximately 20%.",
+                "E Primary treatment is surgery."
+            ],
+            "answer": [
+                "C",
+                "D"
+            ],
+            "explanation": "Nasopharyngeal carcinomas are usually squamous cell carcinomas. The aetiology of nasopharyngeal carcinoma is multifactorial. Genetic susceptibility is a factor and certain HLA subtypes e.g., HLA-A2, Epstein-Barr virus infection and consumption of salted fish, are known to be risk factors. Nasopharyngeal carcinoma has a bimodal distribution with an increased incidence in young adults and then again in the 50–60 age group.\nClinical presentation includes early lymph node metastases (70%), in particular, retropharyngeal nodes and cervical lymphadenopathy in levels 2 or 5. Fine-needle aspiration biopsy of a neck node showing undifferentiated carcinoma requires immediate thorough examination of the nasopharynx. Symptoms related to primary disease include nasal discharge, obstruction and epistaxis, which occurs in one-third of patients. Aural symptoms of unilateral deafness as a consequence of Eustachian tube obstruction and secretory otitis media occur in approximately 20% In around 5% of patients, the nasopharynx might look normal or minimally asymmetrical but contains submucosal nasopharyngeal carcinoma. A biopsy of the nasopharynx is essential if there is suspicion of nasopharyngeal malignancy.\nThe primary treatment of nasopharyngeal carcinoma is radiotherapy, as the majority of the tumours are radiosensitive undifferentiated squamous cell carcinomas. Elective bilateral radiotherapy is given at the skull base and neck in all patients, even when no neck nodes are apparent, as rates of occult metastasis are high. Platinum-based chemotherapy may be given in both the adjuvant and neoadjuvant setting, particularly in high-risk cases. Due to the proximity of vital structures in the immediate vicinity of the nasopharynx, surgery is complex and often impossible. Recurrent neck disease may be an indication for neck dissection, but recurrent disease at the primary site is very challenging surgically. Although there is experience with nasopharyngectomy in the Far East, few centres in Europe or North America have significant experience of these techniques. For early disease, 3-year disease-free survival rates of more than 75% are common; however, in advanced disease the results are less good, with 3-year disease-free survival rates of 30%-50%."
+        },
+        {
+            "id": 6,
+            "question_type": "msq",
+            "question": "6. Which of the following statements are\ntrue?\nA Peritonsillar abscess should be treated\nwith transoral incision and drainage.\nB Obstructive sleep apnoea is not an\nindication for tonsillectomy in children.\nC Acute retropharyngeal abscess is most\ncommonly seen in children.\nD Chronic retropharyngeal abscess is most\ncommonly due to tuberculosis.\nE Infectious mononucleosis is confirmed\nby a positive Paul-Bunnell test.",
+            "options": [
+                "A Peritonsillar abscess should be treated with transoral incision and drainage.",
+                "B Obstructive sleep apnoea is not an indication for tonsillectomy in children.",
+                "C Acute retropharyngeal abscess is most commonly seen in children.",
+                "D Chronic retropharyngeal abscess is most commonly due to tuberculosis.",
+                "E Infectious mononucleosis is confirmed by a positive Paul-Bunnell test."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E"
+            ],
+            "explanation": "Peritonsillar abscess or quinsy describes the formation of pus in the peritonsillar space. Patients experience severe pain and trismus due to inflammation around the pterygoid muscles. The tonsil and uvular are pushed medially. Intravenous broad-spectrum antibiotics, fluids and analgesia should be commenced; however, transoral incision and drainage of the pus should be carried out under local anaesthesia.\nThe retropharyngeal space is a potential space that lies posterior to the pharynx, bounded anteriorly by the posterior pharyngeal wall and its covering buccopharyngeal fascia and posteriorly by the cervical vertebrae. It contains the retropharyngeal lymph nodes. These nodes are more developed in young children, and it is at this age that they are most likely to be involved in inflammatory processes, which, if severe, might affect swallowing and the airway as a result of swelling and suppuration of the retropharyngeal space. A retropharyngeal abscess is associated with infection of the tonsil, oropharynx, or nasopharynx. Signs and symptoms include airway compromise, dysphagia, torticollis, stiff neck and swelling of the midline of the posterior pharyngeal wall. Operative approaches to a retropharyngeal space abscess include peroral or an external approach, and a decision on approach will be based on imaging findings.\nChronic retropharyngeal abscess is now rare and most commonly the result of an extension of tuberculosis of the cervical spine, which has spread through the anterior longitudinal ligament to reach the retropharyngeal space (Table 48.1).\nInfectious mononucleosis (or glandular fever) is caused by the Epstein-Barr virus. It is common in teenagers and young adults. Signs and symptoms are similar as for bacterial tonsillitis; however, the tonsils are typically erythematous with a creamy grey exudate and cervical or generalised lymphadenopathy is present. Occasionally, hepatosplenomegaly occurs. The diagnosis is confirmed by serological testing showing a positive Paul-Bunnell test, an absolute and relative lymphocytosis and presence of atypical monocytes in the peripheral blood."
+        },
+        {
+            "id": 7,
+            "question_type": "msq",
+            "question": "7. Which of the following statements are\ntrue?\nA A pharyngeal pouch is a protrusion\ndiverticulum through Killian's\ndehiscence.\nB A pharyngeal pouch might present as\nrecurrent chest infections.\nCA pharyngeal pouch cannot be treated\nvia a transoral approach.\nD A pharyngeal pouch is associated with\niron deficiency anaemia in some cases.\nE Open excision of a pharyngeal\npouch is not associated with a risk of\nmediastinitis.",
+            "options": [
+                "A A pharyngeal pouch is a protrusion diverticulum through Killian's dehiscence.",
+                "B A pharyngeal pouch might present as recurrent chest infections.",
+                "C A pharyngeal pouch cannot be treated via a transoral approach.",
+                "D A pharyngeal pouch is associated with iron deficiency anaemia in some cases.",
+                "E Open excision of a pharyngeal pouch is not associated with a risk of mediastinitis."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D"
+            ],
+            "explanation": "A pharyngeal pouch is a protrusion of mucosa through Killian's dehiscence, a weak area of the posterior pharyngeal wall between the oblique fibres of the thyropharyngeus and the transverse fibres of cricopharyngeus at the lower end of the inferior constrictor muscle. (Figure 48.1). It is thought to be in part due to a hyperactive upper oesophageal sphincter, and is more common in men over 60 years old.\nPatients might experience regurgitation of undigested food, sometimes hours after a meal, and halitosis. Occasionally, they might present with recurrent, unexplained chest infections as a result of aspiration of the contents of the pouch. As the pouch increases in size, the patients might notice gurgling noises from the neck on swallowing and the pouch may become large enough to form a visible swelling in the neck. Surgery is indicated when the symptoms are affecting the patient's quality of life, in particular, weight loss and recurrent pulmonary complications due to aspiration. A barium swallow demonstrates the pouch position and size.\nEndoscopic stapling has superseded the open approach, however, both are still performed. The endoscopic technique is associated with a high symptomatic success rate, decreased operating time and length of stay and lower rates of complications such as wound infection, mediastinitis, pharyngeal fistula formation, recurrent laryngeal nerve palsy and stenosis of the upper oesophagus."
+        },
+        {
+            "id": 8,
+            "question_type": "msq",
+            "question": "8. Which of the following statements are\ntrue?\nA Squamous cell carcinoma is associated\nwith smoking and alcohol.\nB Cervical metastases are uncommon.\nC Oropharyngeal tumours present often as\nan occult primary.\nD Treatment for early squamous cell\ncarcinoma is with radiotherapy.\nE Hodgkin's lymphoma is common in the\noropharynx.",
+            "options": [
+                "A Squamous cell carcinoma is associated with smoking and alcohol.",
+                "B Cervical metastases are uncommon.",
+                "C Oropharyngeal tumours present often as an occult primary.",
+                "D Treatment for early squamous cell carcinoma is with radiotherapy.",
+                "E Hodgkin's lymphoma is common in the oropharynx."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D"
+            ],
+            "explanation": "Cigarette smoking and consumption of alcohol are significant risk factors for squamous carcinomas of the oropharynx. Cervical lymph node metastases are common due to the extensive lymphatic drainage of the oropharynx. They might be the only presenting feature with an apparent occult primary tumour. Often, the primary is from the tonsil or tongue base but undetectable. Early-stage tumours are usually treated with radiotherapy, although with improvements in surgical access provided by transoral laser and robotic techniques, surgical excision is gaining popularity. Recurrent disease following radiotherapy is usually managed surgically, and reconstruction of the oropharynx might require regionally-based myocutaneous or microvascular free flaps with microvascular anastomosis.\nHodgkin's disease and non-Hodgkin's lymphoma commonly present as lymph node enlargement in the neck. Hodgkin's disease is rare in the oropharynx, but non-Hodgkin's lymphoma accounts for 15%-20% of tumours at this site. Radiotherapy is the treatment of choice for localised non-Hodgkin's lymphoma and might give control rates as high as 75% at 5 years. For disseminated non-Hodgkin's lymphoma, systemic chemotherapy is preferred."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "9. Which of the following is not an\nindication for a tracheostomy?\nA Upper airway obstruction.\nB Potential upper airway obstruction.\nC Pneumothorax.\nD Prolonged artificial ventilation.\nE Protection of the lower airway.",
+            "options": [
+                "A Upper airway obstruction.",
+                "B Potential upper airway obstruction.",
+                "C Pneumothorax.",
+                "D Prolonged artificial ventilation.",
+                "E Protection of the lower airway."
+            ],
+            "answer": "C",
+            "explanation": "A tracheostomy bypasses the upper airway and has the following advantages:\n• The anatomical dead space is reduced by approximately 50%.\n• The work of breathing is reduced.\n• Alveolar ventilation is increased.\n• The level of sedation necessary for patient comfort isdecreased and, unlike endotracheal intubation, the patient might beable to talk and eat with a tube in place.\nHowever, there are several disadvantages, including the following:\n• Loss of heat and moisture exchange performed in the upper respiratory tract.\n• Desiccation of tracheal epithelium, loss of ciliated cells and metaplasia.\n• Presence of a foreign body in the trachea stimulates mucous production; where no cilia are present, this mucociliary stream is arrested.\n• The increased mucus is more viscid and thick crusts may form and block the tube.\n• Splinting of the larynx might prevent normal swallowing and lead to aspiration."
+        },
+        {
+            "id": 10,
+            "question_type": "msq",
+            "question": "10. Which of the following statements are\ntrue?\nA Tracheostomy might be performed\nunder local anaesthetic.\nB Tracheostomy increases the work of\nbreathing.\nC Tracheostomy reduces the anatomical\ndead space by approximately 50%.\nD Alveolar ventilation is decreased.\nE Tracheostomy increases the rate of\nmoisture exchange from the upper\nairway.",
+            "options": [
+                "A Tracheostomy might be performed under local anaesthetic.",
+                "B Tracheostomy increases the work of breathing.",
+                "C Tracheostomy reduces the anatomical dead space by approximately 50%.",
+                "D Alveolar ventilation is decreased.",
+                "E Tracheostomy increases the rate of moisture exchange from the upper airway."
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "explanation": "A tracheostomy bypasses the upper airway and has the following advantages:\n• The anatomical dead space is reduced by approximately 50%.\n• The work of breathing is reduced.\n• Alveolar ventilation is increased.\n• The level of sedation necessary for patient comfort isdecreased and, unlike endotracheal intubation, the patient might beable to talk and eat with a tube in place.\nHowever, there are several disadvantages, including the following:\n• Loss of heat and moisture exchange performed in the upper respiratory tract.\n• Desiccation of tracheal epithelium, loss of ciliated cells and metaplasia.\n• Presence of a foreign body in the trachea stimulates mucous production; where no cilia are present, this mucociliary stream is arrested.\n• The increased mucus is more viscid and thick crusts may form and block the tube.\n• Splinting of the larynx might prevent normal swallowing and lead to aspiration."
+        },
+        {
+            "id": 11,
+            "question_type": "msq",
+            "question": "11. Which of the following statements are\ntrue?\nA Vocal cord nodules can be treated with\nspeech and language therapy.\nB Unilateral vocal cord palsy is most\ncommonly right sided.\nC Glottic tumours almost always present\nwith voice change.\nD Early-stage laryngeal cancer is usually\ntreated with total laryngectomy and\nadjuvant postoperative radiotherapy.\nE Radiotherapy is an acceptable alternative\nto surgery for early-stage laryngeal\ncancer.",
+            "options": [
+                "A Vocal cord nodules can be treated with speech and language therapy.",
+                "B Unilateral vocal cord palsy is most commonly right sided.",
+                "C Glottic tumours almost always present with voice change.",
+                "D Early-stage laryngeal cancer is usually treated with total laryngectomy and adjuvant postoperative radiotherapy.",
+                "E Radiotherapy is an acceptable alternative to surgery for early-stage laryngeal cancer."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "E"
+            ],
+            "explanation": "Vocal cord nodules are bilateral whitish lesions that tend to be at the junction of the anterior one-third and posterior two-thirds of the vocal cords. They tend to occur in children and singers, and are the result of vocal abuse. Primary treatment is speech therapy. Occasionally, the nodules will need to be surgically removed using microlaryngeal surgery.\nVocal cord paralysis may be unilateral or bilateral. A unilateral left vocal fold palsy is the most common because of the long intrathoracic course of the left recurrent laryngeal nerve, which arches around the aorta, and a bronchial malignancy should be suspected. A CT scan of the skull base to diaphragm should be performed to image the nerve's course.\nSquamous carcinoma is the most common malignant tumour, and it is responsible for more than 90% of tumours within the larynx. Patients almost always present with hoarseness. In early-stage disease, e.g., confined to one vocal fold; treatment with radiotherapy or carbon dioxide laser excision is associated with a 5-year disease-free survival of more than 90%. Both modalities give comparable quality of voice outcomes.\nSupraglottic and glottic tumours, stages I and II, are optimally treated with radiotherapy or trans oral laser resection, with the aim of preservation of function. Advanced-stage laryngeal carcinomas (stage III/IV) might betreated with chemoradiotherapy for organ preservation or surgery. Decisions relating to the choice of therapy include the degree of cartilage invasion and safety of the airway."
+        },
+        {
+            "id": 12,
+            "question_type": "msq",
+            "question": "12. Which of the following statements are\ntrue?\nA Branchial fistula is a second brachial cleft\nanomaly.\nB Brachial cysts present in the neonatal\nperiod.\nC Cystic hygromas characteristically\ntransilluminate brilliantly.\nD Thyroglossal duct cysts move downward\non tongue protrusion.\nE Surgical treatment of thyroglossal duct\ncysts includes excision of the central part\nof the hyoid bone.",
+            "options": [
+                "A Branchial fistula is a second brachial cleft anomaly.",
+                "B Brachial cysts present in the neonatal period.",
+                "C Cystic hygromas characteristically transilluminate brilliantly.",
+                "D Thyroglossal duct cysts move downward on tongue protrusion.",
+                "E Surgical treatment of thyroglossal duct cysts includes excision of the central part of the hyoid bone."
+            ],
+            "answer": [
+                "A",
+                "C",
+                "E"
+            ],
+            "explanation": "A branchial cyst is thought to develop from the embryological remnants of the second branchial cleft. Such cysts are lined by stratified squamous epithelium and contain thick, turbid fluid full of cholesterol crystals. The cyst usually presents in the upper neck in early or middle adulthood and is found at the junction of the upper third and middle third of the sternomastoid muscle at its anterior border. If the cyst becomes infected, it becomes erythematous and tender. Ultrasound and fine-needle aspiration aid diagnosis, and treatment is by complete excision, which is best undertaken when infection has settled. In older patients with cystic neck masses, malignancy with a cystic neck metastasis should be considered. Primary disease in the oropharynx is the most common cause.\nA branchial fistula might be unilateral or bilateral and is thought to represent a persistent second branchial cleft and pouch. The external opening is nearly always situated in the lower third of the neck near the anterior border of the sternocleidomastoid, while the internal opening is usually located in the tonsillar region. Excision involves removing an ellipse of skin around the tract and dissecting it out in a cephalad direction. Further stepladder incisions might be required.\nCystic hygromas (lymphatic malformations) usually present in the neonate or in early infancy. The characteristic that distinguishes it from all other neck swellings is that it is brilliantly translucent. They tend to grow steadily with the child and can lead to disfigurement and airway obstruction and require a tracheostomy. Investigation will outline the anatomy and consistency of the cyst. The cyst might become infected. Definitive treatment is complete excision of the cyst, where possible. Injection of a sclerosing agent, for example, picibanil (OK-432), might also be an option, although in cases where multiple cysts are present, both surgery and sclerosing therapy are challenging.\nThyroglossal duct cysts are an embryological remnant of the thyroglossal duct and might occur anywhere in, or adjacent to, the midline from the tongue base to the thyroid isthmus. Rarely, a thyroglossal cyst might contain the only functioning thyroid tissue in the body. Classically, the cyst moves upward on swallowing and with tongue protrusion, due to its attachment to the hyoid bone. Thyroglossal cysts might become infected and rupture onto the skin of the neck, presenting as a discharging sinus. Treatment is excision of the tract with a core of tissue and middle third of the hyoid bone to remove the embryological tract that resulted in the cyst. This operation is known as Sistrunk's operation and reduces recurrence in comparison with excising the cyst alone."
+        },
+        {
+            "id": 13,
+            "question_type": "msq",
+            "question": "13. Which of the following statements\nare true?\nA Carotid body tumours commonly\npresent as a rapidly enlarging painless\nneck mass.\nB Carotid body tumours might cause\nmedial displacement of the tonsil.\nC Carotid body tumours are more common\nin populations living at high altitudes.\nD Pre-operative biopsy is used to confirm\nthe diagnosis of carotid body tumours.\nE Radiotherapy is the treatment of choice\nfor carotid body tumours.",
+            "options": [
+                "A Carotid body tumours commonly present as a rapidly enlarging painless neck mass.",
+                "B Carotid body tumours might cause medial displacement of the tonsil.",
+                "C Carotid body tumours are more common in populations living at high altitudes.",
+                "D Pre-operative biopsy is used to confirm the diagnosis of carotid body tumours.",
+                "E Radiotherapy is the treatment of choice for carotid body tumours."
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "explanation": "This is a rare tumour (paraganglioma) that has a higher incidence in areas where people live at high altitudes because of chronic hypoxia leading to carotid body hyperplasia. Approximately 10% of patients have a family history, and there is an association with multiple endocrine neoplasia (MEN) type 2A and 2B. There is often a long history of a slowly enlarging, painless lump at the carotid bifurcation. Approximately one-third of patients will present with a pharyngeal mass that pushes the tonsil medially and anteriorly. The mass is firm, rubbery, pulsatile, mobile from side to side but not up and down and can sometimes be emptied by firm pressure, after which it slowly refills in a pulsatile manner.\nInvestigations include a carotid angiogram and MRI scan. This tumour should not be biopsied due to the risk of haemorrhage.\nCarotid body tumours rarely (3%) metastasize, and their overall rate of growth is slow. The need for surgical removal must be considered carefully, as complications of surgery are potentially serious. Treatment is surgical."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "14. In which of the following procedures\nare all lymph nodes on one side of\nthe neck but the accessory nerve,\njugular vein and sternomastoid\nmuscle preserved?\nA A radical neck dissection\nB A classical neck dissection\nC A selective neck dissection\nD A subtotal neck dissection\nE A modified radical neck dissection",
+            "options": [
+                "A A radical neck dissection",
+                "B A classical neck dissection",
+                "C A selective neck dissection",
+                "D A subtotal neck dissection",
+                "E A modified radical neck dissection"
+            ],
+            "answer": "E",
+            "explanation": "The classical, radical neck dissection involves removal of all nodes, the sternomastoid, jugular and accessory. Selective neck dissections remove only lymphatics, but not all levels. Modified neck dissections can be classed 1–3 depending on the number of structures preserved from the nerve, vein and muscle. Subtotal is not a term applied to neck dissection."
+        },
+        {
+            "id": 15,
+            "question_type": "matching",
+            "question": "Choose the most appropriate management for clinical scenarios that follow:\nClinical scenarios",
+            "options": {
+                "items": [
+                    "1 A 16-year-old stertorous with tonsillitis, Paul-Bunnel test positive, fails to improve with intravenous fluids, antibiotics and analgesia.",
+                    "2 A 31-year-old who presents with a sore throat, pyrexia and trismus has swelling of the left tonsil and deviation of the uvula to the right side.",
+                    "3 A 3-year-old presents with a short history of drooling, fever and stridor.",
+                    "4 A 40-year-old involved in an road-traffic accident presents with bruising over the neck, stridor and hoarseness.",
+                    "5 A 5-year-old presents with hoarseness and stridor on exertion due to laryngeal papillomas."
+                ],
+                "choices": [
+                    "A A short course of steroids",
+                    "B Cricothyroidotomy",
+                    "C Early tracheostomy",
+                    "D Endoscopic debridement of lesions",
+                    "E Insertion of an oral airway",
+                    "F Intubation until swelling subsides",
+                    "G Per-oral incision and drainage",
+                    "H Soft tissue neck x-ray",
+                    "I Transfer to theatre with experienced anaesthetist and surgeon",
+                    "J Ultrasound-guided aspiration"
+                ]
+            },
+            "answer": {
+                "1": "A",
+                "2": "G",
+                "3": "I",
+                "4": "C",
+                "5": "D"
+            },
+            "explanation": "1. A A short course of steroids\nStertor is the sound made by upper airway obstruction at a level above the larynx. The Epstein-Barr virus can cause tonsillitis, often presenting with a grey or white film over the tonsils. The tonsils can be enlarged sufficiently to threaten the airway. If they fail to respond to antibiotics, a short course of steroids should be given.\n2. G Per-oral incision and drainage\nThis patient has a peritonsillar abscess, which can be treated with incision and drainage through the mouth. The mucosa is prepared with a local anaesthetic spray, and a scalpel blade is used to incise the abscess wall. These patients will also be managed with antibiotics, fluids and analgesia until their oral intake is sufficient. An alternative option is aspiration with a 10-mL syringe and wide-bore needle.\n3. I Transfer to theatre with experienced anaesthetist and surgeon\nThis child should be considered to have epiglottitis. These patients should be managed in a calm environment, with nothing done to upset them, particularly no attempts to examine the throat, which can precipitate respiratory arrest. The patient should be transferred to theatre and examined under anaesthetic with an experienced anaesthetist and a surgeon capable of performing paediatric tracheostomy if required. If the diagnosis is confirmed the team can move straight to intubation, take culture samples and institute antimicrobial therapy. In advanced cases where intubation is impossible, tracheostomy will be life saving, but most cases can be managed medically.\n4. C Early tracheostomy\nBlunt laryngeal trauma can result in loss of the airway, and prompt intervention might be required. Endotracheal intubation should be avoided as the foreign-body reaction to the tube can result in permanent laryngeal damage. An early tracheostomy is appropriate, with inspection of the larynx and repair of mucosal and cartilage injuries in an attempt to minimise long-term loss of function.\n5. D Endoscopic debridement of lesions\nRecurrent respiratory papillomatosis is a condition that HPV 6 and 11 cause. Following a biopsy for histological confirmation, the lesions should be excised endoscopically using a microdebrider, cold steel, or laser. This condition is characterised by recurrent growth of papillomas and multiple procedures. The underlying tissues must not be damaged as this condition often improves after puberty and the aim is to maintain the normal function of the larynx as far as possible."
+        }
+    ]
+}

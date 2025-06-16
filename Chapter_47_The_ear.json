@@ -1,0 +1,246 @@
+{
+    "chapter_name": "The ear",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "msq",
+            "question": "1. Which of the following statements are true?",
+            "options": [
+                "A In the outer ear, two-thirds of the external ear canal is cartilaginous; the inner third is bony.",
+                "B The external and middle ear are derived from the first two branchial arches.",
+                "C The light reflex lies in the antero-superior quadrant of the tympanic membrane.",
+                "D The malleus articulates with the stapes.",
+                "E Epithelial migration occurs outwards from the tympanic membrane along the ear canal."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "E"
+            ],
+            "explanation": "The external and middle ear develop from the first two branchial arches. First and second arch anomalies can result in microtia (a malformed rudimentary auricle), pre-auricular sinuses, atresia of the external auditory canal and malformations of the ossicles resulting in a conductive hearing loss. The external ear canal is 3 cm in length: the lateral two-thirds is cartilaginous and the medial third is bony. The tympanic membrane has three layers: outer skin, middle collagenous and inner mucosal layer. The outer epithelial layer migrates laterally from the tympanic membrane out of the ear canal. Therefore, most people's ears are self-cleaning. When the migration is misdirected, e.g., secondary to retraction of the tympanic membrane, epithelial debris accumulates. This debris forms a keratinous cyst, which is commonly infected and is described as a cholesteatoma (see Answer 9). The light reflex (if present) can be seen in the antero-inferior quadrant of the tympanic membrane. The malleus articulates with the incus, which articulates with the stapes."
+        },
+        {
+            "id": "2",
+            "question_type": "msq",
+            "question": "2. Which of the following statements are true?",
+            "options": [
+                "A The cochlea contains endolymph, which has a high concentration of sodium and communicates with CSF.",
+                "B The cochlea contains perilymph, which has a high concentration of potassium and communicates with CSF.",
+                "C Each inner hair cell responds to a particular frequency of vibration.",
+                "D The three semicircular canals are arranged at right angles to each other.",
+                "E The utricle and saccule detect angular head movement."
+            ],
+            "answer": [
+                "C",
+                "D"
+            ],
+            "explanation": "The cochlea is a bony spiral containing the scala vestibule, scala tympani and scala media. Different areas of the cochlea are frequency-specific, i.e., tonotopic representation. The scala vestibuli contains perilymph and opens close to the oval window. The scala tympani, which also contains perilymph, is a blind-ending tube terminating at the round window. The scala media, also known as the cochlea duct, contains endolymph. The scala vestibuli (perilymph) and the scala media (endolymph) are separated by Reissner's membrane (Figure 47.1). The perilymph is in communication with the CSF and has a high sodium concentration. The endolymph has a high concentration of potassium, similar to intracellular fluid. The hair cells are present on the Basilar membrane that separates the scala media from the scala tympani. There are inner and outer hair cells in the cochlea. Each inner hair cell is sensitive to a particular frequency that causes depolarisation and generation of action potentials in the auditory nerve. The vestibular labyrinth consists of five distinct organs – three semicircular canals (superior, lateral and posterior), utricle and saccule (otolith organs). The three semicircular canals are arranged in the three planes of space at right angles to each other. The semicircular canals detect angular acceleration, whereas the otolith organs detect linear acceleration."
+        },
+        {
+            "id": "3",
+            "question_type": "msq",
+            "question": "3. Which of the following statements are true?",
+            "options": [
+                "A Cranial nerve V supplies the external ear.",
+                "B Cranial nerve VII supplies the external ear.",
+                "C Cranial nerve VIII supplies the external ear.",
+                "D Cranial nerve IX supplies the external ear.",
+                "E Cranial nerve X supplies the external ear."
+            ],
+            "answer": [
+                "A",
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Sensation to the external ear is complex. Cranial nerves V, VII, IX and X with branches of C2, 3 all give sensory supply to the external ear. The middle ear mucosa is supplied by the glossopharyngeal nerve (IX). The importance of this rich and complex sensory innervation is that referred otalgia is common and may originate from the normal distribution of any of these nerves. Sensory supply to the larynx is via the superior laryngeal nerve, from the vagus nerve, (X). Therefore, referred otalgia may be caused by laryngeal cancer. Ramsay Hunt syndrome is the presence of vesicles within the ear canal in association with herpes zoster infection of cranial nerve VII. The clinical picture in this syndrome is explained by the sensory innervation of the external ear."
+        },
+        {
+            "id": "4",
+            "question_type": "msq",
+            "question": "4. Which of the following statements are true?",
+            "options": [
+                "A Weber's test can distinguish a conductive hearing loss from a sensorineural hearing loss.",
+                "B A 512 Hz tuning fork is used to conduct Rinne's test.",
+                "C Computed tomography (CT) is the radiological investigation of choice for identification of lesions of the VIIIth (auditory) cranial nerve.",
+                "D Magnetic resonance imaging (MRI) is the radiological investigation of choice for identification of lesions of the VIIIth (auditory) cranial nerve.",
+                "E MRI is the investigation of choice for imaging bone erosion and cholesteatoma."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "Tuning fork tests are a basic hearing screening tool that can be used in general examination of the ear. Weber's test uses bone conduction only. A resonating tuning fork is placed in the midline of the patient's forehead and he or she is asked if he or she can hear it in the midline or toward one ear. Patients with normal hearing or bilateral and equal hearing loss will report the sound centrally. Patients with a unilateral conductive hearing loss will lateralise the sound to the poorer-hearing ear. Patients with a sensorineural hearing loss will lateralise the sound to the better-hearing ear. Rinne's test compares air conduction and bone conduction. A 512-Hz tuning fork is used for this test. The tuning fork is made to resonate and its base placed on the mastoid process of the ear and the patient is asked if he or she can hear it. Gentle pressure is applied by the examiner's hand to the opposite side of the patient's head to ensure that good contact is achieved. The patient is then asked to report when he or she can no longer hear the sound. At this point, the tines of the tuning fork are placed in line with the external auditory canal at approximately 2.5–4 cm. The patient is then asked if he or she can hear the sound. A positive response indicates the lack of a conductive hearing loss, which is present in normal-hearing ears and those with a pure sensorineural loss. A negative Rinne suggests that bone conduction is better than air conduction (a conductive hearing loss). In secondary care, tuning fork tests are used in conjunction with other audiological tests.\nPus, bone and air are demonstrated well on computed tomography (CT). CT scanning of the temporal bones is used preoperatively to identify anatomical variants. Although the diagnosis of cholesteatoma is clinical, it is useful to confirm bony erosion caused by cholesteatoma therefore confirming the diagnosis, to delineate the extent of the disease and for surgical planning. Magnetic resonance imaging (MRI) is better than CT at imaging soft tissue. It is the best method for imaging tumours of the auditory nerves but is not in routine use for assessment of the middle and external ear."
+        },
+        {
+            "id": "5",
+            "question_type": "msq",
+            "question": "5. Which of the following statements are true?",
+            "options": [
+                "A A pinna haematoma occurs when blood collects between the skin and perichondrium.",
+                "B Pinna haematoma should be treated with urgent incision and drainage.",
+                "C Otitis externa is commonly caused by streptococcal infection.",
+                "D Otitis externa can be distinguished from otitis media by pain on movement of the pinna.",
+                "E Otitis externa is best treated initially with oral antibiotics."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "A pinna haematoma occurs when blood collects under in the sub-perichondrial plane between perchondrium and cartilage. This usually occurs following blunt trauma to the pinna, e.g., contact sports such as rugby. The cartilage receives its blood supply from the perichondrial layer. If a haematoma is not evacuated, then fibrosis will result in a permanent cauliflower ear deformity. In addition, infection of the haematoma might result in underlying cartilage necrosis and increased cosmetic deformity. It is important to exclude an associated head injury, as this takes priority over the ear trauma. Treatment is with prompt drainage under local or general anaesthesia. Adequate drainage will be achieved with a generous incision. The haematoma should be evacuated, and the wound should not be closed to prevent reaccumulation. A pressure dressing should be applied and antibiotic cover prescribed. The wound should be reviewed in 4 to 5 days.\nOtitis externa is inflammation of the skin of the external auditory meatus, which may be acute or chronic. There are local risk factors for developing the condition – warm climate, water exposure (swimmer's ear), altered ear canal pH – and systemic factors – general skin disorders such as eczema and psoriasis and local trauma. Common pathogens are Pseudomonas and Staphylococcus bacteria, Candida and Aspergillus. Inflammation leads to oedema of the ear canal resulting in debris accumulation, potentiating infection. Pain is the hallmark clinical feature. Movement of the pinna elicits pain, which distinguishes it from otitis media. The skin of the ear canal is swollen, erythematous and itchy, and it will contain debris. Occasionally there is an associated cellulitis of the pinna. Initial treatment is with topical antibiotic and steroid eardrops and analgesia. Suction clearance of debris under a microscope might be required. Fungal infection requires meticulous microsuction and topical antifungal eardrops. Systemic antibiotics are rarely required for otitis externa unless there is evidence of cellulitis of the pinna."
+        },
+        {
+            "id": "6",
+            "question_type": "msq",
+            "question": "6. Which of the following statements is true?",
+            "options": [
+                "A Necrotising otitis externa should be suspected in elderly diabetics.",
+                "B Necrotising otitis externa spares cranial nerve VII.",
+                "C Necrotising otitis externa is caused by a pseudomonal infection.",
+                "D Malignant lesions of the external ear are best treated with chemotherapy.",
+                "E Malignant lesions of the external ear metastasise first to the submandibular region."
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "explanation": "Necrotising otitis externa is a rare but important condition. It presents as severe, persistent unilateral otitis externa. The patient is usually an immunocompromised individual; elderly diabetics, in particular, are susceptible. It results in osteomyelitis of the skull base and can involve cranial nerves VII, IX and X. Pseudomonas aeruginosa is usually the infective organism. Treatment is with a prolonged course (at least 6 weeks) of systemic antibiotics and should be closely monitored with sequential imaging. Most malignant primary tumours of the external ear are basal cell carcinomas (BCC) or squamous cell carcinomas (SCC). They tend to present as slow-growing, ulcerating and crusting lesions. SCCs metastasise to parotid or neck nodes. Tumours from the parotid gland or postnasal space might extend to invade the ear canal. Treatment is by surgical-wide excision for a BCC of 2–3 mm margin, and for SCC a 5-mm margin is desirable. Radiotherapy might be needed postoperatively or as the primary modality depending on tumour extension, and the potential for poor cosmetic result following excision."
+        },
+        {
+            "id": "7",
+            "question_type": "msq",
+            "question": "7. Which of the following statements are true?",
+            "options": [
+                "A Suppurative otitis media is most common in adults.",
+                "B Suppurative otitis media is usually caused by Streptococcus pneumonia.",
+                "C Suppurative otitis media is most painful immediately following rupture of the tympanic membrane.",
+                "D Oral antibiotics are the initial treatment of mastoiditis.",
+                "E Mastoiditis may lead to intracranial infection."
+            ],
+            "answer": [
+                "B",
+                "E"
+            ],
+            "explanation": "Suppurative otitis media is extremely common in childhood. The peak incidence is in the first 12 months of life. It is characterised by the purulent fluid in the middle ear, and the most common infecting organisms are Streptococcus pneumoniae and Haemophilus influenza. There is usually a preceding upper-respiratory infection, followed by hearing loss, otalgia and pyrexia. If perforation occurs, the otalgia improves. Many cases will not require treatment and are self-resolving. For severe or prolonged cases, appropriate treatment is a course of systemic antibiotics usually for 7 to 10 days. Complications of suppurative otitis media might be extracranial or intracranial. Spread of infection to the mastoid cortex (subperiosteal abscess) causes the pinna to be pushed forward, retro-auricular swelling that is fluctuant and painful. A CT scan of the brain and temporal bones should be performed to exclude intracranial sepsis. Oral antibiotics do not have a role in the initial management of mastoiditis. Urgent broad-spectrum intravenous antibiotics should be commenced. Those cases, which fail to respond to initial therapy, are candidates for incision and drainage of the abscess and insertion of a ventilation tube."
+        },
+        {
+            "id": "8",
+            "question_type": "msq",
+            "question": "8. Which of the following statements are true?",
+            "options": [
+                "A Otitis media with effusion (OME) presents with otalgia.",
+                "B OME is due to Eustachian tube dysfunction.",
+                "C OME is more common in adults.",
+                "D Persistent unilateral OME might be due to a malignancy.",
+                "E A 'watch and wait' policy in children results in improvement of 50% over 6 weeks."
+            ],
+            "answer": [
+                "B",
+                "D",
+                "E"
+            ],
+            "explanation": "Otitis media with effusion (OME) is very common in children. It is thought that Eustachian tube dysfunction that leads to negative middle ear pressure and a resultant transudation of fluid into the middle ear space. Children with OME present with delayed speech and language development and behavioural concerns. Otalgia is not a common symptom. Fifty percent of cases of OME are transient and resolve spontaneously. Clinical assessment and audiometry should be repeated following a 3-month period of ‘watch and wait'. Grommets +/- adenoidectomy are indicated in bilateral persistent OME. OME is rare in adults, and a persistent effusion warrants examination +/– biopsy of the postnasal space to exclude a nasopharyngeal lesion causing obstruction of the Eustachian tube. Such patients require urgent referral to an ENT specialist."
+        },
+        {
+            "id": "9",
+            "question_type": "msq",
+            "question": "9. Which of the following statements are true?",
+            "options": [
+                "A Tubotympanic chronic suppurative otitis media is more commonly associated with intracranial complications.",
+                "B Atticoantral chronic suppurative otitis media is more commonly associated with intracranial complications.",
+                "C Cholesteatoma is a benign ear condition that is self-limiting.",
+                "D Cholesteatoma is a benign ear condition that is locally destructive.",
+                "E Cholesteatoma is a malignant ear condition that is locally destructive."
+            ],
+            "answer": [
+                "B",
+                "D"
+            ],
+            "explanation": "Chronic suppurative otitis media (CSOM) is defined as the presence of chronic otorrhoea with a tympanic membrane perforation. Tympanic membrane perforations have been classified in to tubotympanic (pars tensa) and attico-antral (attic or pars flaccida). Although tubotympanic and atticoantral CSOM may both be associated with intracranial complications due to the risk of development of cholesteatoma with attico-antral CSOM, there is an overall higher risk of developing and intracranial complications. Retraction pockets in the pars flaccida cause epithelial migration to be misdirected. A cholesteatoma is a benign keratinizing squamous sac surrounded by chronically inflamed connective tissue. Squamous debris accumulates and superimposed infection stimulates the release of lytic enzymes, which leads to bone destruction and allows expansion of the cholesteatoma. A low-grade osteomyelitis leads to a foul-smelling discharge. The close proximity of the middle ear and mastoid to the middle and posterior skull base means that intracranial infections can result from CSOM with or without cholesteatoma. Intracranial infection might result from spread of sepsis via emissary veins connecting the middle ear mucosa to the dura or through direct invasion of disease through bone (Figure 47.2)."
+        },
+        {
+            "id": "10",
+            "question_type": "msq",
+            "question": "10. Which of the following statements are true?",
+            "options": [
+                "A Noise-induced hearing loss is greatest at 4000Hz.",
+                "B Presbycusis usually affects low frequencies.",
+                "C Presbycusis usually affects the high frequencies.",
+                "D Presbycusis tends to affect adolescents.",
+                "E Aminoglycosides are not ototoxic."
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "explanation": "Noise-induced hearing loss is due to damage to the inner ear caused by loud noise exposure. The damage is related to the volume of sound and its duration. It is usually a bilateral symmetrical sensorineural hearing loss with a maximal loss at 4000 Hz. In some cases, e.g., following rifle shooting, the hearing loss may be unilateral. Hearing aids might be required and ensuring health and safety measures at work are implemented is necessary to prevent noise-induced hearing loss.\nPresbyacusis is age-related hearing loss affecting more men usually over the age of 60 years. It presents as a bilateral progressive sensorineural hearing loss, with no history of noise exposure. The hearing loss usually affects the higher frequencies. Hearing aids are used to treat the disability caused by this hearing loss.\nMany drugs are potentially ototoxic. Aminoglycosides are commonly prescribed and can cause an irreversible hearing loss. Aminoglycosides are present in antibiotic eardrops, and their use in the presence of a perforation is controversial. However, there is little evidence to suggest that a short course in the presence of active infection causes significant damage. Patients should be counselled about this and that hearing might be affected by an untreated ear infection. Caution is advised in their use in an only-hearing ear."
+        },
+        {
+            "id": "11",
+            "question_type": "matching",
+            "question": "1. Middle ear anatomy\nMatch the structures with the anatomical structures labelled that follow:",
+            "options": {
+                "items": [
+                    "1 Eustachian tube opening",
+                    "2 Facial nerve",
+                    "3 Long process of incus",
+                    "4 Malleus",
+                    "5 Rim of tympanic membrane",
+                    "6 Round window niche",
+                    "7 Stapes crura",
+                    "8 Stapedius muscle"
+                ],
+                "choices": [
+                    "A Long process of incus",
+                    "B Stapes crura",
+                    "C Stapedius muscle",
+                    "D Round window niche",
+                    "E Malleus",
+                    "F Facial nerve",
+                    "G A rim of tympanic membrane",
+                    "H Eustachian tube"
+                ]
+            },
+            "answer": {
+                "1": "H",
+                "2": "F",
+                "3": "A",
+                "4": "E",
+                "5": "G",
+                "6": "D",
+                "7": "C",
+                "8": "B"
+            },
+            "explanation": ""
+        },
+        {
+            "id": "12",
+            "question_type": "matching",
+            "question": "2. Conditions of the inner ear\nMatch the clinical scenarios that follow with the most likely diagnosis.",
+            "options": {
+                "items": [
+                    "A A 53-year-old woman presents with a sudden onset unilateral facial paralysis. There is a history of a preceding upper-respiratory tract infection.",
+                    "B A 40-year-old woman presents with intermittent episodes of vertigo associated with loud tinnitus and reduced hearing. The episodes last for several hours.",
+                    "C A 58-year-old man presents with a 3-month history of unilateral tinnitus and a progressive sensorineural hearing loss.",
+                    "D A 60-year-old woman presents with a vertigo lasting a few seconds on turning on her right in bed.",
+                    "E A 31-year-old man presents with mild intermittent vertigo precipitated by sudden head movements. There is a history of an episode of severe vertigo for 48 hours associated with vomiting 6 months ago."
+                ],
+                "choices": [
+                    "1 Acoustic neuroma",
+                    "2 Acute vestibular failure",
+                    "3 Bells Palsy",
+                    "4 Benign paroxysmal positional vertigo (BPPV)",
+                    "5 Meniere's disease"
+                ]
+            },
+            "answer": {
+                "A": "3",
+                "B": "5",
+                "C": "1",
+                "D": "4",
+                "E": "2"
+            },
+            "explanation": "1. C Acoustic neuroma\nAcoustic neuromas (vestibular schwannoma) are benign slow-growing tumours of the vestibular division of the VIIIth nerve. They present with unilateral hearing loss (sensorineural), unilateral tinnitus, or both. As they expand, they can cause symptoms of raised intracranial pressure and cranial nerve palsies. Investigations include an audiogram (unilateral sensorineural hearing loss) and MRI. Treatment depends on size and symptoms. Serial monitoring of tumour growth should be performed for small lesions (<2 cm) and if there is progression, surgery should be considered early to reduce morbidity, in particular facial nerve palsy.\n\n2. E Acute vestibular failure\nMeniere's disease describes a triad of symptoms – vertigo, tinnitus and hearing loss lasting from 20 minutes to several hours. The patient may experience aural fullness (sensation of pressure in the ear before an attack), nausea and vomiting. It is more common in women, occurring usually between the ages of 35 and 40 years old. The underlying cause might be related to endolymphatic hydrops (excessive accumulation of endolymphatic fluid), which distends the endolymphatic compartment and ruptures Reissner's membrane. The hearing loss is typically sensorineural and most pronounced in the low frequencies in early stages of the disease, and high frequency as the disease becomes established. Investigations should include audiometry to assess hearing loss (though this might be normal between attacks) and MRI to exclude mass lesions at the cerebellopontine angle, which might present with similar symptoms. Medical treatment includes diuretics and betahistine. Surgical treatment is indicated when medical treatment has failed and might be intratympanic injection of gentamycin or surgical destruction of vestibular system (labyrinthectomy).\n\n3. A Bells Palsy\nBell's palsy is a common cause of unilateral facial nerve palsy. Its exact aetiology is unknown, though it is likely due to viral infection (herpes virus), which causes swelling and subsequent ischaemia of the nerve due to compression within its bony canal. Around 85%–95% of patients make a good recovery. A thorough otoneurological examination should be performed. In those cases, which recur or fail to resolve completely, an MRI scan of the internal auditory meatus is required to exclude other causes. Evidence suggests that early treatment with high-dose steroids improves outcome. There is less evidence to support the use of antivirals. It is essential to protect the eye by taping it closed at night and prescribing lubricating eyedrops.\n\n4. D Benign paroxysmal positional vertigo (BPPV)\nBPPV is a common cause of vertigo. It is characterised by episodes of rotatory vertigo lasting for a few seconds brought on by head movement, in particular, rolling over in bed or looking up. Position testing (Dix- Hallpike) will elicit torsional nystagmus supporting the diagnosis. It is thought to result from stimulation of the posterior semicircular canal by otoconia (bony fragments). It is usually self-limiting. Epley's manoeuvre repositions the displaced otoconia and brings relief in 90% although might need to be repeated.\n\n5. B Meniere's disease\nAcute vestibular failure or labyrinthitis presents as a sudden episode of vertigo lasting for 1 to 2 days. The aetiology is suspected to be viral in origin. There may be a preceding upper-respiratory tract infection. Symptoms tend to improve over a period of weeks due to central compensation, although recurring episodes of vertigo for up to 18 months might be experienced."
+        }
+    ]
+}
