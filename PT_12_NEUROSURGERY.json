@@ -1,0 +1,225 @@
+{
+    "chapter_name": "NEUROSURGERY",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding the Glasgow coma scale is true?",
+            "options": [
+                "a. It serves as a scale to assess the long-term sequelae of head trauma",
+                "b. A high score correlates with a high mortality",
+                "c. It includes measurement of intracranial pressure",
+                "d. It includes measurement of pupillary reflexes",
+                "e. It includes measurement of verbal response"
+            ],
+            "answer": "E",
+            "explanation": "*   The Glasgow coma scale (GCS) was developed for initial assessment of head trauma severity and for standardizing serial neurologic examinations in the early postinjury period.\n*   It measures level of consciousness using three parameters: verbal response (5 points), motor response (6 points), and eye opening (4 points).\n*   The score is the sum of the highest number achieved in each category.\n*   A fully oriented and alert patient receives a maximum score of 15.\n*   A score of less than 5 is associated with a mortality of over 50%."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "Controlled hyperventilation (induced hypocapnia) is frequently recommended following head trauma. The therapeutic consequences of this therapy include",
+            "options": [
+                "a. Reduction of endogenous catecholamines",
+                "b. Reduction of intracellular potassium levels",
+                "c. Increase in cerebrovascular resistance",
+                "d. Induction of compensatory metabolic alkalosis",
+                "e. Requirement of monitoring the intracranial pressure"
+            ],
+            "answer": "C",
+            "explanation": "*   Controlled hyperventilation to a PaCO₂ of 25 kPa raises tissue pH, increases cerebrovascular resistance, decreases cerebral blood flow, and consequently reduces intracerebral pressure (ICP).\n*   Clinicians must be wary of causing ischemic brain damage through hypoperfusion when lowering cerebral blood flow and ICP.\n*   Metabolic compensation to induced hypocapnia leads to normalization of pH by loss of bicarbonate (metabolic acidosis), and the beneficial effects of hypocapnia are lost over 8–24 hours.\n*   Partial pressures of carbon dioxide should be allowed to slowly return to normal and held in reserve for unanticipated ICP increases.\n*   It is important to monitor the patient while PaCO₂ is rising because untoward or rapid increases in ICP may occur in response to rising cerebral blood flow."
+        },
+        {
+            "id": "3",
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding glioblastoma multiforme is true?",
+            "options": [
+                "a. It is a neuronal cell tumor",
+                "b. It arises from the malignant degeneration of an astrocytoma",
+                "c. With aggressive treatment, most patients can live up to 10 years with this disease",
+                "d. It is the most common childhood intracranial neoplasm",
+                "e. With combined surgery, chemotherapy, and radiation therapy, cure rates now approach 50%"
+            ],
+            "answer": "B",
+            "explanation": "*   Glioblastoma multiforme is the most common form of primary intracranial neuroepithelial tumor, representing 25% of all intracranial tumors and 50% of tumors originating in the central nervous system.\n*   It is a heterogeneous glial cell tumor derived from the malignant degeneration of an astrocytoma or anaplastic astrocytoma.\n*   These tumors are most commonly found in the cerebral hemispheres during the fifth decade of life.\n*   CT and MRI scans typically reveal an irregular lesion with hypodense central necrosis, peripheral ring enhancement, surrounding edema, and mass effect.\n*   Curative resections are rare.\n*   Therapy consists of diagnostic biopsy followed by radiotherapy to slow tumor growth.\n*   The disease progresses rapidly after presentation, with few patients living more than 2 years."
+        },
+        {
+            "id": "4",
+            "question_type": "clinical_scenario",
+            "question": "A 60-year-old woman presents to her physician with a 3-wk history of severe headaches. A contrast CT scan reveals a small, circular, hypodense lesion with ringlike contrast enhancement. The most likely diagnosis is",
+            "options": [
+                "a. Brain abscess",
+                "b. High-grade astrocytoma",
+                "c. Parenchymal hemorrhage",
+                "d. Metastatic lesion",
+                "e. Toxoplasmosis"
+            ],
+            "answer": "D",
+            "explanation": "*   The CT findings are consistent with any of the suggested lesions.\n*   However, the most likely diagnosis is metastatic disease, as almost 50% of intracranial neoplasms are metastatic lesions.\n*   Roughly 20–25% of cancer patients develop intracranial metastases during their disease course.\n*   Cancers of the lung and breast and melanomas frequently metastasize to the brain parenchyma.\n*   Leukemia shows a predilection for the leptomeninges.\n*   A large majority of these lesions become symptomatic due to mass effect from white matter edema.\n*   Palliation, involving corticosteroids and radiation, is the primary goal for most patients.\n*   Surgery is employed for 25% of patients with a solitary brain metastasis and cured or arrested systemic disease."
+        },
+        {
+            "id": "5",
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding skull fractures is true?",
+            "options": [
+                "a. Depressed fractures are those in which the patient's level of consciousness is diminished or absent",
+                "b. Compound fractures are those in which the skull is fractured and the underlying brain is lacerated",
+                "c. Any bone fragment displaced more than 1 cm inwardly should be elevated surgically",
+                "d. Drainage of cerebrospinal fluid via the ear or nose requires prompt surgical treatment",
+                "e. Most skull fractures require surgical treatment"
+            ],
+            "answer": "C",
+            "explanation": "*   Most skull fractures do not require surgical treatment unless they are depressed or compound.\n*   All depressed skull fractures, defined as fractures where the cranial vault is displaced inward, should be surgically elevated, especially if depressed more than 1 cm, if a fragment is over the motor strip, or if small, sharp fragments are seen on x-ray (due to potential dural tear).\n*   Compound fractures, where the bone and overlying skin are broken, must be cleansed, debrided, and the wound closed.\n*   Skull fractures in the paranasal sinuses, mastoid air cells, or middle ear can cause a meningeal tear, resulting in cerebrospinal fluid drainage from the ear or nose.\n*   Rhinorrhea or otorrhea requires observation and prophylactic antibiotics due to the risk of meningitis.\n*   Otorrhea usually heals within a few days.\n*   Persistent cerebrospinal fluid from the nose or ear for more than 14 days requires surgical repair of the torn dura."
+        },
+        {
+            "id": "6",
+            "question_type": "interpretation",
+            "question": "A 39-year-old man presents to his physician with the complaint of loss of peripheral vision. The subsequent magnetic resonance imaging (MRI) scan below demonstrates\n\n[Image of MRI scan]\n",
+            "options": [
+                "a. Cerebral atrophy",
+                "b. Pituitary adenoma",
+                "c. Optic glioma",
+                "d. Pontine hemorrhage",
+                "e. Multiple sclerosis plaque"
+            ],
+            "answer": "B",
+            "explanation": "*   This T1-weighted sagittal MRI scan reveals a dumbbell-shaped homogeneous mass involving the sella turcica and the suprasellar region.\n*   This lesion is most consistent with a pituitary adenoma, a benign tumor arising from the adenohypophysis.\n*   Pituitary adenomas are the most common sellar lesion, constituting 10–15% of all intracranial neoplasms.\n*   Macroadenomas (>10 mm) are generally nonsecreting tumors.\n*   Microadenomas (<10 mm) become clinically apparent from hormonal secretion, potentially secreting prolactin (amenorrhea or galactorrhea), growth hormone (gigantism or acromegaly), or ACTH (Cushing syndrome).\n*   The tumor pictured is a macroadenoma, its dumbbell shape resulting from impingement on the adenoma by the diaphragm of the sella turcica.\n*   The suprasellar extension seen here makes a frontal craniotomy, rather than a transsphenoidal approach, more appropriate."
+        },
+        {
+            "id": "7",
+            "question_type": "clinical_scenario",
+            "question": "An 18-year-old man is admitted to the emergency room following a motorcycle accident. He is alert and fully oriented, but witnesses to the accident report an interval of unresponsiveness following the injury. Skull films disclose a fracture of the left temporal bone. Following x-ray, the patient suddenly loses consciousness and dilation of the left pupil is noted. This patient should be considered to have",
+            "options": [
+                "a. Ruptured berry aneurysm",
+                "b. Acute subdural hematoma",
+                "c. Epidural hematoma",
+                "d. Intraabdominal hemorrhage",
+                "e. Ruptured arteriovenous malformation"
+            ],
+            "answer": "C",
+            "explanation": "*   Epidural hematomas are typically caused by a tear of the middle meningeal artery or vein or a dural venous sinus.\n*   Ninety percent of epidural hematomas are associated with linear skull fractures, usually in the temporal region.\n*   Only 2% of patients admitted with craniocerebral trauma suffer epidural hematomas.\n*   The lesion appears as a hyperdense biconvex mass between the skull and brain on CT scan.\n*   Clinical presentation is highly variable, and outcome largely depends on promptness of diagnosis and surgical evacuation.\n*   The typical history involves head trauma followed by a momentary alteration in consciousness, then a lucid interval lasting up to a few hours, followed by loss of consciousness, dilation of the pupil on the side of the epidural hematoma, and then compromise of the brainstem and death.\n*   Treatment consists of temporal craniectomy, evaluation of the hemorrhage, and control of the bleeding vessel.\n*   The mortality of epidural hematoma is approximately 50%."
+        },
+        {
+            "id": "8",
+            "question_type": "interpretation",
+            "question": "Which of the following statements regarding the cerebral angiogram below is true?\n\n[Image of cerebral angiogram]\n",
+            "options": [
+                "a. The aneurysm arises from an arteriovenous malformation",
+                "b. The lesion is a giant aneurysm",
+                "c. There is a basilar artery lesion",
+                "d. Initial treatment includes aggressive fluid hydration",
+                "e. Surgical clipping of this lesion is curative"
+            ],
+            "answer": "E",
+            "explanation": "*   This digital subtraction cerebral angiogram is an oblique view of the anterior circulation of the brain.\n*   Dye injected in the internal carotid reveals an aneurysm at the bifurcation of the internal carotid and the posterior communicating artery.\n*   A giant aneurysm is generally regarded as a lesion greater than 24 mm in cross-section.\n*   Surgical clipping of this aneurysm would be curative.\n*   Only after the risk of rebleeding is eliminated by clipping can the patient undergo volume expansion if vasospasm arises.\n*   The vertebrobasilar system is not visualized here."
+        },
+        {
+            "id": "9",
+            "question_type": "mcq",
+            "question": "An acute increase in intracranial pressure is characterized by which of the following clinical findings?",
+            "options": [
+                "a. Respiratory irregularities",
+                "b. Decreased blood pressure",
+                "c. Tachycardia",
+                "d. Papilledema",
+                "e. Compression of the fifth cranial nerve"
+            ],
+            "answer": "A",
+            "explanation": "*   The onset of irregular respirations, bradycardia, and finally increased blood pressure with increasing intracranial pressure (ICP) is termed the Cushing response.\n*   These physiologic alterations are caused by brainstem compression.\n*   Slow rises in ICP are autoregulated by the brain's compensatory mechanisms and lead to a late onset of neurologic sequelae.\n*   A mass lesion is more apt to compromise local cerebral blood flow and increase cerebral edema and ICP.\n*   The vector of the mass effect may lead to herniation of brain parenchyma through the tentorial incisura or foramen magnum with resultant brainstem compression.\n*   Herniation usually causes compression of the third cranial nerve, leading to a fixed and dilated pupil on that side.\n*   Papilledema is a finding with chronic increases in ICP."
+        },
+        {
+            "id": "10",
+            "question_type": "mcq",
+            "question": "Which of the following statements about schwannomas is true?",
+            "options": [
+                "a. They represent central nerve tumors",
+                "b. Treatment is via excision",
+                "c. They arise most frequently in motor nerves",
+                "d. They often degenerate to malignancy",
+                "e. The most common presentation is a painful mass"
+            ],
+            "answer": "B",
+            "explanation": "*   Peripheral nerve tumors include lesions of peripheral nerves, adrenal gland nerve tissue, and the sympathetic chain.\n*   Schwannomas are peripheral nerve sheath tumors that arise from perineural fibroblasts (Schwann cells).\n*   They are usually painless.\n*   Malignant schwannomas are rare.\n*   Treatment is via surgical excision.\n*   The nerve of origin can usually be preserved.\n*   Because schwannomas have virtually no malignant potential, if a major nerve would have to be sacrificed to extirpate the tumor, the nerve is spared, and a small portion of the tumor is left in situ.\n*   Intracranial schwannomas most frequently originate in the vestibular branch of the eighth cranial nerve, representing 10% of all intracranial neoplasms.\n*   Symptoms include hearing loss, tinnitus, and vertigo.\n*   Neurofibromas are also Schwann cell tumors but are histologically distinguishable from schwannomas.\n*   Neurofibromatosis (von Recklinghausen's disease) involves multiple peripheral nerve neoplasms.\n*   Neuronal tumors of peripheral nerves include ganglioneuroma, neuroblastoma, chemodectoma, and pheochromocytoma."
+        },
+        {
+            "id": "11",
+            "question_type": "mcq",
+            "question": "Which of the following statements about craniopharyngiomas is true?",
+            "options": [
+                "a. The tumors are uniformly solid",
+                "b. The tumors are usually malignant",
+                "c. Children with these tumors often develop signs and symptoms of acromegaly",
+                "d. The tumors may cause compression of the optic tracts and visual symptoms",
+                "e. The primary mode of treatment is radiation therapy"
+            ],
+            "answer": "D",
+            "explanation": "*   Craniopharyngiomas are cystic tumors with areas of calcification that originate in the epithelial remnants of Rathke's pouch.\n*   These usually benign tumors are found in the sellar and suprasellar region.\n*   They lead to compression of the pituitary, optic tracts, and third ventricle, resulting in radiographic imaging showing sellar erosion with calcification within or above the sella.\n*   Craniopharyngiomas are most commonly found in children but may also present in adulthood.\n*   In children, they can cause growth retardation due to hypothalamic-pituitary dysfunction.\n*   Treatment consists of subfrontal or transsphenoidal excision with adjuvant radiotherapy if total removal is not possible."
+        },
+        {
+            "id": "12",
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding cerebral contusions is true?",
+            "options": [
+                "a. They occur most frequently in the occipital lobes",
+                "b. They may occur opposite the point of skull impact",
+                "c. They are rarely accompanied by parenchymal bleeding",
+                "d. They may occur spontaneously in patients receiving anticoagulants",
+                "e. Anticonvulsants have no role in the early management of this disorder"
+            ],
+            "answer": "B",
+            "explanation": "*   Cerebral contusions are bruises of neural parenchyma that most commonly involve the convex surface of a gyrus.\n*   The most frequent sites of cerebral contusion are the orbital surfaces of the frontal lobes and the anterior portion of the temporal lobes.\n*   The etiology of the contusion is always traumatic.\n*   Subsequent neurologic impairment, such as epilepsy, is common if the original injury was significant.\n*   Patients with a substantial contusion should receive anticonvulsive medication in the early posttraumatic period."
+        },
+        {
+            "id": "13",
+            "question_type": "mcq",
+            "question": "True statements regarding meningiomas include that they",
+            "options": [
+                "a. Are malignant in 50% of cases",
+                "b. Occur predominantly in men",
+                "c. Are treated primarily by surgical excision",
+                "d. Are cured, when properly treated, in nearly 95% of cases",
+                "e. Arise from the dura"
+            ],
+            "answer": "C",
+            "explanation": "*   Meningiomas are relatively benign tumors that arise from the arachnoid layer of the meninges.\n*   They occur predominantly in women (65%).\n*   They are treated primarily by surgical excision.\n*   Despite their relatively benign nature, the 15-year survival rate for nonmalignant meningiomas is only 68%."
+        },
+        {
+            "id": "14",
+            "question_type": "matching",
+            "question": "While watching a golf tournament, a 37-year-old man is struck on the side of the head by a golf ball. He is conscious and talkative after the injury, but several days later he is noted to be increasingly lethargic, somewhat confused, and unable to move his right side. (SELECT 1 DIAGNOSIS)",
+            "options": {
+                "items": [
+                    "While watching a golf tournament, a 37-year-old man is struck on the side of the head by a golf ball. He is conscious and talkative after the injury, but several days later he is noted to be increasingly lethargic, somewhat confused, and unable to move his right side."
+                ],
+                "choices": [
+                    "a. Subdural hematoma",
+                    "b. Epidural hematoma",
+                    "c. Carotid dissection",
+                    "d. Brain contusion",
+                    "e. Ruptured intracranial aneurysm"
+                ]
+            },
+            "answer": "A",
+            "explanation": "*   Subdural hematomas usually arise from tears in the veins bridging from the cerebral cortex to the dura or venous sinuses, often after only minor head injuries.\n*   They can become apparent several days after the initial injury.\n*   Treatment involves drainage of the hematoma through a burr hole; a formal craniotomy may be required if the fluid reaccumulates.\n*   Significant brain contusions due to blunt trauma are usually associated with at least transient loss of consciousness.\n*   Epidural hematomas result in a period of unconsciousness, although a “lucid interval” may follow, during which neurologic findings are minimal.\n*   Subarachnoid hemorrhage (SAH) in the absence of antecedent trauma most commonly arises from a ruptured intracranial aneurysm, typically found at the bifurcation of the major branches of the circle of Willis.\n*   Other less frequent causes include hypertensive hemorrhage, trauma, and bleeding from an arteriovenous malformation.\n*   Patients with SAH present with the sudden onset of an excruciating headache, stiff neck, and photophobia.\n*   Loss of consciousness may be transient or evolve into frank coma.\n*   Cranial nerve palsies are seen due to increased intracranial pressure from hemorrhage and pressure of the aneurysm on adjacent cranial nerves.\n*   CT scans followed by cerebral arteriography confirm the diagnosis and identify the aneurysm's location.\n*   Treatment consists of surgical ligation of the aneurysm by placing a clip across its neck.\n*   Early surgical intervention (within 72 h of SAH) may prevent aneurysmal rebleeding and allow aggressive management of posthemorrhage vasospasm."
+        },
+        {
+            "id": "15",
+            "question_type": "matching",
+            "question": "A 42-year-old woman complains of the sudden onset of a severe headache, stiff neck, and photophobia. She loses consciousness. She is later noted to have a dilated pupil. (SELECT 1 DIAGNOSIS)",
+            "options": {
+                "items": [
+                    "A 42-year-old woman complains of the sudden onset of a severe headache, stiff neck, and photophobia. She loses consciousness. She is later noted to have a dilated pupil."
+                ],
+                "choices": [
+                    "a. Subdural hematoma",
+                    "b. Epidural hematoma",
+                    "c. Carotid dissection",
+                    "d. Brain contusion",
+                    "e. Ruptured intracranial aneurysm"
+                ]
+            },
+            "answer": "E",
+            "explanation": "*   Subdural hematomas usually arise from tears in the veins bridging from the cerebral cortex to the dura or venous sinuses, often after only minor head injuries.\n*   They can become apparent several days after the initial injury.\n*   Treatment involves drainage of the hematoma through a burr hole; a formal craniotomy may be required if the fluid reaccumulates.\n*   Significant brain contusions due to blunt trauma are usually associated with at least transient loss of consciousness.\n*   Epidural hematomas result in a period of unconsciousness, although a “lucid interval” may follow, during which neurologic findings are minimal.\n*   Subarachnoid hemorrhage (SAH) in the absence of antecedent trauma most commonly arises from a ruptured intracranial aneurysm, typically found at the bifurcation of the major branches of the circle of Willis.\n*   Other less frequent causes include hypertensive hemorrhage, trauma, and bleeding from an arteriovenous malformation.\n*   Patients with SAH present with the sudden onset of an excruciating headache, stiff neck, and photophobia.\n*   Loss of consciousness may be transient or evolve into frank coma.\n*   Cranial nerve palsies are seen due to increased intracranial pressure from hemorrhage and pressure of the aneurysm on adjacent cranial nerves.\n*   CT scans followed by cerebral arteriography confirm the diagnosis and identify the aneurysm's location.\n*   Treatment consists of surgical ligation of the aneurysm by placing a clip across its neck.\n*   Early surgical intervention (within 72 h of SAH) may prevent aneurysmal rebleeding and allow aggressive management of posthemorrhage vasospasm."
+        }
+    ]
+}

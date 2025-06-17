@@ -1,0 +1,365 @@
+{
+    "chapter_name": "ORTHOPEDICS",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "458. Meniscal tears usually result from which of the following circumstances?",
+            "options": [
+                "a. Hyperextension",
+                "b. Flexion and rotation",
+                "c. Simple hyperflexion",
+                "d. Compression",
+                "e. Femoral condylar fracture"
+            ],
+            "answer": "B",
+            "explanation": "- Most meniscal tears are produced by flexion and rapid rotation.\n- A classic example (\"football knee\") involves a player who is hit while running, with the knee slightly flexed and the foot anchored to the ground by cleats.\n- Impact from an opposing player usually causes rotation almost entirely restricted to the knee.\n- The injury involves rapid rotation of the flexed femoral condyles about the tibial plateau, which most frequently tears the medial meniscus (less frequently, the lateral meniscus).\n- A tear in the inner free border of the cartilage is also common whenever excessive rotation without flexion or extension occurs.\n- Early surgical removal of the displaced menisci is usually recommended to prevent further damage to the cartilage or ligaments."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "459. Volkmann's ischemic contracture is associated with",
+            "options": [
+                "a. Intertrochanteric femoral fracture",
+                "b. Supracondylar fracture of the humerus",
+                "c. Posterior dislocation of the knee",
+                "d. Traumatic shoulder separation",
+                "e. Colles \"silver fork\" fracture"
+            ],
+            "answer": "B",
+            "explanation": "- Compromise of blood supply to the muscles of the forearm can lead to a compartment syndrome and permanent serious functional deformity of the arm.\n- Any patient with a compressive dressing or cast of the upper extremity can experience this potential catastrophe.\n- Whenever a patient has increasing pain in the presence of a circular dressing around the arm or forearm, the dressing should be removed immediately.\n- If there is tenderness in the forearm on either the ulnar or dorsal aspect, a fasciotomy should be considered."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "460. In an uncomplicated dislocation of the glenohumeral joint, the humeral head usually dislocates primarily in which of the following directions?",
+            "options": [
+                "a. Anteriorly",
+                "b. Superiorly",
+                "c. Posteriorly",
+                "d. Laterally",
+                "e. Medially"
+            ],
+            "answer": "A",
+            "explanation": "- The glenohumeral joint is bounded posteriorly by the teres minor and infraspinatus muscles and partially by the long head of the triceps.\n- It is bounded laterally by the powerful deltoid muscle; superiorly, the acromion process precludes upward dislocation.\n- However, anteriorly and inferiorly the pectoralis major and the long head of the biceps do not completely stabilize the glenohumeral joint.\n- In this region, the articular ligaments and joint capsule provide the major structural support.\n- Thus, the joint is not strongly supported in its anteroinferior aspect, and consequently anterior (or anteroinferior) dislocations are the most common glenohumeral dislocations.\n- The humeral head is driven anteriorly, which tears the shoulder capsule, detaches the labrum from the glenoid, and produces a compression fracture of the humeral head.\n- Most glenohumeral dislocations result from a posteriorly directed force on an arm that is partially abducted.\n- Posterior dislocation is much rarer and should raise the possibility of a seizure as the precipitating cause."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "461. The most severe epiphyseal growth disturbance is likely to result from which of the following types of fracture?",
+            "options": [
+                "a. Fracture dislocation of a joint adjacent to an epiphysis",
+                "b. Fracture through the articular cartilage extending into the epiphysis",
+                "c. Transverse fracture of the bone shaft on the metaphyseal side of the epiphysis",
+                "d. Separation of the epiphysis at the diaphyseal side of the growth plate",
+                "e. Crushing injury compressing the growth plate"
+            ],
+            "answer": "E",
+            "explanation": "- Longitudinal growth of bone follows ossification of cartilage that forms at the epiphyseal plate.\n- Fractures that involve separation of the growth plate (type I, almost always on the diaphyseal side) may be realigned; normal growth usually follows epiphyseal separation because the proliferative cells are still attached to their blood supply in the bone epiphysis.\n- Fractures that extend perpendicular to and through the epiphysis (types II, III, IV) may result in the formation of bony bridges across the epiphysis that can disrupt later growth.\n- Though all the fractures listed in the question place the epiphyseal growth plate in some jeopardy, crushing injuries to the epiphysis (type V) have the worst prognosis.\n- Numerous bony bridges may form and prevent longitudinal growth."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "462. Which of the following fractures is most commonly seen in healthy bones subjected to violent falls?",
+            "options": [
+                "a. Colles fracture",
+                "b. Femoral neck fracture",
+                "c. Intertrochanteric fracture",
+                "d. Clavicular fracture",
+                "e. Vertebral compression fracture"
+            ],
+            "answer": "D",
+            "explanation": "- Postmenopausal osteoporosis is responsible for a large number of fractures in elderly women, characterized by decreased total bone mass and trabecular volume despite normal mineralization.\n- Common fracture sites are the vertebrae, distal radius, and hip.\n- Vertebral compression fractures are often sustained by elderly men and women even without trauma.\n- A minor fall on the outstretched hand can lead to a Colles' fracture when the distal radius is weakened by osteoporosis.\n- Similarly, either a femoral neck fracture or an intertrochanteric fracture can follow a fall on the hip.\n- Clavicular fractures are less likely to result from osteoporosis.\n- While these fractures occur in both children and adults, they are common in healthy children and young adults after violent falls onto an outstretched hand."
+        },
+        {
+            "id": 6,
+            "question_type": "clinical_scenario",
+            "question": "463. Which nerve is most at risk in the injury in the accompanying radiograph?",
+            "options": [
+                "a. Median nerve",
+                "b. Radial nerve",
+                "c. Posterior interosseous nerve",
+                "d. Ulnar nerve",
+                "e. Ascending circumflex brachial nerve"
+            ],
+            "answer": "B",
+            "explanation": "- The radiograph demonstrates a transverse fracture of the distal half of the humeral shaft.\n- The radial nerve runs in a groove on the posterior aspect of the humerus as it courses into the forearm compartment and is therefore at high risk of injury.\n- If the nerve injury is apparent before any manipulation has been done, the fracture should be reduced; the nerve injury should be observed since the nerve function will likely improve with time.\n- If the nerve injury is only present after reduction, immediate surgical exploration is warranted because the nerve might be trapped in the fracture site.\n- At this level of the arm, the ulnar and median nerves are well protected by muscle.\n- The posterior interosseous nerve is a distal branch of the radial nerve and may be injured in fractures near the radial head, but it is in no danger from injuries at the level seen in this radiograph.\n- There is no \"ascending circumflex brachial nerve.\""
+        },
+        {
+            "id": 7,
+            "question_type": "clinical_scenario",
+            "question": "464. In a failed suicide gesture, a depressed student severs her radial nerve at the wrist. The expected disability is",
+            "options": [
+                "a. Loss of ability to extend the wrist",
+                "b. Loss of ability to flex the wrist",
+                "c. Wasting of the intrinsic muscles of the hand",
+                "d. Sensory loss over the thenar pad and the thumb web",
+                "e. Palmar insensitivity"
+            ],
+            "answer": "D",
+            "explanation": "- An injury to the radial nerve at the wrist would cause primarily sensory abnormalities.\n- The dorsum of the hand from the radial aspect of the fourth digit over the thumb, including the thenar pad and thumb web, becomes insensate after severance of the radial nerve at the wrist.\n- Radial injuries more proximally would impair extension of the wrist and digits as well as forearm supination."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "465. Which of the following statements regarding compartment syndromes following orthopedic injuries is true?",
+            "options": [
+                "a. The first sign is usually loss of pulse in the extremity",
+                "b. Passive flexion of the extremity proximal to the involved compartment will aggravate the pain",
+                "c. Surgical decompression (fasciectomy) is necessary only as a last resort",
+                "d. These syndromes are most commonly associated with supracondylar fractures of the humerus and tibial shaft",
+                "e. The syndrome is often painless"
+            ],
+            "answer": "D",
+            "explanation": "- Compartment syndromes result from increasing pressures in the fascial compartments of the arm or leg.\n- When the pressure in the muscles is greater than that of the capillaries, ischemia and necrosis of the muscles occur even though the arterial pressure is still high enough to produce pulses; pulselessness is an unreliable sign.\n- Extreme pain (out of proportion to the injury), pain on passive extension of the fingers or toes, pallor of the extremity, motor paralysis, and paresthesias are all components of the syndrome.\n- The patient will usually hold the injured part in a position of flexion to maximally relax the fascia and reduce the pain; passive extension will usually produce severe pain.\n- The diagnosis can be confirmed by measuring intracompartmental pressures, but whenever physical findings or symptoms are suspicious, immediate surgical decompression by fasciectomy is indicated since delay is likely to lead to irreversible damage."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "466. In contrast to closed reduction, open reduction of a fracture",
+            "options": [
+                "a. Produces a shorter healing time",
+                "b. Decreases trauma to the fracture site",
+                "c. Produces a higher incidence of nonunion",
+                "d. Reduces the risk of infection",
+                "e. Requires longer periods of immobilization"
+            ],
+            "answer": "C",
+            "explanation": "- Open reduction of a fracture involves the restoration of normal bone alignment under direct observation at surgery.\n- In effect, open reduction converts a simple fracture into a compound (or open) fracture and thereby increases the risk of infection.\n- Operative manipulation also increases trauma at the fracture site and may consequently add to the probability of infection.\n- Hematomas at the site of fracture may be important for early healing; open reduction, which usually involves removing the clots in the field, could contribute to a delay in bone healing and to nonunion.\n- The major advantage of open reduction is the shorter period of immobilization it allows, an advantage that often outweighs all the disadvantages previously mentioned, as in the open reduction of femoral neck fractures in the elderly.\n- This allows these patients to get out of bed much sooner than if they were treated with several weeks of traction."
+        },
+        {
+            "id": 10,
+            "question_type": "matching",
+            "question": "467. Epileptiform convulsion may be a cause. (SELECT 1 INJURY)",
+            "options": {
+                "items": [
+                    "Epileptiform convulsion may be a cause."
+                ],
+                "choices": [
+                    "a. Navicular (scaphoid) fracture",
+                    "b. Monteggia's deformity",
+                    "c. Greenstick fracture",
+                    "d. Spiral fracture",
+                    "e. Posterior shoulder dislocation"
+                ]
+            },
+            "answer": {
+                "Epileptiform convulsion may be a cause.": "e"
+            },
+            "explanation": "- Posterior shoulder dislocations are seen in special situations, such as during an epileptiform convulsion and during electroshock therapy.\n- Closed reduction followed by immobilization is usually sufficient therapy."
+        },
+        {
+            "id": 11,
+            "question_type": "matching",
+            "question": "468. Avascular necrosis is not uncommon. (SELECT 1 INJURY)",
+            "options": {
+                "items": [
+                    "Avascular necrosis is not uncommon."
+                ],
+                "choices": [
+                    "a. Navicular (scaphoid) fracture",
+                    "b. Monteggia's deformity",
+                    "c. Greenstick fracture",
+                    "d. Spiral fracture",
+                    "e. Posterior shoulder dislocation"
+                ]
+            },
+            "answer": {
+                "Avascular necrosis is not uncommon.": "a"
+            },
+            "explanation": "- Fractures of the navicular bone of the wrist should be suspected in anyone, particularly a young person, who falls on an outstretched hand.\n- Although x-rays are mandatory, it is important to realize that the fracture may not be seen on the initial x-ray and that a presumptive diagnosis can and should be made on clinical grounds alone.\n- Typically, there will be tenderness to palpation over the navicular tuberosity and limitation of wrist flexion and extension.\n- Immobilization of the wrist for about 16 weeks and sometimes up to 6 months is required.\n- Nonunion or avascular necrosis is not uncommon and may require bone grafting for correction."
+        },
+        {
+            "id": 12,
+            "question_type": "matching",
+            "question": "469. The radial head is dislocated and the proximal third of the ulna is fractured. (SELECT 1 INJURY)",
+            "options": {
+                "items": [
+                    "The radial head is dislocated and the proximal third of the ulna is fractured."
+                ],
+                "choices": [
+                    "a. Navicular (scaphoid) fracture",
+                    "b. Monteggia's deformity",
+                    "c. Greenstick fracture",
+                    "d. Spiral fracture",
+                    "e. Posterior shoulder dislocation"
+                ]
+            },
+            "answer": {
+                "The radial head is dislocated and the proximal third of the ulna is fractured.": "b"
+            },
+            "explanation": "- Dislocation of the radial head with a fracture of the proximal third of the ulna is known as Monteggia's deformity.\n- Usually, the radial head is dislocated anteriorly.\n- The injury is usually caused by forced pronation.\n- The injury can be treated by reduction and stabilization of the ulna followed by reduction of the radial head via supination and direct pressure."
+        },
+        {
+            "id": 13,
+            "question_type": "matching",
+            "question": "470. Tenderness in the anatomist's snuffbox may be observed. (SELECT 1 INJURY)",
+            "options": {
+                "items": [
+                    "Tenderness in the anatomist's snuffbox may be observed."
+                ],
+                "choices": [
+                    "a. Navicular (scaphoid) fracture",
+                    "b. Monteggia's deformity",
+                    "c. Greenstick fracture",
+                    "d. Spiral fracture",
+                    "e. Posterior shoulder dislocation"
+                ]
+            },
+            "answer": {
+                "Tenderness in the anatomist's snuffbox may be observed.": "a"
+            },
+            "explanation": "- Fractures of the navicular bone of the wrist should be suspected in anyone, particularly a young person, who falls on an outstretched hand.\n- Although x-rays are mandatory, it is important to realize that the fracture may not be seen on the initial x-ray and that a presumptive diagnosis can and should be made on clinical grounds alone.\n- Typically, there will be tenderness to palpation over the navicular tuberosity and limitation of wrist flexion and extension.\n- Immobilization of the wrist for about 16 weeks and sometimes up to 6 months is required.\n- Nonunion or avascular necrosis is not uncommon and may require bone grafting for correction.\n- A spiral fracture, frequently seen in the tibia in skiers, results from the application of torque to a long bone.\n- Greenstick fractures are common in children.\n- The bones of young children are able to bend to a greater degree than those of adults; the fracture may occur only at the site of maximal cortical stress but not at the opposite cortex, the site of maximal longitudinal compression."
+        },
+        {
+            "id": 14,
+            "question_type": "matching",
+            "question": "471. Association with hyperparathyroidism (SELECT 1 DISEASE)",
+            "options": {
+                "items": [
+                    "Association with hyperparathyroidism"
+                ],
+                "choices": [
+                    "a. Osteogenesis imperfecta",
+                    "b. Osteopetrosis",
+                    "c. Osteitis fibrosa cystica",
+                    "d. Osteomalacia",
+                    "e. Osteitis deformans"
+                ]
+            },
+            "answer": {
+                "Association with hyperparathyroidism": "c"
+            },
+            "explanation": "- Osteitis fibrosa cystica is commonly associated with hyperparathyroidism.\n- Hemorrhagic cystic lesions (brown tumors) usually occur in the long bones.\n- Treatment is parathyroidectomy."
+        },
+        {
+            "id": 15,
+            "question_type": "matching",
+            "question": "472. A defect in the mineralization of adult bone secondary to abnormalities in vitamin D metabolism (SELECT 1 DISEASE)",
+            "options": {
+                "items": [
+                    "A defect in the mineralization of adult bone secondary to abnormalities in vitamin D metabolism"
+                ],
+                "choices": [
+                    "a. Osteogenesis imperfecta",
+                    "b. Osteopetrosis",
+                    "c. Osteitis fibrosa cystica",
+                    "d. Osteomalacia",
+                    "e. Osteitis deformans"
+                ]
+            },
+            "answer": {
+                "A defect in the mineralization of adult bone secondary to abnormalities in vitamin D metabolism": "d"
+            },
+            "explanation": "- Osteomalacia is defined as a defect in mineralization of adult bone that results from abnormalities in vitamin D metabolism.\n- Treatment generally involves vitamin D supplementation."
+        },
+        {
+            "id": 16,
+            "question_type": "matching",
+            "question": "473. Genetically determined disorder in the structure or processing of type I collagen (SELECT 1 DISEASE)",
+            "options": {
+                "items": [
+                    "Genetically determined disorder in the structure or processing of type I collagen"
+                ],
+                "choices": [
+                    "a. Osteogenesis imperfecta",
+                    "b. Osteopetrosis",
+                    "c. Osteitis fibrosa cystica",
+                    "d. Osteomalacia",
+                    "e. Osteitis deformans"
+                ]
+            },
+            "answer": {
+                "Genetically determined disorder in the structure or processing of type I collagen": "a"
+            },
+            "explanation": "- Osteogenesis imperfecta is a genetically determined disorder in the structure or processing of type I collagen.\n- Treatment is surgical and involves orthoses to prevent fractures and correction of deformities by multiple osteotomies."
+        },
+        {
+            "id": 17,
+            "question_type": "matching",
+            "question": "474. Synonym for Paget's disease (SELECT 1 DISEASE)",
+            "options": {
+                "items": [
+                    "Synonym for Paget's disease"
+                ],
+                "choices": [
+                    "a. Osteogenesis imperfecta",
+                    "b. Osteopetrosis",
+                    "c. Osteitis fibrosa cystica",
+                    "d. Osteomalacia",
+                    "e. Osteitis deformans"
+                ]
+            },
+            "answer": {
+                "Synonym for Paget's disease": "e"
+            },
+            "explanation": "- Osteitis deformans is also known as Paget's disease.\n- Osteopetrosis is a rare skeletal deformity associated with increased density of the bones."
+        },
+        {
+            "id": 18,
+            "question_type": "clinical_scenario",
+            "question": "475. An 11-year-old boy presents with pain in his right leg. A radiograph shows a \"sunburst” appearance with bone destruction, soft tissue mass, new bone formation, and sclerosis limited to the metaphysis of the lower femur. (SELECT 1 LESION)",
+            "options": {
+                "items": [
+                    "An 11-year-old boy presents with pain in his right leg. A radiograph shows a \"sunburst” appearance with bone destruction, soft tissue mass, new bone formation, and sclerosis limited to the metaphysis of the lower femur."
+                ],
+                "choices": [
+                    "a. Osteoma",
+                    "b. Osteoid osteoma",
+                    "c. Osteoblastoma",
+                    "d. Osteosarcoma",
+                    "e. Paget's disease",
+                    "f. Ewing's sarcoma"
+                ]
+            },
+            "answer": {
+                "An 11-year-old boy presents with pain in his right leg. A radiograph shows a \"sunburst” appearance with bone destruction, soft tissue mass, new bone formation, and sclerosis limited to the metaphysis of the lower femur.": "d"
+            },
+            "explanation": "- Osteosarcoma, or osteogenic sarcoma, is usually seen in patients between the ages of 10 and 25 years.\n- The distal femur is the site most frequently involved.\n- The radiograph has a blastic, or sunburst, appearance.\n- The tumor is not sensitive to radiation but does respond well to combination chemotherapy followed by surgical resection or amputation."
+        },
+        {
+            "id": 19,
+            "question_type": "clinical_scenario",
+            "question": "476. A 25-year-old man presents with severe pain in the left femur. The pain is relieved by aspirin. On plain film, a 0.5-cm lucent lesion, which is surrounded by marked reactive sclerosis, is seen. (SELECT 1 LESION)",
+            "options": {
+                "items": [
+                    "A 25-year-old man presents with severe pain in the left femur. The pain is relieved by aspirin. On plain film, a 0.5-cm lucent lesion, which is surrounded by marked reactive sclerosis, is seen."
+                ],
+                "choices": [
+                    "a. Osteoma",
+                    "b. Osteoid osteoma",
+                    "c. Osteoblastoma",
+                    "d. Osteosarcoma",
+                    "e. Paget's disease",
+                    "f. Ewing's sarcoma"
+                ]
+            },
+            "answer": {
+                "A 25-year-old man presents with severe pain in the left femur. The pain is relieved by aspirin. On plain film, a 0.5-cm lucent lesion, which is surrounded by marked reactive sclerosis, is seen.": "b"
+            },
+            "explanation": "- An osteoid osteoma typically presents with severe pain that is characteristically relieved by aspirin.\n- On radiograph, the lesion appears as a small lucency (usually <1.0 cm) within the bone that is surrounded by reactive sclerosis.\n- These lesions gradually regress over 5–10 years, but most are excised to relieve symptoms.\n- Surgical extirpation is usually curative."
+        },
+        {
+            "id": 20,
+            "question_type": "clinical_scenario",
+            "question": "477. A 12-year-old boy complains of pain in his left leg that is worse at night. He has been experiencing fevers and also has a 9-lb weight loss. X-ray demonstrates an aggressive lesion with a permeative pattern of bone lysis and periosteal reaction. There is an associated large soft tissue mass as well. Pathology demonstrates the tumor to be of the round cell type. (SELECT 1 LESION)",
+            "options": {
+                "items": [
+                    "A 12-year-old boy complains of pain in his left leg that is worse at night. He has been experiencing fevers and also has a 9-lb weight loss. X-ray demonstrates an aggressive lesion with a permeative pattern of bone lysis and periosteal reaction. There is an associated large soft tissue mass as well. Pathology demonstrates the tumor to be of the round cell type."
+                ],
+                "choices": [
+                    "a. Osteoma",
+                    "b. Osteoid osteoma",
+                    "c. Osteoblastoma",
+                    "d. Osteosarcoma",
+                    "e. Paget's disease",
+                    "f. Ewing's sarcoma"
+                ]
+            },
+            "answer": {
+                "A 12-year-old boy complains of pain in his left leg that is worse at night. He has been experiencing fevers and also has a 9-lb weight loss. X-ray demonstrates an aggressive lesion with a permeative pattern of bone lysis and periosteal reaction. There is an associated large soft tissue mass as well. Pathology demonstrates the tumor to be of the round cell type.": "f"
+            },
+            "explanation": "- Ewing's sarcoma is a round cell-type tumor.\n- This is a highly malignant tumor that affects children (age range 5–15 years) and tends to occur in the diaphyses of long bones.\n- The spine and pelvis can also be primary sites.\n- There is a permeative pattern of bone lysis and periosteal reaction often associated with a large soft tissue mass.\n- Fever and weight loss are common.\n- The pain is often more pronounced at night.\n- Treatment usually involves a combination of radiation and systemic chemotherapy, with 5-year survivals around 50%.\n- Adjuvant surgery in combination with radiation and chemotherapy improves the 5-year survival to about 75%."
+        }
+    ]
+}

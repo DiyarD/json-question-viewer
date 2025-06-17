@@ -1,0 +1,1290 @@
+{
+    "chapter_name": "GASTROINTESTINAL TRACT, LIVER, AND PANCREAS",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "291. Omeprazole has been added to the H₂ antagonists as a therapeutic approach to the management of acute gastric and duodenal ulcers. It acts by",
+            "options": [
+                "a. Blocking breakdown of mucosal-damaging metabolites of NSAIDs",
+                "b. Providing a direct cytoprotective effect",
+                "c. Buffering gastric acids",
+                "d. Inhibiting parietal cell hydrogen-potassium-ATPase",
+                "e. Inhibiting gastrin release and parietal cell acid production"
+            ],
+            "answer": "D",
+            "explanation": "*   Omeprazole (Prilosec) irreversibly inhibits the hydrogen-potassium-ATPase (proton pump) in the secretory canaliculus of the gastric parietal cell.\n*   This blocks the last step in the acid-secretory process.\n*   Omeprazole's duration of action exceeds 24 hours, and doses of 20–30 mg per day inhibit more than 90% of 24-hour acid secretion.\n*   It provides excellent suppression of meal-stimulated and nocturnal acid secretion.\n*   It seems very safe for short-term therapy.\n*   However, its safety for long-term use is uncertain since it produces significant hypergastrinemia, hyperplasia of enterochromaffin-like cells, and carcinoid tumors in laboratory animals with prolonged administration."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "292. Evidence that a splenectomy might benefit a patient with immune (idiopathic) thrombocytopenic purpura (ITP) includes",
+            "options": [
+                "a. A significant enlargement of the spleen",
+                "b. A high reticulocyte count",
+                "c. Megakaryocytic elements in the bone marrow",
+                "d. An increase in the platelet count on cortisone therapy",
+                "e. Patient age of less than 5 years"
+            ],
+            "answer": "D",
+            "explanation": "*   Patients with ITP who have mild symptoms need no therapy but are usually advised to avoid contact sports and elective surgery.\n*   When symptoms (e.g., easy bruising, menorrhagia, bleeding gums) are troublesome, the bleeding time will be prolonged, capillary fragility greatly increased, and clot retraction poor.\n*   Corticosteroid therapy will increase the platelet count in over 75% of cases and provides the best indication that splenectomy will be of lasting benefit.\n*   The platelet count can be expected to rise shortly after splenectomy, and prolonged remissions are anticipated in 80% of cases.\n*   The size of the spleen and the state of function in the bone marrow have no predictive value in assessing the likelihood of response to splenectomy.\n*   In children, complete spontaneous remissions are common (80% of cases), and surgical intervention should be avoided."
+        },
+        {
+            "id": "3",
+            "question_type": "clinical_scenario",
+            "question": "293. An 18-year-old woman presents with abdominal pain, fever, and leukocytosis. With the presumptive diagnosis of appendicitis, a right lower quadrant (McBurney) incision is made and the lesion pictured below is delivered. The process is 50 cm proximal to the ileocecal valve. This lesion",
+            "options": [
+                "a. Can best be diagnosed by preoperative angiogram, which should be done whenever the diagnosis is suspected",
+                "b. Should routinely be removed when incidentally discovered during celiotomy",
+                "c. Is embryologically derived from a persistent vitelline duct (omphalomesenteric duct)",
+                "d. Often contains ectopic adrenal tissue",
+                "e. Is frequently associated with cutaneous flushing and episodic tachycardia"
+            ],
+            "answer": "C",
+            "explanation": "*   This is an inflamed Meckel's diverticulum.\n*   This common lesion is often clinically indistinguishable from acute appendicitis.\n*   It is the remnant of the vitelline duct.\n*   Meckel's diverticula are usually located 50–75 cm proximal to the ileocecal valve, are antimesenteric, and may contain either gastric and pancreatic or pancreatic tissue.\n*   Hemorrhage or obstruction is a more common presentation than inflammation.\n*   99mTc pertechnetate has affinity for gastric mucosa, and a scan with this isotope can aid in the diagnosis of this anomaly as a cause of lower gastrointestinal hemorrhage in a child.\n*   Angiography is more useful when looking for arteriovenous malformations.\n*   Since complications are relatively rare, most authors do not recommend removing asymptomatic diverticula when they are incidentally discovered during abdominal procedures.\n*   Those diverticula with a narrow neck, palpable heterotopic tissue, or nodularity are prone to obstruction and should be excised.\n*   In addition, patients explored for abdominal pain of unknown etiology should also undergo diverticulectomy, as should those operated on for appendicitis who are to be left with a scar of the right lower quadrant."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "294. A 41-year-old man complains of regurgitation of saliva and of ingested but undigested food. An esophagram reveals a “bird's beak\" deformity. Which of the following statements is true about this condition?",
+            "options": [
+                "a. Chest pain is common in the advanced stages of this disease",
+                "b. More patients are improved by forceful dilation than by surgical intervention",
+                "c. Manometry can be expected to show high resting pressures of the lower esophageal sphincter",
+                "d. Surgical treatment primarily consists of resection of the distal esophagus with reanastomosis to the stomach above the diaphragm",
+                "e. Patients with this disease are at no increased risk for the development of carcinoma"
+            ],
+            "answer": "C",
+            "explanation": "*   Patients with achalasia typically present with distal esophageal obstruction, leading to regurgitation of saliva and undigested food.\n*   The characteristic esophagram appearance is the tapered \"bird's beak\" deformity at the esophagogastric junction.\n*   Chest pain may be seen in the early stages of the disease.\n*   Manometry yields high resting pressures of the lower esophageal sphincter, which fails to relax or only partially relaxes.\n*   The absence of peristaltic deglutitory contractions in the body of the esophagus is also noted during manometry.\n*   While both surgical intervention and forceful dilation are used, surgery results in improvement in over 90% of patients compared to 70% with forceful dilation.\n*   Surgical treatment is an esophagomyotomy.\n*   Patients with achalasia have seven times the risk of developing squamous cell carcinoma compared to the general population.\n*   This dreaded complication can occur even after successful treatment."
+        },
+        {
+            "id": "5",
+            "question_type": "mcq",
+            "question": "295. Which of the following statements concerning imperforate anus is true?",
+            "options": [
+                "a. Imperforate anus affects males more frequently than females",
+                "b. In 90% of males, but only 50% of females, the rectum ends below the level of the levator ani complex",
+                "c. The rectum usually ends in a blind pouch",
+                "d. The chance for eventual continence is greater when the rectum has descended to below the levator ani muscles",
+                "e. Immediate definitive repair of the anatomic defect is required to maximize the chance of eventual continence"
+            ],
+            "answer": "D",
+            "explanation": "*   Imperforate anus affects males and females with equal frequency, occurring in 1 of each 20,000 live births.\n*   It is due to failure of descent of the urorectal septum.\n*   Imperforate anus is broadly classified into “high” or “low,” depending on whether the rectum ends above or below the level of the levator ani complex.\n*   In 90% of females, but only 50% of males, the lesion is of the low variety.\n*   The rectal fistula may end in the prostatic urethra or vagina in high cases, while low cases terminate in a perineal fistula.\n*   For low cases, only a perineal operation may be required, and these children are expected to be continent.\n*   A pull-through procedure is required for high imperforate anus, and the likelihood of continence is smaller.\n*   If there is doubt about the level or location of the rectum's termination, it is better to perform a temporary colostomy than to compromise the ultimate chances of continence by an injudicious perineal approach."
+        },
+        {
+            "id": "6",
+            "question_type": "clinical_scenario",
+            "question": "296. The lesion is most likely a",
+            "options": [
+                "a. Pancreatic pseudocyst",
+                "b. Pancreatic adenocarcinoma",
+                "c. Pancreatic cystadenocarcinoma",
+                "d. Retroperitoneal lymphoma",
+                "e. Pancreatic serous cystadenoma"
+            ],
+            "answer": "C",
+            "explanation": "*   This woman had a cystadenocarcinoma arising from the pancreatic body and tail, which was successfully resected.\n*   About 90% of primary malignant neoplasms of the exocrine pancreas are adenocarcinomas of duct cell origin; remaining neoplasms include adenosquamous carcinoma, mucinous carcinomas, microadenocarcinoma, giant cell carcinoma, and cystadenocarcinoma of uncertain histogenesis.\n*   Clinical presentation is usually subtle, with symptoms primarily related to the enlarging mass.\n*   There are no diagnostic laboratory findings, and definitive preoperative diagnosis is rare.\n*   An elderly patient with no history of pancreatitis is unlikely to have a pseudocyst, and a benign neoplasm is less likely in this age group.\n*   These less common carcinomas are often several times the size of typical ductal cancers and often arise in the body or tail of the pancreas.\n*   They may become very large without invading adjacent viscera and generally do not cause significant pain or weight loss.\n*   Therefore, even large tumors may be cured by resection, and aggressive surgical management is indicated."
+        },
+        {
+            "id": "7",
+            "question_type": "mcq",
+            "question": "297. Which of the following statements about this lesion is true?",
+            "options": [
+                "a. Clinical and laboratory findings together establish a preoperative diagnosis",
+                "b. Significant weight loss and back pain are the typical presentation",
+                "c. The lesion may be multilocular or calcified",
+                "d. It is unlikely to be cured by resection if large",
+                "e. It is associated with a history of pancreatitis"
+            ],
+            "answer": "E",
+            "explanation": "*   This woman had a cystadenocarcinoma arising from the pancreatic body and tail, which was successfully resected.\n*   About 90% of primary malignant neoplasms of the exocrine pancreas are adenocarcinomas of duct cell origin; remaining neoplasms include adenosquamous carcinoma, mucinous carcinomas, microadenocarcinoma, giant cell carcinoma, and cystadenocarcinoma of uncertain histogenesis.\n*   Clinical presentation is usually subtle, with symptoms primarily related to the enlarging mass.\n*   There are no diagnostic laboratory findings, and definitive preoperative diagnosis is rare.\n*   An elderly patient with no history of pancreatitis is unlikely to have a pseudocyst, and a benign neoplasm is less likely in this age group.\n*   These less common carcinomas are often several times the size of typical ductal cancers and often arise in the body or tail of the pancreas.\n*   They may become very large without invading adjacent viscera and generally do not cause significant pain or weight loss.\n*   Therefore, even large tumors may be cured by resection, and aggressive surgical management is indicated."
+        },
+        {
+            "id": "8",
+            "question_type": "mcq",
+            "question": "298. A patient with a history of familial polyposis undergoes a diagnostic polypectomy. Which of the following types of polyps is most likely to be found?",
+            "options": [
+                "a. Villous adenoma",
+                "b. Hyperplastic polyp",
+                "c. Adenomatous polyp",
+                "d. Retention polyp",
+                "e. Pseudopolyp"
+            ],
+            "answer": "C",
+            "explanation": "*   Varying types of colonic polyps can be distinguished on pathologic examination.\n*   Adenomatous polyps are distributed throughout the entire large bowel, more commonly in the right and left colon than the rectum.\n*   They are often pedunculated and show an increased number of glands compared with normal mucosa.\n*   Although polyps that appear in familial polyposis are indistinguishable from single adenomatous polyps, they are manifested much earlier in life.\n*   Carcinomatous changes in patients who have familial polyposis occur approximately 20 years before carcinomatous changes of the bowel occur among patients in the general population."
+        },
+        {
+            "id": "9",
+            "question_type": "mcq",
+            "question": "299. What is the most common serious complication of an end colostomy?",
+            "options": [
+                "a. Bleeding",
+                "b. Skin breakdown",
+                "c. Parastomal hernia",
+                "d. Colonic perforation during irrigation",
+                "e. Stomal prolapse"
+            ],
+            "answer": "C",
+            "explanation": "*   According to the United Ostomy Association Data Registry, the most frequent serious complication of end colostomies is parastomal herniation.\n*   This commonly occurs when the stoma is placed lateral to, rather than through, the rectus muscle.\n*   Symptomatic herniation requires operative relocation of the stoma or mesh herniorrhaphy.\n*   Minor problems frequently encountered with colostomies include irregularity of function, irritation of the skin due to leakage of enteric contents, or bleeding from the exposed mucosa following trauma.\n*   Prolapse occurs most frequently with transverse loop colostomies, likely due to the use of the transverse loop to decompress distal colon obstructions.\n*   As the intestine decompresses, it retracts from the edge of the surrounding fascia, allowing prolapse or herniation of the mobile transverse colon.\n*   Optimal treatment of stomal prolapse is restoration of intestinal continuity or conversion to an end colostomy.\n*   Perforation of a stoma is usually due to careless instrumentation with an irrigation catheter.\n*   Perforations causing minimal peritoneal contamination may be treated with observation and antibiotics, while more extensive leaks require operative closure."
+        },
+        {
+            "id": "10",
+            "question_type": "mcq",
+            "question": "300. Which of the following statements regarding pancreatic carcinoma is true?",
+            "options": [
+                "a. The majority of cases present with jaundice alone",
+                "b. CT scan, angiography, and laparoscopy have been unsuccessful in predicting resectability",
+                "c. If a patient is jaundiced, the resectability rate is less than 5%",
+                "d. 99% of patients with pancreatic cancer have metastatic disease at the time of diagnosis",
+                "e. The 5-year survival rate after a Whipple procedure (pancreaticoduodenectomy) performed for cure is 30–40%"
+            ],
+            "answer": "D",
+            "explanation": "*   The prognosis for a patient with carcinoma of the pancreas is dismal.\n*   The plurality of cases (46%) present as pain without jaundice; 34% present as pain with jaundice; and only 13% present with jaundice alone.\n*   Tumors over 1–2 cm may be seen by ultrasonography, computed tomography, or magnetic resonance imaging, but none of these methods can visualize smaller tumors.\n*   Endoscopic retrograde pancreaticocholangiography is helpful in distinguishing more favorable tumors of the duodenum, ampulla, and common bile duct, and lymphomas from cancer of the head of the pancreas.\n*   A combination of techniques including CT, angiography, and laparoscopy will accurately determine resectability in 97% of cases.\n*   Overall, the rate of resectability for possible cure is dismal: 5–10% of all patients and 10–25% of patients who present with jaundice alone (due to earlier diagnosis of small tumors obstructing the common bile duct in the head of the pancreas).\n*   Ninety-nine percent of patients have metastatic disease at the time of diagnosis, and only 5–20% will be alive at 5 years following a pancreaticoduodenectomy."
+        },
+        {
+            "id": "11",
+            "question_type": "mcq",
+            "question": "301. The procedure of choice is",
+            "options": [
+                "a. Simple closure with omental patch",
+                "b. Truncal vagotomy and pyloroplasty",
+                "c. Antrectomy and truncal vagotomy",
+                "d. Highly selective vagotomy",
+                "e. Hemigastrectomy"
+            ],
+            "answer": "C",
+            "explanation": "*   Perforation of a duodenal ulcer is an indication for emergency celiotomy and closure of the perforation.\n*   In patients with no prior history of peptic ulcer disease, simple closure with an omental patch is recommended.\n*   Seventy-two percent of patients who are asymptomatic preoperatively will remain so postoperatively.\n*   Patients with long-standing ulcer disease require a definitive acid-reducing procedure, except in high-risk situations.\n*   The choice of procedure is made by weighing the risk of recurrence against the incidence of undesirable side effects.\n*   Antrectomy and truncal vagotomy offer a recurrence rate of 1% but carry a 15–25% incidence of sequelae such as diarrhea, dumping syndrome, bloating, and gastric stasis.\n*   Highly selective vagotomy, if technically feasible, offers a 1–5% incidence of side effects but carries a recurrence rate of 10–13% in some series, though results are better when gastric and prepyloric ulcers are excluded.\n*   In general, definitive acid-reducing procedures should be postponed if the perforation is more than 12 hours old or if there is extensive peritoneal soilage.\n*   Pyloroplasty and truncal vagotomy carry intermediate rates of recurrence and side effects but have the advantage of speed in the setting of very ill patients with acute perforation."
+        },
+        {
+            "id": "12",
+            "question_type": "mcq",
+            "question": "302. Six weeks after surgery, the patient returns complaining of postprandial weakness, sweating, light-headedness, crampy abdominal pain, and diarrhea. The best management would be",
+            "options": [
+                "a. Antispasmodic medications (e.g., Lomotil)",
+                "b. Dietary advice and counseling that symptoms will probably abate within 3 mo of surgery",
+                "c. Dietary advice and counseling that symptoms will probably not abate but are not dangerous",
+                "d. Workup for neuroendocrine tumor (e.g., carcinoid)",
+                "e. Preparation for revision to Roux-en-Y gastrojejunostomy"
+            ],
+            "answer": "B",
+            "explanation": "*   Though reminiscent of the carcinoid syndrome, this patient's complaints in the context of recent gastric surgery are highly suggestive of the \"dumping syndrome,\" seen after gastroenteric bypass such as antrectomy and gastrojejunostomy.\n*   Dumping syndrome presents as vasomotor symptoms (weakness, sweating, syncope) and intestinal symptoms (bloating, cramping, diarrhea).\n*   The etiology of dumping has been best attributed to the rapid influx of fluid with a high osmotic gradient into the small intestine from the gastric remnant.\n*   Medical management consists of reassurance and frequent small meals that are low in carbohydrates (to limit the osmotic load).\n*   Antispasmodic medications are sometimes used if dietary adjustments are unsuccessful.\n*   The majority of cases will resolve within 3 months of operation on this regimen.\n*   Surgery for intractable dumping consists of creation of an antiperistaltic limb of jejunum distal to the gastrojejunostomy."
+        },
+        {
+            "id": "13",
+            "question_type": "mcq",
+            "question": "303. A 55-year-old man complains of chronic intermittent epigastric pain, and gastroscopy demonstrates a 2-cm ulcer of the distal lesser curvature. Endoscopic biopsy yields no malignant tissue. After a 6-wk trial of H2 blockade and antacid therapy, the ulcer is unchanged. Proper therapy at this point is",
+            "options": [
+                "a. Repeat trial of medical therapy",
+                "b. Local excision of the ulcer",
+                "c. Billroth I partial gastrectomy",
+                "d. Billroth I partial gastrectomy with vagotomy",
+                "e. Vagotomy and pyloroplasty"
+            ],
+            "answer": "C",
+            "explanation": "*   Benign gastric ulcers have a peak incidence in the fifth decade, with male predominance.\n*   About 95% of gastric ulcers are located near the lesser curvature.\n*   It should be recognized that up to 16% of patients with gastric carcinoma pass a 12-week healing trial, and benign ulcers may enlarge during medical therapy.\n*   Therefore, the possibility of malignancy must be assessed by biopsy despite a 5–10% false negative rate.\n*   Six weeks of medical therapy will heal many gastric ulcers, but a recurrence rate as high as 63% and the serious consequence of complications in this older group of patients warrant surgery for recurrent or nonhealing ulcers.\n*   A distal gastrectomy with gastroduodenostomy is usually feasible in the absence of duodenal disease.\n*   Vagotomy, while advocated by some, is generally not included.\n*   Local excision with definitive distal resection or vagotomy and pyloroplasty is appropriate for a proximal ulcer that would otherwise require a subtotal gastrectomy."
+        },
+        {
+            "id": "14",
+            "question_type": "mcq",
+            "question": "304. After initial resuscitation, this man should undergo",
+            "options": [
+                "a. Esophageal balloon tamponade",
+                "b. Barium swallow",
+                "c. Selective angiography",
+                "d. Esophagogastroscopy",
+                "e. Exploratory celiotomy"
+            ],
+            "answer": "D",
+            "explanation": "*   The diagnosis of bleeding esophageal varices in adults is aided by stigmata of portal hypertension.\n*   Upper gastrointestinal hemorrhage in cirrhotics is due to esophageal varices in less than half of patients; gastritis and peptic ulcer disease account for the majority of cases.\n*   Esophagoscopy is the single most reliable means of establishing the source of bleeding, though variations in transvariceal blood flow may result in nonvisualization of the varices.\n*   Endoscopic sclerotherapy is reported to control acute variceal hemorrhage in 80–90% of cases and carries a lower acute mortality than other procedures.\n*   Barium swallow has a high false negative rate and offers no therapeutic advantage.\n*   Celiac angiography will rule out arterial hemorrhage and demonstrate venous collateral circulation but will not demonstrate variceal bleeding.\n*   Parenteral vasopressin controls variceal hemorrhage by constriction of the splanchnic arteriolar bed and a resultant drop in portal pressure.\n*   Intraarterial vasopressin offers no advantage over intravenous administration and requires a mesenteric catheter; the reported control rate is 50–70%.\n*   Esophageal balloon tamponade controls variceal hemorrhage in two-thirds of patients but may also control bleeding ulcers, thereby obscuring the diagnosis.\n*   Although balloon tamponade has reduced mortality and morbidity from variceal hemorrhage in good-risk patients, increased awareness of associated complications (aspiration, asphyxiation, and ulceration at the tamponade site), as well as a rebleeding rate of 40%, has reduced its use.\n*   It is indicated as a temporary measure when vasopressin and sclerotherapy fail.\n*   Emergency portacaval shunt is advised in good-risk cirrhotic patients whose bleeding is not controlled with vasopressin or sclerosis.\n*   The mortality for patients with bleeding varices not subjected to shunting is between 66 and 73%, whereas operative mortality of emergency shunts ranges from 20 to 50%.\n*   Esophageal transection with the autostapler carries the same mortality as shunt procedures, and the rebleeding rate is estimated to be 50% at 1 year."
+        },
+        {
+            "id": "15",
+            "question_type": "mcq",
+            "question": "305. A diagnosis of bleeding esophageal varices is made in this patient. Appropriate initial therapy would be",
+            "options": [
+                "a. Intravenous vasopressin",
+                "b. Endoscopic sclerotherapy",
+                "c. Emergency portacaval shunt",
+                "d. Emergency esophageal transection",
+                "e. Esophageal balloon tamponade"
+            ],
+            "answer": "B",
+            "explanation": "*   The diagnosis of bleeding esophageal varices in adults is aided by stigmata of portal hypertension.\n*   Upper gastrointestinal hemorrhage in cirrhotics is due to esophageal varices in less than half of patients; gastritis and peptic ulcer disease account for the majority of cases.\n*   Esophagoscopy is the single most reliable means of establishing the source of bleeding, though variations in transvariceal blood flow may result in nonvisualization of the varices.\n*   Endoscopic sclerotherapy is reported to control acute variceal hemorrhage in 80–90% of cases and carries a lower acute mortality than other procedures.\n*   Barium swallow has a high false negative rate and offers no therapeutic advantage.\n*   Celiac angiography will rule out arterial hemorrhage and demonstrate venous collateral circulation but will not demonstrate variceal bleeding.\n*   Parenteral vasopressin controls variceal hemorrhage by constriction of the splanchnic arteriolar bed and a resultant drop in portal pressure.\n*   Intraarterial vasopressin offers no advantage over intravenous administration and requires a mesenteric catheter; the reported control rate is 50–70%.\n*   Esophageal balloon tamponade controls variceal hemorrhage in two-thirds of patients but may also control bleeding ulcers, thereby obscuring the diagnosis.\n*   Although balloon tamponade has reduced mortality and morbidity from variceal hemorrhage in good-risk patients, increased awareness of associated complications (aspiration, asphyxiation, and ulceration at the tamponade site), as well as a rebleeding rate of 40%, has reduced its use.\n*   It is indicated as a temporary measure when vasopressin and sclerotherapy fail.\n*   Emergency portacaval shunt is advised in good-risk cirrhotic patients whose bleeding is not controlled with vasopressin or sclerosis.\n*   The mortality for patients with bleeding varices not subjected to shunting is between 66 and 73%, whereas operative mortality of emergency shunts ranges from 20 to 50%.\n*   Esophageal transection with the autostapler carries the same mortality as shunt procedures, and the rebleeding rate is estimated to be 50% at 1 year."
+        },
+        {
+            "id": "16",
+            "question_type": "mcq",
+            "question": "306. During an operation for carcinoma of the hepatic flexure of the colon, an unexpected discontinuous 3-cm metastasis is discovered in the edge of the right lobe of the liver. The surgeon should",
+            "options": [
+                "a. Terminate the operation, screen the patient for evidence of other metastases, and plan further therapy after the reevaluation",
+                "b. Perform a right hemicolectomy and a right hepatic lobectomy",
+                "c. Perform a right hemicolectomy and a wedge resection of the metastasis",
+                "d. Perform a cecostomy and schedule reoperation after a course of systemic chemotherapy",
+                "e. Perform local resection of the primary colon cancer and plan radiation therapy for the lesion on the liver"
+            ],
+            "answer": "C",
+            "explanation": "*   Approximately 5% of colorectal cancers are associated with resectable hepatic metastases.\n*   Appropriate preoperative discussion should include obtaining permission for removal of synchronous peripheral hepatic lesions if found.\n*   If gross tumor is removed, a 25% “cure” rate can be anticipated.\n*   Adequate local resection, either by wedge or limited partial hepatectomy, may be carried out whenever no extrahepatic disease is found and the hepatic lesion is technically removable.\n*   Any option that leaves the potentially obstructing primary cancer unremoved would be unacceptable.\n*   Radiation therapy has little to offer in colon cancer or its hepatic metastases.\n*   Local infusion of floxuridine (FUDR) via an implantable Infusaid pump for 14 days at 0.3 mg/kg/day has been reported to provide some acceptable palliation in selected patients with unresectable hepatic lesions."
+        },
+        {
+            "id": "17",
+            "question_type": "mcq",
+            "question": "307. A 42-year-old man with no history of use of nonsteroidal anti-inflammatory drugs (NSAIDs) presents with recurrent gastritis. Infection with Helicobacter pylori is suspected. Which of the following statements is true?",
+            "options": [
+                "a. Morphologically, the bacteria is a gram-positive, tennis-racket-shaped organism",
+                "b. Diagnosis can be made by serologic testing or urea breath tests",
+                "c. Diagnosis is most routinely achieved via culturing endoscopic scrapings",
+                "d. The most effective way to treat and prevent recurrence of this patient's gastritis is through the use of single-drug therapy aimed at eradicating H. pylori",
+                "e. The organism is easily eradicated"
+            ],
+            "answer": "B",
+            "explanation": "*   Helicobacter pylori infections have become extremely common, infecting nearly a third of all American adults.\n*   Morphologically, the organism is a gram-negative, corkscrew-shaped, motile bacillus with three to seven flagella.\n*   Noninvasive approaches with simple, relatively inexpensive serologic and urea breath tests can establish the diagnosis of H. pylori infection.\n*   Culturing endoscopic scrapings or biopsy specimens has proved impractical due to the need for special media and elaborate growth conditions.\n*   A rapid urease test is used when endoscopy provides a specimen for analysis.\n*   Therapy is problematic because the organism is not easily eradicated, and monotherapy is largely ineffective.\n*   However, dual- and triple-drug therapy can achieve eradication in 80–90% of patients.\n*   Unfortunately, compliance rates with multidrug therapy are low."
+        },
+        {
+            "id": "18",
+            "question_type": "mcq",
+            "question": "308. Which of the following hernias follows the path of the spermatic cord within the cremaster muscle?",
+            "options": [
+                "a. Femoral",
+                "b. Direct inguinal",
+                "c. Indirect inguinal",
+                "d. Spigelian",
+                "e. Interparietal"
+            ],
+            "answer": "C",
+            "explanation": "*   An indirect inguinal hernia leaves the abdominal cavity by entering the dilated internal inguinal ring and passing along the anteromedial aspect of the spermatic cord.\n*   The internal inguinal ring is an opening in the transversalis fascia for the passage of the spermatic cord; therefore, an indirect inguinal hernia lies within the fibers of the cremaster muscle.\n*   Repair consists of removing the hernia sac and tightening the internal inguinal ring.\n*   A femoral hernia passes directly beneath the inguinal ligament at a point medial to the femoral vessels.\n*   A direct inguinal hernia passes through a weakness in the floor of the inguinal canal medial to the inferior epigastric artery.\n*   Both femoral and direct inguinal hernias are dependent on defects in Hesselbach's triangle of transversalis fascia and neither lies within the cremaster muscle fibers.\n*   Repair of direct inguinal hernias consists of reconstructing the floor of the inguinal canal.\n*   Spigelian hernias, which are rare, protrude through an anatomic defect that can occur along the lateral border of the rectus muscle at its junction with the linea semilunaris.\n*   An interparietal hernia is one in which the hernia sac, instead of protruding in the usual fashion, makes its way between the fascial layers of the abdominal wall.\n*   These unusual hernias may be preperitoneal (between the peritoneum and transversalis fascia), interstitial (between muscle layers), or superficial (between the external oblique aponeurosis and the skin)."
+        },
+        {
+            "id": "19",
+            "question_type": "mcq",
+            "question": "309. A spry octogenarian who has never before been hospitalized is admitted with signs and symptoms typical of a small bowel obstruction. Which of the following clinical findings would give the most help in ascertaining the diagnosis?",
+            "options": [
+                "a. Coffee-grounds aspirate from the stomach",
+                "b. Aerobilia",
+                "c. A leukocyte count of 40,000/μL",
+                "d. A pH of 7.5, Pco₂ of 50 kPa, and paradoxically acid urine",
+                "e. A palpable mass in the pelvis"
+            ],
+            "answer": "B",
+            "explanation": "*   The finding of air in the biliary tract of a nonseptic patient is diagnostic of a biliary enteric fistula.\n*   When clinical findings also include small bowel obstruction in an elderly patient without a history of prior abdominal surgery (a \"virgin\" abdomen), the diagnosis of gallstone ileus can be made with high certainty.\n*   In gallstone ileus, a large chronic gallstone mechanically erodes through the gallbladder wall into the adjacent stomach or duodenum.\n*   As the stone moves down the small intestine, mild cramping symptoms are common.\n*   When the gallstone arrives in the distal ileum, the bowel caliber no longer allows passage, and obstruction develops.\n*   Surgical removal of the gallstone is necessary.\n*   The diseases suggested by other response items (bleeding ulcer, peritoneal infection, pyloric outlet obstruction, pelvic neoplasm) are common in elderly patients, but each would probably present with symptoms other than those of small bowel obstruction."
+        },
+        {
+            "id": "20",
+            "question_type": "mcq",
+            "question": "310. Which of the following colonic pathologies is thought to have no malignant potential?",
+            "options": [
+                "a. Ulcerative colitis",
+                "b. Villous adenomas",
+                "c. Familial polyposis",
+                "d. Peutz-Jeghers syndrome",
+                "e. Crohn's colitis"
+            ],
+            "answer": "D",
+            "explanation": "*   Cancer of the colon in patients with chronic ulcerative colitis is 10 times more frequent than in the general population.\n*   Duration of disease is very important; the risk of developing cancer is low in the first 10 years but thereafter rises about 4% per year.\n*   The average age of cancer development in patients with chronic ulcerative colitis is 37 years; idiopathic carcinoma of the colon, however, develops at an average age of 65 years.\n*   Crohn's colitis is currently felt to be a precancerous condition as well.\n*   The chance of development of carcinoma of the colon in patients with familial polyposis is essentially 100%.\n*   Treatment of familial polyposis generally consists of subtotal colectomy with ileoproctostomy and regular proctoscopic examination of the rectal stump.\n*   Villous adenomas have been demonstrated to contain malignant portions in about one-third of affected persons and invasive malignancy in another one-third of removed specimens.\n*   Anterior resection is performed for large lesions or those containing invasive carcinomas when the lesion is above the peritoneal reflection.\n*   Abdominoperineal resection is indicated for low-lying rectal villous adenomas when they have demonstrated invasive carcinomas.\n*   Transrectal excision with regular follow-up examinations is sufficient for lesions without invasive carcinomas.\n*   Peutz-Jeghers syndrome is characterized by intestinal polyposis and melanin spots of the oral mucosa.\n*   Unlike the adenomatous polyps seen in familial polyposis, the lesions in this condition are hamartomas, which have no malignant potential."
+        },
+        {
+            "id": "21",
+            "question_type": "mcq",
+            "question": "311. A 70-year-old woman has nausea, vomiting, abdominal distention, and episodic, crampy midabdominal pain. She has no history of previous surgery but has a long history of cholelithiasis for which she has refused surgery. Her abdominal radiograph reveals a spherical density in the right lower quadrant. Correct treatment should consist of",
+            "options": [
+                "a. Ileocolectomy",
+                "b. Cholecystectomy",
+                "c. Ileotomy and extraction",
+                "d. Nasogastric tube decompression",
+                "e. Intravenous antibiotics"
+            ],
+            "answer": "C",
+            "explanation": "*   Gallstone ileus is due to erosion of a stone from the gallbladder into the gastrointestinal tract (most commonly into the duodenum).\n*   The stone becomes lodged in the small bowel (usually in the terminal ileum) and causes small-bowel obstruction.\n*   Plain films of the abdomen demonstrating small-bowel obstruction and air in the biliary tract are diagnostic.\n*   Treatment consists of ileotomy, removal of the stone, and cholecystectomy if technically safe.\n*   If there is significant inflammation of the right upper quadrant, ileotomy for stone extraction followed by an interval cholecystectomy is often a safer alternative.\n*   Operating on the biliary fistula doubles the mortality rate compared with simple removal of the gallstone from the intestine."
+        },
+        {
+            "id": "22",
+            "question_type": "mcq",
+            "question": "312. Which of the following statements concerning Hirschsprung's disease is true?",
+            "options": [
+                "a. It is initially treated by colostomy",
+                "b. It is best diagnosed in the newborn period by barium enema",
+                "c. It is characterized by the absence of ganglion cells in the transverse colon",
+                "d. It is associated with a high incidence of genitourinary tract anomalies",
+                "e. It is the congenital disease that most commonly leads to subsequent fecal incontinence"
+            ],
+            "answer": "A",
+            "explanation": "*   Hirschsprung's disease, the congenital absence of ganglion cells in the rectum or rectosigmoid colon, is definitively diagnosed by rectal biopsy.\n*   Typical findings on barium enema (distal narrow segment of bowel with markedly distended colon proximally) may not be seen early in life.\n*   Symptoms may go unrecognized in the newborn period, leading to malnutrition or enterocolitis.\n*   Initial treatment is colostomy decompression.\n*   Definitive repair is best delayed until nutritional status is adequate and the chronically distended bowel has returned to normal size.\n*   Unlike imperforate anus, which is associated with a high incidence of genitourinary tract anomalies and a 50% incidence of long-term fecal incontinence, Hirschsprung's disease repair leads to satisfactory bowel function in most affected patients."
+        },
+        {
+            "id": "23",
+            "question_type": "mcq",
+            "question": "313. Spontaneous closure of which of the following congenital abnormalities of the abdominal wall generally occurs by the age of 4?",
+            "options": [
+                "a. Umbilical hernia",
+                "b. Patent urachus",
+                "c. Patent omphalomesenteric duct",
+                "d. Omphalocele",
+                "e. Gastroschisis"
+            ],
+            "answer": "A",
+            "explanation": "*   Omphalocele and gastroschisis result in evisceration of bowel and require emergency surgical treatment for immediate or staged reduction and abdominal wall closure.\n*   Patent urachal or omphalomesenteric ducts result from incomplete closure of embryonic connections from the bladder and ileum, respectively, to the abdominal wall.\n*   They are appropriately treated by excision of the tracts and closure of the bladder or ileum.\n*   In most children, umbilical hernias close spontaneously by the age of 4 and need not be repaired unless incarceration or marbled enlargement and distortion of the umbilicus occur."
+        },
+        {
+            "id": "24",
+            "question_type": "mcq",
+            "question": "314. Laparoscopic cholecystectomy is indicated for symptomatic gallstones in which of the following conditions?",
+            "options": [
+                "a. Cirrhosis",
+                "b. Prior upper abdominal surgery",
+                "c. Suspected carcinoma of the gallbladder",
+                "d. Morbid obesity",
+                "e. Coagulopathy"
+            ],
+            "answer": "D",
+            "explanation": "*   Laparoscopic cholecystectomy is now viewed as the treatment of choice for most patients with symptomatic gallstones.\n*   This procedure has frequently been performed in obese patients with the same efficiency, morbidity and mortality rates, and length of hospitalization as in the average-weight population.\n*   The other conditions listed represent currently accepted relative contraindications.\n*   However, as experience increases and techniques improve, the safe indications for laparoscopic cholecystectomy are likely to expand."
+        },
+        {
+            "id": "25",
+            "question_type": "mcq",
+            "question": "315. Infants with anorectal anomalies tend to have other congenital anomalies. Associated abnormalities include which of the following?",
+            "options": [
+                "a. Abnormalities of the cervical spine",
+                "b. Hydrocephalus",
+                "c. Duodenal atresia",
+                "d. Heart disease",
+                "e. Corneal opacities"
+            ],
+            "answer": "D",
+            "explanation": "*   Congenital anorectal anomalies are frequently associated with other congenital anomalies including heart disease, esophageal atresia, abnormalities of the lumbosacral spine, double urinary collecting systems, hydronephrosis, and communication between the rectum and the urinary tract, vagina, or perineum.\n*   They occur in approximately 1 in 2000 live births.\n*   Depending on the type of anomaly (whether the rectum ends above or below the level of the levator ani complex), a variety of surgical procedures has been devised to treat the problem.\n*   However, even when anatomic integrity is established, the prognosis for effective toilet training is poor; in 50% of cases, continence is never achieved.\n*   Cervical spine abnormalities, hydrocephalus, duodenal atresia, and corneal opacities have no significant association with congenital anorectal anomalies."
+        },
+        {
+            "id": "26",
+            "question_type": "clinical_scenario",
+            "question": "316. A 48-year-old woman develops pain of the right lower quadrant while playing tennis. The pain progresses and the patient presents to the emergency room later that day with a low-grade fever, a white blood count of 13,000, and complaints of anorexia and nausea as well as persistent, sharp pain of the right lower quadrant. On examination she is tender in the right lower quadrant with muscular spasm and there is a suggestion of a mass effect. An ultrasound is ordered and shows an apparent mass in the abdominal wall. Which of the following is the most likely diagnosis?",
+            "options": [
+                "a. Acute appendicitis",
+                "b. Cecal diverticulitis",
+                "c. Hematoma of the rectus sheath",
+                "d. Torsion of an ovarian cyst",
+                "e. Cholecystitis"
+            ],
+            "answer": "C",
+            "explanation": "*   Hematomas of the rectus sheath are more common in women and present most often in the fifth decade.\n*   A history of trauma, sudden muscular exertion, or anticoagulation can usually be elicited.\n*   The pain is of sudden onset and is sharp in nature.\n*   The hematoma is most common in the right lower quadrant, and irritation of the peritoneum leads to fever, leukocytosis, anorexia, and nausea.\n*   Preoperatively, the diagnosis can be established with an ultrasound or CT scan showing a mass within the rectus sheath.\n*   Management is conservative unless symptoms are severe and bleeding persists, in which case surgical evacuation of the hematoma and ligation of bleeding vessels are required."
+        },
+        {
+            "id": "27",
+            "question_type": "clinical_scenario",
+            "question": "317. A 36-h-old infant presents with bilious vomiting and an increasingly distended abdomen. At exploration the segment below is found as the point of obstruction. Which of the following statements regarding this finding is true?",
+            "options": [
+                "a. Resection with primary anastomosis should not be performed",
+                "b. Gentle, persistent traction on the specimen usually corrects the defect and removes the need for a resection",
+                "c. The lesion is much more common in the jejunum than in the ileum in this age group",
+                "d. This problem is probably related to mesenteric vascular insufficiency",
+                "e. A properly monitored barium enema might have corrected this defect and removed the need for an operation"
+            ],
+            "answer": "D",
+            "explanation": "*   This is an example of an ileal atresia.\n*   Whether the atresia is jejunal or ileal does not affect treatment, and there is no predilection for one site over the other.\n*   Resection and primary anastomosis should be performed if possible, but the bowel should be exteriorized if there is a question of viability or a large size discrepancy between two segments.\n*   Plain films will reveal a small bowel obstruction with no gas beyond the lesion.\n*   A carefully administered meglumine diatrizoate (Gastrografin) enema can help in the differential diagnosis.\n*   Midgut volvulus and meconium ileus can be apparent on an enema, which is important as meconium ileus should be managed nonoperatively.\n*   The basis of jejunoileal atresia is probably a mesenteric vascular accident during intrauterine growth."
+        },
+        {
+            "id": "28",
+            "question_type": "mcq",
+            "question": "318. In determining the proper treatment for a sliding hiatal hernia, the most useful step would be",
+            "options": [
+                "a. Barium swallow with cinefluoroscopy during Valsalva maneuver",
+                "b. Flexible endoscopy",
+                "c. 24-h monitoring of esophageal pH",
+                "d. Measuring the size of the hernia",
+                "e. Assessing the patient's smoking and drinking history"
+            ],
+            "answer": "B",
+            "explanation": "*   Surgical treatment for sliding esophageal hernias should only be considered in symptomatic patients with objectively documented esophagitis or stenosis.\n*   The overwhelming majority of sliding hiatal hernias are totally asymptomatic, even many of those with demonstrable reflux.\n*   Even in the presence of reflux, esophageal inflammation rarely develops because the esophagus is so efficient at clearing the refluxed acid.\n*   Symptomatic hernias should be treated vigorously by medical measures that have been found helpful.\n*   Patients who have symptoms of episodic reflux and who remain untreated can expect their disease to progress to intolerable esophagitis or fibrosis and stenosis.\n*   Neither the presence of the hernia nor its size is important in deciding on surgical therapy.\n*   Once esophagitis has been documented to persist under adequate medical therapy, manometric or pH studies may help determine the optimum surgical treatment."
+        },
+        {
+            "id": "29",
+            "question_type": "mcq",
+            "question": "319. Which of the following statements regarding the etiology of obstructive jaundice is true?",
+            "options": [
+                "a. A markedly elevated SGOT and SGPT are usually associated with obstructive jaundice",
+                "b. When extrahepatic biliary obstruction is suspected, the first test should be endoscopic ultrasonography (EUS)",
+                "c. A Klatskin tumor will result in extrahepatic ductal dilation only",
+                "d. A liver-spleen scan will add significantly to the diagnostic workup for obstructive jaundice",
+                "e. Carcinoma of the head of the pancreas can cause deep epigastric or back pain in as many as 80% of patients"
+            ],
+            "answer": "B",
+            "explanation": "*   While elevation of SGOT and SGPT are indicative of hepatocellular disease, elevated alkaline phosphatase is indicative of biliary obstruction.\n*   Based on safety and cost, ultrasonography is the initial diagnostic procedure.\n*   Once ductal dilation is identified, a percutaneous transhepatic cholangiogram or ERCP may be performed to localize and characterize the obstruction.\n*   If a distal common bile duct obstruction is noted, a CT scan is recommended to image the head of the pancreas.\n*   In most instances, a liver-spleen scan adds little to the diagnostic workup.\n*   This also applies to the upper gastrointestinal series.\n*   Cancer of the head of the pancreas is associated with painless jaundice."
+        },
+        {
+            "id": "30",
+            "question_type": "mcq",
+            "question": "320. A previously healthy 9-year-old child comes to the emergency room because of fulminant upper gastrointestinal bleeding. The hemorrhage is most likely to be the result of",
+            "options": [
+                "a. Esophageal varices",
+                "b. Mallory-Weiss syndrome",
+                "c. Gastritis",
+                "d. A gastric ulcer",
+                "e. A duodenal ulcer"
+            ],
+            "answer": "A",
+            "explanation": "*   Massive hematemesis in children is almost always due to variceal bleeding.\n*   Varices usually result from extrahepatic portal vein obstruction consequent to bacterial infection transmitted via a patent umbilical vein during infancy.\n*   Despite this common cause, a history of neonatal omphalitis is infrequently obtainable.\n*   Bleeding can be massive but is usually self-limited, and esophageal tamponade or vasopressin is usually not necessary.\n*   Elective portal-systemic decompression is recommended for recurrent bleeding episodes."
+        },
+        {
+            "id": "31",
+            "question_type": "mcq",
+            "question": "321. Intragastric pressure remains steady near 2–5 mm Hg during slow gastric filling, but rises rapidly to high levels after reaching a volume of",
+            "options": [
+                "a. 400–600 mL",
+                "b. 700–900 mL",
+                "c. 1000–1200 mL",
+                "d. 1300–1500 mL",
+                "e. 1600–1800 mL"
+            ],
+            "answer": "C",
+            "explanation": "*   The proximal stomach can distend or accommodate a large volume without any increase in intragastric pressure.\n*   This phenomenon permits solid food to settle along the greater curvature while liquids are propelled along the lesser curvature by slow tonic contractions of the upper stomach.\n*   In the normal state, once a volume of 1000–1200 mL is reached, intragastric pressure rises to high levels.\n*   While the stomach's ability to accommodate large volumes is necessary for normal gastric motor activity, a potentially deleterious effect is seen in patients with gastric atony.\n*   These patients may accumulate several liters of gastric juice in the stomach without sensing fullness, often leading to massive emesis and aspiration."
+        },
+        {
+            "id": "32",
+            "question_type": "mcq",
+            "question": "322. Which of the following statements is true regarding the effects of colon resection?",
+            "options": [
+                "a. Net absorption of water by the rectum has been demonstrated in humans",
+                "b. Patients who undergo major colon resections suffer little change in their bowel habits following operation",
+                "c. The left colon is better adapted for water absorption than the right colon",
+                "d. The right colon is better adapted for electrolyte absorption than the left colon",
+                "e. The role of the ileocecal valve in normal fluid homeostasis is well established"
+            ],
+            "answer": "B",
+            "explanation": "*   Because the reserve capacity of the colon for water absorption greatly exceeds the normal requirements for maintaining stable bowel function, patients may undergo resection of a large fraction of the colon and suffer little change in bowel habits.\n*   Neither the right nor the left colon appears to be a site of preferential water and electrolyte absorption, nor does the ileocecal valve play a noticeable role in fluid homeostasis.\n*   However, in diseases characterized by increased fluid secretion of the small bowel, the colon is more likely to be overwhelmed by the absorptive demand following partial colectomy than in the intact state.\n*   The rectum does not appear to play a role in fluid absorption."
+        },
+        {
+            "id": "33",
+            "question_type": "mcq",
+            "question": "323. Operative planning and preoperative counseling for a patient with a rectal carcinoma can be best provided if the patient is staged before surgery by",
+            "options": [
+                "a. Rigid proctoscopy",
+                "b. Barium enema",
+                "c. MRI of the pelvis",
+                "d. CT scanning of the pelvis",
+                "e. Rectal endosonography"
+            ],
+            "answer": "E",
+            "explanation": "*   Workup of a patient with a diagnosed rectal cancer should include CT scan of the upper abdomen in search of liver metastases and assessment of the depth of local invasion by transanal ultrasound.\n*   Sonographic staging of the rectal wall and pararectal lymph nodes has become crucial in planning the magnitude of the resection and choice of preoperative treatment.\n*   The survival advantages of neoadjuvant radiation therapy now seem clear.\n*   Administering radiation preoperatively to large or deeply invasive tumors often reduces the tumor mass and permits clean resection of previously bulky disease.\n*   In addition, the cytoreductive effect of preoperative radiation therapy now allows many patients to undergo sphincter-saving procedures and avoid the morbidity of proctectomy and colostomy."
+        },
+        {
+            "id": "34",
+            "question_type": "mcq",
+            "question": "324. Which statement regarding absorption by the small intestine is true?",
+            "options": [
+                "a. All but the fat in milk is digested and absorbed in humans by the end of the duodenum",
+                "b. Complete absorption of carbohydrates in a normal meal occurs in the ileum",
+                "c. In short gut syndrome, much of the dietary carbohydrate appears in the stool",
+                "d. Aldosterone markedly decreases sodium transport across the gut mucosa",
+                "e. Enzymes of the brush border of the small intestine can digest and absorb less than 5% of an average protein meal in the absence of the pancreas"
+            ],
+            "answer": "A",
+            "explanation": "*   Digestion and absorption of dietary carbohydrate by the duodenum and small intestine are so avid that complete absorption has already occurred by the time ingested food has traversed 200 cm of jejunum.\n*   Simple fluids that require minimal digestion, such as milk, are entirely absorbed, save for their fat content, within the duodenum.\n*   Even in the short gut syndrome, virtually all dietary carbohydrate is absorbed within the residual jejunum.\n*   While pancreatic peptidases are important to protein digestion, redundant digestive enzymes are so widely distributed within the duodenal and jejunal brush border that 95% of a protein meal can be absorbed in the absence of the pancreas.\n*   Salt and water flux in the small intestine is influenced by a variety of hormones; aldosterone markedly increases sodium uptake, while prostaglandins stimulate fluid and electrolyte secretion."
+        },
+        {
+            "id": "35",
+            "question_type": "mcq",
+            "question": "325. Local stimuli that inhibit the release of gastrin from the gastric mucosa include which of the following?",
+            "options": [
+                "a. Small proteins",
+                "b. 20-proof alcohol",
+                "c. Caffeine",
+                "d. Acidic antral contents",
+                "e. Antral distention"
+            ],
+            "answer": "D",
+            "explanation": "*   Gastrin, an aqueous extract of the antral G cell, stimulates acid and pepsin secretion.\n*   A variety of local stimuli cause the release of gastrin.\n*   The most potent of these are small proteins, 20-proof alcohol, and caffeine.\n*   Acidic antral contents inhibit gastrin secretion; alkalinization of the antrum is stimulatory.\n*   Mechanical distention of the antrum also stimulates gastrin secretion."
+        },
+        {
+            "id": "36",
+            "question_type": "mcq",
+            "question": "326. Which statement regarding fat absorption is true?",
+            "options": [
+                "a. Half of neutral fat can be absorbed in the complete absence of bile and pancreatic lipase",
+                "b. Fifty percent of the total bile salt pool is lost in the stool and replaced daily by synthesis in the liver",
+                "c. Glycerol, short-chain fatty acids, and medium-chain triglycerides exit the mucosal cell in chylomicrons",
+                "d. Conjugated bile salts are actively resorbed in the colon and returned to the liver via the portal vein",
+                "e. Water-insoluble dietary lipid is rendered into soluble micelles through mixing with pancreatic amylase"
+            ],
+            "answer": "A",
+            "explanation": "*   As with carbohydrate digestion, the gastrointestinal tract exhibits remarkable redundancy and alternative pathways to facilitate fat uptake.\n*   In the normal state, water-insoluble dietary lipid is rendered into soluble micelles through mixing with pancreatic and intestinal lipase and with bile.\n*   However, lipases of the stomach and small intestine permit absorption of approximately half of neutral dietary fat in the absence of bile and pancreatic secretion.\n*   Small breakdown products of complex fats—such as glycerol, short-chain fatty acids, and medium-chain triglycerides—can be transported directly from the jejunal mucosal cell into the portal venous system.\n*   Larger triglycerides, resynthesized by the mucosal cells from fatty acids, are deposited in chylomicrons and released into the lymphatic system.\n*   Enterohepatic recirculation of bile with active resorption in the ileum and secretion into the portal venous system yields an effective bile salt pool 6–8 times its actual volume.\n*   Normal daily losses of bile into the stool represent 10–15% of the total bile salt pool; these losses can usually be replaced by new synthesis in the liver.\n*   However, bile salt-wasting states, such as inflammatory bowel disease or ileal resection, may exceed the liver's capacity to maintain an adequate volume of bile."
+        },
+        {
+            "id": "37",
+            "question_type": "mcq",
+            "question": "327. For a symptomatic partial duodenal obstruction secondary to an annular pancreas, the operative treatment of choice is",
+            "options": [
+                "a. A Whipple procedure",
+                "b. Gastrojejunostomy",
+                "c. Vagotomy and gastrojejunostomy",
+                "d. Partial resection of the annular pancreas",
+                "e. Duodenojejunostomy"
+            ],
+            "answer": "E",
+            "explanation": "*   A bypass procedure is the operation of choice for obstruction secondary to an annular pancreas.\n*   A Whipple procedure is too radical a therapy for this benign disease.\n*   Partial resection of the annular pancreas often is complicated by fistula.\n*   Duodenojejunostomy is much more physiologic than gastrojejunostomy and does not require a vagotomy to prevent marginal ulceration; it is therefore the procedure of choice."
+        },
+        {
+            "id": "38",
+            "question_type": "clinical_scenario",
+            "question": "328. A previously healthy 15-year-old boy is brought to the emergency room with complaints of about 12 h of progressive anorexia, nausea, and pain of the right lower quadrant. On physical examination, he is found to have a rectal temperature of 38.18°C (100.58°F) and has direct and rebound abdominal tenderness localizing to McBurney's point as well as involuntary guarding in the right lower quadrant. At operation through a McBurney-type incision, the appendix and cecum are found to be normal, but the surgeon is impressed with the marked edema of the terminal ileum, which also has an overlying fibrinopurulent exudate. The correct procedure is to",
+            "options": [
+                "a. Close the abdomen after culturing the exudate",
+                "b. Perform a standard appendectomy",
+                "c. Resect the involved terminal ileum",
+                "d. Perform the ileocolic resection",
+                "e. Perform an ileocolostomy to bypass the involved terminal ileum"
+            ],
+            "answer": "B",
+            "explanation": "*   Patients with regional enteritis usually have a chronic and slowly progressive course with intermittent symptom-free periods.\n*   The usual symptoms are anorexia, abdominal pain, diarrhea, fever, and weight loss.\n*   Extraintestinal syndromes that may be seen include ankylosing spondylitis, polyarthritis, erythema nodosum, pyoderma gangrenosum, gallstones, hepatic fatty infiltration, and fibrosis of the biliary tract, pancreas, and retroperitoneum.\n*   However, in about 10% of patients, especially young individuals, the onset of the disease is abrupt and may be mistaken for acute appendicitis.\n*   Appendectomy is indicated in such patients as long as the cecum at the base of the appendix is not involved; otherwise, the risk of fecal fistula must be considered.\n*   Interestingly, about 90% of patients who present with the acute appendicitis-like form of regional enteritis will not progress to development of the full-blown chronic disease.\n*   Thus, resection or bypass of the involved areas is not indicated at this time."
+        },
+        {
+            "id": "39",
+            "question_type": "clinical_scenario",
+            "question": "329. A 32-year-old woman undergoes a cholecystectomy for acute cholecystitis and is discharged home on the sixth postoperative day. She returns to the clinic 8 mo after the operation for a routine visit and is noted by the surgeon to be jaundiced. Laboratory values on readmission show total bilirubin 5.6 mg/dL; direct bilirubin 4.8 mg/dL; alkaline phosphatase 250 IU (normal 21–91 IU); SGOT 52 KU (normal 10–40 KU); SGPT 51 KU (normal 10–40 KU). An ultrasonogram shows dilated intrahepatic ducts. The patient undergoes the transhepatic cholangiogram seen below. Appropriate management is",
+            "options": [
+                "a. Choledochoplasty with insertion of a T tube",
+                "b. End-to-end choledochocholedochal anastomosis",
+                "c. Roux-en-Y choledochojejunostomy",
+                "d. Percutaneous transhepatic dilatation",
+                "e. Choledochoduodenostomy"
+            ],
+            "answer": "C",
+            "explanation": "*   The scenario describes a typical course of a patient with iatrogenic injury of the common bile duct.\n*   These injuries commonly occur in the proximal portion of the extrahepatic biliary system.\n*   The transhepatic cholangiogram documents a biliary stricture, which in this clinical setting is best dealt with surgically.\n*   Choledochoduodenostomy generally cannot be performed due to the proximal location of the stricture.\n*   The best results are achieved with end-to-side choledochojejunostomy (Roux-en-Y) performed over a stent.\n*   Percutaneous transhepatic dilation has been attempted in select cases, but follow-up is too short for adequate assessment.\n*   Primary repair of the common bile duct may result in recurrent stricture."
+        },
+        {
+            "id": "40",
+            "question_type": "mcq",
+            "question": "330. After complete removal of a sessile polyp of 2.0 × 1.5 cm found one fingerlength above the anal mucocutaneous margin, the pathologist reports it to have been a villous adenoma that contained carcinoma in situ. You would recommend that this patient undergo",
+            "options": [
+                "a. Reexcision of the biopsy site with wider margins",
+                "b. Abdominoperineal rectosigmoid resection",
+                "c. Anterior resection of the rectum",
+                "d. External radiation therapy to the rectum",
+                "e. No further therapy"
+            ],
+            "answer": "E",
+            "explanation": "*   Many authorities now recommend abandonment of the phrase carcinoma in situ because it gives a misleading impression to the patient and family regarding the true implications of severe dysplasia.\n*   Almost all agree that no further treatment is indicated when a polyp has been adequately removed and such changes are found.\n*   Only when malignant cells penetrate the muscularis mucosae is there any potential for metastases.\n*   Only when that depth of penetration is seen should the term carcinoma be used.\n*   Even then, resection is probably not indicated if the gross and microscopic margins are clear, the tumor is well differentiated, and the stalk is not invaded."
+        },
+        {
+            "id": "41",
+            "question_type": "mcq",
+            "question": "331. A 55-year-old woman with cancer of the cervix undergoes hysterectomy and is found to have pelvic lymph nodes involved with cancer. She then receives a course of external beam radiation (4500 rads). When the physician counsels her prior to her radiation treatment, she should be told of all the possible complications of radiation enteritis. Which of the following is generally not associated with radiation injury?",
+            "options": [
+                "a. Malabsorption",
+                "b. Intussusception",
+                "c. Ulceration",
+                "d. Fistulization",
+                "e. Perforation"
+            ],
+            "answer": "B",
+            "explanation": "*   The effects of radiation on the intestine depend on various factors, including the patient's age, temperature, degree of oxygenation, and metabolic activity.\n*   Acute intestinal radiation injury is manifested in the bowel by the cessation of viable cell production and is seen clinically as diarrhea or gastrointestinal bleeding.\n*   Progressive vasculitis and fibrosis are seen in the latter stages of radiation injury and may result in malabsorption, ulceration, fistulization, or perforation.\n*   Intussusception is generally not associated with radiation injury."
+        },
+        {
+            "id": "42",
+            "question_type": "mcq",
+            "question": "332. Which of the following would be expected to stimulate intestinal motility?",
+            "options": [
+                "a. Fear",
+                "b. Gastrin",
+                "c. Secretin",
+                "d. Acetylcholine",
+                "e. Cholecystokinin"
+            ],
+            "answer": "D",
+            "explanation": "*   Drugs, hormones, or emotional states (e.g., fear) that stimulate or simulate sympathetic activity inhibit intestinal motility.\n*   Factors that arouse parasympathetic activity (acetylcholine) stimulate motility.\n*   Gastrin has specific delaying effects on gastric emptying.\n*   Secretin and cholecystokinin are potent regulators of intestinal and digestive activities but probably have no effect on motility per se."
+        },
+        {
+            "id": "43",
+            "question_type": "mcq",
+            "question": "333. Which of the following statements concerning carcinoma of the esophagus is true?",
+            "options": [
+                "a. Alcohol has been implicated as a precipitating factor",
+                "b. Squamous carcinoma is the most common type at the cardioesophageal junction",
+                "c. It has a higher incidence in males",
+                "d. It occurs more commonly in patients with corrosive esophagitis",
+                "e. Surgical excision is the only effective treatment"
+            ],
+            "answer": "D",
+            "explanation": "*   Carcinoma of the esophagus occurs primarily in the sixth and seventh decades of life, with a male:female ratio of 3:1.\n*   Although the cause is unknown, alcohol, tobacco, and dietary factors have been implicated as causative agents.\n*   A high incidence is reported in patients with corrosive esophagitis.\n*   Malignant tumors arising in the esophagus are usually squamous cell carcinomas, except those involving the esophagogastric junction, which are usually adenocarcinomas.\n*   Even though squamous cell carcinomas are weakly radiosensitive, surgical extirpation affords reasonable, if short-term, palliation.\n*   Some authorities recommend radiotherapy for palliation alone or in combination with surgery.\n*   Adenocarcinomas are not particularly radiosensitive, and surgical treatment is generally employed.\n*   Following resection for esophageal carcinoma among highly selected patients with resectable tumors, survival is only about 14% at 5 years.\n*   The overall 5-year survival is under 5%."
+        },
+        {
+            "id": "44",
+            "question_type": "mcq",
+            "question": "334. A 30-year-old man with a duodenal ulcer is being considered for surgery because of intractable pain and a previous bleeding episode. Serum gastrin levels are found to be over 1000 pg/mL (normal 40–150) on three separate determinations. The patient should be told that the operation of choice is",
+            "options": [
+                "a. Vagotomy and pyloroplasty",
+                "b. Highly selective vagotomy and tumor resection",
+                "c. Subtotal gastrectomy",
+                "d. Total gastrectomy",
+                "e. Partial pancreatectomy"
+            ],
+            "answer": "B",
+            "explanation": "*   Total gastrectomy was formerly the procedure of choice for patients with Zollinger-Ellison syndrome (ZES).\n*   However, with the knowledge that most patients will die of metastatic disease and that symptoms can often be controlled with H₂ receptor antagonists, the role for surgery has changed.\n*   Initial surgical exploration is aimed at curative resection of the tumor.\n*   Unfortunately, metastatic disease is often present or will develop later despite tumor resection.\n*   Therefore, highly selective vagotomy is also added to the procedure to reduce the required dose of H2 receptor antagonists.\n*   The second patient has a gastrin level suggestive of but not diagnostic of ZES.\n*   A secretin stimulation test will cause a significant rise in serum gastrin levels in patients with ZES."
+        },
+        {
+            "id": "45",
+            "question_type": "mcq",
+            "question": "335. Another 30-year-old man with the identical clinical situation presented in the previous question is being considered for surgery. His serum gastrin level, however, is 150 ± 10 pg/mL on three determinations. The surgeon should perform",
+            "options": [
+                "a. An arteriogram",
+                "b. A secretin stimulation test",
+                "c. A total gastrectomy",
+                "d. A subtotal gastrectomy",
+                "e. A highly selective vagotomy"
+            ],
+            "answer": "B",
+            "explanation": "*   Total gastrectomy was formerly the procedure of choice for patients with Zollinger-Ellison syndrome (ZES).\n*   However, with the knowledge that most patients will die of metastatic disease and that symptoms can often be controlled with H₂ receptor antagonists, the role for surgery has changed.\n*   Initial surgical exploration is aimed at curative resection of the tumor.\n*   Unfortunately, metastatic disease is often present or will develop later despite tumor resection.\n*   Therefore, highly selective vagotomy is also added to the procedure to reduce the required dose of H2 receptor antagonists.\n*   The second patient has a gastrin level suggestive of but not diagnostic of ZES.\n*   A secretin stimulation test will cause a significant rise in serum gastrin levels in patients with ZES."
+        },
+        {
+            "id": "46",
+            "question_type": "mcq",
+            "question": "336. The most common clinical presentation of idiopathic retroperitoneal fibrosis is",
+            "options": [
+                "a. Ureteral obstruction",
+                "b. Leg edema",
+                "c. Calf claudication",
+                "d. Jaundice",
+                "e. Intestinal obstruction"
+            ],
+            "answer": "A",
+            "explanation": "*   Idiopathic retroperitoneal fibrosis is a nonsuppurative inflammatory process of the retroperitoneum that causes problems by extrinsic compression of retroperitoneal structures.\n*   The ureters, aorta, and inferior vena cava are most at risk.\n*   However, the aorta is quite resistant to compression, and the inferior vena cava has multiple collaterals, so ureteral obstruction is the most common presentation.\n*   The common bile duct and duodenum may be compressed and obstructed, but this occurs much less frequently.\n*   Treatment of ureteral obstruction includes conservative therapy with steroids.\n*   Surgical intervention is often required, and ureterolysis with intraperitoneal transplantation is the current procedure of choice.\n*   Biopsies must also be taken to exclude a malignant process as the cause of the fibrosis."
+        },
+        {
+            "id": "47",
+            "question_type": "mcq",
+            "question": "337. A 55-year-old man who is extremely obese reports weakness, sweating, tachycardia, confusion, and headache whenever he fasts for more than a few hours. He has prompt relief of symptoms when he eats. These symptoms are most suggestive of which of the following disorders?",
+            "options": [
+                "a. Diabetes mellitus",
+                "b. Insulinoma",
+                "c. Zollinger-Ellison syndrome",
+                "d. Carcinoid syndrome",
+                "e. Multiple endocrine neoplasia, type II"
+            ],
+            "answer": "B",
+            "explanation": "*   Tumors arising from the pancreatic β cells give rise to hyperinsulinism.\n*   Seventy-five percent of these tumors are benign adenomas, and in 15% of affected patients, the adenomas are multiple.\n*   Symptoms relate to a rapidly falling blood glucose level and are due to epinephrine release triggered by hypoglycemia (sweating, weakness, tachycardia).\n*   Cerebral symptoms of headache, confusion, visual disturbances, convulsions, and coma are due to glucose deprivation of the brain.\n*   Whipple's triad summarizes the clinical findings in patients with insulinomas: (1) attacks precipitated by fasting or exertion; (2) fasting blood glucose concentrations below 50 mg/dL; (3) symptoms relieved by oral or intravenous glucose administration.\n*   These tumors are treated surgically, and simple excision of an adenoma is curative in the majority of cases."
+        },
+        {
+            "id": "48",
+            "question_type": "mcq",
+            "question": "338. In planning the management of a 2.8-cm epidermoid carcinoma of the anus, the first therapeutic approach should be",
+            "options": [
+                "a. Abdominoperineal resection",
+                "b. Wide local resection with bilateral inguinal node dissection",
+                "c. Local radiation therapy",
+                "d. Systemic chemotherapy",
+                "e. Combined radiation therapy and chemotherapy"
+            ],
+            "answer": "E",
+            "explanation": "*   Epidermoid cancers of the anal canal metastasize to inguinal nodes as well as to the perirectal and mesenteric nodes.\n*   Results of local radical surgery have been disappointing.\n*   Combined external radiation (dose range 3500–5000 cG) with synchronous chemotherapy (fluorouracil and mitomycin) is now recommended as the means for controlling the disease.\n*   Radical surgical approaches are generally reserved for treatment failures and recurrences."
+        },
+        {
+            "id": "49",
+            "question_type": "clinical_scenario",
+            "question": "339. An 80-year-old man is admitted to the hospital complaining of nausea, abdominal pain, distention, and diarrhea. A cautiously performed transanal contrast study reveals an \"apple core\" configuration in the rectosigmoid. Appropriate management at this time would include",
+            "options": [
+                "a. Colonoscopic decompression and rectal tube placement",
+                "b. Saline enemas and digital disimpaction of fecal matter from the rectum",
+                "c. Colon resection and proximal colostomy",
+                "d. Oral administration of metronidazole and checking a Clostridium difficile titer",
+                "e. Evaluation of an electrocardiogram and obtaining an angiogram to evaluate for colonic mesenteric ischemia"
+            ],
+            "answer": "C",
+            "explanation": "*   A markedly distended colon could have many causes in this 80-year-old man.\n*   The contrast study reveals a classic “apple core” lesion in the distal colon, which is diagnostic of colon cancer.\n*   No further diagnostic studies are appropriate prior to relief of this large bowel obstruction.\n*   After medical preparation (e.g., hydration, normalization of electrolytes), this patient should undergo prompt surgical management of his mechanical obstruction.\n*   Conservative management by resection and proximal colostomy would generally be preferred in this elderly patient with an obstructed, unprepared bowel."
+        },
+        {
+            "id": "50",
+            "question_type": "mcq",
+            "question": "340. Indications for operation in Crohn's disease include which of the following?",
+            "options": [
+                "a. Intestinal obstruction",
+                "b. Enterovesical fistula",
+                "c. Ileum-ascending colon fistula",
+                "d. Enterovaginal fistula",
+                "e. Free perforation"
+            ],
+            "answer": "E",
+            "explanation": "*   Surgical treatment of Crohn's disease is aimed at correcting complications that are causing symptoms.\n*   Intestinal obstruction is usually partial and secondary to a fixed stricture that is not responsive to anti-inflammatory agents.\n*   When obstruction causes symptoms that compromise nutritional status, surgery is warranted.\n*   Fistula formation in itself is not an indication for surgery.\n*   Fistulas between the intestine and the bladder and the intestine and the vagina generally cause significant symptoms and warrant surgical intervention.\n*   An ileum-ascending colon fistula is very common yet rarely symptomatic.\n*   Perforation of bowel into the free abdominal cavity is obviously a surgical emergency."
+        },
+        {
+            "id": "51",
+            "question_type": "clinical_scenario",
+            "question": "341. A 50-year-old man presents to the emergency room with a 6-h history of excruciating abdominal pain and distention. The abdominal film shown below is obtained. The next diagnostic maneuver should be",
+            "options": [
+                "a. Emergency celiotomy",
+                "b. Upper gastrointestinal series with small-bowel follow-through",
+                "c. CT scan of the abdomen",
+                "d. Barium enema",
+                "e. Sigmoidoscopy"
+            ],
+            "answer": "E",
+            "explanation": "*   The film shows a markedly distended colon.\n*   The differential diagnosis includes tumor, foreign body, and colitis, but far more likely is either cecal or sigmoid volvulus.\n*   Sigmoid volvulus may be ruled out quickly by proctosigmoidoscopy, which is preferable to barium enema, since sigmoid volvulus may be treated successfully by rectal tube decompression via the sigmoidoscope.\n*   If sigmoidoscopy is negative, the working diagnosis, based on this classic film, must be cecal volvulus; barium enema would clinch the diagnosis, but the colon might rupture in the intervening 1–2 hours.\n*   Emergency celiotomy should be done."
+        },
+        {
+            "id": "52",
+            "question_type": "mcq",
+            "question": "342. Which of the following organisms is most closely associated with gastric and duodenal ulcer disease?",
+            "options": [
+                "a. Campylobacter",
+                "b. Cytomegalovirus",
+                "c. Helicobacter",
+                "d. Mycobacterium avium-intracellulare",
+                "e. Yersinia enterocolitica"
+            ],
+            "answer": "C",
+            "explanation": "*   Helicobacter pylori is a spiral-shaped, gram-negative bacterium found in the viscous gastric mucus layer with an affinity for epithelial cells.\n*   It was originally classified as a form of Campylobacter, but its genomic and phenotypic characteristics were subsequently found to be unique, leading to a new genus name.\n*   Urease and other peptides released by H. pylori may be toxic and cause direct gastroduodenal injury.\n*   Evidence strongly suggests H. pylori plays a role in the etiology of ulcer disease.\n*   There is an almost 100% association between gastric H. pylori infection and duodenal ulcer disease, and about 70% of patients with gastric ulcers are also infected with H. pylori.\n*   Colonization with H. pylori increases the risk of developing a duodenal ulcer by up to 20-fold.\n*   Eradication of H. pylori from the stomach markedly decreases the rate of ulcer recurrence.\n*   This generally requires \"triple therapy\" with colloidal bismuth (Pepto-Bismol), an antibiotic (amoxicillin or ampicillin), and a nitroimidazole such as metronidazole.\n*   Recent studies have also demonstrated a possible association between H. pylori infection and gastric carcinoma."
+        },
+        {
+            "id": "53",
+            "question_type": "mcq",
+            "question": "343. On Monday morning, a septuagenarian man has a moderate-sized abdominal aneurysm resected. On Friday, he is noted to be markedly distended with an abdominal radiograph on which the cecum is measured as 12 cm across. Proper management at this time would be",
+            "options": [
+                "a. Decompression of the large bowel via colonoscopy",
+                "b. Replacement of the nasogastric tube and administration of low-dose cholinergic drugs",
+                "c. Continued nothing-by-mouth orders, administration of a gentle saline enema, and encouragement of ambulation",
+                "d. Immediate return to the operating room for operative decompression by transverse colostomy",
+                "e. Right hemicolectomy"
+            ],
+            "answer": "E",
+            "explanation": "*   The history, x-ray, and clinical findings are typical of a postoperative cecal volvulus, a condition where the cecum is twisted on its mesentery (often, after aneurysm resection, a neomesentery) and becomes acutely obstructed.\n*   At 12 cm, the cecum is in imminent danger of perforation.\n*   Particularly in the presence of a prosthetic graft, cecal perforation is a catastrophe.\n*   Urgent decompression is needed.\n*   Attempting colonoscopic decompression would necessitate insufflation of additional air and increase stress on the already compromised cecal wall.\n*   A transverse colostomy \"decompression\" would not decompress the cecum nor provide detorsion of the cecal mesentery to allow restoration of adequate blood supply to the right colon.\n*   While untwisting the cecum and fixing it to the lateral abdominal wall (to inhibit recurrence) by a decompressing cecostomy might be advocated in some settings, the risk of contaminating the aortic graft would be excessive.\n*   Resection of the offending organ with ileotransverse colostomy would be the procedure of choice."
+        },
+        {
+            "id": "54",
+            "question_type": "mcq",
+            "question": "344. In the management of echinococcal liver cysts",
+            "options": [
+                "a. A large cyst should be treated by percutaneous aspiration of its contents",
+                "b. Medical treatment with albendazole usually preempts the need for surgical drainage",
+                "c. Negative serologic tests suggest that the cyst is chronic and inactive and that no treatment is indicated",
+                "d. Leakage of cyst fluid puts the patient at risk for anaphylactic reaction",
+                "e. Coexistent extrahepatic cysts are uncommon"
+            ],
+            "answer": "D",
+            "explanation": "*   Hydatid cysts secondary to echinococcal infection are most common in the liver in adults.\n*   Up to 25% of patients with hepatic cysts also have cysts in their lungs.\n*   In general, serologic tests are more likely to be positive the longer the lesion has been present, but false negativity occurs frequently, so results should not influence the decision to treat hepatic hydatid cysts.\n*   Spontaneous rupture of the cyst or leakage of cyst fluid during diagnostic or therapeutic aspiration may cause anaphylactic reactions or peritoneal dissemination of the disease.\n*   Definitive treatment requires surgical resection, enucleation, or evacuation of the cysts.\n*   Agents such as 0.5% silver nitrate or hypertonic saline are introduced into the cyst at the time of surgery, and efforts are made to avoid spillage and contamination of the peritoneal cavity.\n*   Treatment of patients with liver cysts with mebendazole or albendazole has not been effective enough to replace the need for surgery."
+        },
+        {
+            "id": "55",
+            "question_type": "mcq",
+            "question": "345. Which of the following statements regarding appendicitis during pregnancy is correct?",
+            "options": [
+                "a. Appendicitis is the most prevalent extrauterine indication for celiotomy during pregnancy",
+                "b. Appendicitis occurs more commonly in pregnant women than in nonpregnant women of comparable age",
+                "c. Suspected appendicitis in a pregnant woman should be managed with a period of observation of due to the risks of laparotomy to the fetus",
+                "d. Noncomplicated appendicitis results in a 20% fetal mortality and premature labor rate",
+                "e. The severity of appendicitis correlates with increased gestational age of the fetus"
+            ],
+            "answer": "A",
+            "explanation": "*   Appendicitis complicates approximately 1 in 1700 pregnancies, an incidence comparable with that in nonpregnant women matched for age.\n*   It is the most prevalent extrauterine indication for laparotomy in pregnancy.\n*   The duration of gestation does not influence the severity of the disease, but diagnosis becomes more difficult as pregnancy progresses.\n*   By the twentieth week of gestation, the appendix often lies at the level of the umbilicus and more lateral than usual.\n*   Pregnancy should not delay surgery if appendicitis is suspected; appendiceal perforation greatly increases the chance of premature labor and fetal mortality (approximately 20% for each).\n*   In contrast, negative laparotomy under general anesthesia and non-perforated appendicitis are associated with very low risk to both the fetus and mother (less than 1% and 5%, respectively)."
+        },
+        {
+            "id": "56",
+            "question_type": "mcq",
+            "question": "346. Which of the following is most likely to require surgical correction?",
+            "options": [
+                "a. Large sliding esophageal hiatal hernia",
+                "b. Paraesophageal hiatal hernia",
+                "c. Traction diverticulum of esophagus",
+                "d. Schatzki's ring of distal esophagus",
+                "e. Esophageal web"
+            ],
+            "answer": "B",
+            "explanation": "*   Normal respiration creates negative pressure in the thoracic cavity.\n*   As a result of the pressure gradient, blood enters the chest via the venae cava and air via the trachea, both life-sustaining results.\n*   The pathophysiologic consequence of a hole in the diaphragm is that eventually abdominal viscera will be aspirated into the thorax.\n*   The sliding hernia, contained in the lower mediastinum by intact pleura, may rarely cause symptoms of reflux that would justify surgical attention, but such patients are in no danger of vascular compromise or obstructive displacement of hollow viscera.\n*   The paraesophageal hernia, on the other hand, leaves the patient at substantial risk for both strangulation and obstruction.\n*   Either result would be a surgical catastrophe; with rare exceptions, paraesophageal hernias should be surgically repaired whenever diagnosed.\n*   A traction diverticulum is usually caused by inflammatory contraction around mediastinal nodes, is rarely of any symptomatic consequence, and need not be repaired.\n*   Neither Schatzki's ring nor the esophageal web justifies esophageal surgery; they can be ignored or dilated as symptoms demand."
+        },
+        {
+            "id": "57",
+            "question_type": "clinical_scenario",
+            "question": "347. A 65-year-old man who is hospitalized with pancreatic carcinoma develops abdominal distention and obstipation. The following abdominal radiograph is obtained. Appropriate management would best be achieved by",
+            "options": [
+                "a. Urgent colostomy or cecostomy",
+                "b. Discontinuation of anticholinergic medications and narcotics and correction of metabolic disorders",
+                "c. Digital disimpaction of a fecal mass in the rectum",
+                "d. Diagnostic and therapeutic colonoscopy",
+                "e. Detorsion of the volvulus and colopexy or resection"
+            ],
+            "answer": "D",
+            "explanation": "*   As classically described, Ogilvie syndrome was associated with the rare occurrence of malignant infiltration of the colonic sympathetic nerve supply in the region of the celiac plexus.\n*   The eponym is now applied to the condition in which massive cecal and colonic dilation is seen in the absence of mechanical obstruction.\n*   Other terms for this condition include acute colonic pseudo-obstruction, colonic ileus, and functional colonic obstruction.\n*   It tends to occur in elderly patients in the setting of cardiopulmonary insufficiency, other systemic disorders requiring prolonged bed rest, and in the postoperative state.\n*   Diagnosis of Ogilvie syndrome cannot be confirmed until mechanical obstruction of the distal colon is excluded by colonoscopy or contrast enema.\n*   Anticholinergic agents and narcotics need to be discontinued, but any delay in decompressing the dilated cecum is inappropriate since colonic ischemia and perforation become a distinct hazard as the cecum reaches this degree of dilation.\n*   Cautious endoscopic colonic decompression has been demonstrated recently to be a safe and effective form of treatment.\n*   Endoscopy should be combined with rectal tube placement, correction of metabolic abnormalities, and discontinuation of medications that diminish gastrointestinal motility.\n*   Despite the high complication rate in this population, a direct surgical approach to decompression becomes necessary when colonoscopic decompression fails; a perforated cecum is a catastrophic event."
+        },
+        {
+            "id": "58",
+            "question_type": "mcq",
+            "question": "348. True statements regarding Zenker's diverticulum include",
+            "options": [
+                "a. Aspiration pneumonitis is unlikely",
+                "b. It is a congenital abnormality",
+                "c. The most common symptom is a sensation of high obstruction on swallowing",
+                "d. It is a traction-type diverticulum",
+                "e. Treatment is restriction of certain foods"
+            ],
+            "answer": "C",
+            "explanation": "*   Zenker's diverticulum is an acquired abnormality.\n*   Premature contraction of the cricopharyngeus muscle on swallowing, leading to partial obstruction, is believed to be the cause of this pulsion-type diverticulum of the pharyngoesophageal junction.\n*   High intraluminal pressure results in an outpouching of mucosa through the oblique fibers of the pharyngeal constrictors.\n*   Dysphagia is common and is the usual presenting symptom.\n*   Diagnosis is established by barium swallow.\n*   Treatment is surgical: diverticulectomy or suspension of the diverticulum is usually recommended.\n*   Because the diverticulum is located above the superior esophageal sphincter, no mechanism exists to prevent aspiration of its contents.\n*   Pulmonary complications are common."
+        },
+        {
+            "id": "59",
+            "question_type": "mcq",
+            "question": "349. True statements regarding hemobilia include which of the following?",
+            "options": [
+                "a. The classic presentation includes biliary colic, jaundice, and gastrointestinal bleeding",
+                "b. Spontaneous bleeding secondary to hematologic disorders is the major cause of this disorder",
+                "c. Percutaneous transhepatic catheter placement of an absorbable gelatin sponge (Gelfoam) is the preferred treatment in cases of significant intrahepatic bleeding",
+                "d. Angiography and endoscopy have no role in the treatment of intrahepatic bleeding",
+                "e. Arterial embolization is advocated for hemobilia from the extrahepatic bile ducts"
+            ],
+            "answer": "A",
+            "explanation": "*   The classic Quincke triad of abdominal pain in the right upper quadrant, jaundice, and gastrointestinal bleeding is present in 30–40% of patients with hemobilia.\n*   With more frequent use of percutaneous liver procedures (e.g., transhepatic cholangiogram, transhepatic catheter drainage), iatrogenic injury has replaced other trauma as the most common cause of bloody bile.\n*   Other causes include spontaneous bleeding during anticoagulation, gallstones, parasitic infections/abscesses, and neoplastic lesions.\n*   Angiography and endoscopy are useful diagnostic studies, and intrahepatic bleeding can be controlled by angiographic embolization in up to 95% of cases.\n*   Surgical treatment is advocated for bleeding from extrahepatic bile ducts or the gallbladder, or in cases of penetrating trauma with associated injuries needing attention."
+        },
+        {
+            "id": "60",
+            "question_type": "mcq",
+            "question": "350. A 30-year-old female patient who presents with bleeding per rectum is found at colonoscopy to have colitis confined to the transverse and descending colon. A biopsy is performed. Which of the following statements is true about this patient?",
+            "options": [
+                "a. The inflammatory process is likely to be confined to the mucosa and submucosa",
+                "b. The inflammatory reaction is likely to be continuous",
+                "c. Superficial as opposed to linear ulcerations can be expected",
+                "d. Noncaseating granulomata can be expected in up to 50% of patients with similar disease",
+                "e. Microabcesses within crypts are common"
+            ],
+            "answer": "D",
+            "explanation": "*   The patient has Crohn's disease of the colon (Crohn's colitis).\n*   Crohn's colitis is characterized by linear mucosal ulcerations, discontinuous (\"skip”) lesions, a transmural inflammatory process, and noncaseating granulomata in up to 50% of patients.\n*   Because their clinical features and management differ, Crohn's colitis must be distinguished from ulcerative colitis.\n*   Ulcerative colitis is usually found in the rectum, although in rare cases the rectum is spared involvement.\n*   The entire colon, from cecum to rectum, may be involved (“pancolitis”).\n*   Ulcerative colitis typically presents as a grossly continuous inflammatory process (without skip lesions) that microscopically is confined to the mucosa and submucosa of the colon.\n*   In addition, crypt abscesses and superficial ulcerations are common in ulcerative colitis."
+        },
+        {
+            "id": "61",
+            "question_type": "mcq",
+            "question": "351. Regarding potential complications in this patient, which of the following statements is true?",
+            "options": [
+                "a. The occurrence of toxic megacolon is common",
+                "b. Perforation occurs in about 25% of patients with similar disease",
+                "c. Fistulas between the colon and segments of intestine, bladder, vagina, urethra, and skin may develop",
+                "d. Extraintestinal manifestations including uveitis and erythema nodosum would be exceedingly rare in this patient",
+                "e. This patient would be at no increased risk for the development of cancer of the colon as compared with an age-matched population"
+            ],
+            "answer": "C",
+            "explanation": "*   Patients with Crohn's disease can develop fistulas between the colon and other segments of intestine, the bladder, urethra, vagina, skin, and prostate in the male.\n*   Intestinal perforation can occur in about 5% of patients.\n*   Toxic megacolon can occur in patients with Crohn's disease, ulcerative colitis, or any severe inflammatory process of the large intestine.\n*   Extraintestinal manifestations are usually associated with active disease.\n*   Patients with Crohn's colitis have a 5.6-fold increased risk of colon cancer relative to an age-matched population."
+        },
+        {
+            "id": "62",
+            "question_type": "clinical_scenario",
+            "question": "352. An upper GI series is performed on a 71-year-old woman who presented with several months of chest pain that occurred when she was eating. The film below is obtained. Investigation reveals a microcytic anemia and erosive gastritis on upper endoscopy. Which of the following statements about the patient's condition is true?",
+            "options": [
+                "a. It is congenital",
+                "b. The gastroesophageal junction is above the diaphragm",
+                "c. Ulceration, gastritis, and anemia are common",
+                "d. It usually is controlled by medical therapy",
+                "e. Surgical treatment, if indicated, should be delayed up to 3 mo to allow inflammation around the gastroesophageal junction to subside"
+            ],
+            "answer": "C",
+            "explanation": "*   The condition demonstrated is a paraesophageal hernia.\n*   It is encountered much less frequently (approximately 5%) than the sliding hiatal hernia and has completely different therapeutic implications.\n*   Paraesophageal hernias are acquired, rarely present before middle age, and are most common in patients in their seventh decade.\n*   The position of the gastroesophageal junction distinguishes the two types of hernias, which occur near the esophageal hiatus of the diaphragm.\n*   In the more common sliding hernia, the gastroesophageal junction protrudes above the diaphragm.\n*   In the paraesophageal hernia, the anatomic junction between the esophagus and the stomach is anchored in its normal position below the diaphragm.\n*   The gastric cardia or fundus and occasionally other viscera herniate into the thorax within a true peritoneal sac alongside the gastroesophageal junction.\n*   Surgical repair is indicated as soon as the patient can be properly prepared for the procedure, as bleeding, ulceration, obstruction, necrosis of the stomach wall, and perforation are common."
+        },
+        {
+            "id": "63",
+            "question_type": "mcq",
+            "question": "353. Which statement regarding adenocarcinoma of the pancreas is true?",
+            "options": [
+                "a. It occurs most frequently in the body of the gland",
+                "b. It carries a 1–2% 5-year survival rate",
+                "c. It is nonresectable if it presents as painless jaundice",
+                "d. It can usually be resected if it presents in the body or tail of the pancreas and does not involve the common bile duct",
+                "e. It is associated with diabetes insipidus"
+            ],
+            "answer": "B",
+            "explanation": "*   The vast majority of pancreatic carcinomas are located in the head of the gland.\n*   Patients may present with painless jaundice due to the carcinoma's obstruction of the intrapancreatic portion of the common bile duct.\n*   It is in this group of patients that resection is possible, although most tumors will be unresectable.\n*   Tumors in the body or tail of the gland are universally unresectable.\n*   The cause of pancreatic cancer is not known.\n*   There is a very strong association with diabetes mellitus (but not diabetes insipidus), but the nature of this relationship is not known.\n*   Prognosis is uniformly dismal whether resection is done or not, and only an anecdotal survivor will be alive at 5-year follow-up."
+        },
+        {
+            "id": "64",
+            "question_type": "mcq",
+            "question": "354. Correct statements concerning intussusception in infants include which of the following?",
+            "options": [
+                "a. Recurrence rates following treatment are high",
+                "b. It is frequently preceded by a gastrointestinal viral illness",
+                "c. A 1- to 2-wk period of parenteral alimentation should precede surgical reduction when surgery is required",
+                "d. Hydrostatic reduction without surgery rarely provides successful treatment",
+                "e. The most common type occurs at the junction of the descending colon and sigmoid colon"
+            ],
+            "answer": "B",
+            "explanation": "*   Intussusception is the result of invagination of a segment of bowel into distal bowel lumen.\n*   The most common type is ileocolic, which typically appears as a “coiled spring\" on barium enema.\n*   Ileoileal and colocolic intussusceptions occur less commonly and are not easily diagnosed on barium enema.\n*   If bloody mucus, peritonitis, or systemic toxicity have not developed, hydrostatic reduction by barium enema is the appropriate initial treatment.\n*   Most patients are successfully managed this way and do not require surgical intervention.\n*   Immediate treatment should be instituted to avert the danger of bowel infarction.\n*   Recurrence is surprisingly uncommon after either surgical or nonsurgical treatment."
+        },
+        {
+            "id": "65",
+            "question_type": "mcq",
+            "question": "355. A 32-year-old woman presents to the hospital with a 24-h history of abdominal pain of the right lower quadrant. She undergoes an uncomplicated appendectomy for acute appendicitis and is discharged home on the fourth postoperative day. The pathologist notes the presence of a carcinoid tumor (1.2 cm) in the tip of the appendix. Which of the following statements is true?",
+            "options": [
+                "a. The patient should be advised to undergo ileocolectomy",
+                "b. The most common location of carcinoids is in the appendix",
+                "c. The carcinoid syndrome occurs in more than half the patients with carcinoid tumors",
+                "d. The tumor is an apudoma",
+                "e. Carcinoid syndrome is seen only when the tumor is drained by the portal venous system"
+            ],
+            "answer": "D",
+            "explanation": "*   Carcinoid tumors arise from the neuroectoderm and are a type of apudoma.\n*   The most common site of carcinoid tumors is the small bowel, although appendiceal carcinoids are also common.\n*   Carcinoid syndrome, characterized by flushing, diarrhea, and cardiac valvular disease, occurs in a small percentage of patients with carcinoid tumors; it is rarely seen with appendiceal carcinoids.\n*   It occurs when serotonin is released into the systemic circulation and thus avoids breakdown by the liver.\n*   The appropriate therapy for a small carcinoid (less than 2 cm) of the appendix is simple appendectomy."
+        },
+        {
+            "id": "66",
+            "question_type": "mcq",
+            "question": "356. Which of the following statements regarding direct inguinal hernias is true?",
+            "options": [
+                "a. They are the most common inguinal hernias in women",
+                "b. They protrude medially to the inferior epigastric vessels",
+                "c. They should be opened and ligated at the internal ring",
+                "d. They commonly protrude into the scrotal sac in men",
+                "e. They incarcerate more commonly than indirect hernias"
+            ],
+            "answer": "B",
+            "explanation": "*   Direct inguinal hernias occur medial to the inferior epigastric vessels.\n*   They are best repaired by reapproximating the transversalis fascia to Cooper's ligament, thus reconstructing the floor of the inguinal canal, or by a tension-free Lichtenstein-type repair.\n*   The hernia sac is opened and ligated routinely during indirect hernia repair but not during direct hernia repair.\n*   The most common inguinal hernia in women is an indirect hernia.\n*   Direct hernias rarely present with a scrotal component and are less likely to present with incarceration than indirect hernias."
+        },
+        {
+            "id": "67",
+            "question_type": "clinical_scenario",
+            "question": "357. A 35-year-old woman presents with pancreatitis. Subsequent endoscopic retrograde cholangiopancreatography (ERCP) reveals the congenital cystic anomaly of her biliary system illustrated in the film below. Which of the following statements regarding this problem is true?",
+            "options": [
+                "a. Treatment consists of internal drainage via choledochoduodenostomy",
+                "b. Malignant changes may occur within this structure",
+                "c. Most patients present with the classic triad of epigastric pain, an abdominal mass, and jaundice",
+                "d. Cystic dilation of the intrahepatic biliary tree may coexist and is managed in a similar fashion",
+                "e. Surgery should be reserved for symptomatic patients"
+            ],
+            "answer": "B",
+            "explanation": "*   Choledochal cysts are congenital cystic dilations of the extrahepatic biliary ducts.\n*   Intrahepatic cystic dilation can coexist (Caroli's disease), but it represents a distinct problem managed differently.\n*   Patients may present with symptoms at any age, but the classic triad of epigastric pain, abdominal mass, and jaundice is not frequently seen.\n*   Rather, most patients present with other conditions such as cholecystitis, cholangitis, or pancreatitis.\n*   Ultrasonography or endoscopic retrograde cholangiopancreatography (ERCP) is helpful in demonstrating cysts.\n*   Nonsurgical treatment of these cysts results in high morbidity and mortality; therefore, surgery is advised in all cases.\n*   The present recommendation is for complete resection of the cyst and Roux-en-Y choledochojejunostomy.\n*   Since malignant changes in choledochal cysts have been frequently described, complete resection rather than an internal drainage procedure is preferred whenever resection can be done safely."
+        },
+        {
+            "id": "68",
+            "question_type": "mcq",
+            "question": "358. Which of the following statements regarding stress ulceration is true?",
+            "options": [
+                "a. It is true ulceration, extending into and through the muscularis mucosa",
+                "b. It classically involves the antrum",
+                "c. Increased secretion of gastric acid has been shown to play a causative role",
+                "d. It frequently involves multiple sites",
+                "e. It is seen following shock or sepsis, but for some unknown reason does not occur following major surgery, trauma, or burns"
+            ],
+            "answer": "D",
+            "explanation": "*   Stress ulceration refers to acute gastric or duodenal erosive lesions that occur following shock, sepsis, major surgery, trauma, or burns.\n*   These lesions tend to be superficial and can involve multiple sites.\n*   McClelland and associates showed that patients subjected to trauma and subsequent hemorrhagic shock do not have increased gastric secretion, but rather show decreased splanchnic blood flow.\n*   Ischemic damage to the mucosa may therefore play a role.\n*   Unlike chronic benign gastric ulcers, which are generally found along the lesser curvature and in the antrum, acute erosive lesions usually involve the body and fundus and spare the antrum."
+        },
+        {
+            "id": "69",
+            "question_type": "mcq",
+            "question": "359. Which statement concerning cholangitis is correct?",
+            "options": [
+                "a. The most common infecting organism is Staphylococcus aureus",
+                "b. The diagnosis is suggested by the Charcot triad",
+                "c. The disease occurs primarily in young, immunocompromised patients",
+                "d. Cholecystostomy is the procedure of choice in affected patients",
+                "e. Surgery is indicated once the diagnosis of cholangitis is made"
+            ],
+            "answer": "B",
+            "explanation": "*   Cholangitis is suggested by the presence of the Charcot triad: fever, jaundice, and pain in the right upper quadrant.\n*   These symptoms are usually caused by choledocholithiasis, but they can also occur in association with obstructing neoplasms and choledochal cysts.\n*   The disease occurs primarily in the elderly.\n*   Therapy is aimed at decompression of the common bile duct.\n*   In patients with suppurative cholangitis who fail to respond to intravenous antibiotics initially and fluid resuscitation, the nonoperative approach is the preferred intervention either via percutaneous or endoscopic drainage of the obstructed common bile duct.\n*   If the nonoperative approach fails, surgery is indicated.\n*   This is usually best accomplished by surgical placement of a T tube into the duct.\n*   Percutaneous transhepatic catheter drainage is an acceptable alternative in select patients; this procedure can often provide effective decompression during the acute septic phase.\n*   Cholecystostomy will be effective only if there is free flow of bile into the gallbladder via the cystic duct and generally should not be depended on to secure drainage of the common bile duct."
+        },
+        {
+            "id": "70",
+            "question_type": "mcq",
+            "question": "360. An 88-year-old man with a history of end-stage renal failure, severe coronary artery disease, and brain metastases from lung cancer presents with acute cholecystitis. His family wants “everything done.\" The best management option in this patient would be",
+            "options": [
+                "a. Tube cholecystostomy",
+                "b. Open cholecystectomy",
+                "c. Laparoscopic cholecystectomy",
+                "d. Intravenous antibiotics followed by elective cholecystectomy",
+                "e. Lithotripsy followed by long-term bile acid therapy"
+            ],
+            "answer": "A",
+            "explanation": "*   High-risk, critically ill patients with multisystem disease and cholecystitis experience a significant increase in morbidity and mortality following operative intervention.\n*   Tube cholecystostomy can be performed under local anesthesia in the operating room or via a percutaneous approach in the radiology suite.\n*   Open or laparoscopic procedures would carry the same general anesthetic risk whether done urgently or in a delayed (elective) fashion.\n*   Lithotripsy has no role in the treatment of acute cholecystitis."
+        },
+        {
+            "id": "71",
+            "question_type": "clinical_scenario",
+            "question": "361. After a weekend drinking binge, a 45-year-old alcoholic man presents to the hospital with abdominal pain, nausea, and vomiting. On physical examination the patient is afebrile and is noted to have a palpable tender mass in the epigastrium. Laboratory tests reveal an amylase of 250 U/dL (normal < 180). A CT scan done on the second hospital day is pictured below. Which of the following statements concerning this patient's condition is true?",
+            "options": [
+                "a. The mass may cause gastric outlet or extrahepatic biliary obstruction",
+                "b. Spontaneous resolution almost never occurs",
+                "c. The mass is seen only with acute pancreatitis",
+                "d. The mass has an epithelial lining",
+                "e. Malignant degeneration occurs in about 25% of cases if left untreated"
+            ],
+            "answer": "A",
+            "explanation": "*   Pancreatic pseudocysts can develop in the setting of acute and chronic pancreatitis.\n*   They are cystic collections that do not have an epithelial lining and therefore have no malignant potential.\n*   Most pseudocysts spontaneously resolve.\n*   Therapy should not be considered for 6 weeks to allow for the possibility of spontaneous resolution as well as to allow for maturation of the cyst wall if the cyst persists.\n*   Complications of pseudocysts include gastric outlet and extrahepatic biliary obstructions, as well as spontaneous rupture and hemorrhage.\n*   Pseudocysts can be excised, externally drained, or internally drained into the gastrointestinal tract (most commonly the stomach or a Roux-en-Y limb of jejunum)."
+        },
+        {
+            "id": "72",
+            "question_type": "mcq",
+            "question": "362. Dieulafoy's lesion of the stomach is characterized by",
+            "options": [
+                "a. A large mucosal defect with underlying, friable vascular plexus",
+                "b. Frequent rebleeding after endoscopic treatment",
+                "c. Massive bleeding that requires subtotal gastrectomy",
+                "d. Location in the proximal stomach",
+                "e. Acid-peptic changes of the gastric mucosa"
+            ],
+            "answer": "D",
+            "explanation": "*   Dieulafoy's lesion has been identified more frequently recently as a source of gastrointestinal bleeding.\n*   It is characteristically located within 6 cm distal to the gastroesophageal junction.\n*   Dieulafoy's lesion typically consists of an abnormally large submucosal artery that protrudes through a small, solitary mucosal defect.\n*   The lesions may bleed spontaneously and massively for unclear reasons, in which case they require emergency intervention.\n*   Upper endoscopy is usually successful in localizing the lesion, and permanent hemostasis can be obtained endoscopically in most cases with injection sclerotherapy, electrocoagulation, or heater probe.\n*   If surgery is required, a gastrotomy and simple ligation or wedge resection of the lesion may be adequate.\n*   No large series have yet established the optimal surgical treatment for Dieulafoy's lesion; however, acid-reducing procedures have not been successful in preventing further bleeding."
+        },
+        {
+            "id": "73",
+            "question_type": "mcq",
+            "question": "363. During an appendectomy for acute appendicitis, a 4-cm mass is found in the midportion of the appendix. Frozen section reveals this lesion to be a carcinoid tumor. Which of the following statements is true?",
+            "options": [
+                "a. No further surgery is indicated",
+                "b. A right hemicolectomy should be performed",
+                "c. There is about a 50% chance that this patient will develop the carcinoid syndrome",
+                "d. Carcinoid tumors arise from islet cells",
+                "e. Carcinoid syndrome can occur only in the presence of liver metastases"
+            ],
+            "answer": "B",
+            "explanation": "*   Carcinoid tumors arise from enterochromaffin cells in the crypts of Lieberkühn.\n*   When they are encountered in the appendix and are less than 2 cm in size, simple appendectomy is the procedure of choice.\n*   When the tumors are larger than 2 cm, a right hemicolectomy should be performed.\n*   Carcinoid syndrome (hepatomegaly, diarrhea, cutaneous flushing, right heart valvular disease, and asthma) usually occurs in the presence of liver metastases but can also be seen when there are metastases to sites drained by systemic (as opposed to portal) veins or from primary carcinoids outside the portal system.\n*   Carcinoid syndrome is rare in patients with carcinoid of the appendix because the tumors are usually discovered before metastases occur."
+        },
+        {
+            "id": "74",
+            "question_type": "mcq",
+            "question": "364. Correct statements regarding rectal carcinoid tumors include",
+            "options": [
+                "a. Endoscopic resection is sufficient for tumors smaller than 2 cm",
+                "b. Patients frequently present with the carcinoid syndrome",
+                "c. They are rapidly growing tumors",
+                "d. Local recurrence is rare with complete resection of the primary lesion",
+                "e. They can develop the carcinoid syndrome even in the absence of liver metastases"
+            ],
+            "answer": "D",
+            "explanation": "*   Rectal carcinoids are slowly growing tumors, but they can be locally invasive and metastasize in up to 15% of patients.\n*   Patients manifest systemic signs of the carcinoid syndrome only in the rare circumstance where hepatic metastases have occurred.\n*   The malignant potential is low in carcinoid tumors when they are less than 2 cm in diameter, as is typically the case when diagnosed.\n*   The tumors are curable by wide, local transanal resection that includes the muscle layer.\n*   Endoscopic treatment leaves tumor cells near the margin of resection and is felt to increase the risk of recurrence.\n*   Whether more aggressive resection (abdominoperineal or low anterior resection) improves the prognosis in larger tumors remains controversial.\n*   The prognosis is excellent for patients with local disease."
+        },
+        {
+            "id": "75",
+            "question_type": "mcq",
+            "question": "365. Indications for surgical removal of polypoid lesions of the gallbladder include",
+            "options": [
+                "a. Size greater than 0.5 cm",
+                "b. Presence of clinical symptoms",
+                "c. Patient age of over 25 years",
+                "d. Presence of multiple small lesions",
+                "e. Absence of shadowing on ultrasound"
+            ],
+            "answer": "B",
+            "explanation": "*   Polypoid lesions of the gallbladder are found most often in the third through fifth decades of life and are increasingly being detected by ultrasonography.\n*   These are generally small lesions that typically do not show a shadow on ultrasound.\n*   Ninety percent are benign lesions, such as cholesterol polyps (pseudotumors).\n*   True adenomas constitute about 10% of these benign lesions, but they can undergo malignant transformation.\n*   The indications for operative intervention remain controversial.\n*   Recent reviews suggest that the vast majority of malignant polypoid lesions are solitary, larger than 1.0 cm, and much more common in patients greater than 50 years of age.\n*   There is also an increased incidence of malignancy if the lesions are associated with gallstones.\n*   Symptomatic lesions should be removed regardless of their size.\n*   Asymptomatic small lesions can probably be safely followed by ultrasonography."
+        },
+        {
+            "id": "76",
+            "question_type": "mcq",
+            "question": "366. A patient who has a total pancreatectomy might be expected to develop which of the following complications?",
+            "options": [
+                "a. Diabetes mellitus",
+                "b. Hypercalcemia",
+                "c. Hyperphosphatemia",
+                "d. Constipation",
+                "e. Weight gain"
+            ],
+            "answer": "A",
+            "explanation": "*   The metabolic consequences of total pancreatectomy are manifold.\n*   They include weight loss, malabsorption attended by hypocalcemia and hypophosphatemia, diabetes mellitus, diarrhea, and both iron deficiency and pernicious anemia.\n*   In theory, total pancreatectomy should provide good surgical treatment for pancreatic carcinoma.\n*   In reality, the severe metabolic problems that result from total removal of the pancreas make partial pancreaticoduodenectomy a frequently preferred treatment for most cases of resectable pancreatic carcinoma.\n*   Because of the frequently multicentric nature of pancreatic cancers, some surgeons would rather perform a total pancreatectomy and accept the more complicated postoperative metabolic management entailed by the loss of pancreatic endocrine function."
+        },
+        {
+            "id": "77",
+            "question_type": "clinical_scenario",
+            "question": "367. A 28-year-old previously healthy woman arrives in the emergency room complaining of 24 h of anorexia and nausea and lower abdominal pain that is more intense in the right lower quadrant than elsewhere. On examination she has peritoneal signs of the right lower quadrant and a rectal temperature of 38.38°C (101.8°F). At exploration through incision of the right lower quadrant, she is found to have a small, contained perforation of a cecal diverticulum. Which of the following statements regarding this situation is true?",
+            "options": [
+                "a. Cecal diverticula are acquired disorders",
+                "b. Cecal diverticula are usually multiple",
+                "c. Cecal diverticula are mucosal herniations through the muscularis propria",
+                "d. Diverticulectomy, closure of the cecal defect, and appendectomy may be indicated",
+                "e. An ileocolectomy is indicated even with well-localized inflammation"
+            ],
+            "answer": "D",
+            "explanation": "*   Cecal diverticula must be differentiated from the more common variety of diverticula usually found in the left colon.\n*   Cecal diverticula are thought to be a congenital entity.\n*   The cecal diverticulum is often solitary and involves all layers of the bowel wall; therefore, cecal diverticula are true diverticula.\n*   Diverticula elsewhere in the colon are almost always multiple and are thought to be an acquired disorder, which are really herniations of mucosa through weakened areas of the muscularis propria of the colon wall.\n*   The preoperative diagnosis in the case of cecal diverticulitis is \"acute appendicitis\" about 80% of the time.\n*   If there is extensive inflammation involving much of the cecum, an ileocolectomy is indicated.\n*   If the inflammation is well localized to the area of the diverticulum, a simple diverticulectomy with closure of the defect is the procedure of choice.\n*   To avoid diagnostic confusion in the future, the appendix should be removed whenever an incision is made in the right lower quadrant, unless operatively contraindicated."
+        },
+        {
+            "id": "78",
+            "question_type": "mcq",
+            "question": "368. True statements regarding cavernous hemangiomata of the liver in adults include",
+            "options": [
+                "a. The majority become symptomatic",
+                "b. They may undergo malignant transformation",
+                "c. They enlarge under hormonal stimulation",
+                "d. They should be resected to avoid spontaneous rupture and life-threatening hemorrhage",
+                "e. A liver/spleen radionucleotide scan is the most sensitive and specific way to make the diagnosis"
+            ],
+            "answer": "C",
+            "explanation": "*   Hepatic hemangiomata are the most common of all liver tumors.\n*   Infantile forms are highly vascular and occasionally cause hepatomegaly or congestive cardiac failure requiring angiographic or surgical interruption.\n*   The diagnostic incidence of incidental cavernous hemangiomata in adults has increased with noninvasive imaging (MRI, ultrasonography, CT).\n*   When suspected, diagnosis can be confirmed with sensitive and more specific imaging techniques such as labeled red blood cell scanning (not liver/spleen scans).\n*   The mean age of presentation in adults is about 50 years, and the vast majority of these lesions are asymptomatic.\n*   There is no evidence that they undergo malignant transformation.\n*   They may enlarge and become symptomatic more readily in women after multiple pregnancies or during the use of estrogen or oral contraceptives.\n*   The risk of rupture and severe hemorrhage into or from hemangiomata is extremely low; when it does occur, it is usually iatrogenic (following attempted biopsy).\n*   Given the typically benign and static nature of these lesions, management by angiographic embolization or resection should be reserved for the rare patient with symptomatic or complicated hemangioma."
+        },
+        {
+            "id": "79",
+            "question_type": "mcq",
+            "question": "369. Correct statements regarding carcinoembryonic antigen (CEA) and colorectal tumors include which of the following?",
+            "options": [
+                "a. Elevated CEA is indicative of a tumor of gastrointestinal origin",
+                "b. A low CEA level after resection of a colon tumor is a poor marker of disease control",
+                "c. Ninety percent of colorectal tumors produce CEA",
+                "d. There is a high likelihood of liver involvement if the CEA level is high (greater than 100 ng/mL)",
+                "e. CEA levels are unusually low in cigarette smokers"
+            ],
+            "answer": "D",
+            "explanation": "*   CEA is a nonspecific tumor marker described in 1965 by Gold and Freedman.\n*   It is elevated in only about one-half of patients with colorectal tumors and is often elevated in patients with lung, pancreatic, gastric, and gynecologic malignancies.\n*   CEA is also elevated in cigarette smokers.\n*   Patients in whom the primary colon tumor produced CEA and whose level falls below 2–3 ng/mL after resection have an excellent prognosis for disease control.\n*   In such patients, a subsequent rise in CEA has been demonstrated to be a very sensitive marker of the presence and extent of recurrent disease.\n*   Many surgeons follow CEA levels and perform \"second-look\" operations to resect local disease or possibly isolated metastatic disease if levels become elevated postoperatively.\n*   Some surgeons recommend exploration in that circumstance even without other evidence (CT scan, colonoscopy) of recurrence.\n*   Long-term survival seems to be improved following this aggressive approach in some patients.\n*   Very high elevations of CEA, however, suggest extensive liver disease or peritoneal spread, which is unresectable."
+        },
+        {
+            "id": "80",
+            "question_type": "mcq",
+            "question": "370. A 72-year-old patient with an intractable type I ulcer along the incisura with a significant amount of scarring along the entire length of the lesser curvature (SELECT 1 PROCEDURE)",
+            "options": [
+                "a. Vagotomy and antrectomy",
+                "b. Antrectomy alone",
+                "c. Vagotomy and pyloroplasty",
+                "d. Vagotomy and gastrojejunostomy",
+                "e. Proximal gastric vagotomy"
+            ],
+            "answer": "B",
+            "explanation": "*   Gastric ulcers are classified as type I (incisura or most inferior portion of lesser curvature), type II (gastric and duodenal), type III (pyloric and prepyloric), and type IV (juxtacardial).\n*   Indications for surgery are intractability, perforation, obstruction, and bleeding.\n*   A patient with an intractable type I ulcer can be treated with an antrectomy alone or with a proximal gastric vagotomy.\n*   If done properly, antrectomy offers slightly lower recurrence rates and a higher incidence of postoperative sequelae compared with proximal gastric vagotomy.\n*   However, significant scarring along the lesser curvature makes a proximal gastric vagotomy technically unfeasible.\n*   Gastric outlet obstruction and severe inflammation around the pylorus and duodenum make resection a difficult and dangerous option.\n*   Similarly, pyloroplasty is often not adequate in the setting of gastric outlet obstruction to provide adequate drainage.\n*   Vagotomy and gastrojejunostomy, although associated with the highest recurrence rate, offer the best choice in the described setting.\n*   In an elderly patient with a bleeding duodenal ulcer, recurrence rates are less of a consideration, and the simplest and most expedient operation offers the best surgical outcome.\n*   Vagotomy and pyloroplasty with oversewing of the ulcer is the best choice in this setting.\n*   Finally, in a young patient with intractable type III ulcers, antrectomy with vagotomy offers the best long-term outcome.\n*   Recurrence rates following this procedure are about 2–3%, as compared with 7.4% for vagotomy and drainage and 10–31% in patients receiving a proximal gastric vagotomy only."
+        },
+        {
+            "id": "81",
+            "question_type": "mcq",
+            "question": "371. A 46-year-old patient with gastric outlet obstruction secondary to ulcer disease and severe inflammation around the pylorus and first and second portions of the duodenum (SELECT 1 PROCEDURE)",
+            "options": [
+                "a. Vagotomy and antrectomy",
+                "b. Antrectomy alone",
+                "c. Vagotomy and pyloroplasty",
+                "d. Vagotomy and gastrojejunostomy",
+                "e. Proximal gastric vagotomy"
+            ],
+            "answer": "D",
+            "explanation": "*   Gastric ulcers are classified as type I (incisura or most inferior portion of lesser curvature), type II (gastric and duodenal), type III (pyloric and prepyloric), and type IV (juxtacardial).\n*   Indications for surgery are intractability, perforation, obstruction, and bleeding.\n*   A patient with an intractable type I ulcer can be treated with an antrectomy alone or with a proximal gastric vagotomy.\n*   If done properly, antrectomy offers slightly lower recurrence rates and a higher incidence of postoperative sequelae compared with proximal gastric vagotomy.\n*   However, significant scarring along the lesser curvature makes a proximal gastric vagotomy technically unfeasible.\n*   Gastric outlet obstruction and severe inflammation around the pylorus and duodenum make resection a difficult and dangerous option.\n*   Similarly, pyloroplasty is often not adequate in the setting of gastric outlet obstruction to provide adequate drainage.\n*   Vagotomy and gastrojejunostomy, although associated with the highest recurrence rate, offer the best choice in the described setting.\n*   In an elderly patient with a bleeding duodenal ulcer, recurrence rates are less of a consideration, and the simplest and most expedient operation offers the best surgical outcome.\n*   Vagotomy and pyloroplasty with oversewing of the ulcer is the best choice in this setting.\n*   Finally, in a young patient with intractable type III ulcers, antrectomy with vagotomy offers the best long-term outcome.\n*   Recurrence rates following this procedure are about 2–3%, as compared with 7.4% for vagotomy and drainage and 10–31% in patients receiving a proximal gastric vagotomy only."
+        },
+        {
+            "id": "82",
+            "question_type": "mcq",
+            "question": "372. A 90-year-old patient with a bleeding duodenal ulcer (SELECT 1 PROCEDURE)",
+            "options": [
+                "a. Vagotomy and antrectomy",
+                "b. Antrectomy alone",
+                "c. Vagotomy and pyloroplasty",
+                "d. Vagotomy and gastrojejunostomy",
+                "e. Proximal gastric vagotomy"
+            ],
+            "answer": "C",
+            "explanation": "*   Gastric ulcers are classified as type I (incisura or most inferior portion of lesser curvature), type II (gastric and duodenal), type III (pyloric and prepyloric), and type IV (juxtacardial).\n*   Indications for surgery are intractability, perforation, obstruction, and bleeding.\n*   A patient with an intractable type I ulcer can be treated with an antrectomy alone or with a proximal gastric vagotomy.\n*   If done properly, antrectomy offers slightly lower recurrence rates and a higher incidence of postoperative sequelae compared with proximal gastric vagotomy.\n*   However, significant scarring along the lesser curvature makes a proximal gastric vagotomy technically unfeasible.\n*   Gastric outlet obstruction and severe inflammation around the pylorus and duodenum make resection a difficult and dangerous option.\n*   Similarly, pyloroplasty is often not adequate in the setting of gastric outlet obstruction to provide adequate drainage.\n*   Vagotomy and gastrojejunostomy, although associated with the highest recurrence rate, offer the best choice in the described setting.\n*   In an elderly patient with a bleeding duodenal ulcer, recurrence rates are less of a consideration, and the simplest and most expedient operation offers the best surgical outcome.\n*   Vagotomy and pyloroplasty with oversewing of the ulcer is the best choice in this setting.\n*   Finally, in a young patient with intractable type III ulcers, antrectomy with vagotomy offers the best long-term outcome.\n*   Recurrence rates following this procedure are about 2–3%, as compared with 7.4% for vagotomy and drainage and 10–31% in patients receiving a proximal gastric vagotomy only."
+        },
+        {
+            "id": "83",
+            "question_type": "mcq",
+            "question": "373. A 36-year-old patient with a type III (pyloric) ulcer that is refractory to medical treatment (SELECT 1 PROCEDURE)",
+            "options": [
+                "a. Vagotomy and antrectomy",
+                "b. Antrectomy alone",
+                "c. Vagotomy and pyloroplasty",
+                "d. Vagotomy and gastrojejunostomy",
+                "e. Proximal gastric vagotomy"
+            ],
+            "answer": "A",
+            "explanation": "*   Gastric ulcers are classified as type I (incisura or most inferior portion of lesser curvature), type II (gastric and duodenal), type III (pyloric and prepyloric), and type IV (juxtacardial).\n*   Indications for surgery are intractability, perforation, obstruction, and bleeding.\n*   A patient with an intractable type I ulcer can be treated with an antrectomy alone or with a proximal gastric vagotomy.\n*   If done properly, antrectomy offers slightly lower recurrence rates and a higher incidence of postoperative sequelae compared with proximal gastric vagotomy.\n*   However, significant scarring along the lesser curvature makes a proximal gastric vagotomy technically unfeasible.\n*   Gastric outlet obstruction and severe inflammation around the pylorus and duodenum make resection a difficult and dangerous option.\n*   Similarly, pyloroplasty is often not adequate in the setting of gastric outlet obstruction to provide adequate drainage.\n*   Vagotomy and gastrojejunostomy, although associated with the highest recurrence rate, offer the best choice in the described setting.\n*   In an elderly patient with a bleeding duodenal ulcer, recurrence rates are less of a consideration, and the simplest and most expedient operation offers the best surgical outcome.\n*   Vagotomy and pyloroplasty with oversewing of the ulcer is the best choice in this setting.\n*   Finally, in a young patient with intractable type III ulcers, antrectomy with vagotomy offers the best long-term outcome.\n*   Recurrence rates following this procedure are about 2–3%, as compared with 7.4% for vagotomy and drainage and 10–31% in patients receiving a proximal gastric vagotomy only."
+        },
+        {
+            "id": "84",
+            "question_type": "mcq",
+            "question": "374. The most common congenital diaphragmatic hernia in infants (SELECT 1 ABNORMALITY)",
+            "options": [
+                "a. Rupture of the diaphragm",
+                "b. Paraesophageal hiatal hernia",
+                "c. Sliding hiatal hernia",
+                "d. Foramen of Bochdalek hernia",
+                "e. Foramen of Morgagni hernia"
+            ],
+            "answer": "D",
+            "explanation": "*   Paraesophageal hernias, generally thought to be acquired, involve herniation of any portion or all of the stomach into the thoracic cavity via the esophageal hiatus.\n*   These hernias are usually repaired electively due to a high incidence of complications.\n*   In these dangerous hernias, the cardioesophageal junction is in its normal position below the diaphragm.\n*   Diaphragmatic ruptures usually affect adults and result from blunt trauma to the abdomen.\n*   Unless such ruptures are repaired, the negative intrathoracic pressure associated with each respiratory effort tends to suck abdominal contents into the chest, leading to loss of space for lung expansion and substantial risk of damage to the intrathoracic bowel.\n*   Sliding hiatal hernias, the most frequent type of hernia found in adults, are generally acquired.\n*   The significance of this type of hernia rests in its association with gastroesophageal reflux, which may lead to reflux esophagitis.\n*   Because sliding hiatal hernias frequently do not exhibit significant gastroesophageal reflux, other factors may be more important in the pathophysiology of that disorder.\n*   The foramen of Bochdalek hernia is a congenital hernia of the posterolateral aspect of the diaphragm in which abdominal viscera enter the thorax and cause acute respiratory distress in infants; this hernia requires emergency repair.\n*   The foramen of Morgagni hernia, although also congenital, is not usually detected until adulthood.\n*   It is usually an incidental finding on chest x-ray, appearing as a low anterior mediastinal mass.\n*   However, on rare occasions, it can produce acute respiratory distress in infants."
+        },
+        {
+            "id": "85",
+            "question_type": "mcq",
+            "question": "375. The hernia most likely to cause acute respiratory distress in infants (SELECT 1 ABNORMALITY)",
+            "options": [
+                "a. Rupture of the diaphragm",
+                "b. Paraesophageal hiatal hernia",
+                "c. Sliding hiatal hernia",
+                "d. Foramen of Bochdalek hernia",
+                "e. Foramen of Morgagni hernia"
+            ],
+            "answer": "D",
+            "explanation": "*   Paraesophageal hernias, generally thought to be acquired, involve herniation of any portion or all of the stomach into the thoracic cavity via the esophageal hiatus.\n*   These hernias are usually repaired electively due to a high incidence of complications.\n*   In these dangerous hernias, the cardioesophageal junction is in its normal position below the diaphragm.\n*   Diaphragmatic ruptures usually affect adults and result from blunt trauma to the abdomen.\n*   Unless such ruptures are repaired, the negative intrathoracic pressure associated with each respiratory effort tends to suck abdominal contents into the chest, leading to loss of space for lung expansion and substantial risk of damage to the intrathoracic bowel.\n*   Sliding hiatal hernias, the most frequent type of hernia found in adults, are generally acquired.\n*   The significance of this type of hernia rests in its association with gastroesophageal reflux, which may lead to reflux esophagitis.\n*   Because sliding hiatal hernias frequently do not exhibit significant gastroesophageal reflux, other factors may be more important in the pathophysiology of that disorder.\n*   The foramen of Bochdalek hernia is a congenital hernia of the posterolateral aspect of the diaphragm in which abdominal viscera enter the thorax and cause acute respiratory distress in infants; this hernia requires emergency repair.\n*   The foramen of Morgagni hernia, although also congenital, is not usually detected until adulthood.\n*   It is usually an incidental finding on chest x-ray, appearing as a low anterior mediastinal mass.\n*   However, on rare occasions, it can produce acute respiratory distress in infants."
+        },
+        {
+            "id": "86",
+            "question_type": "mcq",
+            "question": "376. A congenital hernia that is most frequently discovered as an incidental finding in adults (SELECT 1 ABNORMALITY)",
+            "options": [
+                "a. Rupture of the diaphragm",
+                "b. Paraesophageal hiatal hernia",
+                "c. Sliding hiatal hernia",
+                "d. Foramen of Bochdalek hernia",
+                "e. Foramen of Morgagni hernia"
+            ],
+            "answer": "E",
+            "explanation": "*   Paraesophageal hernias, generally thought to be acquired, involve herniation of any portion or all of the stomach into the thoracic cavity via the esophageal hiatus.\n*   These hernias are usually repaired electively due to a high incidence of complications.\n*   In these dangerous hernias, the cardioesophageal junction is in its normal position below the diaphragm.\n*   Diaphragmatic ruptures usually affect adults and result from blunt trauma to the abdomen.\n*   Unless such ruptures are repaired, the negative intrathoracic pressure associated with each respiratory effort tends to suck abdominal contents into the chest, leading to loss of space for lung expansion and substantial risk of damage to the intrathoracic bowel.\n*   Sliding hiatal hernias, the most frequent type of hernia found in adults, are generally acquired.\n*   The significance of this type of hernia rests in its association with gastroesophageal reflux, which may lead to reflux esophagitis.\n*   Because sliding hiatal hernias frequently do not exhibit significant gastroesophageal reflux, other factors may be more important in the pathophysiology of that disorder.\n*   The foramen of Bochdalek hernia is a congenital hernia of the posterolateral aspect of the diaphragm in which abdominal viscera enter the thorax and cause acute respiratory distress in infants; this hernia requires emergency repair.\n*   The foramen of Morgagni hernia, although also congenital, is not usually detected until adulthood.\n*   It is usually an incidental finding on chest x-ray, appearing as a low anterior mediastinal mass.\n*   However, on rare occasions, it can produce acute respiratory distress in infants."
+        },
+        {
+            "id": "87",
+            "question_type": "msq",
+            "question": "377. A 65-year-old previously healthy man presents with severe abdominal pain that came on suddenly. He has abdominal tenderness and guarding in all four quadrants on physical examination. A radiograph is obtained and demonstrates a radiolucency under the right hemidiaphragm. (SELECT 4 DIAGNOSES)",
+            "options": [
+                "a. Spontaneous bacterial peritonitis",
+                "b. Perforated diverticulum",
+                "c. Perforated gastric ulcer",
+                "d. Ruptured spleen",
+                "e. Ruptured echinococcal liver cyst",
+                "f. Sigmoid volvulus",
+                "g. Cecal volvulus",
+                "h. Perforated transverse colon carcinoma",
+                "i. Strangulated hernia with necrotic bowel"
+            ],
+            "answer": [
+                "B",
+                "C",
+                "H",
+                "I"
+            ],
+            "explanation": "*   The radiograph demonstrates pneumoperitoneum.\n*   Only a perforated viscus can produce this radiographic appearance in conjunction with diffuse peritonitis.\n*   A perforated gastric ulcer, perforated diverticulum, perforated transverse colon carcinoma, or strangulated hernia with necrotic bowel would all produce this clinical picture.\n*   A sigmoid volvulus appears radiographically on plain film of the abdomen as an upside-down U or \"bent inner tube.\"\n*   Acute sigmoid volvulus presents in the elderly with nausea, vomiting, abdominal distention, colicky abdominal pain, and obstipation.\n*   The first diagnostic and often therapeutic maneuver should be a sigmoidoscopy."
+        },
+        {
+            "id": "88",
+            "question_type": "mcq",
+            "question": "378. An 82-year-old nursing home patient presents to the emergency room with vomiting, abdominal pain, and distention. A radiograph is obtained and demonstrates a grossly dilated loop of intestine overlying the sacrum in the shape of an upside down U. (SELECT 1 DIAGNOSIS)",
+            "options": [
+                "a. Spontaneous bacterial peritonitis",
+                "b. Perforated diverticulum",
+                "c. Perforated gastric ulcer",
+                "d. Ruptured spleen",
+                "e. Ruptured echinococcal liver cyst",
+                "f. Sigmoid volvulus",
+                "g. Cecal volvulus",
+                "h. Perforated transverse colon carcinoma",
+                "i. Strangulated hernia with necrotic bowel"
+            ],
+            "answer": "F",
+            "explanation": "*   The radiograph demonstrates pneumoperitoneum.\n*   Only a perforated viscus can produce this radiographic appearance in conjunction with diffuse peritonitis.\n*   A perforated gastric ulcer, perforated diverticulum, perforated transverse colon carcinoma, or strangulated hernia with necrotic bowel would all produce this clinical picture.\n*   A sigmoid volvulus appears radiographically on plain film of the abdomen as an upside-down U or \"bent inner tube.\"\n*   Acute sigmoid volvulus presents in the elderly with nausea, vomiting, abdominal distention, colicky abdominal pain, and obstipation.\n*   The first diagnostic and often therapeutic maneuver should be a sigmoidoscopy."
+        },
+        {
+            "id": "89",
+            "question_type": "msq",
+            "question": "379. A 72-year-old man with severe coronary artery disease presents with painless hematemesis following a prolonged bout of vomiting. Upper endoscopy reveals a tear just below the gastroesophageal junction, which is actively bleeding. (SELECT 3 ACTIONS)",
+            "options": [
+                "a. Administration of intravenous vasopressin",
+                "b. Administration of intraarterial vasopressin",
+                "c. Left thoracotomy, full-thickness suture ligation, and drainage of the pleural cavity",
+                "d. Balloon tamponade",
+                "e. Endoscopic control of bleeding",
+                "f. Gastrotomy and suture ligation",
+                "g. Insertion of a chest tube",
+                "h. Pulmonary arteriogram and streptokinase infusion",
+                "i. Cardiac catheterization and intraarterial infusion of tissue plasminogen activator"
+            ],
+            "answer": [
+                "D",
+                "E",
+                "F"
+            ],
+            "explanation": "*   Patients with Mallory-Weiss syndrome typically present with massive, painless hematemesis after severe vomiting or retching.\n*   The majority of tears (87%) occur just below the gastroesophageal junction.\n*   These tears occur 3 times more commonly in cirrhotics than in the normal population.\n*   Most of the time (90%), bleeding will stop without any intervention.\n*   When bleeding persists, balloon tamponade, endoscopic control of bleeding, and surgical intervention with gastrotomy and oversewing of the tear have all been successful.\n*   Both intravenous and intraarterial infusion of vasopressin are also useful in controlling bleeding but are contraindicated in patients with coronary artery disease.\n*   The patient presents with Boerhaave syndrome (spontaneous perforation of the esophagus following sudden increase in intraabdominal pressure).\n*   Unlike Mallory-Weiss tears, these tears are transmural perforations.\n*   Typical presentation is severe retrosternal or left chest or shoulder pain following an episode of retching; symptoms can sometimes mimic a myocardial or pulmonary infarction.\n*   However, a good history can usually distinguish a Boerhaave perforation from these other entities.\n*   A Gastrografin swallow is helpful in diagnostically challenging cases.\n*   Treatment consists of left thoracotomy, repair of the transmural tear, and adequate drainage."
+        },
+        {
+            "id": "90",
+            "question_type": "mcq",
+            "question": "380. A 56-year-old man complains of the onset of severe substernal pain after a night of heavy drinking followed by uncontrolled retching. He states that there was a small amount of blood in his vomit. A chest x-ray shows a moderate-sized left pleural effusion. (SELECT 1 ACTION)",
+            "options": [
+                "a. Administration of intravenous vasopressin",
+                "b. Administration of intraarterial vasopressin",
+                "c. Left thoracotomy, full-thickness suture ligation, and drainage of the pleural cavity",
+                "d. Balloon tamponade",
+                "e. Endoscopic control of bleeding",
+                "f. Gastrotomy and suture ligation",
+                "g. Insertion of a chest tube",
+                "h. Pulmonary arteriogram and streptokinase infusion",
+                "i. Cardiac catheterization and intraarterial infusion of tissue plasminogen activator"
+            ],
+            "answer": "C",
+            "explanation": "*   Patients with Mallory-Weiss syndrome typically present with massive, painless hematemesis after severe vomiting or retching.\n*   The majority of tears (87%) occur just below the gastroesophageal junction.\n*   These tears occur 3 times more commonly in cirrhotics than in the normal population.\n*   Most of the time (90%), bleeding will stop without any intervention.\n*   When bleeding persists, balloon tamponade, endoscopic control of bleeding, and surgical intervention with gastrotomy and oversewing of the tear have all been successful.\n*   Both intravenous and intraarterial infusion of vasopressin are also useful in controlling bleeding but are contraindicated in patients with coronary artery disease.\n*   The patient presents with Boerhaave syndrome (spontaneous perforation of the esophagus following sudden increase in intraabdominal pressure).\n*   Unlike Mallory-Weiss tears, these tears are transmural perforations.\n*   Typical presentation is severe retrosternal or left chest or shoulder pain following an episode of retching; symptoms can sometimes mimic a myocardial or pulmonary infarction.\n*   However, a good history can usually distinguish a Boerhaave perforation from these other entities.\n*   A Gastrografin swallow is helpful in diagnostically challenging cases.\n*   Treatment consists of left thoracotomy, repair of the transmural tear, and adequate drainage."
+        }
+    ]
+}

@@ -1,0 +1,413 @@
+{
+    "chapter_name": "SKIN: WOUNDS, INFECTIONS, BURNS; HANDS; PLASTIC SURGERY",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "106. Wasting of the intrinsic muscles of the hand can be expected to follow injury of the",
+            "options": [
+                "a. Ulnar nerve",
+                "b. Radial nerve",
+                "c. Brachial nerve",
+                "d. Axillary nerve",
+                "e. Thenar and hypothenar nerves"
+            ],
+            "answer": "a",
+            "explanation": "- The ulnar nerve innervates 15 of the 20 intrinsic muscles of the hand.\n- The musculocutaneous, radial, ulnar, and median nerves are all important to hand function.\n- The musculocutaneous and radial nerves allow forearm supination; the radial nerve alone innervates the extensor muscles.\n- The median nerve is the \"eye of the hand\" because of its extensive contribution to sensory perception; it also maintains most of the long flexors, the pronators of the forearm, and the thenar muscles."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "107. Although wide surgical excision is the traditional treatment for malignant melanoma, narrow excision of thin (less than 1 mm deep) stage I melanomas has been found to be equally safe and effective when the margin of resection is as small as",
+            "options": [
+                "a. 3 mm",
+                "b. 5 mm",
+                "c. 1 cm",
+                "d. 3 cm",
+                "e. 5 cm"
+            ],
+            "answer": "c",
+            "explanation": "- Wide excision of melanomas, with margins of 3–5 cm beyond the lateral edges of tumor, has traditionally been considered mandatory.\n- A 5-year prospective multicenter study of over 600 randomly assigned patients with thin stage I melanomas, however, showed that local recurrence rates, as well as the subsequent development of metastatic disease, were not different when margins of 1 cm or 3 cm were taken, provided that tumor thickness did not exceed 1 mm."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "108. With regard to wound healing, which one of the following statements is correct?",
+            "options": [
+                "a. Collagen content reaches a maximum at approximately 1 wk after injury",
+                "b. Monocytes are essential for normal wound healing",
+                "c. Fibroblasts appear in the wound within 24-36 h after the injury",
+                "d. The function of the monocyte in wound healing is limited to phagocytosis of bacteria and debris",
+                "e. Early in wound healing, type I collagen is predominant"
+            ],
+            "answer": "b",
+            "explanation": "- Wound healing is an overlapping sequence of inflammation, proliferation, and remodeling.\n- The inflammatory phase is characterized by a rapid influx of neutrophils, followed in about 2 days by an influx of mononuclear cells.\n- These monocytes act not only by phagocytosing debris and bacteria, but also by secreting numerous growth factors including tumor necrosis factor (TNF), transforming growth factor, platelet-derived growth factor (PDGF), and fibroblast growth factor, which are essential to normal wound healing.\n- Angiogenesis and collagen formation take place during the proliferative phase of wound healing.\n- Fibroblasts, which enter the wound at about day 3, continue to proliferate with increasing collagen deposition.\n- Throughout the proliferative phase, type III collagen predominates.\n- Collagen content is maximum at 2–3 wk, at which time the remodeling phase begins.\n- Type III collagen, which is elastic fibrils, is gradually replaced by rigid fibrils, or type I collagen, at this time.\n- During remodeling, collagen deposition and degradation reach a steady state, which may continue for up to 1 year."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "109. While you are on duty in the emergency room, a 12-year-old boy arrives with pain and inflammation over the ball of his left foot and red streaks extending up the inner aspect of his leg. He remembers removing a wood splinter from the sole of his foot on the previous day. The most likely infecting organism is",
+            "options": [
+                "a. Clostridium perfingens",
+                "b. Clostridium tetani",
+                "c. Staphylococcus",
+                "d. Escherichia coli",
+                "e. Streptococcus"
+            ],
+            "answer": "e",
+            "explanation": "- The significant observation in this question is the description of lymphangitic inflammatory streaking up the inner aspect of the patient's leg.\n- This is highly suggestive of a streptococcal infection.\n- The presumptive therapy should be high doses of a bactericidal antibiotic."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "110. The appropriate antibiotic to prescribe while awaiting specific culture verification is",
+            "options": [
+                "a. Penicillin",
+                "b. Erythromycin",
+                "c. Tetracycline",
+                "d. Azathioprine",
+                "e. Cloxacillin"
+            ],
+            "answer": "a",
+            "explanation": "- Penicillin remains the mainstay of therapy against presumed streptococcal infections.\n- Most streptococcal cellulitis is adequately treated by penicillin, elevation of the infected extremity, and attention to the local wound to ascertain adequate local drainage and absence of any persisting foreign body.\n- The clinician must be alert to the possibility of a more fulminant and life- or limb-threatening infection by clostridia, microaerophilic streptococcus, or other potentially synergistic organisms that can produce rapidly progressive deep infections in fascia of muscle.\n- Smears and cultures of drainage fluid or aspirates should be taken.\n- Close observation of the wound is essential, and aggressive debridement in the operating room is mandatory at the slightest suggestion that fasciitis or myonecrosis may be ensuing."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "111. Proper treatment for frostbite consists of",
+            "options": [
+                "a. Debridement of the affected part followed by silver sulfadiazine dressings",
+                "b. Administration of corticosteroids",
+                "c. Administration of vasodilators",
+                "d. Immersion of the affected part in water at 40-44°C (104–111.2°F)",
+                "e. Rewarming of the affected part at room temperature"
+            ],
+            "answer": "d",
+            "explanation": "- Many methods of treating frostbite have been tried throughout the years, including massage, warm-water immersion, or covering the affected area.\n- Rapid warming by immersion in water slightly above normal body temperature (40–44°C) is the most effective method.\n- However, because the frostbitten region is numb and especially vulnerable, it should be protected from trauma or excessive heat during treatment.\n- Further treatment may include elevation to minimize edema, administration of antibiotics and tetanus toxoid, and debridement of necrotic skin as needed."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "112. The true statement regarding tendon injuries in the hand is",
+            "options": [
+                "a. Flexor digitorum superficialis inserts on the distal phalanx",
+                "b. Flexor digitorum profundus inserts on the middle phalanx",
+                "c. The tendons of flexor digitorum superficialis arise from a common muscle belly",
+                "d. The best results for repair of a flexor tendon are obtained with injuries in the fibro-osseous tunnel (zone 2)",
+                "e. The process of healing a tendon injury involves formation of a tenoma"
+            ],
+            "answer": "e",
+            "explanation": "- Each digit has two long flexors, named superficial and deep according to the relative position of the muscle bellies.\n- In the fingers, each superficial flexor tendon divides around the corresponding deep tendon to reach its insertion on the base of the middle phalanx.\n- The deep flexor tendon continues to its insertion on the base of the distal phalanx.\n- Only the deep flexors can flex the distal interphalangeal joint.\n- Since the tendons of the deep flexors share a common muscle belly, only the superficial flexors can move a finger when the adjacent fingers are immobilized.\n- These tendons are prevented from bow-stringing across the joints by the flexor retinaculum of the wrists and the fibroosseous tunnels, which extend from the distal palmar crease to the middle phalanx.\n- They run within synovial sheaths and are nourished by vincula tendinum (short mesenteries).\n- The process of healing a tendon injury involves the formation of a tenoma, which tends to become adherent to the surrounding sheath.\n- A difficult balance has to be struck between the desire to prevent adhesions by early mobilization and the risk of rupturing an unhealed tendon.\n- Verdan has divided the hand into six regions according to the anatomy surrounding the tendons.\n- Zone 2, sometimes referred to as \"no-man's land,\" refers to the fibroosseous tunnels.\n- Repair in this region is fraught with difficulty."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "113. Which one of the following cases is considered a clean-contaminated wound?",
+            "options": [
+                "a. Open cholecystectomy for cholelithiasis",
+                "b. Herniorrhaphy with mesh repair",
+                "c. Lumpectomy with axillary node dissection",
+                "d. Appendectomy with walled-off abscess",
+                "e. Gunshot wound to the abdomen with injuries to the small bowel and sigmoid colon"
+            ],
+            "answer": "a",
+            "explanation": "- Surgical wounds can be divided into three categories based on the amount of bacterial contamination.\n- Clean wounds are those in which no part of the respiratory, gastrointestinal, or genitourinary tract is entered. Examples include herniorrhaphy and breast surgery.\n- Clean-contaminated wounds encompass those cases in which the above systems are entered, but without evidence of active infection or gross spillage. Examples include elective cholecystectomy or elective colon resection with adequate bowel preparation.\n- Contaminated wounds are those in which there is active infection (perforated appendicitis with abscess) or gross spillage (gunshot wound with large or small bowel injuries).\n- While contaminated and clean-contaminated wounds require perioperative antibiotics, clean wounds need not be treated with prophylactic antibiotics."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "114. A 45-year-old woman undergoes an uneventful laparoscopic cholecystectomy for which she receives one dose of cephalosporin. One week later, she returns to the emergency room with fever, nausea, and copious diarrhea and is subsequently diagnosed with pseudomembranous colitis. With respect to this disease, which one of the following statements is correct?",
+            "options": [
+                "a. Surgical intervention is frequently required",
+                "b. After appropriate antibiotic therapy, the relapse rate is less than 5%",
+                "c. Tissue culture assay for Clostridium difficile toxin B is neither sensitive nor specific; therefore diagnosis should be based on clinical findings",
+                "d. If surgery is performed, a left hemicolectomy is usually adequate to treat pseudo-membranous colitis",
+                "e. Indications for surgical treatment include intractable disease, failure of medical therapy, toxic megacolon, and colonic perforation"
+            ],
+            "answer": "e",
+            "explanation": "- Pseudomembranous colitis is a common nosocomial infection most often caused by Clostridium difficile toxins A and B.\n- Antibiotic use allows overgrowth of C. difficile, leading to abdominal pain, fever, diarrhea, and increased WBCs.\n- Diagnosis is confirmed by isolation of C. difficile toxin B via tissue culture assay.\n- Sensitivity and specificity are quite high (greater than 90%), but may require 24–48 h to complete.\n- The vast majority of patients will respond to oral vancomycin or metronidazole, although 20–30% of patients may relapse.\n- Because response to antibiotic therapy is high, surgical intervention is infrequently required (<1%).\n- Indications for surgery include intractable or fulminant disease, failure of medical therapy, colonic perforation, and toxic megacolon.\n- Pseudomembranous colitis often involves the entire colon, despite normal-appearing serosa.\n- Therefore, the procedure of choice is a subtotal colectomy with ileostomy.\n- Overall mortality of 35–40% is described, with <20% mortality for those patients undergoing subtotal colectomy."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "115. A 60-year-old woman presents with the skin lesion shown below, which had been present for 10 years. She reported a history of radiation treatments to that hand for \"eczema.\" Correct statements concerning this lesion include",
+            "options": [
+                "a. It is more malignant than basal cell carcinoma",
+                "b. It occurs more frequently in brunettes",
+                "c. It rarely metastasizes to regional lymph nodes",
+                "d. It should be treated by radiation therapy",
+                "e. It is rarely associated with chronic sun exposure"
+            ],
+            "answer": "a",
+            "explanation": "- Squamous cell carcinoma occurs in people who have had chronic sun exposure, chronic ulcers or sinus tracts (draining osteomyelitis), and a history of radiation or thermal injury (Margolin's ulcer).\n- It is more malignant than basal cell carcinoma, grows more rapidly, and metastasizes.\n- It occurs more frequently in blondes and fair-skinned people.\n- A radiation-induced carcinoma, or one arising in a burn scar, should not be treated with radiation therapy for fear of further damage."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "116. A 25-year-old man is brought to the emergency room after sustaining burns during a fire in his apartment. He has blistering and erythema of his face, left upper extremity, and chest with frank charring of his right upper extremity. He is agitated, hypotensive, and tachycardiac. Which one of the following statements concerning this patient's initial wound management is correct?",
+            "options": [
+                "a. Topical antibiotics should not be used, as they will encourage growth of resistant organisms",
+                "b. Early excision of facial and hand burns is especially important",
+                "c. Escharotomy should only be performed if neurologic impairment is imminent",
+                "d. Excision of areas of third-degree or of deep second-degree burns usually takes place 3-7 days after injury",
+                "e. Split-thickness skin grafts over the eschar of third-degree burns should be performed immediately in order to prevent fluid loss"
+            ],
+            "answer": "d",
+            "explanation": "- Early wound management is characterized by early excision of areas of devitalized tissue, with the exception of deep wounds of the palms, soles, genitals, and face.\n- Staged excision of deep partial-thickness or full-thickness burns occurs between 3 and 7 days after the injury.\n- There are several proven advantages to early excision including decreased hospital stay and lower cost.\n- This is especially true of burns encompassing >30–40% total body surface area.\n- In conjunction with early excision, topical antimicrobials such as silver sulfadiazine are extremely important in delaying colonization of the newly excised or fresh burn wounds.\n- Permanent coverage through split-thickness skin grafting usually occurs more than 1 wk after injury.\n- Skin autograft requires a vascular bed and therefore cannot be placed over eschar.\n- Meticulous attention to deep circumferential burns is crucial in the management of burn patients.\n- Progressive tissue edema may lead to progressive vascular and neurologic compromise.\n- Because the blood supply is the initial system affected, frequent assessment of flow is vital, with longitudinal escharotomy performed at the first sign of vascular compromise.\n- A low threshold should be maintained in performing an escharotomy in the setting of severely burned limbs."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "117. Which one of the following statements regarding the above burn patient is correct?",
+            "options": [
+                "a. High-dose penicillin should be administered prophylactically",
+                "b. Tetanus prophylaxis is not necessary if the patient has been immunized in the previous 3 years",
+                "c. This burn can be estimated at 60% total body surface area using the \"rule of nines\"",
+                "d. The most sensitive indicator of adequacy of fluid resuscitation is heart rate",
+                "e. This patient should undergo immediate intubation for airway protection and oxygen administration"
+            ],
+            "answer": "e",
+            "explanation": "- Aggressive evaluation and treatment of burn victims has led to increased survival.\n- A systematic approach to the patient with attention to airway/vascular access and aggressive fluid resuscitation has proved essential.\n- In the patient with obvious facial burns who is hemodynamically unstable, airway access is the first priority.\n- Fluid resuscitation is initiated using the Parkland formula, with urine output of 0.5–1.0 mL/kg/h being the most sensitive indicator of the adequacy of resuscitation.\n- The extent of the burn can be roughly estimated using the \"rule of nines,\" in which the head and the upper extremities are each 9% of the total body surface area (TBSA) and the anterior trunk, posterior trunk, and the lower extremities are each 18% of the TBSA. The neck encompasses 1% of the TBSA.\n- This patient has burns of roughly 40% TBSA (face 4.5%, upper extremities 18%, and anterior trunk 18%).\n- Tetanus prophylaxis is indicated in all patients who have not been immunized within 1 year.\n- Prophylactic intravenous antibiotics are not indicated because they have not been shown to be of benefit in decreasing early cellulitic infections; conversely, they have been shown to lead to increased complications secondary to resistant gram-negative organisms."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "118. True statements regarding squamous cell carcinoma of the lip include",
+            "options": [
+                "a. The lesion often arises in areas of persistent hyperkeratosis",
+                "b. More than 90% of cases occur on the upper lip",
+                "c. The lesion constitutes 30% of all cancers of the oral cavity",
+                "d. Radiotherapy is considered inappropriate treatment for these lesions",
+                "e. Initially metastases are to the ipsilateral posterior cervical lymph nodes"
+            ],
+            "answer": "a",
+            "explanation": "- Squamous cell carcinoma of the lip is the most common malignant tumor of the lip and constitutes 15% of all malignancies of the oral cavity.\n- Basal cell carcinomas do occur on the lip, but much less frequently.\n- There is a strong association between squamous cell tumors of the lip and sun exposure.\n- Therefore, these lesions are more common in the southern United States and in occupational groups who work out of doors.\n- Because of its greater sun exposure, the lower lip is the site of more than 90% of such lesions.\n- Persistent hyperkeratosis precedes 35-40% of these lesions.\n- The incidence of metastases increases with the size of the lesion, and spread is usually via lymphatics to the ipsilateral submental node.\n- Contralateral nodal metastases are rare unless the lesion crosses the midline.\n- Approximately 10–15% of all patients have metastases at the time of diagnosis.\n- These lip tumors are very responsive to radiotherapy, which works well for small to medium-sized lesions.\n- Large lesions treated with radiotherapy usually require surgical reconstruction.\n- Radiotherapy should not be used in patients who will have ongoing sun exposure to the area because radiation therapy sensitizes the tissues to solar trauma."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "119. Which of the following statements regarding carpal tunnel syndrome is correct?",
+            "options": [
+                "a. It is rarely secondary to trauma",
+                "b. It may be associated with pregnancy",
+                "c. It most often causes dysesthesia during waking hours",
+                "d. It is often associated with vascular compromise",
+                "e. Surgical treatment involves release of the extensor retinaculum"
+            ],
+            "answer": "b",
+            "explanation": "- Signs and symptoms of carpal tunnel syndrome are related to the distribution of the median nerve.\n- This nerve, which passes through the carpal tunnel is the wrist with the finger flexor tendons, may suffer compression from fibrous scarring or malalignment following a fracture of the wrist.\n- Nerve compression may also occur in patients with rheumatoid arthritis who develop flexor tenosynovitis.\n- In women, the syndrome frequently first appears during pregnancy and recurs during the premenstrual phase of subsequent menstrual cycles.\n- In these cases, symptoms are presumably the result of the effects of fluid retention and pressure on the median nerve owing to tissue swelling.\n- In many instances, symptoms are limited to nocturnal pain and paresthesias.\n- If conservative treatment of carpal tunnel syndrome is unsuccessful, surgical treatment may be required.\n- Open and endoscopic techniques have been employed, both of which release adhesions of the median nerve and divide the transverse carpal ligament.\n- The extensor retinaculum is located on the dorsal aspect of the wrist and contains the six compartments of extensor tendons."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "120. Which of the following is true with regard to wound contraction?",
+            "options": [
+                "a. It is the primary process affecting closure of a sutured or stapled surgical wound",
+                "b. Bacterial colonization significantly slows the process of contraction",
+                "c. It may account for a maximum of 50% decrease in the size of a wound",
+                "d. It is based on specialized fibroblasts that contain actin myofilaments",
+                "e. The percentage reduction of wound size is increased with increased adherency of skin to underlying tissue"
+            ],
+            "answer": "d",
+            "explanation": "- While epithelialization is responsible for the healing of a closed incision, wound contraction is the primary method of closure in open wounds.\n- During this process, the skin surrounding the wound is pulled over the wound surface and may account for up to a 90% reduction in the size of an open wound.\n- In areas of greater adherence of skin to underlying tissue, the ability of contraction to close the wound is hindered due to the decreased mobility of the skin.\n- Therefore, in areas of tight skin adherence such as the leg, contraction may only account for 30-40% reduction in wound size.\n- Fibroblasts in the open wound, which predominate during the proliferative phase, contain increasing numbers of actin microfilaments, thereby becoming myofibroblasts.\n- These specialized fibroblasts are felt to be responsible for wound contraction either through intrinsic cellular contraction or attachment to collagen strands.\n- Bacterial colonization does not harm the process of wound contraction and surgical wound healing.\n- While wound infection is often difficult to diagnose in open wounds, it is generally accepted that bacterial counts of 1 million bacteria per gram of tissue are deleterious to wound closure."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "121. Management of leukoplakia of the oral cavity includes",
+            "options": [
+                "a. Excisional biopsy of all lesions",
+                "b. Application of topical antibiotics",
+                "c. Low-dose radiation therapy",
+                "d. Ascertaining that dentures fit properly",
+                "e. Application of topical chemotherapeutic agents"
+            ],
+            "answer": "d",
+            "explanation": "- White patches in the oral cavity (leukoplakia) sometimes are incorrectly interpreted as a premalignant condition.\n- Microscopic examination of leukoplakia may in fact reveal hyperplasia, keratosis, or dyskeratosis, of which the last finding is the most serious because of its association with malignancy.\n- Only about 5% of patients with leukoplakia develop cancer.\n- A suggested treatment protocol for patients with thin lesions advocates a program of strict oral hygiene and avoidance of alcohol and tobacco.\n- Biopsy is reserved only for those with thick lesions (since carcinoma in situ may be present).\n- Radiation therapy is contraindicated.\n- Approximately 50% of all oral cancers occur in patients who have associated areas of hyperkeratosis and dyskeratosis.\n- Chronic irritation, as may occur with poorly fitting dentures, may result in leukoplakia."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "122. An 8-lb infant, born following uncomplicated labor and delivery, is noted to have a unilateral cleft lip and palate. The parents should be advised that",
+            "options": [
+                "a. The child almost certainly has other congenital anomalies",
+                "b. Rehabilitation requires adjunctive speech therapy",
+                "c. Lip repair is indicated at 1 year of age",
+                "d. Palate repair is indicated prior to 6 mo of age",
+                "e. Cosmetic revisions to the nose should be performed at the same time as cleft lip repair"
+            ],
+            "answer": "b",
+            "explanation": "- Clefts of the lip and palate occur relatively frequently (1 in 750 live births); they may be unilateral or bilateral and can vary from a small notch to a complete cleft of the lip and palate.\n- Most clefts occur as isolated anomalies, but occasionally they are associated with neurologic, orthopedic, or cardiac anomalies.\n- A frequently recommended protocol for management is lip repair in the first 3 mo of life and palate repair at 12 to 18 mo.\n- Other cosmetic procedures can be performed late in childhood and adolescence.\n- Palate repair after 2 years of age is associated with a high incidence of speech impairment, often requiring speech therapy.\n- Repair in the early months of life can lead to a hazardous loss of blood that is poorly tolerated by the infant.\n- Repair of the lip usually should be accomplished as soon as the infant is sufficiently stabilized to tolerate anesthesia with reasonable safety.\n- Ten to twelve weeks is often recommended as the time for lip repair.\n- At this age, the affected baby usually can be converted to dropper or cup feedings in the postoperative period, which thereby facilitates healing of the lip by reducing the need for suckling with the freshly wounded tissues."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "123. A 40-year-old woman undergoes wide excision of a pigmented lesion of her thigh. Pathologic examination reveals malignant melanoma that is Clark's level IV. Findings on examination of the groin are normal. The patient should be advised that",
+            "options": [
+                "a. Radiotherapy will be an important part of subsequent therapy",
+                "b. The likelihood of groin node metastases is remote",
+                "c. Immunotherapy is an effective form of adjunctive treatment for metastatic malignant melanoma",
+                "d. Groin dissection is not indicated unless and until groin nodes become palpable",
+                "e. Intralesional bacille Calmette-Guérin (BCG) administration has been found to aid in local control in the majority of patients"
+            ],
+            "answer": "d",
+            "explanation": "- The survival of patients with malignant melanoma correlates with the depth of invasion (Clark) and the thickness of the lesion (Breslow).\n- It is widely held that patients with thin lesions (<0.76 mm) and Clark level I and II lesions are adequately managed by wide local excision.\n- The incidence of nodal metastases rises with increasing Clark level of invasion such that a level IV lesion has a 30-50% incidence of nodal metastases.\n- The assumption that removal of microscopic foci of disease is beneficial, in conjunction with retrospective data indicating improved survival in patients who have undergone removal of clinically negative but pathologically positive nodes, has led to the widely held belief that prophylactic node dissections are indicated for melanoma.\n- Prospective data has challenged this concept. Veronesi and Sim have found that patients undergoing prophylactic node dissections survived no longer than those who were followed closely and underwent node dissections only after nodes became palpable.\n- The subject remains controversial, and further study and follow-up are necessary.\n- Immunotherapy has not been successful in controlling widespread metastatic melanoma even when added to chemotherapy.\n- Intralesional administration of BCG has been demonstrated to control local skin lesions in only 20% of patients.\n- Dinitrochlorobenzene (DNCB) can also be used."
+        },
+        {
+            "id": 19,
+            "question_type": "msq",
+            "question": "124. A 56-year-old woman presents with a small, pigmented lesion on her forearm, which has been growing over the last 2 mo. She is a fair-complected woman with a history of sun exposure. (SELECT 3 LESIONS)",
+            "options": [
+                "a. Cystic hygroma",
+                "b. Basal cell carcinoma",
+                "c. Port-wine stain",
+                "d. Strawberry hemangioma",
+                "e. Malignant melanoma",
+                "f. Squamous cell carcinoma"
+            ],
+            "answer": [
+                "b",
+                "e",
+                "f"
+            ],
+            "explanation": "- Cutaneous neoplasms are extremely prevalent in the United States, with basal cell and squamous cell carcinoma being the most common.\n- Patients who are at particular risk for malignant neoplasms are those with fair complexion and frequent sun exposure.\n- Other risk factors for basal and squamous cell carcinomas include radiation damage, chronic wounds, and scar tissue.\n- Malignant melanoma is a pigmented lesion that grows."
+        },
+        {
+            "id": 20,
+            "question_type": "msq",
+            "question": "125. A 6-mo-old child presents with a red lesion on the face. (SELECT 2 LESIONS)",
+            "options": [
+                "a. Cystic hygroma",
+                "b. Basal cell carcinoma",
+                "c. Port-wine stain",
+                "d. Strawberry hemangioma",
+                "e. Malignant melanoma",
+                "f. Squamous cell carcinoma"
+            ],
+            "answer": [
+                "c",
+                "d"
+            ],
+            "explanation": "- The pediatric population may suffer from multiple cutaneous lesions, including port-wine stains and strawberry hemangiomas.\n- Both are capillary hemangiomas, but with very different clinical courses.\n- Port-wine stains are present from birth and do not regress.\n- Strawberry hemangiomas typically grow rapidly over 6–12 mo, but 90% regress spontaneously."
+        },
+        {
+            "id": 21,
+            "question_type": "msq",
+            "question": "126. Surgical excision is the first line of therapy. (SELECT 5 LESIONS)",
+            "options": [
+                "a. Cystic hygroma",
+                "b. Basal cell carcinoma",
+                "c. Port-wine stain",
+                "d. Strawberry hemangioma",
+                "e. Malignant melanoma",
+                "f. Squamous cell carcinoma"
+            ],
+            "answer": [
+                "a",
+                "b",
+                "c",
+                "e",
+                "f"
+            ],
+            "explanation": "- Surgical excision is the treatment of choice of all malignant cutaneous neoplasms (basal cell carcinoma, malignant melanoma, squamous cell carcinoma).\n- Port-wine stains: surgical excision is a treatment option in small lesions.\n- Cystic hygromas: are treated with surgical excision.\n- Strawberry hemangiomas: For particularly large or rapidly growing lesions, excision, laser cauterization, or steroids may be considered, but typically no intervention is required."
+        },
+        {
+            "id": 22,
+            "question_type": "msq",
+            "question": "127. Radiation may be useful as adjuvant therapy. (SELECT 3 LESIONS)",
+            "options": [
+                "a. Cystic hygroma",
+                "b. Basal cell carcinoma",
+                "c. Port-wine stain",
+                "d. Strawberry hemangioma",
+                "e. Malignant melanoma",
+                "f. Squamous cell carcinoma"
+            ],
+            "answer": [
+                "b",
+                "e",
+                "f"
+            ],
+            "explanation": "- Radiation therapy may be useful for palliation of metastatic melanoma.\n- It may be considered as adjuvant therapy for squamous cell carcinoma and aggressive or invasive basal cell carcinoma."
+        },
+        {
+            "id": 23,
+            "question_type": "msq",
+            "question": "128. Platelets are the cell of origin. (SELECT 3 CHOICES)",
+            "options": [
+                "a. Platelet-derived growth factor (PDGF)",
+                "b. Transforming growth factor",
+                "c. Tumor necrosis factor (TNF)",
+                "d. Fibroblast growth factor",
+                "e. Interleukin 1 (IL-1)",
+                "f. Thromboxane A2"
+            ],
+            "answer": [
+                "a",
+                "b",
+                "f"
+            ],
+            "explanation": "- Platelets release ADP, thromboxane A2, transforming growth factor, and platelet-derived growth factor within 1 h of injury."
+        },
+        {
+            "id": 24,
+            "question_type": "msq",
+            "question": "129. Macrophages are the cell of origin. (SELECT 5 CHOICES)",
+            "options": [
+                "a. Platelet-derived growth factor (PDGF)",
+                "b. Transforming growth factor",
+                "c. Tumor necrosis factor (TNF)",
+                "d. Fibroblast growth factor",
+                "e. Interleukin 1 (IL-1)",
+                "f. Thromboxane A2"
+            ],
+            "answer": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+            ],
+            "explanation": "- When macrophages become the predominant cell (at 2–3 days), numerous additional cytokines are released, including IL-1, fibroblast growth factor, TNF, transforming growth factor, and PDGF, among others."
+        },
+        {
+            "id": 25,
+            "question_type": "msq",
+            "question": "130. They stimulate fibroblast proliferation. (SELECT 4 CHOICES)",
+            "options": [
+                "a. Platelet-derived growth factor (PDGF)",
+                "b. Transforming growth factor",
+                "c. Tumor necrosis factor (TNF)",
+                "d. Fibroblast growth factor",
+                "e. Interleukin 1 (IL-1)",
+                "f. Thromboxane A2"
+            ],
+            "answer": [
+                "b",
+                "c",
+                "d",
+                "e"
+            ],
+            "explanation": "- Stimulants of fibroblast proliferation include TNF, IL-1, fibroblast growth factor, transforming growth factor, epithelial growth factor, and plasminogen activator inhibitor."
+        },
+        {
+            "id": 26,
+            "question_type": "msq",
+            "question": "131. They stimulate collagen synthesis. (SELECT 3 CHOICES)",
+            "options": [
+                "a. Platelet-derived growth factor (PDGF)",
+                "b. Transforming growth factor",
+                "c. Tumor necrosis factor (TNF)",
+                "d. Fibroblast growth factor",
+                "e. Interleukin 1 (IL-1)",
+                "f. Thromboxane A2"
+            ],
+            "answer": [
+                "b",
+                "c",
+                "e"
+            ],
+            "explanation": "- Collagen synthesis is initiated and progresses during the proliferative phase of wound healing upon stimulation by IL-1, TNF, and transforming growth factor."
+        }
+    ]
+}

@@ -1,0 +1,596 @@
+{
+    "chapter_name": "CARDIOTHORACIC PROBLEMS",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "381. Among the cardiovascular anomalies of newborns, the one most likely to present with cyanosis is\na. Patent ductus arteriosus\nb. Coarctation of the aorta\nc. Atrial septal defect\nd. Ventricular septal defect\ne. Transposition of the great vessels",
+            "options": [
+                "a. Patent ductus arteriosus",
+                "b. Coarctation of the aorta",
+                "c. Atrial septal defect",
+                "d. Ventricular septal defect",
+                "e. Transposition of the great vessels"
+            ],
+            "answer": "E",
+            "explanation": "- With the exception of coarctation, the anomalies listed cause a shunting of blood between the systemic and lower-pressure pulmonary circulation.\n- Transposition of the great vessels is a right-to-left shunt that leads to cyanosis.\n- Patent ductus arteriosus and atrial septal defects cause a shunting of oxygenated blood back into the pulmonary artery and right atrium, typically causing \"recirculation\" of oxygenated blood within the cardiopulmonary circuit but not cyanosis, unless there is persistent congenital pulmonary hypertension.\n- When a ventricular septal defect is combined with pulmonary artery atresia (tetralogy of Fallot), the resulting undercirculation in the pulmonary system joins transposition as a cause of cyanosis.\n- Other less common congenital lesions with relatively decreased pulmonary arterial blood flow include tricuspid atresia, Ebstein's anomaly, and hypoplastic right ventricle."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "382. The superior vena cava syndrome is most frequently seen in association with\na. Histoplasmosis (sclerosing mediastinitis)\nb. Substernal thyroid\nc. Thoracic aortic aneurysm\nd. Constrictive pericarditis\ne. Bronchogenic carcinoma",
+            "options": [
+                "a. Histoplasmosis (sclerosing mediastinitis)",
+                "b. Substernal thyroid",
+                "c. Thoracic aortic aneurysm",
+                "d. Constrictive pericarditis",
+                "e. Bronchogenic carcinoma"
+            ],
+            "answer": "E",
+            "explanation": "- Superior vena cava obstruction is almost always due to malignancy.\n- In three out of four cases, it results from invasion of the vena cava by bronchogenic carcinoma.\n- Lymphomas account for most of the remaining cases of the superior vena cava syndrome.\n- Fibrosing mediastinitis (as a complication of histoplasmosis or methysergide ingestion) may occur but is rare.\n- Rarely, a substernal thyroid or thoracic aortic aneurysm may be responsible for the obstruction.\n- Although constrictive pericarditis may decrease venous return to the heart, it does not produce obstruction of the superior vena cava.\n- The resultant increased venous pressure produces edema of the upper body, cyanosis, dilated subcutaneous collateral vessels in the chest, and headache.\n- Cervical lymphadenopathy may also be present.\n- When carcinoma is the cause, treatment is usually palliative and consists of diuretics and radiation."
+        },
+        {
+            "id": 3,
+            "question_type": "clinical_scenario",
+            "question": "383. During endoscopic biopsy of a distal esophageal cancer, perforation of the esophagus is suspected when the patient complains of significant new substernal pain. An immediate chest film reveals air in the mediastinum. You would recommend\na. Placement of a nasogastric tube to the level of perforation, antibiotics, close observation\nb. Spit fistula (cervical pharyngostomy), gastrostomy\nc. Left thoracotomy, pleural patch oversewing of perforation, drainage of mediastinum\nd. Esophagogastrectomy via celiotomy and right thoracotomy\ne. Transhiatal esophagogastrectomy with cervical esophagogastrostomy",
+            "options": [
+                "a. Placement of a nasogastric tube to the level of perforation, antibiotics, close observation",
+                "b. Spit fistula (cervical pharyngostomy), gastrostomy",
+                "c. Left thoracotomy, pleural patch oversewing of perforation, drainage of mediastinum",
+                "d. Esophagogastrectomy via celiotomy and right thoracotomy",
+                "e. Transhiatal esophagogastrectomy with cervical esophagogastrostomy"
+            ],
+            "answer": "D",
+            "explanation": "- Perforation of the esophagus in the chest is a surgical catastrophe requiring aggressive intervention in virtually all circumstances.\n- While intervention can usually consist of efforts to patch the perforation and drain the mediastinum, concomitant obstructive esophageal disease (inflammatory stenosis or cancer) mandates removal or bypass of the obstruction to control the leak and consequent mediastinal and pleural contamination.\n- For distal esophageal cancers, many thoracic surgeons use the classic Ivor-Lewis operation, involving mobilizing the stomach in the abdomen and then performing a right thoracotomy with mediastinal cleanout, esophagectomy, and esophagogastrostomy.\n- A left thoracotomy approach might be used in some circumstances.\n- The transhiatal approach would probably be avoided in this situation where an unknown amount of mediastinal contamination has taken place."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "384. A noncyanotic 2-day-old child has a systolic murmur along the left sternal border; the examination is otherwise normal. Chest x-ray and electrocardiogram are normal. These findings are most closely associated with which of the following congenital cardiac anomalies?\na. Tetralogy of Fallot\nb. Ventricular septal defect\nc. Tricuspid atresia\nd. Transposition of the great vessels\ne. Patent ductus arteriosus",
+            "options": [
+                "a. Tetralogy of Fallot",
+                "b. Ventricular septal defect",
+                "c. Tricuspid atresia",
+                "d. Transposition of the great vessels",
+                "e. Patent ductus arteriosus"
+            ],
+            "answer": "B",
+            "explanation": "- Ventricular septal defect (VSD) accounts for 20–30% of all congenital cardiac anomalies.\n- It may lead to cardiac failure and pulmonary hypertension if larger than 1 cm, or be asymptomatic if small.\n- Surgery is not indicated for asymptomatic small defects as many close spontaneously during the first few years of life.\n- Operation is indicated in infants with congestive heart failure or rising pulmonary vascular resistance (due to left-to-right shunt).\n- When symptoms are mild and medically controlled, operation is usually delayed until age 4–6 years.\n- Operative mortality ranges from less than 5% to more than 20% depending on the degree of pulmonary vascular resistance.\n- Tetralogy of Fallot, transposition, and tricuspid atresia are cyanotic lesions.\n- Congenital cyanosis persisting beyond age 2 years is most commonly associated with tetralogy of Fallot.\n- Patent ductus arteriosus is associated with the characteristic continuous machinery murmur."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "385. A 3-year-old child with congenital cyanosis is most probably suffering from\na. Tetralogy of Fallot\nb. Ventricular septal defect\nc. Tricuspid atresia\nd. Transposition of the great vessels\ne. Patent ductus arteriosus",
+            "options": [
+                "a. Tetralogy of Fallot",
+                "b. Ventricular septal defect",
+                "c. Tricuspid atresia",
+                "d. Transposition of the great vessels",
+                "e. Patent ductus arteriosus"
+            ],
+            "answer": "A",
+            "explanation": "- Tetralogy of Fallot, transposition, and tricuspid atresia are cyanotic lesions.\n- Congenital cyanosis that persists beyond the age of 2 years is associated, in the vast majority of cases, with a tetralogy of Fallot.\n- Patent ductus arteriosus is associated with the characteristic continuous machinery murmur."
+        },
+        {
+            "id": 6,
+            "question_type": "clinical_scenario",
+            "question": "386. A stockbroker in his mid-forties consults you with complaints of episodes of severe, often incapacitating chest pain on swallowing. The diagnostic studies on the esophagus you have ordered yield the following: endoscopic examination and biopsy-mild inflammation distally; manometry-prolonged high-amplitude contractions from the arch of the aorta distally, lower esophageal sphincter (LES) pressure 20 mm Hg with relaxation on swallowing; barium swallow-2-cm epiphrenic diverticulum. You would recommend\na. Myotomy from level of aortic arch to distal sphincter; no disruption of LES\nb. Diverticulectomy, myotomy from level of aortic arch to fundus, fundoplication\nc. Diverticulectomy, cardiomyotomy of distal 3 cm of esophagus and proximal 2 cm of stomach with antireflux fundoplication\nd. A trial of calcium channel blockers\ne. Pneumatic dilation of LES",
+            "options": [
+                "a. Myotomy from level of aortic arch to distal sphincter; no disruption of LES",
+                "b. Diverticulectomy, myotomy from level of aortic arch to fundus, fundoplication",
+                "c. Diverticulectomy, cardiomyotomy of distal 3 cm of esophagus and proximal 2 cm of stomach with antireflux fundoplication",
+                "d. A trial of calcium channel blockers",
+                "e. Pneumatic dilation of LES"
+            ],
+            "answer": "A",
+            "explanation": "- The diagnostic studies reveal minimal reflux esophagitis, normal LES relaxation and pressure, and an incidental small epiphrenic diverticulum; none of these findings justify treatment or explain the patient's symptoms.\n- The finding of prolonged high-amplitude contractions in the body of the esophagus in a highly symptomatic patient is diagnostic of diffuse esophageal spasm.\n- The cause of this hypermotility disorder is unknown, but symptoms can be disabling.\n- The recommended treatment is a long myotomy guided by manometric evidence.\n- If the LES is functioning properly, most surgeons recommend stopping the myotomy short of the normal lower sphincter.\n- The myotomy should continue upward at least to the level of the aortic arch, or higher if manometric findings of spasm are noted above that level.\n- 80% to 90% of patients treated this way experience acceptable relief of symptoms."
+        },
+        {
+            "id": 7,
+            "question_type": "clinical_scenario",
+            "question": "387. A 4-year-old boy is seen 1 h after ingestion of a lye drain cleaner. No oropharyngeal burns are noted, but the patient's voice is hoarse. Chest x-ray is normal. Of the following, which is the most appropriate therapy?\na. Immediate esophagoscopy\nb. Parenteral steroids and antibiotics\nc. Administration of an oral neutralizing agent\nd. Induction of vomiting\ne. Rapid administration of a quart of water to clear remaining lye from the esophagus and dilute material in stomach",
+            "options": [
+                "a. Immediate esophagoscopy",
+                "b. Parenteral steroids and antibiotics",
+                "c. Administration of an oral neutralizing agent",
+                "d. Induction of vomiting",
+                "e. Rapid administration of a quart of water to clear remaining lye from the esophagus and dilute material in stomach"
+            ],
+            "answer": "B",
+            "explanation": "- Corrosive injuries of the esophagus most frequently occur in young children due to accidental ingestion of strong alkaline cleaning agents.\n- Significant esophageal injury occurs in 15% of patients with no oropharyngeal injury, while 70% of patients with oropharyngeal injury have no esophageal damage.\n- Signs of airway injury or imminent obstruction warrant close observation and possibly tracheostomy.\n- The risk of adding injury, particularly in a child, makes esophagoscopy contraindicated by most surgeons.\n- Administration of oral “antidotes” is ineffective unless given within moments of ingestion; even then, additional damage from chemical reactions of neutralization often makes their use unwise.\n- A barium esophagogram is usually done within 24 hours unless evidence of perforation is present.\n- In most reports, steroids in conjunction with antibiotics reduce the incidence of stricture formation from about 70% to about 15%.\n- Vomiting should be avoided, if possible, to prevent further corrosive injury and possible aspiration.\n- It is probably wise to avoid all oral intake until the full extent of injury is ascertained."
+        },
+        {
+            "id": 8,
+            "question_type": "clinical_scenario",
+            "question": "388. A previously healthy 20-year-old man is admitted to a hospital with acute onset of left-sided chest pain. The electrocardiographic findings are normal but chest x-ray shows a 40% left pneumothorax. Treatment consists of which of the following procedures?\na. Observation\nb. Barium swallow\nc. Thoracotomy\nd. Tube thoracostomy\ne. Thoracostomy and intubation",
+            "options": [
+                "a. Observation",
+                "b. Barium swallow",
+                "c. Thoracotomy",
+                "d. Tube thoracostomy",
+                "e. Thoracostomy and intubation"
+            ],
+            "answer": "D",
+            "explanation": "- Spontaneous pneumothorax usually results from the rupture of subpleural blebs in young men (age 20–40), often signaled by a sudden onset of chest and shoulder pain.\n- A pneumothorax of more than 25% requires placement of a chest tube.\n- Thoracotomy with bleb excision and pleural abrasion is generally recommended if spontaneous pneumothorax is recurrent.\n- Small pneumothoraxes in patients with minimal symptoms usually resolve and can therefore be observed.\n- A spontaneous perforation of the esophagus (Boerhaave syndrome) can result in hydropneumothorax as well as pneumomediastinum, but would not present with an isolated 40% pneumothorax.\n- Barium swallow is an appropriate diagnostic test for evaluation of a suspected leaking esophagus."
+        },
+        {
+            "id": 9,
+            "question_type": "clinical_scenario",
+            "question": "389. A 50-year-old salesman is on a yacht with a client when he has a severe vomiting and retching spell punctuated by a sharp substernal pain. He arrives in your emergency room 4 h later and has a chest film in which the left descending aorta is outlined by air density. Optimum strategy for care would be\na. Immediate thoracotomy\nb. Serial ECGs and CPKs to rule out myocardial ischemia\nc. Left chest tube and spit fistula (cervical esophagostomy)\nd. Flexible esophagogastroscopy to establish diagnosis\ne. Nasogastric tube, antibiotics, close monitoring",
+            "options": [
+                "a. Immediate thoracotomy",
+                "b. Serial ECGs and CPKs to rule out myocardial ischemia",
+                "c. Left chest tube and spit fistula (cervical esophagostomy)",
+                "d. Flexible esophagogastroscopy to establish diagnosis",
+                "e. Nasogastric tube, antibiotics, close monitoring"
+            ],
+            "answer": "A",
+            "explanation": "- The presence of air in the mediastinum after an episode of vomiting and retching is virtually pathognomonic of spontaneous rupture of the esophagus (Boerhaave syndrome).\n- Without prompt surgical exploration of the mediastinum by left thoracotomy, the patient has little chance for a short-term outcome of low morbidity.\n- Aspiration of highly acidic gastric contents into the mediastinum creates havoc in the tissues.\n- The surgical procedure must include extensive opening of the mediastinal pleura, removal of particulate debris, closure of the esophageal laceration with pleural flap reinforcement, and secure chest tube drainage.\n- If the operation is delayed beyond the first 8–24 hours, mortality rises sharply, and survival will only follow prolonged intensive care and multiple operations.\n- This catastrophic event is one of the few in which prompt diagnosis and intervention are crucial to success."
+        },
+        {
+            "id": 10,
+            "question_type": "clinical_scenario",
+            "question": "390. The ECG is most consistent with\na. Preexisting disease\nb. Myocardial ischemia that caused the accident\nc. Myocardial contusion that resulted from the accident\nd. Chagas disease\ne. Normal variant",
+            "options": [
+                "a. Preexisting disease",
+                "b. Myocardial ischemia that caused the accident",
+                "c. Myocardial contusion that resulted from the accident",
+                "d. Chagas disease",
+                "e. Normal variant"
+            ],
+            "answer": "C",
+            "explanation": "- The incidence of myocardial contusion is about 25% in patients with severe blunt injury to the chest.\n- The injury occurs from direct compression of the heart between the sternum and the vertebral column.\n- The right ventricle, being the most anterior portion of the heart, is the most commonly injured portion.\n- The blow causes extravasation of blood into the myocardium, resulting in progressive loss of ventricular compliance and decreased cardiac output, usually peaking by 8–24 hours after injury.\n- The most helpful ECG finding is a new right bundle branch block, which occurs due to damage to the anterior portion of the interventricular septum.\n- ST-segment and T-wave changes and even new Q waves may be seen."
+        },
+        {
+            "id": 11,
+            "question_type": "clinical_scenario",
+            "question": "391. The best test for establishing the diagnosis and the degree of myocardial dysfunction is\na. Serial ECGS\nb. Creatine phosphokinase (CPK-MB) fractionation\nc. Echocardiography\nd. Radionuclide angiography\ne. Coronary angiography",
+            "options": [
+                "a. Serial ECGS",
+                "b. Creatine phosphokinase (CPK-MB) fractionation",
+                "c. Echocardiography",
+                "d. Radionuclide angiography",
+                "e. Coronary angiography"
+            ],
+            "answer": "D",
+            "explanation": "- CPK-MB fractions are useful if positive; however, frequent false negatives may occur due to release of CPK-MM from other contused organs (e.g., pectoralis muscles), which can dilute cardiac CPK-MB to nondiagnostic levels.\n- Echocardiography may be helpful, but the right ventricle is often poorly visualized.\n- Radionuclide angiography is most useful because it suggests the degree of myocardial impairment caused by decreased compliance.\n- Therapy for myocardial contusion is directed at inotropic support of the ventricle.\n- Usually, coronary arteries are intact after injury, so there is little role for coronary vasodilators and less for coronary artery bypass grafting."
+        },
+        {
+            "id": 12,
+            "question_type": "clinical_scenario",
+            "question": "392. Initial management of this patient consists of which of the following procedures?\na. Immediate operation to repair the thoracic duct\nb. Immediate operation to ligate the thoracic duct\nc. Tube thoracostomy and low-fat diet\nd. Observation and low-fat diet\ne. Observation and antibiotics",
+            "options": [
+                "a. Immediate operation to repair the thoracic duct",
+                "b. Immediate operation to ligate the thoracic duct",
+                "c. Tube thoracostomy and low-fat diet",
+                "d. Observation and low-fat diet",
+                "e. Observation and antibiotics"
+            ],
+            "answer": "C",
+            "explanation": "- Chylothorax may occur after intrathoracic surgery or from malignant invasion or compression of the thoracic duct.\n- Intraoperative recognition of a thoracic duct injury is managed by double ligation of the duct; direct repair is impractical due to extreme friability.\n- Injuries not recognized until several days after intrathoracic surgery frequently heal following institution of a low-fat diet and either repeated thoracentesis or tube thoracostomy drainage.\n- A low-fat, medium-chain triglyceride diet often reduces the flow of chyle."
+        },
+        {
+            "id": 13,
+            "question_type": "clinical_scenario",
+            "question": "393. Two weeks following the initial management of this patient's chylothorax there is persistent accumulation of chyle in the pleural space. Appropriate management at this time includes which of the following procedures?\na. Neck exploration and ligation of the thoracic duct\nb. Subdiaphragmatic ligation of the thoracic duct\nc. Thoracotomy and repair of the thoracic duct\nd. Thoracotomy and ligation of the thoracic duct\ne. Thoracotomy and abrasion of the pleural space",
+            "options": [
+                "a. Neck exploration and ligation of the thoracic duct",
+                "b. Subdiaphragmatic ligation of the thoracic duct",
+                "c. Thoracotomy and repair of the thoracic duct",
+                "d. Thoracotomy and ligation of the thoracic duct",
+                "e. Thoracotomy and abrasion of the pleural space"
+            ],
+            "answer": "B",
+            "explanation": "- Failure of conservative treatment (low-fat diet, repeated thoracentesis or tube thoracostomy drainage) for chylothorax requires direct surgical ligation of the thoracic duct.\n- This is best approached from below the diaphragm, regardless of the site of intrathoracic injury."
+        },
+        {
+            "id": 14,
+            "question_type": "clinical_scenario",
+            "question": "394. A 56-year-old woman was treated for 3 years for wheezing on exertion, which was diagnosed as asthma. The chest radiograph below is obtained, which reveals a midline mass compressing the trachea. The most likely diagnosis is\na. Lymphoma\nb. Neurogenic tumor\nc. Lung carcinoma\nd. Goiter\ne. Pericardial cyst",
+            "options": [
+                "a. Lymphoma",
+                "b. Neurogenic tumor",
+                "c. Lung carcinoma",
+                "d. Goiter",
+                "e. Pericardial cyst"
+            ],
+            "answer": "D",
+            "explanation": "- The boundaries of the mediastinum are the thoracic inlet, the diaphragm, the sternum, the vertebral column, and the pleura bilaterally.\n- The mediastinum is divided into three portions by the pericardial sac: anterosuperior, posterosuperior, and middle regions.\n- Mediastinal masses occur most frequently in the anterosuperior region (54%), less often in the posterosuperior (26%) and middle (20%) regions.\n- Cysts (pericardial, bronchogenic, or enteric) are the most common tumors of the middle region.\n- Neurogenic tumors are the most common (40%) primary tumors of the posterior mediastinum.\n- Primary neoplasms of the mediastinum in the anteroposterior region are thymomas (31%), lymphomas (23%), and germ-cell tumors (17%).\n- More commonly, a mass in this area represents the substernal extension of a benign substernal goiter.\n- Diagnosis can be made by visualization of an enhancing structure on CT; radioactive iodine scanning is useful if the mediastinal tissue is functional and can document its presence."
+        },
+        {
+            "id": 15,
+            "question_type": "clinical_scenario",
+            "question": "395. A full-term male newborn experiences respiratory distress immediately after birth. A prenatal sonogram had been read as normal. An emergency radiograph is shown below. The patient was intubated and placed on 100% O2. The arterial blood gas revealed pH 7.24; P02 60 kPa; Pco₂ 52 kPa. The baby has sternal retractions and a scaphoid abdomen. Which of the following statements correctly refers to this condition?\na. The most likely cause of this problem is in utero traumatic rupture of the diaphragm\nb. The most important aspect in management would be immediate exploration and repair of the defect\nc. The size of the defect directly correlates with severity of the disease\nd. The defect is usually anteromedial in location\ne. Any abdominal organ can be involved",
+            "options": [
+                "a. The most likely cause of this problem is in utero traumatic rupture of the diaphragm",
+                "b. The most important aspect in management would be immediate exploration and repair of the defect",
+                "c. The size of the defect directly correlates with severity of the disease",
+                "d. The defect is usually anteromedial in location",
+                "e. Any abdominal organ can be involved"
+            ],
+            "answer": "E",
+            "explanation": "- This radiograph of a child with a scaphoid abdomen and respiratory disease is characteristic of a congenital diaphragmatic hernia.\n- These defects are posterolateral and occur from failure of the embryologic diaphragm to fuse between the eighth and twelfth weeks of intrauterine life.\n- The size of the defect does not correlate with the symptoms.\n- Even a large diaphragmatic hernia can be missed on prenatal sonogram if the abdominal contents have slipped back into the abdomen at the time of the study.\n- Hernias of Morgagni are anteromedial and do not present as emergencies at birth.\n- Any abdominal organ—pancreas, kidney, small and large intestine, stomach, liver, or spleen—can herniate into the chest.\n- The abdominal organ acts as a space-occupying lesion and retards growth of the lung, resulting in pulmonary hypoplasia.\n- Respiratory problems at birth stem from primary pulmonary hypertension, a consequence of hypoplasia, rather than from compression of the lung by abdominal contents.\n- Most experts recommend stabilizing the pulmonary hypertensive crisis medically or with extracorporeal membrane oxygenation (ECMO) prior to attempting repair."
+        },
+        {
+            "id": 16,
+            "question_type": "clinical_scenario",
+            "question": "396. An 89-year-old man has lost 30 lb over the past 2 years. He reports that food frequently sticks when he swallows. He also complains of a chronic cough. Pulmonary function tests show a vital capacity of 60% of expected, and forced expiratory volume is 50% of predicted. Barium swallow is shown below. Which of the following statements is true?\na. Radiation therapy and stenting can be expected to produce the same long-term survival as would surgery\nb. Esophagoscopy and biopsy should be performed to confirm the x-ray findings\nc. This patient is atypical in that the lesion usually appears in the second or third decade of life\nd. The patient should be treated with antituberculous medications before any surgical intervention is considered\ne. The carotid bifurcation lies adjacent to the lesion",
+            "options": [
+                "a. Radiation therapy and stenting can be expected to produce the same long-term survival as would surgery",
+                "b. Esophagoscopy and biopsy should be performed to confirm the x-ray findings",
+                "c. This patient is atypical in that the lesion usually appears in the second or third decade of life",
+                "d. The patient should be treated with antituberculous medications before any surgical intervention is considered",
+                "e. The carotid bifurcation lies adjacent to the lesion"
+            ],
+            "answer": "E",
+            "explanation": "- Pharyngoesophageal (Zenker's) diverticulum is an outpouching of mucosa between the lower pharyngeal constrictor and the cricopharyngeus muscles.\n- It is thought to result from an incoordination of cricopharyngeal relaxation with swallowing.\n- These diverticula occur in elderly patients and more commonly on the left.\n- The typical patient presents with complaints of dysphagia, weight loss, and choking.\n- Other patients present with the effects of repeated aspiration, pneumonia, or chronic cough.\n- A mass is sometimes palpable and a gurgle may be heard.\n- Treatment is excision and division of the cricopharyngeus muscle, which can be done under local anesthesia in a cooperative patient.\n- Esophagoscopy is dangerous because the blind pouch is easily perforated.\n- Even though the pouch may extend down into the mediastinum, the origin of the diverticulum is at the cricopharyngeus muscle near the level of the bifurcation of the carotid artery."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "397. Which of the following statements is true concerning aorto-coronary bypass grafting?\na. It is indicated for crescendo (pre-infarction) angina\nb. It is indicated for congestive heart failure\nc. It is not indicated for chronic disabling angina\nd. It is associated with a 10% operative mortality\ne. It is only indicated if significant triple vessel disease is documented angiographically",
+            "options": [
+                "a. It is indicated for crescendo (pre-infarction) angina",
+                "b. It is indicated for congestive heart failure",
+                "c. It is not indicated for chronic disabling angina",
+                "d. It is associated with a 10% operative mortality",
+                "e. It is only indicated if significant triple vessel disease is documented angiographically"
+            ],
+            "answer": "A",
+            "explanation": "- Coronary artery bypass surgery was developed in the late 1960s and is now regularly performed.\n- Indications for surgery include chronic disabling angina and crescendo (or preinfarction) angina.\n- Cardiac catheterization with selective coronary angiography defines the extent of disease, which is generally localized to the proximal segments of the vessels.\n- Operative mortality is about 2%, and relief of angina is obtained in most affected patients.\n- Patients with left main coronary artery disease, as well as those with triple vessel disease and ventricular dysfunction, have an increased longevity following successful bypass.\n- Data regarding extension of life in other groups is conflicting.\n- Coronary artery bypass is not indicated for congestive heart failure unless this condition is ischemic in origin and angiography identifies disease amenable to surgical revascularization."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "398. Which of the following statements is true regarding the thoracic outlet syndrome?\na. It is associated with cervical spine disk disease\nb. It is reliably diagnosed by positional obliteration of the radial pulse\nc. If conservative measures fail, it is best treated by surgical decompression of the brachial plexus\nd. It most commonly affects the median nerve\ne. It can be reliably ruled out by angiography",
+            "options": [
+                "a. It is associated with cervical spine disk disease",
+                "b. It is reliably diagnosed by positional obliteration of the radial pulse",
+                "c. If conservative measures fail, it is best treated by surgical decompression of the brachial plexus",
+                "d. It most commonly affects the median nerve",
+                "e. It can be reliably ruled out by angiography"
+            ],
+            "answer": "C",
+            "explanation": "- The thoracic outlet syndrome designates a symptom complex whose precise cause is unknown, but is felt to result from compression of the brachial plexus or subclavian vessels (or both) in the anatomic space bounded by the first rib, the clavicle, and scalene muscles.\n- Since objective determinants of disease may be lacking or imprecise, diagnosis is often established by resectional surgery.\n- Carpal tunnel syndrome (compression of the median nerve) and cervical disk disease are the two entities most commonly confused with TOS.\n- TOS symptoms and signs include pain, paresthesias, edema, venous congestion, and digital vasospastic changes.\n- Positional dampening or obliteration of the radial pulse is an unreliable finding since it is present in up to 70% of the normal population.\n- Neurologic abnormalities may be documented by nerve conduction studies; angiographic studies are often negative.\n- Conservative management, which generally should precede surgery, consists of an exercise program to strengthen shoulder girdle muscles and decrease shoulder droop.\n- Operative treatment includes division of the scalenus anticus and medius muscles, first rib resection, cervical rib resection, or a combination of all three."
+        },
+        {
+            "id": 19,
+            "question_type": "clinical_scenario",
+            "question": "399. A 35-year-old man presents with a history of 4 days of severe substernal pain and fever to 38.89°C (102°F). He has a past medical history of peptic ulcer disease that resulted in a Billroth II procedure 5 years earlier. On admission, the chest film below is obtained. A true statement regarding this patient's case is which of the following?\na. Pericardial effusion is present\nb. The condition may be managed with antibiotics and close observation if the patient remains hemodynamically stable\nc. The condition could have resulted from recurrent peptic ulcer disease\nd. The condition could have resulted from a myocardial infarction\ne. The previous Billroth II procedure effectively rules out peptic ulcer as the cause of the condition",
+            "options": [
+                "a. Pericardial effusion is present",
+                "b. The condition may be managed with antibiotics and close observation if the patient remains hemodynamically stable",
+                "c. The condition could have resulted from recurrent peptic ulcer disease",
+                "d. The condition could have resulted from a myocardial infarction",
+                "e. The previous Billroth II procedure effectively rules out peptic ulcer as the cause of the condition"
+            ],
+            "answer": "C",
+            "explanation": "- This x-ray demonstrates an air-fluid level in the pericardium (pneumopericardium).\n- Pneumopericardium can result from penetrating or blunt chest trauma, spontaneous gas formation from anaerobic bacteria, iatrogenic causes, or direct extension into the pericardium by diseased adjacent organs.\n- In this case, a patient with a high gastrojejunostomy developed a recurrent ulcer that eroded through the diaphragm and into the pericardium, causing a pneumopyopericardium.\n- Often these patients have an unrecognized gastrinoma (Zollinger-Ellison syndrome) and continue to have peptic ulcer disease despite aggressive surgical therapy.\n- The presence of pneumopyopericardium in this setting should be treated as a surgical emergency.\n- Inability to demonstrate a fistula on roentgenographic investigation should not preclude the diagnosis.\n- If the cause of the pericardial fluid is not clearly diagnosed, a pericardial window should be performed for diagnostic and therapeutic reasons.\n- The pericardial sac should be irrigated and adequate continuing drainage ensured.\n- Although myocardial infarction may result in pericardial effusion or (rarely) tamponade, it does not cause pneumopericardium."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "400. Superior pulmonary sulcus carcinomas (Pancoast tumors) are bronchogenic carcinomas that typically produce which of the following clinical features?\na. Atelectasis of the involved apical segment\nb. Horner syndrome\nc. Pain in the T4 and T5 dermatomes\nd. Nonproductive cough\ne. Hemoptysis",
+            "options": [
+                "a. Atelectasis of the involved apical segment",
+                "b. Horner syndrome",
+                "c. Pain in the T4 and T5 dermatomes",
+                "d. Nonproductive cough",
+                "e. Hemoptysis"
+            ],
+            "answer": "B",
+            "explanation": "- Pancoast tumors are peripheral bronchogenic carcinomas that produce symptoms by involvement of extrapulmonary structures adjacent to the cupula.\n- These structures include the nerve roots of C8 and T1, as well as the sympathetic trunk.\n- Interruption of the cervical sympathetic trunk leads to miosis, ptosis, and anhidrosis, the triad of signs that constitutes Horner syndrome.\n- Involvement of the nerve roots causes pain along the corresponding dermatomes.\n- The peripheral location of the neoplasm makes pulmonary signs, such as atelectasis, cough, and hemoptysis, unlikely."
+        },
+        {
+            "id": 21,
+            "question_type": "clinical_scenario",
+            "question": "401. A 2-year-old asymptomatic child is noted to have a systolic murmur, hypertension, and diminished femoral pulses. Which of the following is true about this child's disorder?\na. The life expectancy without surgery is about 5 years\nb. Immediate surgery is indicated\nc. Rib notching is often seen on x-ray\nd. Claudication is frequently noted\ne. Operative mortality approaches 10%",
+            "options": [
+                "a. The life expectancy without surgery is about 5 years",
+                "b. Immediate surgery is indicated",
+                "c. Rib notching is often seen on x-ray",
+                "d. Claudication is frequently noted",
+                "e. Operative mortality approaches 10%"
+            ],
+            "answer": "C",
+            "explanation": "- Coarctation of the aorta is a congenital anomaly that usually causes aortic stenosis just distal to the left subclavian artery in the area of the ligamentum arteriosum.\n- Collateral circulation develops around the obstruction by way of intercostal vessels and accounts for the classic x-ray appearance of rib notching.\n- Without surgery, the average life span is about 30–40 years with eventual death from cardiac failure, rupture of aortic aneurysms or of a cerebral artery, and bacterial endocarditis.\n- Surgery can be accomplished with less than a 1% mortality and should be performed around 5 years of age, when the aorta is sufficiently large to be operable but before it becomes fibrotic and calcified, conditions that increase technical difficulty.\n- Claudication is not a common feature of this disorder."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "402. A correct statement concerning bronchial carcinoid tumors is that\na. They frequently metastasize\nb. They most commonly arise in peripheral terminal bronchioles\nc. They rarely produce the carcinoid syndrome\nd. They are radiosensitive\ne. Five-year survival is less than 50%",
+            "options": [
+                "a. They frequently metastasize",
+                "b. They most commonly arise in peripheral terminal bronchioles",
+                "c. They rarely produce the carcinoid syndrome",
+                "d. They are radiosensitive",
+                "e. Five-year survival is less than 50%"
+            ],
+            "answer": "C",
+            "explanation": "- Bronchial carcinoid tumors rarely produce the carcinoid syndrome.\n- They are slow-growing, infrequently metastatic tumors that histologically resemble carcinoid tumors of the small intestine.\n- Over 80% arise in the major proximal bronchi, and their intraluminal growth is responsible for frequent presentation of bronchial obstruction.\n- The only therapy for this lesion is operative resection, because neither the primary tumor nor the infrequent lymph node metastasis is radiosensitive.\n- The low malignant potential for this lesion is reflected by a long-term survival rate that approaches 90%."
+        },
+        {
+            "id": 23,
+            "question_type": "clinical_scenario",
+            "question": "403. True statements about the lesion visualized on the film include which of the following?\na. It is more apt to be metastatic breast carcinoma than primary lung carcinoma\nb. There is a 90% chance that this mass is malignant\nc. Since the diagnosis can only be established with certainty by resection, the mass should be excised\nd. If the mass is malignant, the possibility for cure with excision is remote\ne. The mass is most likely benign",
+            "options": [
+                "a. It is more apt to be metastatic breast carcinoma than primary lung carcinoma",
+                "b. There is a 90% chance that this mass is malignant",
+                "c. Since the diagnosis can only be established with certainty by resection, the mass should be excised",
+                "d. If the mass is malignant, the possibility for cure with excision is remote",
+                "e. The mass is most likely benign"
+            ],
+            "answer": "C",
+            "explanation": "- “Coin lesions” are defined as densities within the lung field of up to 4 cm, usually round, and free of signs of infections like cavitation or surrounding infiltrates.\n- Malignant solitary lesions may contain flecks of calcification, but heavy calcification or concentric rings of calcium generally suggest a benign etiology.\n- The differential diagnosis includes primary pulmonary carcinomas, metastatic carcinomas to the lung, benign lung neoplasms (e.g., chondromas, granulomas), or vascular abnormalities (e.g., arteriovenous malformations).\n- The likelihood that a coin lesion is a primary lung malignancy increases linearly with age: 15% at age 40, 40% at age 55, 70% at age 75.\n- With diminishing frequency of granulomatous disease and continued rise in lung cancers, such lesions should be removed because there is an excellent chance of cure if the lesion is a primary lung malignancy.\n- If the patient has a history of prior cancer, a lung nodule will be a new lung primary in 60%, a metastatic lesion in 25%, and a benign process in 15% of cases.\n- However, 80% of solitary lesions in melanoma patients represent metastatic disease, while only 40% in breast cancer patients are metastatic, and solitary lesions in colon carcinoma patients are equally likely to be metastatic or primary lung cancers."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "404. At the time of operation on the patient in the preceding question, a firm, rubbery lesion in the periphery of the lung is discovered. It is sectioned in the operating room to reveal tissue that looks like cartilage and smooth muscle. The most likely diagnosis is\na. Fibroma\nb. Chondroma\nc. Osteochondroma\nd. Hamartoma\ne. Aspergilloma",
+            "options": [
+                "a. Fibroma",
+                "b. Chondroma",
+                "c. Osteochondroma",
+                "d. Hamartoma",
+                "e. Aspergilloma"
+            ],
+            "answer": "D",
+            "explanation": "- The term hamartoma denotes a tumor that arises from the disorganized arrangement of tissues normally found in an organ.\n- Pulmonary hamartomas are solitary lesions of the pulmonary parenchyma and generally appear as asymptomatic peripheral nodules; they represent the most common benign epithelial and mesodermal elements.\n- Pulmonary chondromas consist of mesodermal elements alone and arise centrally in major bronchi, where they produce signs and symptoms of bronchial obstruction.\n- Fibromas are the most common benign mesodermal tumors found in the lung; they may occur either within the lung parenchyma or, more commonly, within the tracheobronchial tree.\n- Osteochondromas are lesions of bone and are not found in the lung.\n- Aspergillomas are due to infection with the fungus Aspergillus and most commonly appear in the upper lobes as oval, friable, necrotic gray or yellow masses often surrounded by evidence of preexisting parenchymal lung disease."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "405. The condition shown in the x-rays below is compatible with which of the following manifestations?\na. Difficulty swallowing solids but not liquids\nb. Higher-than-normal incidence of esophageal carcinoma\nc. Failure of the upper esophageal sphincter to relax in response to swallowing\nd. Normal pressure in the body of the esophagus\ne. Normal esophageal motility",
+            "options": [
+                "a. Difficulty swallowing solids but not liquids",
+                "b. Higher-than-normal incidence of esophageal carcinoma",
+                "c. Failure of the upper esophageal sphincter to relax in response to swallowing",
+                "d. Normal pressure in the body of the esophagus",
+                "e. Normal esophageal motility"
+            ],
+            "answer": "B",
+            "explanation": "- The x-rays presented are consistent with a diagnosis of achalasia, a motility disorder of the esophagus that usually affects persons between 30 and 50 years of age.\n- The x-rays show a classic beaklike narrowing of the distal esophagus and a large, dilated esophagus proximal to the narrowing.\n- Diagnosis is generally suspected on barium x-rays, but an esophageal motility study is usually required to confirm the diagnosis.\n- Characteristic motility findings: small-amplitude, repetitive, simultaneous postdeglutition contractions in the esophageal body; failure of the lower esophageal sphincter to relax after deglutition; and higher-than-normal pressure in the esophageal body.\n- Carcinoma of the esophagus is approximately 7 times more frequent in persons with achalasia.\n- Patients usually describe difficulty in swallowing solids and liquids."
+        },
+        {
+            "id": 26,
+            "question_type": "mcq",
+            "question": "406. Argyll Robertson pupil (SELECT 1 DISORDER)",
+            "options": [
+                "a. Massive tricuspid regurgitation",
+                "b. Aortic regurgitation",
+                "c. Coarctation of the aorta",
+                "d. Thoracic aortic aneurysm",
+                "e. Myocarditis"
+            ],
+            "answer": "D",
+            "explanation": "- The Argyll Robertson pupil, which constricts with accommodation but not in response to light, is characteristic of central nervous system syphilis.\n- It is associated with vascular system manifestations of this disease.\n- Treponema pallidum invades the vasa vasorum and causes an obliterative endarteritis and necrosis.\n- The resulting aortitis gradually weakens the aortic wall and predisposes it to aneurysm formation.\n- Once an aneurysm has formed, the prognosis is grave."
+        },
+        {
+            "id": 27,
+            "question_type": "mcq",
+            "question": "407. Exophthalmos (SELECT 1 DISORDER)",
+            "options": [
+                "a. Massive tricuspid regurgitation",
+                "b. Aortic regurgitation",
+                "c. Coarctation of the aorta",
+                "d. Thoracic aortic aneurysm",
+                "e. Myocarditis"
+            ],
+            "answer": "A",
+            "explanation": "- Massive isolated tricuspid regurgitation produces a markedly elevated venous pressure, usually manifested by a severely engorged (often pulsating) liver.\n- If the venous pressure is sufficiently elevated, exophthalmos may result.\n- Tricuspid regurgitation of rheumatic origin is almost never an isolated lesion, and major symptoms of patients with rheumatic heart disease are usually attributable to concurrent left heart lesions.\n- Bacterial endocarditis from intravenous drug abuse is becoming an increasingly important cause of isolated tricuspid regurgitation."
+        },
+        {
+            "id": 28,
+            "question_type": "mcq",
+            "question": "408. Quincke pulse (SELECT 1 DISORDER)",
+            "options": [
+                "a. Massive tricuspid regurgitation",
+                "b. Aortic regurgitation",
+                "c. Coarctation of the aorta",
+                "d. Thoracic aortic aneurysm",
+                "e. Myocarditis"
+            ],
+            "answer": "B",
+            "explanation": "- A Quincke pulse, which consists of alternate flushing and paling of the skin or nail beds, is associated with aortic regurgitation.\n- Other characteristic features of the peripheral pulse in aortic regurgitation include the water-hammer pulse (Corrigan pulse, caused by a rapid systolic upstroke) and pulsus bisferiens, which describes a double systolic hump in the pulse contour.\n- The finding of a wide pulse pressure provides an additional diagnostic clue to aortic regurgitation."
+        },
+        {
+            "id": 29,
+            "question_type": "mcq",
+            "question": "409. Conjunctivitis, urethral discharge, and arthralgia (SELECT 1 DISORDER)",
+            "options": [
+                "a. Massive tricuspid regurgitation",
+                "b. Aortic regurgitation",
+                "c. Coarctation of the aorta",
+                "d. Thoracic aortic aneurysm",
+                "e. Myocarditis"
+            ],
+            "answer": "E",
+            "explanation": "- Myocarditis, aortitis, and pericarditis have all been described in association with Reiter syndrome.\n- The original description of Reiter syndrome included conjunctivitis, urethritis, and arthralgias.\n- Although its cause is unknown, Reiter syndrome is associated with HLA-B27 antigen, as are aortic regurgitation, pericarditis, and ankylosing spondylitis."
+        },
+        {
+            "id": 30,
+            "question_type": "mcq",
+            "question": "410. Short stature, webbed neck, low-set ears, and epicanthal folds (SELECT 1 DISORDER)",
+            "options": [
+                "a. Massive tricuspid regurgitation",
+                "b. Aortic regurgitation",
+                "c. Coarctation of the aorta",
+                "d. Thoracic aortic aneurysm",
+                "e. Myocarditis"
+            ],
+            "answer": "C",
+            "explanation": "- Short stature, webbed neck, low-set ears, and epicanthal folds are the classic features of patients who have Turner syndrome.\n- Persons affected by the syndrome are commonly linked with aortic coarctation.\n- They are genotypically XO, but females and males with normal sex chromosome constitutions (XX, XY) but phenotypic abnormalities of Turner syndrome have been described.\n- Additional cardiac lesions associated with Turner syndrome include septal defects, valvular stenosis, and anomalies of the great vessels."
+        },
+        {
+            "id": 31,
+            "question_type": "mcq",
+            "question": "411. Increased urinary catecholamine level (SELECT 1 TUMOR)",
+            "options": [
+                "a. Thymoma",
+                "b. Hodgkin's disease",
+                "c. Neuroblastoma",
+                "d. Parathyroid adenoma",
+                "e. Cystic teratoma"
+            ],
+            "answer": "C",
+            "explanation": "- Neuroblastoma, a highly malignant tumor of children, occurs along the distribution of the sympathetic nervous system.\n- It is derived from ganglion cell precursors and thus usually causes an increased excretion of catecholamines and their metabolites.\n- Because of its propensity to metastasize to bone and its histological resemblance to Ewing's sarcoma, its association with elevated catecholamine levels is a major factor in differential diagnosis."
+        },
+        {
+            "id": 32,
+            "question_type": "mcq",
+            "question": "412. Red blood cell aplasia (SELECT 1 TUMOR)",
+            "options": [
+                "a. Thymoma",
+                "b. Hodgkin's disease",
+                "c. Neuroblastoma",
+                "d. Parathyroid adenoma",
+                "e. Cystic teratoma"
+            ],
+            "answer": "A",
+            "explanation": "- Thymomas are associated with myasthenia gravis, agammaglobulinemia, and red blood cell aplasia.\n- These tumors are typically cystic and occur in the anterior mediastinum.\n- Most thymic lesions associated with myasthenia gravis are hyperplastic rather than neoplastic."
+        },
+        {
+            "id": 33,
+            "question_type": "mcq",
+            "question": "413. Renal stones (SELECT 1 TUMOR)",
+            "options": [
+                "a. Thymoma",
+                "b. Hodgkin's disease",
+                "c. Neuroblastoma",
+                "d. Parathyroid adenoma",
+                "e. Cystic teratoma"
+            ],
+            "answer": "D",
+            "explanation": "- Renal stones occur in about half the cases of hyperparathyroidism.\n- Other disorders sometimes associated with hyperparathyroidism include peptic ulcers, pancreatitis, and bone disease; central nervous system symptoms may also arise.\n- Occasionally, parathyroid adenomas occur in conjunction with neoplasms of other endocrine organs, a condition known as multiple endocrine adenomatosis."
+        },
+        {
+            "id": 34,
+            "question_type": "mcq",
+            "question": "414. T-cell deficiency (SELECT 1 TUMOR)",
+            "options": [
+                "a. Thymoma",
+                "b. Hodgkin's disease",
+                "c. Neuroblastoma",
+                "d. Parathyroid adenoma",
+                "e. Cystic teratoma"
+            ],
+            "answer": "B",
+            "explanation": "- Persons afflicted with Hodgkin's disease have impaired cell-mediated immunity and are particularly susceptible to mycotic infections and tuberculosis.\n- The severity of the immune deficiency correlates with the extent of the disease.\n- The nodular sclerosing variant of primary mediastinal Hodgkin's disease is the most common type."
+        },
+        {
+            "id": 35,
+            "question_type": "mcq",
+            "question": "415. Ectopic hair (SELECT 1 TUMOR)",
+            "options": [
+                "a. Thymoma",
+                "b. Hodgkin's disease",
+                "c. Neuroblastoma",
+                "d. Parathyroid adenoma",
+                "e. Cystic teratoma"
+            ],
+            "answer": "E",
+            "explanation": "- Cystic teratomas, or dermoid cysts, include endodermal, ectodermal, and mesodermal elements.\n- They are characteristically cystic and contain poorly pigmented hair, sebaceous material, and occasionally teeth.\n- Dermoid cysts occur in the gonads and central nervous system, as well as in the mediastinum.\n- With rare exceptions, these lesions are benign."
+        },
+        {
+            "id": 36,
+            "question_type": "mcq",
+            "question": "416. Balanced arterial and venous dilation (SELECT 1 AGENT)",
+            "options": [
+                "a. Epinephrine",
+                "b. Norepinephrine",
+                "c. Isoproterenol",
+                "d. Dopamine",
+                "e. Dobutamine",
+                "f. Amrinone",
+                "g. Digitalis",
+                "h. Nitroprusside",
+                "i. Nitroglycerin",
+                "j. Milrinone"
+            ],
+            "answer": "H",
+            "explanation": "- Nitroprusside and nitroglycerin are systemic vasodilators.\n- Nitroprusside causes balanced arterial and venous dilation.\n- The effects of nitroglycerin are less pronounced in the arterial than the venous system, often resulting in venous pooling."
+        },
+        {
+            "id": 37,
+            "question_type": "msq",
+            "question": "417. Action as an inotrope and vasodilator by inhibiting endogenous phosphodiesterase (SELECT 2 AGENTS)",
+            "options": [
+                "a. Epinephrine",
+                "b. Norepinephrine",
+                "c. Isoproterenol",
+                "d. Dopamine",
+                "e. Dobutamine",
+                "f. Amrinone",
+                "g. Digitalis",
+                "h. Nitroprusside",
+                "i. Nitroglycerin",
+                "j. Milrinone"
+            ],
+            "answer": [
+                "F",
+                "J"
+            ],
+            "explanation": "- Amrinone and milrinone are bipyridine derivatives that induce vasodilation and inotropy via inhibition of phosphodiesterase, thereby enhancing intracellular concentrations of cyclic AMP."
+        },
+        {
+            "id": 38,
+            "question_type": "mcq",
+            "question": "418. Pure beta agonist with profound chronotropic properties (SELECT 1 AGENT)",
+            "options": [
+                "a. Epinephrine",
+                "b. Norepinephrine",
+                "c. Isoproterenol",
+                "d. Dopamine",
+                "e. Dobutamine",
+                "f. Amrinone",
+                "g. Digitalis",
+                "h. Nitroprusside",
+                "i. Nitroglycerin",
+                "j. Milrinone"
+            ],
+            "answer": "C",
+            "explanation": "- Isoproterenol is a synthetic sympathomimetic that acts as a pure beta agonist, resulting in profound vasodilator and chronotropic effects."
+        },
+        {
+            "id": 39,
+            "question_type": "msq",
+            "question": "419. Endogenous catecholamine secreted into the circulation under normal conditions (SELECT 2 AGENTS)",
+            "options": [
+                "a. Epinephrine",
+                "b. Norepinephrine",
+                "c. Isoproterenol",
+                "d. Dopamine",
+                "e. Dobutamine",
+                "f. Amrinone",
+                "g. Digitalis",
+                "h. Nitroprusside",
+                "i. Nitroglycerin",
+                "j. Milrinone"
+            ],
+            "answer": [
+                "A",
+                "D"
+            ],
+            "explanation": "- Epinephrine is a circulating endogenous catecholamine, released mainly from the adrenal medulla, whose effects are mediated by binding of free circulating hormone to β₁- and β₂-receptors, with lesser effects on α-adrenoreceptors.\n- Norepinephrine is also endogenously produced, but acts locally through release at nerve synapses.\n- Dopamine is an endogenous catecholamine that is released into the circulation and acts by binding to β₁-receptors as well as specific dopamine receptors in the renal, mesenteric, coronary, and intracerebral vascular beds, causing vasodilation."
+        },
+        {
+            "id": 40,
+            "question_type": "mcq",
+            "question": "420. Inotropic and antiarrhythmic properties (SELECT 1 AGENT)",
+            "options": [
+                "a. Epinephrine",
+                "b. Norepinephrine",
+                "c. Isoproterenol",
+                "d. Dopamine",
+                "e. Dobutamine",
+                "f. Amrinone",
+                "g. Digitalis",
+                "h. Nitroprusside",
+                "i. Nitroglycerin",
+                "j. Milrinone"
+            ],
+            "answer": "G",
+            "explanation": "- Digitalis exerts positive inotropic effects by inhibition of Na-K-activated ATPase, resulting in increased intracellular sodium concentrations, which lead to increased intracellular calcium concentrations.\n- Digitalis is also used in the management of arrhythmias, most commonly atrial fibrillation."
+        }
+    ]
+}

@@ -1,0 +1,866 @@
+{
+    "chapter_name": "CRITICAL CARE: ANESTHESIOLOGY, BLOOD GASES, RESPIRATORY CARE",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "51. The most common physiologic cause of hypoxemia is",
+            "options": [
+                "a. Hypoventilation",
+                "b. Incomplete alveolar oxygen diffusion",
+                "c. Ventilation-perfusion inequality",
+                "d. Pulmonary shunt flow",
+                "e. Elevated erythrocyte 2,3-diphosphoglycerate level (2,3-DPT)"
+            ],
+            "answer": "C",
+            "explanation": "- The most common cause of hypoxemia is ventilation-perfusion inequality, even though hypoventilation, incomplete oxygen diffusion, and pulmonary shunts also cause hypoxemia.\n- Mismatch of ventilation and blood flow occurs to some degree in a normal upright lung but can become extreme in diseased lungs.\n- Indices for measuring ventilation-perfusion inequality include alveolar-arterial Po₂ difference, physiologic shunt (venous admixture), and alveolar dead space.\n- Elevated 2,3-diphosphoglycerate (2,3-DPG) levels shift the oxygen dissociation curve to the right, augmenting tissue oxygenation, but this elevation does not cause hypoxemia."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "52. Generally accepted indications for mechanical ventilatory support include",
+            "options": [
+                "a. Pao₂ of less than 70 kPa and Paco₂ of greater than 50 kPa while breathing room air",
+                "b. Alveolar-arterial oxygen tension difference of 150 kPa while breathing 100% O₂",
+                "c. Vital capacity of 40–60 mL/kg",
+                "d. Respiratory rate greater than 35 breaths/min",
+                "e. A dead space:tidal volume ratio (VD/VT) less than 0.6"
+            ],
+            "answer": "D",
+            "explanation": "- Anticipation and early aggressive treatment of pulmonary insufficiency with mechanical ventilatory support are crucial for critically ill patients.\n- Readily measured changes indicating the need for intubation or readiness for weaning include arterial blood gas levels, dead space-tidal volume ratio (VD/VT), alveolar-arterial oxygen tension difference [(A-a)D02], vital capacity, and respiratory rate.\n- Indications for mechanical ventilation include:\n  - Respiratory rate over 35 breaths/min\n  - Vital capacity less than 15 mL/kg\n  - (A-a)Do₂ greater than 350 kPa after 15 min on 100% oxygen\n  - VD/VT greater than 0.6\n  - Pao₂ less than 60 kPa\n  - Paco₂ greater than 60 kPa"
+        },
+        {
+            "id": "3",
+            "question_type": "mcq",
+            "question": "53. In a hemolytic reaction caused by an incompatible blood transfusion, the treatment that is most likely to be helpful is",
+            "options": [
+                "a. Promoting a diuresis with 250 ml of 50% mannitol",
+                "b. Treating anuria with fluid and potassium replacement",
+                "c. Acidifying the urine to prevent hemoglobin precipitation in the renal tubules",
+                "d. Removing foreign bodies, such as Foley catheters, which may cause hemorrhagic complications",
+                "e. Stopping the transfusion immediately"
+            ],
+            "answer": "E",
+            "explanation": "- If an incompatible blood transfusion causes a hemolytic reaction, the transfusion must be stopped immediately.\n- A Foley catheter should be inserted, and hourly urine output monitored.\n- Renal damage from hemoglobin precipitation in the renal tubules is a major consequence of hemolysis.\n- This precipitation is inhibited in an alkaline environment and promoted in an acid environment.\n- Stimulating diuresis with 100 mL of 20% mannitol and alkalinizing the urine with 45 meq sodium bicarbonate intravenously are indicated procedures.\n- Fluid and potassium intake should be restricted if severe oliguria or anuria is present."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "54. Which of the following inhalation anesthetics accumulates in air-filled cavities during general anesthesia?",
+            "options": [
+                "a. Diethyl ether",
+                "b. Nitrous oxide",
+                "c. Halothane",
+                "d. Methoxyflurane",
+                "e. Trichloroethylene"
+            ],
+            "answer": "B",
+            "explanation": "- Nitrous oxide (N₂O) has low solubility compared to other inhalation anesthetics (blood:gas partition coefficient 0.47) and is 30 times more soluble in blood than nitrogen (N2).\n- N₂O is the only anesthetic gas less dense than air.\n- Due to these properties, N₂O can cause progressive distention of air-filled spaces during prolonged anesthesia.\n- This is problematic in cases of pneumothorax or intestinal obstruction, or during procedures like pneumoventriculography.\n- N₂O diffuses into gas-filled compartments faster than N₂ diffuses out.\n- Rapid increase in the size of gas-filled chambers, with potentially serious consequences, can occur, especially since typical ingested air (or pneumothorax air) is 80% N2 and usual N₂O anesthetic gas mixture is 80% N₂O."
+        },
+        {
+            "id": "5",
+            "question_type": "mcq",
+            "question": "55. Major alterations in pulmonary function associated with adult respiratory distress syndrome (ARDS) include",
+            "options": [
+                "a. Hypoxemia",
+                "b. Increased pulmonary compliance",
+                "c. Increased resting lung volume",
+                "d. Increased functional residual capacity",
+                "e. Decreased dead space ventilation"
+            ],
+            "answer": "A",
+            "explanation": "- Adult respiratory distress syndrome (ARDS), also known as “shock lung” or “traumatic wet lung,” manifests in various circumstances, from minimal dysfunction to unrelenting pulmonary failure.\n- Three major physiologic alterations in ARDS are:\n  - Hypoxemia, typically unresponsive to increased inspired oxygen concentration.\n  - Decreased pulmonary compliance, making the lungs progressively “stiffer” and harder to ventilate.\n  - Decreased functional residual capacity.\n- Progressive alveolar collapse results from protein-rich fluid leaking into the interstitium and alveolar spaces, leading to diffuse, fluffy infiltrates on radiology.\n- Ventilatory abnormalities develop, causing shunt formation, decreased resting lung volume, and increased dead space ventilation."
+        },
+        {
+            "id": "6",
+            "question_type": "mcq",
+            "question": "56. The curve depicted below plots the normal relationship of arterial Po₂ and percentage of hemoglobin saturation with other variables controlled at pH 7.4, Paco₂ 40 kPa, temperature 37°C (98.6°F), and hemoglobin 15 g/dL. Which of the following statements regarding this oxygen dissociation relationship is true?",
+            "options": [
+                "a. Modest decrements of arterial Po₂ have a major effect on alveolar oxygen uptake",
+                "b. Modest decrements of hemoglobin saturation have a major effect on tissue oxygen uptake",
+                "c. The curve shifts to the left with acidosis",
+                "d. The curve shifts to the left following banked blood transfusion",
+                "e. The curve is unaffected by chronic lung disease"
+            ],
+            "answer": "D",
+            "explanation": "- The oxygen dissociation curve's shape offers physiological advantages.\n- The relatively flat slope above a Po₂ of 50 pKa means hemoglobin saturation decreases slightly with modest Po₂ decrements, minimally affecting alveolar oxygen loading with mild to moderate hypoxemia.\n- The steeper slope at the lower end ensures that as hemoglobin desaturates, arterial Po₂ drops minimally, maintaining a gradient favoring oxygen diffusion into tissue cells.\n- Acidosis, a rise in Paco₂, and elevated temperature shift the curve to the right, enhancing tissue oxygen uptake.\n- Red blood cell organic phosphates, especially 2,3-diphosphoglycerate (2,3-DPG), also influence the dissociation curve.\n- Banked blood, being low in 2,3-DPG, shifts the curve to the left, decreasing tissue oxygen uptake.\n- 2,3-DPG levels increase with chronic hypoxia.\n- Chronic lung disease shifts the curve to the right, enhancing oxygen delivery to peripheral tissues."
+        },
+        {
+            "id": "7",
+            "question_type": "clinical_scenario",
+            "question": "57. A 64-year-old man afflicted with severe emphysema, who receives oxygen therapy at home, is admitted to the hospital because of upper gastrointestinal bleeding. The bleeding ceases soon after admission, and the patient becomes agitated and then disoriented; he is given intramuscular diazepam (Valium), 5 mg. Twenty minutes later he is unresponsive. Physical examination reveals a stuporous but arousable man who has papilledema and asterixis. Arterial blood gases are pH 7.17; P02 42 kPa; Pco₂ 95 kPa. The best immediate therapy would be to",
+            "options": [
+                "a. Correct hypoxemia with high-flow nasal oxygen",
+                "b. Correct acidosis with sodium bicarbonate",
+                "c. Administer intravenous dexamethasone, 10 mg",
+                "d. Intubate the patient",
+                "e. Call for neurosurgical consultation"
+            ],
+            "answer": "D",
+            "explanation": "- The patient is suffering from acute, life-threatening respiratory acidosis, compounded by a central nervous system depressant.\n- While hypoxemia needs correction, the immediate priority is to correct acidosis caused by carbon dioxide accumulation.\n- Both disturbances can be resolved by skilled endotracheal intubation and ventilatory support.\n- Sodium bicarbonate and high-flow nasal oxygen are inappropriate.\n- Bicarbonate should not be given as buffer reserves are adequate (serum bicarbonate 34 meq/L).\n- Nasal oxygen is not warranted because acidemia and hypoxemia stimulate spontaneous ventilation.\n- Headache, confusion, and papilledema indicate acute carbon dioxide retention, not a structural intracranial lesion."
+        },
+        {
+            "id": "8",
+            "question_type": "mcq",
+            "question": "58. Dopamine is a frequently used drug in critically ill patients because",
+            "options": [
+                "a. At high doses it increases splanchnic flow",
+                "b. At high doses it increases coronary flow",
+                "c. At low doses it decreases heart rate",
+                "d. At low doses it lowers peripheral resistance",
+                "e. It inhibits catecholamine release"
+            ],
+            "answer": "B",
+            "explanation": "- Dopamine has diverse pharmacological properties useful in critically ill patients.\n- At low doses (1–5 mg/kg/min), dopamine primarily activates dopaminergic receptors, causing vasodilation of renal and mesenteric vasculature and mild peripheral vasoconstriction, redirecting blood flow to kidneys and bowel.\n- At low doses, the net effect on overall vascular resistance is slight.\n- As the dose increases (2–10 mg/kg/min), β₁-receptor activity predominates, leading to increased cardiac output and blood pressure due to inotropic effects on the myocardium.\n- Above 10 mg/kg/min, α-receptor stimulation causes peripheral vasoconstriction, shifting blood from extremities to organs, decreasing kidney function, and causing hypertension.\n- Diastolic blood pressure is expected to rise at all doses, increasing coronary blood flow as coronary perfusion largely depends on the pressure at the coronary ostia."
+        },
+        {
+            "id": "9",
+            "question_type": "mcq",
+            "question": "59. Which statement regarding transmission of viral illness through homologous blood transfusion is true?",
+            "options": [
+                "a. The most common viral agent transmitted via blood transfusion in the United States is human immune deficiency virus (HIV)",
+                "b. Blood is routinely tested for cytomegalovirus (CMV) because CMV infection is often fatal",
+                "c. The most frequent infectious complication of blood transfusion continues to be viral meningitis",
+                "d. Up to 10% of those who develop posttransfusion hepatitis will develop cirrhosis or hepatoma or both",
+                "e. The etiologic agent in posttransfusion hepatitis remains undiscovered"
+            ],
+            "answer": "D",
+            "explanation": "- Cytomegalovirus (CMV) is carried in blood leukocytes, is endemic in the U.S., and its prevalence increases with age.\n- Acute CMV infection may cause transient fever, jaundice, and hepatosplenomegaly in large blood donor exposures.\n- Posttransfusion CMV infection (seroconversion) is not a significant clinical problem in immunocompetent recipients; thus, blood is not routinely tested for CMV.\n- Posttransfusion non-A, non-B hepatitis is the most frequent infectious complication of transfusion.\n- It is associated with a 16% incidence of chronic active hepatitis and an 8-10% incidence of cirrhosis or hepatoma or both.\n- Hepatitis C has been identified as the etiologic agent in over 90% of posttransfusion hepatitis cases."
+        },
+        {
+            "id": "10",
+            "question_type": "clinical_scenario",
+            "question": "60. Proper management would now call for",
+            "options": [
+                "a. Administration of a diuretic to increase urine output",
+                "b. Administration of a vasopressor agent to increase systemic blood pressure",
+                "c. Administration of a fluid challenge to increase urine output",
+                "d. Administration of a vasodiluting agent to decrease elevated systemic vascular resistance",
+                "e. A period of observation to obtain more data"
+            ],
+            "answer": "C",
+            "explanation": "- The patient's hemodynamic parameters indicate inadequate intravascular volume, leading to hypovolemic hypotension after ruptured abdominal aortic aneurysm repair.\n- Low urine output signifies poor renal perfusion, while high urine specific gravity indicates adequate renal function with compensatory free water conservation.\n- A vasopressor would increase blood pressure by increasing peripheral vascular resistance, further decreasing tissue perfusion and exacerbating shock.\n- A vasodilating agent would cause profound hypotension and vascular collapse due to pooling of already depleted vascular volume.\n- The patient's blood pressure relies on elevated systemic vascular resistance.\n- Proper treatment involves rapid fluid infusion and expansion of intravascular volume with lactated Ringer's solution or blood (or both) until pulmonary capillary wedge pressure, urine output, and blood pressure improve."
+        },
+        {
+            "id": "11",
+            "question_type": "clinical_scenario",
+            "question": "61. The patient then has an improvement in all hemodynamic parameters. However, 6 h later he develops ST segment depression, and a 12-lead cardiogram shows anterolateral ischemia. New hemodynamic parameters are obtained: • Systemic BP: 70/40 mm Hg • Pulse rate: 100 beats/min • Central venous pressure (CVP): 18 cm H2O • Pulmonary capillary wedge pressure (PCWP): 25 mm Hg • Cardiac output: 1.5 L/min • Systemic vascular resistance: 25 Woods units The single best pharmacologic intervention would be",
+            "options": [
+                "a. Sublingual nitroglycerin",
+                "b. Intravenous nitroglycerin",
+                "c. A short-acting beta blocker",
+                "d. Sodium nitroprusside",
+                "e. Dobutamine"
+            ],
+            "answer": "E",
+            "explanation": "- The patient has developed pump failure due to pre-existing coronary artery occlusive disease and high preload from fluid challenge.\n- Afterload remains moderately high due to systemic vasoconstriction from cardiogenic shock.\n- Poor myocardial performance is indicated by low cardiac output and high pulmonary capillary wedge pressure.\n- Therapy must increase cardiac output without excessively increasing myocardial oxygen demand on the failing heart.\n- Nitroglycerin would reduce preload and afterload but could cause unacceptable hypotension without an inotrope.\n- Nitroprusside would reduce afterload but also cause hypotension if not accompanied by an inotropic agent.\n- A beta blocker would worsen the condition by reducing cardiac contractility and slowing heart rate, which is detrimental when cardiac output is rate-dependent.\n- Dobutamine, a synthetic catecholamine, is the inotropic agent of choice for cardiogenic shock.\n- As a β₁-adrenergic agonist, it improves cardiac performance in pump failure through positive inotropy and peripheral vasodilation, with minimal chronotropic effect, only marginally increasing myocardial oxygen demand."
+        },
+        {
+            "id": "12",
+            "question_type": "clinical_scenario",
+            "question": "62. A 56-year-old man undergoes a left upper lobectomy. An epidural catheter is inserted for postoperative pain relief. Ninety minutes after the first dose of epidural morphine, the patient complains of itching and becomes increasingly somnolent. Blood gas measurement reveals the following: pH 7.24; Paco₂ 58; Pao₂ 100; HCO3- 28. Initial therapy should include",
+            "options": [
+                "a. Endotracheal intubation",
+                "b. Intramuscular diphenhydramine (Benadryl)",
+                "c. Epidural naloxone",
+                "d. Intravenous naloxone",
+                "e. Alternative analgesia"
+            ],
+            "answer": "D",
+            "explanation": "- Thoracic epidural narcotics are popular for postoperative pain relief in thoracic and upper abdominal surgery.\n- Local action on gamma opiate receptors provides pain relief and improves respiration without vasodilation or paralysis.\n- Less lipid-soluble opiates offer long-lasting effects.\n- Slow absorption into circulation ensures a low incidence of centrally mediated side effects like respiratory depression or generalized itching.\n- When central side effects occur, intravenous injection of an opiate antagonist is an effective antidote, without affecting locally mediated analgesia.\n- A poorly understood side effect, seemingly unrelated to systemic levels, is a profound reduction in gastric activity, which is important for early oral intake after thoracic surgery."
+        },
+        {
+            "id": "13",
+            "question_type": "mcq",
+            "question": "63. If end-diastolic pressure is held constant, increasing which of the following will increase the cardiac index?",
+            "options": [
+                "a. Peripheral vascular resistance",
+                "b. Pulmonary wedge pressure",
+                "c. Heart rate",
+                "d. Systemic diastolic pressure",
+                "e. Viscosity of the blood"
+            ],
+            "answer": "C",
+            "explanation": "- The cardiac index (CI) is calculated by dividing cardiac output (CO) by body surface area (BSA): CI = CO/BSA.\n- Cardiac output is the product of stroke volume (SV) and heart rate (HR): CO = SV × HR.\n- Therefore, CI = (SV × HR)/BSA.\n- An increased heart rate directly increases both cardiac output and cardiac index.\n- The other options would either decrease or not affect stroke volume, and thus would not increase the cardiac index."
+        },
+        {
+            "id": "14",
+            "question_type": "clinical_scenario",
+            "question": "64. A 73-year-old woman with a long history of heavy smoking undergoes femoral artery-popliteal artery bypass for resting pain in her left leg. Because of serious underlying respiratory insufficiency, she continues to require ventilatory support for 4 days after her operation. As soon as her endotracheal tube is removed, she begins complaining of vague upper abdominal pain. She has daily fever spikes to 39°C (102.2°F) and a leukocyte count of 18,000/μL. An upper abdominal ultrasonogram reveals a dilated gallbladder, but no stones are seen. A presumptive diagnosis of acalculous cholecystitis is made. You would recommend",
+            "options": [
+                "a. Nasogastric suction and broad-spectrum antibiotics",
+                "b. Immediate cholecystectomy with operative cholangiogram",
+                "c. Percutaneous drainage of the gallbladder",
+                "d. Endoscopic retrograde cholangiopancreatography (ERCP) to visualize and drain the common bile duct",
+                "e. Provocation of cholecystokinin release by cautious feeding of the patient"
+            ],
+            "answer": "C",
+            "explanation": "- Acute postoperative cholecystitis is a recognized complication of severe illnesses leading to ICU admissions, likely caused by gallbladder ischemia.\n- Diagnosis is challenging due to vague signs and symptoms that may mimic occult sepsis, and patients often being intubated, sedated, or confused.\n- Biochemical tests, though frequently showing abnormal liver function, are non-specific.\n- Bedside ultrasonography suggesting a thickened gallbladder wall or pericholecystic fluid is usually indicative, but radiologic findings can be non-diagnostic.\n- Delayed diagnosis leads to high mortality and morbidity.\n- Percutaneous drainage of the gallbladder is typically curative for acalculous cholecystitis and provides stabilizing palliation if calculous cholecystitis is present.\n- Some recommend prophylactic percutaneous gallbladder drainage under CT guidance for ICU patients failing to thrive or showing low-grade sepsis after primary illness treatment.\n- Other listed options are either too aggressive or too cautious for a critically ill patient with a potentially fatal complication."
+        },
+        {
+            "id": "15",
+            "question_type": "clinical_scenario",
+            "question": "65. Which of the following would be most consistent with this patient's preintubation arterial blood gas measurement?",
+            "options": [
+                "a. pH 7.31, Paco₂ 48, Pao₂ 61",
+                "b. pH 7.52, Paco₂ 28, Pao₂ 76",
+                "c. pH 7.45, Paco₂ 40, Pao₂ 77",
+                "d. pH 7.40, Paco₂ 30, Pao₂ 72",
+                "e. pH 7.40, Paco₂ 48, Pao₂ 94"
+            ],
+            "answer": "B",
+            "explanation": "- The case is consistent with septic shock from a postoperative intraabdominal abscess.\n- In early septic shock, the respiratory profile shows mild hypoxia with compensatory hyperventilation and respiratory alkalosis.\n- Hemodynamically, a hyperdynamic state is observed, with increased cardiac output and decreased peripheral vascular resistance, despite relatively normal central pressures.\n- Initial therapy focuses on resuscitation and stabilization.\n- This includes fluid replacement and vasopressors, along with antibiotic therapy targeting gram-negative rods and anaerobes, especially for suspected intraabdominal collections post-bowel surgery.\n- Laparotomy and drainage are definitive treatments but should await patient stabilization and confirmation of the collection's presence and location."
+        },
+        {
+            "id": "16",
+            "question_type": "clinical_scenario",
+            "question": "66. Which of the following is consistent with the expected initial Swan-Ganz catheter readings?",
+            "options": [
+                "a. Cardiac output: 7.0 L/min",
+                "b. Peripheral vascular resistance: 1660 dynes",
+                "c. Pulmonary artery pressure: 50/20 mm Hg",
+                "d. Pulmonary capillary wedge pressure: 16 mm Hg",
+                "e. Central venous pressure: 18 mm Hg"
+            ],
+            "answer": "B",
+            "explanation": "- The case is consistent with septic shock from a postoperative intraabdominal abscess.\n- In early septic shock, the respiratory profile shows mild hypoxia with compensatory hyperventilation and respiratory alkalosis.\n- Hemodynamically, a hyperdynamic state is observed, with increased cardiac output and decreased peripheral vascular resistance, despite relatively normal central pressures.\n- Initial therapy focuses on resuscitation and stabilization.\n- This includes fluid replacement and vasopressors, along with antibiotic therapy targeting gram-negative rods and anaerobes, especially for suspected intraabdominal collections post-bowel surgery.\n- Laparotomy and drainage are definitive treatments but should await patient stabilization and confirmation of the collection's presence and location."
+        },
+        {
+            "id": "17",
+            "question_type": "clinical_scenario",
+            "question": "67. Initial therapy for this patient would include",
+            "options": [
+                "a. Furosemide",
+                "b. Propranolol",
+                "c. Sodium nitroprusside",
+                "d. Broad-spectrum antibiotics",
+                "e. Laparotomy"
+            ],
+            "answer": "D",
+            "explanation": "- The case is consistent with septic shock from a postoperative intraabdominal abscess.\n- In early septic shock, the respiratory profile shows mild hypoxia with compensatory hyperventilation and respiratory alkalosis.\n- Hemodynamically, a hyperdynamic state is observed, with increased cardiac output and decreased peripheral vascular resistance, despite relatively normal central pressures.\n- Initial therapy focuses on resuscitation and stabilization.\n- This includes fluid replacement and vasopressors, along with antibiotic therapy targeting gram-negative rods and anaerobes, especially for suspected intraabdominal collections post-bowel surgery.\n- Laparotomy and drainage are definitive treatments but should await patient stabilization and confirmation of the collection's presence and location."
+        },
+        {
+            "id": "18",
+            "question_type": "mcq",
+            "question": "68. The preoperative characteristics of patients likely to experience postoperative ischemia after non-cardiac surgery include",
+            "options": [
+                "a. Angina",
+                "b. More than three premature ventricular contractions (PVCs) per minute",
+                "c. Dyspnea on exertion",
+                "d. Tricuspid regurgitation",
+                "e. Age greater than 60 years"
+            ],
+            "answer": "C",
+            "explanation": "- Goldman's 1978 study identified cardiac risk factors in noncardiac surgical patients, including:\n  - Previous infarction (especially within 6 months, but risk continues for life).\n  - Functional impairment like dyspnea on exertion.\n  - Age over 70 years.\n  - Mitral regurgitation.\n  - More than five premature ventricular contractions (PVCs) per minute.\n  - A tortuous or calcified aorta.\n- Angina alone was not a risk factor.\n- Subsequent studies have shown varied importance of these factors, possibly due to differing comorbid characteristics (e.g., diabetes, hypertension).\n- Additional predictors of perioperative cardiac risk, significant in some studies, include cardiomegaly, upper abdominal or intrathoracic surgery, and intraoperative hypotension."
+        },
+        {
+            "id": "19",
+            "question_type": "mcq",
+            "question": "69. Which statement regarding local anesthetics is true?",
+            "options": [
+                "a. When used for infiltration anesthesia, the maximal safe total dose of lidocaine is 3.0 mg per kilogram of body weight",
+                "b. Addition of epinephrine (1:200,000) to the solution of lidocaine, procaine, or bupivacaine does not increase the maximal safe total dose but increases the duration of the block",
+                "c. Numerous individuals are hypersensitive to local anesthetics",
+                "d. A local anesthetic in contact with a nerve trunk will cause sensory loss but not motor paralysis in the area innervated",
+                "e. Rapid systemic administration of local anesthetics may produce death without signs of CNS stimulation"
+            ],
+            "answer": "E",
+            "explanation": "- The maximal safe total dose of lidocaine for a 70-kg man is 4.5 mg/kg (approx. 30–35 mL of a 1% solution).\n- Adding epinephrine (1:200,000) to lidocaine, procaine, or bupivacaine solutions increases the duration of infiltration anesthesia and increases the maximal safe total dose by one-third by reducing drug absorption into the bloodstream.\n- Epinephrine-containing solutions should not be injected into tissues supplied by end arteries (e.g., fingers, toes, ears, nose, penis).\n- Hypersensitivity to local anesthetics is uncommon, most notably with ester-type anesthetics (procaine, tetracaine).\n- Local anesthetics act on any part and type of nerve fiber.\n- CNS toxicity typically presents as stimulation followed by depression, likely due to early selective depression of inhibitory neurons.\n- A massive overdose can depress all neurons simultaneously."
+        },
+        {
+            "id": "20",
+            "question_type": "mcq",
+            "question": "70. Compensatory mechanisms during acute hemorrhage include",
+            "options": [
+                "a. Decreased cerebral and coronary blood flow",
+                "b. Decreased myocardial contractility",
+                "c. Renal and splanchnic vasodilation",
+                "d. Increased respiratory rate",
+                "e. Decreased renal sodium resorption"
+            ],
+            "answer": "D",
+            "explanation": "- Acute hemorrhage triggers potent vasopressor activity from angiotensin and vasopressin.\n- These hormones increase blood flow to the heart and brain through selective vasoconstriction of the skin, kidneys, and splanchnic organs.\n- Adrenergic discharge also causes selective vasoconstriction in skin, renal, and splanchnic vessels.\n- Myocardial contractility and heart rate increase, leading to increased cardiac output.\n- Hyperventilation is a typical response to metabolic (lactic) acidosis associated with hemorrhagic shock and hypoperfusion.\n- Aldosterone release, mediated by angiotensin II and ACTH, leads to increased renal sodium resorption, preventing further intravascular depletion."
+        },
+        {
+            "id": "21",
+            "question_type": "mcq",
+            "question": "71. The correlation between pulmonary capillary wedge pressure (PCWP) and left ventricular end-diastolic pressure (LVEDP) as measured by pulmonary artery catheterization may be adversely affected by",
+            "options": [
+                "a. Aortic stenosis",
+                "b. Aortic regurgitation",
+                "c. Coronary artery disease",
+                "d. Positive-pressure ventilation with positive end-expiratory pressure/ continuous positive airway pressure (PEEP/CPAP)",
+                "e. Bronchospasm"
+            ],
+            "answer": "E",
+            "explanation": "- When a Swan-Ganz pulmonary artery catheter is in the wedge position (isolating the pulmonary arterial system from capillaries), the measured pulmonary capillary wedge pressure (PCWP) typically equals both left atrial pressure (LAP) and left ventricular end-diastolic pressure (LVEDP).\n- Pathologic processes in the pulmonary vasculature and heart valves can alter this relationship.\n- Pulmonary vasoocclusive disease may elevate PCWP independently of LAP or LVEDP.\n- Bronchospasm, affecting the airway but not the pulmonary vasculature, should not affect the validity of Swan-Ganz catheter readings.\n- Mitral stenosis and regurgitation increase LAP and PCWP, leading to an overestimated LVEDP.\n- Aortic stenosis and regurgitation equally elevate PCWP, LAP, and LVEDP.\n- Accurate PCWP measurement may be impossible with positive airway pressure (PEEP/CPAP); transmission of positive airway pressure to pulmonary microvasculature (especially in upper lung zones) results in alveolar pressure measurement instead of LAP or LVEDP.\n- Coronary artery disease does not affect the relationship between PCWP, LAP, and LVEDP."
+        },
+        {
+            "id": "22",
+            "question_type": "mcq",
+            "question": "72. Which statement regarding perioperative risk of stroke in patients with a past history of stroke is true?",
+            "options": [
+                "a. The mortality after postoperative stroke is high",
+                "b. Most postoperative strokes occur directly after surgery and appear related to operative events",
+                "c. The risk of stroke correlates with the length of time since previous stroke",
+                "d. General state of health and severity of illness as measured by ASA classification are significant predictors of recurrent stroke",
+                "e. The risk of stroke correlates with a history of multiple strokes or post-stroke transient ischemic attacks (TIAS)"
+            ],
+            "answer": "A",
+            "explanation": "- A retrospective study of 173 patients with a history of stroke undergoing general non-cardiac, cerebrovascular, or neurological surgery found 2.9% developed postoperative strokes (3 to 21 days post-surgery, mean 12.2 days).\n- The risk of stroke did not correlate with age, sex, history of multiple strokes or post-stroke transient ischemic attacks (TIAs), ASA classification, aspirin use, coronary artery disease, peripheral vascular disease, intraoperative blood pressure, time since previous stroke, or cause of previous stroke.\n- The risk of recurrent stroke appears comparable to surgical patients without a prior stroke history undergoing cardiac and peripheral vascular surgery.\n- Most recurrent strokes occur many hours to days post-surgery and are not directly related to operative events.\n- Mortality after postoperative stroke is high."
+        },
+        {
+            "id": "23",
+            "question_type": "clinical_scenario",
+            "question": "73. An 18-year-old woman develops urticaria and wheezing after an injection of penicillin. Her blood pressure is 120/60 mm Hg, heart rate is 155 beats/min, and respiratory rate is 30 breaths/min. Immediate therapy should include",
+            "options": [
+                "a. Intubation",
+                "b. Epinephrine",
+                "c. Beta blockers",
+                "d. Iodine",
+                "e. Fluid challenge"
+            ],
+            "answer": "B",
+            "explanation": "- The patient is experiencing an anaphylactoid reaction with cardiovascular and respiratory system destabilization.\n- Anaphylactoid reactions are commonly caused by iodinated contrast media, β-lactam antibiotics (e.g., penicillin), and Hymenoptera stings.\n- Manifestations include both lethal (bronchospasm, laryngospasm, hypotension, dysrhythmia) and nonlethal (pruritus, urticaria, syncope, weakness, seizure) symptoms.\n- Epinephrine is the initial treatment for laryngeal obstruction and bronchospasm, followed by histamine antagonists (H₁ and H2 blockers), aminophylline, and hydrocortisone.\n- Vasopressors and fluid challenges may be given for shock.\n- Conscious patients are usually stabilized with injected or inhaled epinephrine, while unconscious patients and those with refractory hypotension or hypoxia should be intubated."
+        },
+        {
+            "id": "24",
+            "question_type": "mcq",
+            "question": "74. During blood transfusion, clotting of transfused blood is associated with",
+            "options": [
+                "a. ABO incompatibility",
+                "b. Minor blood group incompatibility",
+                "c. Rh incompatibility",
+                "d. Transfusion through Ringer's lactate",
+                "e. Transfusion through 5% dextrose and water"
+            ],
+            "answer": "D",
+            "explanation": "- Most transfusion reactions are hemolytic, often due to clerical errors resulting in major (ABO) and minor antigen incompatibility.\n- Rh incompatibility is not associated with intravascular hemolysis.\n- Administering blood through hypotonic solutions like 5% dextrose and water causes erythrocyte swelling and hemolysis.\n- Calcium-containing solutions like Ringer's lactate cause clotting within the intravenous line, not hemolysis, and can lead to pulmonary embolism.\n- Delayed transfusion reactions, caused by a presumed anamnestic immune response 3–21 days post-infusion, result in hemolytic anemia."
+        },
+        {
+            "id": "25",
+            "question_type": "mcq",
+            "question": "75. When an arterial blood gas determination of Pco₂ 40 kPa is obtained",
+            "options": [
+                "a. There is probably a paradoxical aciduria",
+                "b. Alveolar ventilation is adequate",
+                "c. Arterial Po₂ will indicate the adequacy of alveolar ventilation",
+                "d. Arterial Po₂ will indicate the degree of ventilation-perfusion mismatch",
+                "e. Arterial Po₂ can be safely predicted to exceed 90 kPa on room air"
+            ],
+            "answer": "B",
+            "explanation": "- Due to the highly efficient diffusion of carbon dioxide, Paco₂ levels reliably indicate alveolar ventilation adequacy; 40 kPa is normal.\n- Paradoxical aciduria occurs with hypokalemic metabolic alkalosis when the kidney excretes hydrogen ions to conserve potassium.\n- A Paco₂ of 40 kPa is not incompatible with metabolic alkalosis, though it would typically be higher as the patient hypoventilates to conserve carbonic acid.\n- Pao₂ levels are influenced by many variables (age, inspired O₂ concentration, altitude), so they cannot infer alveolar ventilation adequacy or be safely predicted to exceed 90 kPa on room air in normocarbia.\n- Ventilation-perfusion mismatch reflects the gradient between alveolar and arterial oxygen tension relative to inspired O₂ percentage."
+        },
+        {
+            "id": "26",
+            "question_type": "clinical_scenario",
+            "question": "76. An obese 50-year-old woman undergoes a laparoscopic cholecystectomy. In the recovery room she is found to be hypotensive and tachycardic. Her arterial blood gases reveal a pH of 7.29, partial pressure of oxygen of 60 kPa, and partial pressure of CO2 of 54 kPa. The most likely cause of this woman's problem is",
+            "options": [
+                "a. Acute pulmonary embolism",
+                "b. CO2 absorption from induced pneumoperitoneum",
+                "c. Alveolar hypoventilation",
+                "d. Pulmonary edema",
+                "e. Atelectasis from high diaphragm"
+            ],
+            "answer": "C",
+            "explanation": "- Because carbon dioxide diffuses easily across alveolar membranes, Paco₂ is a reliable indicator of alveolar ventilation.\n- In this postoperative patient, respiratory acidosis and hypoxemia, with hypercarbia, are diagnostic of alveolar hypoventilation.\n- Acute hypoxemia can occur with pulmonary embolism, pulmonary edema, and significant atelectasis.\n- In these situations, CO₂ partial pressures should be normal or reduced as the patient hyperventilates to improve oxygenation.\n- CO₂ absorption from the peritoneal cavity may transiently affect Paco₂, but should not impact oxygenation."
+        },
+        {
+            "id": "27",
+            "question_type": "mcq",
+            "question": "77. Among patients who require nutritional resuscitation in an intensive care unit, the best evidence that nutritional support is adequate is",
+            "options": [
+                "a. Urinary nitrogen excretion levels",
+                "b. Total serum protein level",
+                "c. Serum albumin level",
+                "d. Serum transferrin levels",
+                "e. Respiratory quotient"
+            ],
+            "answer": "C",
+            "explanation": "- Serum albumin levels offer a rough estimate of protein nutritional adequacy, though accuracy is affected by albumin's long half-life (3 weeks) and hemodilution variations.\n- Acute-phase serum proteins, with short half-lives (hours), can provide good short-term indicators of nutritional status.\n- Transferrin is an acute-phase protein, but its levels are influenced by intravascular volume changes and rise non-specifically during acute illness.\n- All listed responses provide useful information regarding nutrition and adequacy of replacement."
+        },
+        {
+            "id": "28",
+            "question_type": "mcq",
+            "question": "78. Paradoxical aciduria (the excretion of acid urine in the presence of metabolic alkalosis) may occur in the presence of",
+            "options": [
+                "a. Release of inappropriate antidiuretic hormone",
+                "b. Severe crush injury",
+                "c. Acute tubular necrosis",
+                "d. Gastric outlet obstruction",
+                "e. An eosinophilic pituitary adenoma"
+            ],
+            "answer": "D",
+            "explanation": "- The body has elaborate mechanisms to compensate for metabolic acidosis; most bodily functions perform better in an acidotic state.\n- pH correction can occur through acid urine excretion and hyperventilation to \"blow off\" carbonic acid.\n- The body is poorly equipped to handle metabolic alkalosis; breath-holding to save acid is overridden by the respiratory center as Paco₂ rises and Pao₂ falls.\n- The kidney cannot produce urine at a pH far above normal.\n- In subtraction alkalosis, such as with gastric outlet obstruction leading to gastric acid loss via vomiting or suction, potassium depletion and volume deficits trigger sodium-hydrogen ion exchange in the distal tubule, exacerbating metabolic alkalosis.\n- All other listed conditions would typically lead to acidosis, making acid urine non-paradoxical."
+        },
+        {
+            "id": "29",
+            "question_type": "mcq",
+            "question": "79. If a patient suffered a pulmonary arterial air embolism during an open thoracotomy, the anesthesiologist's most likely observation would be",
+            "options": [
+                "a. Unexpected systemic hypertension",
+                "b. Rising right atrial filling pressures",
+                "c. Reduced systemic arterial oxygen saturation",
+                "d. Rising systemic CO₂ partial pressures",
+                "e. Falling end-tidal CO₂"
+            ],
+            "answer": "E",
+            "explanation": "- Air entering the pulmonary arterial vasculature creates an abnormal blood-air interface.\n- This leads to denaturing of plasma proteins, forming amorphous proteinaceous and cellular debris, and causing endothelial injury.\n- The resulting increased capillary permeability leads to alveolar flooding.\n- Occlusion of pulmonary vessels increases the proportion of ventilated but underperfused alveoli.\n- The increase in dead space results in a drop in end-tidal carbon dioxide."
+        },
+        {
+            "id": "30",
+            "question_type": "clinical_scenario",
+            "question": "80. A 72-year-old man undergoes resection of an abdominal aneurysm. He arrives in the ICU with a core temperature of 33°C (91.4°F) and shivering. The physiologic consequence of the shivering is",
+            "options": [
+                "a. Rising mixed venous oxygen saturation",
+                "b. Increased production of carbon dioxide",
+                "c. Decreased consumption of oxygen",
+                "d. Rising base excess",
+                "e. Decreased minute ventilation"
+            ],
+            "answer": "B",
+            "explanation": "- Shivering is the body's physiological effort to generate heat and maintain core temperature.\n- In healthy individuals, shivering increases the metabolic rate by 3–5 times, leading to increased oxygen consumption and carbon dioxide production.\n- In critically ill patients, these metabolic consequences are generally counterproductive and should be prevented by other means to correct systemic hypothermia.\n- Vigorous shivering can lead to oxygen debt in muscles and lactic acidemia."
+        },
+        {
+            "id": "31",
+            "question_type": "clinical_scenario",
+            "question": "81. To prepare for operating on a patient with a bleeding history diagnosed as von Willebrand's disease (recessive), you would give",
+            "options": [
+                "a. High-purity factor VIII:C concentrates",
+                "b. Low-molecular-weight dextran",
+                "c. Fresh frozen plasma (FFP)",
+                "d. Cryoprecipitate",
+                "e. Whole blood"
+            ],
+            "answer": "D",
+            "explanation": "- Von Willebrand disease is as frequent as true hemophilia and is increasingly diagnosed with more reliable factor VIII assays.\n- This autosomal dominant disorder (recessive transmission can occur) is characterized by reduced factor VIII:C (procoagulant) activity.\n- The reduction in activity is less severe than in classic hemophilia, and clinical manifestations are subtle, often overlooked until trauma or surgery.\n- Treatment involves correcting bleeding time and providing factor VIII R:WF (von Willebrand factor).\n- Only cryoprecipitate is reliably effective.\n- High-purity factor VIII:C concentrates, effective for hemophilia, lack the von Willebrand factor and are therefore unreliable."
+        },
+        {
+            "id": "32",
+            "question_type": "mcq",
+            "question": "82. Which of the following clinical situations is an indication for treatment with extracorporeal membrane oxygenation (ECMO)?",
+            "options": [
+                "a. A 1-day-old, full-term, anencephalic 4-kg boy suffering from meconium aspiration syndrome and hypoxia",
+                "b. A 75-year-old man with Alzheimer's disease, severe pneumonia, and elevated pulmonary arterial pressure",
+                "c. A neonate with a diagnosis of severe pulmonary hypoplasia who is in respiratory failure",
+                "d. A 5-year-old girl with rhabdomyosarcoma metastatic to the lungs",
+                "e. Preoperatively in a 3-day-old boy with a congenital diaphragmatic hernia"
+            ],
+            "answer": "E",
+            "explanation": "- Extracorporeal membrane oxygenation (ECMO) provides cardiopulmonary support for potentially reversible pulmonary or cardiac disease.\n- Appropriate uses include meconium aspiration syndrome, sepsis, pneumonia, and congenital diaphragmatic hernia (pre- or postoperatively).\n- ECMO can serve as a bridge to cardiac or lung transplantation, with good survival prospects if the child can be maintained physiologically until donor organs are available.\n- Hypoplastic lungs lack sufficient surface area for gas exchange and are unlikely to mature enough to sustain life.\n- Infants with hypoplastic lungs are bypass-dependent for life and are not candidates for ECMO."
+        },
+        {
+            "id": "33",
+            "question_type": "mcq",
+            "question": "83. The accidental aspiration of gastric contents into the tracheobronchial tree should be initially treated by",
+            "options": [
+                "a. Tracheal intubation and suctioning",
+                "b. Steroids",
+                "c. Intravenous fluid bolus",
+                "d. Cricothyroidotomy",
+                "e. High positive end-expiratory pressure"
+            ],
+            "answer": "A",
+            "explanation": "- Gastric aspiration is best treated initially with tracheal suctioning, oxygen, and positive-pressure ventilation.\n- Bronchoscopy is useful if particulate matter causes bronchial obstruction or if vomitus is present.\n- Bronchial lavage is no longer recommended, and steroids have not shown value.\n- Fluids should be given sparingly to avoid worsening pulmonary edema risk post-aspiration.\n- Tracheostomy may be indicated for long-term airway management in obtunded or severely debilitated patients, but initial airway control should be via orotracheal intubation whenever possible.\n- High positive end-expiratory pressure is not required unless respiratory failure develops."
+        },
+        {
+            "id": "34",
+            "question_type": "mcq",
+            "question": "84. In performing a tracheostomy, authorities agree that",
+            "options": [
+                "a. The strap muscles should be divided",
+                "b. The thyroid isthmus should be preserved",
+                "c. The trachea should be entered at the second or third cartilaginous ring",
+                "d. Only horizontal incisions should be used",
+                "e. Formal tracheostomy is preferable to cricothyroidotomy as an emergency procedure"
+            ],
+            "answer": "C",
+            "explanation": "- While tracheostomy can be an emergency procedure, it is more effectively performed in an operating room for better hemostasis and antisepsis.\n- Most authorities recommend a horizontal incision, but limited direct midline incisions offer the advantage of not opening unnecessary tissue planes and potentially reducing bleeding complications; both approaches have advocates.\n- The skin incision is made just below the cricoid cartilage.\n- The strap muscles are spared and retracted.\n- The thyroid isthmus is divided if necessary.\n- The trachea is entered at the second tracheal ring.\n- The second and third tracheal rings are incised vertically for tracheostomy tube placement.\n- The first tracheal ring and cricoid cartilage must remain intact."
+        },
+        {
+            "id": "35",
+            "question_type": "clinical_scenario",
+            "question": "85. If malignant hyperthermia is suspected intraoperatively",
+            "options": [
+                "a. Complete the procedure but pretreat with dantrolene prior to future elective surgery",
+                "b. Administer inhalational anesthetic agents",
+                "c. Administer succinylcholine",
+                "d. Hyperventilate with 100% oxygen",
+                "e. Acidify the urine to prevent myoglobin precipitation in the renal tubules"
+            ],
+            "answer": "D",
+            "explanation": "- Malignant hyperthermia (MH) has an unknown cause but is linked to inhalational anesthetics and succinylcholine.\n- It can develop in otherwise healthy individuals who have previously tolerated surgery without incident.\n- MH should be suspected with unexplained fever, muscle/connective tissue disorder, or a positive family history (suggesting autosomal dominant inheritance).\n- Symptoms include fever during anesthesia, tachycardia, increased O₂ consumption, increased CO₂ production, increased serum K⁺, myoglobinuria, and acidosis.\n- Rigidity after succinylcholine injection may be the first clue.\n- Treatment involves immediate cessation of the operative procedure and anesthesia, hyperventilation with 100% oxygen, and intravenous dantrolene.\n- Urine should be alkalinized to protect kidneys from myoglobin precipitation.\n- For future reoperation, premedication, urine alkalinization, and avoidance of depolarizing agents like succinylcholine are necessary.\n- Pretreatment with dantrolene for 24 hours is helpful, believed to act directly on muscle fibers to attenuate calcium release."
+        },
+        {
+            "id": "36",
+            "question_type": "mcq",
+            "question": "86. Central venous pressure (CVP) may be decreased by",
+            "options": [
+                "a. Pulmonary embolism",
+                "b. Hypervolemia",
+                "c. Positive-pressure ventilation",
+                "d. Pneumothorax",
+                "e. Gram-negative sepsis"
+            ],
+            "answer": "E",
+            "explanation": "- CVP determination is integral to hemodynamic assessment.\n- CVP is influenced by cardiac, noncardiac, and artifactual factors.\n- Venous tone, right ventricular compliance, intrathoracic pressure, and blood volume all affect CVP.\n- Vasoconstrictor drugs, positive pressure ventilation (with or without PEEP), mediastinal compression, and hypervolemia all increase CVP.\n- Clinically significant acute pulmonary embolism elevates CVP by causing right ventricular overload and increased right atrial pressure.\n- Sepsis decreases CVP due to both the release of vasodilatory mediators and intravascular plasma volume loss from increased capillary permeability."
+        },
+        {
+            "id": "37",
+            "question_type": "mcq",
+            "question": "87. Characteristics of continuous arteriovenous hemofiltration (CAVH) in the treatment of surgical patients with acute renal failure include",
+            "options": [
+                "a. CAVH is useful only in hemodynamically stable patients",
+                "b. CAVH requires placement of large-bore (8 French) arterial and venous catheters, usually in the femoral vessels",
+                "c. CAVH is not effective in treating hypervolemia",
+                "d. Continuous heparinization of the patient who undergoes CAVH is unnecessary",
+                "e. During CAVH, blood flow is maintained by a mechanical extracorporeal pump-oxygenator"
+            ],
+            "answer": "B",
+            "explanation": "- Continuous arteriovenous hemofiltration (CAVH) is a new method for acute renal failure in the ICU.\n- Blood flow is maintained by the hydrostatic pressure gradient between inflowing arterial and venous cannulae.\n- Blood passes through an extracorporeal membrane, clearing up to 12 L/day of ultrafiltrate.\n- This volume is replaced with intravenous solution to achieve desired fluid balance.\n- CAVH allows slow, continuous fluid removal and is advantageous for volume-overloaded patients.\n- Unlike traditional hemodialysis, CAVH can be used across a wide range of blood pressures in unstable patients.\n- Solutes (e.g., urea nitrogen, potassium) not in the replacement fluid are also cleared.\n- Main complications relate to vascular access: arterial thrombosis, aneurysm, fistula, and infection.\n- Anticoagulation (with bleeding risks) is necessary to prevent filter and cannula thrombosis.\n- Careful monitoring is required for potential electrolyte imbalance during long-term CAVH."
+        },
+        {
+            "id": "38",
+            "question_type": "mcq",
+            "question": "88. Signs and symptoms of unsuspected Addison's disease include",
+            "options": [
+                "a. Hypothermia",
+                "b. Hypokalemia",
+                "c. Hyperglycemia",
+                "d. Hyponatremia",
+                "e. Hypervolemia"
+            ],
+            "answer": "D",
+            "explanation": "- Clinical manifestations of adrenocortical insufficiency include hyperkalemia, hyponatremia, hypoglycemia, fever, weight loss, and dehydration.\n- There is excessive sodium loss in the urine, plasma volume contraction, and possibly hypotension or shock.\n- Classic hyperpigmentation is only present in chronic Addison's disease.\n- Addison's disease can present as congenital atrophy in newborns, an insidious chronic state (e.g., due to tuberculosis), acute dysfunction from trauma or adrenal hemorrhage, or a semiacute adrenal insufficiency during stress or surgery.\n- In the latter case, signs and symptoms include nausea, lassitude, vomiting, fever, progressive salt wasting, hyperkalemia, and hypoglycemia.\n- Diagnosis can be confirmed by measuring urinary Na⁺ loss and absence of response to ACTH."
+        },
+        {
+            "id": "39",
+            "question_type": "mcq",
+            "question": "89. The etiologic factor implicated in the development of pulmonary insufficiency following major non-thoracic trauma is",
+            "options": [
+                "a. Aspiration",
+                "b. Atelectasis",
+                "c. Fat embolism syndrome",
+                "d. Fluid overload",
+                "e. Pneumonia"
+            ],
+            "answer": "C",
+            "explanation": "- Posttraumatic pulmonary insufficiency without significant thoracic trauma has been attributed to various factors, including aspiration, simple atelectasis, lung contusion, fat embolism, pneumonia, pneumothorax, pulmonary edema, and pulmonary thromboembolism.\n- Blaisdell and Lewis, in their monograph \"Respiratory Distress Syndrome of Shock and Trauma,\" identified fat embolism syndrome as the etiologic factor.\n- The mechanism appears to be pulmonary alveolar injury from free fatty acids mobilized in the blood as an adrenergic response to trauma, rather than from fat globule embolization from fractured bones."
+        },
+        {
+            "id": "40",
+            "question_type": "mcq",
+            "question": "90. For the severely traumatized patient requiring airway management",
+            "options": [
+                "a. Awake endotracheal intubation is indicated in patients with penetrating ocular injury",
+                "b. Steroids have been shown to be of value in the treatment of aspiration of acidic gastric secretions",
+                "c. The stomach may be assumed to be empty only if a history is obtained indicating no ingestion of food or liquid during the prior 8 h",
+                "d. Intubation should be performed in the emergency room if the patient is unstable",
+                "e. Cricothyroidotomy is contraindicated in the presence of maxillofacial injuries"
+            ],
+            "answer": "D",
+            "explanation": "- Securing a stable airway is fundamental in managing severely injured patients, with control levels varying from simple oropharyngeal airways to tracheostomy.\n- Full airway control should be established in the emergency room for unstable patients.\n- Endotracheal intubation is usually the preferred method, but tracheotomy should be prepared if peroral or pernasal intubation fails or is impractical due to maxillofacial injuries.\n- The period just before and during initial airway control attempts is most dangerous.\n- Oronasopharyngeal manipulation can provoke combativeness or vomiting in patients confused by drugs, alcohol, hypoxia, or cerebral trauma.\n- Aspiration risk is high during these attempts; no assumptions should be made about stomach contents.\n- Antacids are recommended before intubation if feasible.\n- Steroids, previously recommended for acidic gastric aspiration, are no longer considered valuable.\n- Best management involves preventing aspiration complications.\n- For cooperative patients, awake intubation with topical anesthesia helps avoid hypotension, arrhythmia, and aspiration risks associated with anesthesia induction.\n- If awake intubation is inappropriate, rapid-sequence induction with a thiobarbiturate followed by muscle paralysis with succinylcholine is an alternative.\n- Awake intubation is contraindicated if elevated intracranial pressure or penetrating eye injury is suspected."
+        },
+        {
+            "id": "41",
+            "question_type": "mcq",
+            "question": "91. Treatment for clostridial myonecrosis (gas gangrene) includes which of the following measures?",
+            "options": [
+                "a. Administration of an antifungal agent",
+                "b. Administration of antitoxin",
+                "c. Wide debridement",
+                "d. Administration of hyperbaric oxygen",
+                "e. Early closure of tissue defects"
+            ],
+            "answer": "C",
+            "explanation": "- Necrotizing skin and soft tissue infections produce insoluble gases (hydrogen, nitrogen, methane) via anaerobic bacterial metabolism.\n- While \"gas gangrene\" implies clostridial infection, gas in tissues is more often due to other facultative and obligate anaerobes, especially streptococci.\n- Fungi are less commonly associated with rapidly progressive infections.\n- Treatment involves repeated wide debridement, with wound reconstruction delayed until a stable, viable wound surface is established.\n- Hyperbaric oxygen remains controversial due to lack of proven benefit, transport difficulties for critically ill patients, and complication risks.\n- Antitoxin has no prophylactic or therapeutic role in myonecrosis."
+        },
+        {
+            "id": "42",
+            "question_type": "mcq",
+            "question": "92. An abnormal ventilation-perfusion ratio (Qs/Qr) in the postoperative patient has been associated with",
+            "options": [
+                "a. Pulmonary thromboembolism",
+                "b. Lower abdominal surgery",
+                "c. Starvation",
+                "d. The upright position",
+                "e. Increased cardiac output"
+            ],
+            "answer": "A",
+            "explanation": "- Abnormalities in ventilation-perfusion ratio result from blood shunting to hypoventilated lung regions or ventilation of hypoperfused lung tissue.\n- When this imbalance is extreme, as seen after massive pulmonary thromboembolism, it causes life-threatening hypoxemia.\n- Common predisposing factors in postoperative patients contributing to this maldistribution include supine position, thoracic and upper abdominal incisions, obesity, atelectasis, and reduced cardiac output."
+        },
+        {
+            "id": "43",
+            "question_type": "mcq",
+            "question": "93. Correct statements concerning drowning or near-drowning include which of the following?",
+            "options": [
+                "a. The prognosis for recovery of cerebral function in affected persons is better if submersion occurs in warm water rather than extremely cold water",
+                "b. A majority of victims will demonstrate a severe metabolic alkalosis",
+                "c. Prompt administration of corticosteroids to affected persons has been shown to decrease the extent of pulmonary membrane damage",
+                "d. Renal damage may occur in affected persons as a result of hemoglobinuria",
+                "e. The most important initial treatment of drowning victims is emptying the stomach of swallowed water"
+            ],
+            "answer": "D",
+            "explanation": "- Metabolic and physiological effects of drowning/near-drowning depend on fluid temperature, aspiration extent, and whether the aspirate is fresh or sea water.\n- Cold-water submersion decreases oxygen consumption and preferentially shunts blood to the heart and brain, prolonging submersion tolerance without irreversible cerebral damage.\n- Normal cerebral function recovery has been reported after up to 40 minutes of submersion in extremely cold water.\n- Cooling below 30°C (86°F) can cause cardiac arrhythmias.\n- Ten percent of affected patients do not aspirate fluid but succumb to asphyxia from breath-holding or laryngospasm.\n- Seventy percent experience significant metabolic acidosis requiring sodium bicarbonate administration.\n- Electrolyte and blood volume changes may or may not be present, depending on aspiration degree and fluid toxicity.\n- Renal damage can occur from hemoglobinuria (due to hemolysis), acidosis, hypoxia, or changes in renal blood flow.\n- The most crucial initial treatment is ventilation; mouth-to-mouth or mouth-to-nose ventilation should start immediately.\n- Corticosteroids and prophylactic antibiotics are not recommended for preventing pulmonary complications, though some believe steroids may help manage cerebral edema."
+        },
+        {
+            "id": "44",
+            "question_type": "mcq",
+            "question": "94. Spontaneous retroperitoneal hemorrhage during anticoagulant therapy",
+            "options": [
+                "a. Is best confirmed by bleeding scan",
+                "b. Is equally likely with parenteral and oral anticoagulants",
+                "c. May mimic an acute surgical abdomen",
+                "d. Frequently requires laparotomy for ligation of the bleeding site",
+                "e. Is seen in over 30% of patients receiving long-term anticoagulation"
+            ],
+            "answer": "C",
+            "explanation": "- Major hemorrhage requiring anticoagulant therapy termination occurs in up to 15% of anticoagulated patients.\n- Spontaneous retroperitoneal hemorrhage is a small, potentially fatal subset of these cases.\n- Heparin is more frequently associated with spontaneous retroperitoneal hemorrhage than oral agents.\n- Advanced patient age and poor coagulation time regulation increase bleeding complication likelihood.\n- Most cases present with flank pain and peritoneal irritation, mimicking an acute intraabdominal process.\n- CT scans are most useful for confirming diagnosis and monitoring bleeding.\n- Successful management is usually nonoperative, involving anticoagulant discontinuation, vitamin K or protamine administration, possible clotting factor transfusion, and intravascular volume repletion with intravenous fluids."
+        },
+        {
+            "id": "45",
+            "question_type": "mcq",
+            "question": "95. Correct statements concerning smoke inhalation (“smoke poisoning\") include which of the following?",
+            "options": [
+                "a. Smoke poisoning is a thermal rather than chemical injury",
+                "b. Carbon monoxide levels are not likely to be elevated unless there is evidence of skin or oropharyngeal burns",
+                "c. Chest x-rays during the early postinhalation period show a characteristic \"ground glass\" appearance",
+                "d. Damage to the upper respiratory tract is common and is usually found on laryngoscopy",
+                "e. Patients with elevated carboxyhemoglobin levels should be hospitalized for a minimum of 24 h"
+            ],
+            "answer": "E",
+            "explanation": "- Smoke inhalation injuries (\"smoke poisoning\") and asphyxia account for nearly one-third of fire fatalities.\n- Unlike respiratory burns (thermal injuries to the upper respiratory tract), smoke inhalation is a chemical injury to the distal tracheobronchial tree and alveoli.\n- Most patients admitted for this injury have elevated carbon monoxide levels, but only a minority show physical evidence of skin burns (20%) or oropharyngeal burns (25%).\n- Visible respiratory tract damage is infrequent.\n- Chest films are often initially negative, even in patients who later develop respiratory failure from pulmonary edema or pneumonitis.\n- Patients with elevated carboxyhemoglobin levels or evidence of smoke inhalation should be hospitalized for at least 24 hours for observation, regardless of normal arterial blood gases and chest x-rays."
+        },
+        {
+            "id": "46",
+            "question_type": "mcq",
+            "question": "96. Indications for surgical intervention to remove smuggled drug packets that have been ingested include",
+            "options": [
+                "a. Refusal to take high doses of laxatives",
+                "b. Refusal to allow endoscopic retrieval",
+                "c. Refusal to allow digital rectal disimpaction",
+                "d. Intraintestinal drug packets evident on abdominal x-ray in an asymptomatic smuggler",
+                "e. Signs of toxicity from leaking drug packets"
+            ],
+            "answer": "E",
+            "explanation": "- Rupture or leakage of even one ingested drug packet carries a risk of severe toxicity and death.\n- Conservative medical management with moderate laxative doses is generally safe for stable body packers, requiring close physiological monitoring until all packets are passed.\n- High doses of laxatives, digital rectal disimpaction, or endoscopic removal carry a high risk of bag rupture and are generally discouraged.\n- Emergency surgery is indicated when complications develop."
+        },
+        {
+            "id": "47",
+            "question_type": "matching",
+            "question": "97. Seizures (SELECT 1 AGENT)",
+            "options": {
+                "items": [
+                    "Seizures"
+                ],
+                "choices": [
+                    "a. Nitrous oxide (N2O)",
+                    "b. Halothane",
+                    "c. Methoxyflurane",
+                    "d. Enflurane",
+                    "e. Morphine"
+                ]
+            },
+            "answer": {
+                "Seizures": "d"
+            },
+            "explanation": "- Nitrous oxide (N₂O) is a common inhalation analgesic, but its high minimum alveolar anesthetic concentration (MAC > 100) means true anesthesia at 1 atm cannot be achieved without compromising oxygen delivery. Being 30 times more soluble than nitrogen in blood, N₂O enters trapped air faster than nitrogen leaves, increasing trapped air volume, which can worsen bowel obstruction.\n- Halothane is a potent anesthetic (MAC 0.75) causing cardiovascular depression through various mechanisms, including direct myocardial muscle and peripheral vascular smooth muscle depression, and effects on medullary vasomotor centers and sympathetic ganglionic transmissions, leading to hypotension and decreased cardiac output.\n- Enflurane, a halogenated inhalation anesthetic (MAC 1.2), is similar to halothane but can induce electroencephalographic changes resembling epilepsy in some normal patients.\n- Methoxyflurane is the most potent and least volatile halogenated inhalation anesthetic (MAC 0.16), but its clinical use is limited by high nephrotoxicity risk from fluoride ions released during biodegradation.\n- Morphine, a potent narcotic, can potentiate analgesic effects of inhalation agents during general anesthesia and may cause histamine release, risking hypotension if given in a large bolus."
+        },
+        {
+            "id": "48",
+            "question_type": "matching",
+            "question": "98. Decreased peripheral resistance (SELECT 1 AGENT)",
+            "options": {
+                "items": [
+                    "Decreased peripheral resistance"
+                ],
+                "choices": [
+                    "a. Nitrous oxide (N2O)",
+                    "b. Halothane",
+                    "c. Methoxyflurane",
+                    "d. Enflurane",
+                    "e. Morphine"
+                ]
+            },
+            "answer": {
+                "Decreased peripheral resistance": "e"
+            },
+            "explanation": "- Nitrous oxide (N₂O) is a common inhalation analgesic, but its high minimum alveolar anesthetic concentration (MAC > 100) means true anesthesia at 1 atm cannot be achieved without compromising oxygen delivery. Being 30 times more soluble than nitrogen in blood, N₂O enters trapped air faster than nitrogen leaves, increasing trapped air volume, which can worsen bowel obstruction.\n- Halothane is a potent anesthetic (MAC 0.75) causing cardiovascular depression through various mechanisms, including direct myocardial muscle and peripheral vascular smooth muscle depression, and effects on medullary vasomotor centers and sympathetic ganglionic transmissions, leading to hypotension and decreased cardiac output.\n- Enflurane, a halogenated inhalation anesthetic (MAC 1.2), is similar to halothane but can induce electroencephalographic changes resembling epilepsy in some normal patients.\n- Methoxyflurane is the most potent and least volatile halogenated inhalation anesthetic (MAC 0.16), but its clinical use is limited by high nephrotoxicity risk from fluoride ions released during biodegradation.\n- Morphine, a potent narcotic, can potentiate analgesic effects of inhalation agents during general anesthesia and may cause histamine release, risking hypotension if given in a large bolus."
+        },
+        {
+            "id": "49",
+            "question_type": "matching",
+            "question": "99. Possible worsening of distention in bowel obstruction (SELECT 1 AGENT)",
+            "options": {
+                "items": [
+                    "Possible worsening of distention in bowel obstruction"
+                ],
+                "choices": [
+                    "a. Nitrous oxide (N2O)",
+                    "b. Halothane",
+                    "c. Methoxyflurane",
+                    "d. Enflurane",
+                    "e. Morphine"
+                ]
+            },
+            "answer": {
+                "Possible worsening of distention in bowel obstruction": "a"
+            },
+            "explanation": "- Nitrous oxide (N₂O) is a common inhalation analgesic, but its high minimum alveolar anesthetic concentration (MAC > 100) means true anesthesia at 1 atm cannot be achieved without compromising oxygen delivery. Being 30 times more soluble than nitrogen in blood, N₂O enters trapped air faster than nitrogen leaves, increasing trapped air volume, which can worsen bowel obstruction.\n- Halothane is a potent anesthetic (MAC 0.75) causing cardiovascular depression through various mechanisms, including direct myocardial muscle and peripheral vascular smooth muscle depression, and effects on medullary vasomotor centers and sympathetic ganglionic transmissions, leading to hypotension and decreased cardiac output.\n- Enflurane, a halogenated inhalation anesthetic (MAC 1.2), is similar to halothane but can induce electroencephalographic changes resembling epilepsy in some normal patients.\n- Methoxyflurane is the most potent and least volatile halogenated inhalation anesthetic (MAC 0.16), but its clinical use is limited by high nephrotoxicity risk from fluoride ions released during biodegradation.\n- Morphine, a potent narcotic, can potentiate analgesic effects of inhalation agents during general anesthesia and may cause histamine release, risking hypotension if given in a large bolus."
+        },
+        {
+            "id": "50",
+            "question_type": "msq",
+            "question": "100. A 74-year-old man has a 5-h elective operation for repair of an abdominal aortic aneurysm. He had a small myocardial infarction 3 years earlier. In the ICU on the first postoperative day, he may be ready for extubation and is receiving dobutamine by continuous infusion. (SELECT 5 METHODS)",
+            "options": [
+                "a. Arterial catheterization",
+                "b. Central venous catheterization",
+                "c. Pulmonary artery catheterization",
+                "d. Ventilation monitoring",
+                "e. Blood gas monitoring",
+                "f. Intracranial pressure monitoring",
+                "g. Metabolic monitoring",
+                "h. Continuous ECG monitoring"
+            ],
+            "answer": [
+                "A",
+                "C",
+                "D",
+                "E",
+                "H"
+            ],
+            "explanation": "- Extubation of an elderly patient after major abdominal vascular surgery requires accurate assessment of hemodynamic and respiratory factors.\n- The patient's cardiac history and need for inotropic support add complexity.\n- Ventilatory and blood gas monitoring determine readiness for respirator weaning.\n- Continuous blood pressure monitoring via arterial catheterization and pulmonary artery catheter readings assess volume status and ongoing inotropic support, crucial for fluid management before extubation.\n- Continuous ECG monitoring is essential due to high incidence of perioperative cardiac arrhythmias, especially atrial fibrillation, after surgery involving large fluid shifts.\n- For a healthy young patient with a ruptured spleen during emergency laparotomy, prolonged intubation beyond surgery is unlikely.\n- Hemodynamic support (pressors/inotropes) is usually not needed as the problem is pure volume loss (blood), manageable with rapid colloid and crystalloid administration.\n- Such a patient can be managed with a central venous catheter (or large-bore peripheral catheter if quick to place) and ECG/ventilatory monitoring during surgery.\n- Early discontinuation of physiological monitoring is expected if hemorrhage is controlled.\n- Chronically ill patients, like brain-injured patients in vegetative states, need nutritional monitoring as they can't articulate needs.\n- Caloric expenditure can be estimated non-invasively using body surface area, age, and sex (Harris-Benedict equation).\n- More accurate assessment, especially in accelerated metabolic states, uses oxygen consumption and carbon dioxide production measurements.\n- A patient with blunt head trauma requiring repeated surgeries for intracranial bleeding will likely need intracranial pressure monitoring.\n- Other indications for intracranial pressure monitoring include subarachnoid hemorrhage, hydrocephalus, postcraniotomy, and Reye syndrome.\n- ECG monitoring can also be helpful, as increasing intracranial pressure may be presaged by bradycardia."
+        },
+        {
+            "id": "51",
+            "question_type": "msq",
+            "question": "101. A 22-year-old rugby player is rushed to the operating room because of abdominal tenderness, tachycardia, and hypotension following a collision with another player. He is otherwise healthy. At exploration a significant hemoperitoneum is found due to a ruptured spleen. (SELECT 3 METHODS)",
+            "options": [
+                "a. Arterial catheterization",
+                "b. Central venous catheterization",
+                "c. Pulmonary artery catheterization",
+                "d. Ventilation monitoring",
+                "e. Blood gas monitoring",
+                "f. Intracranial pressure monitoring",
+                "g. Metabolic monitoring",
+                "h. Continuous ECG monitoring"
+            ],
+            "answer": [
+                "B",
+                "D",
+                "H"
+            ],
+            "explanation": "- Extubation of an elderly patient after major abdominal vascular surgery requires accurate assessment of hemodynamic and respiratory factors.\n- The patient's cardiac history and need for inotropic support add complexity.\n- Ventilatory and blood gas monitoring determine readiness for respirator weaning.\n- Continuous blood pressure monitoring via arterial catheterization and pulmonary artery catheter readings assess volume status and ongoing inotropic support, crucial for fluid management before extubation.\n- Continuous ECG monitoring is essential due to high incidence of perioperative cardiac arrhythmias, especially atrial fibrillation, after surgery involving large fluid shifts.\n- For a healthy young patient with a ruptured spleen during emergency laparotomy, prolonged intubation beyond surgery is unlikely.\n- Hemodynamic support (pressors/inotropes) is usually not needed as the problem is pure volume loss (blood), manageable with rapid colloid and crystalloid administration.\n- Such a patient can be managed with a central venous catheter (or large-bore peripheral catheter if quick to place) and ECG/ventilatory monitoring during surgery.\n- Early discontinuation of physiological monitoring is expected if hemorrhage is controlled.\n- Chronically ill patients, like brain-injured patients in vegetative states, need nutritional monitoring as they can't articulate needs.\n- Caloric expenditure can be estimated non-invasively using body surface area, age, and sex (Harris-Benedict equation).\n- More accurate assessment, especially in accelerated metabolic states, uses oxygen consumption and carbon dioxide production measurements.\n- A patient with blunt head trauma requiring repeated surgeries for intracranial bleeding will likely need intracranial pressure monitoring.\n- Other indications for intracranial pressure monitoring include subarachnoid hemorrhage, hydrocephalus, postcraniotomy, and Reye syndrome.\n- ECG monitoring can also be helpful, as increasing intracranial pressure may be presaged by bradycardia."
+        },
+        {
+            "id": "52",
+            "question_type": "msq",
+            "question": "102. A comatose 28-year-old woman who sustained a depressed skull fracture in an automobile collision receives enteral nutrition via a nasoenteric feeding tube. She has been unconscious for 6 wk. Her vital signs are stable and she breathes room air. Following her initial decompressive craniotomy, she has returned to the operating room twice for intracranial bleeding. (SELECT 3 METHODS)",
+            "options": [
+                "a. Arterial catheterization",
+                "b. Central venous catheterization",
+                "c. Pulmonary artery catheterization",
+                "d. Ventilation monitoring",
+                "e. Blood gas monitoring",
+                "f. Intracranial pressure monitoring",
+                "g. Metabolic monitoring",
+                "h. Continuous ECG monitoring"
+            ],
+            "answer": [
+                "F",
+                "G",
+                "H"
+            ],
+            "explanation": "- Extubation of an elderly patient after major abdominal vascular surgery requires accurate assessment of hemodynamic and respiratory factors.\n- The patient's cardiac history and need for inotropic support add complexity.\n- Ventilatory and blood gas monitoring determine readiness for respirator weaning.\n- Continuous blood pressure monitoring via arterial catheterization and pulmonary artery catheter readings assess volume status and ongoing inotropic support, crucial for fluid management before extubation.\n- Continuous ECG monitoring is essential due to high incidence of perioperative cardiac arrhythmias, especially atrial fibrillation, after surgery involving large fluid shifts.\n- For a healthy young patient with a ruptured spleen during emergency laparotomy, prolonged intubation beyond surgery is unlikely.\n- Hemodynamic support (pressors/inotropes) is usually not needed as the problem is pure volume loss (blood), manageable with rapid colloid and crystalloid administration.\n- Such a patient can be managed with a central venous catheter (or large-bore peripheral catheter if quick to place) and ECG/ventilatory monitoring during surgery.\n- Early discontinuation of physiological monitoring is expected if hemorrhage is controlled.\n- Chronically ill patients, like brain-injured patients in vegetative states, need nutritional monitoring as they can't articulate needs.\n- Caloric expenditure can be estimated non-invasively using body surface area, age, and sex (Harris-Benedict equation).\n- More accurate assessment, especially in accelerated metabolic states, uses oxygen consumption and carbon dioxide production measurements.\n- A patient with blunt head trauma requiring repeated surgeries for intracranial bleeding will likely need intracranial pressure monitoring.\n- Other indications for intracranial pressure monitoring include subarachnoid hemorrhage, hydrocephalus, postcraniotomy, and Reye syndrome.\n- ECG monitoring can also be helpful, as increasing intracranial pressure may be presaged by bradycardia."
+        },
+        {
+            "id": "53",
+            "question_type": "msq",
+            "question": "103. Prothrombin time (SELECT 5 FACTORS)",
+            "options": {
+                "items": [
+                    "Prothrombin time"
+                ],
+                "choices": [
+                    "a. Factor II",
+                    "b. Factor V",
+                    "c. Factor VII",
+                    "d. Factor VIII",
+                    "e. Factor IX",
+                    "f. Factor X",
+                    "g. Factor XI",
+                    "h. Factor XII",
+                    "i. Platelets",
+                    "j. Fibrinogen"
+                ]
+            },
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "F",
+                "J"
+            ],
+            "explanation": "- Prothrombin time (PT) measures coagulation speed in the extrinsic pathway.\n- It involves adding thromboplastin (tissue source) with calcium to plasma.\n- PT detects deficiencies in factors II, V, VII, X, and fibrinogen, and monitors patients on coumarin derivatives.\n- Even small amounts of heparin can artificially prolong clotting time, so accurate PT requires the patient to be heparin-free for at least 5 hours.\n- The partial thromboplastin time (PTT) measures the intrinsic pathway.\n- PTT is sensitive to defects in factors VIII, IX, XI, XII, and all extrinsic pathway factors, used to monitor heparinized patients.\n- Bleeding time assesses platelet interaction and plug formation, detecting qualitative and quantitative platelet function deficiencies.\n- Aspirin ingestion within 1 week alters bleeding time.\n- Thrombin time assesses qualitative fibrinogen abnormalities and the presence of fibrin polymerization inhibitors, measured by adding standard fibrin to plasma and recording clotting time."
+        },
+        {
+            "id": "54",
+            "question_type": "msq",
+            "question": "104. Partial thromboplastin time (SELECT 8 FACTORS)",
+            "options": {
+                "items": [
+                    "Partial thromboplastin time"
+                ],
+                "choices": [
+                    "a. Factor II",
+                    "b. Factor V",
+                    "c. Factor VII",
+                    "d. Factor VIII",
+                    "e. Factor IX",
+                    "f. Factor X",
+                    "g. Factor XI",
+                    "h. Factor XII",
+                    "i. Platelets",
+                    "j. Fibrinogen"
+                ]
+            },
+            "answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H"
+            ],
+            "explanation": "- Prothrombin time (PT) measures coagulation speed in the extrinsic pathway.\n- It involves adding thromboplastin (tissue source) with calcium to plasma.\n- PT detects deficiencies in factors II, V, VII, X, and fibrinogen, and monitors patients on coumarin derivatives.\n- Even small amounts of heparin can artificially prolong clotting time, so accurate PT requires the patient to be heparin-free for at least 5 hours.\n- The partial thromboplastin time (PTT) measures the intrinsic pathway.\n- PTT is sensitive to defects in factors VIII, IX, XI, XII, and all extrinsic pathway factors, used to monitor heparinized patients.\n- Bleeding time assesses platelet interaction and plug formation, detecting qualitative and quantitative platelet function deficiencies.\n- Aspirin ingestion within 1 week alters bleeding time.\n- Thrombin time assesses qualitative fibrinogen abnormalities and the presence of fibrin polymerization inhibitors, measured by adding standard fibrin to plasma and recording clotting time."
+        },
+        {
+            "id": "55",
+            "question_type": "msq",
+            "question": "105. Bleeding time (SELECT 1 FACTOR)",
+            "options": {
+                "items": [
+                    "Bleeding time"
+                ],
+                "choices": [
+                    "a. Factor II",
+                    "b. Factor V",
+                    "c. Factor VII",
+                    "d. Factor VIII",
+                    "e. Factor IX",
+                    "f. Factor X",
+                    "g. Factor XI",
+                    "h. Factor XII",
+                    "i. Platelets",
+                    "j. Fibrinogen"
+                ]
+            },
+            "answer": [
+                "I"
+            ],
+            "explanation": "- Prothrombin time (PT) measures coagulation speed in the extrinsic pathway.\n- It involves adding thromboplastin (tissue source) with calcium to plasma.\n- PT detects deficiencies in factors II, V, VII, X, and fibrinogen, and monitors patients on coumarin derivatives.\n- Even small amounts of heparin can artificially prolong clotting time, so accurate PT requires the patient to be heparin-free for at least 5 hours.\n- The partial thromboplastin time (PTT) measures the intrinsic pathway.\n- PTT is sensitive to defects in factors VIII, IX, XI, XII, and all extrinsic pathway factors, used to monitor heparinized patients.\n- Bleeding time assesses platelet interaction and plug formation, detecting qualitative and quantitative platelet function deficiencies.\n- Aspirin ingestion within 1 week alters bleeding time.\n- Thrombin time assesses qualitative fibrinogen abnormalities and the presence of fibrin polymerization inhibitors, measured by adding standard fibrin to plasma and recording clotting time."
+        }
+    ]
+}

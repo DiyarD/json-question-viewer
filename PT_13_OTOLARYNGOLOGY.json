@@ -1,0 +1,117 @@
+{
+    "chapter_name": "OTOLARYNGOLOGY",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "493. Which of the following statements concerning nasopharyngeal cancer is true?",
+            "options": [
+                "a. It has an unusually high incidence among Chinese",
+                "b. It occurs primarily after the sixth decade of life",
+                "c. It undergoes early metastasis to the lungs",
+                "d. The treatment of choice is wide surgical excision of the primary tumor",
+                "e. Initial evaluation should involve a biopsy of the primary tumor and neck nodes"
+            ],
+            "answer": "a",
+            "explanation": "- There is an unusually high incidence of carcinoma of the nasopharynx among Chinese.\n- In the early stages of the disease, metastases remain confined to the neck.\n- Diagnosis of nasopharyngeal cancer, which tends to arise in relatively young people, should be made by biopsy of the primary tumor.\n- Biopsy of the neck nodes should be avoided because implantation of the tumor in skin and subcutaneous tissue may occur.\n- Radiation therapy is the treatment of choice for the primary nasopharyngeal cancer.\n- Cervical metastases that remain clinically evident should be removed by a radical neck dissection."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "494. Severe maxillofacial trauma is often the result of high-velocity impact sustained in automobile or motorcycle accidents. Regarding these injuries, which of the following statements is true?",
+            "options": [
+                "a. Evaluation of the cervical spine should precede that of the facial injuries",
+                "b. Severe hemorrhage from the nasopharynx rarely occurs with LeFort fractures",
+                "c. Direct oral or nasotracheal intubation should be performed promptly to prevent airway obstruction",
+                "d. Standard facial x-ray series are preferable to computed tomography to assess facial fractures because they may be obtained in the emergency department, are performed faster, and are equally accurate",
+                "e. Definitive management of fractures of facial bones should not be delayed"
+            ],
+            "answer": "a",
+            "explanation": "- In patients with severe facial or mandibular trauma, airway difficulties may develop secondary to the effects of massive hemorrhage, tissue swelling, or associated laryngeal trauma.\n- A cricothyroidotomy is preferred over direct oral or nasotracheal intubation because it can be performed quickly without manipulation of the cervical spine or injured parts.\n- If prolonged postoperative airway problems are anticipated, the cricothyroidotomy may convert to a tracheostomy.\n- Evaluation of the cervical spine is a top priority and should be performed in any patient with head trauma prior to further facial studies.\n- Although most facial fractures can be diagnosed easily with a standard \"facial series,\" computed tomography (CT) is more accurate and allows assessment of areas (e.g., intracerebral contents) that cannot be evaluated by conventional techniques.\n- Therefore, in most centers, CT is presently the preferred method of evaluation for patients with severe maxillofacial trauma.\n- Maxillary fractures are categorized by the LeFort classification, and, unlike other facial fractures, are frequently associated with severe nasal and nasopharyngeal hemorrhage.\n- This may be treated with head elevation and ice compresses.\n- Nasal packing also affords good control of hemorrhage, and in extreme cases ligation or embolization of the internal maxillary artery may be necessary.\n- Definitive reduction and fixation of fractures may be delayed while other injuries and medical problems are addressed.\n- In addition to control of hemorrhage, initial management of facial fractures may include temporary stabilization, wound closure, and oral lavage with solutions containing antibiotics."
+        },
+        {
+            "id": "3",
+            "question_type": "mcq",
+            "question": "495. Which of the following statements regarding squamous cell carcinoma of the head and neck is true?",
+            "options": [
+                "a. Squamous cancers of the head and neck are caused by smoking tobacco rather than chewing tobacco",
+                "b. Chemotherapy rarely produces a response with pharyngeal carcinoma and is not employed",
+                "c. Squamous cancers of the nasopharynx are best treated by radiotherapy; surgery is reserved for lymph node metastases that have not responded to radiation",
+                "d. Squamous cancers of the oropharynx are best treated by radiotherapy; surgery is not recommended",
+                "e. For squamous cancers of the hypopharynx, radical neck dissection is performed only if lymph nodes are enlarged"
+            ],
+            "answer": "c",
+            "explanation": "- Squamous cell cancers of the head and neck appear to arise as a response to tobacco in general (including chewing tobacco), rather than just to cigarette smoking, especially when used in combination with alcohol ingestion.\n- Chemotherapy for squamous cell pharyngeal cancer has been used very successfully in childhood and adolescence, although its role in adult pharyngeal cancer is uncertain.\n- Treatment of nasopharyngeal squamous cell carcinoma is by radiation, followed by radical neck dissection if lymph node metastases have not been controlled.\n- Oropharyngeal cancers have responded equally well to surgery and radiation, and both treatments are routinely employed.\n- In the hypopharynx surgery is the optimal treatment, often supplemented by postoperative radiation therapy.\n- Surgery for hypopharyngeal cancers includes radical neck dissection because lymph node metastases occur frequently and are not well controlled by radiation alone."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "496. Pleomorphic adenomas (mixed tumors) of the salivary glands are characterized by which of the following?",
+            "options": [
+                "a. They occur most commonly on the lips, tongue, and palate",
+                "b. They grow rapidly",
+                "c. They rarely recur if simply enucleated",
+                "d. They present as rock-hard masses",
+                "e. They have no malignant potential"
+            ],
+            "answer": "a",
+            "explanation": "- There are approximately 400–700 minor salivary glands in the oral cavity.\n- Pleomorphic adenomas (mixed tumors) can occur in any of them.\n- These round tumors have a rubbery consistency and are slow-growing; all are potentially malignant.\n- Unless adequately excised, they tend to recur locally in a high percentage of cases.\n- The sites most commonly affected by pleomorphic adenomas of the salivary glands are the lips, tongue, and palate."
+        },
+        {
+            "id": "5",
+            "question_type": "mcq",
+            "question": "497. Which of the following statements about branchial cleft anomalies is true?",
+            "options": [
+                "a. A fistula that lies between the external auditory canal and the submandibular region originates from the second branchial cleft",
+                "b. The course of the first branchial cleft fistula is through the bifurcation of the carotid artery",
+                "c. Injury to the hypoglossal nerve may occur during excision of a second branchial cleft fistula",
+                "d. The internal opening of the second branchial cleft fistula is usually found in the maxillary sinus",
+                "e. The internal opening of the first branchial cleft cyst is just underneath the base of the tongue"
+            ],
+            "answer": "c",
+            "explanation": "- Branchial cleft cysts, sinuses, and fistulas are remnants of the first and second branchial pouches.\n- The internal opening of the first is the external auditory canal; for the second, it is the posterolateral pharynx below the tonsillar fossa.\n- The facial nerve may be injured during dissection of the first fistula.\n- The second fistula passes between the carotid bifurcation and adjacent to the hypoglossal nerve.\n- In childhood most branchial cleft anomalies present as a painless nodule along the lateral border of the sternocleidomastoid muscle.\n- In adults, superinfection of the cyst or fistulous drainage via an orifice in the supraclavicular region may occur.\n- Treatment is surgical excision."
+        },
+        {
+            "id": "6",
+            "question_type": "mcq",
+            "question": "498. Which of the following statements regarding symptomatic thyroglossal duct cysts is true?",
+            "options": [
+                "a. Over 90% manifest themselves before age 12",
+                "b. Treatment includes resection of the hyoid bone",
+                "c. They usually present as a painful swelling in the lateral neck",
+                "d. Approximately 10–15% contain malignant elements",
+                "e. They rarely become infected"
+            ],
+            "answer": "b",
+            "explanation": "- Thyroglossal duct cysts result from retention of an epithelial tract between the thyroid and its embryologic origin in the foramen cecum at the base of the tongue.\n- This tract usually penetrates the hyoid bone.\n- There is no sex predilection, and although these cysts are more frequently detected in children, up to 25% do not become symptomatic until adulthood.\n- The most common presentation is a painless swelling in the midline of the neck that moves with protrusion of the tongue or swallowing.\n- The cysts are prone to infection and progressive enlargement.\n- Although rare (less than 1%), epidermoid or papillary carcinomas do occur within thyroglossal duct cysts.\n- Surgical resection is the standard therapy.\n- The Sistrunk procedure, which involves local resection of the cyst and the central portion of the hyoid bone, is the operation of choice.\n- Simple excision of the cyst results in an unacceptably high recurrence rate."
+        },
+        {
+            "id": "7",
+            "question_type": "mcq",
+            "question": "499. Which of the following statements regarding cancer of the tongue is true?",
+            "options": [
+                "a. Carcinomas at the base of the tongue are best treated by irradiation alone rather than surgery",
+                "b. Stage I and stage II cancers of the mobile tongue are treated more effectively by irradiation than by surgery",
+                "c. Cancer of the tongue is usually advanced to stage III by the time it is diagnosed",
+                "d. Prophylactic irradiation of the neck nodes is indicated in patients whose primary cancer of the tongue is treated by irradiation",
+                "e. Cancer of the tongue is the third most common malignancy of the oral cavity"
+            ],
+            "answer": "d",
+            "explanation": "- Cancer of the tongue is the most common malignant tumor in the oral cavity and accounts for slightly less than one-third of the malignancies in the area.\n- About two-thirds of cases present as early lesions in the mobile anterior portion of the tongue.\n- Most workers in the field agree that for these stage I and stage II lesions, surgery and irradiation give equivalent results (45% 5-year survival), and the treatment should therefore be tailored to the patient.\n- Failures are almost always due to supraclavicular recurrence and many recommend excision of the radiation scar and prophylactic irradiation of the neck nodes, particularly in the stage II and stage IV tumors in the base of the tongue, which have a poorer prognosis."
+        },
+        {
+            "id": "8",
+            "question_type": "mcq",
+            "question": "500. Verrucous carcinoma of the buccal mucosa is identified with which of the following characteristics?",
+            "options": [
+                "a. It is faster growing than the epidermoid form",
+                "b. It is not associated with tobacco chewing",
+                "c. It has a predilection for the gingivobuccal gutter",
+                "d. It rarely extends to the mandible",
+                "e. It has a dark-brown, flat, smooth border on presentation"
+            ],
+            "answer": "c",
+            "explanation": "- Verrucous carcinoma is a less aggressive form of locally invasive buccal cancer than the usual epidermoid form.\n- Its frequency is increased in people who chew tobacco.\n- The tumor usually grows very slowly, occurs chiefly in the gingivobuccal gutter, and has a tendency to invade bone.\n- It is identified by its characteristic exophytic, white, shaggy appearance.\n- Wide excision is the best initial treatment for this neoplasm.\n- Even though the tumor may regress in response to radiation, it tends to recur in a more malignant form with metastases.\n- Cervical metastases usually are not present when the lesion is first diagnosed; it is only for the most highly malignant grades of verrucous carcinoma that radical neck dissection and block excision of the cheek are indicated."
+        }
+    ]
+}

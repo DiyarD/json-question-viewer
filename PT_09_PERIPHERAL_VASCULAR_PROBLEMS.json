@@ -1,0 +1,542 @@
+{
+    "chapter_name": "PERIPHERAL VASCULAR PROBLEMS",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "421. Patients with phlebographi- cally confirmed deep vein throm- bosis of the calf",
+            "options": [
+                "a. Can expect asymptomatic recovery if treated promptly with anticoagu- lants",
+                "b. May be effectively treated with low- dose heparin",
+                "c. May be effectively treated with pneumatic compression stockings",
+                "d. May be effectively treated with acetylsalicylic acid",
+                "e. Are at risk for significant pulmonary embolism"
+            ],
+            "answer": "E",
+            "explanation": [
+                "Low-dose heparin and pneumatic compression stockings are effective prophylaxis against deep vein thrombosis, but not for established thrombosis.",
+                "Salicylate has not been convincingly shown to have either a prophylactic or therapeutic role in the treatment of deep vein thrombosis.",
+                "Even following prompt, aggressive treatment of deep vein thrombosis of the calf, as many as half of affected patients will develop symptoms of chronic venous hypertension, and a larger number will have abnormal venous hemodynamic findings.",
+                "Untreated vein thrombosis of the calf may propagate into the larger popliteal veins and cause life-threatening pulmonary embolism."
+            ]
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "422. For the first 6 h following surgical repair of a leaking abdomi- nal aortic aneurysm in a 70-year- old man, oliguria (total urinary output of 25 mL since the opera- tion) has become a concern. Of most diagnostic help would be",
+            "options": [
+                "a. Renal scan",
+                "b. Aortogram",
+                "c. Left heart preload pressures",
+                "d. Urinary sodium concentration",
+                "e. Creatinine clearance"
+            ],
+            "answer": "C",
+            "explanation": [
+                "By far the most likely cause of the oliguria observed in this patient is hypovolemia.",
+                "Volume status would be best assessed by floating a Swan-Ganz catheter to measure the preload pressures in the left atrium (by inference from the pulmonary capillary wedge pressures).",
+                "Patients who have had a leaking aneurysm and then a long, usually difficult operation with large surgical fields that collect \"third-space\" fluids may be intravascularly depleted despite large volumes of intravenous fluid and blood replacement.",
+                "The proper management usually involves titrating the cardiac output by providing as much fluid as necessary to keep the wedge pressures near 15 mm Hg.",
+                "The other studies listed might become useful if urinary flow remains depressed after optimal cardiac output has been achieved, but in view of the probability of hypovolemia, they are not indicated as a first diagnostic study."
+            ]
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "423. Following aortic reconstruc- tion, the viability of the sigmoid colon can most reliably be evaluated by",
+            "options": [
+                "a. Intraoperative measurement of inferior mesenteric artery stump pressure",
+                "b. Intraoperative Doppler arterial sig- nal in the sigmoid mesentery",
+                "c. Intraoperative observation of bowel peristalsis",
+                "d. Postoperative sigmoidoscopy",
+                "e. Postoperative barium enema"
+            ],
+            "answer": "D",
+            "explanation": [
+                "Viability of the colon can be evaluated intraoperatively by Doppler auscultation of the bowel mesentery and serosa, observation of bowel peristalsis, and measurement of the IMA stump pressure.",
+                "A strong, pulsatile Doppler signal in the mesentery; active sigmoid peristalsis; a chronically occluded IMA; or a patent IMA with stump pressure greater than 40 mm Hg presage viability of the sigmoid colon postoperatively.",
+                "However, none of these observations excludes the possibility of late sigmoid ischemia.",
+                "Serial postoperative sigmoidoscopic examination is the best predictor of ischemic colitis and in experienced hands allows assessment of the depth of ischemic injury before frank perforation has occurred.",
+                "Barium enema is not as accurate as sigmoidoscopy in determining depth of injury and carries grave risks of contamination by barium and feces if perforation occurs."
+            ]
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "424. A 25-year-old woman presents to the emergency room complaining of redness and pain in her right foot up to the level of the midcalf. She reports that her right leg has been swollen for at least 15 years, but her left leg has been normal. On physical examination she has a temperature of 39°C (102.2°F). The left leg is normal. The right leg is not tender, but it is swollen from the inguinal ligament down and there is an obvious cellulitis of the right foot. The patient's underlying problem is",
+            "options": [
+                "a. Popliteal entrapment syndrome",
+                "b. Acute arterial insufficiency",
+                "c. Primary lymphedema",
+                "d. Deep venous thrombosis",
+                "e. None of the above"
+            ],
+            "answer": "C",
+            "explanation": [
+                "This patient is at high risk for developing cellulitis of her right foot because her underlying problem is unilateral primary lymphedema.",
+                "Hypoplasia of the lymphatic system of the lower extremity accounts for greater than 90% of patients with primary lymphedema.",
+                "If edema is present at birth it is referred to as congenital; if it starts early in life (as in this woman) it is called praecox; and if it appears after age 35 it is tarda.",
+                "The inadequacy of the lymphatic system accounts for the repeated episodes of cellulitis that these patients experience.",
+                "Swelling is not seen with acute arterial insufficiency or with popliteal entrapment syndrome.",
+                "Deep venous thrombophlebitis will result in tenderness and is generally not a predisposing factor for cellulitis of the foot."
+            ]
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "425. A 76-year-old woman is admitted with back pain and hypotension. A CT scan (shown below) is obtained, and the patient is taken to the oper- ating room. Three days after resection of a ruptured abdominal aortic aneurysm, she complains of severe, dull left flank pain and passes bloody mucus per rectum. The diagnosis that must be immediately considered is",
+            "options": [
+                "a. Staphylococcal enterocolitis",
+                "b. Diverticulitis",
+                "c. Bleeding AV malformation",
+                "d. Ischemia of the left colon",
+                "e. Bleeding colonic carcinoma"
+            ],
+            "answer": "D",
+            "explanation": [
+                "The CT scan reveals a fractured ring of calcification in the abdominal aorta with significant density in the paraaortic area.",
+                "The inferior mesenteric artery (IMA) is always at risk in patients with the changes in the vessel wall characteristic of abdominal aneurysms, but particularly so in the presence of rupture and retroperitoneal dissection of blood under systemic arterial pressures.",
+                "The incidence of ischemic colitis following abdominal aortic resection is about 2%.",
+                "Blood flow to the left colon normally derives from the IMA with collateral flow from the middle and inferior hemorrhoidal vessels.",
+                "The superior mesenteric artery (SMA) may also contribute via the marginal artery of Drummond.",
+                "If the SMA is stenotic or occluded, flow to the left colon will be primarily dependent on an intact IMA.",
+                "The IMA is usually ligated at the time of aneurysmorrhaphy.",
+                "Those patients at highest risk for diminished flow through collateral vessels are those with a history of visceral angina, those found to have a patent IMA at the time of operation, patients who have suffered an episode of hypotension following rupture of an aneurysm, those in whom preoperative angiograms reveal occlusion of the SMA, and those in whom Doppler flow signals along the mesenteric border cease following occlusion of the IMA.",
+                "Recognition of bowel ischemia at the time of operation should be treated by reimplantation of the IMA into the graft to restore flow."
+            ]
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "426. The angiogram depicted below is most typical of the patient whose his- tory includes",
+            "options": [
+                "a. Cigarette smoking",
+                "b. Alcoholism",
+                "c. Hypertension",
+                "d. Diabetes",
+                "e. Type I hyperlipoproteinemia"
+            ],
+            "answer": "A",
+            "explanation": [
+                "The angiogram presented in the question demonstrates an isolated segment of atherosclerotic occlusion of the superficial femoral artery.",
+                "Patients who have isolated femoropopliteal disease tend to be smokers, whereas those who have isolated tibioperoneal disease frequently are diabetic.",
+                "Hypertension and hyperlipidemia predispose to accelerated atherosclerosis.",
+                "Type I hyperlipoproteinemia (hyperchylomicronemia), which is associated with dramatic levels of plasma triglyceride and formation of xanthomas, does not cause accelerated vascular disease."
+            ]
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "427. An 80-year-old man is found to have an asymptomatic abdomi- nal mass. An arteriogram is ob- tained, which is pictured below. This patient should be advised that",
+            "options": [
+                "a. Surgery should be performed, but a mortality of 20% is to be antici- pated",
+                "b. Surgery should be performed only if symptoms develop",
+                "c. Surgery will improve his 5-year survival",
+                "d. Surgery this extensive should not be performed in a patient of his age",
+                "e. Surgery should be performed only if follow-up ultrasound demon- strates increasing size"
+            ],
+            "answer": "C",
+            "explanation": [
+                "Most abdominal aortic aneurysms are asymptomatic and are discovered on palpation by a physician.",
+                "A radiograph of the abdomen is useful in demonstrating the aneurysm if there is calcification in the walls.",
+                "Ultrasound is generally the first diagnostic procedure in confirming the presence of an aneurysm, with arteriography being performed if the aneurysm is considered large enough to require resection (greater than 5 cm in diameter).",
+                "Recently CT scan has been found to be useful as a preoperative study in patients suspected of having aneurysms.",
+                "Surgery should be performed despite the absence of symptoms and can be carried out with a mortality of less than 5%.",
+                "With leaking or ruptured aneurysms, the operative mortality associated with this emergency situation is upward of 75%.",
+                "The patient's age is not a contraindication to surgery, because several studies have demonstrated a low mortality (less than 5%) and satisfactory long-term survival and quality of life in elderly, even octogenarian, patients."
+            ]
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "428. A 75-year-old man is found by his internist to have an asympto- matic carotid bruit. The best initial diagnostic examination would be",
+            "options": [
+                "a. Transcranial Doppler studies",
+                "b. Doppler ultrasonography (duplex)",
+                "c. Spiral CT angiography",
+                "d. Arch aortogram with selective carotid artery injections",
+                "e. Magnetic resonance arteriogram (MRA)"
+            ],
+            "answer": "B",
+            "explanation": [
+                "Doppler ultrasonography (duplex) has become the best initial test for screening patients with carotid disease.",
+                "It has become a highly accurate test, often obviating the need for carotid arteriography prior to carotid endarterectomy.",
+                "Carotid arteriography remains the \"gold standard\" when quantifying the degree of carotid stenosis, but it is usually performed after noninvasive testing suggests significant stenosis.",
+                "Spiral CT angiography is a new noninvasive modality that has been used to evaluate many segments of the vascular tree, but as yet its accuracy does not approach that of standard arteriography and it would certainly not be used in the initial evaluation of a patient with an asymptomatic bruit.",
+                "Magnetic resonance arteriography (MRA) is also a relatively new modality that has enjoyed moderate success in the investigation of carotid disease.",
+                "Although not quite as accurate as standard arteriography, it has been used in conjunction with the duplex as a complementary study.",
+                "Once again, because of its cost, MRA would not be used as the primary screening modality.",
+                "Transcranial Doppler studies are used to assess the intracranial vasculature."
+            ]
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "429. An arteriogram on the above patient is shown below. The patient has mild hypertension and mild COPD. The current recommenda- tion for this man would be",
+            "options": [
+                "a. Medical therapy with aspirin 325 mg/day and medical risk factor management",
+                "b. Medical therapy with warfarin",
+                "c. Angioplasty of the carotid lesion followed by carotid endarterectomy if the angioplasty is unsuccessful",
+                "d. Carotid endarterectomy",
+                "e. Medical risk factor management and carotid endarterectomy if neu- rologic symptoms develop"
+            ],
+            "answer": "D",
+            "explanation": [
+                "In a recent prospective, randomized, multicenter trial (Asymptomatic Carotid Atherosclerosis Study) involving 1662 patients, those with asymptomatic carotid artery stenosis of 60% or greater reduction in diameter and whose general health made them good candidates for elective surgery were found to have a significant reduction in the 5-year risk for ipsilateral stroke with surgery compared with medically treated cohorts (5.1 vs. 11.0%).",
+                "Medically treated patients were treated with aspirin on a daily basis.",
+                "Warfarin has not been shown to be effective in the management of patients with carotid disease.",
+                "Angioplasty of carotid stenoses is being performed in some institutions on a purely investigational basis and to date has not replaced surgery as the treatment for high-grade carotid stenoses."
+            ]
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "430. A 55-year-old man with recent onset of atrial fibrillation pre- sents with a cold, pulseless left lower extremity. He complains of left leg paresthesia and is unable to dorsiflex his toes. Following a suc- cessful popliteal embolectomy, with restoration of palpable pedal pulses, the patient is still unable to dorsi- flex his toes. The next step in man- agement should be",
+            "options": [
+                "a. Electromyography (EMG)",
+                "b. Measurement of anterior compart- ment pressure",
+                "c. Elevation of the left leg",
+                "d. Immediate fasciotomy",
+                "e. Application of a posterior splint"
+            ],
+            "answer": "D",
+            "explanation": [
+                "This case illustrates two conditions leading to anterior compartment syndrome: acute arterial occlusion without collateral inflow and rapid reperfusion of ischemic muscle.",
+                "Treatment for a compartment syndrome is prompt fasciotomy.",
+                "Assessing a compartment syndrome and proceeding with fasciotomy are generally based on clinical judgment.",
+                "Inability to dorsiflex the toes is a grave sign of anterior compartment ischemia.",
+                "EMG studies and compartment pressure measurements would probably be abnormal, but are unnecessary in view of the known findings and would delay treatment.",
+                "Mere elevation of the leg would be an ineffective means of relieving compartment pressure, although elevation should accompany fasciotomy.",
+                "Application of a splint has no role in the acute management of this problem."
+            ]
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "431. Conservative management rather than reconstructive arterial surgery is generally recommended for patients with which of the fol- lowing symptoms or signs of arte- rial insufficiency?",
+            "options": [
+                "a. Ischemic ulceration",
+                "b. Ischemic neuropathy",
+                "c. Claudication",
+                "d. Nocturnal foot pain",
+                "e. Toe gangrene"
+            ],
+            "answer": "C",
+            "explanation": [
+                "The major threat to patients with arterial occlusive disease is limb loss.",
+                "Ischemic ulceration, neuropathy, rest pain, and gangrene represent advanced stages of arterial insufficiency and warrant reconstructive surgery whenever clinically feasible.",
+                "Claudication, in most cases, reflects mild ischemia; the majority of affected patients are successfully managed without surgery (only 2.5% develop gangrene).",
+                "Most will stabilize or improve with development of increased collateral blood flow following institution of a program of daily exercise, cessation of smoking, and weight loss.",
+                "Vasodilator drugs have been shown to have little benefit in the conservative management of intermittent claudication."
+            ]
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "432. Correct statements concern- ing antiplatelet therapy include",
+            "options": [
+                "a. Aspirin has been shown to be an effective antiplatelet agent",
+                "b. Most antiplatelet agents work by enhancing prostaglandin synthesis",
+                "c. Antiplatelet agents have not been shown to increase patency rates of coronary artery bypass grafts",
+                "d. Aspirin can be used to treat deep venous thrombophlebitis",
+                "e. The antiplatelet effect of aspirin will last for the life of the platelet, which is generally 20–25 days"
+            ],
+            "answer": "A",
+            "explanation": [
+                "Aspirin exerts an antiplatelet effect that will last for the life of the platelet (approximately 7–10 days).",
+                "Patients who take aspirin will experience its effect for 7–10 days after stopping the medication.",
+                "Aspirin interferes with platelet function by inhibiting the synthesis of thromboxane A2 and the subsequent production of prostaglandins.",
+                "The platelet does not have a nucleus and thus cannot remanufacture the prostaglandins necessary for its functioning.",
+                "Antiplatelet agents are generally used to prevent thrombotic and embolic events on the arterial side of the circulation.",
+                "The Canadian Cooperative Study has shown antiplatelet therapy to be effective in preventing strokes in men with carotid artery disease, but it is not used to treat thrombophlebitis in the deep venous system.",
+                "Antiplatelet therapy has been shown to increase graft patency rates following coronary artery bypass grafting if the medication is started preoperatively and continued postoperatively."
+            ]
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "433. The subclavian steal syn- drome is associated with which of the following hemodynamic abnor- malities?",
+            "options": [
+                "a. Antegrade flow through a vertebral artery",
+                "b. Venous congestion of upper extremities",
+                "c. Occlusion of the carotid artery",
+                "d. Occlusion of the vertebral artery",
+                "e. Occlusion of the subclavian artery"
+            ],
+            "answer": "E",
+            "explanation": [
+                "Atherosclerotic occlusion of the subclavian artery proximal to the vertebral artery is the anatomic situation that results in the subclavian steal syndrome.",
+                "On being subjected to exercise, the involved extremity (usually left) develops relative ischemia, which gives rise to reversal of flow through the vertebral artery with consequent diminished flow to the brain.",
+                "The upper extremity symptom is intermittent claudication.",
+                "Venous occlusive disease is not a feature of the syndrome.",
+                "The operative procedure for treating the subclavian steal syndrome consists of delivering blood to the extremity by creating either a carotid-subclavian bypass or a subclavian-carotid transposition."
+            ]
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "434. Symptoms or signs of athero- sclerotic occlusive disease of the bifurcation of the abdominal aorta (Leriche syndrome) include",
+            "options": [
+                "a. Claudication of the buttock and thigh",
+                "b. Causalgia of the lower leg",
+                "c. Retrograde ejaculation",
+                "d. Gangrene of the feet",
+                "e. Dependent rubor of the feet"
+            ],
+            "answer": "A",
+            "explanation": [
+                "The slow progression of aortoiliac atherosclerotic occlusive disease is usually associated with the development of collateral flow through the lumbar branches of the aorta, anastomosing via retroperitoneal branches of the gluteal arteries with the profunda femoris arteries in the legs.",
+                "This network of collateral vessels provides sufficient blood flow to nourish the extremities at rest but cannot prevent claudication of the upper and lower muscle groups of the leg during exercise.",
+                "Sexual impotence, also part of the Leriche syndrome, is believed to be a result of bilateral stenosis or occlusion of the hypogastric (internal iliac) arteries.",
+                "Retrograde ejaculation can occur after disruption of the sympathetic chain overlying the distal aorta and left iliac and can occur after dissection around these vessels during vascular reconstructions.",
+                "Gangrene of the feet or toes is rarely seen unless distal embolization of atherosclerotic material from the aorta occludes the pedal or digital arteries.",
+                "Dependent rubor is usually a sign of significant ischemia resulting from lower extremity occlusive and not aortoiliac disease.",
+                "Causalgia or reflex sympathetic dystrophy is a disorder of the sympathetic nervous system that can affect the upper or lower extremities."
+            ]
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "435. Among patients with sus- pected (occult) coronary artery disease, the occurrence of post- operative ischemic cardiac events following peripheral vascular surgery correlates closely with abnormal preoperative",
+            "options": [
+                "a. Exercise stress testing",
+                "b. Gated blood pool studies that demonstrate an ejection fraction of 50% or less",
+                "c. Coronary angiography",
+                "d. Dipyridamole-thallium imaging",
+                "e. Transesophageal echocardiography"
+            ],
+            "answer": "D",
+            "explanation": [
+                "The occurrence of perioperative ischemic cardiac events among patients undergoing peripheral vascular reconstruction has been found to correlate with gated blood pool ejection fractions of 35% or less and with reversible perfusion defects (thallium redistribution) on dipyridamole-thallium imaging.",
+                "Ischemic rest pain or early onset of claudication after minimal exercise limits the effectiveness of stress testing as a screening procedure for occult coronary artery disease in this group of patients.",
+                "Screening coronary angiography, followed by angioplasty or bypass of asymptomatic lesions, had an adverse effect on patient survival in a large prospective study of patients who had peripheral vascular surgery.",
+                "Transesophageal echocardiography has no role in the preoperative screening of peripheral vascular patients."
+            ]
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "436. A 64-year-old man is admit- ted 14 mo following a femoropop- liteal bypass graft procedure with a cold foot and no graft pulse. Uroki- nase infusion is begun. Which of the following statements regarding management is true?",
+            "options": [
+                "a. Clot lysis is accomplished in 25% of patients",
+                "b. After successful clot lysis, surgical revision of the opened graft should be considered only if early reocclu- sion occurs",
+                "c. With optimal treatment, a 20% reocclusion rate is expected within 1 year",
+                "d. Urokinase is less successful in lysing acute thromboses of pros- thetic grafts than those of vein grafts",
+                "e. Streptokinase is the preferred thrombolytic agent when treating graft occlusions"
+            ],
+            "answer": "C",
+            "explanation": [
+                "Management of acute graft occlusion must include both reestablishment of peripheral perfusion and correction of any underlying hemodynamic problem.",
+                "Urokinase is associated with fewer allergic reactions than streptokinase and is the preferred thrombolytic agent.",
+                "Treatment results in total clot lysis in 75% of patients.",
+                "However, high reocclusion rates are observed (20% within 1 year) even if angioplasty or anastomotic revision is performed after successful lysis.",
+                "Without surgical revision following clot lysis, a 50% reocclusion rate is expected within 3 mo.",
+                "Urokinase has proved equally successful in opening both vein and prosthetic graft thromboses."
+            ]
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "437. A 60-year-old man is admit- ted to the coronary care unit with a large anterior wall myocardial infarction. On his second hospital day he begins to complain of the sudden onset of numbness in his right foot and an inability to move his right foot. On physical exami- nation, the right femoral, popliteal, and pedal pulses are no longer pal- pable. Vascular consultation is obtained. Diagnosis of acute arter- ial embolus is made. Which of the following statements concerning this condition is true?",
+            "options": [
+                "a. Appropriate management would be embolectomy of the right femoral artery under general anesthesia",
+                "b. Noninvasive hemodynamic testing is required",
+                "c. Prophylactic exploration of the contralateral femoral artery should be done despite the presence of a normal pulse",
+                "d. The source of the embolus is most likely the left ventricle",
+                "e. Arteriography is mandatory prior to operative intervention"
+            ],
+            "answer": "D",
+            "explanation": [
+                "The heart is the most common source of arterial emboli and accounts for 90% of cases.",
+                "Within the heart, sources include diseased valves, endocarditis, the left atrium in patients with unstable atrial arrhythmias, and mural thrombus on the wall of the left ventricle in patients with a myocardial infarction.",
+                "The diagnosis in this patient is clear, and therefore neither noninvasive testing nor arteriography is indicated.",
+                "Arteriography in fact may also prove to be too stressful for a patient undergoing an acute myocardial infarction.",
+                "Embolectomy of the femoral artery can be performed under local anesthesia with minimal risk to the patient.",
+                "Emboli typically lodge in one femoral artery; contralateral exploration is not indicated in the absence of signs or symptoms.",
+                "One should always prepare the contralateral groin in case flow is not restored via simple thrombectomy and femoral-femoral bypass is needed to provide inflow to the affected limb."
+            ]
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "438. Which of the following state- ments concerning the condition depicted on the arteriogram shown below is true?",
+            "options": [
+                "a. Surgery should be performed only if the patient is symptomatic",
+                "b. Limb loss is a definite risk in the untreated patient",
+                "c. The contralateral limb is affected in a similar fashion in over 75% of cases",
+                "d. Embolization is unlikely",
+                "e. Bleeding into the leg is the most common presentation"
+            ],
+            "answer": "B",
+            "explanation": [
+                "Popliteal aneurysms are usually due to atherosclerosis, are bilateral 25% of the time, and require excision even if asymptomatic.",
+                "Because of the risk of embolization (60-70%) and thrombosis with resultant gangrene, as well as the lesser risk of rupture, all of which lead to substantial likelihood of limb loss, even relatively small, asymptomatic aneurysms should be excised when discovered.",
+                "Rupture of the aneurysm can occur but is an uncommon presentation compared with embolization."
+            ]
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "439. A 65-year-old male cigarette smoker reports onset of claudication of his right lower extremity approximately 3 wk previously. His walking radius is limited to three blocks before the onset of claudication. Physical examination reveals palpable pulses in the entire left lower extremity, but no pulses are palpable below the right groin level. Noninvasive flow stud- ies are obtained, which are pictured below. Which of the following state- ments regarding this patient's condition is true?",
+            "options": [
+                "a. Femoropopliteal bypass is indicated on a relatively urgent basis in order to sal- vage the right leg",
+                "b. The occlusive process is in the right superficial femoral artery, with flow to the right foot supplied by the profunda femoris artery",
+                "c. About one-half of patients with similar symptoms will ultimately require ampu- tation",
+                "d. The occlusive process is most likely caused by embolic disease",
+                "e. The noninvasive studies suggest iliac as well as superficial femoral occlusive disease on the right side"
+            ],
+            "answer": "B",
+            "explanation": [
+                "This patient has occlusion of the right superficial femoral artery caused by atherosclerosis, and this is confirmed by both the physical examination and the flow study findings, which indicate a sharp decrease in the blood pressure below the level of the common femoral artery.",
+                "Fewer than 10% of patients with claudication progress to gangrene and the need for amputation.",
+                "Operative therapy would not be suggested at this time because it is quite likely that with cessation of cigarette smoking and adherence to an exercise program, the patient could markedly improve his walking radius as collateral vessels enlarge to deliver more blood to the affected tissues.",
+                "Operative therapy (femoropopliteal bypass) would be indicated at this time in this patient only if symptoms of rest pain or ischemic ulceration were present.",
+                "Physical examination and flow studies indicate disease distal to the aortoiliac distribution."
+            ]
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "440. Indications for placement of the device pictured in the abdominal x-ray shown below include",
+            "options": [
+                "a. Recurrent pulmonary embolus despite adequate anticoagulation therapy",
+                "b. Axillary vein thrombosis",
+                "c. Pulmonary embolus in a patient with a perforated duodenal ulcer",
+                "d. Pulmonary embolus due to deep vein thrombosis of the lower extremity that occurs 2 wk postoperatively",
+                "e. Pulmonary embolus in a patient with metastatic pancreatic carcinoma"
+            ],
+            "answer": "A",
+            "explanation": [
+                "The Greenfield filter pictured on the x-ray is used to interrupt migration of emboli to the lungs from the veins below the level of the filter.",
+                "It is indicated in patients who sustain a recurrent pulmonary embolus despite adequate anticoagulant therapy or in patients with pulmonary emboli who cannot receive anticoagulants because of a contraindication (e.g., bleeding ulcer, intracranial hemorrhage).",
+                "The filter is not used in patients who sustain a single pulmonary embolus.",
+                "It is placed in the inferior vena cava just below the renal veins and therefore would not be effective for emboli that arise cephalad to its position.",
+                "Despite the hypercoagulable state seen in some patients with metastatic pancreatic cancer, anticoagulation can still be used as a first-line defense."
+            ]
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "441. Two days after admission to the hospital for a myocardial infarc- tion, a 65-year-old man complains of severe, unremitting midabdomi- nal pain. His cardiac index is 1.6. Physical examination is remarkable for an absence of peritoneal irrita- tion or distention despite the patient's persistent complaint of severe pain. Serum lactate is 9 (nor- mal less than 3). In managing this problem you should",
+            "options": [
+                "a. Perform computed tomography",
+                "b. Perform mesenteric angiography",
+                "c. Perform laparoscopy",
+                "d. Perform flexible sigmoidoscopy to assess the distal colon and rectum",
+                "e. Defer decision to explore the abdomen until the arterial lactate is greater than 10"
+            ],
+            "answer": "B",
+            "explanation": [
+                "Abdominal pain out of proportion to findings on physical examination is characteristic of intestinal ischemia.",
+                "The etiology of ischemia may be embolic or thrombotic occlusion of the mesenteric vessels or nonocclusive ischemia due to a low cardiac index or mesenteric vasospasm.",
+                "Differentiation among these etiologies is best made by mesenteric angiography.",
+                "While not without serious risks, angiography also offers the possibility of direct infusion of vasodilators into the mesenteric vasculature in the setting of nonocclusive ischemia.",
+                "This patient, with a recent myocardial infarction and a low cardiac index, is at risk for embolism of clot from a left ventricle mural thrombus as well as “low-flow” mesenteric ischemia.",
+                "If embolism or thrombosis is found angiographically (usually involving the superior mesenteric artery), operative embolectomy or vascular bypass is indicated to restore flow.",
+                "If occlusive disease cannot be demonstrated, efforts should be made to simultaneously increase cardiac output with inotropic agents and dilate the mesenteric vascular bed by angiographic instillation of papaverine, nitrates, or calcium channel blockers.",
+                "Computed tomography is not helpful in delineating the cause of intestinal ischemia because it does not provide a sufficiently detailed image of the mesenteric vessels.",
+                "Laparoscopy might secure the diagnosis of intestinal ischemia, but requires administering general anesthesia and would shed no light on the etiology of this patient's problem.",
+                "Flexible sigmoidoscopy, while useful in patients with ischemic colitis, has no role in the workup of mesenteric ischemia, which primarily involves the small intestine and right colon.",
+                "Serum lactate is helpful in raising the suspicion of intestinal ischemia, but no absolute level should be used to decide whether or not to explore a patient."
+            ]
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "442. During evaluation for the repair of an expanding abdomi- nal aortic aneurysm, a patient is discovered to have a horseshoe kidney. The optimum surgical ap- proach would be",
+            "options": [
+                "a. Midline abdominal incision, pres- ervation of the renal isthmus",
+                "b. Midline abdominal incision, divi- sion of the renal isthmus",
+                "c. Retroperitoneal approach, implan- tation of anomalous renal arteries",
+                "d. Nephrectomy, repair of aneurysm, chronic dialysis",
+                "e. Repair of aneurysm after autotrans- plantation of the kidney into the iliac fossa"
+            ],
+            "answer": "C",
+            "explanation": [
+                "A horseshoe kidney is a fused kidney that occupies space on both sides of the vertebral column.",
+                "The fusion is ordinarily at the lower poles with the isthmus anterior to the aorta.",
+                "The ureters run anterior to the isthmus and the kidney frequently has an anomalous blood supply.",
+                "The arterial supply to the kidney is highly variable with vessels arising not only from the normal position in the aorta but also from a variable number of accessory segmental end-arteries from the lower aorta and iliac arteries.",
+                "Most cases of abdominal aortic aneurysm associated with a horseshoe kidney can be successfully resected, but these anomalies make the repair challenging.",
+                "When the horseshoe kidney is recognized preoperatively, an arteriogram helps to define the vascular anatomy.",
+                "The preferred operative approach is then via a retroperitoneal dissection.",
+                "This allows the kidney and its collecting system to be swept anteromedially and provides relatively unobstructed access to the aneurysm.",
+                "All anomalous renal arteries should be implanted into the graft after the aneurysm sac is opened since the proportionate contribution from each may be hard to determine.",
+                "The renal isthmus and collecting system restrict access to the aneurysm and make the anterior approach less desirable.",
+                "Though division of the isthmus can be accomplished, there is high risk of calyceal or ureteral injury.",
+                "Given the numerous arterial, venous, and collecting system anomalies, autotransplantation of the kidney is not a good option.",
+                "The presence of the fresh intravascular foreign body (aortic graft) contraindicates dialysis because of the excessive risk of infecting the graft."
+            ]
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "443. Which statement regarding contrast venography is true?",
+            "options": [
+                "a. It is more accurate than Doppler analysis and B-mode ultrasound (duplex scan) at detecting thrombi in the deep veins responsible for pulmonary emboli",
+                "b. It identifies incompetent deep, superficial, and perforating veins",
+                "c. It is totally noninvasive, painless, and safe",
+                "d. It is easily performed in a vascular laboratory or radiology suite or at the bedside",
+                "e. It is particularly sensitive in identi- fying the proximal extent of an iliofemoral thrombus"
+            ],
+            "answer": "B",
+            "explanation": [
+                "Doppler analysis and B-mode ultrasonography (duplex scan) has virtually replaced venography as the first diagnostic test in the evaluation of deep venous thrombosis.",
+                "The duplex scanning device is portable and therefore the study is easily performed at the bedside, in a vascular laboratory, or in a radiology suite.",
+                "It is completely noninvasive, painless, and safe.",
+                "Venography, however, must be performed in a radiology suite, and requires the use of an intravenous contrast medium that is painful upon injection and is itself thrombogenic.",
+                "Incompetent deep, superficial, and perforating veins can be accurately identified by either venography or duplex scan.",
+                "Both venography and duplex scan are highly accurate in diagnosing deep venous thrombi that may result in pulmonary embolism.",
+                "But, significantly, contrast venography does not provide information regarding the proximal extent of an iliofemoral thrombus when it fails to fill the deep femoral system due to total occlusion by blood clot."
+            ]
+        },
+        {
+            "id": 24,
+            "question_type": "msq",
+            "question": "444. A 52-year-old man presents with severe pain in his left hip and buttocks while walking about 50 yd. The pain is relieved shortly after resting. The patient is other- wise healthy. He claims to have stopped smoking, after a long his- tory of cigarette abuse, approxi- mately 1 year prior to presentation. (SELECT 3 PROCEDURES)",
+            "options": [
+                "a. Femorofemoral bypass",
+                "b. Axillofemoral bypass",
+                "c. Femoropopliteal bypass",
+                "d. Common femoral and profunda femoral endarterectomies",
+                "e. Aorto-left-iliac bypass",
+                "f. Aortobifemoral bypass"
+            ],
+            "answer": [
+                "A",
+                "E",
+                "F"
+            ],
+            "explanation": [
+                "The arteriogram shown demonstrates a left iliac artery occlusion.",
+                "In a patient with severe symptoms that are interfering with his lifestyle, intervention is indicated.",
+                "In the young healthy patient with iliac artery occlusive disease, when angioplasty is not a treatment option, femoro-femoral and aortoiliac bypasses offer excellent long-term relief.",
+                "Femorofemoral bypass offers the additional benefit of not disturbing sexual function.",
+                "Both bypasses provide similar long-term patencies.",
+                "Aortobifemoral bypass, while clearly the most risky of the treatment options offered, provides the best long-term patency."
+            ]
+        },
+        {
+            "id": 25,
+            "question_type": "msq",
+            "question": "445. A 72-year-old woman with severe COPD that requires home oxygen is unable to ambulate inside her home without experi- encing severe left hip pain. She was hospitalized 1 year ago for a viral pneumonia and was ventilator dependent at that time for 6 wk. (SELECT 2 PROCEDURES)",
+            "options": [
+                "a. Femorofemoral bypass",
+                "b. Axillofemoral bypass",
+                "c. Femoropopliteal bypass",
+                "d. Common femoral and profunda femoral endarterectomies",
+                "e. Aorto-left-iliac bypass",
+                "f. Aortobifemoral bypass"
+            ],
+            "answer": [
+                "A",
+                "B"
+            ],
+            "explanation": [
+                "The arteriogram shown demonstrates a left iliac artery occlusion.",
+                "In a patient with severe symptoms that are interfering with his lifestyle, intervention is indicated.",
+                "In the elderly patient with severe COPD, so-called extraanatomic bypasses (femorofemoral or axillofemoral bypasses) offer fair long-term patencies while not subjecting the patient to the risks of general anesthesia."
+            ]
+        }
+    ]
+}

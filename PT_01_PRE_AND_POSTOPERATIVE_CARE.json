@@ -1,0 +1,705 @@
+{
+    "chapter_name": "PRE- AND POSTOPERATIVE CARE",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "1. A pregnant woman in her 32nd wk of gestation is given magnesium sulfate for pre-eclampsia. The earliest clinical indication of hypermagnesemia is",
+            "options": [
+                "a. Loss of deep tendon reflexes",
+                "b. Flaccid paralysis",
+                "c. Respiratory arrest",
+                "d. Hypotension",
+                "e. Stupor"
+            ],
+            "answer": "A",
+            "explanation": "*   States of magnesium excess are characterized by generalized neuromuscular depression.\n*   Clinically, severe hypermagnesemia is rarely seen except in patients with advanced renal failure treated with magnesium-containing antacids.\n*   Hypermagnesemia is intentionally produced by obstetricians using parenteral magnesium sulfate (MgSO4) to treat preeclampsia.\n*   MgSO4 is administered until depression of deep tendon reflexes is observed, a deficit that occurs with modest hypermagnesemia (over 4 meq/L).\n*   Greater elevations of magnesium produce progressive weakness, culminating in flaccid quadriplegia and in some cases respiratory arrest from paralysis of the chest bellows mechanism.\n*   Hypotension may occur due to the direct arteriolar relaxing effect of magnesium.\n*   Changes in mental status (somnolence progressing to coma) occur in late stages."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. Five days after an uneventful cholecystectomy, an asymptomatic middle-aged woman is found to have a serum sodium level of 120 meq/L. Proper management would be",
+            "options": [
+                "a. Administration of hypertonic saline solution",
+                "b. Restriction of free water",
+                "c. Plasma ultrafiltration",
+                "d. Hemodialysis",
+                "e. Aggressive diuresis with furosemide"
+            ],
+            "answer": "B",
+            "explanation": "*   Acute severe hyponatremia sometimes occurs following elective surgical procedures, usually from postoperative antidiuretic hormone stimulation and injudicious administration of excess free water.\n*   Totally sodium-free intravenous fluids (e.g., dextrose and water) should be given with great caution postoperatively, as resulting hyponatremia can be associated with sudden death or severe permanent brain damage.\n*   The condition is usually best treated by withholding free water and allowing the patient to reequilibrate spontaneously.\n*   At levels below 115 meq/L, seizures or mental obtundation may mandate treatment with hypertonic sodium solutions, which must be done with extreme care due to the high risk of fluid overload with acute pulmonary or cerebral edema."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. A 50-year-old patient presents with symptomatic nephrolithiasis. He reports that he underwent a jejunoileal bypass for morbid obesity when he was 39. One would expect to find",
+            "options": [
+                "a. Pseudohyperparathyroidism",
+                "b. Hyperuric aciduria",
+                "c. \"Hungry bone\" syndrome",
+                "d. Hyperoxaluria",
+                "e. Sporadic unicameral bone cysts"
+            ],
+            "answer": "D",
+            "explanation": "*   Any patient who has lost much of the ileum (whether from injury, disease, or elective surgery) is at high risk of developing enteric hyperoxaluria if the colon remains intact.\n*   Calcium oxalate stones will develop in at least 10% of these patients.\n*   The condition results from excessive absorption of oxalate from the colon through two related synergistic mechanisms:\n    *   Unabsorbed fatty acids combine with calcium, which prevents the formation of insoluble calcium oxalate and allows oxalate to remain available for colonic absorption.\n    *   Unabsorbed fatty acids and bile acids also increase the permeability of the colon to the oxalate."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. Following surgery, a patient develops oliguria. You believe the patient is hypovolemic, but before increasing intravenous fluids you seek corroborative data. This would include",
+            "options": [
+                "a. Urine sodium of 28 meq/L",
+                "b. Urine chloride of 15 meq/L",
+                "c. Fractional excretion of sodium less than 1",
+                "d. Urine/serum creatinine ratio of 20",
+                "e. Urine osmolality of 350 mOsm/kg"
+            ],
+            "answer": "C",
+            "explanation": "*   When oliguria occurs postoperatively, it is important to differentiate between low output caused by intravascular hypovolemia and acute tubular necrosis.\n*   The fractional excretion of sodium (FENa) is an especially useful test for differentiation.\n*   FENa values < 1% in an oliguric setting indicate aggressive sodium reclamation in the tubules, suggesting hypovolemia; values > 1% suggest tubular injury.\n*   FENa is calculated as: (urine Na × serum creatinine) ÷ (serum sodium × urinary creatinine).\n*   In postoperative hypovolemia, kidney efforts to retain volume would result in:\n    *   Urine sodium below 20 meq/L.\n    *   Urine chloride not helpful except in metabolically alkalotic patients.\n    *   Serum osmolality over 500 mOsm/kg.\n    *   Urine/serum creatinine ratio above 40."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "5. A 45-year-old woman with Crohn's disease and a small intestinal fistula develops tetany during the 2nd wk of parenteral nutrition. The laboratory findings include Ca 8.2 meq/L; Na 135 meq/L; K 3.2 meq/L; C1 103 meq/L; P04 2.4 meq/L; albumin 2.4; pH 7.48; 38 kPa; P 84 kPa; bicarbonate 25 meq/L. The most likely cause of the patient's tetany is",
+            "options": [
+                "a. Hyperventilation",
+                "b. Hypocalcemia",
+                "c. Hypomagnesemia",
+                "d. Essential fatty acid deficiency",
+                "e. Focal seizure"
+            ],
+            "answer": "C",
+            "explanation": "*   Magnesium deficiency is common in malnourished patients and those with large gastrointestinal fluid losses.\n*   Neuromuscular effects (paresthesia, hyperreflexia, muscle spasm, and ultimately tetany) resemble those of calcium deficiency.\n*   Cardiac effects are more like those of hypercalcemia; an electrocardiogram helps differentiate hypocalcemia and hypomagnesemia.\n*   Hypomagnesemia also causes potassium wasting by the kidney.\n*   Many hospital patients with refractory hypocalcemia are found to be magnesium deficient, often manifesting during parenteral nutrition when normal cellular ionic gradients are restored.\n*   A normal blood pH and arterial PCO2 rule out hyperventilation.\n*   The serum calcium in this patient is normal when adjusted for low albumin.\n*   Hypomagnesemia causes functional hypoparathyroidism, which can lower serum calcium and result in a combined defect."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. A patient with a nonobstructing carcinoma of the sigmoid colon is being prepared for elective resection. To minimize the risk of postoperative infectious complications, your planning should include",
+            "options": [
+                "a. A single preoperative parenteral dose of antibiotic effective against aerobes and anaerobes",
+                "b. Avoidance of oral antibiotics to prevent emergence of Clostridium difficile",
+                "c. Postoperative administration for 2-4 days of parenteral antibiotics effective against aerobes and anaerobes",
+                "d. Postoperative administration for 5-7 days of parenteral antibiotics effective against aerobes and anaerobes",
+                "e. Operative time less than 5 h"
+            ],
+            "answer": "C",
+            "explanation": "*   Optimal bowel preparation and preoperative regimen for elective colonic surgery aim to reduce postoperative infectious complications (wound infection, intraabdominal abscess, anastomotic leakage).\n*   A postoperative wound infection rate of only 5% can be achieved by combining mechanical cleansing, oral antibiotics, and perioperative parenteral antibiotics.\n*   The type of mechanical cleansing does not matter as long as it is effective.\n*   Preoperative oral antibiotics (e.g., neomycin-erythromycin) should be administered one or more days prior to surgery and cover aerobes and anaerobes.\n*   Parenteral antibiotics effective against aerobes and anaerobes (e.g., cefoxitin) should be administered on call to the operating room as a single dose and for no more than 24 hours postoperatively.\n*   Both antibiotic regimens provide maximum prophylaxis without fostering resistant microbial transformation.\n*   Procedures requiring operative time greater than 3 hours or involving the extraperitoneal rectum are associated with an increased risk of infectious complications."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "7. A 70-year-old man with aortic and mitral valvular regurgitation undergoes an emergency sigmoid colectomy and end colostomy for perforated diverticulitis. His postoperative course is complicated by a myocardial infarction and atrial fibrillation. Four weeks later, he has improved and requests elective colostomy closure. You would recommend",
+            "options": [
+                "a. Discontinuation of antiarrhythmic and antihypertensive medications on the morning of surgery",
+                "b. Discontinuation of beta-blocking medications on the day prior to surgery",
+                "c. Control of congestive heart failure with diuretics and digitalis in severe cases",
+                "d. Administration of prophylactic antibiotics, other than ampicillin and gentamicin, for patients with valvular heart disease who are undergoing gastrointestinal procedures",
+                "e. Postponement of elective surgery for 6-8 wk after a subendocardial myocardial infarction"
+            ],
+            "answer": "C",
+            "explanation": "*   For cardiac patients undergoing noncardiac surgery, the two factors correlating best with postoperative life-threatening or fatal cardiac complications are myocardial infarction (transmural or subendocardial) and uncontrolled congestive heart failure.\n*   Delaying elective surgery for 6 months after myocardial infarction and achieving preoperative control of congestive heart failure with diuretics and digitalis (in severe cases) significantly reduces surgical risks.\n*   A patient's cardiac medications, especially beta blockers, should be continued preoperatively, including on the morning of surgery, to maintain adequate therapeutic levels and prevent withdrawal rebound hypertension and tachycardia.\n*   Prophylactic antibiotics (e.g., ampicillin and gentamicin) are recommended for patients with prosthetic valves or valvular heart disease undergoing gastrointestinal or genitourinary procedures to prevent valve seeding from bacteremia."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "8. The values given above allow the descriptive diagnosis of",
+            "options": [
+                "a. Uncompensated metabolic alkalosis",
+                "b. Respiratory acidosis with metabolic compensation",
+                "c. Combined metabolic and respiratory alkalosis",
+                "d. Metabolic alkalosis with respiratory compensation",
+                "e. \"Paradoxical” metabolic respiratory alkalosis"
+            ],
+            "answer": "D",
+            "explanation": "*   Both the arterial pH (7.56) and PCO2 (50 kPa) are elevated, indicating alkalosis with hypoventilation.\n*   The PCO2 typically increases by 0.5-1.0 pKa for each meq/L increase in serum bicarbonate.\n*   These findings suggest that the hypoventilation is compensatory rather than a primary phenomenon.\n*   This assumption is further supported by the absence of clinical lung disease."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "9. The most appropriate therapy for the patient described would be",
+            "options": [
+                "a. Infusion of 0.9% NaCl with supplemental KCl until clinical signs of volume depletion are eliminated",
+                "b. Infusion of isotonic (0.15 N) HC1 via a central venous catheter",
+                "c. Clamping the nasogastric tube to prevent further acid losses",
+                "d. Administration of acetazolamide to promote renal excretion of bicarbonate",
+                "e. Intubation and controlled hypoventilation on a volume-cycled ventilator to further increase PCO2"
+            ],
+            "answer": "A",
+            "explanation": "*   Clinically significant metabolic alkalosis requires acid loss or alkali addition, and renal responses that maintain the alkalosis.\n*   The normal kidney can significantly augment acid or alkali excretion in response to changes in ingested load.\n*   In the presence of significant volume depletion and excessive salt and water retention, tubular maximum for bicarbonate reabsorption is increased.\n*   Correction of volume depletion alone is usually sufficient to correct the alkalosis, as the kidney will then excrete excess bicarbonate.\n*   HCl infusion is usually unnecessary and can be dangerous.\n*   Acetazolamide is unlikely to be effective in the face of distal Na+ reabsorption (in exchange for H+ secretion) and will exacerbate volume depletion by causing natriuresis."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "10. The patient's acid-base disturbance is best characterized by which of the following descriptions?",
+            "options": [
+                "a. Acute respiratory alkalosis, compensated",
+                "b. Chronic respiratory alkalosis, compensated",
+                "c. Metabolic acids, compensated",
+                "d. Mixed metabolic acidosis and respiratory alkalosis",
+                "e. Mixed metabolic acidosis and respiratory acidosis"
+            ],
+            "answer": "D",
+            "explanation": "*   The patient is in a state of metabolic acidosis, evidenced by a markedly increased anion gap of 28 meq unmeasured anions per liter of plasma.\n*   However, the respiratory response is greater than can be explained by a compensatory response, as the patient is mildly alkalemic.\n*   The disturbance cannot be pure respiratory alkalosis because serum bicarbonate does not drop below 15 meq/L as a result of renal compensation, and the anion gap does not vary by more than 1–2 meq/L from its normal value of 12 in response to a respiratory disturbance.\n*   The renal response to hyperventilation involves wasting of bicarbonate and compensatory retention of chloride; it does not involve a change in the concentration of “unmeasured” anions, such as albumin and organic acids."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "11. The most likely cause of the disturbance in this patient is an overdose of",
+            "options": [
+                "a. Phenformin",
+                "b. Aspirin",
+                "c. Barbiturates",
+                "d. Methanol",
+                "e. Diazepam (Valium)"
+            ],
+            "answer": "B",
+            "explanation": "*   Salicylates directly stimulate the respiratory center, producing respiratory alkalosis.\n*   By accumulating organic acids, salicylates also cause a concomitant metabolic acidosis.\n*   Characteristically, both disturbances exist simultaneously following massive ingestion of salicylates.\n*   If sedative agents are also taken, the respiratory alkalosis (and even respiratory compensation) may be absent.\n*   Phenformin and methanol overdoses produce \"high-anion-gap” metabolic acidosis, but without simultaneous respiratory disturbance.\n*   The patient's history of tinnitus, combined with mixed metabolic acidosis-respiratory alkalosis, is pathognomonic of salicylate intoxication."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "12. A 65-year-old man undergoes a technically difficult abdomino-perineal resection for a rectal cancer during which he receives three units of packed red blood cells. Four hours later in the intensive care unit he is bleeding heavily from his perineal wound. Emergency coagulation studies reveal normal prothrombin, partial thromboplastin, and bleeding times. The fibrin degradation products are not elevated but the serum fibrinogen content is depressed and the platelet count is 70,000/µL. The most likely cause of the bleeding is",
+            "options": [
+                "a. Delayed blood transfusion reaction",
+                "b. Autoimmune fibrinolysis",
+                "c. A bleeding blood vessel in the surgical field",
+                "d. Factor VIII deficiency",
+                "e. Hypothermic coagulopathy"
+            ],
+            "answer": "C",
+            "explanation": "*   Whenever significant bleeding is noted in the early postoperative period, it should be presumed to be due to an error in surgical control of blood vessels in the operative field.\n*   Hematologic disorders not apparent during a long operation are unlikely to surface as postoperative problems.\n*   Blood transfusion reactions can cause diffuse loss of clot integrity; sudden diffuse bleeding during an operation may be the only evidence of an intraoperative transfusion reaction.\n*   In the postoperative period, transfusion reactions usually present as unexplained fever, apprehension, and headache—symptoms difficult to interpret early postoperatively.\n*   Factor VIII deficiency (hemophilia) would almost certainly be known by history or cause intraoperative bleeding.\n*   Severely hypothermic patients cannot form clots effectively, but clot dissolution does not occur.\n*   Care should be taken to prevent hypothermia during long operations using warmed intravenous fluid, gas humidifiers, and insulated skin barriers."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "13. A 78-year-old man with a history of coronary artery disease and an asymptomatic reducible inguinal hernia requests an elective hernia repair. You explain to him that valid reasons for delaying the proposed surgery include",
+            "options": [
+                "a. Coronary artery bypass surgery 3 mo earlier",
+                "b. A history of cigarette smoking",
+                "c. Jugular venous distension",
+                "d. Hypertension",
+                "e. Hyperlipidemia"
+            ],
+            "answer": "C",
+            "explanation": "*   Risk factors for perioperative myocardial infarction include:\n    *   Recent myocardial infarction (highest likelihood, risk remains elevated for up to 6 months, never returns to normal).\n    *   Non-Q-wave infarction carries high risk of subsequent perioperative infarction due to borderline perfusion.\n    *   Evidence of congestive heart failure, such as jugular venous distention or S3 gallop.\n    *   Frequent occurrence of ectopic beats.\n    *   Old age and emergency surgery are independent risk factors.\n*   Coronary revascularization (CABG) tends to protect against myocardial infarction.\n*   Smoking, diabetes, hypertension, and hyperlipidemia, while predisposing to CAD, are surprisingly not independent risk factors for perioperative MI, though they may increase the death rate if an infarct occurs.\n*   Identifying these risk factors helps determine the need for invasive monitoring (systemic arterial and pulmonary arterial catheters).\n*   Most perioperative infarcts occur around the third postoperative day when \"third-space\" fluids return to circulation, increasing preload and myocardial oxygen consumption."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "14. A 68-year-old man is admitted to the coronary care unit with an acute myocardial infarction. His postinfarction course is marked by congestive heart failure and intermittent hypotension. On the fourth hospital day, he develops severe midabdominal pain. On physical examination, blood pressure is 90/60 mm Hg and pulse is 110 beats/min and regular; the abdomen is soft with mild generalized tenderness and distention. Bowel sounds are hypoactive; stool hematest is positive. The next step in this patient's management should be which of the following?",
+            "options": [
+                "a. Barium enema",
+                "b. Upper gastrointestinal series",
+                "c. Angiography",
+                "d. Ultrasonography",
+                "e. Celiotomy"
+            ],
+            "answer": "C",
+            "explanation": "*   Acute mesenteric ischemia is difficult to diagnose and should be suspected in patients with systemic arteriosclerotic vascular disease or low cardiac output states presenting with sudden abdominal pain disproportionate to physical findings.\n*   Common laboratory findings include lactic acidosis and elevated hematocrit (hemoconcentration).\n*   Abdominal films show a nonspecific ileus pattern.\n*   Causes include embolic occlusion or thrombosis of the superior mesenteric artery, primary mesenteric venous occlusion, or nonocclusive mesenteric ischemia secondary to low cardiac output states.\n*   Mortality is 65–100%. Most affected patients are at high operative risk.\n*   Early diagnosis followed by revascularization or resectional surgery is the only hope for survival; celiotomy must be performed once arterial occlusion or bowel infarction is diagnosed.\n*   Initial treatment for nonocclusive mesenteric ischemia includes measures to increase cardiac output and blood pressure, and direct intraarterial infusion of vasodilators like papaverine into the superior mesenteric system.\n*   The patient is at risk for both occlusive and nonocclusive mesenteric ischemic disease.\n*   If clinical status permits, angiographic studies should be performed before operation to establish diagnosis and determine if embolectomy, revascularization, or nonsurgical management is indicated."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "15. A 30-year-old woman in the last trimester of pregnancy suddenly develops massive swelling of the left lower extremity from the inguinal ligament to the ankle. The correct sequence of workup and treatment should be",
+            "options": [
+                "a. Venogram, bed rest, heparin",
+                "b. Impedance plethysmography, bed rest, heparin",
+                "c. Impedance plethysmography, bed rest, vena caval filter",
+                "d. Impedance plethysmography, bed rest, heparin, warfarin (Coumadin)",
+                "e. Clinical evaluation, bed rest, warfarin"
+            ],
+            "answer": "B",
+            "explanation": "*   Sudden massive swelling of the entire left lower extremity from the inguinal ligament to the ankle suggests left iliofemoral vein thrombosis.\n*   Noninvasive venous testing (like impedance plethysmography) is helpful when venous obstruction extends above the knee, making venography and x-ray exposure unnecessary.\n*   Heparin is the preferred anticoagulant because it does not cross the placenta, unlike warfarin.\n*   A vena caval filter is not indicated if there is no contraindication to heparin therapy and no evidence of pulmonary embolus."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "16. A 20-year-old woman is found to have an activated partial thromboplastin time (APTT) of 78/32 on routine testing prior to cholecystectomy. Further investigation reveals a prothrombin time (PT) of 13/12 (patient/control), a template bleeding time of 13 min, and a platelet count of 350 × 100/µL. Which one of the following characteristics of this woman's coagulopathy is true?",
+            "options": [
+                "a. Infusion of purified factor VIII is usually required to normalize its concentration prior to surgery",
+                "b. Infusion of cryoprecipitate will not be followed by an improvement in coagulation",
+                "c. Most of these patients are, or become, seropositive for HIV",
+                "d. Epistaxis or menorrhagia is uncommon",
+                "e. Lack of platelet aggregation in response to ristocetin is a common feature of this disease"
+            ],
+            "answer": "E",
+            "explanation": "*   Von Willebrand disease (vWD) has an autosomal dominant inheritance pattern, affecting both men and women.\n*   The deficiency of factor VIII activity in vWD is generally less severe than in classic hemophilia and tends to fluctuate.\n*   The bleeding tendency is compounded by abnormal platelet function, which is responsible for the common occurrence of epistaxis and menorrhagia.\n*   In 70% of patients, platelets fail to aggregate in response to the diagnostic reagent ristocetin.\n*   Transfusion of cryoprecipitate provides factor VIII R:WF (von Willebrand factor), while infusions of high-purity concentrates of factor VIII:C are not effective.\n*   Patients with vWD generally do not require treatment unless they need surgery or are severely injured, and thus have not usually received contaminated concentrates responsible for the high prevalence of HIV seropositivity among hemophiliacs."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "17. The chief surgical risk to which patients with polycythemia vera are exposed is that due to",
+            "options": [
+                "a. Anemic disturbances",
+                "b. Hemorrhage",
+                "c. Infection",
+                "d. Renal dysfunction",
+                "e. Cardiopulmonary complications"
+            ],
+            "answer": "B",
+            "explanation": "*   Intraoperative and postoperative hemorrhage is a significant problem in patients with polycythemia vera.\n*   Despite thrombocytosis, these patients have a hemorrhagic tendency, generally ascribed to a qualitative deficiency of the platelets.\n*   Elective surgery should be postponed until the hematocrit and platelet count reach normal levels, often achieved with alkylating agents like busulfan or chlorambucil.\n*   In emergency situations, phlebotomy should be performed prior to operation, and an especially careful hemostatic technique should be employed.\n*   Infection is also a problem in patients with polycythemia vera, but hemorrhagic problems are more frequently encountered complications."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "18. A victim of blunt abdominal trauma requires a partial hepatectomy. He is rapidly transfused with 8 units of appropriately cross-matched packed red blood cells from the blood bank. He is noted in the recovery room to be bleeding from intravenous puncture sites and the surgical incision. His coagulopathy is likely due to thrombocytopenia and deficiencies of which clotting factors?",
+            "options": [
+                "a. II only",
+                "b. II and VII",
+                "c. V and VIII",
+                "d. IX and X",
+                "e. XI and XII"
+            ],
+            "answer": "C",
+            "explanation": "*   When large amounts of banked blood are transfused, the recipient becomes deficient in factors V and VIII (the \"labile” factors), leading to an acquired coagulopathy.\n*   Since banked blood is also deficient in platelets, thrombocytopenia may also develop."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "19. Following celiotomy, normal bowel motility can ordinarily be presumed to have returned",
+            "options": [
+                "a. In the stomach in 4 h, the small bowel in 24 h, and the colon after the first oral intake",
+                "b. In the stomach in 24 h, the small bowel in 4 h, and the colon in 3 days",
+                "c. In the stomach in 3 days, the small bowel in 3 days, and the colon in 3 days",
+                "d. In the stomach in 24 h, the small bowel in 24 h, and the colon in 24 h",
+                "e. In the stomach in 4 h, the small bowel immediately, and the colon in 24 h"
+            ],
+            "answer": "B",
+            "explanation": "*   Intestinal motility and absorption studies have clarified the patterns by which bowel activity resumes postoperatively.\n*   The stomach remains uncoordinated in its muscular activity and does not empty efficiently for about 24 hours after abdominal procedures.\n*   The small bowel functions normally within hours of surgery and can accept nutrients promptly, either via nasoduodenal or percutaneous jejunal feeding catheters, or by gastric emptying after 24 hours.\n*   The colon is largely stimulated by the gastrocolic reflex but is typically relatively inactive for 3–4 days."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "20. A 65-year-old woman has a life-threatening pulmonary embolus 5 days following removal of a uterine malignancy. She is immediately heparinized and maintained in good therapeutic range for the next 3 days, then passes gross blood from her vagina and develops tachycardia, hypotension, and oliguria. Following resuscitation, an abdominal CT scan reveals a major retroperitoneal hematoma. You should now",
+            "options": [
+                "a. Immediately reverse heparin by a calculated dose of protamine and place a vena cava filter (e.g., a Greenfield filter)",
+                "b. Reverse heparin with protamine, explore and evacuate the hematoma, and ligate the vena cava below the renal veins",
+                "c. Switch to low-dose heparin",
+                "d. Stop heparin and observe closely",
+                "e. Stop heparin, give fresh frozen plasma (FFP), and begin warfarin therapy"
+            ],
+            "answer": "A",
+            "explanation": "*   In a heparinized patient with significant life-threatening hemorrhage, immediate reversal of heparin anticoagulation is indicated.\n*   Protamine sulfate is a specific antidote to heparin; it should be given as 1 mg for each 100 U heparin if hemorrhage begins shortly after a bolus.\n*   For ongoing heparin therapy, the protamine dose should be based on heparin's half-life (90 min); only half the calculated circulating heparin should be reversed, as protamine is also an anticoagulant.\n*   Protaminization should be followed by placement of a percutaneous vena cava filter (e.g., Greenfield filter).\n*   In this critically ill patient, exploration of the retroperitoneal space would be surgically challenging and meddlesome."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "21. Which of the following surgical interventions is least likely to provide acceptable prolongation of life for patients with AIDS?",
+            "options": [
+                "a. Splenectomy for AIDS-related idiopathic thrombocytopenic purpura",
+                "b. Colonic resection for perforation secondary to cytomegalovirus infection",
+                "c. Cholecystectomy for acalculous cholecystitis",
+                "d. Tracheostomy for ventilator-dependent patients with respiratory failure",
+                "e. Gastric resection for a bleeding gastric lymphoma or Kaposi's sarcoma"
+            ],
+            "answer": "D",
+            "explanation": "*   AIDS patients frequently present with problems requiring surgical care, including common surgical illnesses and issues related to their altered immune status (e.g., GI bleeding from lymphomas/Kaposi's lesions, bowel ischemia, perforations from infection, acalculous cholecystitis, retroperitoneal/intraabdominal masses from lymphadenitis).\n*   With the exception of tracheostomy, surgical interventions have acceptable morbidity and mortality, providing comfort and prolonging quality of life.\n*   Although tracheostomy may facilitate nursing care, it does not reverse or slow pulmonary failure once the patient becomes ventilator-dependent."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "22. An elderly diabetic woman with chronic steroid-dependent bronchospasm has an ileocolectomy for a perforated cecum. She is taken to the ICU intubated and is maintained on broad-spectrum antibiotics, renal-dose dopamine, and a rapid steroid taper. On postoperative day 2 she develops a fever of 39.2°C (102.5°F), hypotension, lethargy, and laboratory values remarkable for hypoglycemia and hyperkalemia. The most likely diagnosis of this acute event is",
+            "options": [
+                "a. Sepsis",
+                "b. Hypovolemia",
+                "c. Adrenal insufficiency",
+                "d. Acute tubular necrosis",
+                "e. Diabetic ketoacidosis"
+            ],
+            "answer": "C",
+            "explanation": "*   Acute adrenal insufficiency classically manifests as changing mental status, increased temperature, cardiovascular collapse, hypoglycemia, and hyperkalemia.\n*   Diagnosis can be difficult and requires a high index of suspicion, as its clinical presentation is similar to sepsis.\n*   However, sepsis is generally associated with hyperglycemia and no significant change in potassium, differentiating it from adrenal insufficiency.\n*   Treatment for adrenal crisis includes intravenous hydrocortisone (100 mg initially, then 200–400 mg over 24h, followed by a taper), volume resuscitation, and other supportive measures for ongoing stress."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "23. A cirrhotic patient with abnormal coagulation studies due to hepatic synthetic dysfunction requires an urgent cholecystectomy. A transfusion of fresh frozen plasma is planned to minimize the risk of bleeding due to surgery. The optimal timing of this transfusion would be",
+            "options": [
+                "a. The day before surgery",
+                "b. The night before surgery",
+                "c. On call to surgery",
+                "d. Intraoperatively",
+                "e. In the recovery room"
+            ],
+            "answer": "C",
+            "explanation": "*   Transfusions with fresh frozen plasma (FFP) are given to replenish clotting factors.\n*   The effectiveness of the transfusion in maintaining hemostasis depends on the quantity of each factor delivered and its half-life; the most stable clotting factor, factor VII, has a half-life of 4–6 hours.\n*   A reasonable transfusion scheme is to give FFP on call to the operating room.\n*   This timing ensures the transfusion is complete prior to the incision, providing circulating factors to cover the operative and immediate postoperative period."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "24. On postoperative day 3, an otherwise healthy 55-year-old man recovering from a partial hepatectomy is noted to have scant serosanguineous drainage from his abdominal incision. His skin staples are removed, revealing a 1.0-cm dehiscence of the upper midline abdominal fascia. Which of the following actions is most appropriate?",
+            "options": [
+                "a. Removing all suture material and packing the wound with moist sterile gauze",
+                "b. Starting intravenous antibiotics",
+                "c. Placing an abdominal (Scultetus) binder",
+                "d. Prompt resuturing of the fascia in the operating room",
+                "e. Bed rest"
+            ],
+            "answer": "C",
+            "explanation": "*   Serosanguineous drainage is classically associated with fascial dehiscence.\n*   A reasonable approach involves removing several sutures and gently exploring the wound to determine the extent of dehiscence.\n*   A small fascial dehiscence (1-2 cm) can be treated conservatively with local wound care and an abdominal binder to support the fascia.\n*   A larger dehiscence requires reoperation for formal reclosure of the fascia.\n*   High-risk patients with a large fascial dehiscence may be treated with an abdominal binder and modified bed rest, which promotes intraabdominal adhesion formation and local granulation.\n*   Although fascial dehiscence can occur from local infection, it is usually not an infectious process and does not require parenteral antibiotic therapy."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "25. Five days after a sigmoid colectomy for cancer, a patient's skin staples are removed and a large gush of serosanguineous fluid emerges. Examination of the wound reveals an extensive fascial dehiscence. The most appropriate management is",
+            "options": [
+                "a. Wide opening of the wound to assure adequate drainage",
+                "b. Smear and culture of the fluid and appropriate antibiotics after the smear is reviewed",
+                "c. Careful reapproximation of the wound edges with tape",
+                "d. Immediate return to the operating room",
+                "e. Application of a Scultetus binder"
+            ],
+            "answer": "D",
+            "explanation": "*   A gush of serosanguineous fluid from an abdominal incision is pathognomonic of a disruption of the deep fascia, with the fluid originating from the peritoneum.\n*   The temptation to avoid direct reclosure of these wounds when the fascial defect is larger than 1–2 cm should be resisted.\n*   Delayed resumption of normal ambulation and activity with a late ventral hernia is the best outcome if not reclosed; evisceration, wound infection, or protracted convalescence is far more likely.\n*   Recurrence of eviscerations following reclosure is extremely rare, though 10-20% will later develop incisional hernias.\n*   A Scultetus binder is a corsetlike cloth wrap historically used as support to reduce the likelihood of evisceration in wounds where the fascia was left unrepaired after dehiscence."
+        },
+        {
+            "id": 26,
+            "question_type": "mcq",
+            "question": "26. Signs and symptoms of hemolytic transfusion reactions include",
+            "options": [
+                "a. Hypothermia",
+                "b. Hypertension",
+                "c. Polyuria",
+                "d. Abnormal bleeding",
+                "e. Hypesthesia at the transfusion site"
+            ],
+            "answer": "D",
+            "explanation": "*   Allergic and febrile reactions occur in about 1% of transfusions; hemolytic transfusion reactions are much less common (0.2%), with fatal reactions in 1:100,000 transfusions.\n*   Hemolytic transfusion reactions result from recipient antibodies reacting against transfused antigens and can be immediate or delayed.\n*   Symptoms include fever, chills, pain and heat at the infusion site, respiratory distress, anxiety, hypotension, and oliguria.\n*   During surgery, a hemolytic transfusion reaction can manifest as abnormal bleeding."
+        },
+        {
+            "id": 27,
+            "question_type": "mcq",
+            "question": "27. A patient suspected of having a hemolytic transfusion reaction should be managed with",
+            "options": [
+                "a. Removal of nonessential foreign body irritants, e.g., Foley catheter",
+                "b. Fluid restriction",
+                "c. 0.1 M HCl infusion",
+                "d. Steroids",
+                "e. Fluids and mannitol"
+            ],
+            "answer": "E",
+            "explanation": "*   Hemolytic transfusion reactions lead to hypotension and oliguria.\n*   Increased hemoglobin in the plasma is cleared via the kidneys, causing hemoglobinuria.\n*   Placement of an indwelling Foley catheter and subsequent demonstration of oliguria and hemoglobinuria confirms the diagnosis and monitors corrective therapy.\n*   Treatment begins with discontinuation of the transfusion, followed by aggressive fluid resuscitation to support the hypotensive episode and increase urine output.\n*   Inducing a diuresis with aggressive fluid resuscitation and osmotic diuretics is important to clear hemolyzed red cell membranes, which can otherwise collect in glomeruli and cause renal damage.\n*   Alkalinization of the urine (pH > 7) helps prevent hemoglobin clumping and renal damage.\n*   Steroids do not have a role in treating hemolytic transfusion reactions."
+        },
+        {
+            "id": 28,
+            "question_type": "mcq",
+            "question": "28. The surgeon should be particularly concerned about which coagulation function in patients receiving anti-inflammatory or analgesic medications?",
+            "options": [
+                "a. APTT",
+                "b. PT",
+                "c. Reptilase time",
+                "d. Bleeding time",
+                "e. Thrombin time"
+            ],
+            "answer": "D",
+            "explanation": "*   Platelet dysfunction, measured by bleeding time, has been associated with numerous drugs.\n*   Nonsteroidal anti-inflammatory and analgesic medications, including aspirin, indomethacin, phenylbutazone, acetaminophen, and phenacetin, have been implicated (ibuprofen has not).\n*   Many antibiotics, anticonvulsants, and sedatives are also associated with thrombasthenia.\n*   When platelet abnormalities are suspected, a careful review of the patient's medications and measurement of platelet count and bleeding time should be performed.\n*   Platelet dysfunction does not affect APTT, PT, reptilase, or thrombin times."
+        },
+        {
+            "id": 29,
+            "question_type": "mcq",
+            "question": "29. The substrate depleted earliest in the postoperative period is",
+            "options": [
+                "a. Branched-chain amino acids",
+                "b. Non-branched-chain amino acids",
+                "c. Ketone",
+                "d. Glycogen",
+                "e. Glucose"
+            ],
+            "answer": "D",
+            "explanation": "*   The metabolic response to surgery (and other trauma) results from neuroendocrine stimulation that sharply accelerates protein breakdown, stimulates gluconeogenesis, and produces glucose intolerance.\n*   Glycogen stores are rapidly depleted due to a fall in insulin and a rise in glucagon levels in the plasma.\n*   Peripheral effects of neuroendocrine secretion lead to increased plasma levels of amino acids, free fatty acids, lactate, glucose, and glycerol.\n*   In the liver, cortisol and glucagon stimulate glycogenolysis, gluconeogenesis, and increased substrate uptake."
+        },
+        {
+            "id": 30,
+            "question_type": "mcq",
+            "question": "30. Diagnostic abdominal laparoscopy is contraindicated in which of the following patients?",
+            "options": [
+                "a. A patient with rebound tenderness following a tangential gunshot wound to the abdomen",
+                "b. A stable patient with a stab wound to the lower chest wall",
+                "c. A patient with a mass in the head of the pancreas",
+                "d. A young female with pelvic pain and fever",
+                "e. An elderly patient in the intensive care unit suspected of having intestinal ischemia"
+            ],
+            "answer": "A",
+            "explanation": "*   Indications for diagnostic laparoscopic exploration are rapidly increasing with improved tools and techniques.\n*   In stable trauma patients with tangential gunshot wounds or stab wounds to the lower chest wall or abdomen, laparoscopy can rule out peritoneal penetration, potentially avoiding laparotomy.\n*   If the peritoneum or diaphragm is injured, subsequent laparotomy and exploration are generally indicated to exclude other possible injuries and facilitate diaphragm repair.\n*   All unstable patients or those with signs of peritoneal irritation (e.g., rebound tenderness) should undergo prompt celiotomy.\n*   Laparoscopy is useful for staging malignancies (e.g., pancreatic carcinoma), differentiating causes of right lower quadrant pain (e.g., appendicitis vs. PID), and assessing bowel ischemia in critically ill, ventilated patients."
+        },
+        {
+            "id": 31,
+            "question_type": "mcq",
+            "question": "31. A 23-year-old woman undergoes total thyroidectomy for carcinoma of the thyroid gland. On the second postoperative day, she begins to complain of tingling sensation in her hands. She appears quite anxious and later complains of muscle cramps. Initial therapy should consist of",
+            "options": [
+                "a. 10 mL of 10% magnesium sulfate intravenously",
+                "b. Oral vitamin D",
+                "c. 100 µg of oral Synthroid",
+                "d. Continuous infusion of calcium gluconate",
+                "e. Oral calcium gluconate"
+            ],
+            "answer": "D",
+            "explanation": "*   Post-thyroidectomy hypocalcemia is usually due to transient ischemia of the parathyroid glands and is self-limited.\n*   When symptomatic, it should be treated with intravenous infusions of calcium.\n*   In most cases, the problem resolves in several days; if hypocalcemia persists, oral therapy with calcium gluconate is added.\n*   Vitamin D preparations are used only if hypocalcemia is prolonged and permanent.\n*   There is no role for thyroid hormone replacement or magnesium sulfate in the treatment of hypocalcemia."
+        },
+        {
+            "id": 32,
+            "question_type": "mcq",
+            "question": "32. Hypocalcemia is associated with",
+            "options": [
+                "a. Acidosis",
+                "b. Shortened QT interval",
+                "c. Hypomagnesemia",
+                "d. Myocardial irritability",
+                "e. Hyperproteinemia"
+            ],
+            "answer": "C",
+            "explanation": "*   Hypocalcemia is associated with a prolonged QT interval and can be aggravated by both hypomagnesemia and alkalosis.\n*   Serum calcium levels below 7.0 mg/dL, commonly seen after parathyroid or thyroid surgery or in acute pancreatitis, should be treated with intravenous calcium gluconate or lactate.\n*   The myocardium is highly sensitive to calcium levels; calcium is considered a positive inotropic agent, increasing cardiac muscle contractile strength and shortening velocity.\n*   In calcium's absence, myocardial efficiency decreases.\n*   Hypocalcemia often occurs with hypoproteinemia, even if the ionized serum calcium fraction remains normal."
+        },
+        {
+            "id": 33,
+            "question_type": "mcq",
+            "question": "33. The enteric fluid with an electrolyte (Na+, K+, C1¯) content similar to that of Ringer's lactate is",
+            "options": [
+                "a. Saliva",
+                "b. Contents of small intestine",
+                "c. Contents of right colon",
+                "d. Pancreatic secretions",
+                "e. Gastric juice"
+            ],
+            "answer": "B",
+            "explanation": "*   Bile and fluids found in the duodenum, jejunum, and ileum (small intestine) all have an electrolyte content similar to Ringer's lactate.\n*   Saliva, gastric juice, and right colon fluids have high K+ and low Na+ content.\n*   Pancreatic secretions are high in bicarbonate.\n*   Considering these variations in electrolyte patterns is important when calculating replacement requirements following gastrointestinal losses."
+        },
+        {
+            "id": 34,
+            "question_type": "mcq",
+            "question": "34. Which of the following medications administered for hyperkalemia counteracts the myocardial effects of potassium without reducing the serum potassium level?",
+            "options": [
+                "a. Sodium polystyrene sulfonate (Kayexalate)",
+                "b. Sodium bicarbonate",
+                "c. 50% dextrose",
+                "d. Calcium gluconate",
+                "e. Insulin"
+            ],
+            "answer": "D",
+            "explanation": "*   Reducing elevated serum potassium is crucial to prevent cardiovascular complications, which can culminate in diastolic cardiac arrest.\n*   Kayexalate (sodium polystyrene sulfonate) is a cation exchange resin that exchanges sodium for potassium in the gastrointestinal tract; its use is limited to semiacute and chronic potassium elevations.\n*   Sodium bicarbonate raises serum pH and shifts potassium intracellularly.\n*   Glucose initiates glycogen synthesis and potassium uptake; insulin can be used with glucose to aid intracellular potassium shift.\n*   Calcium gluconate counteracts the myocardial effects of hyperkalemia without reducing the serum potassium level."
+        },
+        {
+            "id": 35,
+            "question_type": "mcq",
+            "question": "35. Which of the following changes could make this wound a less favor-able environment for infection?",
+            "options": [
+                "a. Decreasing the operative time and wound contamination by omitting the common bile duct exploration",
+                "b. Placing a Penrose drain exiting directly through the lateral corner of the wound",
+                "c. Using oral rather than intravenous penicillin perioperatively",
+                "d. Leaving a seroma in the wound to prevent desiccation of the tissues",
+                "e. Reinforcing the wound closure with a sheet of prosthetic poly-propylene mesh"
+            ],
+            "answer": "A",
+            "explanation": "*   Postoperative wound infection determinants include factors related to bacteria, the wound environment, and host defense mechanisms.\n*   Patient factors (e.g., age, obesity, steroid dependence, multiple diagnoses, immunosuppression) and procedure type (e.g., contaminated vs. clean, emergent vs. elective) are predetermined risks.\n*   Surgeon-optimizable factors to decrease postoperative infection include:\n    *   Decreasing bacterial inoculum and virulence by limiting prehospital stay.\n    *   Clipping the operative site in the operating room.\n    *   Administering perioperative antibiotics (within 24 hours of operation) with an appropriate antimicrobial spectrum.\n    *   Treating remote infections.\n    *   Avoiding breaks in technique.\n    *   Using closed drainage systems (if needed) that exit the skin away from the surgical incision.\n    *   Minimizing operative time.\n*   Making a wound less favorable to infection requires attention to basic Halstedian principles: hemostasis, anatomic dissection, gentle handling of tissues, and limiting foreign body and necrotic tissue in the wound.\n*   Host defense mechanisms, though difficult to influence, can be improved by optimizing nutritional status, tissue perfusion, and oxygen delivery."
+        },
+        {
+            "id": 36,
+            "question_type": "mcq",
+            "question": "36. Which of the following char-acteristics of this patient might increase the risk of a wound infec-tion?",
+            "options": [
+                "a. History of colon surgery",
+                "b. Hypertension",
+                "c. Male sex",
+                "d. Receipt of chemotherapy",
+                "e. Asthma"
+            ],
+            "answer": "D",
+            "explanation": "*   Postoperative wound infection determinants include factors related to bacteria, the wound environment, and host defense mechanisms.\n*   Patient factors (e.g., age, obesity, steroid dependence, multiple diagnoses, immunosuppression) and procedure type (e.g., contaminated vs. clean, emergent vs. elective) are predetermined risks.\n*   Surgeon-optimizable factors to decrease postoperative infection include:\n    *   Decreasing bacterial inoculum and virulence by limiting prehospital stay.\n    *   Clipping the operative site in the operating room.\n    *   Administering perioperative antibiotics (within 24 hours of operation) with an appropriate antimicrobial spectrum.\n    *   Treating remote infections.\n    *   Avoiding breaks in technique.\n    *   Using closed drainage systems (if needed) that exit the skin away from the surgical incision.\n    *   Minimizing operative time.\n*   Making a wound less favorable to infection requires attention to basic Halstedian principles: hemostasis, anatomic dissection, gentle handling of tissues, and limiting foreign body and necrotic tissue in the wound.\n*   Host defense mechanisms, though difficult to influence, can be improved by optimizing nutritional status, tissue perfusion, and oxygen delivery."
+        },
+        {
+            "id": 37,
+            "question_type": "mcq",
+            "question": "37. Which of the following changes in the care of this patient could decrease the chance of a postoperative wound infection?",
+            "options": [
+                "a. Increasing the length of the preop-erative hospital stay to prophylacti-cally treat the asthma with steroids",
+                "b. Treating the urinary infection prior to surgery",
+                "c. Shaving the abdomen the night prior to surgery",
+                "d. Continuing the prophylactic antibi-otics for three postoperative days",
+                "e. Use of a closed drainage system brought out through the operative incision"
+            ],
+            "answer": "B",
+            "explanation": "*   Postoperative wound infection determinants include factors related to bacteria, the wound environment, and host defense mechanisms.\n*   Patient factors (e.g., age, obesity, steroid dependence, multiple diagnoses, immunosuppression) and procedure type (e.g., contaminated vs. clean, emergent vs. elective) are predetermined risks.\n*   Surgeon-optimizable factors to decrease postoperative infection include:\n    *   Decreasing bacterial inoculum and virulence by limiting prehospital stay.\n    *   Clipping the operative site in the operating room.\n    *   Administering perioperative antibiotics (within 24 hours of operation) with an appropriate antimicrobial spectrum.\n    *   Treating remote infections.\n    *   Avoiding breaks in technique.\n    *   Using closed drainage systems (if needed) that exit the skin away from the surgical incision.\n    *   Minimizing operative time.\n*   Making a wound less favorable to infection requires attention to basic Halstedian principles: hemostasis, anatomic dissection, gentle handling of tissues, and limiting foreign body and necrotic tissue in the wound.\n*   Host defense mechanisms, though difficult to influence, can be improved by optimizing nutritional status, tissue perfusion, and oxygen delivery."
+        },
+        {
+            "id": 38,
+            "question_type": "mcq",
+            "question": "38. A correct statement regarding 5% dextrose in 0.9% saline is which of the following?",
+            "options": [
+                "a. It contains the same concentration of sodium ions as does plasma",
+                "b. It can be given in large quantities without seriously affecting acid-base balance",
+                "c. It is isosmotic with plasma",
+                "d. It has a pH of 7.4",
+                "e. It may cause a dilutional acidosis"
+            ],
+            "answer": "E",
+            "explanation": "*   Isotonic saline solutions contain 154 meq/L of both sodium and chloride ions, which is substantially higher than normal serum concentrations (Na = 142 meq/L; Cl = 103 meq/L).\n*   Large quantities of isotonic solutions can overload the kidney's ability to excrete chloride, leading to a dilutional acidosis.\n*   They may also intensify pre-existing acidosis by reducing the base bicarbonate:carbonic acid ratio.\n*   Isotonic saline solutions are particularly useful in hyponatremic or hypochloremic states and when there's a tendency toward metabolic alkalosis (e.g., from significant nasogastric suction losses or vomiting).\n*   Lactated Ringer's solution is appropriate for replacing gastrointestinal losses and correcting extracellular fluid deficits.\n*   Lactated Ringer's contains 130 meq/L sodium and provides approximately 150 mL of free water per liter, making it hyposmolar with respect to sodium.\n*   Lactated Ringer's is sufficiently \"physiological\" to allow administration of large amounts without significantly affecting acid-base balance.\n*   Both isotonic saline (0.9% NaCl/5% dextrose, pH 4.5) and lactated Ringer's (pH 6.5) are acidic relative to plasma."
+        },
+        {
+            "id": 39,
+            "question_type": "mcq",
+            "question": "39. Correct statements regarding lactated Ringer's solution include which of the following?",
+            "options": [
+                "a. It contains a higher concentration of sodium ions than does plasma",
+                "b. It is most appropriate for replace-ment of nasogastric tube losses",
+                "c. It is isosmotic with plasma",
+                "d. It has a pH of less than 7.0",
+                "e. It may induce a significant meta-bolic acidosis"
+            ],
+            "answer": "D",
+            "explanation": "*   Isotonic saline solutions contain 154 meq/L of both sodium and chloride ions, which is substantially higher than normal serum concentrations (Na = 142 meq/L; Cl = 103 meq/L).\n*   Large quantities of isotonic solutions can overload the kidney's ability to excrete chloride, leading to a dilutional acidosis.\n*   They may also intensify pre-existing acidosis by reducing the base bicarbonate:carbonic acid ratio.\n*   Isotonic saline solutions are particularly useful in hyponatremic or hypochloremic states and when there's a tendency toward metabolic alkalosis (e.g., from significant nasogastric suction losses or vomiting).\n*   Lactated Ringer's solution is appropriate for replacing gastrointestinal losses and correcting extracellular fluid deficits.\n*   Lactated Ringer's contains 130 meq/L sodium and provides approximately 150 mL of free water per liter, making it hyposmolar with respect to sodium.\n*   Lactated Ringer's is sufficiently \"physiological\" to allow administration of large amounts without significantly affecting acid-base balance.\n*   Both isotonic saline (0.9% NaCl/5% dextrose, pH 4.5) and lactated Ringer's (pH 6.5) are acidic relative to plasma."
+        },
+        {
+            "id": 40,
+            "question_type": "mcq",
+            "question": "40. Four days after surgical evacuation of an acute subdural hematoma, a 44-year-old man becomes mildly lethargic and develops asterixis. He has received 2400 mL of 5% dextrose in water intravenously each day since surgery, and he appears well hydrated. Pertinent laboratory values are as follows: • Serum electrolytes (meq/L): Na⁺ 118; K+ 3.4; C182 ־; HCO3- 24 • Serum osmolality: 242 mOsm/L • Urine sodium: 47 meq/L • Urine osmolality: 486 mOsm/L A correct statement about this patient's fluid and electrolyte status is which of the following?",
+            "options": [
+                "a. His low serum sodium indicates sodium deficiency, which should be treated with 3% saline infusion",
+                "b. He probably has the syndrome of inappropriate secretion of anti-diuretic hormone",
+                "c. His blood glucose level should be checked because the hyponatremia may be artifactual",
+                "d. Water restriction is rarely effective in severe cases of hyponatremia",
+                "e. The underlying problem is the inappropriate excretion of sodium (renal sodium wasting)"
+            ],
+            "answer": "B",
+            "explanation": "*   The patient's presentation (hyponatremia, lethargy, asterixis, normal fluid balance, inability to dilute urine) is consistent with Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH).\n*   SIADH is primarily associated with CNS or chest diseases but is also common in most postoperative patients due to excessive ADH.\n*   The pathophysiology of SIADH involves an inability to dilute urine, leading to water retention and dilutional hyponatremia from administered water.\n*   Body sodium stores and fluid balance are normal, evidenced by the absence of clinical findings suggestive of extracellular fluid volume abnormalities.\n*   While hypertonic saline infusions can transiently improve hyponatremia, the appropriate therapy is to restrict water ingestion to a level below the patient's ability to excrete water.\n*   Hypertonic saline can be dangerous, potentially shifting accumulated water into the extracellular fluid and precipitating pulmonary edema in patients with low cardiac reserves.\n*   Hyperglycemia cannot account for the hyponatremia seen here because both serum osmolality and serum sodium are depressed; hyponatremia from hyperglycemia would be associated with an elevated serum osmolality."
+        },
+        {
+            "id": 41,
+            "question_type": "mcq",
+            "question": "41. A 43-year-old woman develops acute renal failure following an emergency resection of a leaking abdominal aortic aneurysm. Three days after surgery, the following laboratory values are obtained: • Serum electrolytes (meq/L): Na⁺ 127; K+ 5.9; C1¯ 92; HCO3- 15 • Blood urea nitrogen: 82 mg/dL • Serum creatinine: 6.7 mg/dL The patient has gained 4 kg since surgery and is mildly dyspneic at rest. Eight hours after these values are reported, the electrocardiogram shown below is obtained. The initial treatment for this patient should be",
+            "options": [
+                "a. 10% calcium gluconate, 10 mL",
+                "b. Digoxin, 0.25 mg every 3 h for three doses",
+                "c. Oral Kayexalate",
+                "d. Lidocaine, 100 mg",
+                "e. Emergent hemodialysis"
+            ],
+            "answer": "A",
+            "explanation": "*   The electrocardiogram and laboratory values (K+ 5.9 meq/L) are diagnostic of severe hyperkalemia.\n*   Correct initial treatment for severe hyperkalemia includes:\n    *   Administration of calcium ions (e.g., calcium gluconate) to immediately oppose the neuromuscular effects of potassium.\n    *   Administration of sodium ions (e.g., sodium bicarbonate) to shift potassium into cells by inducing mild alkalosis.\n*   Infusion of glucose and insulin also causes a temporary transcellular shift of potassium.\n*   These maneuvers are only temporarily effective; definitive treatment requires potassium removal from the body.\n*   Sodium-potassium exchange resin (Kayexalate) removes potassium over hours, but at the cost of adding a sodium ion for each potassium ion removed.\n*   Hemodialysis or peritoneal dialysis is likely required for this patient to rectify acute renal failure and remove potassium, but it is not the first-line therapy for acute potassium level reduction.\n*   Lidocaine and digoxin are ineffective and contraindicated as they further depress the myocardial conduction system."
+        },
+        {
+            "id": 42,
+            "question_type": "mcq",
+            "question": "42. Prophylactic regimens of documented benefit in decreasing the risk of postoperative thromboembolism include",
+            "options": [
+                "a. Early ambulation",
+                "b. External pneumatic compression devices placed on the upper extremities",
+                "c. Elastic stockings",
+                "d. Leg elevation for 24 h postoperatively",
+                "e. Dipyridamole therapy for 48 h postoperatively"
+            ],
+            "answer": "B",
+            "explanation": "*   Deep vein thrombosis (DVT) and pulmonary embolism (PE) are significant problems in general surgery, with many fatal PEs clinically unsuspected.\n*   Preventive measures are crucial, especially for high-risk patients (age > 40, obesity, malignancy, venous disease, congestive heart failure, atrial fibrillation, prolonged bed rest).\n*   Virchow's triad (venous stasis, hypercoagulability, endothelial injury) contributes to venous thrombosis.\n*   Prophylaxis recommendations:\n    *   High-risk: preoperative anticoagulation with warfarin.\n    *   Low-risk (e.g., < 40 years old with normal weight and no venous disease): no prophylaxis.\n    *   Moderate-risk: chemical or mechanical prophylaxis with equivalent effectiveness.\n        *   Low-dose heparin (5000 U) started 2 hours preoperatively and continued every 12 hours postoperatively significantly reduces DVT and major PE risk.\n        *   External pneumatic compression devices (EPCDs) prevent venous stasis and have a systemic effect on coagulation, significantly reducing lower extremity VTE even when used on the arms.\n*   Early ambulation, elastic stockings, leg elevation, and dipyridamole alone have not been documented as effective."
+        },
+        {
+            "id": 43,
+            "question_type": "mcq",
+            "question": "43. Signs and symptoms associ-ated with early sepsis include",
+            "options": [
+                "a. Respiratory acidosis",
+                "b. Decreased cardiac output",
+                "c. Hypoglycemia",
+                "d. Increased arteriovenous oxygen dif-ference",
+                "e. Cutaneous vasodilation"
+            ],
+            "answer": "E",
+            "explanation": "*   Early sepsis is a physiologically hyperdynamic, hypermetabolic state resulting from a surge of catecholamines, cortisol, and other stress-related hormones.\n*   It is crucial to identify and treat occult or early sepsis before it progresses to septic shock and multiple organ failure.\n*   Immunocompromised hosts may not show typical signs like elevated temperature or white cell count, requiring focus on subtle signs.\n*   Earliest manifestations often include changing mental status, tachypnea (leading to respiratory alkalosis), and flushed skin (cutaneous vasodilation).\n*   Intermittent hypotension requiring increased fluid resuscitation to maintain adequate urine output is characteristic of occult sepsis.\n*   Hyperglycemia and insulin resistance are typical in both diabetic and nondiabetic patients during sepsis, related to the gluconeogenic state of the stress response.\n*   The cardiovascular response to early sepsis is characterized by increased cardiac output, decreased systemic vascular resistance, and decreased peripheral utilization of oxygen, leading to a decreased arteriovenous oxygen difference."
+        },
+        {
+            "id": 44,
+            "question_type": "mcq",
+            "question": "44. Salivary (SELECT 1 COMPOSITION)",
+            "options": [
+                "a. Na 140, K 5, Cl 104, HCO3 30",
+                "b. Na 140, K 5, Cl 75, HCO3 115",
+                "c. Na 60, K 10, Cl 130, HCO3 0",
+                "d. Na 10, K 26, Cl 10, HCO3 30",
+                "e. Na 60, K 30, Cl 40, HCO3 50"
+            ],
+            "answer": "D",
+            "explanation": "*   Failure to replace gastrointestinal losses is a common cause of dehydration and metabolic disarray in surgical patients.\n*   Knowledge of the ionic composition of intestinal contents at various sites allows for accurate estimation of early replacement needs.\n*   Most gastrointestinal secretions originate as extracellular fluid (similar to plasma) and are modified by intestinal glands.\n*   The stomach substitutes hydrogen ions for sodium, eliminating all but a tiny fraction of bicarbonate.\n*   The glands of the small intestine secrete various amounts of bicarbonate; chloride content is depressed to an equivalent degree to maintain ionic balance.\n*   Colonic contents (stool) and saliva are most notable for their potassium content.\n*   Stool also has a high bicarbonate content.\n*   Severe diarrhea can cause potassium depletion and metabolic acidosis."
+        },
+        {
+            "id": 45,
+            "question_type": "mcq",
+            "question": "45. Stomach (SELECT 1 COMPOSITION)",
+            "options": [
+                "a. Na 140, K 5, Cl 104, HCO3 30",
+                "b. Na 140, K 5, Cl 75, HCO3 115",
+                "c. Na 60, K 10, Cl 130, HCO3 0",
+                "d. Na 10, K 26, Cl 10, HCO3 30",
+                "e. Na 60, K 30, Cl 40, HCO3 50"
+            ],
+            "answer": "C",
+            "explanation": "*   Failure to replace gastrointestinal losses is a common cause of dehydration and metabolic disarray in surgical patients.\n*   Knowledge of the ionic composition of intestinal contents at various sites allows for accurate estimation of early replacement needs.\n*   Most gastrointestinal secretions originate as extracellular fluid (similar to plasma) and are modified by intestinal glands.\n*   The stomach substitutes hydrogen ions for sodium, eliminating all but a tiny fraction of bicarbonate.\n*   The glands of the small intestine secrete various amounts of bicarbonate; chloride content is depressed to an equivalent degree to maintain ionic balance.\n*   Colonic contents (stool) and saliva are most notable for their potassium content.\n*   Stool also has a high bicarbonate content.\n*   Severe diarrhea can cause potassium depletion and metabolic acidosis."
+        },
+        {
+            "id": 46,
+            "question_type": "mcq",
+            "question": "46. Small bowel (SELECT 1 COMPOSITION)",
+            "options": [
+                "a. Na 140, K 5, Cl 104, HCO3 30",
+                "b. Na 140, K 5, Cl 75, HCO3 115",
+                "c. Na 60, K 10, Cl 130, HCO3 0",
+                "d. Na 10, K 26, Cl 10, HCO3 30",
+                "e. Na 60, K 30, Cl 40, HCO3 50"
+            ],
+            "answer": "A",
+            "explanation": "*   Failure to replace gastrointestinal losses is a common cause of dehydration and metabolic disarray in surgical patients.\n*   Knowledge of the ionic composition of intestinal contents at various sites allows for accurate estimation of early replacement needs.\n*   Most gastrointestinal secretions originate as extracellular fluid (similar to plasma) and are modified by intestinal glands.\n*   The stomach substitutes hydrogen ions for sodium, eliminating all but a tiny fraction of bicarbonate.\n*   The glands of the small intestine secrete various amounts of bicarbonate; chloride content is depressed to an equivalent degree to maintain ionic balance.\n*   Colonic contents (stool) and saliva are most notable for their potassium content.\n*   Stool also has a high bicarbonate content.\n*   Severe diarrhea can cause potassium depletion and metabolic acidosis."
+        },
+        {
+            "id": 47,
+            "question_type": "mcq",
+            "question": "47. Sepsis (SELECT 1 EXPENDITURE)",
+            "options": [
+                "a. 1600",
+                "b. 2300",
+                "c. 2800",
+                "d. 3600",
+                "e. 4500"
+            ],
+            "answer": "C",
+            "explanation": "*   Resting energy expenditure (REE) in nonstressed patients is approximately 10% greater than basal energy expenditure.\n*   REE increases proportionally to the degree of stress.\n*   Studies using indirect calorimetry have documented the relative increase in REE for various clinical situations:\n    *   Prolonged starvation: Decreased 10-30% (e.g., 1800 kcal/day * 0.90 = 1620 to 1800 kcal/day * 0.70 = 1260)\n    *   Skeletal trauma: Increased 10-30% (e.g., 1800 kcal/day * 1.10 = 1980 to 1800 kcal/day * 1.30 = 2340)\n    *   Sepsis: Increased 30-60% (e.g., 1800 kcal/day * 1.30 = 2340 to 1800 kcal/day * 1.60 = 2880)\n    *   Third-degree burns > 20% BSA: Increased 50-100% (e.g., 1800 kcal/day * 1.50 = 2700 to 1800 kcal/day * 2.00 = 3600)"
+        },
+        {
+            "id": 48,
+            "question_type": "mcq",
+            "question": "48. Skeletal trauma (SELECT 1 EXPENDITURE)",
+            "options": [
+                "a. 1600",
+                "b. 2300",
+                "c. 2800",
+                "d. 3600",
+                "e. 4500"
+            ],
+            "answer": "B",
+            "explanation": "*   Resting energy expenditure (REE) in nonstressed patients is approximately 10% greater than basal energy expenditure.\n*   REE increases proportionally to the degree of stress.\n*   Studies using indirect calorimetry have documented the relative increase in REE for various clinical situations:\n    *   Prolonged starvation: Decreased 10-30% (e.g., 1800 kcal/day * 0.90 = 1620 to 1800 kcal/day * 0.70 = 1260)\n    *   Skeletal trauma: Increased 10-30% (e.g., 1800 kcal/day * 1.10 = 1980 to 1800 kcal/day * 1.30 = 2340)\n    *   Sepsis: Increased 30-60% (e.g., 1800 kcal/day * 1.30 = 2340 to 1800 kcal/day * 1.60 = 2880)\n    *   Third-degree burns > 20% BSA: Increased 50-100% (e.g., 1800 kcal/day * 1.50 = 2700 to 1800 kcal/day * 2.00 = 3600)"
+        },
+        {
+            "id": 49,
+            "question_type": "mcq",
+            "question": "49. Third-degree burns of 60% of body surface area (BSA) (SELECT 1 EXPENDITURE)",
+            "options": [
+                "a. 1600",
+                "b. 2300",
+                "c. 2800",
+                "d. 3600",
+                "e. 4500"
+            ],
+            "answer": "D",
+            "explanation": "*   Resting energy expenditure (REE) in nonstressed patients is approximately 10% greater than basal energy expenditure.\n*   REE increases proportionally to the degree of stress.\n*   Studies using indirect calorimetry have documented the relative increase in REE for various clinical situations:\n    *   Prolonged starvation: Decreased 10-30% (e.g., 1800 kcal/day * 0.90 = 1620 to 1800 kcal/day * 0.70 = 1260)\n    *   Skeletal trauma: Increased 10-30% (e.g., 1800 kcal/day * 1.10 = 1980 to 1800 kcal/day * 1.30 = 2340)\n    *   Sepsis: Increased 30-60% (e.g., 1800 kcal/day * 1.30 = 2340 to 1800 kcal/day * 1.60 = 2880)\n    *   Third-degree burns > 20% BSA: Increased 50-100% (e.g., 1800 kcal/day * 1.50 = 2700 to 1800 kcal/day * 2.00 = 3600)"
+        },
+        {
+            "id": 50,
+            "question_type": "mcq",
+            "question": "50. Prolonged starvation (SELECT 1 EXPENDITURE)",
+            "options": [
+                "a. 1600",
+                "b. 2300",
+                "c. 2800",
+                "d. 3600",
+                "e. 4500"
+            ],
+            "answer": "A",
+            "explanation": "*   Resting energy expenditure (REE) in nonstressed patients is approximately 10% greater than basal energy expenditure.\n*   REE increases proportionally to the degree of stress.\n*   Studies using indirect calorimetry have documented the relative increase in REE for various clinical situations:\n    *   Prolonged starvation: Decreased 10-30% (e.g., 1800 kcal/day * 0.90 = 1620 to 1800 kcal/day * 0.70 = 1260)\n    *   Skeletal trauma: Increased 10-30% (e.g., 1800 kcal/day * 1.10 = 1980 to 1800 kcal/day * 1.30 = 2340)\n    *   Sepsis: Increased 30-60% (e.g., 1800 kcal/day * 1.30 = 2340 to 1800 kcal/day * 1.60 = 2880)\n    *   Third-degree burns > 20% BSA: Increased 50-100% (e.g., 1800 kcal/day * 1.50 = 2700 to 1800 kcal/day * 2.00 = 3600)"
+        }
+    ]
+}

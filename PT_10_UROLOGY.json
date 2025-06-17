@@ -1,0 +1,173 @@
+{
+    "chapter_name": "UROLOGY",
+    "questions": [
+        {
+            "id": "1",
+            "question_type": "mcq",
+            "question": "Initial management of a patient who has a flaccid neurogenic bladder may include which of the following measures?",
+            "options": [
+                "a. Surgical bladder augmentation",
+                "b. Self-catheterization",
+                "c. Supravesical urinary diversion",
+                "d. Limiting fluid intake to less than 300 mL/day",
+                "e. Transurethral resection of the bladder neck"
+            ],
+            "answer": "B",
+            "explanation": "- Patients who have a lower motor neuron lesion (flaccid neurogenic bladder) can usually be managed by conservative measures that prevent the development of a large residual urine volume in the bladder.\n- These measures include intermittent self-catheterization and scheduled voiding with increased abdominal pressure provided by the Valsalva maneuver or manual pressure on the abdomen.\n- Detrusor contractions can sometimes be strengthened by parasympathomimetic agents such as bethanechol chloride (Urecholine).\n- Bladder augmentation to increase capacitance, bladder neck resection to reduce outlet obstruction, and supravesicle ureteral diversion are indicated only in the presence of deterioration of bladder compliance or gross ureterocalyxectasis that resists the foregoing measures and threatens the loss of renal function or debilitating urinary incontinence.\n- Severely restricting fluid intake is impractical and may promote formation of calculi."
+        },
+        {
+            "id": "2",
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding hypospadias is correct?",
+            "options": [
+                "a. It is often associated with chordee (ventral curvature of the penis)",
+                "b. It is associated with undescended testes in more than 50% of cases",
+                "c. It is a rare fusion defect of the posterior male urethra",
+                "d. It occurs sporadically, without evidence of familial inheritance",
+                "e. The most common location is penoscrotal"
+            ],
+            "answer": "A",
+            "explanation": "- Hypospadias is a common congenital anomaly of the penis resulting from incomplete development of the anterior urethra.\n- It occurs in about 1 in 300 live births and is believed to have a multifactorial genetic mode of inheritance.\n- Of those with hypospadias, about 7% have a father with the disorder, 14% a brother, and 20% a second family member.\n- Hypospadias occurs in the corona in about 75% of cases, where it is often accompanied by chordee.\n- Undescended testes occur in about 10% of cases of hypospadias, as do inguinal hernias.\n- Hypospadias in the scrotal area is associated with bilateral undescended testes and infertility and must be differentiated from pseudohermaphroditism and adrenogenital syndrome."
+        },
+        {
+            "id": "3",
+            "question_type": "mcq",
+            "question": "The recommended treatment for stage A (superficial and submucosal) transitional cell carcinoma of the bladder is",
+            "options": [
+                "a. Local excision",
+                "b. Radical cystectomy",
+                "c. Radiation therapy",
+                "d. Topical (intravesicular) chemotherapy",
+                "e. Systemic chemotherapy"
+            ],
+            "answer": "D",
+            "explanation": "- Bladder cancer represents 2% of all cancers, and 90% of bladder cancers are of transitional cell origin.\n- It is most prevalent among men with a heavy smoking history and is usually multifocal and superficial, even when recurrent.\n- When the disease is still superficial, transurethral resection of visible lesions and intravesicular chemotherapy are most often recommended.\n- More radical surgical extirpation is reserved for advanced stages of the disease."
+        },
+        {
+            "id": "4",
+            "question_type": "mcq",
+            "question": "A 36-year-old man presents to the emergency room with renal colic. A radiograph reveals a 1.5-cm stone. Which of the following statements regarding this disorder is correct?",
+            "options": [
+                "a. Conservative treatment including hydration and analgesics will not result in a satisfactory outcome",
+                "b. Serial kidney, ureter, bladder (KUB) radiographs should be used to follow this patient",
+                "c. The urinalysis will nearly always reveal microhematuria",
+                "d. When the acute event is correctly treated, this disease seldom recurs",
+                "e. Elevated BUN and creatinine are expected"
+            ],
+            "answer": "A",
+            "explanation": "- Initial management should include hydration and analgesics.\n- However, as the stone is larger than 1 cm, it is unlikely to pass spontaneously, though stones smaller than 0.5 cm usually do pass spontaneously.\n- The size of the stone also makes a high-grade obstruction more likely; therefore an intravenous pyelogram (IVP) must be urgently performed.\n- A high-grade obstruction will require nephrostomy or the passage of a ureteral stent.\n- If the stone is completely occluding the lumen of the ureter, the urinalysis may not show microhematuria and thus may be misleading.\n- Approximately 15% of patients will have a recurrence within 1 year, and almost 50% may have a recurrence within 4 years.\n- Elevated BUN and creatinine are expected only in the setting of an obstructed single functioning kidney."
+        },
+        {
+            "id": "5",
+            "question_type": "mcq",
+            "question": "Optimal management of bilateral undescended testicles in an infant is",
+            "options": [
+                "a. Immediate surgical placement into the scrotum",
+                "b. Chorionic gonadotropin therapy for 1 mo; operative placement into the scrotum before age 1 if descent has not occurred",
+                "c. Observation until the child is 2 years old because delayed descent is common",
+                "d. Observation until age 5; if no descent by then, plastic surgical scrotal prostheses before the child enters school",
+                "e. No therapy; reassurance of the parent that full masculinization and normal spermatogenesis are likely even if the testicle does not fully descend"
+            ],
+            "answer": "B",
+            "explanation": "- By the second year, a testicle not in the cooler environment of the scrotal sac will begin to undergo histologic changes characterized by reduced spermatogonia.\n- Testicles left longer in the undescended state not only have a higher incidence of malignant degeneration, but are inaccessible for examination.\n- If a malignancy should occur, diagnosis will be delayed.\n- There is also a substantial psychological burden when children reach school age or are otherwise subjected to exposure of their deformed genitalia.\n- Gel-filled prostheses are generally inserted when a testicle cannot be placed in the scrotum.\n- Close follow-up by a physician until the late teens is indicated in all patients who have had an undescended testicle.\n- Since these patients may be at increased risk for malignancy throughout life, careful training should be given in self-examination."
+        },
+        {
+            "id": "6",
+            "question_type": "mcq",
+            "question": "Seminoma is accurately described by which of the following statements?",
+            "options": [
+                "a. It is the most common type of testicular cancer",
+                "b. Metastases to liver and bone are frequently found",
+                "c. It does not respond to radiation",
+                "d. The 5-year survival rate approaches 50%",
+                "e. Common presentation is that of a painful lump that transilluminates"
+            ],
+            "answer": "A",
+            "explanation": "- Seminomas tend to grow slowly and metastasize late.\n- They usually present as a nonpainful lump that does not transilluminate.\n- They represent about 40% of malignant testicular tumors; embryonal cell carcinoma and teratocarcinoma each represent about 25%.\n- Because most tumors have mixed elements, they are usually classified according to the most malignant cell type encountered, whatever the predominant cell type.\n- When metastases occur, they are usually along the regional lymphatic drainage pathways to the iliac, aortic, and renal lymph nodes.\n- Because of their slow growth and radiosensitivity, seminomas are associated with a 90% 5-year survival rate.\n- Therapy generally consists of removing the affected testis and sampling the lymph nodes (usually external iliac) for evidence of metastasis.\n- If metastases are present, radiation therapy is given locally to areas of known involvement.\n- Radiation therapy is highly effective in seminoma, and metastatic disease may be palliated for extended periods."
+        },
+        {
+            "id": "7",
+            "question_type": "mcq",
+            "question": "A 10-year-old boy presents to the emergency room with testicular pain of 5 h duration. The pain was of acute onset and woke the patient from sleep. On physical examination, he is noted to have a high-riding, indurated, and markedly tender left testis. Pain is not diminished by elevation. Urinalysis is unremarkable. Which of the following statements regarding the patient's diagnosis and treatment is true?",
+            "options": [
+                "a. There is a strong likelihood that this patient's father or brother has had or will have a similar event",
+                "b. Operation should be delayed until a technetium scan clarifies the diagnosis",
+                "c. The majority of testicles that have undergone torsion can be salvaged if surgery is performed within 24 h",
+                "d. If torsion is found, both testes should undergo orchiopexy",
+                "e. The differential diagnosis includes spermatocele"
+            ],
+            "answer": "D",
+            "explanation": "- Testicular torsion occurs commonly in adolescents.\n- The underlying pathology is secondary to an abnormally narrowed testicular mesentery with tunica vaginalis surrounding the testis and epididymis in a \"bell-clapper\" deformity.\n- As the testis twists, it comes to lie in a higher position within the scrotum.\n- Urinalysis is usually negative.\n- Elevation will not provide a decrease in pain (negative Prehn sign); a positive Prehn sign might indicate epididymitis.\n- A 99mTc pertechnetate scan may be helpful in clarifying a confusing case; however, operation should not be delayed beyond 4 h from the time of onset of symptoms in order to maximize testicular salvage.\n- This patient's presentation warrants immediate operation.\n- The salvage rate for delay greater than 12 h is less than 20%.\n- Both the affected and unaffected testes should undergo orchiopexy.\n- The differential diagnosis between torsion of the testicle and epididymitis is sometimes quite difficult.\n- On occasion, one has to explore a patient with epididymitis just to rule out a torsion of the testicle.\n- Epididymitis usually occurs in sexually active males.\n- Urinalysis is usually positive for inflammatory cells, and urethral discharge is often present.\n- Spermatocele is a cyst of an efferent ductule of the rete testis.\n- It presents as a painless transilluminable cystic mass that is separate from the testes."
+        },
+        {
+            "id": "8",
+            "question_type": "mcq",
+            "question": "Genitourinary tuberculosis in a male patient is suggested by which of the following findings?",
+            "options": [
+                "a. Microscopic hematuria",
+                "b. Bacteriuria without pyuria",
+                "c. Unilateral renal cysts",
+                "d. Painful swelling of the epididymis",
+                "e. Pneumaturia"
+            ],
+            "answer": "A",
+            "explanation": "- Genitourinary tuberculosis develops from reactivation of foci in the renal cortex or prostate that were hematogenously seeded during the primary (usually asymptomatic) pulmonary infection.\n- Local spread from the renal and prostatic sites can lead to involvement of the calyx, ureter, bladder, vas deferens, epididymis, and (rarely) the testis.\n- A low-grade inflammatory response results in hematuria or pyuria without bacteriuria.\n- Whenever pus cells are seen on routine urine culture without bacteria on smear or culture plate, genitourinary tuberculosis should be considered.\n- The end result of focal caseation necrosis in the kidney may be scarring and dystrophic calcification.\n- Genital tract infection often causes an asymptomatic swelling in the epididymis; secondary infection or formation of a sinus tract to the scrotal skin may cause more dramatic signs and symptoms.\n- Epididymal tuberculosis is usually managed by chemotherapy, with surgery reserved for refractory cases.\n- Pneumaturia is associated with a colovesical fistula and not with genitourinary tuberculosis."
+        },
+        {
+            "id": "9",
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding carcinoma of the prostate is true?",
+            "options": [
+                "a. It has a higher incidence among American blacks than other American ethnic groups",
+                "b. A single microscopic focus of prostate cancer discovered on transurethral resection of the prostate (TURP) is an indication for radical prostatectomy",
+                "c. It arises initially in the gland's central portion",
+                "d. It commonly produces osteoclastic bony metastases",
+                "e. Screening for prostate-specific antigen, although easily done, offers no advantage over simple rectal examination in the detection of the disease"
+            ],
+            "answer": "A",
+            "explanation": "- One of the most frequent causes of male cancer deaths, prostate cancer has an incidence of more than 75,000 new cases per year in the United States.\n- American blacks appear to have a 50% higher incidence and mortality.\n- Prostate cancer (adenocarcinoma) arises initially in the periphery of the gland.\n- Therefore, one of the best screening tests is careful rectal examination.\n- However, the use of screening for prostate-specific antigen (PSA) has increased the detection rate fourfold.\n- Spread is by direct local extension and by lymphatic and vascular channels.\n- The most common locations of distant metastases are in the axial skeleton with osteoblastic bony lesions.\n- A single focus of disease discovered on TURP or simple prostatectomy is considered stage A₁.\n- Only 2% of patients have unsuspected nodes (i.e., only 2% 5- to 10-year mortality).\n- Therefore, no definitive therapy is required except possibly in patients less than 60 years old.\n- Follow-up should be undertaken and progression of disease may be treated as necessary.\n- Several foci or diffuse disease is considered stage A2 and surgery or radiation therapy is generally indicated."
+        },
+        {
+            "id": "10",
+            "question_type": "mcq",
+            "question": "Which of the following statements regarding benign prostatic hyperplasia (BPH) is true?",
+            "options": [
+                "a. The fibrostromal proliferation of BPH occurs mainly in the outer portion of the gland",
+                "b. Assuming a voided volume greater than 100 mL, a peak urine flow rate of 30 mL/s or less is good evidence of outflow obstruction",
+                "c. Suprapubic prostatectomy for BPH involves enucleation of the entire prostate and eliminates the risk of future prostate cancer",
+                "d. Indications for surgery include acute urinary retention and recurrent urinary tract infections (UTIs)",
+                "e. BPH is a risk factor for the development of prostatic cancer"
+            ],
+            "answer": "D",
+            "explanation": "- In contrast to prostate cancer, BPH arises first in the periurethral prostate tissue as a fibrostromal proliferation.\n- As the periurethral prostate grows, the outer prostate glands are compressed against the true prostatic capsule, which results in a thick pseudocapsule.\n- As the prostate enlarges, it encroaches on the urethra and causes urinary outflow obstruction.\n- Obstructive symptoms include decreased force of stream, hesitancy, recurrent UTIs, and occasionally acute urinary retention; the latter two are indications for surgery.\n- Uroflow is the best noninvasive method of estimating the degree of outlet obstruction.\n- Flow less than 10 mL/s is good evidence of significant obstruction.\n- The major treatments for BPH are surgical.\n- Simple prostatectomy involves shelling out the prostate adenoma and leaving the pseudocapsule (true prostate) behind.\n- Therefore, these patients are still at risk of developing prostate cancer although BPH in and of itself is not a risk factor for prostatic cancer."
+        },
+        {
+            "id": "11",
+            "question_type": "mcq",
+            "question": "During the course of an operation on an unstable, critically ill patient, the left ureter is lacerated through 50% of its circumference. If the patient's condition is felt to be too serious to allow time for definitive repair, alternative methods of management include",
+            "options": [
+                "a. Ligation of the injured ureter and ipsilateral nephrostomy",
+                "b. Ipsilateral nephrectomy",
+                "c. Placement of a catheter from the distal ureter through an abdominal wall stab wound",
+                "d. Placement of a suction drain adjacent to the injury without further manipulation that might convert the partial laceration into a complete disruption",
+                "e. Bringing the proximal ureter up to the skin as a ureterostomy"
+            ],
+            "answer": "A",
+            "explanation": "- If time and the patient's condition permit, primary ureteral reconstruction should be carried out.\n- In the middle third of the ureter, this will usually consist of ureteroureterostomy using absorbable sutures over a stent.\n- If the injury involves the upper third, ureteropyeloplasty may be necessary.\n- In the lower third, ureteral implantation into the bladder using a tunneling technique is preferred.\n- If time does not permit definitive repair, suction drainage adjacent to the injured segment alone is inadequate; either ligation and nephrostomy or placement of a catheter into the proximal ureter is an acceptable alternative that would allow reconstruction to be performed later.\n- The creation of a watertight seal is difficult and nephrectomy may be required if the injury occurs during a procedure in which a vascular prosthesis is being implanted (e.g., an aortic reconstructive procedure) and contamination of the foreign body by urine must be avoided."
+        },
+        {
+            "id": "12",
+            "question_type": "mcq",
+            "question": "A pedestrian is hit by a speeding car. Radiologic studies obtained in the emergency room, including a retrograde urethrogram, are consistent with a pelvic fracture with a rupture of the urethra superior to the urogenital diaphragm. Management should consist of",
+            "options": [
+                "a. Immediate percutaneous nephrostomy",
+                "b. Immediate placement of a Foley catheter through the urethra into the bladder to align and stent the injured portions",
+                "c. Immediate reconstruction of the ruptured urethra after initial stabilization of the patient",
+                "d. Immediate exploration of the pelvis for control of hemorrhage from pelvic fracture and drainage of the pelvic hematoma",
+                "e. Immediate placement of a suprapubic cystostomy tube"
+            ],
+            "answer": "E",
+            "explanation": "- If a rupture of the urethra is suspected, a retrograde urethrogram should be obtained before any attempts are made to place a Foley catheter, as efforts to do so may result in the creation of multiple false passages or conversion of a partial laceration into complete rupture.\n- Previously, treatment had included attempts to realign the urethra immediately through the placement of interlocking sounds and traction using either a catheter passed over the sounds or perineal traction sutures through the bladder neck.\n- Preferred treatment currently avoids both dissection into the pelvic hematoma surrounding the disruption and manipulation of the urethra; instead, only a suprapubic tube is placed immediately with delayed reconstruction after 3-6 mo, at which time the hematoma will have resolved and the prostate will have descended into the proximity of the urogenital diaphragm.\n- Percutaneous nephrostomy has no role in the management of this problem."
+        }
+    ]
+}

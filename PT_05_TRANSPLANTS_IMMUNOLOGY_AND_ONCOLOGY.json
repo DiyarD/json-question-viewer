@@ -1,0 +1,810 @@
+{
+    "chapter_name": "TRANSPLANTS, IMMUNOLOGY, AND ONCOLOGY",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "186. Tissue injury or infection results in the release of tumor necrosis factor (TNF) by which of the following cells?",
+            "options": [
+                "a. Fibroblasts",
+                "b. Damaged vascular endothelial cells",
+                "c. Monocytes/macrophages",
+                "d. Activated T lymphocytes",
+                "e. Activated killer lymphocytes"
+            ],
+            "answer": "C",
+            "explanation": "- Tumor necrosis factor (TNF) is a peptide hormone produced by endotoxin-activated monocytes/macrophages.\nt is postulated to be the principal cytokine mediator in gram-negative shock and sepsis-related organ damage.\n- Biologic actions of TNF include polymorphonuclear neutrophil (PMN) activation and degranulation, increased nonspecific host resistance, increased vascular permeability, lymphopenia, promotion of interleukins 1, 2, and 6, capillary leak syndrome, microvascular thrombosis, anorexia and cachexia, and numerous other protective and adverse effects in sepsis.\n- Its role in sepsis is a fertile field for research in critical care."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "187. A cross-match is performed by incubating",
+            "options": [
+                "a. Donor serum with recipient lymphocytes and complement",
+                "b. Donor lymphocytes with recipient serum and complement",
+                "c. Donor lymphocytes with recipient lymphocytes",
+                "d. Recipient serum with a known panel of multiple donor lymphocytes",
+                "e. Recipient serum with donor red blood cells and complement"
+            ],
+            "answer": "B",
+            "explanation": "- The purpose of a cross-match is to determine whether the recipient has circulating antibodies against donor HLA antigens.\n- Such antibodies do not occur naturally but are the result of prior sensitization during pregnancy, blood transfusions, or previous transplantation.\n- A complement-dependent lymphocytotoxicity cross-match is performed by adding recipient serum and complement to donor cells (T cells, B cells, or monocytes).\n- If specific anti-donor antibodies are present, antibody binding results in complement fixation and cell lysis, which is detected by the addition of a vital dye taken up by the damaged cell membrane, resulting in a positive cross-match.\n- If a positive cross-match is detected to donor T cells (HLA class I), transplantation will result in hyperacute rejection."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "188. In order to activate helper/inducer T (CD41) lymphocytes, macrophages release",
+            "options": [
+                "a. Interleukin 1",
+                "b. Interleukin 2",
+                "C. Interleukin 3",
+                "d. Interleukin 4",
+                "e. Interferon"
+            ],
+            "answer": "A",
+            "explanation": "- Interleukin 1 (IL-1) is a thymocyte mitogen produced by activated macrophages and many other cell types (e.g., monocytes, dendritic cells, Langerhans cells, neutrophils, microglial cells).\n- It induces interleukin 2 production by the helper T cell, which initiates a cascade of immunoregulatory and inflammatory functions."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "189. Which of the following cells cause immunologically restricted tumor cell lysis?",
+            "options": [
+                "a. Macrophages",
+                "b. Cytotoxic T lymphocytes",
+                "c. Natural killer cells",
+                "d. Polymorphonuclear leukocytes",
+                "e. Helper T lymphocytes"
+            ],
+            "answer": "B",
+            "explanation": "- Unlike the granulocyte line, T lymphocytes express the T-cell receptor, which imparts antigen specificity to T cells.\n- The helper T cell, when stimulated by interleukin 1 and antigens, produces various lymphokines that ultimately produce effector cells.\n- One of these effector cells is the cytotoxic T cell, which kills cells that express specific antigens, including viral, tumor, and nonbiologic antigens.\n- Macrophages and natural killer cells have some tumoricidal activity, but this is not specific for tumors."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "190. The primary mechanism of action of cyclosporine A is inhibi- tion of",
+            "options": [
+                "a. Macrophage function",
+                "b. Antibody production",
+                "c. Interleukin 1 production",
+                "d. Interleukin 2 production",
+                "e. Cytotoxic T-cell effectiveness"
+            ],
+            "answer": "D",
+            "explanation": "- Cyclosporine is a highly effective immunosuppressive agent produced by fungi.\n- It is more specific than anti-inflammatory agents like steroids or antiproliferative agents like azathioprine.\n- Its effectiveness in preventing allograft rejection is related to its ability to inhibit interleukin 2 production.\n- Without interleukin 2 from helper T cells, there is no clonal expansion of alloantigen-directed cytotoxic T cells and no stimulation of antibody production by B cells."
+        },
+        {
+            "id": 6,
+            "question_type": "clinical_scenario",
+            "question": "A 24-year-old woman presents with lethargy, anorexia, tachypnea, and weakness. Laboratory studies reveal a BUN of 150 mg/dL, serum creatinine of 16 mg/dL, and potassium of 6.2 meq/L. Chest x-ray shows increased pulmonary vascularity and a dilated heart.\n\n191. Management of this patient would include",
+            "options": [
+                "a. Emergency kidney transplantation",
+                "b. Creation and immediate use of a forearm arteriovenous fistula",
+                "c. Sodium polystyrene sulfonate (Kayexalate) enemas",
+                "d. A 100-g protein diet",
+                "e. Cardiac biopsy via femoral vein catheterization"
+            ],
+            "answer": "C",
+            "explanation": "- Hemodialysis, rather than dietary manipulation alone, should be instituted in patients with end-stage renal failure whose serum creatinine is over 15 mg/dL or whose creatinine clearance is less than 3 mL/min.\n- Hemodialysis should be initiated prior to the onset of uremic complications, which include hyperkalemia, congestive heart failure, peripheral neuropathy, severe hypertension, pericarditis, bleeding, and severe anemia.\n- The uremic hyperkalemic patient in congestive heart failure may require emergency dialysis in addition to standard conservative measures.\n- Standard conservative measures include (1) limitation of protein intake to less than 60 g/day and restriction of fluid intake, and (2) reduction of elevated serum potassium levels by insulin-glucose or sodium polystyrene sulfonate (Kayexalate) enema treatment.\n- Arteriovenous fistulas require about 2 weeks to develop adequate size and flow.\n- While awaiting maturation, temporary dialysis can be performed using an external arteriovenous shunt or the peritoneal cavity.\n- Renal biopsy would be performed to diagnose the underlying renal disease."
+        },
+        {
+            "id": 7,
+            "question_type": "clinical_scenario",
+            "question": "In the course of 3 mo of treatment, the patient's congestive heart failure resolves, the lethargy and weakness diminish markedly, and she is able to return to work part-time. Family immune profile studies reveal that her mother and her father both are haplotype identical with regard to HLA antigens and that her sister is a six-antigen match. The patient at this time should be urged to\n\n192. In the course of 3 mo of treatment, the patient's congestive heart failure resolves, the lethargy and weakness diminish markedly, and she is able to return to work part-time. Family immune profile studies reveal that her mother and her father both are haplotype identical with regard to HLA antigens and that her sister is a six-antigen match. The patient at this time should be urged to",
+            "options": [
+                "a. Continue hemodialysis three times a week",
+                "b. Undergo cadaveric renal transplantation",
+                "c. Accept a kidney transplant from her sister",
+                "d. Accept a kidney transplant from her father",
+                "e. Accept a kidney transplant from her mother"
+            ],
+            "answer": "C",
+            "explanation": "- Patients who are acceptable candidates for kidney transplantation should usually undergo this form of treatment after stabilization, as mortality for chronic hemodialysis is now higher than for transplantation.\n- Transplantation restores more patients to happier and more productive lives compared with chronic dialysis.\n- The best graft survival rates for living related transplants (over 90% at 5 years) are obtained when all six histocompatibility loci are identical.\n- All family members of potential transplant recipients should be tissue typed, and the donor should be selected based on the closest match, if feasible.\n- With cyclosporine-based immunosuppression, cadaveric kidney graft survival has approached that of living-related transplantation.\n- Some transplanters believe that the slight improvement with living-related kidneys does not justify the risk to the donor, suggesting these transplantations should no longer be performed."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "193. After the first postoperative year of cardiac transplantation, the most common cause of death is",
+            "options": [
+                "a. Infection",
+                "b. Arrhythmia",
+                "c. Accelerated graft arteriosclerosis",
+                "d. Acute rejection episode",
+                "e. Cancer"
+            ],
+            "answer": "C",
+            "explanation": "- Chronic graft rejection in cardiac allografts is manifested as chronic vascular rejection of main and intramuscular coronary arteries.\n- Myointimal proliferation and medial scarring result in diffuse and eccentric arterial narrowing, referred to as accelerated graft atherosclerosis.\n- Infection remains the primary cause of death within the first year of cardiac transplant.\n- Accelerated graft arteriosclerosis is the most common cause of mortality thereafter.\n- Current options for combating this problem include percutaneous transluminal coronary angioplasty, coronary artery bypass grafting, and retransplantation."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "194. Which of the following precludes cadaveric renal transplantation?",
+            "options": [
+                "a. Positive cross-match",
+                "b. Donor blood type O",
+                "c. Two-antigen HLA match with donor",
+                "d. Blood pressure of 180/100 mm Hg",
+                "e. Hemoglobin level of 8.2 g/dL"
+            ],
+            "answer": "A",
+            "explanation": "- A positive cross-match means the recipient has circulating antibodies cytotoxic to donor-strain lymphocytes.\n- This incompatibility almost always leads to acute humoral rejection of the graft and precludes transplantation.\n- Blood type matching prior to organ allograft is similar to cross-matching prior to transfusion; O is the universal donor, and AB is the universal recipient.\n- Minor blood group factors do not appear to act as histocompatibility antigens.\n- Matching of HLA antigens in cadaveric renal transplants may improve graft survival, but the impact is relatively minor.\n- A two-antigen match is perfectly acceptable, and even zero-antigen matches can be transplanted with good results.\n- Neither hypertension nor anemia is a contraindication to transplantation; hypertension may be cured or ameliorated, and anemia generally improves following successful transplantation due to increased erythropoietin production by the graft."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "195. Which of the following statements regarding hyperacute rejection of a transplanted kidney is true?",
+            "options": [
+                "a. It is mediated by preformed donor antibodies against recipient HLA antigens",
+                "b. It can be prevented by performing lymphocytotoxicity cross-match testing",
+                "C. It is manifest grossly by a swollen, pale kidney at the time of transplant surgery",
+                "d. This form of rejection is associated with disseminated intravascular coagulation (DIC)",
+                "e. The rejection process can be treated with a steroid bolus and OKT3"
+            ],
+            "answer": "C",
+            "explanation": "- Hyperacute rejection is mediated by cytotoxic antibodies, triggering the complement, coagulation, and kinin systems.\n- It can occur during surgery after vascular anastomosis clamps are released, exposing recipient antibodies to donor passenger lymphocytes and kidney tissue.\n- The kidney typically becomes swollen and pale.\n- Hyperacute rejection causes immediate and early oliguria; biopsies should be performed intraoperatively or early postoperatively.\n- Pathologically, it is characterized by fibrin and platelet thrombosis and necrosis of glomerular tufts, renal arterioles, and small arteries.\n- Massive polymorphonuclear infiltrate with tubular necrosis occurs 24–36 hours post-transplantation.\n- Intravascular coagulation rarely results in systemic coagulopathy.\n- Careful cross-matching can test for cytotoxic antibodies.\n- To date, there is no adequate prevention or treatment for hyperacute rejection, although plasmapheresis and cyclophosphamide can transiently decrease the preformed antibody load."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "196. Which of the following state- ments regarding heart transplanta- tion is true?",
+            "options": [
+                "a. Heart transplants are matched by size and ABO blood type rather than tissue typing",
+                "b. Cadaveric graft survival is signifi- cantly lower with heart transplants as compared with renal transplants",
+                "c. Cold ischemia time for donor hearts should not be more than 48 h",
+                "d. The upper age limit for heart trans- plant eligibility is 55 years",
+                "e. The leading cause of death after the first year of cardiac transplantation is chronic rejection"
+            ],
+            "answer": "A",
+            "explanation": "- Cardiac transplantation is an acceptable clinical treatment for selected patients with end-stage cardiac failure.\n- Allograft survivals for heart transplants are comparable to cadaveric renal transplants, approximately 70% at 1 year and 50% at 5 years (Stanford group data).\n- While kidneys can be safely preserved for up to 48 hours, donor hearts protected by simple hypothermia should be transplanted within 4 hours.\n- Due to the short ischemia time, usual tissue-typing procedures for kidney transplantation are impractical for cardiac transplantation, and there is no correlation between match and outcome.\n- For heart transplants, donor and recipient must have at least ABO blood group compatibility.\n- Cyclosporine has improved results in both cardiac and renal transplantation, despite its nephrotoxicity.\n- Eligibility for cardiac transplantation has evolved from strict age criteria to flexible guidelines based on a patient's likelihood of survival and return to a functional life.\n- Many centers, however, observe age 65 as the upper limit for transplantation.\n- The leading cause of death in patients surviving more than 1 year after transplantation is infection, followed by graft atherosclerosis."
+        },
+        {
+            "id": 12,
+            "question_type": "clinical_scenario",
+            "question": "197. A 47-year-old man with hypertensive nephropathy devel- ops fever, graft tenderness, and oliguria 4 wk following cadaveric renal transplantation. Serum creati- nine is 3.1 mg/dL. A renal ultra- sound reveals mild edema of the renal papillae but normal flow in both the renal artery and renal vein. Nuclear scan demonstrates slug- gish uptake and excretion. The next most appropriate step is",
+            "options": [
+                "a. Performing an angiogram",
+                "b. Decreasing steroid and cyclospor- ine dose",
+                "c. Beginning intravenous antibiotics",
+                "d. Performing renal biopsy, steroid boost, and immunoglobulin ther- apy",
+                "e. Beginning FK 506"
+            ],
+            "answer": "D",
+            "explanation": "- The patient is experiencing an acute rejection episode, as 74% of all acute rejection episodes occur between 1 and 6 months post-transplantation.\n- To grade the rejection and monitor treatment response, a percutaneous renal biopsy should be performed.\n- The three treatment modalities for acute rejection are high-dose steroids alone, high-dose steroids plus antilymphocyte globulin (equine serum hyperimmunized to human lymphocytes), or high-dose steroids plus OKT3 (murine monoclonal antibody to the human CD3 complex)."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "198. Posttransplant cytomegalo- virus infection may cause",
+            "options": [
+                "a. Plyelonephritis",
+                "b. GI ulceration and hemorrhage",
+                "c. Cholecystitis",
+                "d. Intraabdominal abscess",
+                "e. Parotitis"
+            ],
+            "answer": "B",
+            "explanation": "- Overall, 30% of all infections in the post-transplant period are viral.\n- The most common viral infections are DNA viruses of the herpesvirus family, including cytomegalovirus (CMV), Epstein-Barr virus, herpes simplex virus, and varicella zoster virus.\n- CMV infections can be primary or reactive, with peak incidence around 6 weeks post-transplant.\n- Classic signs include fever, malaise, myalgia, arthralgia, and leukopenia.\n- CMV infection can affect multiple organ systems, leading to pneumonitis; ulceration and hemorrhage in the stomach, duodenum, or colon; hepatitis; esophagitis; retinitis; encephalitis; or pancreatitis.\n- The risk of developing post-transplant CMV depends on donor-recipient serology, with the greatest risk in seronegative patients receiving organs from seropositive donors.\n- Pyelonephritis, cholecystitis, intraabdominal abscesses, and parotitis are caused by bacterial infections or GI perforation, not primarily by CMV infection."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "199. In centers with experienced personnel, 1-year liver transplant survival is now approximately",
+            "options": [
+                "a. 95%",
+                "b. 80%",
+                "C. 65%",
+                "d. 50%",
+                "e. 35%"
+            ],
+            "answer": "B",
+            "explanation": "- With the introduction of cyclosporine in the early 1980s and accumulated experience, liver transplant graft and patient survivals have markedly improved.\n- In the azathioprine and steroid era, 1-year graft survival was around 25%.\n- More recently, most centers are experiencing 1-year graft survival rates of approximately 80%."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "200. Graft-versus-host disease has occurred with the transplantation of which of the following?",
+            "options": [
+                "a. Kidney",
+                "b. Lung",
+                "c. Heart",
+                "d. Bone marrow",
+                "e. Pancreas"
+            ],
+            "answer": "D",
+            "explanation": "- Donor-type lymphoid cells transplanted within a graft may recognize the host's tissue as foreign and mount an immune response against it, termed graft-versus-host disease (GVHD).\n- GVHD is common in bone marrow transplantation and is a significant source of morbidity and mortality.\n- Treatment requires more aggressive immunosuppression.\n- Current clinical practice includes depletion of lymphocytes from the marrow graft to prevent GVHD.\n- GVHD has been documented following liver transplantation, likely due to the large amount of lymphoid tissue in the donor liver.\n- GVHD has not been described following heart, lung, pancreas, or kidney transplantation."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "201. Which of the following dis- eases is appropriately treated with combined heart-lung transplanta- tion?",
+            "options": [
+                "a. Primary pulmonary hypertension",
+                "b. Cystic fibrosis",
+                "c. End-stage emphysema",
+                "d. Idiopathic dilated cardiomyopathy with long-standing secondary pul- monary hypertension",
+                "e. End-stage pulmonary fibrosis sec- ondary to sarcoidosis"
+            ],
+            "answer": "D",
+            "explanation": "- Many causes of end-stage lung disease are appropriately treated with lung transplantation.\n- Whether one or both lungs are replaced depends on recipient factors.\n- Patients with restrictive processes like primary pulmonary fibrosis do well with a single lung transplant.\n- For primary pulmonary hypertension, single lung transplantation has been adequate to unload the right ventricle, and replacement of both lungs has not been necessary.\n- Cystic fibrosis patients do well after lung transplantation, but double lung transplant is often necessary due to chronic infections.\n- Secondary pulmonary hypertension results from left ventricular failure with increased pulmonary pressures.\n- Reactive secondary pulmonary hypertension is best treated with heart transplantation.\n- Long-standing secondary pulmonary hypertension that is chiefly fixed is best treated with combined heart-lung transplantation."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "202. Which of the following is true regarding successful whole- organ pancreas transplantation in type I diabetes?",
+            "options": [
+                "a. It results in maintenance of normal serum glucose levels",
+                "b. Recurrence of diabetic nephropa- thy in simultaneously transplanted kidneys is not prevented",
+                "c. Oral glucose tolerance tests remain abnormal",
+                "d. The pathologic changes of diabetic retinopathy are reversed",
+                "e. The rate of diabetic ulcers and amputations in the lower extremi- ties is reduced"
+            ],
+            "answer": "D",
+            "explanation": "- Whole-organ pancreas transplantation is the only therapy for type I insulin-dependent diabetes that maintains normal serum glucose levels and normal glucose tolerance tests.\n- When the pancreas is transplanted along with a kidney, tight glucose control generally prevents the recurrence of diabetic nephropathy.\n- No series has shown reversal of diabetic retinopathy or reduction in the rate of diabetic ulcers or amputations, although some parameters of diabetic retinopathy may improve after pancreas transplantation."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "203. Which of the following is true regarding bone marrow trans- plantation?",
+            "options": [
+                "a. Marrow is highly immunogenic and easily rejected by the nonim- munosuppressed host",
+                "b. Marrow transplantation has not been successful in the treatment of aplastic anemias",
+                "c. Marrow transplantation has not been successful in the treatment of congenital immunodeficiency dis- eases",
+                "d. Marrow transplantation can be used as a successful therapy for stage IV breast cancer following high-dose chemotherapy",
+                "e. Marrow transplantation must be performed with low-level immuno- suppression to enhance the degree of chimerism"
+            ],
+            "answer": "A",
+            "explanation": "- Bone marrow cells are highly immunogenic.\n- Successful engraftment requires powerful immunosuppressants to allow transplanted cells to survive the host's immune response and to mount a graft-versus-host response against recipient tissues.\n- Graft-versus-host response is the major impediment to widespread clinical use of this technique.\n- Human bone marrow transplantation has important clinical applications in treating aplastic anemias, congenital immunodeficiency diseases, and several hematologic malignancies.\n- Stem cell transplantation involves harvesting a patient's own pluripotent bone marrow cells and subsequent reestablishment of marrow following high-dose, toxic chemotherapy for advanced cancer.\n- This modality has been used for recurrent breast cancer, but recent meta-analyses show no significant survival benefit.\n- In experimental models, bone marrow transplantation for inducing tolerance to organ allografts has shown promise, potentially providing a key for treatment protocols that avoid or reduce the need for toxic systemic immunosuppressants."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "204. Which of the following state- ments is true of the major histo- compatibility complex (MHC) proteins?",
+            "options": [
+                "a. Only nonnucleated cells express MHC class I proteins",
+                "b. B lymphocytes, antigen-presenting cells, and vascular endothelium express only MHC class II proteins",
+                "C. MHC class I proteins are encoded by the HLA-D locus (DR, DP, and DQ)",
+                "d. MHC class I proteins act as the major targets for antibody-mediated rejection of organ allografts and are detected by cross-matching tech- niques",
+                "e. B cells recognize antigens bound to MHC class II proteins"
+            ],
+            "answer": "D",
+            "explanation": "- Major histocompatibility complex (MHC) proteins are polymorphic cell surface molecules crucial for lymphocyte-lymphocyte and lymphocyte-target interactions.\n- All nucleated cells express MHC class I proteins.\n- B lymphocytes, antigen-presenting cells, vascular endothelium, and activated T lymphocytes express both MHC class I and class II proteins.\n- MHC class I proteins are encoded by the HLA-A, B, and C loci.\n- MHC class II proteins are encoded by the HLA-D locus.\n- Classically, MHC class I molecules with a bound antigen are recognized by the T-cell receptor on CD81 cells.\n- MHC class II molecules with a bound antigen are recognized by the T-cell receptor on CD41 cells."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "205. The most useful serum marker for detecting recurrent dis- ease after treatment of nonsemino- matous testicular cancer is",
+            "options": [
+                "a. Carcinoembryonic antigen (CEA)",
+                "b. a-fetoprotein (AFP)",
+                "c. Prostate-specific antigen (PSA)",
+                "d. CA125",
+                "e. p53 oncogene"
+            ],
+            "answer": "B",
+            "explanation": "- In patients with nonseminomatous testicular tumors, elevated serum levels of the β subunit of human chorionic gonadotropin (hCG), α-fetoprotein, and lactic dehydrogenase are useful indicators of tumor activity or recurrence.\n- Prostate-specific antigen (PSA) has been touted as a breakthrough for prostate cancer screening, though some clinicians question its impact on survival.\n- CA125 is used to monitor ovarian cancers; it is nonspecific but can alert physicians to the need for a more aggressive search for persistent disease when relative increases are noted after therapy.\n- p53 oncogenes are found in soft tissue sarcomas, osteogenic sarcomas, and colon cancers, but their significance is unknown."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "206. An edentulous 72-year-old man with a 50-year history of ciga- rette smoking presents with a non- tender, hard mass in the lateral neck. The simplest way to establish an accurate histological diagnosis of a neck mass suspected to be can- cerous is",
+            "options": [
+                "a. Fine needle aspiration cytology",
+                "b. Bone marrow biopsy",
+                "c. Nasopharyngoscopy",
+                "d. CT scan of the head and neck",
+                "e. Sinus x-ray"
+            ],
+            "answer": "A",
+            "explanation": "- Isolated enlarged cervical lymph nodes in adults are malignant in nearly 80% of cases (excluding benign thyroid tumors).\n- They are usually metastatic squamous cell carcinomas originating from primary sources above the clavicles in the aerodigestive tract.\n- Fine-needle aspiration cytology is commonly used for histological confirmation of suspected cancer.\n- Aspiration cytology can usually accurately diagnose carcinoma, but lymphoma may be difficult to identify, often requiring open biopsy.\n- Bone marrow biopsy is not indicated before lymph node biopsy; it is performed as part of the staging process after a lymphoma diagnosis.\n- Endoscopy and scanning of the oro- and nasopharynx are part of the diagnostic workup for suspected malignant cervical lymph node, but do not provide histological proof of cancer."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "207. Which of the following is true regarding intravenous admin- istration of chemotherapy?",
+            "options": [
+                "a. Subcutaneous extravasation of car- mustine (BCNU) or 5-fluorouracil (5-FU) usually causes ulceration",
+                "b. Extravasation of doxorubicin rarely causes serious ulceration because the agent binds quickly to tissue nucleic acid",
+                "c. Serious and progressive ulceration can be expected following extrava- sation of vincristine or vinblastine",
+                "d. Problems of wound healing should be anticipated if systemic 5-FU therapy is begun less than 2 wk postoperatively",
+                "e. Administration of folinic acid pre- vents most of the toxicity of methotrexate, but does not help to normalize wound healing"
+            ],
+            "answer": "D",
+            "explanation": "- Chemotherapy is generally most effective at killing rapidly dividing cells, placing fresh surgical wounds at risk in the early postoperative period.\n- All phases of normal wound healing are theoretically at risk from various chemotherapeutic agents.\n- Immediately after wounding, inflammation and vascular permeability lead to fibrin deposition and polymorphonuclear neutrophil (PMN), monocyte, and platelet influx.\n- Macrophages are attracted by the activated complement system.\n- The proliferative phase begins by the fourth day, with fibroblasts producing mucopolysaccharides and collagen for the next 20 days.\n- Collagen fiber cross-linking continues for several months in the maturation phase.\n- It is logical to delay antineoplastic agents for 10–14 days unless compelling clinical indications (e.g., superior vena cava syndrome) necessitate more urgent treatment.\n- Administration of folinic acid simultaneously with methotrexate normalizes wound healing.\n- Extravasation of chemotherapeutic agents during intravenous administration can cause severe ulceration and sloughing, largely related to the agent's nucleic-acid-binding characteristics.\n- Agents that do not bind to tissue nucleic acid (vincristine, vinblastine, nitrogen mustard, BCNU, 5-FU) generally cause only local damage from immediate injury, are quickly metabolized or inactivated, and allow for usual wound healing patterns.\n- Agents that bind nucleic acid (doxorubicin, dactinomycin, mitomycin C, mithramycin, and daunorubicin) cause immediate toxic reaction and, unless excised, continuing and progressive tissue damage.\n- While some report success with elevation and ice packs, most recommend surgical excision for severe pain, early necrosis, or significant blistering."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "208. For which of the following malignancies does histologic grade best correlate with prognosis?",
+            "options": [
+                "a. Lung cancer",
+                "b. Melanoma",
+                "c. Colonic adenocarcinoma",
+                "d. Hepatocellular carcinoma",
+                "e. Soft tissue sarcoma"
+            ],
+            "answer": "E",
+            "explanation": "- Malignant tumor management is guided by grading and staging.\n- Histologic grading reflects the degree of anaplasia of tumor cells.\n- Tumors where histologic grading correlates with prognosis include soft tissue sarcoma, transitional cell cancers of the bladder, astrocytoma, and chondrosarcoma.\n- Grading has little predictive value in melanoma, hepatocellular carcinoma, or osteosarcoma.\n- Staging is based on the extent of spread rather than histologic appearance and is more relevant for predicting the course of lung and colorectal cancers."
+        },
+        {
+            "id": 24,
+            "question_type": "clinical_scenario",
+            "question": "209. A mother notices an abdominal mass in her 3-year-old son while giv- ing him a bath. There is no history of any symptoms, but the boy's blood pressure is elevated at 105/85 mm Hg. Metastatic workup is negative and the patient is explored. The mass below is found within the left kidney. Which of the following statements concerning this disease is correct?",
+            "options": [
+                "a. This tumor is associated with aniridia, hemihypertrophy, and cryptochidism",
+                "b. The majority of patients present with an asymptomatic abdominal mass and hematuria",
+                "c. Treatment with surgical excision, radiation, and chemotherapy results in survival of less than 60% even in histologically low-grade tumors",
+                "d. Surgical excision is curative and no further treatment is ordinarily advised",
+                "e. This tumor is the most common malignancy in childhood"
+            ],
+            "answer": "A",
+            "explanation": "- This is a nephroblastoma (Wilms tumor) adherent to the left kidney.\n- These tumors are associated with aniridia (rarely), hemihypertrophy, cryptorchidism, or hypospadias in about 10% of cases.\n- Most patients present with an asymptomatic mass found by a parent.\n- Less than one-third of patients experience hematuria.\n- Over half of such cases present with hypertension, likely due to compression of the renal artery by the mass.\n- Treatment with excision, radiation, vincristine, and actinomycin D results in survival rates over 90% for stage I and II tumors.\n- CT or MRI evaluates metastatic disease; IVP is better for differentiating this tumor from polycystic kidney or neuroblastoma.\n- Wilms tumor is the most common abdominal malignancy of childhood, but represents only about 10% of childhood malignant tumors."
+        },
+        {
+            "id": 25,
+            "question_type": "clinical_scenario",
+            "question": "210. An 11-year-old girl presents to your office because of a family history of medullary carcinoma of the thyroid. Physical examination is normal. Which of the following tests would you perform?",
+            "options": [
+                "a. Urine vanillylmandelic acid (VMA) level",
+                "b. Serum insulin level",
+                "c. Serum gastrin level",
+                "d. Serum glucagon level",
+                "e. Serum somatostatin level"
+            ],
+            "answer": "C",
+            "explanation": "- Medullary carcinomas occur in families as part of multiple endocrine neoplasia (MEN) type 2A and 2B syndromes.\n- MEN 2A includes multicentric medullary thyroid cancer, pheochromocytomas or adrenal medullary hyperplasia, and hyperparathyroidism.\n- MEN 2B includes medullary cancer, pheochromocytoma, mucosal neuromas, gangliomas, and a Marfan-like habitus.\n- Patients with MEN 2B may develop medullary carcinoma at a very young age, and should be assumed to have it until proven otherwise.\n- Patients are carefully followed for pheochromocytoma with urine VMA, hyperparathyroidism with serum calcium, and medullary carcinoma with serum calcitonin.\n- As some patients have normal basal calcitonin, a pentagastrin or provocative calcium infusion test must be performed in high-risk patients.\n- Patients suspected of MEN 1 syndrome (pituitary, parathyroid, and pancreatic tumors) or Zollinger-Ellison syndrome should be assayed for serum gastrin, insulin, glucagon, and somatostatin, which may be inappropriately high due to pancreatic islet cell tumors."
+        },
+        {
+            "id": 26,
+            "question_type": "clinical_scenario",
+            "question": "211. A 37-year-old woman has developed a 6-cm mass on her anterior thigh over the past 10 mo. The mass appears to be fixed to the underlying muscle, but the overly- ing skin is movable. The next most appropriate step in management is",
+            "options": [
+                "a. Above-knee amputation",
+                "b. Excisional biopsy",
+                "c. Incisional biopsy",
+                "d. Bone scan",
+                "e. Abdominal CT scan"
+            ],
+            "answer": "C",
+            "explanation": "- Benign soft tissue tumors far outnumber malignant ones, leading to common delays in definitive treatment of soft tissue sarcomas.\n- Risk for malignancy increases for tumors greater than 5 cm, or those that are symptomatic or have enlarged rapidly.\n- Properly performed biopsy is critical for initial treatment of any soft tissue mass.\n- Improper biopsies can complicate sarcoma patient care and, rarely, eliminate surgical options.\n- Excisional biopsies should be reserved for small masses where complete excision would not jeopardize subsequent treatment if a sarcoma is found.\n- For all other masses, incisional biopsy should be performed, with the incision placed directly over the mass and oriented along the long axis of the extremity."
+        },
+        {
+            "id": 27,
+            "question_type": "clinical_scenario",
+            "question": "212. A 50-year-old man is inci- dentally discovered to have non- Hodgkin's lymphoma confined to the submucosa of the stomach dur- ing esophagogastroduodenoscopy for dyspepsia. Which of the follow- ing statements is true regarding his condition?",
+            "options": [
+                "a. Surgery alone cannot be considered adequate treatment",
+                "b. Combined chemotherapy and radi- ation therapy, without prior resec- ton, are not effective",
+                "c. Combined chemotherapy and radi- ation therapy, without prior resec- tion, result in a high risk of severe hemorrhage and perforation",
+                "d. Outcome (freedom from progres- sion and overall survival) is related to the histological grade of the tumor",
+                "e. The stomach is the most common site for non-Hodgkin's lymphoma of the gastrointestinal tract"
+            ],
+            "answer": "E",
+            "explanation": "- The stomach is the most common gastrointestinal site for non-Hodgkin's lymphoma, followed by the small intestine and colon.\n- Lymphomas constitute 3% of all malignant gastric tumors, with 90% being non-Hodgkin's type.\n- Surgery alone can be adequate treatment for non-Hodgkin's lymphoma not infiltrating beyond the submucosa.\n- Gastric resection is not mandatory, and there are no substantial differences in response or survival when resection is compared with combined chemotherapy and radiation therapy, even in advanced cases.\n- Chemotherapy and radiation therapy are effective even in unresected bulky cases, with minimal risk of hemorrhage and perforation."
+        },
+        {
+            "id": 28,
+            "question_type": "mcq",
+            "question": "213. Interferons are correctly characterized by which of the fol- lowing statements?",
+            "options": [
+                "a. They are a group of complex phos- pholipids",
+                "b. They are produced by virus-infected cells",
+                "c. They enhance viral replication",
+                "d. They cause Burkitt's lymphoma cell lines to divide",
+                "e. They have not been effective in the treatment of hairy cell leukemias"
+            ],
+            "answer": "B",
+            "explanation": "- Interferons are a group of glycoproteins initially discovered as products of virus-infected cells that inhibited viral replication.\n- They have since been shown to have various effects on immune system cells and malignant cells.\n- Interferons cause Burkitt's lymphoma cell lines to differentiate and lose the capacity to divide.\n- Hematologic malignancies are highly responsive to interferons; up to 100% of hairy cell leukemias show some remission.\n- Interferon alpha has shown promising results in recent clinical trials for chronic active hepatitis B and C."
+        },
+        {
+            "id": 29,
+            "question_type": "mcq",
+            "question": "214. Which of the following state- ments regarding malignant parotid tumors is correct?",
+            "options": [
+                "a. Acinar carcinoma is a highly ag- gressive malignant tumor of the parotid gland",
+                "b. Squamous carcinoma of the parotid gland exhibits only moderately malignant behavior",
+                "c. Regional node dissection for occult metastases is not indicated for malignant parotid tumors because of their low incidence and the mor- bidity of lymphadenectomy",
+                "d. Facial nerve preservation should be attempted when the surgical mar- gins of resection are free of tumor",
+                "e. Total parotidectomy (superficial and deep portions of the gland) is indicated for malignant tumors"
+            ],
+            "answer": "D",
+            "explanation": "- Acinar, adenoid cystic, and low-grade mucoepidermoid carcinomas exhibit moderately malignant behavior.\n- Undifferentiated, squamous, and high-grade mucoepidermoid carcinomas are considered highly malignant.\n- Regional node dissection is indicated for malignant tumors due to the high (up to 50%) incidence of occult regional metastases.\n- Facial nerve preservation should be attempted when surgical margins are adequate and the tumor is well localized.\n- The minimal appropriate procedure for parotid carcinoma is a superficial parotidectomy with nerve preservation.\n- The nerve must be partially or totally sacrificed if the tumor directly involves the nerve trunk or its branches."
+        },
+        {
+            "id": 30,
+            "question_type": "mcq",
+            "question": "215. Which of the following potentially operable complications is a common occurrence among patients receiving systemic chemo- therapy?",
+            "options": [
+                "a. Acute cholecystitis",
+                "b. Perirectal abscess",
+                "c. Appendicitis",
+                "d. Incarcerated femoral hernia",
+                "e. Diverticulitis"
+            ],
+            "answer": "B",
+            "explanation": "- Surgeons are often asked to evaluate patients receiving systemic chemotherapy.\n- Most chemotherapy complications do not require surgical therapy.\n- Perirectal abscesses are more common in immunosuppressed patients.\n- Gastrointestinal bleeding occurs due to mucosal irritation and thrombocytopenia.\n- Pancreatitis is uncommon but associated with L-asparaginase use.\n- Up to 20% of patients treated with floxuridine by continuous hepatic artery infusion develop some inflammation and bile duct obstruction.\n- Systemic chemotherapy does not increase the likelihood of acute cholecystitis, appendicitis, incarcerated femoral hernia, or diverticulitis."
+        },
+        {
+            "id": 31,
+            "question_type": "mcq",
+            "question": "216. Which of the following state- ments regarding testicular cancer is true?",
+            "options": [
+                "a. Lymph node dissection after radical orchiectomy is useful for staging but does not increase survival",
+                "b. Seminomas and choriocarcinomas are best treated with orchiectomy and retroperitoneal lymph node dissection",
+                "c. Seminomas are extremely resistant to radiotherapy",
+                "d. Orchiectomy for a testicular mass is approached via the scrotum",
+                "e. Cryptorchidism is associated with an increased risk of testicular cancer"
+            ],
+            "answer": "E",
+            "explanation": "- After radical orchiectomy, lymph node dissection is indicated for embryonal carcinoma, teratocarcinoma, and adult teratoma if there is no supradiaphragmatic spread.\n- This dissection improves 5-year survival and aids in staging.\n- Seminoma is highly radiosensitive, and lymph node dissection is unnecessary.\n- Choriocarcinoma is associated with pulmonary metastases in 81% of cases and is treated with chemotherapy.\n- Orchiectomy for a testicular mass is approached via an inguinal incision to perform a high ligation of the cord and prevent tumor spread.\n- Cryptorchidism (undescended testicle) is associated with decreased spermatogenesis and a lifelong risk of malignant degeneration, even after surgical correction."
+        },
+        {
+            "id": 32,
+            "question_type": "mcq",
+            "question": "217. Advantages of dialysis over renal transplantation include",
+            "options": [
+                "a. Less expense if the treatment con- tinues for less than 2 years",
+                "b. Increased number of pregnancies in female dialysis patients",
+                "c. Return of normal menses in female dialysis patients",
+                "d. Less anemia in dialysis patients",
+                "e. Increased 1-year survival of dialysis patients"
+            ],
+            "answer": "A",
+            "explanation": "- Dialysis is less expensive than renal transplantation if the graft functions for less than 2 years.\n- Recipients with functioning grafts are less anemic due to erythropoietin production by the graft.\n- As more dialysis patients receive recombinant erythropoietin, this advantage may disappear.\n- Transplanted females have more normal menses and an increased number of successful pregnancies.\n- Patient survival in both groups is comparable at 1 year."
+        },
+        {
+            "id": 33,
+            "question_type": "clinical_scenario",
+            "question": "A 30-year-old primigravida complains of headaches, restless- ness, sweating, and tachycardia. She is 18 wk pregnant and her blood pressure is 200/120 mm Hg.\n\n218. Appropriate workup might include",
+            "options": [
+                "a. Exploratory laparotomy",
+                "b. Mesenteric angiography",
+                "c. Head CT scan",
+                "d. Abdominal CT scan",
+                "e. Abdominal ultrasonogram"
+            ],
+            "answer": "E",
+            "explanation": "- This young pregnant woman presents with symptoms of a pheochromocytoma, which can initially become symptomatic during pregnancy.\n- A noninvasive workup should be performed.\n- Ultrasonography of the abdomen is often sufficient to localize the tumor to the right or left adrenal.\n- Abdominal CT scan, with its large radiation dose, should be avoided during pregnancy.\n- Treatment can involve early excision of the pheochromocytoma; in three pregnant women, this resulted in survival of two of the three infants.\n- Therapeutic abortion, especially at 18 weeks, is not indicated, and cesarean section would not produce a viable fetus.\n- The current approach involves alpha- and beta-adrenergic blockade, followed by vaginal delivery or cesarean section with tumor excision at the same time as delivery or electively after delivery.\n- Metyrosine (Demser) inhibits tyrosine hydroxylase, decreasing endogenous catecholamine levels.\n- This treatment, combined with term delivery, is also acceptable."
+        },
+        {
+            "id": 34,
+            "question_type": "clinical_scenario",
+            "question": "219. Appropriate treatment might consist of",
+            "options": [
+                "a. Therapeutic abortion",
+                "b. Urgent excision of the tumor and a therapeutic abortion",
+                "c. Phenoxybenzamine and propra- nolol followed by a combined cesarean section and excision of the tumor",
+                "d. Metyrosine (Demser) blockade fol- lowed by a combined cesarean sec- tion and excision of the tumor",
+                "e. Phenoxybenzamine and propra- nolol followed by a combined vagi- nal delivery at term and excision of the tumor"
+            ],
+            "answer": "E",
+            "explanation": "- This young pregnant woman presents with symptoms of a pheochromocytoma, which can initially become symptomatic during pregnancy.\n- A noninvasive workup should be performed.\n- Ultrasonography of the abdomen is often sufficient to localize the tumor to the right or left adrenal.\n- Abdominal CT scan, with its large radiation dose, should be avoided during pregnancy.\n- Treatment can involve early excision of the pheochromocytoma; in three pregnant women, this resulted in survival of two of the three infants.\n- Therapeutic abortion, especially at 18 weeks, is not indicated, and cesarean section would not produce a viable fetus.\n- The current approach involves alpha- and beta-adrenergic blockade, followed by vaginal delivery or cesarean section with tumor excision at the same time as delivery or electively after delivery.\n- Metyrosine (Demser) inhibits tyrosine hydroxylase, decreasing endogenous catecholamine levels.\n- This treatment, combined with term delivery, is also acceptable."
+        },
+        {
+            "id": 35,
+            "question_type": "mcq",
+            "question": "220. Which of the following state- ments regarding radiation therapy is true?",
+            "options": [
+                "a. Damage to DNA occurs primarily by the direct effect of ionizing radi- ation",
+                "b. Cellular hypoxia decreases sensitiv- ity to radiation",
+                "c. Cells in the S phase of the cell cycle are most radiosensitive",
+                "d. Radiation therapy following lump- ectomy of a breast cancer provides rates of local control equal to those of mastectomy",
+                "e. Skin, gastrointestinal mucosa, and bone marrow are relatively insensi- tive to radiotherapy"
+            ],
+            "answer": "B",
+            "explanation": "- Only about 30% of the biologic damage from x-rays is due to direct effects on the target molecule; the rest is from indirect action mediated by free radicals, modifiable by scavengers like sulfhydryl.\n- The percentage of cells killed by a given dose of x-rays or gamma rays significantly increases with molecular oxygen; oxygen-deficient cells are radiation-resistant.\n- A basic principle of radiation biology is that mammalian cell sensitivity to radiation varies with their position in the cell division cycle; M phase (mitotic phase) cells are the most radiosensitive.\n- Radiation is frequently used for local disease control.\n- Survival rates for breast lumpectomy and radiation are equal to those of mastectomy, but local control rates (10–15% recurrence at 10 years for stage I and II cancers treated with lumpectomy and radiation versus approximately 5% treated with mastectomy) are inferior.\n- Rapidly dividing cells of the gastrointestinal mucosa and bone marrow are particularly sensitive to radiation effects."
+        },
+        {
+            "id": 36,
+            "question_type": "mcq",
+            "question": "221. Which of the following state- ments regarding cancer therapy with interleukin 2 (IL-2) is true?",
+            "options": [
+                "a. It is a B-cell growth factor",
+                "b. It induces a major response in patients with metastatic breast can- cer",
+                "c. It induces a major response in patients with metastatic colon can- cer",
+                "d. It induces a major response in patients with metastatic melanoma",
+                "e. It induces a major response in patients with lymphoma"
+            ],
+            "answer": "D",
+            "explanation": "- With recombinant interleukin-2 availability, multiple cancer therapy trials have been conducted.\n- The most successful trials documented complete or partial responses in patients with metastatic renal cell carcinoma and melanoma.\n- However, IL-2 therapy has been ineffective for breast cancer, colon cancer, and lymphoma.\n- The therapy is not innocuous; all patients exhibit marked lymphocytosis, eosinophilia, fluid retention, fever, and decreased peripheral vascular resistance, similar to septic shock effects."
+        },
+        {
+            "id": 37,
+            "question_type": "mcq",
+            "question": "222. Which statement concerning cancer and nutrition is correct?",
+            "options": [
+                "a. Levels of nitrates in food and drink- ing water are positively correlated with the incidence of bladder can- cer",
+                "b. Regular ingestion of vitamin D from childhood probably inhibits formation of carcinogens",
+                "c. Consumption of excessive amounts of animal dietary fats is associated with increased incidences of colon cancer",
+                "d. Nutritional support of cancer patients improves response of the tumor to chemotherapy",
+                "e. Alcohol ingestion is associated with pancreatic cancer"
+            ],
+            "answer": "C",
+            "explanation": "- Malignant tumors require energy substrates from the host.\n- Animal studies show that withholding dietary proteins diminishes tumor growth rate.\n- No human evidence suggests nutritional support accelerates tumor growth or improves tumor response to therapy.\n- The association between stomach cancer and diet has been recognized for nearly a century, with nitrates and nitrosamides in food and drinking water implicated.\n- Evidence suggests regular childhood vitamin C ingestion may reduce carcinogen formation, though cancer incidence reduction isn't demonstrated.\n- Excessive dietary fat and fiber deficiency are clearly linked to increased colon cancer incidence.\n- Animal fats are also associated with exocrine pancreas, prostate, and endometrium cancers.\n- Alcohol consumption, especially with cigarette smoking, increases esophageal cancer incidence.\n- Alcohol consumption also increases pancreatitis incidence, but not pancreatic cancer."
+        },
+        {
+            "id": 38,
+            "question_type": "mcq",
+            "question": "223. How do cardiac allografts dif- fer from renal allografts?",
+            "options": [
+                "a. Cardiac allografts are matched by HLA tissue typing and renal allo- grafts are not",
+                "b. Cardiac allografts can tolerate a longer period of cold ischemia than renal allografts",
+                "c. One-year graft survival for cardiac allografts is substantially lower than that for renal allografts",
+                "d. Cardiac allografts are matched only by size and ABO blood type",
+                "e. Cyclosporine is a critical compo- nent of the immunosuppressive regimen for cardiac allografts but not renal allografts"
+            ],
+            "answer": "D",
+            "explanation": "- Cardiac allograft has become an accepted treatment for end-stage heart disease.\n- One-year cardiac allograft survival approaches 90% and is equivalent to 1-year renal allograft survival.\n- Cardiac allografts have a cold ischemia preservation time of 4–5 hours, making tissue typing impractical.\n- Cardiac donors are matched to recipients only by size and ABO blood type.\n- Tissue typing remains an important component of cadaveric kidney allograft matching.\n- The mainstay of immunosuppression for both cardiac and renal allografts continues to include cyclosporine, azathioprine (Imuran), and steroids."
+        },
+        {
+            "id": 39,
+            "question_type": "mcq",
+            "question": "224. Five-year survival rates in excess of 20% may be expected fol- lowing resection of pulmonary metastases if",
+            "options": [
+                "a. Other organ metastases are present",
+                "b. Lung lesions are solitary",
+                "C. Local tumor recurrence is found",
+                "d. The tumor doubling time is less than 20 days",
+                "e. The patient has received prior chemotherapy"
+            ],
+            "answer": "B",
+            "explanation": "- Resection of lung, liver, and brain metastases can occasionally result in 5-year cures.\n- Generally, surgery should only be undertaken if the primary tumor is controlled, diffuse metastatic disease is ruled out, and the patient's condition and metastasis location allow safe resection.\n- Five-year survival rates as high as 18% are reported for selected patients with liver metastases from colorectal primary tumors.\n- The best results come from pulmonary metastases resection, with 5-year survival rates exceeding those for primary bronchogenic carcinoma resection.\n- Autopsy reviews show many patients with pulmonary metastases have no other tumor evidence, suggesting resectional treatment may be justified even if lung foci are not solitary.\n- Patient selection for pulmonary resections can be aided by tumor doubling times; patients with doubling times greater than 40 days appear to benefit most, while those with doubling times less than 20 days are not significantly helped."
+        },
+        {
+            "id": 40,
+            "question_type": "mcq",
+            "question": "225. Which statement about transmission of HIV in the health care setting is true?",
+            "options": [
+                "a. A freshly prepared solution of dilute chlorine bleach will not ade- quately decontaminate clothing",
+                "b. All needles should be capped immediately after use",
+                "c. Cuts and other open skin wounds are believed to act as portals of entry for HIV",
+                "d. Double gloving reduces the risk of intraoperative needle sticks",
+                "e. The risk of seroconversion follow- ing a needle stick with a contami- nated needle is greater for HIV than for hepatitis B"
+            ],
+            "answer": "C",
+            "explanation": "- The risk of contracting HIV is much lower than for hepatitis B from a patient.\n- Although HIV transmission risk in healthcare is very low, seroconversion cases after parenteral exposure are reported.\n- Particular precautions should be taken when operating on patients known to be seropositive for HIV or with known risk factors.\n- Recommendations include excluding inexperienced personnel or those with open lesions from the operating room.\n- Disposable gowns, drapes, masks, and eye shields should be used.\n- Contaminated clothing should be soaked in a dilute (1:10) chlorine bleach solution before washing.\n- Double gloving does not reduce the major intraoperative risk of needle puncture, which is the primary source of risk to the operating team.\n- Needles should never be capped; an uncapped needle is less dangerous than recapping maneuvers."
+        },
+        {
+            "id": 41,
+            "question_type": "mcq",
+            "question": "226. Regarding the risk of breast cancer, which of the following statements is true?",
+            "options": [
+                "a. Breast cancer occurs more com- monly among women of the lower social classes",
+                "b. A history of breast cancer in a first- degree family relative is associated with a fourfold increase in risk",
+                "c. Women with a first birth after age 30 years have approximately twice the risk of those with a first birth before age 18",
+                "d. Cigarette smoking increases the risk of breast cancer",
+                "e. Hair dyes have been shown to increase the risk of breast cancer"
+            ],
+            "answer": "C",
+            "explanation": "- Risk factors for breast cancer include family history, nulliparity, previous breast cancer, early menarche, and late menopause.\n- A first birth after age 30 approximately doubles the risk compared to a first birth before age 18.\n- Having one first-degree relative (mother, sister, or daughter) with breast cancer also doubles the risk.\n- Women from upper social classes (measured by education or income) have the highest incidence of breast cancer.\n- Neither cigarette smoking nor hair dye use has been correlated with breast cancer."
+        },
+        {
+            "id": 42,
+            "question_type": "mcq",
+            "question": "227. Human immunodeficiency virus (HIV) has been isolated from many body fluids. Which of the fol- lowing is a major source of trans- mission?",
+            "options": [
+                "a. Tears",
+                "b. Sweat",
+                "c. Semen",
+                "d. Urine",
+                "e. Breast milk"
+            ],
+            "answer": "C",
+            "explanation": "- HIV has been isolated from blood, semen, vaginal secretions, saliva, tears, breast milk, CSF, amniotic fluid, and urine.\n- It is an extremely fastidious virus, ordinarily transmitted only after repeated admixture of body fluids.\n- Blood and semen are by far the major transmission fluids."
+        },
+        {
+            "id": 43,
+            "question_type": "mcq",
+            "question": "228. What is the primary toxicity of doxorubicin (Adriamycin)?",
+            "options": [
+                "a. Cardiomyopathy",
+                "b. Pulmonary fibrosis",
+                "c. Peripheral neuropathy",
+                "d. Uric acid nephropathy",
+                "e. Hepatic dysfunction"
+            ],
+            "answer": "A",
+            "explanation": "- Doxorubicin, an antibiotic derived from Streptomyces species, is active against sarcomas and carcinomas of the breast, liver, bladder, prostate, head and neck, esophagus, and lung.\n- Its major side effect is the production of a dilated cardiomyopathy.\n- Patients receiving this agent should undergo echocardiography before and after treatment to monitor potential cardiac toxicity."
+        },
+        {
+            "id": 44,
+            "question_type": "mcq",
+            "question": "229. What is the most common cause of cancer death among women?",
+            "options": [
+                "a. Breast cancer",
+                "b. Ovarian cancer",
+                "c. Colon cancer",
+                "d. Endometrial cancer",
+                "e. Lung cancer"
+            ],
+            "answer": "E",
+            "explanation": "- Cancer remains the second most common cause of mortality in the United States after heart disease, accounting for 22% of all deaths.\n- Both sexes have shown dramatic increases in lung cancer death rates from 1930 to 1990 due to increased cigarette smoking.\n- Lung cancer is the leading cause of cancer death in both men and women."
+        },
+        {
+            "id": 45,
+            "question_type": "mcq",
+            "question": "230. Which of the following agents causes hemorrhagic cystitis?",
+            "options": [
+                "a. Bleomycin",
+                "b. 5-fluorouracil",
+                "c. Cisplatin",
+                "d. Vincristine",
+                "e. Cyclophosphamide"
+            ],
+            "answer": "E",
+            "explanation": "- Cyclophosphamide is an alkylating agent used to treat various solid tumors; its major side effect is hemorrhagic cystitis.\n- Bleomycin can cause pulmonary fibrosis.\n- Vincristine is an alkaloid that can cause peripheral and central neuropathies.\n- Cisplatin is an alkylating agent that can lead to ototoxicity, neurotoxicity, and nephrotoxicity.\n- 5-fluorouracil is an antimetabolite that can cause mucositis, dermatitis, and cerebellar dysfunction."
+        },
+        {
+            "id": 46,
+            "question_type": "mcq",
+            "question": "231. What is the major barrier to successful transplantation across animal species (xenotransplanta- tion)?",
+            "options": [
+                "a. Acute rejection",
+                "b. Chronic rejection",
+                "c. Hyperacute rejection",
+                "d. Infection",
+                "e. ABO incompatibility"
+            ],
+            "answer": "C",
+            "explanation": "- The major barrier to successful xenotransplantation is hyperacute rejection.\n- This refers to the binding of preformed human antibodies to donor endothelial cells.\n- This binding results in the activation of complement, cell lysis, and eventual vascular thrombosis."
+        },
+        {
+            "id": 47,
+            "question_type": "mcq",
+            "question": "232. Which of the following are efficient antigen-presenting cells found in the epidermis?",
+            "options": [
+                "a. Macrophages",
+                "b. T cells",
+                "c. Langerhans cells",
+                "d. Dendritic cells",
+                "e. B cells"
+            ],
+            "answer": "C",
+            "explanation": "- Processing and presentation of antigen in association with class II molecules is critical for T cell activation.\n- Langerhans cells are potent antigen-presenting cells (APCs) found in skin.\n- Macrophages are the major APCs in the body.\n- Dendritic cells are APCs found in lymphoid tissue."
+        },
+        {
+            "id": 48,
+            "question_type": "mcq",
+            "question": "233. Which of the following state- ments is true regarding carcinoem- bryonic antigen (CEA)?",
+            "options": [
+                "a. CEA is an accurate screening test for primary colorectal cancer",
+                "b. CEA levels have not been helpful in the diagnosis of recurrent colorec- tal cancer",
+                "c. CEA levels, when elevated, are highly specific for colon cancer",
+                "d. CEA is present in normal colonic mucosa",
+                "e. Postoperative CEA assay is 70% accurate in predicting the appear- ance of liver metastases within 1 year"
+            ],
+            "answer": "E",
+            "explanation": "- CEA is a glycoprotein present in early embryonic and fetal cells (an oncofetal antigen) and in colon cancer.\n- It is not found in normal colon mucosa.\n- It is not tumor-specific and may be elevated in various benign and malignant conditions, including cirrhosis, ulcerative colitis, renal failure, pancreatitis, pancreatic cancer, stomach cancer, breast cancer, and lung cancer.\n- However, the CEA assay is a sensitive serologic tool for identifying recurrent disease.\n- In about two-thirds of patients with recurrent disease, an increased CEA level is the first indicator of tumor reappearance.\n- A rising CEA after colon cancer surgery, in the absence of other conditions, predicts liver metastases within 1 year with approximately 70% accuracy."
+        },
+        {
+            "id": 49,
+            "question_type": "clinical_scenario",
+            "question": "A 65-year-old man is admit- ted to the hospital with complaints of intermittent constipation and microcytic anemia. Barium enema reveals a nonobstructing \"apple- core\" lesion of the proximal sig- moid colon. Colonoscopy confirms the location of the mass and reveals no other synchronous lesions.\n\n234. (SELECT 1 STEP)",
+            "options": [
+                "a. Left hemicolectomy",
+                "b. Right hemicolectomy",
+                "C. Subtotal colectomy",
+                "d. Total colectomy",
+                "e. Hepatic wedge resection",
+                "f. External beam irradiation",
+                "g. 5-fluorouracil and leucovorin",
+                "h. External beam irradiation and chemotherapy",
+                "i. Abdominal MRI",
+                "j. No further treatment"
+            ],
+            "answer": "A",
+            "explanation": "- The patient has a left colon cancer.\n- To resect the tumor with a 3–5 cm margin on its proximal and distal ends and remove the draining lymph node basin, a left hemicolectomy should be performed.\n- A Dukes C tumor extends through the bowel wall and involves adjacent lymph nodes.\n- A study of 1166 patients with stage B and C colon cancer (NSABP) reported improved survival in patients randomized to receive adjuvant chemotherapy compared with no further treatment after resection.\n- Adjuvant radiation therapy has only been useful in preventing local recurrence in rectal cancers with positive surgical margins.\n- The liver is the most common site of bloodborne metastases from primary colorectal cancers.\n- In a subgroup of patients, the liver may be the only site of disease.\n- Overall, surgical resection is associated with a 25–30% 5-year survival rate."
+        },
+        {
+            "id": 50,
+            "question_type": "clinical_scenario",
+            "question": "235. The patient undergoes surgery and recovers uneventfully. Pathology of the resected specimen is reported as Dukes C with nega- tive surgical margins. (SELECT 1 STEP)",
+            "options": [
+                "a. Left hemicolectomy",
+                "b. Right hemicolectomy",
+                "C. Subtotal colectomy",
+                "d. Total colectomy",
+                "e. Hepatic wedge resection",
+                "f. External beam irradiation",
+                "g. 5-fluorouracil and leucovorin",
+                "h. External beam irradiation and chemotherapy",
+                "i. Abdominal MRI",
+                "j. No further treatment"
+            ],
+            "answer": "G",
+            "explanation": "- The patient has a left colon cancer.\n- To resect the tumor with a 3–5 cm margin on its proximal and distal ends and remove the draining lymph node basin, a left hemicolectomy should be performed.\n- A Dukes C tumor extends through the bowel wall and involves adjacent lymph nodes.\n- A study of 1166 patients with stage B and C colon cancer (NSABP) reported improved survival in patients randomized to receive adjuvant chemotherapy compared with no further treatment after resection.\n- Adjuvant radiation therapy has only been useful in preventing local recurrence in rectal cancers with positive surgical margins.\n- The liver is the most common site of bloodborne metastases from primary colorectal cancers.\n- In a subgroup of patients, the liver may be the only site of disease.\n- Overall, surgical resection is associated with a 25–30% 5-year survival rate."
+        },
+        {
+            "id": 51,
+            "question_type": "clinical_scenario",
+            "question": "236. In 6-mo follow-up an ab- dominal CT scan shows a 2-cm iso- lated lesion in the right lobe of the liver. Repeat colonoscopy shows no evidence of recurrent or metachro- nous lesions. Chest x-ray and bone scan are normal. (SELECT 1 STEP)",
+            "options": [
+                "a. Left hemicolectomy",
+                "b. Right hemicolectomy",
+                "C. Subtotal colectomy",
+                "d. Total colectomy",
+                "e. Hepatic wedge resection",
+                "f. External beam irradiation",
+                "g. 5-fluorouracil and leucovorin",
+                "h. External beam irradiation and chemotherapy",
+                "i. Abdominal MRI",
+                "j. No further treatment"
+            ],
+            "answer": "E",
+            "explanation": "- The patient has a left colon cancer.\n- To resect the tumor with a 3–5 cm margin on its proximal and distal ends and remove the draining lymph node basin, a left hemicolectomy should be performed.\n- A Dukes C tumor extends through the bowel wall and involves adjacent lymph nodes.\n- A study of 1166 patients with stage B and C colon cancer (NSABP) reported improved survival in patients randomized to receive adjuvant chemotherapy compared with no further treatment after resection.\n- Adjuvant radiation therapy has only been useful in preventing local recurrence in rectal cancers with positive surgical margins.\n- The liver is the most common site of bloodborne metastases from primary colorectal cancers.\n- In a subgroup of patients, the liver may be the only site of disease.\n- Overall, surgical resection is associated with a 25–30% 5-year survival rate."
+        },
+        {
+            "id": 52,
+            "question_type": "clinical_scenario",
+            "question": "A 32-year-old man with dia- betic nephropathy undergoes an uneventful renal transplant from his sister (two-haplotype match). His immunosuppressive regimen includes azathioprine, steroids, and cyclosporine. For each development in the postoperative period, select the most appropriate next step.\n\n237. On postoperative day 3 the patient is doing well, but you notice on his routine laboratory tests that his white blood cell count is 2.0. (SELECT 1 STEP)",
+            "options": [
+                "a. Begin gancyclovir",
+                "b. Administer steroid boost",
+                "c. Withhold steroids",
+                "d. Decrease cyclosporine",
+                "e. Increase cyclosporine",
+                "f. Decrease azathioprine",
+                "g. Obtain renal ultrasound",
+                "h. Begin broad-spectrum antibiotics",
+                "i. Administer filgrastim (Neupogen)",
+                "j. Administer FK50"
+            ],
+            "answer": "F",
+            "explanation": "- Routine postoperative immunosuppression for a renal transplant recipient includes cyclosporine, azathioprine, and steroids.\n- Cyclosporine is nephrotoxic and is often withheld postoperatively until creatinine returns to normal.\n- Azathioprine has bone marrow toxicity as its major side effect, requiring WBC and platelet count monitoring.\n- The patient's decreased WBCs are due to azathioprine toxicity; the most appropriate step is to decrease the azathioprine dose."
+        },
+        {
+            "id": 53,
+            "question_type": "clinical_scenario",
+            "question": "238. The patient's WBC count gradually returns to normal, but on postoperative day 7 he develops a fever of 39.44°C(103°F) and a nonproductive cough. A chest x- ray reveals diffuse interstitial infil- trates, and a \"buffy coat” is positive for viral inclusions. (SELECT 1 STEP)",
+            "options": [
+                "a. Begin gancyclovir",
+                "b. Administer steroid boost",
+                "c. Withhold steroids",
+                "d. Decrease cyclosporine",
+                "e. Increase cyclosporine",
+                "f. Decrease azathioprine",
+                "g. Obtain renal ultrasound",
+                "h. Begin broad-spectrum antibiotics",
+                "i. Administer filgrastim (Neupogen)",
+                "j. Administer FK50"
+            ],
+            "answer": "A",
+            "explanation": "- Viral infections are a serious cause of morbidity after transplantation.\n- A \"buffy coat\" is the supernatant of a centrifuged blood sample containing WBCs.\n- Viral cultures from this supernatant and localization of inclusion bodies can identify transplant patients infected with cytomegalovirus (CMV).\n- This patient has CMV pneumonitis and requires treatment with high-dose gancyclovir."
+        },
+        {
+            "id": 54,
+            "question_type": "clinical_scenario",
+            "question": "239. The patient recovers from the above illness and is discharged home on postoperative day 18. At 3-mo follow-up he is doing well, but you notice that his creatinine is 2.8 mg/dL. He has no fever, his graft is not tender, and his renal ultrasound is normal. (SELECT 1 STEP)",
+            "options": [
+                "a. Begin gancyclovir",
+                "b. Administer steroid boost",
+                "c. Withhold steroids",
+                "d. Decrease cyclosporine",
+                "e. Increase cyclosporine",
+                "f. Decrease azathioprine",
+                "g. Obtain renal ultrasound",
+                "h. Begin broad-spectrum antibiotics",
+                "i. Administer filgrastim (Neupogen)",
+                "j. Administer FK50"
+            ],
+            "answer": "D",
+            "explanation": "- An elevation in creatinine at 3-month follow-up can be due to rejection, anastomotic problems, urologic complications, infection, or nephrotoxicity from various medications.\n- With a normal ultrasound, no fever, and no graft tenderness, cyclosporine-induced nephrotoxicity is the most likely cause.\n- The most appropriate step is to reduce the cyclosporine dose."
+        },
+        {
+            "id": 55,
+            "question_type": "clinical_scenario",
+            "question": "240. Six months following his transplant, the patient begins to develop fever, malaise, and pain of the right lower quadrant. Upon pal- pation, the graft is tender. Chest x- ray and urine and blood cultures are normal. Renal ultrasound shows an edematous graft. (SELECT 1 STEP)",
+            "options": [
+                "a. Begin gancyclovir",
+                "b. Administer steroid boost",
+                "c. Withhold steroids",
+                "d. Decrease cyclosporine",
+                "e. Increase cyclosporine",
+                "f. Decrease azathioprine",
+                "g. Obtain renal ultrasound",
+                "h. Begin broad-spectrum antibiotics",
+                "i. Administer filgrastim (Neupogen)",
+                "j. Administer FK50"
+            ],
+            "answer": "B",
+            "explanation": "- At 6 months, with graft tenderness, fever, and an edematous kidney on ultrasound, rejection must be suspected.\n- Negative cultures make infection unlikely.\n- A steroid boost is appropriate.\n- Addition of monoclonal antibodies to CD3 (OKT3) or pooled antibodies against lymphocytes (ALG) is also appropriate for treating a first rejection."
+        }
+    ]
+}
