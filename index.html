@@ -189,6 +189,46 @@
     </main>
 
     <script>
+
+        function markdownToHtmlList(markdown) {
+  const lines = markdown.trim().split('\n');
+  let html = '';
+  let currentListType = null;
+
+  lines.forEach(line => {
+    const unorderedMatch = line.match(/^\s*[-*+]\s+(.*)/);
+    const orderedMatch = line.match(/^\s*\d+\.\s+(.*)/);
+
+    if (unorderedMatch) {
+      if (currentListType !== 'ul') {
+        if (currentListType) html += `</${currentListType}>`;
+        html += '<ul>';
+        currentListType = 'ul';
+      }
+      html += `<li>${unorderedMatch[1]}</li>`;
+    } else if (orderedMatch) {
+      if (currentListType !== 'ol') {
+        if (currentListType) html += `</${currentListType}>`;
+        html += '<ol>';
+        currentListType = 'ol';
+      }
+      html += `<li>${orderedMatch[1]}</li>`;
+    } else {
+      if (currentListType) {
+        html += `</${currentListType}>`;
+        currentListType = null;
+      }
+      html += line + '\n';
+    }
+  });
+
+  if (currentListType) {
+    html += `</${currentListType}>`;
+  }
+
+  return html;
+}
+
         document.addEventListener('DOMContentLoaded', () => {
             // --- NEW: List of available JSON files ---
             const fileList = [
@@ -377,7 +417,7 @@
 
                     const explanationContent = document.createElement('div');
                     explanationContent.className = 'explanation-content';
-                    explanationContent.innerHTML = q.explanation.replace(/(?:\r\n|\r|\n)/g, '<br>');
+                    explanationContent.innerHTML = markdownToHtmlList(q.explanation.replace(/(?:\r\n|\r|\n)/g, '<br>'));
                     
                     answerExplanationContainer.append(answerTitle, answerContent, explanationTitle, explanationContent);
                     
