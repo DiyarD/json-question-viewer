@@ -190,7 +190,10 @@
 
     <script>
 
-
+function decodeBase64Modern(str) {
+    const bytes = Uint8Array.from(atob(str), c => c.charCodeAt(0));
+    return new TextDecoder('utf-8').decode(bytes);
+}
 
         document.addEventListener('DOMContentLoaded', () => {
             // --- NEW: List of available JSON files ---
@@ -331,7 +334,7 @@
                             try {
                                 return JSON.parse(text);
                             } catch (e) {
-                                return JSON.parse(atob(text));
+                                return JSON.parse(decodeBase64Modern(text));
                             }
                         });
                     })
