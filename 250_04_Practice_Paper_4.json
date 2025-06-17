@@ -1,0 +1,705 @@
+{
+    "chapter_name": "Practice Paper 4",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "1. BONE PAIN (2)\nA 65-year-old man presents to the GP surgery complaining of increas-ing pain in his back and lower left leg. His mobility is now very limited. On examination, he has a marked kyphosis of the spine and bowing of the left lower limb. Locally the leg is markedly warm. Blood tests are taken.\nWhich of the following biochemical abnormalities would one expect to find?",
+            "options": [
+                "A. Hypercalcaemia and hyperphosphataemia",
+                "B. Hypocalcaemia and hypophosphataemia",
+                "C. Hypocalcaemia and raised alkaline phosphatase",
+                "D. Raised alkaline phosphatase and normal calcium",
+                "E. Reduced parathyroid hormone levels and normal calcium"
+            ],
+            "answer": "D",
+            "explanation": "This patient has presented with features of Paget bone disease (also known as osteitis deformans). Paget disease is a disorder of bone remodelling, characterized by excessive bone reabsorption by osteoclasis, followed by a compensatory increase in bone formation by osteoblasts. This new bone, however, is structurally weaker and more vascular than normal bone, leading to deformity, increased susceptibility to fractures and high out-put cardiac failure. It most commonly affects people from the age of 50 upwards and is more common in males. Paget disease most commonly affects the skull, spine, pelvis and legs. The alkaline phosphatase is always raised. Calcium, phosphate, alanine transferase and parathyroid levels are normal, except in the setting of prolonged immobility, where hyper-calcaemia may ensue. Characteristic appearances are found on X-ray; the bone cortex appears spongy, there is marked coarsening of the trabeculae and the whole bone is thickened. Treatment is largely with bisphospho-nates, which inhibit bone reabsorption. Complications of Paget disease include pathological fractures, compression of cranial nerves within an enlarging skull, and the development of osteosarcomas.\nSir James Paget, English surgeon (1814–1899)."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "2. MANAGING DYSPHAGIA\nA 33-year-old woman presents to the surgical outpatient clinic with increasing dysphagia for solids and liquids, retrosternal chest pain on eating, regurgitation of undigested food and weight loss. Oesophageal and gastric biopsy at endoscopy was normal. Oesophageal manometry showed impaired relaxation of the lower oesophageal sphincter and barium swallow revealed a dilated proximal oesophagus with distal narrowing.\nWhich of the following surgical procedures would be indicated?",
+            "options": [
+                "A. Billroth I",
+                "B. Billroth II",
+                "C. Heller myotomy",
+                "D. Ramstedt procedure",
+                "E. Whipple procedure"
+            ],
+            "answer": "C",
+            "explanation": "This patient has presented with the symptoms and signs of oesophageal achalasia, a condition where there is failure of relaxation of the lower end of the oesophagus, due to a loss of ganglion cells in the myenteric plexus. It is generally a primary disorder but can also occur secondary to malignancy and Chagas disease. It typically presents between the ages of 20 and 40 years with an equal incidence in males and females. Surgical treatment involves incising the outer muscle layers of the lower oesophagus to the upper end of the stomach (Heller myotomy) often in combination with fundoplication of the stomach to prevent reflux. Medical treatments include calcium chan-nel blockers (nifedipine) and the injection of botulinum toxin.\nRamstedt pyloromyotomy is a similar procedure performed for pyloric stenosis. Whipple procedure is used in resecting pancreatic carcinomas. Billroth I is a partial gastrectomy and Billroth II is partial gastrectomy with anastomosis of the stomach to the jejunum. These procedures have been used in the treatment of gastric ulcers and malignancies.\nErnst Heller, German surgeon (1877–1964)."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "3. BURNS (2)\nA 24-year-old man was involved in a house fire and is brought to the emergency department. He has partial thickness burns over the whole of his front torso and right arm, and superficial burns on his left hand.\nEstimate the percentage burn he has sustained.",
+            "options": [
+                "A. 18%",
+                "B. 25%",
+                "C. 28%",
+                "D. 36%",
+                "Ε. 37%"
+            ],
+            "answer": "C",
+            "explanation": "Assessing the extent of burns is done quickly using Wallace's 'rule of nines'. The body is divided into units divisible by nine as follows:\nHead + neck\t→\t9%\nUpper limb\t→\t9% each\nAnterior torso\t→\t18%\nPosterior torso\t→\t18%\nLower limb\t→\t18% each\nPerineum\t→\t1%\t(Total 100%)\nIn this example: front torso = 18%, right arm = 9%, left hand = 1%; giving a total of 28% burns."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "4. FEMORAL NECK FRACTURES (1)\nA 45-year-old man is brought to the emergency department having fallen off a ladder. He complains of pain in the right hip. He is normally fit and well. Hip X-rays show a displaced intracapsular fracture.\nWhich of the following is the best treatment option?",
+            "options": [
+                "A. Conservative management",
+                "B. Dynamic hip screw",
+                "C. Hemiarthroplasty",
+                "D. Reduction and internal fixation",
+                "E. Total hip replacement"
+            ],
+            "answer": "D",
+            "explanation": "The blood supply to the femoral head is three-fold: through the retinacu-lar vessels at the base of the femoral neck (outside the capsule of the hip joint), through the intramedullary vessels, and through the ligamentum teres (which in the adult is usually negligible). Fractures can interrupt the blood supply, and a fracture that occurs within the joint capsule (intracapsular) disrupts the blood supply through both the retinacular and medullary vessels. An extracapsular fracture only disrupts the med-ullary blood supply. As a result, intracapsular femoral neck fractures carry a high risk of avascular necrosis of the femoral head. The treat-ment of such displaced fractures depends on the age of the patient. In older patients (over the age of 65) the femoral head would be removed and replaced with a prosthesis, either in the form of a hemiarthroplasty or a total hip replacement (depending on the fitness of the individual). In the younger patient, much is done to try to preserve the femoral head, and therefore a fracture in such a case would be reduced and fixed. One option is the use of cannulated screws, which are also used in treating undisplaced intracapsular fractures in the elderly. A fractured neck of femur in the young is considered an orthopaedic emergency, as delay in treatment increases the likelihood of developing avascular necrosis. Dynamic hip screws are used in treating extracapsular femoral neck fractures."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "5. LOWER LIMB NERVE LESIONS (4)\nAn 18-year-old boy is attacked in a bar fight, during which he is stabbed in the right groin. He attends the emergency department as he is unable to extend his knee afterwards. On examination, the right knee jerk is absent and there is loss of sensation over the front of the thigh and medial aspect of the leg.\nWhich nerve has most likely been affected?",
+            "options": [
+                "A. Common peroneal nerve",
+                "B. Femoral nerve",
+                "C. Obturator nerve",
+                "D. Sciatic nerve",
+                "E. Tibial nerve"
+            ],
+            "answer": "B",
+            "explanation": "The femoral nerve enters the thigh via the femoral triangle, where it lies lateral to the femoral artery. It can easily be damaged by penetrat-ing wounds, hip dislocations or thigh haematomas. The femoral nerve supplies motor branches to the quadriceps, and sensory branches to the anterior thigh and medial calf (via the saphenous nerve). Femoral nerve palsies result in a loss of knee extension and loss of sensation over the anterior thigh and medial leg.\nFemoral, from Latin femur = thigh."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "6. LOCAL ANAESTHETIC AGENTS (1)\nA 23-year-old man attends the emergency department after smashing his hand through a window. He has sustained a small laceration to his distal left index finger which you decide to suture.\nWhich would be the most appropriate anaesthetic agent to use?",
+            "options": [
+                "A. Bupivacaine",
+                "B. Cocaine",
+                "C. Lidocaine alone",
+                "D. Lidocaine/prilocaine mixture",
+                "E. Lidocaine with adrenaline"
+            ],
+            "answer": "C",
+            "explanation": "A local anaesthetic is a drug which reversibly inhibits the propagation of nerve impulses. It acts by transiently altering the neurone membrane permeability to sodium ions.\nBefore suturing a finger, anaesthesia is produced by doing a ring block. This involves injection of 1-2 mL of local anaesthetic either side of the proximal phalanx at the level of the web space where the digital nerves run, producing anaesthesia along the entire length of the digit. Lidocaine is a quick-acting local anaesthetic and is appropriate for ring blocks. Adrenaline causes vasoconstriction and has the advantages of slowing systemic absorption and prolonging duration of action of local anaesthet-ics. However, local anaesthetics containing adrenaline must never be used near end arteries (e.g. digits, nose and penis) as there is a risk of ischaemic necrosis.\nThe maximum dose of lidocaine is 3 mg/kg (or 7 mg/kg if given with adrenaline).\nLidocaine/prilocaine mixture can be given as a topical emulsion prep-aration to children before inserting a cannula or taking bloods. It is marketed under the trade name EMLA (eutetic mixture of local anaes-thetic) and the emulsion is left on for 30–60 minutes to allow full dermal anaesthesia to take place. A 'eutetic' mixture is one that contains equal amounts of each ingredient. For example, EMLA contains 2.5% each of lidocaine and prilocaine. Other examples of topical local anaesthet-ics include Instillagel™ (lidocaine) used for urethral catheterization, and Xylocaine™ (lidocaine) spray given before upper gastrointestinal endos-copies. Amethocaine eye drops are used for conjunctival anaesthesia. Amethocaine is also available as a cream (Amitop™) and its onset of action of dermal anaesthesia is more rapid than EMLA.\nCocaine was the first compound to be used as a local anaesthetic. Its anaesthetic properties were discovered accidentally by Sigmund Freud (Austrian neurologist, psychiatrist and frequent cocaine user). Cocaine has since been used in ophthalmic and nasal operations. Side effects of cocaine include intense vasoconstriction and cardiotoxicity, so it has now largely been replaced by benzocaine and proxymetacaine for ENT use."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "7. X-RAY APPEARANCES OF GASTROINTESTINAL DISEASE\nA 59-year-old woman with a long history of constipation presents with a 4-month history of episodic left-sided abdominal pain relieved by defae-cation. She has also had two episodes of fresh bleeding per rectum. There is no history of weight loss and she is otherwise well. Examination is unremarkable. She is referred for a barium enema.\nWhat features would you expect to find?",
+            "options": [
+                "A. Apple-core lesion",
+                "B. Birds beak appearance",
+                "C. Diverticular outpouchings",
+                "D. Non-filling of the appendix",
+                "E. Thumb printing of the colon"
+            ],
+            "answer": "C",
+            "explanation": "This patient has presented with the symptoms of diverticular disease. Diverticula are caused by high intraluminal pressures within the colon, usually secondary to constipation, leading to the herniation of mucosa through weak points in the bowel wall (these being at the site of entry of blood vessels). Barium enema is a radiological technique in which con-trast is used to assess the anatomy of the rectum and colon, and can be used to confirm the presence of diverticula (seen as outpouchings of con-trast). An apple-core lesion is an annular constriction of the colon typical of colonic cancer. Barium enemas have in the past been used to confirm the diagnosis of appendicitis as an inflamed appendix that does not fill with barium. Thumb printing of the colon is seen in attacks of ischaemic colitis and represents areas of mucosal and submucosal haemorrhage and oedema."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "8. ABDOMINAL PAIN (10)\nA 69-year-old man presents to the GP with a 2-month history of epigas-tric pain. He also feels full after eating small amounts of food and has lost a stone in weight over the last 2 months. Examination is unremarkable.\nWhich of the following is the most likely diagnosis?",
+            "options": [
+                "A. Duodenal ulcer",
+                "B. Gastric cancer",
+                "C. Gastric ulcer",
+                "D. Menetrier disease",
+                "E. Pernicious anaemia"
+            ],
+            "answer": "B",
+            "explanation": "Gastric cancer is the second most common cancer worldwide and is most common in the Japanese, Chinese and Russian populations. Its peak incidence is between the ages of 50 and 70, and men are more com-monly affected than women. Presenting symptoms may be quite vague in the early stages and include epigastric pain, early satiety, vomiting, anorexia and weight loss. As a result, gastric cancers are often diag-nosed late and have a poor prognosis (5-year survival of around 20%). The majority (95%) of gastric cancers are adenocarcinomas. Risk factors include Helicobacter pylori infection, smoking, and eating pickled and smoked foods. Patients with a history of chronic peptic ulceration, per-nicious anaemia, Menetrier disease, and those who have had a previous gastrectomy are at greater risk of developing gastric carcinoma. External manifestations of metastasis include left-sided supraclavicular lymph-adenopathy (Virchow node) and umbilical lumps (Sister Joseph's nod-ules). Transcoelomic spread of gastric cancer to the ovaries is known as Krukenberg tumours.\nPernicious anaemia is a megaloblastic anaemia caused by autoantibod-ies to gastric parietal cells, resulting in impaired absorption of vitamin B12 secondary to a lack of intrinsic factor. Damage to parietal cells results in anaemia and atrophic gastritis, secondary to achlorhydria. Menetrier disease is a rare condition usually affecting young to mid-dle-aged men. It is characterized by hyperplasia of mucus-producing cells within the stomach resulting in reduced acid secretion and a protein-losing enteropathy. Symptoms include epigastric pain, weight loss and peripheral oedema secondary to hypoalbuminaemia. There is a 10% risk of gastric carcinoma, so regular endoscopic surveillance is warranted.\nRudolf Ludwig Karl Virchow, German pathologist (1821–1901).\nFriedrich Ernst Krukenberg, German gynaecologist (1871–1946)."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "9. DYSPHAGIA (4)\nA 56-year-old woman presents with progressive difficulty swallowing. She has also noticed increased difficulty in articulating her speech. On examination, you notice that her tongue is small and stiff. She has an exaggerated gag reflex.\nWhich of the following is the most likely cause of her symptoms?",
+            "options": [
+                "A. Bulbar palsy",
+                "B. Myasthenia gravis",
+                "C. Paralysis of the vocal cords",
+                "D. Pseudobulbar palsy",
+                "E. Scleroderma"
+            ],
+            "answer": "D",
+            "explanation": "A pseudobulbar palsy is the result of a bilateral upper motor neurone lesion affecting the 9th to 12th cranial nerves inclusively. The lesion arises within the corticobulbar pathways or pyramidal tract. Causes include motor neurone disease, multiple sclerosis and brain stem tumours. Other signs include those of an upper motor neurone lesion in the limbs (spas-ticity, hyperreflexia, weakness without muscle wasting). By contrast, a bulbar palsy is caused by a bilateral lower motor neurone lesion of the 9th to 12th cranial nerves inclusively. It may also present with dysphagia and dysarthria. Other features include a wasted fasciculating tongue, drool-ing and an absent gag reflex. General features of a lower motor neurone lesion include hypotonicity, hyporeflexia and muscular fasciculations. The lesion in bulbar palsy may arise within the medulla, or from outside the brain stem. Causes include motor neurone disease, Guillain-Barré syndrome and myasthenia gravis.\nScleroderma is a chronic autoimmune condition of unknown cause, characterized by thickening of the skin and other organs. The condition may be localized, or diffuse (systemic sclerosis). Characteristic features are described by the CREST syndrome (Calcinosis, Raynaud's, oEsopha-geal dysmotility, Sclerodactyly and Telangiectasia). Paralysis of the vocal cords presents with hoarseness of the voice and dysphagia with regurgita-tion. Causes include neurological conditions, e.g. following cerebrovas-cular accident, tumours and tetanus. Bilateral vocal cord paralysis would result in respiratory distress and arrest. The vocal cords can be visualized and assessed by laryngoscopy."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "10. MANAGING ENDOCRINE DISEASE (1)\nA 58-year-old woman is brought to the emergency department hav-ing been found unresponsive by her husband at home. On examina-tion, you note that she is overweight with coarse features. Observations include heart rate 42/min, blood pressure 100/68 mmHg and tempera-ture 34.6°C.\nWhich of the following would be the most appropriate next step in your management?",
+            "options": [
+                "A. Intravenous thyroxine",
+                "B. Intravenous propranolol",
+                "C. Oral propylthiouracil",
+                "D. Oral thyroxine",
+                "E. Thyroidectomy"
+            ],
+            "answer": "A",
+            "explanation": "This patient has presented in a myxoedema coma, a medical emergency with a mortality of up to 50%. It is a severe, decompensated form of hypothyroidism with a marked reduction in free thyroxine. Myxoedema coma is four times more common in women and its incidence increases after the age of 50. Myxoedema coma is more common in those with undiagnosed/untreated hypothyroidism and following thyroid surgery. It may also be precipitated by cold, infections, trauma and drugs such as amiodarone. Physical findings are those of severe hypothyroidism, namely hypothermia, hypotensive shock, non-pitting oedema, lethargy and reduced consciousness. Treatment must be aggressive and take place in an intensive care setting. Intravenous thyroxine is necessary, as is the rapid and adequate administration of treatment such as gentle re-warm-ing and treatment of associated problems such as infection and hypona-traemia. Intubation and mechanical ventilation and cardiac monitoring may also be required.\nBoth propranolol and propylthiouracil are used in the treatment of a thyroid storm a life-threatening emergency caused by excessive thyroid hormones. It presents with clinically opposite features including hyper-thermia, hypertension, tachycardia, weight loss and altered behaviour. Treatment in both cases must not be delayed until blood results are avail-able and should be based initially on clinical findings due to the high mortality."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "11. JAUNDICE (4)\nA 52-year-old man is brought into hospital by his wife with a 2-day his-tory of confusion. On examination, he is jaundiced and has a distended abdomen with dilated veins around his umbilicus.\nWhich of the following is the most likely cause of his jaundice?",
+            "options": [
+                "A. Alcoholic liver disease",
+                "B. Autoimmune hepatitis",
+                "C. Hepatitis A",
+                "D. Hepatitis B",
+                "E. Reye syndrome"
+            ],
+            "answer": "A",
+            "explanation": "Hepatitis is the name given to inflammation of the liver, regardless of the aetiology. Causes include infections (viral hepatitis), drugs (e.g. iso-niazid), alcohol, abnormal metabolism (haemochromatosis) and auto-immune conditions. Hepatic damage caused by alcohol occurs in three stages: the first is the development of a fatty liver (reversible); the sec-ond an alcohol-induced hepatitis (partially reversible); and the third is cirrhosis - end-stage, irreversible liver damage. Symptoms of alcoholic liver disease may be very vague in the initial stages, including nausea and right upper quadrant pain. Jaundice, encephalopathy, ascites and caput medusa (dilated peri-umbilical veins) are signs of late irreversible disease. Around 10% of those with cirrhosis develop hepatocellular carcinoma. Alcohol-induced cirrhosis may be an indication for a liver transplant.\nHepatitis A is caused by an RNA virus which is spread by the faeco-oral route and is the most common cause of hepatitis worldwide. It is an acute condition causing gastrointestinal disturbance and jaundice. Treatment is supportive and the condition is largely self-limiting. Hepatitis B is a DNA virus that is spread by inoculation of bodily fluids. It causes an acute hepatitis which may become a chronic condition in some and result in liver cirrhosis. Autoimmune hepatitis is a condition of unknown cause. It is rare and most commonly affects young to middle-aged women. It is associated with other autoimmune conditions. Treatment is with immu-nosuppressants but the disease can progress to cirrhosis. Reye syndrome is characterized by encephalopathy and the presence of a fatty liver. It is associated with aspirin use in children."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "12. ABNORMAL GLUCOSE METABOLISM\nA 42-year-old woman presents with episodes of severe hunger despite regular meals. She states that if she does not eat she becomes sweaty and agitated. Her symptoms are exacerbated by exercise. As a result of need-ing to eat so regularly she has gained a lot of weight.\nWhich of the following blood results would correlate with her symptoms?",
+            "options": [
+                "A. Decreased insulin levels",
+                "B. Increased C-peptide levels",
+                "C. Increased glucagon levels",
+                "D. Increased somatostatin levels",
+                "E. Raised fasting blood glucose"
+            ],
+            "answer": "B",
+            "explanation": "This patient has presented with symptoms of hypoglycaemia, caused by an insulinoma. An insulinoma is a neuroendocrine tumour of the pan-creatic beta cells resulting in autonomic insulin production leading to symptomatic hypoglycaemia. Insulinomas are characterized by Whipple's triad: episodic hypoglycaemia + central nervous system dysfunction (anxiety, confusion) + symptomatic relief by the administration of glu-cose. Blood results will show reduced blood glucose levels, elevated insu-lin levels (despite hypoglycaemia), elevated pro-insulin levels and elevated C-peptide levels. C-peptide is the by product of the cleavage of pro-insulin into insulin and can be used to differentiate cases of factitious hyperin-sulinaemia, as in exogenous insulin administration, where C-peptide lev-els will not be elevated. Insulinomas are largely benign (90%) and may be part of the MEN I syndrome. Treatment is by excision of the tumour. Insulinomas are the most common type of pancreatic endocrine tumours. Glucagon increases blood glucose and somatostatin inhibits insulin pro-duction, therefore glucagonomas and somatostatinomas present with the features of hyperglycaemia."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "13. PENILE CONDITIONS (2)\nA 4-year-old boy is brought to the urology clinic by his mother. She is con-cerned as he is having difficulty urinating properly and is causing a mess. He is otherwise growing and developing normally. On examination, you see the urethral meatus is present on the shaft of the underside of the penis.\nWhich of the following treatment options would you recommend?",
+            "options": [
+                "A. Antibiotics",
+                "B. Circumcision",
+                "C. Intracavernosal injection of phenylephrine",
+                "D. Referral to a specialist for corrective surgery",
+                "E. Steroid cream"
+            ],
+            "answer": "D",
+            "explanation": "This boy has hypospadias, a condition in which there is incomplete tubu-larization of the urethra in the embryo, resulting in the urethral meatus being present below its normal opening at the glans. The meatus can be found anywhere from the under-surface of the glans to the perineum. Hypospadias occurs in up to 1 in 250 of male births. Problems include concern about cosmetic appearance, difficulty urinating and deformity on erection affecting sexual intercourse. Surgical correction is indicated if symptoms occur.\nHypospadias, from Greek hupo = under + spas = fissure/crack."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "14. PAEDIATRIC SURGERY INVESTIGATION\nA 3-day-old boy is having increasing abdominal distension and vomiting. He is also noted not to have passed meconium since birth.\nWhich of the following investigations would be most helpful in con-firming the cause of obstruction?",
+            "options": [
+                "A. Abdominal X-ray",
+                "B. Barium enema",
+                "C. Rectal biopsy",
+                "D. Rectal examination",
+                "E. Ultrasound scan"
+            ],
+            "answer": "C",
+            "explanation": "This child presented with signs of large bowel obstruction, as indicated by the failure of meconium passage. The most common cause for obstruction in the neonatal period is Hirschsprung disease a congenital absence of ganglion cells from the myenteric plexus of the large bowel, resulting in a narrowed, contracted segment. The abnormally innervated bowel extends proximally from the rectum for a variable distance. Ten percent of cases affect the whole colon. It occurs in approximately 1/5000 births and is three times more common in males. Hirschsprung disease often presents in neonates with abdominal distension and bile-stained vomiting. Rectal examination shows a narrowed segment, and removal of the examining finger is often followed by a gush of stools and flatus. Less severe cases can present in later life with chronic constipation, abdominal distension, megacolon and occasionally offensive overflow diarrhoea. A definitive diagnosis is made by rectal biopsy which shows absent ganglion cells in the submucosa, with an increase in acetylcholinesterase cells in the muscula-ris mucosae. A barium enema will confirm the presence of a contracted rectum. Abdominal X-ray will confirm the diagnosis of obstruction but not the cause. Rectal examination may relieve obstruction temporarily by allowing the passage of meconium. Treatment of Hirschsprung disease involves an initial defunctioning colostomy to relieve the obstruction, fol-lowed by either excision or bypass of the affected segment of bowel.\nHarald Hirschsprung, Danish paediatrician (1830–1916)."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "15. EPONYMOUS FRACTURES (1)\nA 13-year-old girl presents to the emergency department following a fall on the outstretched hand. An X-ray of the affected upper limb shows a fracture of the upper ulna with dislocation of the radial head.\nWhich of the following would be the most appropriate term to describe this fracture?",
+            "options": [
+                "A. Barton fracture",
+                "B. Colles fracture",
+                "C. Galeazzi fracture",
+                "D. Monteggia fracture",
+                "E. Smith fracture"
+            ],
+            "answer": "D",
+            "explanation": "A Monteggia fracture dislocation is caused by a fall with forced pronation of the forearm. It consists of a proximal ulna fracture with associated dis-location of the radial head. A Galeazzi fracture dislocation is a fracture of the radial shaft, at the junction of its middle and lower thirds, with dislocation of the distal ulna. If you see a forearm fracture on an X-ray, you should always look for an associated dislocation.\nGiovanni Monteggia, Italian surgeon (1762–1815).\nRicardo Galeazzi, Italian surgeon (1866–1952)."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "16. ABDOMINAL PAIN (11)\nA 35-year-old woman presents to the emergency department with a 1-day history of colicky central abdominal pain and vomiting. She last opened her bowels 2 days ago. She has no past medical history of note but tells you she had an operation on her abdomen as a child although she is not sure what this was for. On examination, she looks unwell and moderately dehydrated. The abdomen is distended and tender with hyperactive bowel sounds.\nWhich of the following is most likely to have caused her symptoms?",
+            "options": [
+                "A. Adhesions",
+                "B. Colorectal tumour",
+                "C. Constipation",
+                "D. Gallstone ileus",
+                "E. Paralytic ileus"
+            ],
+            "answer": "A",
+            "explanation": "This patient has presented with bowel obstruction. The typical symp-toms of bowel obstruction are abdominal pain, distension, vomiting and absolute constipation (not passing faeces or wind). The clinical picture is dependent upon the site of obstruction: small bowel obstruction presents initially with central colicky abdominal pain, distension and vomiting; large bowel obstruction presents with lower abdominal pain, distension and constipation. Vomiting is usually a late sign in large bowel obstruction and tends to be faeculent. Obstruction may be mechanical or functional, where there is a reduction in normal peristaltic activity of the bowel. The most common causes of small bowel obstruction are adhesions and her-nias. Common causes of large bowel obstruction are faecal impaction, hernias and tumours. Paralytic ileus commonly follows gastrointestinal surgery where there is excessive handling of bowel, and can be caused by electrolyte disturbances. Gallstones can cause obstruction if they erode through the gallbladder and into the duodenum, subsequently lodging distally at the ileocaecal junction (gallstone ileus). Abdominal X-ray may show air in the biliary tree or a stone at the ileocaecal junction, together with small bowel obstruction."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "17. ANORECTAL DISEASE (3)\nA 36-year-old man complains of a 6-month history of intermittent pain in the rectum which is unrelated to stools. The pain tends to occur at night. He denies passing any mucus or blood per rectum and examina-tion is unremarkable.\nWhich of the following is the most likely diagnosis?",
+            "options": [
+                "A. Anal fissure",
+                "B. Anal fistula",
+                "C. Perianal abscess",
+                "D. Perianal haematoma",
+                "E. Proctalgia fugax"
+            ],
+            "answer": "E",
+            "explanation": "Proctalgia fugax is a benign condition that tends to affect young, anxious men. It is characterized by brief attacks of rectal pain which usually occur at night and are unrelated to defaecation. Management involves reassurance, analgesia and topical smooth muscle relaxants (e.g. GTN cream).\nProctalgia fugax, from Greek proktos = anus + algos = pain + fugax = fleeting."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "18. ANATOMY OF HERNIAS (2)\nWhich term best fits the description of the hernia given below?\nA hernia that has two parts, each lying either side of the inferior epi-gastric artery.",
+            "options": [
+                "A. Gluteal",
+                "B. Lumbar",
+                "C. Maydl",
+                "D. Obturator",
+                "E. Pantaloon"
+            ],
+            "answer": "E",
+            "explanation": "A pantaloon hernia is a type of direct inguinal hernia where the hernia sac straddles the inferior epigastric vessels. Normally, a direct inguinal hernia passes medial to the inferior epigastric vessels, whereas an indirect hernia lies lateral to these.\nFor a description of the other listed hernias, please see the question 'Anatomy of hernias (3)'."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "19. AIRWAY MANAGEMENT (1)\nA 50-year-old woman has been hit by a car and thrown 5 metres. There was probable loss of consciousness for a few minutes. She is brought in by ambulance, immobilized. On arrival she is alert, ori-entated and talking happily. Within a few minutes however she starts to deteriorate rapidly and becomes unconscious with a Glasgow coma score of 5.\nWhich of the following measures is needed to maintain her airway?",
+            "options": [
+                "A. Endotracheal intubation",
+                "B. Hyperextend the neck",
+                "C. Nasopharyngeal airway",
+                "D. Oropharyngeal airway",
+                "E. Supplemental oxygen"
+            ],
+            "answer": "A",
+            "explanation": "Airway management in the trauma patient is dependent on the level of consciousness of the patient and the injuries sustained. A patient who is fully alert and talking is maintaining the airway and therefore sup-plemental oxygen via face mask is all that is required. With impaired consciousness, an oropharyngeal or nasopharyngeal airway would be required as assistance, depending on which is the better tolerated. A more conscious patient would not be able to tolerate an oropharyngeal airway. Any patient who is unconscious, and therefore unable to protect their airway, needs a definitive airway, i.e. endotracheal intubation. The jaw thrust can be performed in the immobilized patient to assist in open-ing the airway, but never hyperextend the neck as this can damage the cervical spine. There are certain situations where intubation may be con-sidered early, such as in smoke inhalation or those at risk of respiratory arrest. There may be situations in which endotracheal intubation is not possible due to complete occlusion of the upper airway, e.g. severe facial injuries. In this situation, a needle cricothyroidotomy provides a tempo-rary means of ventilation until a formal tracheostomy can be performed in theatre."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "20. GROIN LUMPS (4)\nA 48-year-old-woman presents with a long-standing, painless swelling on her right thigh which disappears on lying flat. She is otherwise well. On examination, the swelling is bluish and non-pulsatile. It lies below and lateral to the pubic tubercle.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Femoral hernia",
+                "B. Inguinal hernia",
+                "C. Psoas abscess",
+                "D. Saphena varix",
+                "E. Sebaceous cyst"
+            ],
+            "answer": "D",
+            "explanation": "A saphena varix is a dilatation of the long saphenous vein that occurs due to valvular incompetence at the saphenofemoral junction (which is an inch below and lateral to the pubic tubercle, just medial to the femoral pulse). A saphena varix often has a bluish tinge, is soft and compressible, disappears on lying down, has a cough impulse and exhibits a fluid thrill when the long saphenous vein is tapped distally (Schwartz test). It is often associated with varicosities elsewhere in the saphenous system.\nA psoas abscess is a recognized complication of tuberculosis following the development of a paraspinal abscess (Pott's disease). If this abscess tracks down the psoas muscle towards the groin, an inguinal psoas abscess can arise. A psoas abscess is usually fluctuant, painless and not warm (hence it is given the term 'cold abscess' which is characteristic of tuber-culosis infection). The diagnosis of a psoas abscess is best made by MRI.\nPercival Pott, British surgeon (1714–1788)."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "21. INVESTIGATING ABDOMINAL PAIN (4)\nA 29-year-old woman presents to the emergency department with a 3-hour history of lower abdominal pain. On examination, there is marked rebound tenderness in the left iliac fossa. She has a heart rate of 92/min and a blood pressure of 134/92 mmHg.\nWhich of the following investigations would you perform in the first instance?",
+            "options": [
+                "A. Abdominal ultrasound",
+                "B. Abdominal X-ray",
+                "C. Cervical swabs",
+                "D. Urine dipstick",
+                "E. Urine pregnancy test"
+            ],
+            "answer": "E",
+            "explanation": "In any female of child-bearing age presenting with an acute abdomen a urine pregnancy test must be done in the first instance, in view of an ectopic pregnancy being the potential cause. An ectopic pregnancy is one that implants outside the uterus, most commonly in the fallopian tubes. It occurs in up to 1% of pregnancies and is associated with a history of pelvic inflammatory disease, intra-uterine contraceptive devices, progesterone-only pills, previous tubal surgery and previous ectopic pregnancy.\nEctopic pregnancy can present with amenorrhoea, abnormal vaginal spotting or bleeding, or vague abdominal pain. Rupture of an ectopic pregnancy causes acute abdominal pain. Clinically there may be local-ized guarding or generalized peritonitis with a rigid abdomen. Blood loss results in shock. Urgent resuscitation is required in these cases with either laparotomy or laparoscopy to remove the ectopic pregnancy. In early pregnancy, abdominal ultrasound may not be sensitive enough to detect the conceptus; a transvaginal scan is more sensitive. If the diagnosis is in doubt, serial measurements of serum beta-hCG can be performed. In nor-mal pregnancies this will double every 2 days, but in an ectopic pregnancy the doubling time will be prolonged.\nEctopic, from Greek ek = away from + topos = place, i.e. in the wrong place."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "22. KNEE CONDITIONS (2)\nA 27-year-old man presents to the emergency department with sudden-onset pain and swelling in his right knee which occurred while walking. He denies any trauma to the knee. The man describes his knee 'locking' at the time, although this sensation is not present now.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Anterior cruciate ligament injury",
+                "B. Chondromalacia patellae",
+                "C. Osgood-Schlatter disease",
+                "D. Osteochondritis dissecans",
+                "E. Pre-patellar bursitis"
+            ],
+            "answer": "D",
+            "explanation": "Osteochondritis dissecans is characterized by local ischaemic necrosis of a segment of the articular surface of a bone and its overlying cartilage. There is eventual separation of the fragment which results in an intra-articular loose body. The knee is the most common site for osteochondritis dis-secans, especially the medial condyle of the femur. If the intra-articular loose body becomes trapped in the joint, the patient experiences sudden 'locking' of the knee associated with severe pain and swelling (as in this scenario). Loose bodies in the knee can often be seen by radiography and are usually found in the suprapatellar pouch (they are occasionally palpa-ble here). Management is by removal of the loose body using arthroscopy.\nIn chondromalacia patellae the cartilage of the articular surface of the patella becomes roughened. The pain is caused by friction between the damaged area and the femoral condyle. Chondromalacia patellae presents in teenage girls with an aching pain behind the kneecap which is exacer-bated by climbing and descending stairs. X-rays show no abnormality.\nThe pre-patellar bursa lies in front of the lower half of the patella and the upper part of the patellar tendon. Repeated friction of the bursa, usu-ally in those who kneel, results in pain and swelling of the bursa. This is known as prepatellar bursitis, or housemaid's knee. Management can either be by aspiration (although recurrence may occur) or excision of the offending bursa.\nChondromalacia, from Greek khondros = cartilage + malakos = soft.\nDissecans, from Latin dissecare = to separate."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "23. INVESTIGATING BREAST DISEASE (1)\nA 28-year-old woman comes to see you at the GP practice having noticed a lump in the right breast. She is concerned that it may be cancer. On examination, you find a smooth, mobile, non-tender mass around 2 cm in diameter in the upper outer quadrant of the breast. There are no overlying skin changes.\nWhich would be the most appropriate action to take?",
+            "options": [
+                "A. Advise the patient to return if the lump gets bigger or starts becoming painful",
+                "B. Prescribe antibiotics",
+                "C. Reassure the patient that there is no evidence the lump is cancerous and discharge her",
+                "D. Refer the patient for urgent mammography",
+                "E. Refer the patient for urgent ultrasound scan"
+            ],
+            "answer": "E",
+            "explanation": "Although most breast cancers occur in women over the age of 40 (with incidence markedly increasing after the age of 50), younger women tend to develop the most aggressive forms of breast cancer, accounting for the lower survival rates. Therefore all breast lumps must be investigated or at least referred to the breast clinic for assessment. Mammography is the first-line imaging choice in the older woman (over 40 years); however, the increased breast density in younger patients makes ultrasound investi-gation more sensitive. Most malignant breast lumps are painless, so this is not a reliable indicator of serious pathology; neither is the size of the lump. In this age group the most likely cause of a breast lump is a benign fibroadenoma."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "24. ENDOCRINE DISEASE (4)\nA 46-year-old woman attends a follow-up appointment at the endocrine surgery outpatient clinic. She had an operation for Cushing disease in the past. She complains that her skin is becoming darker and denies sun bed use or excess sunlight exposure.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Acromegaly",
+                "B. Carcinoid syndrome",
+                "C. Conn syndrome",
+                "D. Hypoparathyroidism",
+                "E. Nelson syndrome"
+            ],
+            "answer": "E",
+            "explanation": "This woman has been treated for Cushing disease in the past. Cushing disease describes the presence of an ACTH-secreting tumour in the pitu-itary that results in excess cortisol and features of Cushing syndrome. The treatment of Cushing disease is usually by removal of the primary tumour. However, in occasional cases where the tumour is occult, bilateral adrenalectomy is performed to eliminate the production of cortisol. The lack of cortisol's negative feedback on the pituitary allows the pre-existing pituitary ACTH tumour to grow rapidly. This process is known as Nelson syndrome and occurs after 20% of bilateral adrenalectomies. The excess ACTH of Nelson syndrome results in skin hyperpigmentation via the secretion of melanocyte stimulating hormone.\nNelson D, Meakin J, Thorn G. ACTH-producing pituitary tumors following adrenalectomy for Cushing syndrome. Ann Intern Med 1960;52:560–9."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "25. COLORECTAL OPERATIONS (1)\nA 73-year-old woman presents to the surgical outpatient clinic with a 3-week history of rectal bleeding, a sensation of incomplete emptying despite defaecation and rectal discomfort. She is found to have a tumour 2 cm from the anal margin.\nWhich of the following would be the most appropriate operative intervention?",
+            "options": [
+                "A. Abdominoperineal resection",
+                "B. Anterior resection",
+                "C. Hartmann procedure",
+                "D. Left hemicolectomy",
+                "E. Right hemicolectomy"
+            ],
+            "answer": "A",
+            "explanation": "Rectal tumours account for a third of cases of colorectal cancers, and the majority of these are adenocarcinomas. They most commonly occur in the seventh decade, especially in men and in Western populations. The overall lifetime risk of developing colorectal cancer is around 6% and the majority of cases have no obvious identifiable risk factors. Specific risk factors include familial adenomatous polyposis, hereditary non-polypo-sis colorectal cancer, a family history and inflammatory bowel disease. The treatment of colorectal cancers is dependent on the site of the tumour.\nAbdominoperineal resections are performed when the tumour lies in the distal third of the rectum (within 8 cm of the anus). In this proce-dure, both abdominal and perineal incisions are made and the anus, rec-tum and part of the sigmoid colon removed with the remaining sigmoid colon being brought out as a permanent colostomy. Anterior resections are used in tumours of the proximal two-thirds of the rectum. Following tumour removal, an anastomosis is made between the sigmoid and the lower rectum. Right hemicolectomy is performed for non-obstructing tumours of the right side of the colon. This involves removal of the distal ileum, ascending colon and the proximal portion of the transverse colon. The right hemicolectomy may be extended if the tumour is situated in the transverse colon or at the hepatic flexure. Left hemicolectomy is used for non-obstructing tumours of the descending colon and splenic flexure."
+        },
+        {
+            "id": 26,
+            "question_type": "mcq",
+            "question": "26. CLASSIFICATION OF HERNIAS (1)\nA 43-year-old woman presents to the GP with a lump in the right groin, which she says has been there on and off for a few months, but is now persistent. She has no other symptoms of note. On examination, there is a grape-sized lump below and lateral to the pubic tubercle. It is not tender and there is no cough impulse felt.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Incarcerated femoral hernia",
+                "B. Incarcerated inguinal hernia",
+                "C. Obstructed femoral hernia",
+                "D. Strangulated femoral hernia",
+                "E. Strangulated inguinal hernia"
+            ],
+            "answer": "A",
+            "explanation": "A hernia is the abnormal protrusion of the whole, or part, of a viscus through its containing walls. A femoral hernia is the protrusion of con-tents, i.e. extraperitoneal fat, omentum or bowel, into the potential space of the femoral canal. Femoral hernias are three times more common in women than men and more commonly occur on the right side. They are differentiated from inguinal hernias in that they lie below and lateral to the pubic tubercle. Inguinal hernias are caused by weakness in the abdominal wall at the entrance to the inguinal canal. They may be indirect (75%), passing through the internal inguinal ring and down the inguinal canal, or direct, passing through the posterior wall of the canal but not down the canal. Inguinal hernias are found above and medial to the pubic tubercle. The contents of a hernia may be returned to the abdominal cavity either spontaneously or with direct pressure, and this is described as a reducible hernia. There will be a cough impulse on examination. Hernias which cannot be returned to the abdominal cavity are described as irreducible or incarcerated. There will be no cough impulse on examination. Both reducible and incarcerated hernias are typically painless.\nA strangulated hernia is one in which the blood supply to the contents is cut off; in other words where an irreducible hernia develops oedema and venous congestion, causing pressure on the arterial supply. The area subsequently becomes ischaemic and then gangrenous. Strangulation is common in femoral hernias due to the narrow neck of the femoral canal. Obstruction of bowel within the hernia sac presents with the typical fea-tures of vomiting, colicky abdominal pain, distension and absolute con-stipation, and may be associated with strangulation of bowel. If untreated, perforation and peritonitis occur. Strangulated and obstructed hernias are surgical emergencies.\nHernia, from Greek hernias = to sprout forth."
+        },
+        {
+            "id": 27,
+            "question_type": "mcq",
+            "question": "27. SKIN LESIONS (4)\nA 32-year-old man presents to the GP with multiple lesions on his trunk which have appeared over the last few months. Each lesion is raised, firm and rubbery, and causes a tingling sensation when touched.\nWhich of the following is the most likely diagnosis?",
+            "options": [
+                "A. Ganglion",
+                "B. Granuloma annulare",
+                "C. Kaposi sarcoma",
+                "D. Neurofibroma",
+                "E. Sebaceous cyst"
+            ],
+            "answer": "D",
+            "explanation": "Neurofibromas are benign neoplasms of the nerve sheaths of central or peripheral nerves that feel firm and rubbery. Neurofibromas may be sin-gle or multiple, as in neurofibromatosis. Neurofibromatosis (NF) is an autosomal dominant disorder characterized by multiple neurofibromas, coffee-coloured macules (café-au-lait patches) and axillary freckling with a risk of developing central nervous system tumours (acoustic neuroma, optic glioma, meningioma), iris fibromas (Lisch nodules) and phaeochro-mocytomas. There are two types of neurofibromatosis (NF): NF1 (von Recklinghausen disease) is the 'peripheral' form which displays the cuta-neous manifestations; and NF2 is the ‘central' form with bilateral central nervous systems tumours and very few cutaneous features.\nFriedrich von Recklinghausen, German pathologist (1833–1910)."
+        },
+        {
+            "id": 28,
+            "question_type": "mcq",
+            "question": "28. UPPER LIMB NERVE LESIONS (3)\nAn 82-year-old woman attends the emergency department following a fall. On examination, there is bruising over the left upper arm and the patient is unable to extend the metacarpals on the same side. There is loss of sensation over the lateral dorsal aspect of the hand.\nWhich nerve has most likely been affected?",
+            "options": [
+                "A. Anterior interosseous nerve",
+                "B. Median nerve",
+                "C. Posterior interosseous nerve",
+                "D. Radial nerve",
+                "E. Upper brachial plexus"
+            ],
+            "answer": "D",
+            "explanation": "The radial nerve runs in close proximity to the shaft of the humerus in the spiral groove. Common causes of radial nerve palsies include humeral shaft fractures (as in this scenario, in which case patients also suffer bruis-ing to the upper arm), compression of the nerve in the arm with prolonged use of ill-fitting crutches and elbow dislocations or Monteggia fractures. Damage to the radial nerve is also seen in people who fall asleep with their arm hanging over the back of a chair ('Saturday night palsy'). The radial nerve supplies the extensors to the forearm and wrist, and a radial nerve palsy results in an inability to extend the wrist or metacarpophalangeal joints (wrist drop), forearm extensor wasting and a loss of sensation in the anatomical snuffbox. The anatomical snuffbox is the name given to the triangular region on the radial dorsal aspect of the hand at the level of the carpal bones. It is so called because it was the surface used since the 16th century for placing and snorting 'snuff' (powdered tobacco).\nThe posterior interosseous nerve is a branch of the radial nerve that runs deep in the forearm to supply the wrist and finger extensors except the extensor carpi radialis longus (which is innervated by a proximal branch from the radial nerve). The posterior interosseous nerve can be damaged in forearm fractures and results in an inability to extend the fingers and a weak wrist drop. The wrist drop is only slight as the extensor carpi radia-lis longus muscle still provides some wrist extension. There is no sensory loss with these nerve lesions.\nThe anterior interosseous nerve is a motor branch of the median nerve in the forearm. Lesions of this nerve are rare and usually arise from deep lacerations to the forearm. The anterior interosseous nerve provides motor fibres to flexor pollicis longus, the medial part of flexor digito-rum profundus and pronator quadratus. Patients have a weakness in the thumb and index finger characterized by a deformity in the pinch mecha-nism between the thumb and index finger."
+        },
+        {
+            "id": 29,
+            "question_type": "mcq",
+            "question": "29. NECK LUMPS (4)\nA 56-year-old woman presents with a lump on the left side of her neck which has been slowly enlarging over the last few months. On examina-tion, there is a 2 cm firm, painless, mobile lump near the angle of the left jaw. She is still able to move her facial muscles.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Chemodectoma",
+                "B. Pleomorphic adenoma",
+                "C. Salivary duct carcinoma",
+                "D. Salivary gland stone",
+                "E. Sternocleidomastoid tumour"
+            ],
+            "answer": "B",
+            "explanation": "A hard, painless mobile lump near the angle of the jaw in a woman of this age, with no evidence of facial nerve involvement, is likely to be a pleomor-phic adenoma. The pleomorphic adenoma is the most common benign tumour of the salivary glands. It is most common in the 40s to 50s and the only known risk factor is exposure to radiation. The facial nerve is charac-teristically not involved (if it were, this feature would imply malignancy). Treatment is by excision of the tumour, which has a good prognosis."
+        },
+        {
+            "id": 30,
+            "question_type": "mcq",
+            "question": "30. EAR DISEASE (1)\nA 46-year-old woman presents to the GP complaining of gradually progressive hearing loss, imbalance and tingling on the left side of her face. On examination, the patient admits that a vibrating tuning fork is louder when placed by the ear on the left side, rather than on the mastoid process.\nWhich of the following is the most likely cause of her symptoms?",
+            "options": [
+                "A. Acoustic neuroma",
+                "B. Ménière disease",
+                "C. Otosclerosis",
+                "D. Perforated eardrum",
+                "E. Presbycusis"
+            ],
+            "answer": "A",
+            "explanation": "Hearing loss may be conductive or sensorineural in origin. In conductive deafness, sound is not transmitted to the inner ear, the abnormality being in the external or middle ear. Sensorineural deafness is a result of pathol-ogy within the cochlea or the vestibulocochlear nerve and/or its trans-mission of signals to the brain. Conductive and sensorineural deafness may be differentiated by using a tuning fork. The examining doctor in this scenario has performed the Rinne test. In this investigation a vibrat-ing tuning fork of 512 Hz (an octave above 'middle C') is placed initially on the mastoid process (bone conduction), and then next to the ear (air conduction). The patient is then asked which sound was loudest. In the normal ear, air conduction (AC) is better than bone conduction (BC) – this is known as a positive Rinne test. In the woman in this scenario, AC is better than BC – this positive Rinne test with left-sided deafness is associ-ated with a sensorineural hearing loss. The second clinical test often used when examining hearing is the Weber test. In this test a vibrating 512 Hz tuning fork is placed in the middle of the patient's forehead. The patient is asked to report in which ear the sound is loudest. In conductive deafness, the sound is heard louder in the deafer ear. In sensorineural deafness the sound is heard louder in the better ear.\nAn acoustic neuroma is a benign tumour of the Schwann cells of the vestibulocochlear nerve, more predominant in women between the fourth and seventh decade. Its cause is unknown but it develops bilaterally in those with type 2 neurofibromatosis. Features of an acoustic neuroma include hearing loss, tinnitus, imbalance, facial sensory disturbance (due to the close proximity to the trigeminal nerve) and weakness of the facial muscles on the affected side (facial nerve compression). Symptoms of raised intracranial pressure (headache, visual loss) occur if the neu-roma is large. Acoustic neuromas are best seen on MRI. Treatment may be observation (if the neuroma is small) or surgical removal.\nOtosclerosis is a conductive form of deafness caused by the overgrowth and sclerosis of the temporal bone resulting in a 'fixed' stapes. It is a pro-gressive condition seen most commonly in Caucasian females, and goes on to affect both ears. It is inherited as an autosomal dominant condition, but has variable penetrance. A common symptom is paracusis (hearing is better when there is background noise). Symptoms are aggravated by pregnancy. Treatment is by stapedectomy and stapes implant. Presbycusis is the name given to age related deafness. It is sensorineural in origin, caused by the degeneration of the nerve cells within the inner ear. It is the most common form of deafness with progressive age and is bilateral. The onset of presbycusis may be hastened by certain drugs (e.g. aspirin) and repetitive noise trauma.\nMénières disease is a condition of unknown aetiology affecting the lab-yrinth of the inner ear. Symptoms are usually intermittent and include vertigo, tinnitus and difficulty hearing low frequency sounds. There is an association with viral infections. Treatment is largely symptomatic and includes antihistamines and prochlorperazine. A perforated eardrum can occur following trauma, infection and sudden loud noises. The level of deafness is dependent on the size of the perforation, which usually heals itself within 8 weeks. Rarely a tympanoplasty may be required.\nOtosclerosis, from Greek oto = ear+ skleros = hard; 'hardening of the ear'. Acoustic, from Greek akoustikos = to hear. Prosper Ménière, French physician (1799–1862). Heinrich Adolf Rinne, German ENT surgeon (1819–1868). Ernst Heinrich Weber, German physiologist and psychologist (1795–1878)."
+        },
+        {
+            "id": 31,
+            "question_type": "mcq",
+            "question": "31. MANAGING UROLOGICAL DISEASE (2)\nA 34-year-old man with a history of renal stones presents with a 3-hour history of right-sided loin pain. On examination, he looks unwell and his right kidney is palpable. The presence of a large stone is confirmed on X-ray. Blood results show a urea of 25 mmol/L and a creatinine of 400 µmol/L. On his previous admission last month, his urea and electrolytes were normal.\nWhich of the following would be indicated in the first instance?",
+            "options": [
+                "A. Extracorporeal shock wave lithotripsy",
+                "B. Nephrectomy",
+                "C. Percutaneous nephrolithotomy",
+                "D. Percutaneous nephrostomy",
+                "E. Ureteroscopy"
+            ],
+            "answer": "D",
+            "explanation": "This patient has presented with acute renal failure secondary to urinary tract obstruction by a renal calculus. This is a urological emergency and must be managed immediately to prevent irreversible damage to the kid-neys. A percutaneous nephrostomy, which is the insertion of a catheter into the renal pelvis through the skin, creates a temporary diversion of urine, reducing the back-pressure on the kidney and giving time for for-mal removal of the stone. Percutaneous nephrostomies are performed under radiological guidance and local anaesthesia. Other indications for percutaneous nephrostomy include the diversion of urine following dam-age to the ureters, obstruction secondary to pregnancy, and to allow the drainage of a perinephric abscess. Insertion is contraindicated in those with a bleeding diathesis. Complications of percutaneous nephrostomy include haemorrhage, sepsis and damage to surrounding organs (e.g. pneumothorax).\nExtracorporeal shock wave lithotripsy uses sound waves, which pen-etrate the skin, to break large renal calculi into smaller fragments that can be passed more easily by the patient. It can be performed easily as an outpatient procedure, under local anaesthesia. Percutaneous neph-rolithotomy allows the removal of stones from the upper ureter and kidney without having to perform an open procedure. A guide wire is inserted under radiological guidance and a tract is made through which the stone can be removed. Ureteroscopy is a procedure in which a fine bore endoscope is inserted into the ureter via the urethra. It is performed under general or epidural anaesthesia. Indications include removal of ureteric stones, insertion of a ureteric stent and dilatation of strictures. Nephrectomy is the surgical removal of the kidney. It may be done as an open or laparoscopic procedure. Indications for nephrectomy include localized renal cell carcinoma and an irreversibly malfunctioning kidney."
+        },
+        {
+            "id": 32,
+            "question_type": "mcq",
+            "question": "32. CHEST TRAUMA (4)\nA 27-year-old man is brought into the emergency department following an assault. On arrival he has multiple bruises over the left side of his chest and upper abdomen. On examination, he has abdominal tenderness with guarding throughout. His observations include a heart rate of 132/min and blood pressure 86/42 mmHg. A chest X-ray shows a lower rib fracture and elevated diaphragm on the left.\nWhich of the following is the most likely cause of his symptoms?",
+            "options": [
+                "A. Hepatic injury",
+                "B. Left-sided haemothorax",
+                "C. Left-sided pneumothorax",
+                "D. Ruptured diaphragm",
+                "E. Splenic injury"
+            ],
+            "answer": "E",
+            "explanation": "The spleen is the most vascular organ in the body, containing up to one unit of blood at any time. Splenic injuries are therefore potentially life threatening. The spleen is the most commonly injured organ in cases of thoraco-abdominal trauma, particularly with blunt injuries. It is com-monly associated with lower left-sided rib fractures. The presentation of splenic trauma depends on the extent of damage and may vary from vague upper left-sided abdominal pain (in cases of a subcapsular haema-toma) to shock and peritonitis with splenic rupture. Up to 50% of patients with a ruptured spleen have other intraperitoneal injuries. The manage-ment of splenic trauma depends upon the stability of the patient. Unstable patients require resuscitation and transfer to theatre. The most suitable imaging technique in the stable patient would be a CT scan which would not only confirm the diagnosis but assess the severity of damage. The triad of an elevated left hemidiaphragm, left lower lobe atelectasis and pleural effusion in splenic rupture is rarely seen on chest X-ray; however any patient with hemidiaphragm elevation should be considered to have a splenic injury unless otherwise proved.\nSplenic injuries may be graded as follows:\n1. Minor subcapsular tear or haematoma\n2. Parenchymal injury not extending to the hilum\n3. Parenchymal injury involving the hilum and vessels\n4. Shattered spleen\nGrade 1 and 2 splenic injuries may be treated conservatively on a watch and wait basis. Grade 3 injuries are treated with splenic repair and grade 4 injuries with splenectomy. Asplenic patients are at risk of thrombo-sis and serious infections by encapsulated bacteria (Pneumococcus and Meningococcus). Lifelong prophylaxis with penicillin is therefore required.\nRupture of the diaphragm is usually the result of blunt abdominal trauma and commonly occurs with splenic injury. The majority of dia-phragmatic ruptures occur on the left (due to the protection by the liver on the right) and posteriorly (a congenitally weaker area). Large lacera-tions result in the herniation of abdominal contents into the thorax caus-ing respiratory distress. On examination there will be reduced air entry on the affected side and paradoxical movement of the abdomen. Bowel sounds may be heard in the chest. Treatment is by surgical repair."
+        },
+        {
+            "id": 33,
+            "question_type": "mcq",
+            "question": "33. CONSENT\nA 58-year-old man is admitted to hospital with a strangulated paraumbil-ical hernia that requires urgent operative intervention. He has a history of severe depression and is currently under Section for treatment of his mental condition. The patient does not consent to treatment even though he understands his condition, the benefits of having an operation and the potential outcomes of not having it.\nWhich is the most appropriate course of action?",
+            "options": [
+                "A. Doctor can consent for the patient",
+                "B. Doctor can treat the patient under duty of care",
+                "C. Doctor can treat the patient under the Mental Health Act",
+                "D. Patient's refusal to treatment is valid and cannot be overridden",
+                "E. Patient's refusal to treatment is invalid and can be overridden"
+            ],
+            "answer": "D",
+            "explanation": "This patient understands the risks and benefits of surgery and, as such, can be deemed to have the capacity to make an informed decision, irrespec-tive of his chronic mental health problems. The Mental Health Act does not allow for treatment of any medical condition other than a psychiatric disorder. Similarly, no adult can 'consent' for another adult. The patient's refusal to treatment is therefore valid and the doctor cannot override it."
+        },
+        {
+            "id": 34,
+            "question_type": "mcq",
+            "question": "34. ORAL PATHOLOGY\nA 71-year-old man presents to the GP with a painful, enlarging lump just in front of his right ear, which has been present for 2 months. He woke this morning to find that the right side of his face was drooping.\nWhat is the most likely cause of his symptoms?",
+            "options": [
+                "A. Acute bacterial sialothiasis",
+                "B. Parotitis",
+                "C. Pleomorphic adenoma",
+                "D. Salivary gland calculi",
+                "E. Salivary gland carcinoma"
+            ],
+            "answer": "E",
+            "explanation": "Salivary gland carcinomas are rare aggressive tumours most commonly occurring in the parotid gland. They are three times more common in men and rarely occur in the under 50s. Patients present with a rapidly growing mass, and there may be features of infiltration, e.g. facial nerve involvement and regional palpable lymph nodes. Treatment involves parotidectomy with radiotherapy. Prognosis is poor.\nA pleomorphic adenoma is a benign tumour of the salivary glands, more commonly affecting the parotid gland. The name arises from the typical variable appearance of the tumours with light microscopy. Presentation is with a slow growing, firm, painless mass. Treatment is by surgical resec-tion. Salivary tumours should be investigated with imaging and biopsy to determine whether they are malignant or benign. Salivary gland calculi are calcium stones that cause obstruction of the salivary ducts leading to intense pain and swelling of the affected gland while eating. The symp-toms resolve within an hour or two. The submandibular gland duct (of Wharton) is the most common site. Diagnosis is by injecting a dye into the duct system (sialography), and treatment is by removing the stone. Acute bacterial sialothiasis is the result of superimposed bacterial infec-tion within an obstructed salivary duct causing acute inflammation, pain and abscess formation. Intravenous antibiotics are required. Mumps is caused by a RNA paramyxovirus and causes painful enlargement of the salivary glands. It typically affects the parotid gland (parotitis), is largely bilateral and most commonly affects children. Treatment is symptomatic."
+        },
+        {
+            "id": 35,
+            "question_type": "mcq",
+            "question": "35. ABDOMINAL PAIN (12)\nA 73-year-old woman presents to the emergency department with abdom-inal pain, vomiting and an inability to open her bowels. On examination, the abdomen is distended and the rectum is empty. The patient's husband tells you that she has lost a significant amount of weight over the last month and has been having blood in her stool.\nWhich of the following is the most likely cause of the presentation?",
+            "options": [
+                "A. Colorectal malignancy",
+                "B. Constipation",
+                "C. Diverticulitis",
+                "D. Inguinal hernia",
+                "E. Ulcerative colitis"
+            ],
+            "answer": "A",
+            "explanation": "This patient has presented with the signs and symptoms of large bowel obstruction. Common causes in this age group include tumours, hernias, faecal impaction, volvulus and stricture formation following repeated episodes of diverticulitis. The history of weight loss and rectal bleeding would suggest a diagnosis of colorectal carcinoma. Colorectal cancer is the second most common cancer causing death in the UK. The term encom-passes both cancers of the colon (60%) and rectum (40%), although in up to 5% of patients multiple sites are affected. The majority of these can-cers are adenocarcinomas. Risk factors include increasing age, a diet high in red meats, obesity, inflammatory bowel disease, previous history of bowel cancer and genetic conditions such as familial adenomatous polyp-osis (FAP) and hereditary non-polyposis colorectal cancer (HNPCC). Common presenting complaints include a change in bowel habit, rectal bleeding and abdominal pain. Symptoms often vary in nature accord-ing to the site of the tumour: right-sided lesions usually present with iron deficiency anaemia (from chronic blood loss) and a palpable mass, while left-sided lesions present with pain, rectal bleeding and a change in bowel habit. Up to 40% of those with colorectal cancer first present with a complication of the tumour, e.g. obstruction. Diagnosis is made using a combination of lower Gl endoscopy (with or without biopsy) and barium studies. The diagnosis may also be made when a laparotomy is carried out for acute obstruction. Treatment is largely dependent on the extent of disease and may be performed with either curative or palliative intent."
+        },
+        {
+            "id": 36,
+            "question_type": "mcq",
+            "question": "36. MANAGING BILIARY TRACT DISEASE (2)\nA 40-year-old woman presents with intermittent episodes of severe right upper quadrant pain associated with meals. She is otherwise well and haemodynamically stable. Examination is unremarkable.\nWhich of the following investigations would you perform in the first instance?",
+            "options": [
+                "A. Abdominal ultrasound",
+                "B. Abdominal X-ray",
+                "C. ERCP",
+                "D. MRCP",
+                "E. Upper GI endoscopy"
+            ],
+            "answer": "A",
+            "explanation": "This patient has presented with the symptoms of biliary colic, a condi-tion caused by obstruction of the gallbladder outlet or cystic duct by a gallstone. Gallstones are common in the Western population (affecting 50% of people over the age of 50), although many people remain asymp-tomatic. Women are more commonly affected than men, and there is an association with pregnancy and obesity. Stones are composed of choles-terol, bile pigment or both. Pain is usually felt in the right upper quad-rant but may radiate to the back and scapulae. Symptoms are exacerbated by eating fatty foods, as this stimulates contraction of the gallbladder. Abdominal ultrasound is the investigation of choice for diagnosing gall-stones. Only 10% of gallstones are radio-opaque (unlike 90% of renal stones). Complications of gallstones other than biliary colic include cho-lecystitis, cholangitis, empyema of the gallbladder, pancreatitis, gallstone ileus and gallbladder carcinoma. The treatment of biliary colic is symp-tomatic, with the patient referred for elective cholecystectomy."
+        },
+        {
+            "id": 37,
+            "question_type": "mcq",
+            "question": "37. PAEDIATRIC ORTHOPAEDICS (4)\nA 12-year-old boy presents to the emergency department with left-sided hip pain radiating to the knee. It started after he was running for a bus that morning. On examination, the boy is afebrile, overweight and the left leg is shortened and externally rotated.\nWhich of the following is the most likely cause of his symptoms?",
+            "options": [
+                "A. Acute fracture of the hip",
+                "B. Perthes disease",
+                "C. Septic arthritis",
+                "D. Slipped upper femoral epiphysis",
+                "E. Spontaneous haemarthrosis"
+            ],
+            "answer": "D",
+            "explanation": "Slipped upper femoral epiphysis is a consequence of instability of the proximal femoral growth plate, resulting in the postero-lateral displace-ment of the femoral head in relation to the femur. It is a rare but impor-tant cause of hip pain in adolescents. Slipped upper femoral epiphysis commonly presents between the ages of 10 and 15, with boys and the left hip most commonly affected. The condition is bilateral in at least 20% of cases. Associations include hypothyroidism, Frohlich adiposogenital syn-drome (characterized by obesity and hypogonadotrophic hypogonadism) and a tall stature. Slipped upper femoral epiphysis may present acutely after minimal trauma or have a more insidious presentation. Symptoms include hip, groin and knee pain, a limp, and an externally rotated and shortened leg. Acute cases may present with an inability to weight bear. The diagnosis may be made on X-ray (AP and lateral 'frog's leg' view), which may show widening of the growth plate and displacement of the femoral head. The management of slipped upper femoral epiphy-sis is bed rest (to prevent further slippage) and analgesia, until ortho-paedic assessment is carried out. The management is then by surgical closure of the epiphysis (usually performed as a closed procedure with cannulated screws). The contralateral hip may be fixed at the same time. Complications include avascular necrosis of the femoral head (secondary to attempts at reduction), coxa vara (caused by fusion in the slipped posi-tion), chondrolysis (destruction of articular cartilage), premature epiphy-seal fusion and secondary osteoarthritis.\nSpontaneous haemarthrosis is an acute spontaneous bleed into a joint without a history of trauma. The knee is most commonly affected. Spontaneous haemarthrosis is most commonly seen with haemo-philia. Recurrent haemarthroses result in damage to the joint and early osteoarthritis."
+        },
+        {
+            "id": 38,
+            "question_type": "mcq",
+            "question": "38. BACK PAIN (2)\nA 53-year-old man presents to the emergency department in the middle of the night complaining of sudden-onset numbness and weakness below the waist. He has also had some urinary incontinence. On examination, his ankle reflexes are absent and he has marked weakness on both dorsal and plantar flexion of the feet. There is reduced anal tone on per rectum examination.\nWhich of the following is the most appropriate step?",
+            "options": [
+                "A. Admit for urgent CT spine in the morning",
+                "B. Admit for urgent MRI spine in the morning",
+                "C. Obtain pelvic X-rays",
+                "D. Request urgent urology input",
+                "E. Transfer patient to a specialist spinal centre"
+            ],
+            "answer": "E",
+            "explanation": "This patient has presented with cauda equina syndrome, a neurosurgical emergency in which there is an acute compression of multiple nerve roots below the level of the conus medullaris. Symptoms include acute blad-der and bowel dysfunction, saddle and perineal anaesthesia, weakness of muscles innervated by the affected nerve roots, absent lower extrem-ity reflexes and bilateral leg pain. Causes include central disc prolapse, trauma and metastatic disease. The diagnosis and cause can be confirmed on MRI (and less sensitively by CT and myelography); however, to pre-vent irreversible nerve damage, review by the specialist team must not be delayed in waiting for further investigation. Transfer of the patient to a specialist centre would be more appropriate. The mainstay of treatment is surgical decompression.\nCauda equina, from Latin cauda = tail + equus = horse."
+        },
+        {
+            "id": 39,
+            "question_type": "mcq",
+            "question": "39. UROLOGICAL CONDITIONS (1)\nA 69-year-old man with poorly controlled insulin-dependent diabetes mellitus comes to see you in the urology outpatient department com-plaining of troublesome incontinence. He tells you he does not feel the urge to pass urine.\nWhat is the most likely cause?",
+            "options": [
+                "A. Atonic bladder",
+                "B. Benign prostatic hypertrophy",
+                "C. Bladder calculi",
+                "D. Detrusor instability",
+                "E. Urinary tract infection"
+            ],
+            "answer": "A",
+            "explanation": "The atonic bladder in this case has resulted from autonomic neuropathy secondary to diabetes. Due to a lack of sensation of the desire to void, the bladder continues to enlarge until overflow incontinence occurs. This patient will need to be taught intermittent self-catheterization. Atonic bladder may occur after spinal injuries and lower motor neurone disease. Detrusor instability is the spontaneous contraction of the bladder dur-ing filling and results in urge incontinence. Benign prostatic hyperplasia can cause overflow incontinence secondary to bladder outflow obstruc-tion but the patient will have the sensation of a full bladder or incomplete emptying. Urinary tract infections and bladder calculi are associated with irritative bladder symptoms such as frequency, urgency and dysuria."
+        },
+        {
+            "id": 40,
+            "question_type": "mcq",
+            "question": "40. GLASGOW COMA SCORE (2)\nA 45-year-old man is brought into the emergency department following a fall from the balcony of his fourth floor flat. On arrival he makes no sound, does not open his eyes to pain and makes no motor response to any stimulus.\nWhat is his Glasgow coma score?",
+            "options": [
+                "A. 0",
+                "B. 1",
+                "C. 3",
+                "D. 6",
+                "E. 9"
+            ],
+            "answer": "C",
+            "explanation": "The Glasgow coma scale is a widely used subjective scale used to assess and record a patient's conscious level. It is scored using three components: best eye response, best verbal response and best motor response (see the question, 'Glasgow coma score (1)'). In this case, the patient does not open his eyes at all (E1), makes no sound (V1) and makes no motor response (M1). Therefore his GCS is 3. Please note, the minimum GCS is 3, not 0, even when the patient is dead."
+        },
+        {
+            "id": 41,
+            "question_type": "mcq",
+            "question": "41. MANAGEMENT OF HERNIAS (1)\nAn 87-year-old woman with a history of chronic obstructive pulmonary disease with recurrent episodes of bronchitis comes to see you at the GP practice. She has noticed a lump in the lower abdomen when she stands. It does not cause her any concern but she just wanted to get it checked out. On examination, she is obese and there is a soft, non-tender reducible mass in the lower abdomen. You note lower midline scarring from previ-ous caesarean sections overlying the lump.\nWhat would be the best course of management?",
+            "options": [
+                "A. Conservative treatment unless symptoms change",
+                "B. Elective laparoscopic repair",
+                "C. Elective open repair",
+                "D. Emergency open repair",
+                "E. Prompt laparoscopic repair"
+            ],
+            "answer": "A",
+            "explanation": "This patient has presented with an incisional hernia. Incisional her-nias are caused by a weakness in the abdominal wall at sites of previous abdominal incisions. They are a late complication in 10% of patients fol-lowing abdominal surgery. Factors predisposing to an incisional hernia include poor surgical technique (too tight a closure), type of incision (ver-tical scars heal less well), post-operative wound infection, increasing age, obesity, chronic debilitating conditions such as diabetes, and steroid use. Incisional hernias are generally asymptomatic but may develop the same complications as other types of hernia, i.e. strangulation and obstruc-tion. This patient is asymptomatic and therefore emergency surgery is not indicated. In view of her obesity and COPD, which would predispose to hernia recurrence, it would be safer to manage her conservatively unless circumstances change."
+        },
+        {
+            "id": 42,
+            "question_type": "mcq",
+            "question": "42. INVESTIGATING VASCULAR DISEASE (2)\nA 55-year-old man who has been a smoker for over 30 years has been referred to the surgical outpatient clinic with a 6-month history of severe calf pain on walking which is eased by rest. Blood tests requested by the GP are unremarkable.\nWhich of the following imaging investigations would you send him for?",
+            "options": [
+                "A. CT scan",
+                "B. Digital subtraction angiography",
+                "C. Labelled white cell scan",
+                "D. MR angiogram",
+                "E. Ultrasound Doppler"
+            ],
+            "answer": "E",
+            "explanation": "The symptom of calf pain on walking which is relieved by rest is sugges-tive of intermittent claudication; therefore imaging of the arterial sys-tem (largely peripheral) is required. Ultrasound Doppler is 90% sensitive for arterial disease and would be the first-line imaging investigation. Magnetic resonance angiogram is a fast, non-operator-dependent inves-tigation, but has associated risks of contrast use. Digital subtraction angi-ography, although probably the most accurate investigation of the arterial system, carries with it the risks of contrast injection and would therefore be reserved for cases where intervention is deemed necessary."
+        },
+        {
+            "id": 43,
+            "question_type": "mcq",
+            "question": "43. MANAGING SKIN CONDITIONS (2)\nA 42-year-old woman presents to the emergency department with swell-ing and redness in her left cheek and malaise which has been present for 1 day. On examination, the area of erythema is well demarcated and is hot to touch. Her observations include: heart rate 106/min, blood pressure 108/68 mmHg and temperature 38.6°C.\nWhich of the following is the best course of management?",
+            "options": [
+                "A. 5-Fluorouracil",
+                "B. Analgesia",
+                "C. Intravenous antibiotics",
+                "D. Oral antibiotics",
+                "E. Surgical debridement"
+            ],
+            "answer": "C",
+            "explanation": "Erysipelas is a superficial streptococcal infection that is confined to a fascial compartment and is often found in the face or legs. It presents as a painful red swelling with a characteristically well-defined edge. Depending on the severity, erysipelas is treated with oral or intravenous antibiotics. Since the patient in this scenario is septic, intravenous anti-biotics would be more appropriate. If erysipelas is not treated early, then infection can spread deeper and wider to become cellulitis or necrotizing fasciitis. Erysipelas, from Greek erusi = red + pelas = skin."
+        },
+        {
+            "id": 44,
+            "question_type": "mcq",
+            "question": "44. MANAGING ABDOMINAL PAIN (4)\nA 68-year-old man is brought into the resuscitation room having been found collapsed outside a shop. On examination, he is pale, drowsy, and has a pulsatile mass in the abdomen. His observations include a heart rate of 126/min and a blood pressure of 86/38 mmHg.\nWhich of the following would be most appropriate?",
+            "options": [
+                "A. Abdominal ultrasound",
+                "B. Abdominal X-ray",
+                "C. Aggressive fluid resuscitation",
+                "D. CT abdomen",
+                "E. Laparotomy"
+            ],
+            "answer": "E",
+            "explanation": "This presentation is highly suggestive of a ruptured abdominal aortic aneurysm (AAA). The incidence of AAA is up to 5% in the over 60s and rupture accounts for around 2% of causes of death in men (AAA are less common in women and develop much later). The overall mortality associ-ated with AAA is at least 60% (up to half die before they reach hospital) and is rising. The majority of AAAs are diagnosed incidentally. The clas-sic presentation of a ruptured AAA is acute abdominal pain with hypo-tension and a pulsatile mass in the abdomen. The patient is often pale and sweaty, the mass may be tender, and an overlying bruit may be heard. Other presentations include back and flank pain (secondary to retroperi-toneal haemorrhage – may be mistaken for renal colic) and circulatory collapse/cardiac arrest.\nThe investigation of a patient with a suspected AAA depends upon their stability. Insert two wide bore cannulae, take all routine bloods (includ-ing a cross match sample for 6 units) and start fluid resuscitation. Stable patients without evidence of haemodynamic instability are suitable for imaging, which may include abdominal X-ray (AAA is seen to be calcified in 75%), ultrasound examination (only useful if a diagnosis of AAA is not previously known) and CT (gives the most information). If the patient is unstable, an emergency operation is indicated, even if the patient is not adequately resuscitated. Operative mortality is 40% at 1 month. The main causes of post-operative death are renal and cardiac failure."
+        },
+        {
+            "id": 45,
+            "question_type": "mcq",
+            "question": "45. ACUTE LIMB ISCHAEMIA\nA 64-year-old woman presents to the emergency department with an acutely painful left leg. She is complaining that it feels 'cold and numb'. There is no history of trauma and she has never had similar symptoms in the past.\nWhich of the following would you not expect to be found on examination?",
+            "options": [
+                "A. A tender, pulsatile, expansile mass in the abdomen",
+                "B. Absent left leg pulses",
+                "C. ECG showing an irregular rhythm",
+                "D. Pan-systolic murmur on auscultation",
+                "E. Wet gangrene"
+            ],
+            "answer": "E",
+            "explanation": "This woman has presented with acute limb ischaemia, characterized by the six Ps: acute pain, pallor, paraesthesia, pulseless, paralysis, perish-ing coldness. This is a surgical emergency as irreversible damage can occur within 6 hours and there is loss of the limb in up to 40% of cases. Ischaemia can be caused by thrombus on pre-existing atherosclerotic areas (60%), emboli (30%), trauma, thrombosed aneurysm, dissecting aneurysm, prothrombotic states and intraarterial drug administration. Both an irregular cardiac rhythm and valvular dysfunction (congenital, rheumatic fever, post myocardial infarction) can lead to the formation of mural thrombus and subsequent emboli.\nWet gangrene occurs when there is infection within an area of dry gan-grene, a feature of chronic ischaemia."
+        },
+        {
+            "id": 46,
+            "question_type": "mcq",
+            "question": "46. HAND DISORDERS (2)\nA 57-year-old man presents with a progressive deformity of his right hand which has been present for over a year. On examination, he has thicken-ing over the palm with fixed contracture of the ring and little finger. He tells you that the deformity is limiting his day-to-day work as a computer programmer.\nWhich of the following management options would be recommended?",
+            "options": [
+                "A. Conservative management",
+                "B. Physiotherapy",
+                "C. Splinting",
+                "D. Steroid injections",
+                "E. Surgery"
+            ],
+            "answer": "E",
+            "explanation": "This patient has presented with a Dupuytren contracture, a flexion con-tracture of the hand caused by thickening of the connective tissue of the palmar aponeurosis. It most commonly affects the ring and little fin-gers, although sometimes there may be involvement of the other digits. The cause of Dupuytren's is largely unknown but it occurs in around 5% of the population. It typically presents after the age of 40 with men affected more than women. It has an association with manual labour, anti-epileptic medications (phenobarbitone, phenytoin), alcoholic liver disease, diabetes and hypothyroidism. Other areas of the body may also be affected such as the soles of the feet (Ledderhose disease) and the penis (Peyronie disease). In the early stages management is largely conserva-tive but if function is affected then surgery is indicated. Surgery involves excising the thickened aponeurosis and would be followed by a period of splinting and physiotherapy to restore hand function. Re-thickening can occur so surgery may need to be repeated.\nGuillaume Dupuytren, French anatomist and surgeon (1778–1835).\nFrançois Gigot de la Peyronie, French surgeon (1678–1747).\nGeorg Ledderhose, German surgeon (1855–1925)."
+        },
+        {
+            "id": 47,
+            "question_type": "mcq",
+            "question": "47. THYROID DISEASE (4)\nA 46-year-old woman attends her general practice complaining of low mood and tiredness. She has had this for a few months and has had to take time off work. On further questioning she admits to being consti-pated and to having gained 2 stone in weight over the previous month. On examination, no abnormality is apparent in the neck and no lymphade-nopathy is palpable.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Haemorrhage into a cyst",
+                "B. Hashimoto thyroiditis",
+                "C. Medullary carcinoma",
+                "D. Myxoedema coma",
+                "E. Primary myxoedema"
+            ],
+            "answer": "E",
+            "explanation": "The woman in this question presents with some classic features of an underactive thyroid. This, along with the lack of goitre, makes primary myxoedema the best answer. Primary myxoedema is also known as spon-taneous atrophic hypothyroidism. It is characterized by an idiopathic reduction in the production of thyroid hormones. Features of hypothy-roidism include a hoarse voice, constipation, feeling cold, weight gain, low mood, lethargy, coarse hair and dysmenorrhoea. The diagnosis of primary hypothyroidism is made by demonstrating a low T4 (thyroxine) despite a high TSH (thyroid-stimulating hormone). Hypothyroidism is treated with daily thyroxine, which is taken for life.\nOlder patients with undiagnosed hypothyroidism, or those who do not take their medications, can present with features of severe hypothyroid-ism or a myxoedema coma. These include impaired consciousness, hypo-thermia, bradycardia and hypoglycaemia. Patients with a myxoedema coma should be transferred to intensive care for fluids, gentle re-warming and intravenous thyroid hormones. The mortality is 50%.\nHaemorrhage into a thyroid cyst presents with acute neck pain and swelling. Haemorrhage can result in tracheal compression and stridor. If possible, aspiration of the cyst contents should be performed to alleviate tracheal compression and maintain airway patency. If aspiration is not possible, surgical intervention may be required.\nMyxoedema, from Greek myxa = slime + oedema = swelling."
+        },
+        {
+            "id": 48,
+            "question_type": "mcq",
+            "question": "48. PAEDIATRIC SURGERY (4)\nA 3-year-old boy is brought to the GP practice by his mother. He has been complaining intermittently about abdominal pain. His mother feels that his abdomen is distended. On examination, there is a large mass on the left side of the abdomen which does not cross the midline.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Hepatoblastoma",
+                "B. Lipoma",
+                "C. Nephroblastoma",
+                "D. Neuroblastoma",
+                "E. Polycystic kidney"
+            ],
+            "answer": "C",
+            "explanation": "A nephroblastoma, also known as Wilms tumour, is formed by the embryonic precursor to renal cells and can arise anywhere in the kid-ney. The incidence is 1 in 10,000 and it accounts for up to 20% of childhood malignancies. The typical age of presentation is 2-3 years, with boys being more commonly affected. Around 10% of cases of Wilms tumour are bilateral. It is associated with a deletion on the short arm of chromosome 11 and may be linked with other congeni-tal anomalies such as aniridia (incomplete formation of the iris) and polycystic kidney disease. Presentation is usually vague (features include weight loss, anorexia and fever) and the abdominal mass is often found incidentally on examination. Diagnosis can be confirmed on ultrasound and CT. Nephrectomy and radiotherapy is the main-stay of treatment of localized disease, with chemotherapy in advanced disease. Nephroblastomas are pale grey with areas of haemorrhage on cross-section.\nNeuroblastomas are tumours of the neural crest and most commonly occur in the adrenal medulla. The mass typically crosses the midline, unlike nephroblastomas which rarely do. Hepatoblastomas are rare pri-mary liver cell cancers which present with a right-sided abdominal mass. Infantile polycystic kidney disease is a rare autosomal recessive condi-tion that is bilateral. Lipomas are benign fatty tumours and are rarely symptomatic.\nMax Wilms, German surgeon (1867–1918)."
+        },
+        {
+            "id": 49,
+            "question_type": "mcq",
+            "question": "49. MANAGING COMMON FRACTURES (2)\nA 53-year-old woman has fallen onto her outstretched right hand, result-ing in an undisplaced fracture of the distal radius and ulna. She was previously fit and well. She wants to know how long it will take for the fracture to heal.\nHow long would you expect this fracture to heal?",
+            "options": [
+                "A. 1 week",
+                "B. 3 weeks",
+                "C. 6 weeks",
+                "D. 12 weeks",
+                "E. 16 weeks"
+            ],
+            "answer": "C",
+            "explanation": "As a general rule, upper limb fractures in adults take 6-8 weeks to heal, while lower limb fractures take 12–16 weeks. These numbers are halved in children. Healing times are affected by fracture type and site, quality of local blood supply, amount of soft tissue interposition and amount of movement at the site of injury. Patient factors, such as anaemia, chronic illness and steroid use, will also have a bearing on healing."
+        },
+        {
+            "id": 50,
+            "question_type": "mcq",
+            "question": "50. STATISTICS (2)\nTented T waves on electrocardiograms are thought to reflect hyperkalae-mia. A new proposed definition of tented T waves is 'a T wave that is taller than 2 large squares'. A study looking at the feasibility of this definition found 1000 ECGs: 200 with tented T waves (according to the proposed definitions) and 800 without. The study found that of the 200 people with ECGs with tented T waves, 100 had hyperkalaemia. Of the 800 people without tented T waves, a further 100 had hyperkalaemia.\nWhat is the specificity of this definition of tented T waves with relation to hyperkalaemia?",
+            "options": [
+                "A. 12.5%",
+                "B. 25.0%",
+                "C. 50.0%",
+                "D. 87.5%",
+                "Ε. 95.0%"
+            ],
+            "answer": "D",
+            "explanation": "The specificity is the ability of an investigation to detect a truly negative test result.\nSpecificity = number of true negatives/(number of true negatives + number of false positives) × 100\nIn this case, 700 people who did not have tented T waves also did not have hyperkalaemia, i.e. of the 800 ‘negative' results, 700 were true nega-tives. Similarly, only 100 of the 200 people with ‘tented T waves' truly had hyperkalaemia; in other words there were 100 true positives and 100 false positives.\nThus,\nSpecificity = 700/(700 + 100) × 100 = 7/8 × 100 = 87.5%\nFor other useful formulas, see the question ‘Statistics (1)'."
+        }
+    ]
+}

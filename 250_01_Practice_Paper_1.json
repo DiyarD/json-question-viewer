@@ -1,0 +1,705 @@
+{
+    "chapter_name": "Practice Paper 1",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A 60-year-old man develops shortness of breath and a cough productive of purulent sputum three days after a right hemicolectomy. An arterial blood gas shows pH 7.42, pO2 7.1, pCO2 5.2, bicarbonate 25.\nReference ranges: pO2 >11.0 kPa, pCO2 4.6–6.0 kPa, bicarbonate 22-28 mmol/L, pH 7.35-7.45.\nWhat blood gas picture does this represent?",
+            "options": [
+                "A. Metabolic alkalosis",
+                "B. Respiratory acidosis",
+                "C. Respiratory alkalosis",
+                "D. Type I respiratory failure",
+                "E. Type II respiratory failure"
+            ],
+            "answer": "D",
+            "explanation": "A simple interpretation of arterial blood gases is as follows. The pH value shows if the gas is acidotic (<7.35) or alkalotic (>7.45). Next you need to find out if the alkalosis or acidosis is due to a metabolic or respiratory cause this is done by looking at the pCO2 and bicarbonate levels. There are two things you need to bear in mind before continuing: (1) carbon dioxide is acidic and bicarbonate is alkaline; and (2) bicarbonate equates to 'metabolic' and pCO2 means 'respiratory'. An alkalosis can be due to either a high bicarbonate ('metabolic alkalosis') or a low pCO2 ('respiratory alkalosis'). Conversely, an acidosis can be caused by either a low bicarbonate ('metabolic acidosis') or a high pCO2 ('respiratory acidosis').\nIn some cases of blood gas disturbance the body has time to compensate. In other words, whichever chemical is causing the imbalance is counteracted by the opposite one. For example, if there is a high bicarbonate (metabolic alkalosis) then the pCO2 starts to increase to bring in some acidity and counteract the alkalosis. This is achieved by 'under breathing', leading to relative retention of CO2.\nIf compensation is successful the pH will return to within the normal range (7.35-7.45), even if the bicarbonate and pCO2 levels are abnormal. It is important to know that the body cannot overcompensate, i.e. if there is an initial acidosis, the body will not make that into an alkalosis, and the pH will always remain on the acidic side of normal (<7.40). Similarly a compensated alkalosis will always have a pH > 7.40, the alkalotic side of normal.\nRespiratory failure is defined as a pO2 < 8.0. Type I respiratory failure occurs when there is hypoxia in the presence of a low or normal pCO2. Type II respiratory failure is hypoxia in the presence of a high pCO2.\nThe pH, pCO2 and bicarbonate levels are normal in this case, so there is no acid-base disorder. However this man has a hypoxia (pO2 < 8) which denotes respiratory failure. Because the pCO2 is not high, it is a type I respiratory failure. This man's hypoxia is probably secondary to a chest infection."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "A 72-year-old woman is brought into hospital with profuse diarrhoea, abdominal pain and fever, which she has suffered for the last two days. On examination, she has generalized abdominal tenderness. Her observations include heart rate 108/min, blood pressure 110/64 mmHg and temperature 38.2°C. Abdominal and erect chest X-rays are unremarkable. Her son tells you she was in hospital two weeks ago with a chest infection.\nWhich of the following would be the most appropriate treatment in the first instance?",
+            "options": [
+                "A. Intravenous co-amoxiclav",
+                "B. Intravenous vancomycin",
+                "C. Oral metronidazole",
+                "D. Oral rehydration",
+                "E. Subtotal colectomy"
+            ],
+            "answer": "C",
+            "explanation": "This patient has presented with the features of pseudomembranous colitis. Pseudomembranous colitis is an acute inflammatory condition which occurs secondary to antibiotic use. The majority of cases are caused by an overgrowth of the Gram-positive anaerobe Clostridium difficile, following a change in the normal bacterial flora of the gut secondary to antibiotic use. Clindamycin, ampicillin, cephalosporins and ciprofloxacin are common responsible agents, although almost any antibiotic can be the cause. Presentation is usually within 3 to 9 days, although symptoms may develop up to 6 weeks after antibiotic use. Patients present with profuse offensive diarrhoea, abdominal pain and constitutional symptoms, such as fever and malaise. Twenty percent of cases are localized to the proximal colon and caecum and present with a right lower quadrant pain which may mimic appendicitis. Blood tests often reveal a raised white cell count. The diagnosis is established on stool testing for C. difficile toxins. A ‘pseudomembrane' (patches of infective debris) may be seen in the rectum and colon (although endoscopy is now rarely performed).\nTreatment involves adequate fluid resuscitation (mild cases do not require admission) and administration of oral metronidazole for 10 days. Resistant and recurrent cases are treated with oral vancomycin (intravenous preparations are avoided as the drug does not reach the intestinal mucosa). Anti-diarrhoeal agents must be avoided as this would lead to retention of the C. difficile toxin.\nComplications of pseudomembranous colitis include hypovolaemic shock, electrolyte imbalance, hypoalbuminaemia, perforation of the bowel and toxic megacolon. Patients who develop toxic megacolon require surgery to remove the affected segment of bowel (subtotal colectomy). Toxic megacolon appears as a dilated colon with a featureless wall on plain abdominal X-ray.\nA fifth of patients who have been successfully treated for pseudomembranous colitis have a relapse. Pseudomembranous colitis is a common hospital acquired infection (spread by the faeco-oral route) and highlights the importance of good hygiene and hand washing.\nClostridium, from Greek kloster = spindle (pertaining to the bacterium's rod-like shape)."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "A 45-year-old man has walked into the emergency department following his involvement in a road traffic collision. On arrival at the hospital he is anxious, but otherwise fine. Later, he suddenly becomes faint. He is taken into the resuscitation room where he is found to have a heart rate of 46/min and a blood pressure of 80/48 mmHg. Primary examination is unremarkable and the patient has warm peripheries.\nWhich of the following is the most likely cause of his symptoms?",
+            "options": [
+                "A. Cardiogenic shock",
+                "B. Haemorrhagic shock",
+                "C. Hypovolaemic shock",
+                "D. Neurogenic shock",
+                "E. Spinal shock"
+            ],
+            "answer": "D",
+            "explanation": "Neurogenic shock is caused by sudden disruption or injury to the sympathetic nervous pathways, resulting in the loss of vasomotor tone and pooling of blood in the peripheries. This leads to profound hypotension. Unlike most forms of shock, neurogenic shock is also characterized by bradycardia. Causes of neurogenic shock include injury to the brain and spinal cord, and acute emotional stress.\nNeurogenic shock must be differentiated from spinal shock. Spinal shock is a transient state occurring after injury to the spinal cord. There is loss of all voluntary and reflex activity below the level of the injury, resulting in a hypotonic flaccid paralysis which also affects the bladder and bowel. This loss can be complete initially but may resolve over a period of days and weeks following the injury.\nStabilizing the spine is crucial in the resuscitation of these patients.\nHaemorrhagic shock is a form of hypovolaemic shock, in which blood loss is too great to maintain an effective circulating volume. The cause is usually acute and is treated by replacing lost fluid/blood, identifying the source of blood loss and preventing further bleeding. Cardiogenic shock is defined as hypotension with tissue hypoperfusion despite adequate ventricular filling. In essence, it occurs from a failure of the heart to act as an effective pump. Cardiogenic shock most commonly occurs following myocardial infarction. Other causes include arrhythmias and valvular abnormalities. Examination may reveal signs of heart failure, such as an elevated jugular venous pressure (JVP) and pulmonary/pedal oedema."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "A 53-year-old man presents to the GP with a deep, painful ulcer over the big toe. He gives a 3-month history of severe calf pain on walking which is only eased on resting. Examination shows cool peripheries with reduced distal pulses.\nWhich ulcer does the patient most likely have?",
+            "options": [
+                "A. Arterial ulcer",
+                "B. Curling ulcer",
+                "C. Marjolin ulcer",
+                "D. Neuropathic ulcer",
+                "E. Venous ulcer"
+            ],
+            "answer": "A",
+            "explanation": "Arterial ulcers are typically painful, deep, well demarcated and occur on the heels, toes and over bony prominences. They occur as a result of arterial insufficiency and ischaemia, the most common cause of this being atherosclerosis. This patient has symptoms of intermittent claudication, which together with poor pulses would suggest an arterial cause of the ulcer. Other findings which would suggest an ischaemic ulcer include a dusky discolouration with shiny, hairless skin and thickening of the toenails. Contrast angiography will help define arterial lesions which may be improved by angioplasty or vascular reconstruction.\nVenous ulcers are most common in women after middle age. They are caused by venous hypertension and are commonly associated with varicose veins. They typically appear over the medial gaiter area (from the ankle to the proximal calf) and are shallow and sloughy. Surrounding skin may be oedematous, dark (caused by haemosiderin deposition), eczematous and thickened (lipodermatosclerosis).\nWhen taking a history from a 'vascular patient' be sure to cover the vascular risk factors such as a personal or family history of diabetes, smoking habits and exertional capacity before onset of claudication (e.g. walking distance, number of stairs they can climb)."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "A mother brings her 5-week-old son to the paediatric outpatient clinic. She is concerned as he has been having episodes of forceful vomiting after feeds for the last 2 weeks. She says her son always seems hungry and now is beginning to appear lethargic. Examination of the child reveals mild dehydration and the presence of a smooth, firm, non-tender mass in the right upper quadrant of the abdomen. Blood tests are sent.\nWhat biochemical abnormalities would you expect to find?",
+            "options": [
+                "A. Hyperchloraemic, respiratory alkalosis",
+                "B. Hypernatraemic, hyperkalaemic, metabolic alkalosis",
+                "C. Hypochloraemic, hyperkalaemic, metabolic alkalosis",
+                "D. Hypochloraemic, hypokalaemic, metabolic alkalosis",
+                "E. Hyponatraemic, metabolic acidosis"
+            ],
+            "answer": "D",
+            "explanation": "This patient has presented with the symptoms and signs of pyloric stenosis, caused by hypertrophy and hyperplasia of the muscle layers of the pylorus. It is the most common cause of mechanical obstruction in children, with an incidence of up to 4/1000. It is four times as common in male infants (30% of these being the first born) and can present anywhere between the first and eighteenth week of life, but commonly presents 6–8 weeks after birth. It is characterized by non-bilious, projectile vomiting. Diagnosis is confirmed by the presence of an 'olive' shaped mass in the right upper quadrant, usually post vomit or when the child is relaxed. It can also be confirmed by ultrasound examination. Due to the loss of gastric fluid, there is a hypochloraemic metabolic alkalosis. Renal exchange of potassium for hydrogen (a compensatory mechanism) leads to hypokalaemia. Dehydration can result in either hypo- or hypernatraemia. Treatment initially consists of fluid and electrolyte resuscitation followed by definitive treatment in the form of surgery (Ramstedt pyloromyotomy, where the pyloric muscle is divided longitudinally down to the mucosal layer). The baby can tolerate milk feeds a few hours after the operation."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "A 45-year-old woman is due to have an elective cholecystectomy following a recent bout of acute cholecystitis (which has fully resolved). She has a past medical history of high blood pressure, which is fully controlled with tablets.\nWhich of the following best describes her preoperative morbidity?",
+            "options": [
+                "A. ASA grade I",
+                "B. ASA grade II",
+                "C. ASA grade III",
+                "D. ASA grade IV",
+                "E. ASA grade V"
+            ],
+            "answer": "B",
+            "explanation": "The American Society of Anesthesiologists (ASA) grading system is the most commonly used scale to predict a patient's preoperative morbidity irrespective of the surgery they are about to undergo. Patients are assigned a preoperative grade according to the following scale:\nGrade I = normal, healthy individual (0.05% anaesthetic mortality)\nGrade II = mild systemic disease that does not limit activity (0.4% mortality)\nGrade III = severe systemic disease that limits activity but is not incapacitating (4.5% mortality)\nGrade IV = incapacitating systemic disease that is constantly life-threatening (25% mortality)\nGrade V = moribund, not expected to survive over 24 hours with or without surgery (50% mortality)\nIn addition to the above grading scale, an 'E' suffix is used to denote an emergency operation."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "A 56-year-old man is brought to hospital by his wife. He has been vomiting fresh blood since earlier that morning. She tells you he has a long history of alcohol abuse and drinks at least a bottle of spirits a day.\nWhich of the following is the most likely cause of his symptoms?",
+            "options": [
+                "A. Dieulafoy lesions",
+                "B. Duodenal ulcer",
+                "C. Gastric ulcer",
+                "D. Oesophageal varices",
+                "E. Oesophagitis"
+            ],
+            "answer": "D",
+            "explanation": "This patient has presented with haematemesis; vomiting fresh blood from the upper gastrointestinal tract. From the history, this patient has most likely developed liver cirrhosis and, as a result, oesophageal varices secondary to portal hypertension. Portal hypertension results in the formation of collateral vessels between the portal and systemic circulations as follows:\n• Left gastric and oesophageal veins (→ oesophageal and gastric varices)\n• Obliterated umbilical vein to the superior and inferior epigastric veins (→ caput medusae)\n• Superior and inferior rectal veins (→ anal canal varices)\n• Retroperitoneum\nOther features of portal hypertension are splenomegaly and ascites. The management of variceal bleeding is by immediate resuscitation followed by an urgent endoscopy to identify and control the bleeding.\nInflammation of the oesophagus (oesophagitis) is largely caused by gastro-oesophageal reflux disease (GORD), where failure of relaxation of the lower oesophageal sphincter allows the reflux of stomach contents back into the oesophagus. Symptoms include retrosternal chest pain and cough. Longstanding GORD is a risk factor for developing adenocarcinoma of the oesophagus. A Dieulafoy lesion is an abnormally tortuous, large-calibre, submucosal artery. It is found in 5% of the population and in 95% of cases occurs on the lesser curvature of the stomach, 6 cm away from the gastro-oesophageal junction. Lesions are largely asymptomatic until they bleed.\nPaul Georges Dieulafoy, French surgeon (1839-1911)."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "A 28-year-old woman was previously admitted to the orthopaedic ward with an ankle fracture which was treated with a plaster cast. When the cast is removed, the patient is unable to dorsiflex her foot. All other leg movements are maintained.\nWhich nerve has most likely been affected?",
+            "options": [
+                "A. Common peroneal nerve",
+                "B. Obturator nerve",
+                "C. Sciatic nerve",
+                "D. Sural nerve",
+                "E. Tibial nerve"
+            ],
+            "answer": "A",
+            "explanation": "The common peroneal nerve (or common fibular nerve) is a branch of the sciatic nerve which supplies the dorsiflexors and evertor muscles of the foot and sensation to the lateral lower leg and upper foot. The common peroneal nerve lies in close proximity to the head of the fibula and may become trapped by below-knee plaster casts or damaged with fibular fractures. Features of common peroneal nerve lesions include lack of dorsiflexion (with a resulting foot drop) and loss of sensation in the antero-lateral lower leg and dorsum of the foot (except for the lateral aspect of the foot which is supplied by the sural nerve). The inability to dorsiflex the foot will result in a 'foot drop' with a 'high-stepping' gait to ensure it is not scraped along the ground.\nPeroneal, from Greek perone = pin (describing the shape of the fibula)."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "A 45-year-old woman presents with a 2-month history of worsening jaundice, itching and malaise. On examination, she has multiple localized areas of yellow pigmentation around her eyes. She has a past history of Sjögren syndrome, but is otherwise well.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Acute cholecystitis",
+                "B. Ascending cholangitis",
+                "C. Biliary colic",
+                "D. Primary biliary cirrhosis",
+                "E. Primary sclerosing cholangitis"
+            ],
+            "answer": "D",
+            "explanation": "Primary biliary cirrhosis is an autoimmune condition that commonly affects middle-aged women. It is characterized by inflammation and fibrosis of the bile canaliculi, resulting in cholestasis. The majority of cases are associated with rheumatoid arthritis and Sjögren syndrome (characterized by dry eyes – xerophthalmia – and a dry mouth – xerostomia). Common presenting symptoms are described above and include xanthelasmata (cholesterol deposits around the eyes) but patients may also present with the complications of liver cirrhosis and portal hypertension. Tests for anti-mitochondrial antibody are usually positive, but a definitive diagnosis is made on liver biopsy. Treatment is aimed at reducing cholestasis and promoting the excretion of bile salts. The development of primary biliary cirrhosis is an indication for a liver transplant, although the condition can recur in the transplanted organ.\nPrimary sclerosing cholangitis is an autoimmune inflammatory condition characterized by chronic fibrosis of both the intra- and extra-hepatic biliary tree. It is most common in middle-aged men and has an increased incidence in those with ulcerative colitis (70%), HIV and retroperitoneal fibrosis. Patients present with jaundice, intermittent fevers, pruritus and right upper quadrant pain. Diagnosis is confirmed on ERCP, which will show 'beading' of the biliary tree upon retrograde injection of contrast (a result of intermittent stricture formation). Definitive management is with a liver transplant. Primary sclerosing cholangitis is a risk factor for developing cholangiocarcinoma (affects at least 10%).\nAcute cholecystitis is an inflammation of the gallbladder most commonly arising secondary to a blockage of biliary outflow by a gallstone in the cystic duct or stone impaction in Hartmann pouch (an anatomical area at the neck of the gallbladder where stones commonly become trapped). Collections of fluid that are not able to 'flow' due to blockage commonly become infected.\nAscending cholangitis refers to a condition where biliary stasis occurs due to a downstream obstruction (commonly a stone, stricture or malignancy) which, again, causes stasis of fluid which can become infected. This can cause profound sepsis and one must seek to resuscitate the patient and relieve the obstruction. This can be done via ERCP (stenting for stricture or balloon trawl for stones) or percutaneous drainage of the biliary system.\nGreek xērós = dry."
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "A 28-year-old man presents with a 3-month history of pain in both calves which comes on with walking and is relieved by resting. He is otherwise fit and well, although he does smoke 30 cigarettes a day. On examination, the legs and feet are warm, but the pedal pulses are not palpable. The upper limbs are normal.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Buerger disease",
+                "B. Embolus",
+                "C. Intermittent claudication",
+                "D. Spinal stenosis",
+                "E. Takayasu arteritis"
+            ],
+            "answer": "A",
+            "explanation": "Buerger disease is a vasculitis of medium-sized vessels that results in progressive obliteration of distal arteries in young men (<45 years) who smoke heavily. It is most common in Asians and Ashkenazi Jews, and is associated with HLA-B12. Buerger disease affects the upper and lower limbs. The main symptom is pain, but chronic inflammation and thrombosis can result in ulceration and gangrene, often requiring amputations. Arteriography shows normal proximal vessels and distal occlusions with multiple 'corkscrew' collaterals. Management is with analgesia and stopping smoking. If tobacco use is not ceased, multiple amputations will be unavoidable.\nTakayasu arteritis (a.k.a. pulseless disease or aortic-arch syndrome) is a rare vasculitis characterized by granulomatous inflammation of the aorta and its major branches. Features include hypertension, arm claudication, absent pulses, bruits and visual disturbance (transient amblyopia and blindness). Patients also present with systemic illness (malaise, fever, night sweats and weight loss). It is most common in younger Asian women. Diagnosis is by angiography which shows narrowing of the aorta and its major branches. Management is with steroids but the condition is progressive and death occurs within a few years.\nLeo Buerger, Austrian-born American physician and urologist (1879-1943).\nMikito Takayasu, Japanese ophthalmologist (1860–1938)."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "A 50-year-old woman with known gallstones presents to the emergency department with severe epigastric pain radiating to the back together with nausea and vomiting. Examination reveals localized epigastric peritonitis and investigations reveal an amylase of 650 μ/L.\nWhich of the following would indicate a poor prognosis in this condition?",
+            "options": [
+                "A. Amylase of 650 μ/L",
+                "B. Arterial pO2 of 7.0 kPa",
+                "C. Patient age of 50 years",
+                "D. Pyrexia of 38.5°C",
+                "E. White cell count of 10 × 103/μL"
+            ],
+            "answer": "B",
+            "explanation": "Pancreatitis is inflammation of the pancreas confirmed by a raised amylase (above four times the normal upper limit) or elevated serum lipase (twice the upper normal limit). Biliary disease and alcohol account for up to 80% of cases, with 10% being a combination of these. A significant proportion of cases are idiopathic.\nThe features below, according to the modified Glasgow criteria, are markers of a poor prognosis. Patients should be scored on admission according to:\nAge > 55 years\nWhite cell count > 15 × 103/μL\nUrea > 16 mmol/L\nGlucose > 10 mmol/L\nArterial pO2 < 8 kPa\nAlbumin < 32 mmol/L\nCalcium < 2.0 mmol/L\nLactate dehydrogenase > 600 mmol/L\nThe mnemonic PANCREAS can be used to remember the modified Glasgow criteria: pO2, Age, Neutrophils (WCC), Calcium, Renal (urea), Enzymes (LDH, AST), Albumin, Sugar (glucose).\nSevere disease is present if three or more of the criteria are present within 48 hours. Note that the prognosis is unaltered by the serum amylase concentration. Other prognostic scores for acute pancreatitis are the Ranson's criteria and APACHE II.\nFor more details on pancreatitis, see the question 'Abdominal pain (2)'."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "A 6-year-old boy who had a fracture above the left elbow and was treated in a plaster cast is brought into the GP practice by his mother a few days after plaster removal. She is worried due to the abnormal positioning of his forearm. On examination, his left forearm appears to be shortened and held in flexion at the wrist and the fingers.\nWhich of the following complications has led to this appearance?",
+            "options": [
+                "A. Brachial artery injury",
+                "B. Lack of physiotherapy",
+                "C. Malunion at fracture site",
+                "D. Median nerve injury",
+                "E. Ulnar nerve injury"
+            ],
+            "answer": "A",
+            "explanation": "This boy has presented with Volkmann ischaemic contracture, a flexion contracture of the hand and wrist, caused by circulatory compromise and ischaemia leading to fibrosis of the forearm compartment. It is a recognized complication of supracondylar fractures, secondary to untreated compartment syndrome (which in this case is likely to have been from a simultaneous brachial artery injury or occlusion). Other recognized complications of supracondylar fractures are median nerve injury, anywhere along its course from the elbow down, usually resulting in carpal tunnel syndrome, and stretching of the ulnar nerve over an increasing valgus deformity, causing ulnar nerve palsy as the child grows (tardy ulnar nerve palsy). Malunion of supracondylar fractures leads to a cubitus varus deformity (‘gunstock deformity'). Treatment of Volkmann ischaemic contracture involves surgery to release the contracted muscles.\nRichard von Volkmann, German surgeon (1830–1889)."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "A 40-year-old man presents to the GP complaining of increasing difficulty in swallowing over the last few months. He tells you he has been working in Mexico for the last two years with a new business. He is otherwise well and denies any other symptoms.\nWhich of the following is the most likely cause of his symptoms?",
+            "options": [
+                "A. Chagas disease",
+                "B. Gastro-oesophageal reflux disease",
+                "C. Myasthenia gravis",
+                "D. Plummer-Vinson syndrome",
+                "E. Zenker diverticulum"
+            ],
+            "answer": "A",
+            "explanation": "Chagas disease is a parasitic disease of the tropics caused by the protozoan Trypanosoma cruzi. Transmission can be vector borne, via blood transfusion and the placenta. Chagas disease is endemic to Central America and South America. Symptoms depend on the stage of infection. In the acute stages, a skin nodule a chagoma – appears at the site of inoculation (it may go unnoticed) and is associated with non-specific symptoms such as fevers, malaise, anorexia and lymphadenopathy. These symptoms usually resolve spontaneously. The second stage in Chagas disease may occur after many years (and affects around 30%). One common presenting complaint is dysphagia, caused by the destruction of the oesophageal myenteric plexus with subsequent disruption of peristalsis. The retained food eventually results in oesophageal dilatation, and a 'megaoesophagus' can be seen on barium swallow. Other secondary features of Chagas disease include cardiomyopathy and dementia. Treatment is with a combination of anti-parasitic medication and by the management of clinical manifestations. Presenting features of Chagas disease are similar to those experienced in oesophageal achalasia, an idiopathic condition caused by the degeneration of Auerbach plexus (see the question, 'Managing dysphagia').\nIt is thought that Charles Darwin had contracted, and eventually died from, Chagas disease.\nCarlos Chagas, Brazilian physician (1879–1934)."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "A 30-year-old woman presents with multiple bilateral breast swellings which cause her discomfort, particularly just before her periods. They have been present for several years but appear to be getting worse.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Duct ectasia",
+                "B. Fat necrosis",
+                "C. Fibroadenoma",
+                "D. Fibrocystic disease",
+                "E. Peau d'orange"
+            ],
+            "answer": "D",
+            "explanation": "Fibrocystic disease of the breast is a common benign condition affecting more than half of women, commonly between the ages of 30 and 50. The main pathological abnormalities are small cyst formation, fibrosis and hyperplasia of the duct epithelium. It is characterized by nodular changes in breast tissue and may be considered a normal variant. Symptoms are variable from aching to severe breast pain (mastalgia), typically eased following menstruation, and itching of the nipples. Treatment is largely symptomatic, although larger cysts may be aspirated (such cysts can often recur following aspiration). Regular self-examination is important so as not to overlook any co-existing cancerous breast disease.\nFat necrosis is most common in obese, middle-aged women with a history of trauma to the area. It presents with a painless, irregular, firm lump in the breast and may be associated with skin thickening or retraction. The size of the lump usually decreases in size with time but may leave residual fat cysts within the breast. The diagnosis of fat necrosis must be confirmed by core biopsy as the presenting features may be similar to those of carcinoma.\nPeau d'orange is the term used to describe the orange-peel appearance of oedematous, dimpled skin that occurs when there is malignant infiltration from underlying breast cancer preventing normal lymphatic drainage."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "You are called to see a 56-year-old man who is one day post appendicectomy because he became acutely short of breath. He has just been given his first dose of cyclizine to relieve nausea. On arrival, the patient is breathless with the following observations: heart rate 122/min, blood pressure 86/48 mmHg and saturations 85% in air.\nWhich of the following would you administer first?",
+            "options": [
+                "A. Adrenaline",
+                "B. Chlorphenamine",
+                "C. Fluids",
+                "D. Hydrocortisone",
+                "E. Salbutamol"
+            ],
+            "answer": "A",
+            "explanation": "This patient is in anaphylactic shock, an acute life-threatening emergency which can rapidly cause death if untreated. Anaphylaxis is a systemic form of the type 1 hypersensitivity reaction, in which exposure to an allergen results in IgE-mediated secretion of inflammatory mediators, such as histamine and prostaglandins, with subsequent vasodilatation and bronchial smooth muscle contraction. This manifests in hypotensive shock and bronchospasm, leading to difficulty breathing, wheezing and pulmonary oedema. Other symptoms include urticaria, angioedema, abdominal pain and diarrhoea. Adrenaline is the primary treatment for anaphylaxis; it acts to bronchodilate and vasoconstrict, and is generally given intramuscularly (10 mL of 1:1000 solution) in this scenario. It has a rapid rate of onset and doses may be repeated. Intravenous antihistamines (e.g. chlorphenamine) and intravenous hydrocortisone are used to assist in dampening the inflammatory response. Fluids are used for hypotension and salbutamol can be administered simultaneously to aid the relief of bronchospasm. Poor response to treatment is an indication for anaesthetic review and possible transfer to an intensive care setting. Patients who are at risk of anaphylactic shock from common allergens often carry an EpiPen – a preloaded syringe which contains adrenaline for self-administration."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "A 34-year-old man presents to the emergency department with a 10-hour history of abdominal pain associated with nausea and vomiting. On examination, the patient is lying still and has tenderness with guarding in the right iliac fossa. His temperature is 37.6°C. He has no significant past medical history.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Appendicitis",
+                "B. Crohn disease",
+                "C. Meckel diverticulitis",
+                "D. Mesenteric adenitis",
+                "E. Renal colic"
+            ],
+            "answer": "A",
+            "explanation": "Appendicitis is inflammation of the appendix occurring secondary to obstruction of the appendiceal opening into the caecum. Causes of obstruction include faecoliths and lymphoid hyperplasia secondary to viral infections. Appendicitis is a common cause of an acute abdomen, affecting up to 8% of the population at some point in their life. It is most commonly seen in children and young adults although the mortality associated with appendicitis is greatest at the extremes of age.\nThe typical presenting features are abdominal pain, which is initially periumbilical and moves to the right iliac fossa, associated with nausea, vomiting and a low grade fever. Diagnosis is largely clinical. Classically there will be localized peritonitis over McBurney point (found one third of the way between the anterior superior iliac spine and umbilicus). Palpation over the left iliac fossa may cause pain in the right iliac fossa (Rovsing sign). An inflamed appendix which lies close to the bladder may present with urinary frequency, one which is close to the rectum with diarrhoea, and if it lies on the psoas muscle the patient will feel most comfortable lying with the hip flexed. The treatment of appendicitis is with appendicectomy. An inflamed appendix which is not removed will become gangrenous and perforate. More rarely, an appendix abscess may develop.\nMeckel diverticulitis is inflammation of a Meckel diverticulum (found in 2% of the population). If in a suspected case of appendicitis the appendix appears normal, a Meckel diverticulum must be looked for. An attack of Crohn terminal ileitis presents with right iliac fossa pain. There is a risk of fistula formation when performing an appendicectomy in a patient with Crohn disease. Renal colic typically presents with spasmodic pain which radiates from 'loin to groin' on the affected side, causing the patient to writhe in pain. Stones in the mid-ureter may present with lower abdominal pain, mimicking appendicitis on the right. Mesenteric adenitis is a common cause of right iliac fossa pain in children. This is a transient inflammation of intra-abdominal lymph nodes, often due to a self-limiting viral infection.\nCharles McBurney, American surgeon (1845-1913).\nNiels Thorkild Rovsing, Danish surgeon (1862–1927)."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "A 43-year-old man presents to the GP with a 2-month history of worsening headaches. The headaches are almost constant and are worse in the morning. On examination, his skin is thick and greasy and he is hypertensive.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Acromegaly",
+                "B. Addison disease",
+                "C. Congenital adrenal hyperplasia",
+                "D. Conn syndrome",
+                "E. Phaeochromocytoma"
+            ],
+            "answer": "A",
+            "explanation": "The headache is characteristic of an intracranial space-occupying lesion. This, along with the features of greasy skin and hypertension, suggests acromegaly as the most likely cause from the given list. Acromegaly is caused by a growth hormone-secreting tumour of the anterior pituitary gland. The functions of growth hormone include lipolysis, protein synthesis and gluco-neogenesis – in other words it is anabolic. Patients with acromegaly may present with headaches, excessive sweating, thick/oily skin, hypertrophy of soft tissues (large nose/lips/tongue, 'spade-like' hands), big viscera, prognathism (protruding lower jaw) and prominent supraorbital ridges. Other associations are carpal tunnel syndrome, diabetes and hypertension. The pituitary mass may result in features of a space-occupying lesion in the brain, i.e. an early morning headache that is worse on coughing and straining. If a growth hormone-secreting tumour occurs in children before the bone epiphyses have fused, the long bones grow rapidly and gigantism results. It is important to treat acromegaly because it is associated with an increased risk of atheromatous disease and colon cancer. The diagnosis is made by measuring growth hormone (GH) levels before and after a 75 g glucose load (an oral glucose tolerance test). Glucose normally suppresses GH secretion, but in acromegaly the glucose load has little effect, indicating the autoregulatory negative feedback system is not working correctly and that autonomous GH secretion is occurring. Surgical treatment is by transsphenoid surgery. Medical therapy is with somatostatin analogues (such as intramuscular octreotide) which inhibit GH secretion.\nAcromegaly, from Greek akros = extremity + megalos = large."
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "A 55-year-old man presents to the emergency department with increasing itching and upper abdominal discomfort. His wife has noticed that he is looking 'yellow'. On examination, there is a non-tender mass in the right upper quadrant. The patient has a history of ulcerative colitis, which is currently in remission.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Cholangiocarcinoma",
+                "B. Gallstones",
+                "C. Haemolysis",
+                "D. Hepatitis",
+                "E. Pancreatic carcinoma"
+            ],
+            "answer": "A",
+            "explanation": "This patient has jaundice with a right upper quadrant mass. Courvoisier's law suggests that in the presence of jaundice an enlarged gallbladder is not due to gallstones, as a gallbladder with stones is chronically fibrosed and therefore incapable of enlargement. The finding of this mass is more suggestive of malignancy either in the pancreas or the biliary tree. Cholangiocarcinoma is an adenocarcinoma of the biliary tree and is associated with ulcerative colitis, primary sclerosing cholangitis and to a lesser extent Crohn disease. It usually presents between the ages of 50 and 70 with an equal incidence in men and women. Cholangiocarcinoma has a poor prognosis with an average survival of 6 months, as most are not amenable to curative resection at the time of presentation."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "A 27-year-old man presents to the emergency department after being stabbed in the back. He is now unable to move his right leg. On examination, you note that he cannot feel pain on the left leg, although motor function in this limb is preserved.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Anterior cord syndrome",
+                "B. Brown-Séquard syndrome",
+                "C. Central cord syndrome",
+                "D. Posterior cord syndrome",
+                "E. Syringomyelia"
+            ],
+            "answer": "B",
+            "explanation": "Brown-Séquard syndrome describes the features of unilateral transection (hemisection) of the spinal cord. Affected patients suffer ipsilateral loss of motor function with impaired joint position and vibration sense (dorsal column dysfunction). There is also a contralateral sensory loss for pain and temperature. This pattern occurs because motor fibres decussate in the medulla to enter the corticospinal tract and sensory fibres for pain and temperature decussate at the level of entry into the spinal cord, resulting in a deficit on the opposite side to the lesion. Brown-Séquard syndrome has the best prognosis of all spinal cord lesions.\nCharles-Edouard Brown-Séquard, British neurologist (1817-1894)."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "A 12-year-old boy is brought to the GP practice by his mother with a 2-month history of malaise and a worsening yellowing of his skin. His mother says that he has been behaving differently the last few days. On examination, his abdomen is slightly distended and the liver is palpable.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Haemochromatosis",
+                "B. Hepatitis A",
+                "C. Infectious mononucleosis",
+                "D. Riedel lobe",
+                "E. Wilson disease"
+            ],
+            "answer": "E",
+            "explanation": "Wilson disease is a rare autosomal recessive condition in which there is a deficiency of caeruloplasmin (a protein involved in the transport of copper), leading to the abnormal deposition of copper in the liver, basal ganglia, eye and other organs. It typically presents in children and young adults with features of liver cirrhosis, neurological disturbance (e.g. gait disturbance, tremor, dysarthria) and psychiatric disturbance (such as emotional lability – present in 15%). Other rarer presentations include renal failure (Fanconi syndrome) and cardiomyopathy. The appearance of copper deposition around the iris is known as Kayser-Fleischer rings and is apparent in 90% of patients with Wilson disease. The diagnosis is made by detecting abnormally low levels of caeruloplasmin, with elevated levels of free copper in the serum, urine and on liver biopsy. Treatment is with penicillamine, which chelates copper and encourages its excretion.\nHaemochromatosis is an autosomal recessive disorder of increased dietary absorption of iron. Most cases affect Irish males over 40 years of age. There is systemic iron deposition, for example in the liver (cirrhosis), pancreas (diabetes), heart (cardiac failure) and skin (tanned appearance). The diagnosis is confirmed by liver biopsy, which shows iron deposition with liver fibrosis and cirrhosis. Treatment is by weekly venesection.\nInfectious mononucleosis (glandular fever) is a self-limiting illness caused by Epstein-Barr virus. It is most common in teenagers and young adults, and presents with malaise, fevers, sore throat and lymphadenopathy. Hepatosplenomegaly may be found on examination. Treatment is symptomatic. Remember that ampicillin and amoxicillin must not be given to anyone suspected of having infectious mononucleosis as they can precipitate a widespread rash.\nBruno Fleischer, German ophthalmologist (1874–1965).\nBernhard Kayser, German ophthalmologist (1869–1954).\nSamuel Alexander Kinnier Wilson, British neurologist (1878-1937)."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "A 70-year-old woman presents with a 2-month history of anal pain and itching. More recently she had been having some fresh bleeding and mucous discharge per rectum. On examination, there is an irregular tender ulceration at the anal margin which appears to be extending into the anal canal.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Anal carcinoma",
+                "B. Anal fissure",
+                "C. Anal warts",
+                "D. Fistula-in-ano",
+                "E. Primary syphilis"
+            ],
+            "answer": "A",
+            "explanation": "Anal carcinomas account for up to 5% of anorectal malignancies and their incidence is increasing. Anal carcinomas are largely squamous cell carcinomas (80%) unlike their rectal or colonic counterparts which are primarily adenomatous. They occur more commonly in the elderly population and are associated with the human papilloma virus (types 16, 18, 31 and 33) and anal warts. They can also arise within chronic benign lesions, e.g. anal fistulas and haemorrhoids, as a result of recurrent inflammation. The symptoms of anal carcinoma may initially be non-specific, including pain, discomfort, itching, intermittent bleeding and inguinal lymphadenopathy, and as a result it is a diagnosis which may easily be missed in the early stages, particularly as many patients may not have a palpable lesion. Diagnosis is by biopsy and rectal examination under anaesthesia, and CT/MRI can be used to assess the extent of pelvic spread. Localized carcinomas can be treated with radiotherapy with or without excision. Larger tumours may require an abdominoperineal (‘AP') resection with colostomy. Here the sigmoid colon, rectum and anus are removed and the defect in the perineum is closed with a mesh or muscle flap."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "A new form of CT scan is being piloted to help detect scaphoid fractures. A study looked at 600 people: 300 people with scaphoid fractures and 300 without. The trial produced 250 positive results and 350 negative results. Of the 250 positive results, there were no false positives, and of the 350 negative results, 50 were false negatives.\nWhat is the sensitivity of CT scanning in detecting scaphoid fractures in this study?",
+            "options": [
+                "A. 17%",
+                "B. 33%",
+                "C. 50%",
+                "D. 83%",
+                "Ε. 100%"
+            ],
+            "answer": "D",
+            "explanation": "The sensitivity of an investigation is its ability to detect a truly positive result. It is calculated as follows:\nSensitivity = number of true positives/(number of true positives + number of false negatives) × 100\nIn this case\nSensitivity = 250/(250 + 50) × 100 = 5/6 × 100 ≈ 83%\nOther important definitions in medical statistics include:\nThe specificity is the ability of an investigation to detect a truly negative test result.\nSpecificity = number of true negatives/(number of true negatives + number of false positives) × 100\nThe positive predictive value (PPV) describes the probability that a condition can be confirmed given a positive test result.\nPPV = (number of true positives/total number of positives) × 100\nThe negative predictive value (NPV) describes the probability that a condition can be ruled out given a negative test result.\nNPV = (number of true negatives/total number of negatives) × 100\nThe likelihood ratio is the likelihood that a given test result will be positive in a patient with a certain disorder compared to the likelihood that the same positive result would be expected in a patient without that disorder.\nLikelihood ratio = sensitivity/(1 – specificity)"
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "A newborn baby boy is found to have visible intestine emerging from his abdomen. There is no covering to the contents.\nWhich of the following is the most likely diagnosis?",
+            "options": [
+                "A. Epigastric hernia",
+                "B. Exomphalos",
+                "C. Gastroschisis",
+                "D. Paraumbilical hernia",
+                "E. Umbilical hernia"
+            ],
+            "answer": "C",
+            "explanation": "Gastroschisis is a congenital defect in the anterior abdominal wall adjacent to the umbilicus. Abdominal contents, such as the liver and intestines, can herniated through this defect, but there is no sac covering the contents. Management of gastroschisis is by immediately covering the exposed viscera with clingfilm, followed by operative repair. Gastroschisis is rarely associated with other congenital malformations\nExomphalos is a similar congenital abdominal wall defect where contents of the gut, such as the intestines and liver, lie outside of the body protruding through the umbilicus. These organs lie within a sac made of two membranes – the inner being the peritoneum and the outer being the amniotic membrane. This sac is known as an ʻomphalocele'. Treatment is by operative closure. Fifty percent of cases of exomphalos are associated with other congenital malformations, such as trisomies and cardiac defects.\nThe umbilical hernia of infants describes an asymptomatic herniation through a weak umbilicus that develops early in life. It is more common in Afro-Caribbean babies and increases in size on crying. Most umbilical hernias resolve in the first two years of life, but surgery is indicated if it persists beyond this. Paraumbilical hernias occur in adults, with herniation through the linea alba just above or below the umbilicus. (The linea alba is a fibrous median line formed by the fusion of anterior and posterior walls of the rectus sheath. This line allows a technically 'bloodless' plane of access to the abdomen during abdominal surgery.) Paraumbilical hernias are much commoner in multiparous women, and as they become large, have a tendency to sag down. Strangulation is a common complication as paraumbilical hernias have narrow necks.\nGastroschisis, from Greek gastro = belly + schisis = a split.\nLinea alba, from Latin linea = line + alba = white.\nOmphalocele, from Greek omphalos = navel + cele = hernia.\nRectus abdominis, from Latin rectus=straight+abdominus=abdomen."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "A 27-year-old woman is undergoing a routine surveillance colonoscopy for ulcerative colitis. The endoscopist notes multiple small projections throughout the bowel that are of a similar colour to the normal bowel mucosa.\nWhat is the most likely morphology of the polyps?",
+            "options": [
+                "A. Adenomatous polyp",
+                "B. Hamartomatous polyp",
+                "C. Juvenile polyp",
+                "D. Metaplastic polyp",
+                "E. Pseudopolyp"
+            ],
+            "answer": "E",
+            "explanation": "Pseudopolyps are found with inflammatory bowel disease. In an area of oedematous, swollen bowel surrounded by ulcerations, it looks as if the oedema is protruding from the walls of the bowel wall as a polyp. In reality, these 'polyps' are merely areas of swollen bowel mucosa.\nJuvenile polyps affect 1% of children and young adolescents. They look like a cherry on a stalk. Juvenile polyps are always benign. Some juvenile polyps present with painless bleeding per rectum and can prolapse on defaecation.\nMetaplastic polyps are small and usually do not grow to more than 5 mm. Despite the name, they have very little risk of becoming malignant."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "A 45-year-old woman presents to the orthopaedic clinic with a 6-week history of shooting pains in her right foot, radiating to her toes, only experienced when wearing her shoes. On examination, there is tenderness between the third and fourth metatarsal heads. Foot X-rays are reported as normal.\nWhich of the following is the most likely diagnosis?",
+            "options": [
+                "A. Bunion",
+                "B. Gout",
+                "C. March fracture",
+                "D. Morton neuroma",
+                "E. Plantar fasciitis"
+            ],
+            "answer": "D",
+            "explanation": "Morton neuroma is a neuroma of the digital nerve of the foot that is most common between the third and fourth metatarsals. It is a common cause of foot pain and typically presents in women from the age of 40. The pain often occurs on wearing shoes and is relieved when these are removed. Diagnosis is largely clinical but both ultrasound and MRI can confirm the diagnosis. Surgical excision of the neuroma is curative.\nPlantar fasciitis causes pain in the heels when walking and results from inflammation of the fascia as it inserts into the calcaneum. Hallux valgus is a lateral deviation of the great toe which is relatively common in women past middle age. It is caused by the toe being persistently forced laterally by wearing narrow shoes. Over several years, bunions (a thick-walled bursa) and osteoarthritis can develop over the metatarsal head. Surgical intervention is required in severe cases.\nBunion, from Latin bunio = turnip.\nHallux, from Latin hallux = great toe.\nThomas Morton, American surgeon (1835–1903)."
+        },
+        {
+            "id": 26,
+            "question_type": "mcq",
+            "question": "A 69-year-old man presents with a swelling in his right groin. He otherwise feels well. On examination, he has a medial lying, minimally tender pulsatile lump. He tells you he recently suffered from a heart attack and had an angioplasty.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. False aneurysm",
+                "B. Femoral hernia",
+                "C. Groin abscess",
+                "D. Inguinal hernia",
+                "E. Saphena varix"
+            ],
+            "answer": "A",
+            "explanation": "A false aneurysm (or pseudoaneurysm) is a collection of blood which lies outside of, but communicates with, a vessel. It is held by the surrounding connective tissue and structures. Unlike a true aneurysm, it does not include the vessel wall. False aneurysms commonly follow trauma and iatrogenic injury. False aneurysm formation is a recognized complication of angiography and may be treated by ultrasound-guided compression, embolization or surgery. Infection is another complication of angiography and can present with a groin abscess. Groin abscesses are typically tender and fluctuant but not pulsatile, unless a false aneurysm has become infected."
+        },
+        {
+            "id": 27,
+            "question_type": "mcq",
+            "question": "A 65-year-old woman presents with episodes of lower abdominal pain and intermittent vaginal bleeding. On examination, there is a palpable mass in the lower abdomen.\nWhich of the following tumour markers would be associated with this presentation?",
+            "options": [
+                "A. Alpha fetoprotein",
+                "B. Beta-hCG",
+                "C. CA 125",
+                "D. Calcitonin",
+                "E. Carcinoembryonic antigen"
+            ],
+            "answer": "C",
+            "explanation": "This patient presents with the symptoms and signs of ovarian carcinoma, which is associated with the tumour marker CA 125 (CA = cancer antigen). Elevated CA 125 levels are not diagnostic but would suggest that further investigation is required if there is a suspicion of ovarian cancer. It is elevated in other malignancies, including endometrial and breast cancers, as well as some benign conditions, such as endometriosis. CA 125 is most useful in assessing response to treatment and predicting recurrence. Another tumour marker associated with ovarian carcinoma is placental alkaline phosphatase.\nCarcinoembryonic antigen (CEA) is useful in screening for colorectal cancers and in monitoring response to treatment. Calcitonin is produced by the C-cells of the thyroid gland and elevated levels are associated with medullary thyroid cancers. Beta-hCG (human chorionic gonadotrophin) is a hormone produced by the placenta and therefore is not normally found in men; its presence is associated with testicular tumours. Beta-hCG is also elevated in choriocarcinomas in women and is useful in detecting residual or recurrent disease after treatment. Alpha fetoproteins are produced by the liver and yolk sac of the fetus and levels in adults are normally negligible. Elevated levels are associated with hepatocellular carcinoma and testicular tumours.\nA useful list of tumour markers is as follows:\nAlpha-fetoprotein → hepatocellular carcinoma, testicular tumours\nBeta-hCG → choriocarcinoma, testicular tumours\nCA 125 → ovarian carcinoma\nCA 15-3 → breast cancer\nCA 19-9 → pancreatic cancer, biliary tract malignancy\nCalcitonin → medullary thyroid cancer\nCarcinoembryonic antigen → colorectal tumours\nMonoclonal IgG (paraprotein) → multiple myeloma\nNeurone specific enolase → small cell lung cancer\nPlacental alkaline phosphatase → ovarian carcinoma, testicular tumours\nProstate specific antigen → prostate cancer\nS-100 → malignant melanoma\nThyroglobulin → thyroid tumours"
+        },
+        {
+            "id": 28,
+            "question_type": "mcq",
+            "question": "A 38-year-old woman presents to the GP with pain in the subareolar region of the left breast associated with occasional blood-stained nipple discharge. Apart from being extremely anxious she has no other associated symptoms. Examination is unremarkable.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Duct ectasia",
+                "B. Galactocoele",
+                "C. Intraductal papilloma",
+                "D. Paget disease",
+                "E. Prolactinoma"
+            ],
+            "answer": "C",
+            "explanation": "Intraductal papillomas are benign tumours of the lactiferous glands that usually occur in pre-menopausal women. They commonly present with pain within the nipple or areola, associated with discharge which may be blood-stained. In most cases there is no associated breast lump. Papillomas may be bilateral or multiple, occur more commonly in the younger patient, and are associated with an increased risk of breast carcinoma. Investigation includes cytology, where no malignant cells would be found; ultrasound, which is more sensitive than mammography for intraductal papillomas; and ductography. If a lump is present, a biopsy can also be taken. Treatment can be conservative but if there are significant symptoms or a risk of malignancy then surgical excision of the affected duct can be undertaken (microdochectomy).\nA galactocoele is a cystic swelling caused by the retention of milk. It occurs most commonly in the lactating breast in both breast feeding and non-breast feeding mothers. Prolactinomas are tumours of the pituitary gland which may present with galactorrhoea in both men and women."
+        },
+        {
+            "id": 29,
+            "question_type": "mcq",
+            "question": "A 76-year-old man presents to the GP with a rapidly growing lump in his neck. It is now causing him difficulty swallowing. Examination reveals a 4 cm hard mass in the front of the neck that is fixed to the overlying skin.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Anaplastic carcinoma",
+                "B. Follicular carcinoma",
+                "C. Graves disease",
+                "D. Papillary carcinoma",
+                "E. Toxic multinodular goitre"
+            ],
+            "answer": "A",
+            "explanation": "Anaplastic carcinoma is a rare subtype of thyroid cancer (3%) but its incidence increases with age. It is an aggressive carcinoma which often presents with a short history of a lump in the neck with local invasion causing compression of surrounding structures leading to dysphagia, stridor and hoarseness (recurrent laryngeal nerve involvement). Prognosis is poor, with most patients dying within a few months of diagnosis. Treatment is largely palliative and aimed at reducing compressive symptoms. Another rare tumour of the thyroid affecting the older population is lymphoma, which is usually of the non-Hodgkin's type.\nThe majority (70%) of thyroid tumours are papillary adenocarcinomas. Twenty percent are follicular carcinomas. Both of these tumours occur most commonly in adolescents and young adults, who present with a discrete thyroid nodule. Papillary tumours may be multifocal and they spread to lymph nodes. Follicular tumours occur as a single encapsulated lesion, and they spread via blood to the lungs and bone. Treatment is by total thyroidectomy (except for tumours <1 cm which require a thyroid lobectomy). Papillary and follicular carcinomas may be TSH-dependent (i.e. the presence of TSH stimulates their growth). For this reason, after thyroid surgery, patients take life-long levothyroxine in order to suppress endogenous TSH secretion and reduce the risk of recurrence."
+        },
+        {
+            "id": 30,
+            "question_type": "mcq",
+            "question": "A 27-year-old man presents to the emergency department with a 6-hour history of upper abdominal pain radiating to the back and associated vomiting. On examination, he has marked epigastric tenderness and you notice a bluish discolouration around his umbilicus. His heart rate is 118/min and blood pressure is 108/76 mmHg.\nWhich of the following blood analytes would be most useful in identifying a diagnosis?",
+            "options": [
+                "A. Amylase",
+                "B. C-reactive protein",
+                "C. Haemoglobin",
+                "D. Sodium",
+                "E. Urea"
+            ],
+            "answer": "A",
+            "explanation": "This man presents with features highly suggestive of acute pancreatitis. A markedly raised serum amylase (a digestive enzyme produced by the pancreas) would help confirm this diagnosis quickly. The aetiology of acute pancreatitis may be remembered by the mnemonic GET SMASHED:\nGallstones\nEthanol\nTrauma\nSteroids\nMumps\nAutoimmune\nScorpion venom (Tityus trinitatis scorpion of Trinidad and Tobago)\nHyperlipidaemia, Hypercalcaemia, Hypothyroidism\nEmbolism, ERCP\nDrugs (azathioprine, steroids, thiazide diuretics and the contraceptive pill)\nPregnancy and pancreatic carcinoma are also causes.\nThe pathophysiology of acute pancreatitis is as follows: duodeno-pancreatic reflux causes duodenal fluid to enter the pancreas and activate the enzymes within it. This results in autodigestion of the pancreas by trypsin, fat necrosis by lipases and a significant rise in blood amylase. Acute pancreatitis presents with an acute-onset epigastric pain that is severe and constant. It characteristically radiates through to the back and is relieved by sitting forward. Patients may also have nausea and vomiting, fever and features of shock. There may be associated inflammatory exudation and peritonitis, presenting with a distended abdomen and absent bowel sounds. The swollen pancreas can block the distal common bile duct, resulting in jaundice. Inflammatory exudates may collect between the stomach and pancreas, resulting in a pancreatic pseudocyst. This classically presents at day 10 of the disease. Extravasation of blood-stained exudates into the retroperitoneum results in a bluish discolouration of the skin. These can be seen as Cullen sign (periumbilical bruising) and Grey Turner sign (flank bruising). These are rarely seen in clinical practice and are not specific to pancreatitis (other causes include blunt abdominal trauma and retroperitoneal haemorrhage). Other useful investigations include an abdominal X-ray which may show a single 'sentinel' loop of air-filled bowel next to the pancreas due to localized ileus, and a CT scan which confirms the diagnosis. Management includes opioid analgesia, intravenous fluids and a proton pump inhibitor. Antibiotics are not indicated unless disease is severe.\nThomas Stephen Cullen, Canadian gynaecologist (1868–1953).\nGeorge Grey Turner, English surgeon (1877–1951)."
+        },
+        {
+            "id": 31,
+            "question_type": "mcq",
+            "question": "A 32-year-old woman presents to the GP with a 1-month history of panic attacks. She says the attacks are associated with sweating and the feeling of her heart thumping in her chest. She cannot always think of a precipitator to these attacks, but they are increasing in frequency. Examination is unremarkable.\nWhich of the following investigations will be the most helpful in confirming the diagnosis?",
+            "options": [
+                "A. 17-hydroxyprogesterone levels",
+                "B. 24-hour urinary vanillylmandelic acid",
+                "C. 24-hour urinary 5-hydroxyindole acetic acid",
+                "D. Serum calcitonin",
+                "E. Short synacthen test"
+            ],
+            "answer": "B",
+            "explanation": "This woman presents with attacks of anxiety, sweating and palpitations. Along with facial flushing and headaches these are classic presenting features of phaeochromocytomas. Phaeochromocytomas are tumours of the adrenal medulla (the central part of the adrenal gland). They arise from chromaffin cells and secrete large amounts of catecholamines. Breakdown products of catecholamines include vanillylmandelic acid (VMA), which is excreted in the kidney. Therefore the suspicion of phaeochromocytoma can be strengthened by finding an increased concentration of urinary VMA over a 24-hour period. An abdominal CT will help localize the tumour. Phaeochromocytomas are associated with a 'ten-percent rule': 10% are malignant, 10% are extra-adrenal, 10% are familial and 10% are bilateral. Familial phaeochromocytomas can be associated with three main conditions: neurofibromatosis, multiple endocrine neoplasia and von Hippel-Lindau syndrome (which is characterized by phaeochromocytomas, retinal haemangioblastomas, clear-cell renal carcinomas and pancreatic neuroendocrine tumours). The treatment of phaeochromocytomas is by surgical excision but, prior to this, alpha-blockers need to be given for 6 weeks to inhibit the effects of a sudden surge of catecholamines that may occur intra-operatively. Life expectancy should be normal if treatment is successful.\nPhaeochromocytoma, from Greek phaios = dusky brown + chroma = colour. This refers to the staining that occurs when these tumours are treated with chromium salts."
+        },
+        {
+            "id": 32,
+            "question_type": "mcq",
+            "question": "A 27-year-old man is brought into the resuscitation room having been hit by a car. The patient is stable and his only injury is a fractured right tibia with overlying tissue loss of around 3 cm. His leg is currently in a splint. His distal pulses are palpable.\nWhat would be the most appropriate next step in management?",
+            "options": [
+                "A. Dress wound",
+                "B. External fixation of fracture",
+                "C. Internal fixation of fracture",
+                "D. Intravenous antibiotics and debridement of tissue",
+                "E. Plaster immobilization of fracture"
+            ],
+            "answer": "D",
+            "explanation": "An open fracture is an orthopaedic emergency, as fracture communication with the outside environment is a risk for the development of infection both within the soft tissues and bone. As this patient is otherwise stable the first step would be to start broad spectrum antibiotics and debride any large foreign body and necrotic tissue. A tetanus booster is also required. Fixation of the fracture is secondary to wound management in this case. The patient should be prepared to go to theatre as soon as is possible (ideally within 6 hours) for further debridement, washout and fracture stabilization, as the likelihood of infection increases with time."
+        },
+        {
+            "id": 33,
+            "question_type": "mcq",
+            "question": "A 22-year-old woman presents to the GP practice with a scaly, well-defined red rash on her cheeks. She has also noticed its appearance on her scalp. There is some associated hair loss.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Acne vulgaris",
+                "B. Discoid lupus",
+                "C. Erysipelas",
+                "D. Impetigo",
+                "E. Rosacea"
+            ],
+            "answer": "B",
+            "explanation": "Discoid lupus erythematosus (DLE) is a chronic inflammatory condition with an autoimmune aetiology which results in cutaneous manifestations only (unlike systemic lupus erythematosus). In 5% of cases, DLE progresses to the systemic form. Features of discoid lupus are the appearance of well-demarcated erythematous plaque-like lesions most commonly on the cheeks and other sun-exposed areas. Lesions on the scalp destroy hair follicles resulting in alopecia. The palms and soles may also be affected. Symptoms are often exacerbated by sunlight. The plaques heal with significant scarring and can leave areas of depigmentation. Like most autoimmune conditions, discoid lupus is more common in women. Discoid lupus is slightly more common in African-Americans. Presentation is usually in the third to fifth decades. DLE is a relapsing and remitting condition and is treated with topical corticosteroids and hydroxychloroquine. Exposure to UV light must be avoided.\nRosacea is a chronic skin condition that usually affects the face, causing a flushed appearance, but may also affect the neck and upper chest. There is erythema of the skin with papules and pustules. There may be associated conjunctivitis. Unlike DLE, it is most common in the Caucasian population. Acne vulgaris is a common condition that affects most people at some point in their lives, commonly during puberty. It is caused by inflammation of the sebaceous glands surrounding hair follicles resulting in the formation of pustules and comedones. There is increased sebum production in response to circulating androgens and the presence of the bacterium Propionibacterium acnes. Acne vulgaris can be chronic and cause significant psychological disability. Combination treatment is often required and includes topical and systemic antibacterials, retinoids and hormonal therapies."
+        },
+        {
+            "id": 34,
+            "question_type": "mcq",
+            "question": "An 18-year-old boy is brought into the emergency department following an epileptic seizure. On recovery he complains of pain in the right shoulder. Examination reveals the arm to be held adducted and internally rotated with a fullness at the posterior aspect of the shoulder. There is resistance to passive external rotation.\nWhich of the following injuries is the patient most likely to have sustained?",
+            "options": [
+                "A. Acromioclavicular dislocation",
+                "B. Anterior dislocation of the shoulder",
+                "C. Inferior dislocation of the shoulder",
+                "D. Posterior dislocation of the shoulder",
+                "E. Sternoclavicular dislocation"
+            ],
+            "answer": "D",
+            "explanation": "The shoulder is the most common site affected by dislocations; this is due to its relative instability which allows for its varied range of movements. Posterior dislocation is uncommon, accounting for around 2% of cases. It is most commonly seen in cases of epileptic seizures, electric shocks and following a direct blow to the front of the shoulder. The arm will be held internally rotated and adducted, and there is resistance to external rotation. The humeral head will be palpable posteriorly below the acromion. The AP view on X-ray will show an abnormally rounded appearance of the humeral head (the 'light bulb sign') but diagnosis of dislocation is confirmed on the lateral view. Closed reduction is possible under appropriate sedation.\nAnterior dislocation (98%) is usually caused by a fall onto the outstretched arm or the shoulder itself. The arm will be held in external rotation and abduction. The humeral head is felt anteriorly beneath the clavicle. Diagnosis is best made on AP view. There is associated neurovascular injury in 5%, so it is important also to examine the integrity of the axillary nerve (sensation over the upper lateral aspect of the arm the regimental badge area). Various methods of closed reduction may be used (e.g. Kocher manoeuvre). Inferior dislocation, known as ‘luxatio erecta', is a very rare dislocation caused by hyperabduction injuries. The patient presents with the arm in full abduction with the elbow fully flexed ('hand behind the head'). These dislocations are frequently associated with fractures and there is a higher incidence of neurovascular injury than with anterior dislocations.\nAcromioclavicular dislocations are usually caused by a direct fall onto the shoulder and may be associated with a fractured clavicle. A step may be felt at the point of separation, which is confirmed on AP X-ray. Treatment may be conservative with immobilization using a sling or 'strapping', or operative in which a screw is used to bring the clavicle and coracoid process together. Sternoclavicular dislocations are rare. The majority are anterior (90%) and caused by a direct blow to the shoulder. The medial head of the clavicle may be easily palpated with such dislocations. Sternoclavicular dislocations are difficult to see on the standard AP and lateral views, and may require 'serendipity views', which are focused on the sternoclavicular joints. Treatment is usually conservative in anterior sternoclavicular dislocations (sling), but posterior dislocations must be promptly reduced."
+        },
+        {
+            "id": 35,
+            "question_type": "mcq",
+            "question": "A 63-year-old woman with known varicose veins presents to the surgical outpatients with a fever and a sloughy shallow ulcer above the medial aspect of the ankle with surrounding cellulitis.\nWhich of the following would be the best immediate treatment option?",
+            "options": [
+                "A. Debridement and intravenous antibiotics",
+                "B. Debridement and topical antibiotics",
+                "C. Debridement and sclerotherapy",
+                "D. Graded compression bandaging",
+                "E. Stripping of the long saphenous vein"
+            ],
+            "answer": "A",
+            "explanation": "Varicose veins are a result of incompetent valves between the deep and superficial venous systems, leading to venous hypertension, insufficiency and ulceration. Incompetence occurs in around one in ten of the population, with approximately 0.2% developing venous ulcers (95% being around the malleoli 'gaiter area'). Other skin changes associated with incompetence are venous eczema and lipodermatosclerosis. The mainstay of treatment of venous ulcers is graded compression bandaging with high pressure at the ankle tapering at the knee. There is a recurrence rate of ulcers of 20% and definitive cure can only be achieved by stripping incompetent veins. In this case, the patient has an infected ulcer with systemic upset and therefore requires intravenous antibiotics. Debridement of non-viable tissue aids healing of the ulcer. Sclerotherapy is used for treatment of spider veins and uncomplicated varicose veins."
+        },
+        {
+            "id": 36,
+            "question_type": "mcq",
+            "question": "A 60-year-old Asian woman presents to the GP having noticed a dark brown lesion on the palm of her left hand which has been present for 2 months. She initially thought it was a bruise but it has been slowly enlarging.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Acral lentiginous melanoma",
+                "B. Amelanocytic melanoma",
+                "C. Lentigo maligna melanoma",
+                "D. Nodular melanoma",
+                "E. Superficial spreading malignant melanoma"
+            ],
+            "answer": "A",
+            "explanation": "Malignant melanomas are malignant tumours of melanocytes. Although they are one of the rarer forms of skin cancer they have a high mortality. Acral lentiginous melanoma is one of the rarer subtypes of malignant melanoma (5%) but accounts for at least half of all melanoma in those with dark skin (Asians, Afro-Caribbeans). It typically presents from the seventh decade and is found in hairless areas – palms, soles of feet, under the nails and in the buccal mucosa. The lesions may initially be mistaken for bruises and those under the nail for 'benign' nail streaks. As a result, presentation of this subtype of melanoma is often late. The most common form of malignant melanoma is the superficial spreading type which usually occurs in a pre-existing mole but may also occur de novo. It is most common in Caucasian women and occurs on sun-exposed areas such as the legs, neck and trunk. It is initially a flat irregular lesion which may be pigmented to varying degrees. Itching and bleeding occur with spread. Superficial spreading malignant melanoma is the leading cause of death from cancer in young adults. Nodular melanomas arise de novo and present as a nodular pigmented lesion. They grow rapidly, extending deeper into the tissue than can be seen on the surface. Nodular melanomas are the most aggressive subtype of malignant melanomas. Lentigo maligna melanomas develop within an area of pigmented sun-damaged skin and progress over a period of years into a malignant lesion. The development of nodules or irregular borders within or around a pre-existing area of pigmentation suggests lentigo melanoma. Amelanocytic melanomas are melanomas which are unpigmented. As they are subtle in appearance they are not as easily noticed and hence have a poorer prognosis. Malignant melanomas are diagnosed on skin biopsy and staged according to their thickness (Breslow classification) and depth of invasion into the skin layers (Clark's classification). Mohs micrographic surgery (MMS) is often used by dermatologists to excise skin lesions. Here one undertakes intra-operative pathological tissue assessment to ensure clear resection margins.\nFrederic Edward Mohs, American physician and general surgeon (1910–2002)."
+        },
+        {
+            "id": 37,
+            "question_type": "mcq",
+            "question": "A 12-year-old girl is brought to the GP by her mother having noticed a painless swelling on the left side of her neck following a recent cold. On examination, there is a smooth, fluctuant, non-tender swelling anterior to the sternocleidomastoid muscle.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Branchial cyst",
+                "B. Cervical rib",
+                "C. Cystic hygroma",
+                "D. Sternocleidomastoid tumour",
+                "E. Thyroglossal cyst"
+            ],
+            "answer": "A",
+            "explanation": "Branchial cysts arise from the embryonic remnants of the second branchial cleft, secondary to cystic degeneration of lymphoid tissue. They are commoner in males on the left side. A branchial cyst is a smooth, non-tender, fluctuant swelling in the anterior triangle, anterior to the border of the sternocleidomastoid muscle at the junction of its upper and middle thirds. The cyst may enlarge following an upper respiratory tract infection. Unlike cystic hygromas, they do not transilluminate. Branchial cysts may become enlarged and tender with upper respiratory tract infections. Diagnosis is by aspiration which demonstrates a creamy fluid containing cholesterol crystals. Treatment is by excision.\nIschaemic contracture of the sternocleidomastoid muscle can occur due to birth trauma and often presents after a few weeks of life with tilting of the head (torticollis) and a painless fibrous mass in the sternocleidomastoid muscle (sternocleidomastoid tumour). Treatment is by passive stretching of the muscle, and the swelling eventually disappears by the sixth month of life.\nA cervical rib is a congenital overdevelopment of the transverse process of the C7 vertebra. This so-called ‘rib' can interfere with the lower roots of the brachial plexus (T1), the sympathetic nerves and the subclavian artery. If the T1 root of the brachial plexus is affected, there is pain and paraesthesia in the T1 distribution (medial aspect of the arm) and wasting of the small muscles of the hand (also supplied by T1). Disturbance of the sympathetic nerves results in a Horner syndrome (ipsilateral miosis, ptosis, enophthalmos and anhidrosis). If the subclavian artery is pinched by the cervical rib, there will be a stenosis and reduced blood flow to the arm. This becomes apparent on exertion because when the arm needs more blood it will ‘steal' it from the vertebral artery (which should supply the brain). Therefore if the affected arm is exerted a loss of consciousness may result. This phenomenon is known as the 'subclavian steal syndrome'. Diagnosis of a cervical rib is by X-ray of the cervical spine. Treatment is by excision.\nTorticollis, from Latin torti = twist + collis = neck.\nJohann Friedrich Horner, Swedish ophthalmologist (1831–1886)."
+        },
+        {
+            "id": 38,
+            "question_type": "mcq",
+            "question": "A 27-year-old man presents to the emergency department complaining of severe nasal pain and a blocked nose. On examination, he has a bluish discoloured swelling over the bridge of the nose. His friend tells you he was assaulted four days ago.\nWhat is the most likely cause of his symptoms?",
+            "options": [
+                "A. Fracture of the orbit",
+                "B. Fracture of the cribriform plate",
+                "C. Intranasal foreign body",
+                "D. Maxillary sinusitis",
+                "E. Septal haematoma"
+            ],
+            "answer": "E",
+            "explanation": "The formation of a septal haematoma is a rare but recognized complication of nasal fractures, resulting from the collection of blood between the perichondrium and the nasal cartilage. The haematoma disrupts the blood supply to the cartilage which, together with pressure effect, results in necrosis and deformity. The haematoma may also become infected resulting in an abscess. Following a nasal injury, it is important to assess for an intranasal/septal haematoma which is detected as a 'cherry red' mass. If it is present, the patient must be referred for urgent aspiration or drainage together with prophylactic antibiotics. Fracture of both the cribriform plate and orbital wall (‘blowout fractures') can occur with direct nasal trauma. Cribriform fractures can cause CSF to leak from the nose (CSF rhinorrhoea). If this is present, antibiotics must be commenced and a neurosurgical opinion sought due to the risk of developing meningitis. If there is a suspicion of a basal skull/cribriform plate fracture in a trauma scenario, under no circumstances should an NG tube be passed. Orbital fractures can present with infra-orbital and upper lip/gum numbness (caused by damage to the infraorbital nerve) and diplopia (caused by herniation of the ocular muscle through the fracture or compression by a surrounding haematoma). Facial X-rays are not particularly sensitive for isolated nasal fractures but must be obtained if there is any suspicion of fractures of other facial bones. CT may also be required, especially if there is suspicion of a cribriform fracture. Uncomplicated fractures of the nose can be reduced and a septoplasty performed once swelling has settled (usually after a week)."
+        },
+        {
+            "id": 39,
+            "question_type": "mcq",
+            "question": "A 17-year-old boy presents to the emergency department at 1 am with a 3-hour history of pain in his right testicle. He denies any trauma but does a lot of long distance running. Examination is difficult due to pain; however the right testicle does appear to be swollen, slightly red and extremely tender.\nWhich of the following do you do next?",
+            "options": [
+                "A. Admit for urgent ultrasound scan the next morning",
+                "B. Contact the urologist on call and organize urgent ultrasound scan",
+                "C. Contact the urologist on call and prepare for theatre",
+                "D. Obtain a urine sample and prescribe antibiotics",
+                "E. Prescribe strong analgesia and advise to stop running till symptoms resolve"
+            ],
+            "answer": "C",
+            "explanation": "This patient has presented with an acutely painful testicle and torsion of the testis must be confirmed or excluded by exploration. A Doppler ultrasound can confirm the diagnosis but will delay definitive treatment and therefore, in any potential case of torsion, time must not be wasted in trying to obtain a scan. The testis will remain viable if explored and fixed within 6 hours but, if delayed to 12 hours, the viability rate is around one in five. Testicular torsion is a urological emergency with an incidence of 1/4000 in males under the age of 25, and a peak incidence between the ages of 12 and 18 years. Other causes of an acutely painful scrotum include torsion of the testicular appendage (hydatid of Morgagni), acute epididymitis and strangulated inguinal hernias. Torsions can only be definitively diagnosed or excluded upon operative scrotal exploration. Clinical features to be gleaned from history and examination include: testicular tenderness (ischaemic testes are very tender unless they are dead); the lie and height of the testis in the scrotum (a high testis with a transverse lie in relation to the other testis may well be torted – feel for a 'knot' in the cord); any scrotal erythema or discolouration; the presence or absence of the cremasteric reflex or swelling of the scrotum (the cremasteric reflex is often attenuated in torsion and of the available clinical signs this is the most sensitive, but it is still not definitive)."
+        },
+        {
+            "id": 40,
+            "question_type": "mcq",
+            "question": "A 27-year-old man who was the driver of a car involved in a high speed collision with a truck is brought into the resuscitation room. On arrival, he is complaining of severe left-sided chest pain. You note that he is breathless, tachycardic and hypotensive. He has reduced air entry on the left side of the chest and the trachea is deviated to the right.\nWhat would you do next?",
+            "options": [
+                "A. Insert a chest drain into the fifth intercostal space",
+                "B. Insert a wide bore cannula into the second intercostal space",
+                "C. Request an urgent chest X-ray",
+                "D. Request an urgent ECG",
+                "E. Perform a pericardiocentesis"
+            ],
+            "answer": "B",
+            "explanation": "This patient has a tension pneumothorax. Air entering the pleural cavity during inspiration cannot escape during expiration due to the pleura acting as a one-way valve. Tension pneumothorax is an emergency, as the buildup of air compresses the lung, preventing expansion. Symptoms include breathlessness and chest pain, and on examination there is tachypnoea, hypotension, reduced expansion and air entry on the affected side of the chest, hyperresonance to percussion and deviation of the trachea and apex to the opposite side. If not decompressed urgently, cardiorespiratory collapse and death can ensue within minutes. Decompression is by insertion of a large bore cannula into the second intercostal space in the mid-clavicular line of the affected side. A gush of air will be heard as the pressure is released. A formal chest drain can then be inserted (5th intercostal space of the mid-axillary line). Do not waste time obtaining a chest X-ray if the diagnosis is suspected. Treatment should be based on clinical findings. A pericardiocentesis is performed in the management of cardiac tamponade."
+        },
+        {
+            "id": 41,
+            "question_type": "mcq",
+            "question": "A 54-year-old man presents to the emergency department in the middle of the night with acute pain in his left eye, blurred vision and vomiting. He tells you it happened suddenly while he was watching TV. On examination his cornea is injected and the eyeball feels hard. His pupil is semi-dilated and fixed.\nHow would you manage this patient in the first instance?",
+            "options": [
+                "A. Refer patient for iridectomy",
+                "B. Topical aciclovir",
+                "C. Topical antibiotics",
+                "D. Topical pilocarpine",
+                "E. Topical steroids"
+            ],
+            "answer": "D",
+            "explanation": "This patient has presented with acute closed angle glaucoma which, if not urgently treated, can result in blindness within 24 hours. It is caused by a blockage in the drainage of aqueous humour from the anterior chamber of the eye via the canal of Schlemm, resulting in an increase in the intraocular pressure. This occurs acutely when the pupil dilates and the iris comes into contact with the trabecular meshwork which is found at the entrance to the canal of Schlemm, such as when watching television in the dark. Acute glaucoma is most common after middle age and may also occur as a chronic or subacute condition, where it is associated with a shallow anterior chamber, long sightedness and thickening of the lens. The immediate treatment of acute closed angle glaucoma is with pilocarpine eye drops. Pilocarpine is a selective muscarinic receptor agonist which causes miosis (papillary constriction), opening up the entrance to the canal of Schlemm. Intraocular pressure may also be decreased by the use of intravenous acetazolamide, which reduces the production of aqueous humour. Acute closed angle glaucoma warrants an urgent ophthalmological referral. Once the acute attack is controlled, an iridectomy is performed to allow free circulation of aqueous humour and prevent further attacks.\nFriedrich Schlemm, German anatomist (1795–1858)."
+        },
+        {
+            "id": 42,
+            "question_type": "mcq",
+            "question": "A 6-year-old boy is brought into the emergency department by his father with a 1-day history of right hip pain. There is no history of trauma and the child is systemically well. On examination, the child is afebrile and there is generalized reduced range of movement of the hip. Blood tests and X-rays show no abnormality.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Congenital dislocation of the hip",
+                "B. Irritable hip",
+                "C. Perthes disease",
+                "D. Septic arthritis",
+                "E. Slipped upper femoral epiphysis"
+            ],
+            "answer": "B",
+            "explanation": "Transient synovitis (irritable hip) is the most common cause of acute hip pain in pre-pubescent children (usually 6 months to 6 years) and often follows a viral infection. Features include sudden onset hip pain that radiates to the knee, a slight limp and a reduced range of movement, especially external rotation. There is no pain at rest and minimal systemic symptoms. Investigations, such as full blood count, acute phase proteins, joint X-ray and blood cultures, are negative. Ultrasound investigation may demonstrate a small effusion. Management is with analgesia, bed rest and skin traction. Irritable hip usually resolves in 7–10 days. In a septic arthritis there will be fever and raised inflammatory markers."
+        },
+        {
+            "id": 43,
+            "question_type": "mcq",
+            "question": "A 54-year-old woman presents to the GP complaining of generalized muscle weakness, difficulty swallowing and blurred vision, all of which are worse at the end of the day. Examination is unremarkable apart from ptosis of the right eye.\nWhich of the following investigations would be most useful in establishing the cause of her symptoms?",
+            "options": [
+                "A. Creatine kinase levels",
+                "B. Electromyography",
+                "C. Muscle biopsy",
+                "D. Tensilon test",
+                "E. Troponin levels"
+            ],
+            "answer": "D",
+            "explanation": "This patient presents with signs and symptoms of myasthenia gravis. Myasthenia gravis is an autoimmune condition characterized by muscle weakness and fatigability. It is caused by autoantibodies to acetylcholine receptors at the postsynaptic neuromuscular junction, thereby reducing the stimulative effect of acetylcholine. The most common muscles to be affected are those of the eyes and face, although the condition may progress to affect respiratory muscle function a myasthenic crisis. (This is a medical emergency which requires artificial ventilation.) The gold standard investigation for diagnosing myasthenia gravis is the Tensilon test. Tensilon is the trade name for edrophonium bromide, a short-acting anti-cholinesterase, which, when administered intravenously, transiently improves muscle weakness by allowing the prolonged action of acetylcholine. The effects are best seen after asking the patient to perform repetitive movements to cause muscle fatigue. Creatine kinase is an enzyme expressed by various muscular tissues, including smooth muscle. Levels are detected on blood testing and a higher than normal level is associated with muscular damage, e.g. following rhabdomyolysis and myocardial infarction. Troponin is an enzyme that is only found in skeletal and cardiac muscle. It is detected easily on blood testing and is commonly used to diagnose myocardial infarction, as it is more specific than creatine kinase. Electromyography is used to detect and record the action potential generated by muscles in both their contracted and relaxed state. It can be used in the diagnosis of both muscular and nerve conditions, e.g. carpal tunnel syndrome and Duchenne muscular dystrophy. Muscle biopsy allows histological examination of tissue and may be used to identify and differentiate between various myopathies. The latter two investigations often complement each other."
+        },
+        {
+            "id": 44,
+            "question_type": "mcq",
+            "question": "A 72-year-old man comes to see you in the GP practice complaining of a 6-month history of urinary hesitancy, poor stream and occasional incontinence. He is increasingly troubled by his symptoms. Blood test results show a prostate specific antigen of 30 ng/mL.\nWhich of the following is the most appropriate next step?",
+            "options": [
+                "A. Antibiotics",
+                "B. Medical management with alpha-blockers",
+                "C. Referral for transurethral resection of prostate",
+                "D. Urgent referral for renal tract ultrasound",
+                "E. Urgent referral for transrectal ultrasound and prostate biopsy"
+            ],
+            "answer": "E",
+            "explanation": "This patient has presented with symptoms of bladder outflow obstruction, the most common cause in this age group being prostatic hypertrophy. Most cases of prostatic hypertrophy are benign and can be treated medically or surgically if symptoms are severe and persistent. In this case, the patient's prostate specific antigen (PSA) is markedly elevated (normal values in this age group being 5 or below) and he would therefore need further investigation with prostate biopsy to exclude malignancy. Other causes of a raised PSA include urinary tract infection. Digital rectal examination and ejaculation within the last 48 hours can also marginally raise PSA."
+        },
+        {
+            "id": 45,
+            "question_type": "mcq",
+            "question": "A 64-year-old woman presents with a 2-day history of increasing left-sided abdominal pain with fever. On examination, she has localized peritonism in the left iliac fossa. Her blood tests reveal a raised white cell count and C-reactive protein.\nWhich of the following is the most likely diagnosis?",
+            "options": [
+                "A. Constipation",
+                "B. Diverticular disease",
+                "C. Diverticulitis",
+                "D. Diverticulosis",
+                "E. Irritable bowel syndrome"
+            ],
+            "answer": "C",
+            "explanation": "A diverticulum is an outpouching of a hollow structure. Colonic diverticula are examples of false diverticula – the walls are made up only of the inner mucosal layer of the bowel. A true diverticulum involves all the layers of the wall from which it arises, e.g. Meckel diverticulum. Diverticulosis describes the presence of colonic diverticula. Diverticular disease is a term used if complications arise from diverticulosis. Finally, diverticulitis specifically describes inflammation of the diverticula.\nColonic diverticula are most commonly found in the sigmoid and the descending colon. They are unusual in the under-40s, but 30% of the elderly populations of developed countries are found to have diverticulosis at autopsy. The pathogenesis of diverticulosis is as follows: there is hypertrophy of the muscle of the sigmoid colon, resulting in high intraluminal pressures. This leads to herniation of the mucosa at potential sites of weakness in the bowel wall, which correspond to points of entry of blood vessels. The underlying aetiology of the initial large bowel hypertrophy is unknown, but it may be directly due to a diet that is chronically low in fibre. Complications of diverticulosis include diverticulitis, lower gastrointestinal haemorrhage from erosion of a blood vessel within a diverticulum, and obstruction from chronic diverticular infection and fibrosis. The diagnosis of diverticulosis is made by flexible sigmoidoscopy. Barium enema shows the diverticular outpouchings with a signet ring appearance due to filling defects produced by pellets of faeces within the diverticula. In the acute phase of suspected diverticulitis, CT is the best investigation. Treatment of diverticulitis is largely conservative; patients are nil by mouth with the administration of intravenous fluids and antibiotics until symptoms improve. Complications of diverticulitis include the formation of abscesses (which may perforate leading to peritonitis), fistulae and strictures.\nConstipation, which predisposes to diverticulosis, is a common cause of lower abdominal pain; however it is not associated with any inflammatory response. Another complication of chronic constipation is a sigmoid volvulus, where the loop of chronically distended, atonic bowel twists around its mesenteric axis. Irritable bowel syndrome is caused by a functional abnormality of the bowel which is most common in young women. Typical symptoms include bouts of colicky pain, bloating and an abnormal bowel habit, and tend to occur intermittently. The passage of blood in the stools is never due to irritable bowel syndrome. The cause is unknown but there are associations with stress and poor diet. Investigations are performed not to diagnose irritable bowel syndrome, but to exclude other pathology. Treatment is largely symptomatic."
+        },
+        {
+            "id": 46,
+            "question_type": "mcq",
+            "question": "A 14-year-old boy who has been complaining of pain and a localized tender swelling above his right knee for a month has been sent for X-rays by his GP. The X-ray shows an ill-defined breach in the lower end of the cortex of the femur with periosteal elevation and calcification.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Chondrosarcoma",
+                "B. Ewing sarcoma",
+                "C. Lipoma",
+                "D. Osteoma",
+                "E. Osteosarcoma"
+            ],
+            "answer": "E",
+            "explanation": "Osteosarcomas are the second most common primary bone tumours after multiple myeloma. Osteosarcomas occur most often in young adults, in which case they may be associated with a history of retinoblastoma, and in older people with Paget disease. Osteosarcoma is twice as common in males. Osteosarcomas present with a warm, painful swelling, usually around the knee (50%). The pain tends to be worse at night. X-ray features are characteristic, showing cortical destruction, periosteal elevation (Codman's triangle) and calcification within the tumour but outside of the bone (sunray spicules). Diagnosis is confirmed by biopsy, and treatment is by neoadjuvant chemotherapy with radical surgery. Osteosarcomas are very malignant tumours and blood-borne metastases develop early and spread to the lungs (around 30% by time of diagnosis)."
+        },
+        {
+            "id": 47,
+            "question_type": "mcq",
+            "question": "A 63-year-old man presents to the GP practice following two episodes of passing blood in his urine. These episodes were not associated with pain. He has no past medical history of note but is a lifelong smoker.\nWhich of the following is the most likely cause?",
+            "options": [
+                "A. Cystitis",
+                "B. Diverticulitis",
+                "C. Renal calculi",
+                "D. Transitional cell carcinoma",
+                "E. Urethral injury"
+            ],
+            "answer": "D",
+            "explanation": "Renal calculi, cystitis and urethral injury generally cause painful haematuria, and diverticulitis is a cause of rectal bleeding. Transitional cell carcinomas (TCC) are the most common form of bladder cancer in Europe, accounting for more than 90% of all bladder cancers. Other types of bladder cancer include squamous cell carcinoma, which is more common in the developing world secondary to infection with Schistosoma haematobium, and adenocarcinomas. Bladder TCC occurs most commonly in the sixties, with a male to female ratio of 3:1. There is a strong association with smoking and exposure to aromatic amines in dyes. Bladder TCC usually presents with frank painless haematuria, though rarely it presents with irritative symptoms, obstruction and symptoms of metastasis such as bony pain. Up to 10% of patients may present with only microscopic haematuria. Diagnosis is made on histology of biopsy of suspicious lesions found on cystoscopy. The majority of TCCs are superficial on presentation (70%). Treatment depends on the staging of the cancer and can involve transurethral resection of the bladder tumour, intravesical BCG or chemotherapy, and radical cystectomy. There is a high recurrence rate of superficial TCC (up to 70%), so close follow-up with repeat cystoscopies is warranted."
+        },
+        {
+            "id": 48,
+            "question_type": "mcq",
+            "question": "A 4-week-old baby girl is brought to the paediatrics clinic with swelling of both legs which the parents feel has been present since birth. On examination there is oedema, which is non-pitting and firm to touch, of both lower limbs to the knee.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Elephantiasis",
+                "B. Hereditary angioedema",
+                "C. Lymphoedema praecox",
+                "D. Lymphoedema tarda",
+                "E. Milroy disease"
+            ],
+            "answer": "E",
+            "explanation": "Lymphoedema is an accumulation of tissue fluid within the extracellular compartment due to a failure in the lymphatic system. Most cases (80%) occur in the lower limbs. Lymphoedema should be contrasted with oedema, which is an accumulation of tissue fluid in the absence of a lymphatic abnormality. Primary lymphoedema is commoner in females and in those with a family history. It is classified according to the age of onset: congenital (Milroy disease an inherited autosomal dominant congenital lymphoedema, caused by a failure of lymph vessels to develop in utero); lymphoedema praecox (presents under 35 years); and lymphoedema tarda (presents over 35 years). Isotope lymphography, where a radioactive tracer is injected subcutaneously into the foot and its progress monitored, can be performed. A delayed transit time confirms the diagnosis. Management options for primary lymphoedema include compression, elevation, aggressive antibiotic therapy for infections and debulking surgery (indicated when conservative treatment has failed).\nWilliam Forsyth Milroy, American physician (1855–1942)."
+        },
+        {
+            "id": 49,
+            "question_type": "mcq",
+            "question": "An 8-year-old boy is brought to the emergency department with a 3-day history of left-sided flank and abdominal pain, fevers and reduced appetite. On examination, he has minimal left-sided flank and lower abdominal tenderness, and there is a fluctuant, non-tender swelling in the child's groin. You note that the child is walking with a limp and there is pain in the hip region on straight leg raising against resistance.\nHow would this child be best managed?",
+            "options": [
+                "A. Appendicectomy",
+                "B. Arthroscopic hip washout",
+                "C. Exploration of testes",
+                "D. Incision and drainage with intravenous antibiotics",
+                "E. Intravenous antibiotics alone"
+            ],
+            "answer": "D",
+            "explanation": "This boy has presented with the symptoms and signs of a psoas abscess. A psoas abscess may be primary (and commonly caused by Staphylococcus aureus) or secondary to spread of infection from structures adjacent to the muscle, e.g. from a tuberculous paraspinal abscess (Pott's disease). Presenting features are often non-specific and include flank, abdominal, hip and thigh pain associated with a fever and limp. Any action which causes the flexion or contraction of the psoas muscle results in pain. Note that on the right side this may also be a sign of acute appendicitis. Diagnosis may be confirmed on CT or MRI and treatment is with appropriate antimicrobial therapy along with incision and drainage of the abscess."
+        },
+        {
+            "id": 50,
+            "question_type": "mcq",
+            "question": "A 33-year-old woman has been referred to the orthopaedic clinic by her GP. She complains of a 2-month history of pain and numbness in the left hand, which is worse at night, together with difficulty gripping. On examination, there is reduced sensation over the thumb, index and middle finger together with some wasting of the thenar eminence and weakness of thumb abduction. Her symptoms can be recreated by forcibly bending the wrist.\nCompression of which of the following structures is resulting in her symptoms?",
+            "options": [
+                "A. Median nerve",
+                "B. Radial artery",
+                "C. Radial nerve",
+                "D. Ulnar artery",
+                "E. Ulnar nerve"
+            ],
+            "answer": "A",
+            "explanation": "This patient has presented with the symptoms and signs of carpal tunnel syndrome, which results from compression of the median nerve in the carpal tunnel of the wrist. Being the only soft tissue structure in this region, it is susceptible to compression. The median nerve supplies sensation to the palm of the hand and the radial three and a half fingers. Motor supply of the nerve is to the lateral two lumbricals, opponens pollicis, abductor pollicis brevis and flexor pollicis brevis (‘LOAF'). Carpal tunnel commonly presents in the forties and is more common in women. Most cases are idiopathic but it can occur in pregnancy, hypothyroidism, rheumatoid arthritis, acromegaly and following Colles fracture. The symptoms of carpal tunnel can be precipitated by sudden forced palmar flexion of the wrist (Phalen test) or by tapping over the site of the median nerve at the wrist (Tinel test). Treatment may initially include rest, analgesia and splinting; however, if symptoms do not resolve, decompression surgery is indicated.\nJules Tinel, French neurologist (1879–1952).\nGeorge Phalen, American orthopaedic surgeon (1911–1998)."
+        }
+    ]
+}

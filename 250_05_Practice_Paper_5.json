@@ -1,0 +1,705 @@
+{
+    "chapter_name": "Practice Paper 5: Questions",
+    "questions": [
+        {
+            "id": 1,
+            "question_type": "mcq",
+            "question": "A 55-year-old woman presented to the emergency department with a fracture of the distal radius following a low-velocity injury. She was referred for a DEXA scan, which showed her bone density to be three standard deviations below the mean.\nWhich of the following has resulted in this patient's fracture?",
+            "options": [
+                "A. Osteogenesis imperfecta",
+                "B. Osteomalacia",
+                "C. Osteopenia",
+                "D. Osteopetrosis",
+                "E. Osteoporosis"
+            ],
+            "answer": "E",
+            "explanation": "Osteoporosis is a reduction in bone density, which can result in low-velocity fractures, commonly of the distal radius, vertebrae and pelvis. It is diagnosed on DEXA (dual energy X-ray absorptiometry) scan by demonstrating a density that is 2.5 standard deviations below the mean. Osteopenia also describes a reduction in bone density but is not as severe as osteoporosis. On DEXA scanning, density will be between 1 and 2.5 standard deviations below the mean. In osteomalacia there is reduction in skeletal mass secondary to abnormal mineralization of the bone, which can be diagnosed biochemically and on bone biopsy. In osteopetrosis there is overgrowth and sclerosis of bone which can grow into the medullary canal. This bone is brittle and susceptible to fractures. Osteogenesis imperfecta is a genetic bone disorder resulting from collagen deficiency; there is subsequent bone fragility. It is usually inherited in an autosomal dominant manner and presents in infancy with frequent fractures."
+        },
+        {
+            "id": 2,
+            "question_type": "mcq",
+            "question": "A 74-year-old man presents to the emergency department with a 6-hour history of colicky lower abdominal pain accompanied by gross abdominal distension. He has had similar episodes in the past that have been relieved by opening his bowels. Today he is not even able to pass flatus. Abdominal X-ray shows a grossly dilated loop of large bowel.\nWhich of the following is the most likely diagnosis?",
+            "options": [
+                "A. Adhesions",
+                "B. Faecal impaction",
+                "C. Intussusception",
+                "D. Sigmoid volvulus",
+                "E. Strangulated inguinal hernia"
+            ],
+            "answer": "D",
+            "explanation": "A volvulus is the twisting of a bowel loop around its mesenteric axis. Sigmoid volvulus is a well-documented cause of large bowel obstruction, accounting for up to 10% of cases. It is associated with chronic constipation and the development of an elongated, atonic segment of bowel (megacolon) which may easily twist around the mesenteric axis. The risk of this is that it forms a 'closed loop' obstruction which can result in infarction, perforation and peritonitis. Volvulus is more common at the extremes of age and is most common in elderly men. Presentation is with symptoms and signs of bowel obstruction which may have an acute or insidious onset. The diagnosis can usually be made on abdominal X-ray, which shows a twisted, dilated loop of bowel (the 'coffee bean' sign). The mainstay of treatment is decompression of the volvulus. In most cases this can be performed using a flatus tube which is inserted into the colon via the rectum. Sometimes decompression may be achieved by means of a barium enema. If conservative management fails, or there are signs of bowel ischaemia or perforation, then surgery is required. Sigmoid volvulus is recurrent in around 50% of those treated conservatively. Volvulus may also occur in the caecum (25% of cases) and most commonly affects the terminal ileum and ascending colon. It is associated with a congenital abnormality where there is an incomplete rotation of the midgut causing a failure in the attachment of the caecum to the posterior abdominal wall. The majority of cases are treated surgically. Small bowel volvulus is rare in the UK and is associated with tumours and adhesions. The condition is most common in Africa and associated with a high roughage diet and the loading of the small bowel with vegetable matter. Volvuli of the stomach do occur, but are very rare. Volvulus, from Latin volvere = to roll."
+        },
+        {
+            "id": 3,
+            "question_type": "mcq",
+            "question": "You are called to see a 72-year-old man who has fallen on the ward two days post-laparotomy. On arrival, the patient appears to be unconscious and his breathing is noisy and laboured. His oxygen saturations are 76% on air.\nWhich of the following would be the next most appropriate step in your management?",
+            "options": [
+                "A. Endotracheal intubation",
+                "B. Head-tilt chin-lift",
+                "C. Needle cricothyroidotomy",
+                "D. Supplemental oxygen",
+                "E. Surgical tracheostomy"
+            ],
+            "answer": "B",
+            "explanation": "This patient has noisy breathing, suggestive of his inability to maintain his own airway. The easiest and quickest way to open the airway is by performing a head-tilt chin-lift manoeuvre: one hand is placed on the forehead to tilt the head backwards; the other hand is placed under the chin and lifted to help keep the mouth open. This posture is known as the 'sniffing the morning air' position. Another airway-opening manoeuvre, which can be used if the patient is unconscious, is the jaw thrust. This is done by placing two fingers under the angle of the mandible on both sides, with the thumbs on the patient's chin, and lifting the jaw upwards. Supplemental oxygen may then be given. If the patient is still unable to maintain the airway in this manner, then endotracheal intubation by an experienced person may need to be considered. Endotracheal intubation is the placement of a tube in the trachea in order to secure and provide a definitive airway. Indications include airway obstruction not responding to simple interventions, respiratory failure and respiratory arrest. In the trauma setting, endotracheal intubation may be used in cases of smoke inhalation injuries where oedema of the upper airways is expected, and in those with severe pulmonary contusions. A needle cricothyroidotomy is an emergency procedure, performed by passing a wide-bore cannula through the skin and cricothyroid membrane, just below the thyroid cartilage (Adam's apple). It is used only in cases where oral and nasal intubation is not possible, e.g. in facial trauma or repeated failed attempts at endotracheal intubation. The needle cricothyroidotomy is a temporary measure and will allow for around 30 minutes of ventilation, giving time for a more permanent airway to be created. A surgical tracheostomy is the formation of a definitive airway, via the trachea, used when endotracheal intubation is not possible. It may be performed as an open or percutaneous procedure."
+        },
+        {
+            "id": 4,
+            "question_type": "mcq",
+            "question": "A 56-year-old woman presents to the emergency department with an acutely painful lump in the right groin. She has vomited six times in the last hour and is also complaining of worsening abdominal pain. On examination, there is a grape-sized lump below and lateral to the pubic tubercle. It is warm, red and exquisitely tender. No cough impulse is felt.\nWhat would be the best course of management?",
+            "options": [
+                "A. Elective repair",
+                "B. Emergency repair",
+                "C. Observation alone",
+                "D. Prompt repair",
+                "E. Urgent repair"
+            ],
+            "answer": "B",
+            "explanation": "In order of increasing priority, the options for managing hernias are observation, elective repair, prompt repair, urgent repair and emergency repair. Elective repairs are done at a mutually convenient time and prompt surgery is done within specific time limits. Urgent operations are done as soon as possible within 24 hours following adequate resuscitation. Emergency procedures are performed immediately for life-saving procedures where resuscitation is carried out at the same time as surgery. This woman presents with a femoral hernia with features of obstruction. This requires emergency repair. Femoral hernias without features of strangulation or obstruction should still be repaired urgently, as there is a 50% risk of strangulation within a month."
+        },
+        {
+            "id": 5,
+            "question_type": "mcq",
+            "question": "A 56-year-old man is having a spinal anaesthetic for a lower limb operation as he has been told he is not fit enough for a general anaesthetic.\nWhich would be the most appropriate local anaesthetic agent?",
+            "options": [
+                "A. Bupivacaine alone",
+                "B. Lidocaine",
+                "C. Lidocaine/prilocine mixture",
+                "D. Lidocaine with adrenaline",
+                "E. Prilocaine"
+            ],
+            "answer": "A",
+            "explanation": "Bupivacaine is a longer-acting anaesthetic that can be used without adrenaline for spinal or epidural anaesthesia. Bupivacaine can also be injected into surgical wounds with adrenaline to reduce post-operative pain for up to 20 hours. The maximum dose of bupivacaine is 2 mg/kg. A mixture of bupivacaine and lidocaine is used for carpal tunnel surgery as it allows rapid onset of anaesthesia and longer-acting post-operative analgesia. Bupivacaine is contraindicated for intravenous regional anaesthesia (such as Bier block) as it is cardiotoxic. Before manipulation of a Colles fracture, regional anaesthesia of the upper limb is required. This technique is known as a Bier block. A Bier block is performed by first squeezing the blood out of the limb, then inflating a tourniquet around the upper arm and injecting intravenous prilocaine into the arm distal to the tourniquet. The tourniquet prevents local anaesthetic from leaving the arm and blood from entering. Prilocaine is the best local anaesthetic to use for this procedure as it is the least cardiotoxic. For uses of lidocaine see the question ‘Local anaesthetic agents (1)'. August Bier, German surgeon (1861–1949)."
+        },
+        {
+            "id": 6,
+            "question_type": "mcq",
+            "question": "A 65-year-old man is on the surgical ward being treated for pancreatitis. Initially he appeared to be improving, however on day 4 he develops fever and increasing epigastric pain. His serum C-reactive protein is noted to be rising.\nWhich of the following is the most likely cause?",
+            "options": [
+                "A. Ascites",
+                "B. Gastrointestinal haemorrhage",
+                "C. Ileus",
+                "D. Infective pancreatic necrosis",
+                "E. Pancreatic pseudocyst"
+            ],
+            "answer": "D",
+            "explanation": "Following inflammation of the pancreas, necrosis can develop. The diagnosis of pancreatic necrosis is suggested by an increasing C-reactive protein and worsening pain; this is confirmed on CT scanning with or without fine needle aspiration. Up to 70% of cases become infected. The treatment of pancreatic necrosis is surgical debridement and drainage. A pancreatic pseudocyst is a parapancreatic collection of pancreatic juices and develops around 4 weeks after acute pancreatitis. This can rupture into the peritoneal cavity causing ascites. Ileus and haemorrhage are also complications of pancreatitis, together with abscess formation. Systemic complications include acute respiratory distress syndrome, pulmonary oedema, renal dysfunction, shock, disseminated intravascular coagulation and hypocalcaemia."
+        },
+        {
+            "id": 7,
+            "question_type": "mcq",
+            "question": "A 33-year-old man is brought into the emergency department following an assault with a baseball bat. He has bruising over the abdomen and right loin and complains of abdominal pain. On examination, his chest is clear with good air entry but his abdomen is rigid. On arrival, his heart rate is 140/min and blood pressure 90/60 mmHg. He is given O-negative blood in the resuscitation room but his observations remain unchanged.\nWhat would be the next step in his management?",
+            "options": [
+                "A. Diagnostic peritoneal lavage",
+                "B. Laparotomy",
+                "C. Urgent CT scan",
+                "D. Urgent intravenous urogram",
+                "E. Urgent ultrasound scan"
+            ],
+            "answer": "B",
+            "explanation": "This patient has suffered blunt abdominal trauma and is haemodynamically unstable despite blood resuscitation. This is an indication for an urgent laparotomy, to identify and manage the site of bleeding. From the history there are no obvious sites of blood loss, so it can only be assumed that it is being lost into the abdomen. Had the patient been haemodynamically stable and not requiring blood, there would be time for further investigations to identify the source of bleeding. Both ultrasound and CT are useful to determine organ damage and identify fluid in the abdomen. An intravenous urogram can be used in stable patients to determine injury of the renal tract specifically. Diagnostic peritoneal lavage is used in the multiply injured patient where there is uncertainty about the presence of abdominal injury. It is largely being replaced by bedside ultrasound scanning (FAST scanning). FAST scan = Focussed Assessment with Sonography for Trauma."
+        },
+        {
+            "id": 8,
+            "question_type": "mcq",
+            "question": "A 68-year-old man presents with acute lower chest and upper abdominal pain following an episode of vomiting. On examination, he has marked tenderness in the epigastrium and you note the presence of subcutaneous emphysema. ECG shows a sinus tachycardia with no ST segment changes, and a chest X-ray demonstrates mediastinal air.\nWhich of the following is the most likely diagnosis?",
+            "options": [
+                "A. Boerhaave syndrome",
+                "B. Chest infection",
+                "C. Mallory-Weiss tear",
+                "D. Myocardial infarction",
+                "E. Pulmonary embolus"
+            ],
+            "answer": "A",
+            "explanation": "Boerhaave syndrome describes spontaneous transmural rupture of the oesophagus, often associated with forceful vomiting. The most common site of rupture is the left posterolateral wall of the lower third of the oesophagus. Boerhaave syndrome is characterized by Mackler's triad: vomiting, lower thoracic pain and subcutaneous emphysema. Common presenting features include acute abdominal and chest pain, shortness of breath, and difficulty swallowing and coughing. There is usually a history of forceful vomiting or excessive consumption of food or alcohol. Boerhaave syndrome is most common in middle-aged men. An erect chest X-ray will be abnormal in 90%, the most common sign being a pleural effusion. The diagnosis is confirmed with a Gastrografin swallow. Treatment includes intravenous fluids, antibiotics and prompt surgical repair (although cervical oesophageal perforations may be managed conservatively). Complications of Boerhaave syndrome include septicaemia, mediastinitis and pneumomediastinum. There is an overall mortality rate of around 35%. The prognosis is best if treatment is carried out within the first 12 hours of rupture and worsens with increasing time intervals thereafter. The majority of cases of oesophageal rupture are iatrogenic and caused while performing an oesophagogastroduodenoscopy (OGD), although the overall risk of perforation at OGD is low (<1%). A Mallory-Weiss tear is a superficial laceration in the lower oesophagus that results in bleeding. Herman Boerhaave, Dutch physician (1668–1738)."
+        },
+        {
+            "id": 9,
+            "question_type": "mcq",
+            "question": "A 34-year-old woman is being investigated for jaundice. Investigations show elevations of bilirubin, aspartate transaminase and alkaline phosphatase in the blood. Gamma GT levels are normal. There is no urobilinogen in the urine.\nWhich of the following conditions would be compatible with the above results?",
+            "options": [
+                "A. Gallstones",
+                "B. Gilbert syndrome",
+                "C. Hereditary spherocytosis",
+                "D. Liver metastasis",
+                "E. Viral hepatitis"
+            ],
+            "answer": "A",
+            "explanation": "Jaundice (also known as icterus) describes the yellow discolouration of the skin and mucous membranes secondary to increased serum bilirubin levels. It is usually clinically apparent when levels reach 40 µmol/L. Jaundice may be classified as: (i) pre-hepatic (e.g. hereditary spherocytosis and Gilbert syndrome) where there is an inability of the liver to handle an excess amount of bilirubin being produced; (ii) hepatic (e.g. viral hepatitis and liver metastasis) caused by a primary failure of the hepatocytes to metabolise or excrete bilirubin; and (iii) post-hepatic (e.g. gallstones and carcinoma of the head of the pancreas) caused by the obstruction of bile ducts. The following table summarizes the abnormalities found in each type of jaundice.\nPre-hepatic\nHepatic\nPost-hepatic\nSerum bilirubin High High High\nUrine bilirubin Absent Normal/high High\nConjugated bilirubin Normal Normal/low High\nUnconjugated bilirubin Normal/high Normal/reduced Normal\nUrobilinogen Normal/high Normal/reduced Low\nAST/ALT Normal Very high Normal/high\nALP Normal Normal/high Very high\nGamma GT Normal Very high Normal/high\nUrine colour Normal Normal/dark Dark\nStool colour Normal Normal Pale"
+        },
+        {
+            "id": 10,
+            "question_type": "mcq",
+            "question": "A 37-year-old woman presents to the GP with a 3-week history of frequent, loose motions. She is very tired and complains of muscle weakness. A subsequent colonoscopy demonstrates a 1.5 cm sessile growth that has multiple projections. The remainder of the colon was unremarkable.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Adenomatous polyp",
+                "B. Colorectal carcinoma",
+                "C. Infective colitis",
+                "D. Pseudomembranous colitis",
+                "E. Villous adenoma"
+            ],
+            "answer": "E",
+            "explanation": "Villous adenomas are large polyps which look like sea anemones. Villous adenomas secrete mucus and potassium, hence they can present with diarrhoea and features of hypokalaemia (muscle weakness, myalgia and arrhythmias). Of all the rectal polyps, the villous adenoma has the highest potential for malignant change, so it must be removed. Adenomatous polyps are benign polyps that have the potential to undergo malignant change. Because of this potential it is important that such polyps are removed. Multiple adenomatous polyps are found in familial adenomatous polyposis, a condition that predisposes to colorectal cancer. Villous, from Latin villus = tuft of hair."
+        },
+        {
+            "id": 11,
+            "question_type": "mcq",
+            "question": "A 45-year-old man presents with episodic upper abdominal pain, severe heartburn, episodes of dark vomitus and diarrhoea. He has been taking over-the-counter indigestion medication with no relief. On endoscopy, he has multiple ulcers throughout the duodenum, some of which are large.\nWhich of the following is most likely to have caused this?",
+            "options": [
+                "A. Alcohol",
+                "B. Aspirin use",
+                "C. Gastrinoma",
+                "D. Helicobacter pylori infection",
+                "E. Smoking"
+            ],
+            "answer": "C",
+            "explanation": "Peptic ulcers result from an imbalance between gastric acid secretion and mucosal barrier protection. All of the conditions listed are risk factors for the development of peptic ulceration; however, the presence of multiple ulceration in multiple sites, large ulcers and concomitant diarrhoea should alert the clinician to the presence of an underlying gastrinoma. A gastrinoma is a gastrin-producing tumour which results in an increase in the basal production of gastric acid with subsequent peptic ulceration. Ulceration may be severe, recurrent and refractory to treatment. Gastrinomas most commonly occur in the pancreas and duodenum, and more than 50% are malignant. The triad of a gastrin-producing tumour, gastric hypersecretion and severe peptic ulceration is known as the Zollinger-Ellison syndrome. This syndrome is the cause of around 0.1% of peptic ulceration. Treatment includes the use of proton pump inhibitors and resection of the tumour. Pancreatic gastrinomas may be the result of MEN I syndrome, a multiple endocrine neoplasia which affects the parathyroid gland, anterior pituitary gland and pancreatic islet cells. Robert Milton Zollinger, American surgeon (1903–1992). Edwin Homer Ellison, American surgeon (1918–1970)."
+        },
+        {
+            "id": 12,
+            "question_type": "mcq",
+            "question": "Which term best fits the description of hernia given below?\nA hernia that contains a 'W' loop of intestine within its sac.",
+            "options": [
+                "A. Gluteal",
+                "B. Inguinal",
+                "C. Maydl",
+                "D. Obturator",
+                "E. Sciatic"
+            ],
+            "answer": "C",
+            "explanation": "A Maydl hernia is one that contains a 'W' loop of intestine, where the middle segment is liable to become strangulated. Other hernias include:\nAmyand hernia → contains the appendix within its sac\nGluteal hernia → protrudes through the greater sciatic foramen\nLittre hernia → contains a Meckel diverticulum\nObturator hernia → protrudes through the obturator canal\nSciatic hernia → protrudes through the lesser sciatic foramen\nSpigelian hernia → protrudes through the semilunar line\nObturator hernias pass through the obturator canal in the upper thigh, especially in older women. These hernias typically incarcerate and interfere with the obturator nerve, which supplies sensation to the medial thigh. A Spigelian hernia or spontaneous lateral ventral hernia – describes herniation through the semilunar line, which is a curved tendinous insertion that corresponds to the lateral border of the rectus abdominus muscle and is formed by the aponeuroses of the internal oblique, external oblique and transversus muscles. Spigelian hernias tend to occur below the level of the umbilicus. They are small and develop in the over 50s. They can present with diffuse pain around the area. There is a high risk of strangulation so these hernias should be repaired. Claudius Amyand, English surgeon (1680–1740). Alexis Littre, French anatomist (1685–1726). Karel Maydı, Austrian surgeon (1853–1903). Adriaan van den Spiegel, Flemish anatomist (1578–1625)."
+        },
+        {
+            "id": 13,
+            "question_type": "mcq",
+            "question": "A 65-year-old man presents to the emergency department with a 3-hour history of left loin pain radiating to the left groin. He is known to have benign prostatic hypertrophy and recurrent urinary tract infections. The intravenous urogram (IVU) shows a standing column on the left.\nWhich of the following types of stone is most likely to have caused his symptoms?",
+            "options": [
+                "A. Calcium",
+                "B. Cholesterol",
+                "C. Cysteine",
+                "D. Magnesium ammonium phosphate",
+                "E. Uric acid"
+            ],
+            "answer": "D",
+            "explanation": "Magnesium ammonium phosphate stones, also known as struvite stones, are associated with chronic urinary tract infections (UTIs) caused by Gram-negative rods which can split urea into ammonium (Pseudomonas, Proteus). They account for 15% of renal calculi. Benign prostatic hypertrophy is a risk factor for the development of recurrent chronic UTIs as it can result in incomplete bladder emptying and stasis of urine. Calcium stones are the most common type of renal calculus (75%) and are associated with hyperparathyroidism, diuretic use and increased gut absorption of calcium (often familial). Uric acid stones are associated with gout and malignancy. Cysteine calculi are rare. Cholesterol is the main component of most gallstones."
+        },
+        {
+            "id": 14,
+            "question_type": "mcq",
+            "question": "A 34-year-old man is receiving a blood transfusion after a large upper gastrointestinal bleed. Soon after his transfusion starts he develops a high fever and chest pains. He is found to have a heart rate of 120/min and a blood pressure of 102/68 mmHg.\nWhich type of hypersensitivity reaction is this?",
+            "options": [
+                "A. Type I hypersensitivity",
+                "B. Type II hypersensitivity",
+                "C. Type III hypersensitivity",
+                "D. Type IV hypersensitivity",
+                "E. Type V hypersensitivity"
+            ],
+            "answer": "B",
+            "explanation": "Hypersensitivity reactions are classified using the Gell and Coombs system as follows:\nType I (anaphylactic) → IgE-mediated from allergen exposure\nType II (cytotoxic) → antibody-mediated\nType III (complexes) → immune complex-mediated\nType IV (delayed) → sensitised T-cell mediated\nType V (stimulatory) → stimulatory anti-receptor antibody mediated\nThis man is having an acute haemolytic reaction due to ABO incompatibility, which is an example of a type II hypersensitivity reaction. In type II hypersensitivity reactions, autoantibodies bind to the cell surfaces. This results in autoantibody-mediated destruction of cells. Other examples of type II hypersensitivity reactions include haemolytic disease of the newborn and autoimmune thrombocytopenia. Type I hypersensitivity (anaphylactic) reactions occur when exposure to certain allergens results in IgE-mediated secretion of inflammatory mediators by basophils and mast cells. These inflammatory mediators, such as histamine and prostaglandins, result in vasodilatation and smooth muscle contraction, and symptoms range from mild irritation to anaphylactic shock and death. Treatment is with adrenaline, antihistamines (chlorphenamine) and steroids. Examples of type I hypersensitivity reactions include allergic asthma, hay fever (allergic rhinitis), and peanut allergies. Type III hypersensitivity reactions are mediated by immune complexes (antigen-antibody complexes). Immune complexes can deposit in various sites in the body and result in localized tissue damage via complement activation. Examples of immune complex damage include glomerulonephritis following a streptococcal throat infection, rheumatic fever and systemic lupus erythematosus. Type IV hypersensitivity reactions are known as delayed type reactions as features can take days to develop. T cells can become sensitised by certain allergens and this results in cytotoxic T cell-mediated cell damage. Examples of type IV hypersensitivity reactions include contact dermatitis (e.g. to nickel) and transplant rejection. Type V (stimulatory) hypersensitivity reactions describe the presence of antibodies that bind to cell receptors and either stimulate or prevent stimulation of the receptor. Examples include Graves disease (a stimulatory response of autoantibodies binding to the TSH receptor of the thyroid gland) and myasthenia gravis (an inhibitory response from autoantibodies that bind to acetylcholine receptors at the neuromuscular junction). Robin Coombs, British immunologist (1921–2006). Philip Gell, British immunologist (1914–2001)."
+        },
+        {
+            "id": 15,
+            "question_type": "mcq",
+            "question": "A 39-year-old man presents to the emergency department with a painful lump in the groin. He tells you that this lump has been present on and off for a few months and has previously been asymptomatic. Today, the lump has become painful. On examination, there is an erythematous, tender, irreducible lump above and medial to the pubic tubercle. The patient denies abdominal pain, vomiting or constipation.\nWhich is the best descriptive term for the hernia above?",
+            "options": [
+                "A. Incarcerated hernia",
+                "B. Perforated hernia",
+                "C. Richter hernia",
+                "D. Sliding hernia",
+                "E. Strangulated hernia"
+            ],
+            "answer": "C",
+            "explanation": "This man has a direct inguinal hernia that shows features of a Richter hernia. A Richter hernia describes strangulation of one sidewall of the bowel within a hernia sac. (By comparison, a strangulated hernia describes strangulation of the entire lumen of the bowel.) Richter hernias result in the features of strangulation (a painful, erythematous lump) but without the characteristics of obstruction. A hernia is incarcerated when adhesions develop between the hernia sac and its contents, resulting in a painless irreducible lump which has no cough impulse. Incarcerated hernias predispose to strangulation. Strangulation occurs when a hernia twists upon itself and interferes with its blood supply, with ischaemia and necrosis developing within 6 hours. This can eventually result in perforation, which presents with a painful, rigid abdomen with pyrexia, tachycardia and vomiting. August Richter, German surgeon (1742–1812)."
+        },
+        {
+            "id": 16,
+            "question_type": "mcq",
+            "question": "A 65-year-old woman presents to the emergency department with right wrist pain following a fall onto an outstretched hand. An X-ray shows a fracture of the distal radius with volar displacement of the distal fragment. There is no intra-articular involvement.\nWhich of the following would be the most appropriate term to describe this fracture?",
+            "options": [
+                "A. Barton fracture",
+                "B. Colles fracture",
+                "C. Galeazzi fracture",
+                "D. Monteggia fracture",
+                "E. Smith fracture"
+            ],
+            "answer": "E",
+            "explanation": "There are three eponymous fractures related to the distal radius. The most common is the Colles fracture a fracture of the distal 2.5 cm of the radius with dorsal and radial displacement of the distal fragment (leading to the classic 'dinner fork' deformity). A distal fracture of the radius that extends to involve the joint (i.e. intra-articular) is known as a Barton fracture. A Smith fracture is an extra-articular fracture of the distal radius that results in the opposite deformity to the Colles fracture, i.e. volar (palmar) displacement of the distal fragment. Abraham Colles, Irish surgeon and anatomist (1773–1843). John Rhea Barton, American orthopaedic surgeon (1794–1871). Robert William Smith, Irish surgeon (1807–1873)."
+        },
+        {
+            "id": 17,
+            "question_type": "mcq",
+            "question": "A 45-year-old woman attends the orthopaedic follow-up clinic to receive the results of a knee X-ray. She has been getting increasing pain in the left knee, aggravated by walking.\nWhich of the following changes on X-ray would most suggest a diagnosis of osteoarthritis?",
+            "options": [
+                "A. Joint subluxation",
+                "B. Juxta-articular erosions",
+                "C. Narrowed joint space",
+                "D. Soft tissue swelling",
+                "E. Subchondral sclerosis"
+            ],
+            "answer": "E",
+            "explanation": "Osteoarthritis is the most common form of arthritis, its incidence increasing with age. It occurs primarily in the weight-bearing joints. The primary problem in osteoarthritis is in the articular cartilage, with abnormal repair and remodelling. The four characteristic X-ray changes in osteoarthritis are: 1. Narrowing of joint space (due to cartilage loss) 2. Osteophytes 3. Subchondral sclerosis (laying down of new bone) 4. Cyst formation Rheumatoid arthritis is a chronic systemic condition which generally presents as a polyarthritis. It is characterized by inflammatory changes in the synovial membranes, which in turn destroys articular cartilage. The four characteristic X-ray changes in rheumatoid arthritis are: 1. Narrowing of joint space 2. Soft tissue swelling 3. Juxta-articular erosions 4. Joint subluxation"
+        },
+        {
+            "id": 18,
+            "question_type": "mcq",
+            "question": "A 4-year-old boy is brought into hospital by his mother. He has been having episodes of intermittent high fever associated with a generalized non-itchy, pink rash over the body and swelling of the knees on and off for the last 2 weeks.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Juvenile pauciarticular arthritis",
+                "B. Juvenile polyarticular arthritis",
+                "C. Septic arthritis",
+                "D. Still's disease",
+                "E. Transient synovitis"
+            ],
+            "answer": "D",
+            "explanation": "Juvenile rheumatoid arthritis is an autoimmune arthritis of children (under the age of 16) characterized by joint inflammation for more than 6 weeks. Various forms of the condition exist. Still's disease is a systemic form of juvenile arthritis characterized by intermittent high fevers and a transient generalized ‘salmon-pink' rash. Other features include arthralgia, myalgia, hepatosplenomegaly, lymphadenopathy and pericarditis. The condition is most common in early childhood, although an adult form also exists. The systemic illness is self-limiting over a period of months, although chronic arthritis persists and may only present some time after the acute illness. Diagnosis is based on clinical findings and raised inflammatory markers. Rheumatoid factor and anti-nuclear antibodies (ANA) are usually negative. Juvenile pauciarticular arthritis is the most common form of juvenile arthritis (60%) and usually affects young girls under the age of 8. It involves less than four joints and usually affects small and medium sized joints (knees, elbows, ankles and wrists). Joint involvement is usually asymmetrical and patients are usually ANA positive. There is a risk of developing anterior uveitis (30%). Juvenile polyarticular arthritis (30% of juvenile arthritis) affects five or more joints. It is similar to adult rheumatoid arthritis in that it is a symmetrical condition which affects both small and large joints. It is most common in teenage girls. Rheumatoid factor may be positive. Juvenile arthritis may be a relapsing and remitting condition or may take a chronic course. Treatment options include non-steroidal anti-inflammatories, disease modifying drugs (e.g. methotrexate), steroids and physiotherapy. Sir George Frederic Still, English physician (1861–1941)."
+        },
+        {
+            "id": 19,
+            "question_type": "mcq",
+            "question": "A 22-year old woman presents to the GP complaining of a 2-week history of milky discharge from both her breasts. She is otherwise well. Clinical examination of the breasts is unremarkable and a pregnancy test is negative.\nWhich of the following investigations would be indicated in the first instance?",
+            "options": [
+                "A. Dopamine levels",
+                "B. Fine needle aspiration",
+                "C. Mammogram",
+                "D. MRI of the breast",
+                "E. Prolactin levels"
+            ],
+            "answer": "E",
+            "explanation": "Galactorrhoea in the absence of pregnancy or breast feeding must alert the clinician to suspect a prolactinoma. Prolactin is a hormone produced by the anterior pituitary gland which stimulates breast milk production and excretion in women. Its action is inhibited by dopamine. Prolactinomas are the most common benign tumours of the pituitary gland, and significant tumours occur at an incidence of around 1 in 7000. Presenting symptoms include those attributable to raised prolactin levels such as galactorrhoea, infertility and loss of libido in both sexes, together with amenorrhoea in women, and pressure symptoms from the tumour itself including headaches and visual disturbance (typically bitemporal hemianopia, caused by pressure on the optic chiasm). Prolactinomas are best visualized on MRI of the brain. Treatment of these tumours is dependent on their size, and includes dopamine agonists (bromocriptine), surgery and radiotherapy. Other causes of raised prolactin levels include hypothyroidism and some drugs (e.g. haloperidol)."
+        },
+        {
+            "id": 20,
+            "question_type": "mcq",
+            "question": "You are called to see a 52-year-old woman who has just undergone a thyroidectomy. She complains of a 20-minute history of neck pain and shortness of breath. A rapidly expanding mass is noted around the operation site.\nWhich of the following would you do next?",
+            "options": [
+                "A. Anaesthetic review",
+                "B. Bedside opening of incision",
+                "C. Book next available theatre slot",
+                "D. Intravenous antibiotics",
+                "E. Laryngoscopy"
+            ],
+            "answer": "B",
+            "explanation": "Bleeding is a recognized complication following thyroid surgery (1%). Acute bleeding causing airway compromise is an emergency. If there is any suggestion of airway compromise in a post-operative patient, look for a haematoma. If present, it must be evacuated immediately, even before transfer to theatre. Further investigation is not needed. Other complications of thyroid surgery include damage to the recurrent laryngeal nerve causing vocal cord paralysis. If bilateral, this will result in respiratory distress following extubation. Unilateral paralysis presents later with hoarseness of the voice. The parathyroid glands, which produce parathyroid hormone that increases serum calcium, are situated posterior to the thyroid and may be damaged during surgery, causing hypocalcaemia. This results in circumoral paraesthesia and tetany, and may cause cardiac arrest. Another complication of surgery is the 'thyroid storm', in which manipulation of the thyroid gland leads to profound hyperthyroidism resulting in hypertension, tachycardia, hyperthermia and potentially fatal cardiac arrhythmias. If this occurs during surgery the first step is to discontinue the procedure. Beta blockers and propylthiouracil (a thyroperoxidase inhibitor) are used pre-operatively in thyrotoxic patients to prevent this occurrence. Hypothyroidism is expected at some stage following thyroid surgery. This must be diagnosed and treated early."
+        },
+        {
+            "id": 21,
+            "question_type": "mcq",
+            "question": "A 49-year-old woman presents with a 4-month history of perianal itching with occasional mucous discharge. She is otherwise well. On examination, large fleshy pink lesions are seen around the anus.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Condylomata lata",
+                "B. Condylomata acuminata",
+                "C. Anal carcinoma",
+                "D. Rectal prolapse",
+                "E. Haemorrhoids"
+            ],
+            "answer": "B",
+            "explanation": "This patient has features of anal warts. Anal warts are caused by human papilloma virus (types 6 and 11) and are spread by anal intercourse. Warts are often asymptomatic but may present with itching, discharge or bleeding. On examination, pink and grey lesions may be seen around the anus and perineum. If these lesions are large and coalesce they are known as condylomata acuminata. Condylomata lata are large, fleshy, white lesions that occur in the genital region with secondary syphilis. Condylomata acuminata, from Latin condylomata = knuckles + acuminatum = pointed. Lata, from Latin lata = broad."
+        },
+        {
+            "id": 22,
+            "question_type": "mcq",
+            "question": "A 56-year-old man presents to the GP with a lesion on the tip of his right middle finger which has developed over the past week since he pricked his finger on a thorn in the garden. On examination, the lesion is 1 cm in size, dark red in colour and bleeds easily.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Cavernous haemangioma",
+                "B. Ganglion",
+                "C. Granuloma annulare",
+                "D. Kaposi sarcoma",
+                "E. Pyogenic granuloma"
+            ],
+            "answer": "E",
+            "explanation": "A pyogenic granuloma is an acquired haemangioma (note, it is neither pyogenic nor a granuloma) which occurs most often on the head, trunk, hands and feet. It develops at a site of trauma (e.g. thorn prick) as a bright red nodule which bleeds easily and enlarges rapidly over 2–3 weeks. It affects those at the extremes of age but is most common in pregnant women. These lesions are benign and are managed by excision, although smaller lesions may resolve spontaneously. Kaposi sarcoma is a malignant tumour of vascular endothelium that gives rise to plaques and nodules in the skin and mucous membranes that have a bruise-like appearance. It is associated with underlying human herpes virus 8 infection in people who are immunosuppressed (such as those with AIDS or patients taking immunosuppressants following organ transplantation). Before the advent of AIDS, Kaposi sarcoma was a rare sporadic tumour that occurred in male Italians and Ashkenazi Jews. Biopsy of the lesions is required to confirm diagnosis and symptomatic treatment is with radiotherapy. A ganglion is a benign, tense, cystic swelling, often at the back of the wrist, that occurs due to degeneration of the fibrous tissue surrounding the joints. It is most common in young women. Ganglia are usually painless and asymptomatic although they may occasionally press on adjacent nerves (ulnar and median nerves). Asymptomatic ganglia do not require treatment, and many spontaneously resolve. Lasting cure is by excision (aspiration is simpler, but 50% will recur). Moriz Kahn Kaposi, Hungarian dermatologist (1837–1902)."
+        },
+        {
+            "id": 23,
+            "question_type": "mcq",
+            "question": "A 14-year-old girl presents to the GP surgery complaining of right knee pain which occurs after gymnastics training. She is otherwise well. On examination, there is a full range of movement at the right knee joint and a small tender lump over the upper tibia.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Baker cyst",
+                "B. Bipartite patella",
+                "C. Chondromalacia patellae",
+                "D. Dislocation of the patella",
+                "E. Osgood-Schlatter disease"
+            ],
+            "answer": "E",
+            "explanation": "Osgood-Schlatter disease typically affects athletic adolescents and is caused by traction on the tibial tubercle at the point of insertion of the patellar tendon. It commonly presents as pain after activity or with a tender lump over the tibial tuberosity. It may be bilateral. X-rays are rarely indicated but may show fragmentation at the tibial tubercle. Treatment is with rest, analgesia and abstinence from sports until symptoms settle. Chondromalacia patellae is also a cause of anterior knee pain in girls and is a result of softening of the articular part of the patella. Pain is typically worse on climbing the stairs and on standing from a seated position. Dislocation of the patella is acutely painful and caused by a twisting or direct injury usually with the knee in slight flexion. The patella can be felt at the lateral border of the knee. Dislocations may be recurrent. A bipartite patella is a congenital anomaly where the patella is made of two parts. It can be mistaken on X-ray for a fracture but it rarely causes pain. A Baker cyst is a swelling of the synovial sac of the knee joint which can be palpated in the popliteal fossa. It can rupture, resulting in acute knee pain and calf swelling. Robert Bayley Osgood, American orthopaedic surgeon (1873–1956). Carl Schlatter, Swiss physician (1864–1934)."
+        },
+        {
+            "id": 24,
+            "question_type": "mcq",
+            "question": "A 20-year-old man presents to the GP with a 2-day history of severe pain and swelling in his right testicle. On examination, there is a purulent discharge present at the urethral meatus and the right testicle is tender to palpation.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Epididymo-orchitis",
+                "B. Mumps orchitis",
+                "C. Testicular cancer",
+                "D. Testicular torsion",
+                "E. Varicocele"
+            ],
+            "answer": "A",
+            "explanation": "Epididymo-orchitis (inflammation of the epididymis and testis) presents with a painful swelling of the epididymis with constitutional symptoms such as pyrexia and malaise. Patients may also exhibit a secondary hydrocele. Because epididymo-orchitis is usually a consequence of ascending infection (for example from a urinary tract infection or a sexually transmitted urethritis) there may also be a history of dysuria or urethral discharge. When someone presents with a painful, swollen testicle it is important to rule out testicular torsion – if there is doubt the patient should be referred for urgent surgical exploration. Treatment of epididymo-orchitis is with bed rest and a long course of antibiotics (e.g. 6 weeks of oral ciprofloxacin). If an abscess develops it requires drainage. Mumps is caused by a paramyxovirus infection that is spread by saliva droplets and affects pre-adolescents. As well as constitutional symptoms, patients develop inflammation of the parotid glands (parotitis). Recognized complications of mumps include meningitis, pancreatitis and orchitis, from which there is a small risk of sterility. The incidence of mumps has been drastically reduced by routine administration of the MMR (measles, mumps, rubella) vaccine."
+        },
+        {
+            "id": 25,
+            "question_type": "mcq",
+            "question": "A 65-year-old man has been brought into hospital by his wife. She is concerned as he has become increasingly yellow in colour and has unintentional weight loss. The patient denies any pain. On examination he is jaundiced and has a palpable mass in the right upper quadrant.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Cholangiocarcinoma",
+                "B. Gallstones",
+                "C. Gastric carcinoma",
+                "D. Hepatocellular carcinoma",
+                "E. Pancreatic carcinoma"
+            ],
+            "answer": "E",
+            "explanation": "Pancreatic carcinoma is the third most common malignancy of the gastrointestinal tract and is the fifth most common cause of cancer-related death. Its incidence increases with age, particularly after 50 years, and it is more common in men. Risk factors include smoking, diabetes mellitus and chronic pancreatitis. The most common site of malignancy is within the head of the pancreas (60%); around 20% arise in the body and 5% in the tail. The classic presentation of a carcinoma in the head of the pancreas is with painless progressive jaundice. Other symptoms include epigastric and back pain, pruritus, marked weight loss and thrombophlebitis migrans (recurrent clots in superficial veins). Patients may have noticed pale stools and dark urine. Jaundice occurs secondary to obstruction of the common bile duct, which results in a full, palpable gallbladder. Courvoisier's law states that 'if in the presence of jaundice the gallbladder is palpable then the cause is unlikely to be gallstones'. The prognosis of pancreatic cancer is very poor a 5% survival at 5 years. The only chance of cure is by surgical resection of the tumour by Whipple procedure (removal of the pancreatic head, common bile duct, gallbladder, distal stomach and part of the duodenum), although no more than 20% of patients are suitable for this at presentation. Palliation of obstructive symptoms can be achieved with stent insertion through ERCP. Most patients die within 6 months of diagnosis."
+        },
+        {
+            "id": 26,
+            "question_type": "mcq",
+            "question": "A 21-year-old man is brought into the emergency department with penile pain and swelling following a fall onto the crossbar of a bicycle. On examination, the penis is oedematous and bruised and there is blood at the urethral meatus. He is otherwise stable.\nWhich of the following investigations is indicated?",
+            "options": [
+                "A. Bladder scan and urethral catheterization",
+                "B. CT abdomen and pelvis",
+                "C. Cystoscopy",
+                "D. Intravenous urogram",
+                "E. Retrograde urethrogram"
+            ],
+            "answer": "E",
+            "explanation": "This patient has presented with a urethral injury, as indicated by the presence of blood at the urethral meatus. Injuries to the urethra may be classified as anterior (penile and bulbar urethra) or posterior (membranous urethra). Causes of anterior urethral injuries include straddle injuries (as in this scenario), penile fractures and iatrogenic injury, e.g. by repeated attempts at catheterization. Posterior urethral injuries are more common and almost always associated with a pelvic fracture. Urethral injuries are more common in men (as they have a longer urethra). Presenting symptoms vary depending on the site of injury but include oedema and ecchymosis of the penis (in anterior blunt injuries), blood at the urethral meatus, a high-riding prostate (in pelvic fractures), scrotal haematoma, butterfly haematoma of the perineum (caused by extravasation of blood not contained within Buck's fascia) and haematuria. If a urethral injury is suspected then urethral catheterization is contraindicated (as this could damage the urethra further). Diagnosis is with a retrograde urethrogram, where a Foley catheter is gently placed into the urethra and injected with contrast. Extravasation of dye indicates urethral rupture. Following diagnosis, a suprapubic catheter is inserted and surgical repair can be performed (sometimes as a delayed procedure). Complications of urethral injury include stricture formation leading to difficulty in voiding, impotence and incontinence. In the multiply injured patient and in those with a pelvic fracture, a CT would be the most appropriate investigation in the first instance, with a retrograde urethrogram being performed once the patient is stable."
+        },
+        {
+            "id": 27,
+            "question_type": "mcq",
+            "question": "A 6-year-old girl is brought to the GP by her father with a smooth lump in the midline of her neck. She is otherwise well. On examination, there is a 1 cm painless, fluctuant swelling which moves upwards on swallowing and on tongue protrusion.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Branchial cyst",
+                "B. Chemodectoma",
+                "C. Cystic hygroma",
+                "D. Thyroid adenoma",
+                "E. Thyroglossal cyst"
+            ],
+            "answer": "E",
+            "explanation": "A thyroglossal cyst is a congenital cystic remnant of the thyroglossal tract. It usually presents in the first decade as a smooth midline lump which moves up on tongue protrusion (note that thyroid lumps do not move up with protrusion of the tongue). Diagnosis is by ultrasound and treatment is by excision of the cyst and thyroglossal duct (Sistrunk operation). Thyroglossal, from Greek thyreoeides = shield-shaped + glossus = tongue. The thyroid was thought of as the shield-shaped gland. Walter Sistrunk, American surgeon (1880–1933)."
+        },
+        {
+            "id": 28,
+            "question_type": "mcq",
+            "question": "A 44-year-old man presents to the GP practice complaining of a 2-month history of painless, purulent, foul-smelling discharge from his right ear. His hearing is gradually getting worse. On examination, there is no obvious abnormality externally.\nWhich of the following is the most likely cause of his symptoms?",
+            "options": [
+                "A. Acute otitis media",
+                "B. Cerumen",
+                "C. Cholesteatoma",
+                "D. Glue ear",
+                "E. Swimmer's ear"
+            ],
+            "answer": "C",
+            "explanation": "A cholesteatoma is a pocket of stratified squamous epithelium within the middle ear which is expansive and locally destructive. It may be a congenital abnormality, but the majority arise as an acquired condition following trauma to the eardrum (e.g. perforation). The condition is more common in men. Presentation is usually with painless foul-smelling discharge (cholesteatomas are usually colonized with Pseudomonas aeruginosa) which is resistant to antibiotics, and conductive hearing loss. As the cholesteatoma progresses it can cause vertigo, facial nerve palsy or destruction of the mastoid, and give rise to cerebral abscesses. Otoscopy usually reveals a perforation associated with a central mass of debris within the middle ear. When investigating a patient with a suspected cholesteatoma it is important to get a CT to assess the extent of destruction. Treatment is by excision of the cholesteatoma and any destroyed tissue. Regular follow-up is required as cholesteatomas may recur. Acute otitis media describes acute infection of the middle canal that most commonly occurs in young children following an upper respiratory tract infection. Common causes include Streptococcus pneumoniae, Haemophilus influenzae and Moraxella catarrhalis. Children present with ear pain and conductive deafness. On examination the tympanic membrane is red, dull and bulging, due to the build-up of pus. If the tympanic membrane perforates, the pain settles and purulent, blood-stained fluid will be seen discharging from the ear. Management of acute suppurative otitis media is with antibiotics (e.g. penicillin). Glue ear is the name given to a chronic ear effusion. It is a relatively common finding in children. There is accumulation of non-suppurative fluid in the middle ear resulting in reversible conductive deafness. Affected children may suffer behavioural change and impaired cognitive development due to chronic deafness. On examination a dull tympanic membrane is seen in the absence of inflammation. Most cases of glue ear resolve spontaneously within 3 months. If symptoms persist beyond this, management is by grommet insertion. Swimmer's ear is another term for otitis externa. Otitis externa is diffuse inflammation of the skin lining the external auditory meatus, often bacterial or fungal in origin. Features include outer ear irritation, scanty discharge and pain that is worse with jaw movement. It is most common in people with a narrow, tortuous ear canal and in patients who have traumatized the skin of the outer ear, e.g. by a towel or cotton buds. Cerumen (ear wax) is produced by the ceruminous glands of the outer meatus. Impaction of wax (e.g. by cotton buds) can result in conductive deafness. Management is by ear syringing. Cerumen, from Latin cera = wax + albumen = white. Cholesteatoma, from Greek chafe = bile + steat = fat; 'growth containing bile fats', as they often contain cholesterol."
+        },
+        {
+            "id": 29,
+            "question_type": "mcq",
+            "question": "A 33-year-old man who was travelling on his motorbike has been hit by a car at 50 miles per hour. He is brought into the emergency department by his friend and it is noted that his left leg appears deformed. His pulse is 120/min and his blood pressure 100/65 mmHg.\nWhat is the next step in your management?",
+            "options": [
+                "A. Assess the patient's breathing",
+                "B. Give blood",
+                "C. Give fluids",
+                "D. Immobilize the patient",
+                "E. Splint the left leg"
+            ],
+            "answer": "D",
+            "explanation": "The approach to any trauma case must follow the sequence: Airway (including C-spine immobilization), Breathing, Circulation, Disability and Exposure. Even though it is apparent that this patient is in shock and probably has a fracture of his left leg he must be immobilized to protect the cervical spine, and airway and breathing cleared before addressing the issue of blood loss and other injuries. Common sites of blood loss in trauma patients are the chest, abdomen, pelvis and long bone fractures. Temporary splinting, e.g. of the pelvis and long bone fractures, aids in preventing further blood loss while resuscitation is taking place."
+        },
+        {
+            "id": 30,
+            "question_type": "mcq",
+            "question": "A 27-year-old man presents to the emergency department with severe epigastric pain which started soon after eating his lunch. On examination, the upper abdomen is rigid. The patient says he has recently been suffering from indigestion which started after medical treatment for a meniscal injury to his knee.\nWhich of the following medications could have contributed to his condition?",
+            "options": [
+                "A. Aspirin",
+                "B. Codeine",
+                "C. Gaviscon",
+                "D. Omeprazole",
+                "E. Paracetamol"
+            ],
+            "answer": "A",
+            "explanation": "This patient has presented with a perforated peptic ulcer. Spillage of stomach contents results in chemical peritonitis. The majority of peptic ulcers and perforations occur in the duodenum. Ulceration is the result of gastric acid and pepsin action on the mucosa. Predisposing factors include Helicobacter pylori infection, alcohol, smoking, regular use of NSAIDs (such as aspirin) and corticosteroid use. Gaviscon is used for the symptomatic relief of heartburn and omeprazole is a proton pump inhibitor which causes a long-lasting reduction in gastric acid production, being used in the treatment of ulcers."
+        },
+        {
+            "id": 31,
+            "question_type": "mcq",
+            "question": "A 62-year-old man presents to the GP with a lesion on his left forehead that has been present for 6 months. It has recently begun to ulcerate. On examination, there is a 1 cm raised, hyperkeratotic, crusty lesion with raised edges.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Actinic keratosis",
+                "B. Basal cell carcinoma",
+                "C. Bowen disease",
+                "D. Keratoacanthoma",
+                "E. Squamous cell carcinoma"
+            ],
+            "answer": "E",
+            "explanation": "Squamous cell carcinoma (SCC) is a malignant tumour of keratinocytes that occurs in the over 50s in sun-damaged sites. Predisposing factors for their development include X-ray exposure, smoking, human papilloma virus and a genetic susceptibility. SCCs typically have raised everted edges with a central scab. Management is by surgical excision with lymph node dissection or radiotherapy if there is evidence of spread. An actinic keratosis (solar keratosis) is a hyperkeratotic, yellow-brown crusty lesion that occurs on sun-damaged sites. These lesions are pre-malignant and may progress to SCC. For this reason actinic keratoses should be removed, e.g. by excision, shaving or cryotherapy. A keratoacanthoma (or molluscum sebaceum) is a benign tumour of hair follicle cells. It occurs on sun-exposed sites (e.g. face and arms) and is more common in the elderly. Keratoacanthomas grow rapidly over 6–8 weeks and are characterized by a rolled edge with a central keratin plug which can fall out and leave a crater. Spontaneous resolution occurs but takes several months and leaves a deep scar. Keratoacanthomas are different to keratoacanthomas in that they grow slowly, there is no central core and they gradually ulcerate. Bowen disease (or squamous cell carcinoma in situ) is a pre-malignant intraepidermal carcinoma with atypical keratinocytes. It typically occurs on the leg of older women. Bowen disease presents as large pink or brown flat lesions with a superficial crust that may look like eczema. Previous exposure to arsenic can predispose to the condition. A small percentage of these can progress to squamous cell carcinoma. Treatment is by excision. Erythroplasia of Queyrat is Bowen disease of the glans penis. It appears as a red, velvety lesion. John Templeton Bowen, American dermatologist (1857–1941). Louis Queyrat, French dermatologist (1872–1933). Keratoacanthoma, from Greek kerat = horn + akantha = thorn; a thorn of horn."
+        },
+        {
+            "id": 32,
+            "question_type": "mcq",
+            "question": "A 37-year-old woman presents to the emergency department following a faint after standing up from a sitting position. She did not lose consciousness during this episode but reported feeling 'dizzy and lightheaded'. She has no significant past medical history. On examination you notice multiple areas of skin depigmentation but increased pigmentation in the palmar creases and on the elbows.\nWhich of the following is the best management for her condition?",
+            "options": [
+                "A. Desmopressin",
+                "B. Hydrocortisone and fludrocortisone",
+                "C. Octreotide",
+                "D. Spironolactone",
+                "E. Thyroidectomy"
+            ],
+            "answer": "B",
+            "explanation": "This woman presents with postural hypotension. She has vitiligo and some areas of increased skin pigmentation, which means she is likely to have Addison disease. Addison disease is primary autoimmune-mediated adrenocortical failure. The adrenal cortex can be simplified as secreting three things: glucocorticoids, mineralocorticoids and adrenal androgens. These usually feed back to the anterior pituitary to reduce adreno-corticotrophic hormone (ACTH) secretion. Therefore if the adrenal cortex fails there are many consequences: reduced glucocorticoids (hypoglycaemia, weight loss), reduced mineralocorticoids (hyperkalaemia, hyponatraemia, hypotension), reduced adrenal androgens (decreased body hair and libido) and ACTH excess (increased pigmentation in sun-exposed areas, pressure areas, palmar creases, buccal mucosa and recent scars). The diagnosis of Addison disease is by the short Synacthen test. In this investigation, plasma cortisol levels are measured before, and half an hour after, administration of a single intramuscular dose of ACTH. Normally the ACTH will result in a rise in cortisol. If there is no rise in cortisol on the second reading, adrenal insufficiency is indicated. Management of Addison disease is with the replacement of glucocorticoids and mineralocorticoids (hydrocortisone and fludrocortisone respectively). Thomas Addison, English physician (1795–1860)."
+        },
+        {
+            "id": 33,
+            "question_type": "mcq",
+            "question": "A 7-day-old preterm boy develops vomiting and bloody diarrhoea. On examination, his abdomen is grossly distended and discoloured. His temperature is 39.5°C.\nWhat is the most likely diagnosis?",
+            "options": [
+                "A. Exomphalos",
+                "B. Gastroenteritis",
+                "C. Gastroschisis",
+                "D. Meconium ileus",
+                "E. Necrotizing enterocolitis"
+            ],
+            "answer": "E",
+            "explanation": "Necrotizing enterocolitis is a life-threatening infection most common in preterm children in the first few weeks of life. It is a non-specific infection of the bowel which may be secondary to hypoxia, fluid imbalance and septicaemia. There is an increased risk in children with patent ductus arteriosus. It has a lower incidence in breast-fed babies. Necrotizing enterocolitis can sometimes occur in outbreaks. Features include bile-stained vomiting, mucus and blood in the stools, and a distended erythematous abdomen. Non-specific symptoms include lethargy, apnoea and shock. The diagnosis is largely clinical but may be aided by abdominal X-ray, which shows multiple dilated bowel loops. The treatment of necrotizing enterocolitis is supportive and includes total parenteral nutrition and broad spectrum intravenous antibiotics until the child improves. If there is any evidence of necrotic or perforated bowel, then laparotomy with bowel resection is indicated. Complications include malabsorption syndromes, stricture formation and the need for a stoma. There is an overall mortality of at least 10%."
+        },
+        {
+            "id": 34,
+            "question_type": "mcq",
+            "question": "A 4-year-old girl is referred to the urology clinic by the GP as she has been having recurrent urinary tract infections. Examination of the child is unremarkable.\nWhich of the following is most likely to be causing the problem?",
+            "options": [
+                "A. Hydronephrosis",
+                "B. Pelvic kidney",
+                "C. Posterior urethral valve",
+                "D. Renal agenesis",
+                "E. Vesica-ureteric reflux"
+            ],
+            "answer": "E",
+            "explanation": "Vesica-ureteric reflux is caused by an abnormal insertion of a ureter into the bladder resulting in the failure of the valves between the two. This results in the reflux of urine back up into the ureter on contraction of the bladder. Vesicaureteric reflux occurs in around 1 in 100 children and is more common in girls. If left untreated, it can result in hypertension and kidney failure. The degree of reflux varies from mild to severe (graded 1–5), where large amounts of urine are refluxing to the kidneys. Vesica-ureteric reflux can be bilateral. Treatment is with prophylactic antibiotics to prevent urinary tract infections and with early, aggressive treatment if infections do develop. If recurrent UTIs occur despite treatment, or reflux is present after the age of 5, then surgical re-implantation of the ureters is required. A pelvic kidney results from incomplete migration of the kidneys and is rarely symptomatic. Renal agenesis is the failure of development of one or both kidneys. Most infants born with bilateral renal agenesis die within a few hours of birth, but unilateral agenesis rarely causes problems if the single kidney functions well. A posterior urethral valve is a cause of urinary tract obstruction in male children. Hydronephrosis describes distension of the renal pelvis and calyces."
+        },
+        {
+            "id": 35,
+            "question_type": "mcq",
+            "question": "An 81-year-old woman from a nursing home is brought into the emergency department following a fall. She is complaining of pain in her left hip. On examination, her left leg is shortened and externally rotated. The home tells you this woman has dementia but is able to mobilize independently with a frame. An X-ray shows a displaced intracapsular femoral neck fracture.\nWhich of the following would be the most suitable management option?",
+            "options": [
+                "A. Allow the patient to try to mobilize",
+                "B. Dynamic hip screw",
+                "C. Hemiarthroplasty",
+                "D. Open reduction and internal fixation",
+                "E. Total hip replacement"
+            ],
+            "answer": "C",
+            "explanation": "The blood supply to the femoral head comprises the intramedullary vessels, the vessels in the retinaculum of the joint capsule and through the ligamentum teres (although at this age this may be obsolete). The choice of treatment largely depends upon the disruption to the blood supply caused by the fracture. Partial and undisplaced fractures through the femoral neck (Garden I and II fractures) may be fixed using a dynamic hip screw, as can intertrochanteric and subtrochanteric fractures. Minimally and completely displaced fractures (Garden III and IV) are likely to have severe disruption to the blood supply of the femoral head, leading to impaired healing and a risk of avascular necrosis; hence the head will need to be removed and replaced with a prosthesis (hemiarthroplasty). In fitter patients, a total hip replacement may be considered, but as this patient has dementia she is not a candidate. In younger patients (below the age of 60–65) much effort is made to preserve the femoral head, and open reduction and internal fixation is often attempted. In treating impacted neck of femur fractures, if not too painful, a watch and wait policy is sometimes adopted as healing may occur without intervention."
+        },
+        {
+            "id": 36,
+            "question_type": "mcq",
+            "question": "A 45-year-old woman presents to the emergency department with a 12-hour history of worsening right upper abdominal pain and vomiting. On examination, she is locally peritonitic in the right upper quadrant. Her temperature is 38.1°C.\nWhich of the following treatment options would be indicated in the first instance?",
+            "options": [
+                "A. Cholecystectomy",
+                "B. Intravenous antibiotics",
+                "C. Intravenous steroids",
+                "D. Intravenous proton pump inhibitor",
+                "E. Percutaneous drainage of the gallbladder"
+            ],
+            "answer": "B",
+            "explanation": "This patient has presented with acute cholecystitis, an acute inflammation of the gallbladder secondary to obstruction of the cystic duct. Ninety percent of cases are due to gallstones but in 10% no cause of obstruction is found (acute acalculous cholecystitis). Acalculous cholecystitis is most common at the extremes of age and is associated with major trauma, burns and surgery. Obstruction of the cystic duct results in chemical irritation (secondary to stasis of bile) and bacterial infection ensues. Symptoms of acute cholecystitis include upper abdominal pain, usually in the right upper quadrant, which may radiate to the back and shoulder tip. There is often associated vomiting. The presence of systemic upset, e.g. fever and elevation of inflammatory markers, helps to differentiate this from simple biliary colic. Murphy sign – pain on palpation below the right costal margin in the mid-clavicular line during inspiration – is a clinically useful sign (it can also be done with the ultrasound probe) but is present in only 40% of cases. Ultrasound investigation confirms the diagnosis. The treatment of acute cholecystitis includes intravenous fluids, intravenous antibiotics and analgesia. Symptoms usually resolve spontaneously within days without further intervention. Ongoing infection will result in an empyema of the gallbladder (a mass will develop as the gallbladder fills with pus) and this requires urgent drainage. Cholecystectomy is usually performed as an elective procedure 6 weeks after the resolution of symptoms (to reduce the risk of septicaemia) but may be performed as an emergency procedure if symptoms do not settle with conservative management."
+        },
+        {
+            "id": 37,
+            "question_type": "mcq",
+            "question": "A 59-year-old man presents with an 8-month history of urinary hesitancy, poor stream and the sensation of incomplete bladder emptying. He is otherwise well. On examination, his prostate is homogeneously enlarged and smooth.\nWhich of the following interventions would be indicated?",
+            "options": [
+                "A. Bladder neck incision",
+                "B. Brachytherapy",
+                "C. External beam radiotherapy",
+                "D. Radical prostatectomy",
+                "E. Transurethral resection of prostate"
+            ],
+            "answer": "E",
+            "explanation": "Benign prostatic hyperplasia (BPH) is the most common benign neoplasia, characterized by the formation of nodules in the periurethral region of the prostate. At least half of all men have BPH by the age of 60 and its incidence increases with age. BPH results in bladder flow obstruction and symptoms include hesitancy, poor stream, and incomplete emptying of the bladder leading to frequency of micturition, nocturia and haematuria. BPH may also present with acute urinary retention. Long-standing obstruction can lead to bilateral hydronephrosis and renal failure. Specific investigations include urodynamic studies (assessing urinary flow rates) and the measurement of residual urinary volume. Treatment options in symptomatic patients include medical therapy and surgical intervention. Commonly used drugs include alpha blockers (e.g. tamsulosin), which reduce smooth muscle tone and decrease bladder outflow resistance, and finasteride (a 5-a reductase inhibitor) that inhibits the conversion of testosterone to the active dihydrotestosterone. Transurethral resection of the prostate (TURP) is indicated when medical treatment has failed; it is the most commonly performed operation in men and considered the 'gold standard' of surgical treatment in BPH. TURP involves shaving the inner portion of the prostate via a cystoscope. Specific complications of this procedure include impotence, retrograde ejaculation, incontinence and the need for a repeat procedure. If the prostate is very large, an open prostatectomy is preferred. Radical prostatectomy, brachytherapy and external beam radiation are used in the treatment of prostate cancer. A bladder neck incision is made when urinary obstruction is secondary to hypertrophy of the muscles at the bladder neck. Brachytherapy, from Greek brachy = short."
+        },
+        {
+            "id": 38,
+            "question_type": "numerical",
+            "question": "A new blood test has been produced to help diagnose suspected tumours of the membranous urethra. Of a study sample of 100 patients, 20 are known to have cancer of the membranous urethra. The blood test suggested that 30 people had the tumour, but of these only 15 were true positives.\nWhat is the positive predictive value of this test?",
+            "options": [
+                "A. 25%",
+                "B. 50%",
+                "C. 75%",
+                "D. 90%",
+                "Ε. 100%"
+            ],
+            "answer": "B",
+            "explanation": "The positive predictive value (PPV) describes the probability that a condition can be confirmed given a positive test result. PPV = (number of true positives/total number of positives) × 100 Thus, PPV = (15/30) × 100 = 50%. For other useful formulas, see the question ‘Statistics (1)'."
+        },
+        {
+            "id": 39,
+            "question_type": "mcq",
+            "question": "A 45-year-old male coach driver presents to the emergency department with a 3-day history of a swollen left leg and some shortness of breath. On examination, the left calf is swollen and tender. The pedal pulses are palpable and the foot is warm.\nWhat would be the most appropriate initial management?",
+            "options": [
+                "A. Elevation, rest and NSAIDs",
+                "B. Emergency surgery",
+                "C. Intravenous heparin",
+                "D. Subcutaneous low molecular weight heparin",
+                "E. Warfarin"
+            ],
+            "answer": "D",
+            "explanation": "This man has developed a deep vein thrombosis, and may may have secondary pulmonary embolism. Management can either be with intravenous heparin or subcutaneous low molecular weight heparins (LMWHs). Heparin requires a loading dose followed by a continuous infusion, and the dose of the drug is modified according to daily measurements of activated partial thromboplastin time (APTI). LMWHs are much easier to administer (by once-daily injection) and do not require monitoring. For this reason LMWH is the first-line treatment for deep vein thrombosis and pulmonary embolism. Heparin is reserved for patients with severe, life-threatening thromboembolism. Treatment with LMWHs or heparin is continued until warfarin therapy has been commenced effectively."
+        },
+        {
+            "id": 40,
+            "question_type": "mcq",
+            "question": "A 72-year-old man who has no past medical history of note has been referred to you by his GP. His GP found an incidental non-tender expansile mass in his abdomen. An ultrasound scan demonstrates an abdominal aortic aneurysm that is 5 cm in diameter.\nWhat is the best course of management?",
+            "options": [
+                "A. Admit for emergency repair",
+                "B. Commence on antihypertensives and advise to see GP if he develops abdominal pain",
+                "C. Organize an elective repair",
+                "D. Repeat an ultrasound scan in 3 months",
+                "E. Repeat an ultrasound scan in 1 year"
+            ],
+            "answer": "D",
+            "explanation": "The normal size of the abdominal aorta is 2 cm. A dilatation of the abdominal aorta above 3 cm is defined as an abdominal aortic aneurysm. Abdominal aortic aneurysms (AAA) are commoner in men, affecting 5% of those aged over 65 years. Other risk factors are smoking, hypertension, hypercholesterolaemia and a family history. The majority of AAAs (95%) are below the renal arteries (infrarenal) and 30% extend to involve the iliac arteries below. The risk of rupture of AAAs is directly proportional to the diameter. The risk of rupture of those AAAs with a diameter of less than 4 cm is low and so they can be followed up with annual ultrasound scans. AAAs with a diameter between 4.0 and 5.5 cm need to be followed up every 3 months. If the diameter is greater than 5.5 cm elective intervention is required unless the aneurysm is rapidly expanding (>1 cm/year), tender or symptomatic, in which case early repair is indicated. The mortality of elective repair of AAA is 5% as compared to a mortality of up to 50% in emergency cases, highlighting the importance of close monitoring and follow-up of even incidental AAAs."
+        },
+        {
+            "id": 41,
+            "question_type": "mcq",
+            "question": "A 34-year-old man is brought to the emergency department. Three days ago he suffered an insect bite to the upper leg; he is now complaining of severe pain in the thigh, fever and vomiting. On examination of the thigh, there is marked, spreading erythema with areas of blistering and skin necrosis.\nWhich of the following is the best course of management?",
+            "options": [
+                "A. Intravenous antibiotics alone",
+                "B. Intravenous antibiotics and surgical debridement",
+                "C. Intravenous steroids",
+                "D. Oral antibiotics",
+                "E. Skin biopsy"
+            ],
+            "answer": "B",
+            "explanation": "This patient has necrotizing fasciitis, a rare but life-threatening soft tissue infection which spreads rapidly across fascial planes leading to oedema, vascular occlusion and tissue necrosis. The most common organisms responsible are the group A beta haemolytic streptococci, although other bacteria (Staphylococcus aureus, E. coli) may be isolated and some cases are polymicrobial in origin. Necrotizing fasciitis can occur after surgery or minor trauma, or the cause may be unknown. Risk factors include immunosuppression and diabetes mellitus. These cases present acutely with severe pain, systemic upset and progressive tissue destruction. Intravenous antibiotics, together with debridement of necrotic tissue, are required as soon as possible to prevent septicaemia, amputation and death. Mortality is around 25%. Polymicrobial necrotizing fasciitis of the scrotum, penis or perianal area is known as Fournier's gangrene."
+        },
+        {
+            "id": 42,
+            "question_type": "mcq",
+            "question": "A 56-year-old man presents to the emergency department with a 3-hour history of severe abdominal pain and vomiting. On examination, the abdomen is rigid. A CT scan confirms free air in the peritoneum and a perforation of a sigmoid diverticulum.\nWhat is the most appropriate operation?",
+            "options": [
+                "A. Abdominoperineal resection",
+                "B. Extended right hemicolectomy",
+                "C. Hartmann procedure",
+                "D. Left hemicolectomy",
+                "E. Right hemicolectomy"
+            ],
+            "answer": "C",
+            "explanation": "This man has developed peritonitis following perforation of a diverticulum. He will require an appropriate resection with a delayed anastomosis, known as Hartmann procedure. Hartmann procedure involves resection of the rectosigmoid colon with closure of the rectal stump and formation of a colostomy. This operation avoids the potential complications of forming an anastomosis under sub-optimal emergency conditions, when there is a greater risk of post-operative anastomosis breakdown. The colostomy can then be reversed at a later date. For descriptions of the other colorectal operations listed, see the question 'Colorectal operations (1)’. Henri Albert Hartmann, French surgeon (1860–1952)."
+        },
+        {
+            "id": 43,
+            "question_type": "mcq",
+            "question": "A 59-year-old woman has recently had a resection of a sigmoid adenocarcinoma. The pathology report said that the tumour invaded through the bowel wall but there was no evidence of lymph node involvement.\nWhich of the following best describes this stage of tumour?",
+            "options": [
+                "A. Dukes A",
+                "B. Dukes B",
+                "C. Dukes C1",
+                "D. Dukes C2",
+                "E. Dukes D"
+            ],
+            "answer": "B",
+            "explanation": "The Dukes system of grading colorectal cancer was originally divided into stages A, B and C. The modified Dukes system added a 'D stage', which describes the presence of distant metastases.\nDukes A → confined to the bowel wall\nDukes B → invade through the bowel wall but there is no lymph node involvement\nDukes C → invade the bowel wall and involve lymph nodes\nC1 = apical node not involved\nC2 = apical node involved\nDukes D → distal metastases present\nOther examples of staging systems include:\nAnn Arbor → lymphoma\nBreslow → malignant melanoma\nGleason → prostate cancer\nCuthbert Dukes, English pathologist (1890–1977)."
+        },
+        {
+            "id": 44,
+            "question_type": "mcq",
+            "question": "A 37-year-old woman presents with a 2-day history of increasing pain and swelling of the right middle finger. She tells you she sustained a minor cut to the inner surface of the finger 4 days ago. On examination, the finger is grossly swollen, red and held in the flexed position.\nWhich of the following is the most likely diagnosis?",
+            "options": [
+                "A. Fascial space infection",
+                "B. Felon",
+                "C. Infective tenosynovitis",
+                "D. Paronychia",
+                "E. Whitlow"
+            ],
+            "answer": "C",
+            "explanation": "Infective tenosynovitis describes the infection of the tendon sheath, usually caused by direct penetrating trauma. The cardinal features of tendon sheath infections are summarized by Kanavel signs: (1) tenderness over the flexor sheath; (2) pain on passive extension; (3) flexed posture of the digit; and (4) fusiform swelling of the digit. The tendon sheaths of the thumb and little finger communicate with the radial and ulna bursa respectively, so infection of these sheaths will spread to the respective bursa. In at least 50% of people there is communication between the ulna and radial bursa, providing a further route of spread for infection (horseshoe tenosynovitis). Treatment may initially be with a period of intravenous antibiotics but drainage must not be delayed if there is no improvement. Fascial space infections may affect any of the four potential spaces/compartments within the hand: the dorsal subaponeurotic space, the subfascial web space, the thenar space and the mid-palmar space. Infections within the former two compartments present with pain and swelling on the dorsum of the hand. Thenar space infections present with pain and swelling over the thenar eminence (lateral half of the palm) and the thumb will be flexed and abducted. Mid palmar infections present with swelling and tenderness in the centre of the palm, and a loss in the concavity of the palm will be apparent. Treatment is initially with antibiotics and elevation, but if there is poor response then incision and drainage is required. Paronychia is an infection which occurs between the lateral nail fold and the pulp of the finger. It presents with localized pain and swelling. Infection may track to form a subungual abscess (infection between the nail plate and nail bed). Paronychia can result following minor injury while cutting nails, prolonged submersion in water and covering up of the digits for excessive periods of time. Treatment is with either antibiotics or antifungals as indicated; sometimes drainage is required. A felon is an infection within the closed space of the pulp of the finger. As compartments within the distal phalanx are small, increased pressure within these spaces caused by ongoing infection can lead to necrosis of the skin and finger pulp. Infection is usually the result of minor cuts. Treatment is with antibiotics and surgical decompression of any abscess. A whitlow is an infection of the skin and fibro-fatty pulp of the finger caused by the herpes simplex virus. In the initial stages, the tip of the finger is red and exquisitely painful, and this precedes the formation of vesicles. Treatment is with antivirals. Paronychia, from Greek para = next to + onyx = nail. Allan Buckner Kanavel, American surgeon (1874–1938)."
+        },
+        {
+            "id": 45,
+            "question_type": "mcq",
+            "question": "A 27-year-old man presents to the emergency department following an episode of vomiting blood. On examination he is haemodynamically stable and is noted to have multiple freckles around his lips and mouth. A subsequent endoscopy demonstrates multiple polyps throughout the duodenum which are confirmed as benign.\nWhat is the most likely morphology of the polyps?",
+            "options": [
+                "A. Adenomatous polyp",
+                "B. Hamartomatous polyp",
+                "C. Juvenile polyp",
+                "D. Metaplastic polyp",
+                "E. Pseudo-polyp"
+            ],
+            "answer": "B",
+            "explanation": "The association of circumoral freckling with multiple duodenal polyps is known as Peutz-Jeghers syndrome, a rare autosomal dominant condition. These polyps are benign hamartomas (a growth that is made up of the same tissues from which it arises). Johannes Laurentius Peutz, Dutch physician (1886–1957). Harold Joseph Jeghers, American physician (1904–1990)."
+        },
+        {
+            "id": 46,
+            "question_type": "mcq",
+            "question": "A 64-year-old man presents to the GP practice with a 2-month history of intermittent episodes of lower back pain radiating to both legs on walking. His symptoms are relieved by sitting or leaning forward. He has no back pain at rest. Examination is unremarkable.\nWhich of the following is the most likely cause of his symptoms?",
+            "options": [
+                "A. Intermittent claudication",
+                "B. Lumbar spondylosis",
+                "C. Lumbar spondylolisthesis",
+                "D. Spinal stenosis",
+                "E. Spinal tumour"
+            ],
+            "answer": "D",
+            "explanation": "Chronic back pain is the leading cause for time off work and causes significant disability. Causes of pain include trauma, degeneration, infection and malignancy. Spinal stenosis is the term given to narrowing of the spinal canal, most commonly caused by osteoarthritis. It may be thought of as a spinal claudication, as symptoms are caused by a lack of blood supply to the cauda equina in the restricted spinal canal. Symptoms are typically relieved by sitting or bending forwards, as these actions widen the spinal canal and help improve the circulation. Diagnosis is best made on MRI. Spondylosis is the most common cause of back pain and is attributable to osteoarthritic degenerative changes leading to loss of height of the vertebrae and displacement of the posterior facet joints. The lumbar spine is usually affected in the L5/S1 and the L4/L5 regions. Pain is characteristically aching in nature and worse in the mornings and following activity. Spondylolisthesis is the spontaneous displacement of a vertebral body upon the one below. It commonly occurs at the L5/S1 region then at the L4/L5 region. Displacement is usually anterior. Back pain is usually worse while standing. A 'step' deformity may be felt on palpating down the spine. Ankylosing spondylitis is a seronegative inflammatory degenerative condition which largely affects the spine and sacroiliac joints. It is most commonly found in Caucasian males and associated with HLA-B27. Progressive fusion of the spine causes a 'bamboo spine' appearance on X-ray. Spinal tumours in adults are mostly metastatic in origin (e.g. from breast, lung and prostate). Pain is usually unremitting and associated with systemic features such as weight loss and night sweats."
+        },
+        {
+            "id": 47,
+            "question_type": "mcq",
+            "question": "A 24-year-old woman with no past medical history of note comes to see you at the GP practice complaining of a 2-day history of urinary frequency together with a stinging sensation on passing urine. She is systemically well.\nWhich of the following organisms is most likely to have caused her symptoms?",
+            "options": [
+                "A. Candida albicans",
+                "B. Escherichia coli",
+                "C. Herpes simplex",
+                "D. Proteus mirabilis",
+                "E. Pseudomonas aeruginosa"
+            ],
+            "answer": "B",
+            "explanation": "Cystitis usually presents with dysuria, frequency of urine, suprapubic discomfort and fever. Cystitis is much more common in women due to their shorter urethra. Escherichia coli, usually found in the bowel, is the most common pathogen responsible for uncomplicated cystitis in the UK (75%). Cystitis can be confirmed by the presence of leucocytes, nitrites and blood in the urine. A mid stream urine (MSU) sample should be sent to microbiology for microscopy, culture and sensitivity. A positive culture is when more than 105 of a single organism are grown per millilitre of urine. The growth of mixed bacterial species usually indicates contamination of the sample. Antibiotic treatment should be guided by local patterns of bacterial resistance and MSU sensitivity results. Uncomplicated cystitis is usually treated with a 3–5-day course of trimethoprim. Other antibiotics that are used to treat cystitis include amoxicillin, ciprofloxacin, cefradine and nitrofurantoin. Patients who are susceptible to recurrent urinary tract infection can be prescribed prophylactic antibiotics (e.g. 100 mg of trimethoprim once nightly). Patients should be advised to drink lots of fluids and avoid dehydration. UTIs in men and children require further investigation to rule out an underlying structural problem."
+        },
+        {
+            "id": 48,
+            "question_type": "mcq",
+            "question": "A 27-year-old man was admitted to the ward after sustaining a right tibia and fibula fracture in a road traffic accident. He is currently in an above-knee backslab with the leg resting on a pillow, awaiting consultant review in the morning. You are called to the ward by the nurse saying the patient is in severe pain despite having morphine 2 hours ago. When you arrive at the ward the patient is crying in pain and complaining of an inability to move his toes.\nWhich of the following is the most appropriate measure to take?",
+            "options": [
+                "A. Administer further analgesia and call senior orthopaedic doctor on call",
+                "B. Complete the cast to give more stability to the fracture",
+                "C. Elevate the limb further",
+                "D. Prescribe more regular analgesia and review in the morning",
+                "E. Remove backslab as a temporary measure and review in the morning"
+            ],
+            "answer": "A",
+            "explanation": "This patient appears to be developing compartment syndrome, an orthopaedic emergency commonly seen with long bone fractures, either secondary to the fracture itself or caused by a tight plaster cast. The senior orthopaedic doctor on call must see the patient. Compartment syndrome is caused by increased pressure in the osteofascial compartment leading to swelling, venous engorgement and later to arterial compromise and ischaemia. If left untreated, necrosis can develop within 12 hours leading to muscle death, contractures and irreversible nerve injury. Initially the only finding is increased pain that is out of proportion to the injury, with increase in pain on passive extension of the muscle compartments and some sensory deficit. Pallor, pulselessness and paralysis are late features of compartment syndrome and diagnosis must not be delayed until these features are present. Urgent decompression of the limb is required, and if compartment pressures are greater than 40 mmHg urgent fasciotomy is indicated."
+        },
+        {
+            "id": 49,
+            "question_type": "mcq",
+            "question": "A 17-year-old boy presents with severe left shoulder pain following a tackle during a rugby match. On examination, the contour of the left shoulder is flattened and the humeral head is palpable just under the clavicle. There is also sensory loss at the upper lateral aspect of the arm.\nWhich nerve has most likely been affected?",
+            "options": [
+                "A. Accessory nerve",
+                "B. Axillary nerve",
+                "C. Long thoracic nerve",
+                "D. Median nerve",
+                "E. Radial nerve"
+            ],
+            "answer": "B",
+            "explanation": "This boy presents with an anterior shoulder dislocation. The axillary nerve wraps around the surgical neck of the humerus and is damaged in 5–10% of anterior dislocations. It can also be affected in fractures of the humeral neck. The axillary nerve supplies the deltoid muscle and gives rise to the lateral cutaneous nerve of the arm (which supplies sensation to the upper, outer arm). Axillary nerve lesions result in anaesthesia in the upper, outer arm (the 'regimental badge patch' area) and paralysis of the deltoid muscle, resulting in limited arm abduction. While the arm cannot be abducted, if it is passively lifted above 90°, the arm can be held in abduction due to the action of supraspinatus. The spinal root of the accessory nerve (cranial nerve XI) supplies the trapezius and sternocleidomastoid muscles. It can be damaged during dissections of the neck. Features of accessory nerve palsy include weakness of shoulder shrugging and the inability to turn the head against a force applied by the examiner. The long thoracic nerve of Bell supplies serratus anterior, a muscle which helps stabilize the scapula. This nerve can be damaged during breast and axillary surgery, radiotherapy and axillary trauma. Lesions of the long thoracic nerve result in winging of the scapula, where the scapula becomes prominent on pushing the arms against resistance. Sir Charles Bell, Scottish anatomist and surgeon (1774–1842)."
+        },
+        {
+            "id": 50,
+            "question_type": "mcq",
+            "question": "A 27-year-old man is admitted to the high dependency ward having sustained a significant head injury. Two days later he starts vomiting blood.\nWhich of the following is the most likely cause?",
+            "options": [
+                "A. Curling ulcer",
+                "B. Cushing ulcer",
+                "C. Decubitus ulcer",
+                "D. Dendritic ulcer",
+                "E. Martorell's ulcer"
+            ],
+            "answer": "B",
+            "explanation": "A Cushing ulcer is the development of acute peptic ulceration in the setting of raised intracranial pressure, e.g. after intracranial bleed or traumatic brain injury. These ulcers most commonly develop within the antrum of the stomach, although the first part of the duodenum may also be affected. It is thought that ulceration is secondary to stimulation of the vagus nerve within the brain, leading to increased gastric acid secretion. The development of Cushing ulcers is known as the Rokitansky-Cushing Syndrome. A Curling ulcer is an acute ulcer of the duodenum that occurs a few days following severe burns. The reduced plasma volume following burns injury results in necrosis of the gastric mucosa, with ensuing ulceration and perforation. Decubitus ulcer is another name for a pressure sore. These develop secondary to continued pressure on the skin from lack of mobility, leading to skin necrosis and breakdown. They commonly occur over bony prominences, e.g. ischial tuberosities, sacrum and malleoli. Dendritic ulcers are painful corneal ulcers caused by herpes simplex type 1. They are visible with fluorescein staining and have a characteristic 'branched' appearance, giving them their name. A Martorell ulcer is an ischaemic ulcer of the leg above the ankle that occurs secondary to hypertension. Decubitus, from Latin decumbere = to lie down, related to cubitum = elbow (lie on your elbow). Dendritic, from Greek dendron = tree (as in branched). Thomas Blizard Curling, British surgeon (1811–1888). Harvey Cushing, American neurosurgeon (1869–1939). Fernando Martorell Otzet, Spanish cardiologist (1906–1984). Karl von Rokitansky, Austrian pathologist (1804–1878)."
+        }
+    ]
+}
