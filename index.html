@@ -196,6 +196,9 @@ function decodeBase64Modern(str) {
 }
 
         document.addEventListener('DOMContentLoaded', () => {
+            // --- NEW: Variable to hold shared question ID for scrolling ---
+            let questionToScrollTo = null;
+
             // --- NEW: List of available JSON files ---
             const fileList = [
                 "Appendix_Common_instruments_used_in_general_surgery.json", "Chapter_01_Metabolic_response_to_trauma.json",
@@ -375,7 +378,7 @@ function decodeBase64Modern(str) {
                         });
                     })
                     .then(data => {
-                        renderQuiz(data);
+                        renderQuiz(data, filename); // MODIFIED: Pass filename to renderQuiz
                     })
                     .catch(error => {
                         alert(`Error loading quiz file: ${error.message}`);
@@ -387,6 +390,25 @@ function decodeBase64Modern(str) {
             // --- NEW: Call the function to build the dropdown on page load ---
             populateFileSelector();
 
+            // --- NEW: Handle incoming GET parameters for sharing ---
+            const urlParams = new URLSearchParams(window.location.search);
+            const chapterParam = urlParams.get('chapter');
+            const questionParam = urlParams.get('question');
+
+            if (chapterParam) {
+                // Check if the chapter exists in the file list to prevent errors
+                if (fileList.includes(chapterParam)) {
+                    fileSelector.value = chapterParam;
+                    if (questionParam) {
+                        questionToScrollTo = questionParam;
+                    }
+                    // Programmatically trigger the file load
+                    fileSelector.dispatchEvent(new Event('change'));
+                } else {
+                    console.warn(`Chapter "${chapterParam}" from URL parameter not found.`);
+                }
+            }
+
 
             // --- ALL FUNCTIONS BELOW THIS LINE ARE UNCHANGED ---
 
@@ -395,13 +417,14 @@ function decodeBase64Modern(str) {
                 questionsListEl.innerHTML = '';
             }
 
-            function renderQuiz(data) {
+            function renderQuiz(data, filename) { // MODIFIED: accept filename
                 clearQuiz();
                 chapterTitleEl.innerHTML = data.chapter_name || 'Untitled Chapter';
                 
                 data.questions.forEach(q => {
                     const questionCard = document.createElement('div');
                     questionCard.className = 'question-card';
+                    questionCard.id = `question-${q.id}`; // NEW: Add ID for scrolling
                     
                     const questionId = q.id;
                     const questionType = q.question_type;
@@ -421,6 +444,26 @@ function decodeBase64Modern(str) {
                     const toggleButton = document.createElement('button');
                     toggleButton.className = 'toggle-answer-btn';
                     toggleButton.textContent = 'Show Answer & Explanation';
+
+                    // --- NEW: Create and configure the Share button ---
+                    const shareButton = document.createElement('button');
+                    shareButton.className = 'toggle-answer-btn'; // Reuse class for consistent styling
+                    shareButton.textContent = 'Share';
+                    shareButton.style.marginLeft = '10px'; // Add space between buttons
+
+                    shareButton.addEventListener('click', () => {
+                        const shareUrl = `${window.location.origin}${window.location.pathname}?chapter=${encodeURIComponent(filename)}&question=${encodeURIComponent(q.id)}`;
+                        navigator.clipboard.writeText(shareUrl).then(() => {
+                            const originalText = shareButton.textContent;
+                            shareButton.textContent = 'Copied Link!';
+                            setTimeout(() => {
+                                shareButton.textContent = originalText;
+                            }, 2000);
+                        }).catch(err => {
+                            console.error('Failed to copy link: ', err);
+                            alert('Could not copy link to clipboard.');
+                        });
+                    });
                     
                     const answerExplanationContainer = document.createElement('div');
                     answerExplanationContainer.className = 'answer-explanation';
@@ -441,7 +484,8 @@ function decodeBase64Modern(str) {
                     
                     answerExplanationContainer.append(answerTitle, answerContent, explanationTitle, explanationContent);
                     
-                    questionCard.append(questionHeader, questionText, optionsContainer, toggleButton, answerExplanationContainer);
+                    // MODIFIED: Append the new shareButton
+                    questionCard.append(questionHeader, questionText, optionsContainer, toggleButton, shareButton, answerExplanationContainer);
                     questionsListEl.append(questionCard);
 
                     toggleButton.addEventListener('click', () => {
@@ -456,6 +500,24 @@ function decodeBase64Modern(str) {
                         }
                     });
                 });
+
+                // --- NEW: Scrolling and highlighting logic for shared questions ---
+                if (questionToScrollTo) {
+                    const targetQuestion = document.getElementById(`question-${questionToScrollTo}`);
+                    if (targetQuestion) {
+                        // Timeout allows the browser to render before we scroll
+                        setTimeout(() => {
+                            targetQuestion.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                            // Highlight the card temporarily for visual feedback
+                            targetQuestion.style.transition = 'border 0.3s ease-in-out';
+                            targetQuestion.style.border = '2px solid var(--accent-color)';
+                            setTimeout(() => {
+                                targetQuestion.style.border = '1px solid var(--border-color)';
+                            }, 3500);
+                        }, 100);
+                    }
+                    questionToScrollTo = null; // Reset variable after scrolling
+                }
             }
 
             function renderOptions(q) {
